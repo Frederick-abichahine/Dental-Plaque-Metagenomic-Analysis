@@ -1,0 +1,31 @@
+magID	sampleID	sex	bmi	age	smoking_state	study_group
+M1095550480	BP01006	female	19.53125	87	non-smoker	periimplantitis
+M1256666363	BP01020	male	26.2965668371074	66	ex-smoker	mucositis
+M1456649387	BP01053	male	22.4913494809689	70	ex-smoker	mucositis
+M1729578718	BP01058	male	23.3747260774288	41	smoker	periimplantitis
+M1834217658	BP02019	female	25.7116620752984	77	smoker	mucositis
+M1248619108	BP02036	female	20.7612456747405	58	smoker	mucositis
+M1902817773	BP02058	female	17.2635445362718	62	non-smoker	mucositis
+M1670701432	BP03016	female	23.3066800530675	54	non-smoker	periimplantitis
+M1011017846	BP03017	female	19.1326530612245	37	non-smoker	mucositis
+M1545738658	BP03027	female	24.9107674003569	75	non-smoker	mucositis
+M1640524367	BP03028	female	19.53125	73	non-smoker	periimplantitis
+M1755747002	BP04020	male	27.1314117909924	61	smoker	periimplantitis
+M1276965216	BP04021	female	28.4444444444444	57	non-smoker	periimplantitis
+M1470560074	BP05009	female	24.2214532871972	62	smoker	healthy
+M1645995039	BP06013	female	28.515625	63	ex-smoker	healthy
+M1351804467	BP07008	female	17.3611111111111	54	non-smoker	healthy
+M1337686151	BP07029	female	19.7776986669831	67	smoker	mucositis
+M1706993039	BP08040	female	18.491124260355	66	non-smoker	mucositis
+M1832718563	BP09021	female	22.2136784997223	76	non-smoker	periimplantitis
+M1987574530	BP09022	male		63	non-smoker	periimplantitis
+M1327201444	BP11007	male	24.2122933884298	72	smoker	periimplantitis
+M1755613363	BP11016	female	24.9107674003569	69	non-smoker	periimplantitis
+M1809960828	BP11030	male	23.6712536295922	53	non-smoker	healthy
+M1659821839	BP12029	female	25.78125	81	non-smoker	mucositis
+M1791056217	BP12045	male	24.8583651289166	48	non-smoker	mucositis
+M1348880010	BP12048	male	24.2424242424242	70	ex-smoker	mucositis
+M1880016536	BP12052	female	26.2975778546713	64	non-smoker	periimplantitis
+M1313391652	BP14005	male		78	non-smoker	periimplantitis
+M1169992633	BP16020	female	27.5482093663912	50	non-smoker	mucositis
+M1934342320	BP16037	female	22.3081499107674	56	smoker	periimplantitis
