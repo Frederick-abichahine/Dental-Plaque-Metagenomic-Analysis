@@ -1,0 +1,76 @@
+#url	filename
+#
+#https://zenodo.org/record/5013768/files/SGB.Dec20.md5?download=1	SGB.Dec20.md5
+#https://zenodo.org/record/5013768/files/SGB.Dec20.tar?download=1	SGB.Dec20.tar
+#https://zenodo.org/record/5013768/files/SGB.Dec20.txt.bz2?download=1	SGB.Dec20.txt.bz2
+#
+#https://zenodo.org/record/5012080/files/SGB.Nov20.md5?download=1	SGB.Nov20.md5
+#https://zenodo.org/record/5012080/files/SGB.Nov20.tar?download=1	SGB.Nov20.tar
+#https://zenodo.org/record/5012080/files/SGB.Nov20.txt.bz2?download=1	SGB.Nov20.txt.bz2
+#
+#https://zenodo.org/record/5012925/files/SGB.Sep20.md5?download=1	SGB.Sep20.md5
+#https://zenodo.org/record/5012925/files/SGB.Sep20.tar?download=1	SGB.Sep20.tar
+#https://zenodo.org/record/5012925/files/SGB.Sep20.txt.bz2?download=1	SGB.Sep20.txt.bz2
+#
+https://zenodo.org/record/4006520/files/SGB.Jul20.md5?download=1	SGB.Jul20.md5
+https://zenodo.org/record/4006520/files/SGB.Jul20.tar?download=1	SGB.Jul20.tar
+https://zenodo.org/record/4006520/files/SGB.Jul20.txt.bz2?download=1	SGB.Jul20.txt.bz2
+#
+https://zenodo.org/record/4006485/files/SGB.Jan20.md5?download=1	SGB.Jan20.md5
+https://zenodo.org/record/4006485/files/SGB.Jan20.tar?download=1	SGB.Jan20.tar
+https://zenodo.org/record/4006485/files/SGB.Jan20.txt.bz2?download=1	SGB.Jan20.txt.bz2
+#
+https://zenodo.org/record/4006448/files/SGB.Dec19.md5?download=1	SGB.Dec19.md5
+https://zenodo.org/record/4006448/files/SGB.Dec19.tar?download=1	SGB.Dec19.tar
+https://zenodo.org/record/4006448/files/SGB.Dec19.txt.bz2?download=1	SGB.Dec19.txt.bz2
+#
+https://zenodo.org/record/4006368/files/SGB.Nov19.md5?download=1	SGB.Nov19.md5
+https://zenodo.org/record/4006368/files/SGB.Nov19.tar?download=1	SGB.Nov19.tar
+https://zenodo.org/record/4006368/files/SGB.Nov19.txt.bz2?download=1	SGB.Nov19.txt.bz2
+#
+https://zenodo.org/record/4006118/files/SGB.Oct19.md5?download=1	SGB.Oct19.md5
+https://zenodo.org/record/4006118/files/SGB.Oct19.tar?download=1	SGB.Oct19.tar
+https://zenodo.org/record/4006118/files/SGB.Oct19.txt.bz2?download=1	SGB.Oct19.txt.bz2
+#
+https://zenodo.org/record/4006040/files/SGB.Sep19.md5?download=1	SGB.Sep19.md5
+https://zenodo.org/record/4006040/files/SGB.Sep19.tar?download=1	SGB.Sep19.tar
+https://zenodo.org/record/4006040/files/SGB.Sep19.txt.bz2?download=1	SGB.Sep19.txt.bz2
+#
+https://zenodo.org/record/4005993/files/SGB.Aug19.md5?download=1	SGB.Aug19.md5
+https://zenodo.org/record/4005993/files/SGB.Aug19.tar?download=1	SGB.Aug19.tar
+https://zenodo.org/record/4005993/files/SGB.Aug19.txt.bz2?download=1	SGB.Aug19.txt.bz2
+#
+https://zenodo.org/record/4005949/files/SGB.Jul19.md5?download=1	SGB.Jul19.md5
+https://zenodo.org/record/4005949/files/SGB.Jul19.tar?download=1	SGB.Jul19.tar
+https://zenodo.org/record/4005949/files/SGB.Jul19.txt.bz2?download=1	SGB.Jul19.txt.bz2
+#
+https://zenodo.org/record/4005841/files/SGB.Jun19.md5?download=1	SGB.Jun19.md5
+https://zenodo.org/record/4005841/files/SGB.Jun19.tar?download=1	SGB.Jun19.tar
+https://zenodo.org/record/4005841/files/SGB.Jun19.txt.bz2?download=1	SGB.Jun19.txt.bz2
+#
+https://zenodo.org/record/4005804/files/SGB.May19.md5?download=1	SGB.May19.md5
+https://zenodo.org/record/4005804/files/SGB.May19.tar?download=1	SGB.May19.tar
+https://zenodo.org/record/4005804/files/SGB.May19.txt.bz2?download=1	SGB.May19.txt.bz2
+#
+https://zenodo.org/record/4005775/files/SGB.Jan19.md5?download=1	SGB.Jan19.md5
+https://zenodo.org/record/4005775/files/SGB.Jan19.tar?download=1	SGB.Jan19.tar
+https://zenodo.org/record/4005775/files/SGB.Jan19.txt.bz2?download=1	SGB.Jan19.txt.bz2
+#
+http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/CMG2425.md5	CMG2425.md5
+http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/CMG2425.tar	CMG2425.tar
+http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/CMG2425.txt.bz2	CMG2425.txt.bz2
+#
+#http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/CMG2324.md5	CMG2324.md5
+#http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/CMG2324.tar	CMG2324.tar
+#http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/CMG2324.txt.bz2	CMG2324.txt.bz2
+#
+#https://www.dropbox.com/s/kd3swo26rb9ywpf/CMG2122.md5?dl=1	CMG2122.md5
+#https://www.dropbox.com/s/a2mg3smanw9gtd5/CMG2122.tar?dl=1	CMG2122.tar
+#https://www.dropbox.com/s/3tspkdtyyzcqpy1/CMG2122.txt.bz2?dl=1	CMG2122.txt.bz2
+#
+http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/tutorial_ethiopia.md5	tutorial_ethiopia.md5
+http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/tutorial_ethiopia.tar	tutorial_ethiopia.tar
+http://cmprod1.cibio.unitn.it/databases/PhyloPhlAn/tutorial_ethiopia.txt.bz2	tutorial_ethiopia.txt.bz2
+#https://zenodo.org/record/4005762/files/tutorial_ethiopia.md5?download=1	tutorial_ethiopia.md5
+#https://zenodo.org/record/4005762/files/tutorial_ethiopia.tar?download=1	tutorial_ethiopia.tar
+#https://zenodo.org/record/4005762/files/tutorial_ethiopia.txt.bz2?download=1	tutorial_ethiopia.txt.bz2
