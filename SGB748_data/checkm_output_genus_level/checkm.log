@@ -1,0 +1,32 @@
+[2025-04-01 19:15:13] INFO: CheckM v1.2.3
+[2025-04-01 19:15:13] INFO: checkm taxonomy_wf genus Peptostreptococcus mags/ checkm_output_genus_level/ -t 8
+[2025-04-01 19:15:13] INFO: CheckM data: /home/frederick/anaconda3/envs/checkm/checkm_data
+[2025-04-01 19:15:13] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2025-04-01 19:15:17] INFO: Marker set for Peptostreptococcus contains 839 marker genes arranged in 240 sets.
+[2025-04-01 19:15:17] INFO: Marker set inferred from 3 reference genomes.
+[2025-04-01 19:15:17] INFO: Marker set for Peptostreptococcaceae contains 287 marker genes arranged in 151 sets.
+[2025-04-01 19:15:17] INFO: Marker set inferred from 184 reference genomes.
+[2025-04-01 19:15:17] INFO: Marker set for Clostridiales contains 202 marker genes arranged in 114 sets.
+[2025-04-01 19:15:17] INFO: Marker set inferred from 395 reference genomes.
+[2025-04-01 19:15:17] INFO: Marker set for Clostridia contains 196 marker genes arranged in 110 sets.
+[2025-04-01 19:15:17] INFO: Marker set inferred from 446 reference genomes.
+[2025-04-01 19:15:17] INFO: Marker set for Firmicutes contains 172 marker genes arranged in 99 sets.
+[2025-04-01 19:15:17] INFO: Marker set inferred from 1349 reference genomes.
+[2025-04-01 19:15:17] INFO: Marker set for Bacteria contains 104 marker genes arranged in 58 sets.
+[2025-04-01 19:15:17] INFO: Marker set inferred from 5449 reference genomes.
+[2025-04-01 19:15:17] INFO: Marker set written to: checkm_output_genus_level/Peptostreptococcus.ms
+[2025-04-01 19:15:17] INFO: { Current stage: 0:00:04.146 || Total: 0:00:04.146 }
+[2025-04-01 19:15:17] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2025-04-01 19:15:19] INFO: Identifying marker genes in 30 bins with 8 threads:
+[2025-04-01 19:32:34] INFO: Saving HMM info to file.
+[2025-04-01 19:32:36] INFO: { Current stage: 0:17:18.704 || Total: 0:17:22.851 }
+[2025-04-01 19:32:36] INFO: Parsing HMM hits to marker genes:
+[2025-04-01 19:32:45] INFO: Aligning marker genes with multiple hits in a single bin:
+[2025-04-01 19:32:52] INFO: { Current stage: 0:00:15.480 || Total: 0:17:38.332 }
+[2025-04-01 19:32:52] INFO: Calculating genome statistics for 30 bins with 8 threads:
+[2025-04-01 19:32:53] INFO: { Current stage: 0:00:00.968 || Total: 0:17:39.301 }
+[2025-04-01 19:32:53] INFO: [CheckM - qa] Tabulating genome statistics.
+[2025-04-01 19:32:53] INFO: Calculating AAI between multi-copy marker genes.
+[2025-04-01 19:32:54] INFO: Reading HMM info from file.
+[2025-04-01 19:32:55] INFO: Parsing HMM hits to marker genes:
+[2025-04-01 19:33:05] INFO: { Current stage: 0:00:12.813 || Total: 0:17:52.114 }
