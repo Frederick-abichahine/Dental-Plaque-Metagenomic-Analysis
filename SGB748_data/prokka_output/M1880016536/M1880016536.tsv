@@ -1,0 +1,1897 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JDHLPIAI_00001	gene	1032				
+JDHLPIAI_00001	CDS	1032				hypothetical protein
+JDHLPIAI_00002	gene	834				
+JDHLPIAI_00002	CDS	834				hypothetical protein
+JDHLPIAI_00003	gene	732				
+JDHLPIAI_00003	CDS	732				hypothetical protein
+JDHLPIAI_00004	gene	1218	dctA			
+JDHLPIAI_00004	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+JDHLPIAI_00005	gene	912	pyrB			
+JDHLPIAI_00005	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+JDHLPIAI_00006	gene	690	pyrK			
+JDHLPIAI_00006	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+JDHLPIAI_00007	gene	903	pyrD			
+JDHLPIAI_00007	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+JDHLPIAI_00008	gene	582	pyrE			
+JDHLPIAI_00008	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+JDHLPIAI_00009	gene	774				
+JDHLPIAI_00009	CDS	774				hypothetical protein
+JDHLPIAI_00010	gene	675	ecfT_1			
+JDHLPIAI_00010	CDS	675	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+JDHLPIAI_00011	gene	1413	ykoD_1			
+JDHLPIAI_00011	CDS	1413	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+JDHLPIAI_00012	gene	588				
+JDHLPIAI_00012	CDS	588				hypothetical protein
+JDHLPIAI_00013	gene	1743	msbA_1			
+JDHLPIAI_00013	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+JDHLPIAI_00014	gene	1719				
+JDHLPIAI_00014	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JDHLPIAI_00015	gene	1740				
+JDHLPIAI_00015	CDS	1740				hypothetical protein
+JDHLPIAI_00016	gene	600				
+JDHLPIAI_00016	CDS	600				hypothetical protein
+JDHLPIAI_00017	gene	672				
+JDHLPIAI_00017	CDS	672				hypothetical protein
+JDHLPIAI_00018	gene	354				
+JDHLPIAI_00018	CDS	354				hypothetical protein
+JDHLPIAI_00019	gene	450				
+JDHLPIAI_00019	CDS	450				hypothetical protein
+JDHLPIAI_00020	gene	1083				
+JDHLPIAI_00020	CDS	1083				hypothetical protein
+JDHLPIAI_00021	gene	495	sigM_1			
+JDHLPIAI_00021	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+JDHLPIAI_00022	gene	1269				
+JDHLPIAI_00022	CDS	1269				hypothetical protein
+JDHLPIAI_00023	gene	549				
+JDHLPIAI_00023	CDS	549				hypothetical protein
+JDHLPIAI_00024	gene	2190				
+JDHLPIAI_00024	CDS	2190				hypothetical protein
+JDHLPIAI_00025	gene	282				
+JDHLPIAI_00025	CDS	282				hypothetical protein
+JDHLPIAI_00026	gene	846	artP_1			
+JDHLPIAI_00026	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+JDHLPIAI_00027	gene	675	artQ_1			
+JDHLPIAI_00027	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+JDHLPIAI_00028	gene	744	artM_1			
+JDHLPIAI_00028	CDS	744	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+JDHLPIAI_00029	gene	606	rpsD			
+JDHLPIAI_00029	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+JDHLPIAI_00030	gene	885	dapA			
+JDHLPIAI_00030	CDS	885	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+JDHLPIAI_00031	gene	1194	sdaB			
+JDHLPIAI_00031	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+JDHLPIAI_00032	gene	477				
+JDHLPIAI_00032	CDS	477				hypothetical protein
+JDHLPIAI_00033	gene	540				
+JDHLPIAI_00033	CDS	540				hypothetical protein
+JDHLPIAI_00034	gene	438				
+JDHLPIAI_00034	CDS	438				hypothetical protein
+JDHLPIAI_00035	gene	849				
+JDHLPIAI_00035	CDS	849				hypothetical protein
+JDHLPIAI_00036	gene	996	rhaR_1			
+JDHLPIAI_00036	CDS	996	rhaR_1			HTH-type transcriptional activator RhaR
+JDHLPIAI_00037	gene	1758	hepA			
+JDHLPIAI_00037	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+JDHLPIAI_00038	gene	1725				
+JDHLPIAI_00038	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+JDHLPIAI_00039	gene	582				
+JDHLPIAI_00039	CDS	582				hypothetical protein
+JDHLPIAI_00040	gene	690	ecfT_2			
+JDHLPIAI_00040	CDS	690	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+JDHLPIAI_00041	gene	1371	ykoD_2			
+JDHLPIAI_00041	CDS	1371	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+JDHLPIAI_00042	gene	795	COQ5			
+JDHLPIAI_00042	CDS	795	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JDHLPIAI_00043	gene	876	hslO			
+JDHLPIAI_00043	CDS	876	hslO		COG1281	33 kDa chaperonin
+JDHLPIAI_00044	gene	735	rsuA			
+JDHLPIAI_00044	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+JDHLPIAI_00045	gene	1371	rlmCD			
+JDHLPIAI_00045	CDS	1371	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+JDHLPIAI_00046	gene	453				
+JDHLPIAI_00046	CDS	453				hypothetical protein
+JDHLPIAI_00047	gene	894				
+JDHLPIAI_00047	CDS	894				hypothetical protein
+JDHLPIAI_00048	gene	1023				
+JDHLPIAI_00048	CDS	1023				hypothetical protein
+JDHLPIAI_00049	gene	516				
+JDHLPIAI_00049	CDS	516				hypothetical protein
+JDHLPIAI_00050	gene	1011	lytC_1			
+JDHLPIAI_00050	CDS	1011	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JDHLPIAI_00051	gene	855				
+JDHLPIAI_00051	CDS	855				hypothetical protein
+JDHLPIAI_00052	gene	435				
+JDHLPIAI_00052	CDS	435				hypothetical protein
+JDHLPIAI_00053	gene	837				
+JDHLPIAI_00053	CDS	837				hypothetical protein
+JDHLPIAI_00054	gene	297				
+JDHLPIAI_00054	CDS	297				hypothetical protein
+JDHLPIAI_00055	gene	636				
+JDHLPIAI_00055	CDS	636				hypothetical protein
+JDHLPIAI_00056	gene	675				
+JDHLPIAI_00056	CDS	675				hypothetical protein
+JDHLPIAI_00057	gene	678				
+JDHLPIAI_00057	CDS	678				hypothetical protein
+JDHLPIAI_00058	gene	654				
+JDHLPIAI_00058	CDS	654				hypothetical protein
+JDHLPIAI_00059	gene	1188	norV			
+JDHLPIAI_00059	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+JDHLPIAI_00060	gene	552	bioY			
+JDHLPIAI_00060	CDS	552	bioY		COG1268	Biotin transporter BioY
+JDHLPIAI_00061	gene	825	aroF			
+JDHLPIAI_00061	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+JDHLPIAI_00062	gene	1824	aroB			
+JDHLPIAI_00062	CDS	1824	aroB	4.2.3.4		3-dehydroquinate synthase
+JDHLPIAI_00063	gene	852				
+JDHLPIAI_00063	CDS	852				hypothetical protein
+JDHLPIAI_00064	gene	1353	mepA_1			
+JDHLPIAI_00064	CDS	1353	mepA_1			Multidrug export protein MepA
+JDHLPIAI_00065	gene	678	srtA			
+JDHLPIAI_00065	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+JDHLPIAI_00066	gene	921				
+JDHLPIAI_00066	CDS	921				hypothetical protein
+JDHLPIAI_00067	gene	2241				
+JDHLPIAI_00067	CDS	2241				hypothetical protein
+JDHLPIAI_00068	gene	1128				
+JDHLPIAI_00068	CDS	1128				hypothetical protein
+JDHLPIAI_00069	gene	1143				
+JDHLPIAI_00069	CDS	1143				hypothetical protein
+JDHLPIAI_00070	gene	1677	fhs			
+JDHLPIAI_00070	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+JDHLPIAI_00071	gene	1239				
+JDHLPIAI_00071	CDS	1239				hypothetical protein
+JDHLPIAI_00072	gene	225				
+JDHLPIAI_00072	CDS	225				hypothetical protein
+JDHLPIAI_00073	gene	228				
+JDHLPIAI_00073	CDS	228				hypothetical protein
+JDHLPIAI_00074	gene	147				
+JDHLPIAI_00074	CDS	147				hypothetical protein
+JDHLPIAI_00075	gene	1473				
+JDHLPIAI_00075	CDS	1473				hypothetical protein
+JDHLPIAI_00076	gene	912				
+JDHLPIAI_00076	CDS	912				hypothetical protein
+JDHLPIAI_00077	gene	1821				
+JDHLPIAI_00077	CDS	1821				hypothetical protein
+JDHLPIAI_00078	gene	522	niaR			
+JDHLPIAI_00078	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+JDHLPIAI_00079	gene	774	dtd3			
+JDHLPIAI_00079	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+JDHLPIAI_00080	gene	1740				
+JDHLPIAI_00080	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JDHLPIAI_00081	gene	426				
+JDHLPIAI_00081	CDS	426				hypothetical protein
+JDHLPIAI_00082	gene	1968				
+JDHLPIAI_00082	CDS	1968				hypothetical protein
+JDHLPIAI_00083	gene	1284	brnQ_1			
+JDHLPIAI_00083	CDS	1284	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+JDHLPIAI_00084	gene	411				
+JDHLPIAI_00084	CDS	411				hypothetical protein
+JDHLPIAI_00085	gene	1338				
+JDHLPIAI_00085	CDS	1338		1.6.99.3		putative NADH oxidase
+JDHLPIAI_00086	gene	243				
+JDHLPIAI_00086	CDS	243				hypothetical protein
+JDHLPIAI_00087	gene	1077	lytC_2			
+JDHLPIAI_00087	CDS	1077	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JDHLPIAI_00088	gene	603				
+JDHLPIAI_00088	CDS	603				hypothetical protein
+JDHLPIAI_00089	gene	597				
+JDHLPIAI_00089	CDS	597				hypothetical protein
+JDHLPIAI_00090	gene	1062				
+JDHLPIAI_00090	CDS	1062				hypothetical protein
+JDHLPIAI_00091	gene	2688				
+JDHLPIAI_00091	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+JDHLPIAI_00092	gene	330				
+JDHLPIAI_00092	CDS	330				hypothetical protein
+JDHLPIAI_00093	gene	1077	cshE			
+JDHLPIAI_00093	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+JDHLPIAI_00094	gene	1974	leuC			
+JDHLPIAI_00094	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+JDHLPIAI_00095	gene	1035	icd			
+JDHLPIAI_00095	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+JDHLPIAI_00096	gene	846	nadK			
+JDHLPIAI_00096	CDS	846	nadK	2.7.1.23		NAD kinase
+JDHLPIAI_00097	gene	933	rluD_1			
+JDHLPIAI_00097	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+JDHLPIAI_00098	gene	1011				
+JDHLPIAI_00098	CDS	1011				hypothetical protein
+JDHLPIAI_00099	gene	228	acpP			
+JDHLPIAI_00099	CDS	228	acpP			Acyl carrier protein
+JDHLPIAI_00100	gene	1014	ccpA			
+JDHLPIAI_00100	CDS	1014	ccpA		COG1609	Catabolite control protein A
+JDHLPIAI_00101	gene	1404	lysN			
+JDHLPIAI_00101	CDS	1404	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+JDHLPIAI_00102	gene	201				
+JDHLPIAI_00102	CDS	201				hypothetical protein
+JDHLPIAI_00103	gene	912	cmpR			
+JDHLPIAI_00103	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+JDHLPIAI_00104	gene	85				
+JDHLPIAI_00104	tRNA	85				tRNA-Leu(caa)
+JDHLPIAI_00105	gene	2643	polA			
+JDHLPIAI_00105	CDS	2643	polA	2.7.7.7		DNA polymerase I
+JDHLPIAI_00106	gene	606	coaE			
+JDHLPIAI_00106	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+JDHLPIAI_00107	gene	561	mltC			
+JDHLPIAI_00107	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+JDHLPIAI_00108	gene	213				
+JDHLPIAI_00108	CDS	213				hypothetical protein
+JDHLPIAI_00109	gene	1431				
+JDHLPIAI_00109	CDS	1431				hypothetical protein
+JDHLPIAI_00110	gene	1344	rnfC			
+JDHLPIAI_00110	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+JDHLPIAI_00111	gene	987	rnfD			
+JDHLPIAI_00111	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+JDHLPIAI_00112	gene	567	rnfG			
+JDHLPIAI_00112	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+JDHLPIAI_00113	gene	594	rnfE			
+JDHLPIAI_00113	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+JDHLPIAI_00114	gene	576	rnfA			
+JDHLPIAI_00114	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+JDHLPIAI_00115	gene	864	rnfB			
+JDHLPIAI_00115	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+JDHLPIAI_00116	gene	687				
+JDHLPIAI_00116	CDS	687				hypothetical protein
+JDHLPIAI_00117	gene	1050	mreB			
+JDHLPIAI_00117	CDS	1050	mreB		COG1077	Cell shape-determining protein MreB
+JDHLPIAI_00118	gene	882				
+JDHLPIAI_00118	CDS	882				hypothetical protein
+JDHLPIAI_00119	gene	486				
+JDHLPIAI_00119	CDS	486				hypothetical protein
+JDHLPIAI_00120	gene	2898	mrdA			
+JDHLPIAI_00120	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+JDHLPIAI_00121	gene	1113	mrdB			
+JDHLPIAI_00121	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+JDHLPIAI_00122	gene	1860				
+JDHLPIAI_00122	CDS	1860				hypothetical protein
+JDHLPIAI_00123	gene	699				
+JDHLPIAI_00123	CDS	699				hypothetical protein
+JDHLPIAI_00124	gene	1401	rne			
+JDHLPIAI_00124	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+JDHLPIAI_00125	gene	921	rbn			
+JDHLPIAI_00125	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+JDHLPIAI_00126	gene	462	crcB_1			
+JDHLPIAI_00126	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+JDHLPIAI_00127	gene	348	crcB_2			
+JDHLPIAI_00127	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+JDHLPIAI_00128	gene	624	recX			
+JDHLPIAI_00128	CDS	624	recX			Regulatory protein RecX
+JDHLPIAI_00129	gene	696	nadD			
+JDHLPIAI_00129	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+JDHLPIAI_00130	gene	561				
+JDHLPIAI_00130	CDS	561				hypothetical protein
+JDHLPIAI_00131	gene	351	rsfS			
+JDHLPIAI_00131	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+JDHLPIAI_00132	gene	2421	leuS			
+JDHLPIAI_00132	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+JDHLPIAI_00133	gene	936	yijE			
+JDHLPIAI_00133	CDS	936	yijE			putative cystine transporter YijE
+JDHLPIAI_00134	gene	309	rplU			
+JDHLPIAI_00134	CDS	309	rplU		COG0261	50S ribosomal protein L21
+JDHLPIAI_00135	gene	318				
+JDHLPIAI_00135	CDS	318				hypothetical protein
+JDHLPIAI_00136	gene	291	rpmA			
+JDHLPIAI_00136	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+JDHLPIAI_00137	gene	1281	obg			
+JDHLPIAI_00137	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+JDHLPIAI_00138	gene	390				
+JDHLPIAI_00138	CDS	390				hypothetical protein
+JDHLPIAI_00139	gene	1218	tdcB			
+JDHLPIAI_00139	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+JDHLPIAI_00140	gene	378	yabJ			
+JDHLPIAI_00140	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+JDHLPIAI_00141	gene	570				
+JDHLPIAI_00141	CDS	570				hypothetical protein
+JDHLPIAI_00142	gene	1509				
+JDHLPIAI_00142	CDS	1509				hypothetical protein
+JDHLPIAI_00143	gene	1623	murJ_1			
+JDHLPIAI_00143	CDS	1623	murJ_1		COG2244	Lipid II flippase MurJ
+JDHLPIAI_00144	gene	1014				
+JDHLPIAI_00144	CDS	1014				hypothetical protein
+JDHLPIAI_00145	gene	282	hup			
+JDHLPIAI_00145	CDS	282	hup			DNA-binding protein HU
+JDHLPIAI_00146	gene	240				
+JDHLPIAI_00146	CDS	240			COG1188	putative protein
+JDHLPIAI_00147	gene	894	gtaB			
+JDHLPIAI_00147	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+JDHLPIAI_00148	gene	1443	rho			
+JDHLPIAI_00148	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+JDHLPIAI_00149	gene	201	rpmE			
+JDHLPIAI_00149	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+JDHLPIAI_00150	gene	327				
+JDHLPIAI_00150	CDS	327				hypothetical protein
+JDHLPIAI_00151	gene	720				
+JDHLPIAI_00151	CDS	720				hypothetical protein
+JDHLPIAI_00152	gene	915	prmC			
+JDHLPIAI_00152	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+JDHLPIAI_00153	gene	1065	prfA			
+JDHLPIAI_00153	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+JDHLPIAI_00154	gene	1038	ywlC			
+JDHLPIAI_00154	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+JDHLPIAI_00155	gene	447	ywlF			
+JDHLPIAI_00155	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+JDHLPIAI_00156	gene	630	upp			
+JDHLPIAI_00156	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+JDHLPIAI_00157	gene	240				
+JDHLPIAI_00157	CDS	240				hypothetical protein
+JDHLPIAI_00158	gene	402				
+JDHLPIAI_00158	CDS	402				hypothetical protein
+JDHLPIAI_00159	gene	705	atpB			
+JDHLPIAI_00159	CDS	705	atpB		COG0356	ATP synthase subunit a
+JDHLPIAI_00160	gene	264	atpE			
+JDHLPIAI_00160	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+JDHLPIAI_00161	gene	507	atpF			
+JDHLPIAI_00161	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+JDHLPIAI_00162	gene	543	atpH			
+JDHLPIAI_00162	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+JDHLPIAI_00163	gene	1503	atpA			
+JDHLPIAI_00163	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+JDHLPIAI_00164	gene	999	atpG			
+JDHLPIAI_00164	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+JDHLPIAI_00165	gene	1401	atpD			
+JDHLPIAI_00165	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+JDHLPIAI_00166	gene	270	atpC			
+JDHLPIAI_00166	CDS	270	atpC			ATP synthase epsilon chain
+JDHLPIAI_00167	gene	576				
+JDHLPIAI_00167	CDS	576				hypothetical protein
+JDHLPIAI_00168	gene	939				
+JDHLPIAI_00168	CDS	939				hypothetical protein
+JDHLPIAI_00169	gene	945	hmo_1			
+JDHLPIAI_00169	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+JDHLPIAI_00170	gene	2286				
+JDHLPIAI_00170	CDS	2286				hypothetical protein
+JDHLPIAI_00171	gene	4395				
+JDHLPIAI_00171	CDS	4395				hypothetical protein
+JDHLPIAI_00172	gene	765	sufC			
+JDHLPIAI_00172	CDS	765	sufC		COG0396	Vegetative protein 296
+JDHLPIAI_00173	gene	1425				
+JDHLPIAI_00173	CDS	1425				hypothetical protein
+JDHLPIAI_00174	gene	831				
+JDHLPIAI_00174	CDS	831				hypothetical protein
+JDHLPIAI_00175	gene	1236	csd			
+JDHLPIAI_00175	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+JDHLPIAI_00176	gene	438	sufU			
+JDHLPIAI_00176	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+JDHLPIAI_00177	gene	408				
+JDHLPIAI_00177	CDS	408				hypothetical protein
+JDHLPIAI_00178	gene	627				
+JDHLPIAI_00178	CDS	627				hypothetical protein
+JDHLPIAI_00179	gene	291				
+JDHLPIAI_00179	CDS	291				hypothetical protein
+JDHLPIAI_00180	gene	735				
+JDHLPIAI_00180	CDS	735		3.1.3.-	COG0560	putative phosphatase
+JDHLPIAI_00181	gene	1221				
+JDHLPIAI_00181	CDS	1221				hypothetical protein
+JDHLPIAI_00182	gene	660				
+JDHLPIAI_00182	CDS	660				hypothetical protein
+JDHLPIAI_00183	gene	246				
+JDHLPIAI_00183	CDS	246				hypothetical protein
+JDHLPIAI_00184	gene	930	gloB			
+JDHLPIAI_00184	CDS	930	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+JDHLPIAI_00185	gene	786				
+JDHLPIAI_00185	CDS	786				hypothetical protein
+JDHLPIAI_00186	gene	711				
+JDHLPIAI_00186	CDS	711				hypothetical protein
+JDHLPIAI_00187	gene	555				
+JDHLPIAI_00187	CDS	555		3.1.3.-	COG5663	Nucleotidase
+JDHLPIAI_00188	gene	252				
+JDHLPIAI_00188	CDS	252				hypothetical protein
+JDHLPIAI_00189	gene	561	nfrA1			
+JDHLPIAI_00189	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+JDHLPIAI_00190	gene	1866	nhaP2			
+JDHLPIAI_00190	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+JDHLPIAI_00191	gene	1467				
+JDHLPIAI_00191	CDS	1467				hypothetical protein
+JDHLPIAI_00192	gene	615	comA			
+JDHLPIAI_00192	CDS	615	comA		COG2197	Transcriptional regulatory protein ComA
+JDHLPIAI_00193	gene	594				
+JDHLPIAI_00193	CDS	594				hypothetical protein
+JDHLPIAI_00194	gene	855	dacB			
+JDHLPIAI_00194	CDS	855	dacB	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacB
+JDHLPIAI_00195	gene	1236				
+JDHLPIAI_00195	CDS	1236				hypothetical protein
+JDHLPIAI_00196	gene	1056	epsF			
+JDHLPIAI_00196	CDS	1056	epsF		COG1459	Type II secretion system protein F
+JDHLPIAI_00197	gene	390				
+JDHLPIAI_00197	CDS	390				hypothetical protein
+JDHLPIAI_00198	gene	1401				
+JDHLPIAI_00198	CDS	1401				hypothetical protein
+JDHLPIAI_00199	gene	435				
+JDHLPIAI_00199	CDS	435				hypothetical protein
+JDHLPIAI_00200	gene	1068				
+JDHLPIAI_00200	CDS	1068				hypothetical protein
+JDHLPIAI_00201	gene	375				
+JDHLPIAI_00201	CDS	375				hypothetical protein
+JDHLPIAI_00202	gene	1614				
+JDHLPIAI_00202	CDS	1614				hypothetical protein
+JDHLPIAI_00203	gene	1347	pgi			
+JDHLPIAI_00203	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+JDHLPIAI_00204	gene	438				
+JDHLPIAI_00204	CDS	438				hypothetical protein
+JDHLPIAI_00205	gene	1542				
+JDHLPIAI_00205	CDS	1542				hypothetical protein
+JDHLPIAI_00206	gene	729	yehX			
+JDHLPIAI_00206	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+JDHLPIAI_00207	gene	249				
+JDHLPIAI_00207	CDS	249				hypothetical protein
+JDHLPIAI_00208	gene	882				
+JDHLPIAI_00208	CDS	882				hypothetical protein
+JDHLPIAI_00209	gene	642	gmk			
+JDHLPIAI_00209	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+JDHLPIAI_00210	gene	267	rpoZ			
+JDHLPIAI_00210	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+JDHLPIAI_00211	gene	1212	undec1A			
+JDHLPIAI_00211	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+JDHLPIAI_00212	gene	2313	priA			
+JDHLPIAI_00212	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+JDHLPIAI_00213	gene	456	def1			
+JDHLPIAI_00213	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+JDHLPIAI_00214	gene	930	fmt			
+JDHLPIAI_00214	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+JDHLPIAI_00215	gene	690				
+JDHLPIAI_00215	CDS	690				hypothetical protein
+JDHLPIAI_00216	gene	1344	rsmB			
+JDHLPIAI_00216	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+JDHLPIAI_00217	gene	1038	rlmN			
+JDHLPIAI_00217	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+JDHLPIAI_00218	gene	750	prpC_1			
+JDHLPIAI_00218	CDS	750	prpC_1	3.1.3.16	COG0631	Protein phosphatase PrpC
+JDHLPIAI_00219	gene	1881	prkC			
+JDHLPIAI_00219	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+JDHLPIAI_00220	gene	735	fabG			
+JDHLPIAI_00220	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JDHLPIAI_00221	gene	900	rsgA			
+JDHLPIAI_00221	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+JDHLPIAI_00222	gene	657	rpe			
+JDHLPIAI_00222	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+JDHLPIAI_00223	gene	684	thiN			
+JDHLPIAI_00223	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+JDHLPIAI_00224	gene	714	phoP_1			
+JDHLPIAI_00224	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+JDHLPIAI_00225	gene	2358	sasA_1			
+JDHLPIAI_00225	CDS	2358	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+JDHLPIAI_00226	gene	1374	mepA_2			
+JDHLPIAI_00226	CDS	1374	mepA_2			Multidrug export protein MepA
+JDHLPIAI_00227	gene	474	slyA			
+JDHLPIAI_00227	CDS	474	slyA			Transcriptional regulator SlyA
+JDHLPIAI_00228	gene	786				
+JDHLPIAI_00228	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JDHLPIAI_00229	gene	1026	cggR			
+JDHLPIAI_00229	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+JDHLPIAI_00230	gene	1008	gap_1			
+JDHLPIAI_00230	CDS	1008	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+JDHLPIAI_00231	gene	1200	pgk			
+JDHLPIAI_00231	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+JDHLPIAI_00232	gene	741	tpiA			
+JDHLPIAI_00232	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+JDHLPIAI_00233	gene	1527	gpmI			
+JDHLPIAI_00233	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+JDHLPIAI_00234	gene	1293	eno			
+JDHLPIAI_00234	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+JDHLPIAI_00235	gene	231				
+JDHLPIAI_00235	CDS	231				hypothetical protein
+JDHLPIAI_00236	gene	2220	rnr			
+JDHLPIAI_00236	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+JDHLPIAI_00237	gene	456	smpB			
+JDHLPIAI_00237	CDS	456	smpB		COG0691	SsrA-binding protein
+JDHLPIAI_00238	gene	831	artP_2			
+JDHLPIAI_00238	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+JDHLPIAI_00239	gene	1275	argG			
+JDHLPIAI_00239	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+JDHLPIAI_00240	gene	1374	argH			
+JDHLPIAI_00240	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+JDHLPIAI_00241	gene	462				
+JDHLPIAI_00241	CDS	462				hypothetical protein
+JDHLPIAI_00242	gene	5679				
+JDHLPIAI_00242	CDS	5679				hypothetical protein
+JDHLPIAI_00243	gene	351	ssrA			
+JDHLPIAI_00243	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+JDHLPIAI_00244	gene	696	rspR			
+JDHLPIAI_00244	CDS	696	rspR		COG1802	HTH-type transcriptional repressor RspR
+JDHLPIAI_00245	gene	1245	fldA			
+JDHLPIAI_00245	CDS	1245	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+JDHLPIAI_00246	gene	1236	fldB			
+JDHLPIAI_00246	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+JDHLPIAI_00247	gene	1119	hadC			
+JDHLPIAI_00247	CDS	1119	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+JDHLPIAI_00248	gene	1134	carC			
+JDHLPIAI_00248	CDS	1134	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+JDHLPIAI_00249	gene	792	carD			
+JDHLPIAI_00249	CDS	792	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+JDHLPIAI_00250	gene	1008	carE			
+JDHLPIAI_00250	CDS	1008	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+JDHLPIAI_00251	gene	993	hpr			
+JDHLPIAI_00251	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+JDHLPIAI_00252	gene	1326	brnQ_2			
+JDHLPIAI_00252	CDS	1326	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+JDHLPIAI_00253	gene	1185	aspC			
+JDHLPIAI_00253	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+JDHLPIAI_00254	gene	879				
+JDHLPIAI_00254	CDS	879				hypothetical protein
+JDHLPIAI_00255	gene	396	panD			
+JDHLPIAI_00255	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+JDHLPIAI_00256	gene	1116				
+JDHLPIAI_00256	CDS	1116				hypothetical protein
+JDHLPIAI_00257	gene	396				
+JDHLPIAI_00257	CDS	396				hypothetical protein
+JDHLPIAI_00258	gene	1974	uvrB			
+JDHLPIAI_00258	CDS	1974	uvrB			UvrABC system protein B
+JDHLPIAI_00259	gene	198				
+JDHLPIAI_00259	CDS	198				hypothetical protein
+JDHLPIAI_00260	gene	285				
+JDHLPIAI_00260	CDS	285				hypothetical protein
+JDHLPIAI_00261	gene	2826	uvrA			
+JDHLPIAI_00261	CDS	2826	uvrA			UvrABC system protein A
+JDHLPIAI_00262	gene	1263	sstT			
+JDHLPIAI_00262	CDS	1263	sstT		COG3633	Serine/threonine transporter SstT
+JDHLPIAI_00263	gene	519	hmpT			
+JDHLPIAI_00263	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+JDHLPIAI_00264	gene	549	rbr			
+JDHLPIAI_00264	CDS	549	rbr		COG1592	Rubrerythrin
+JDHLPIAI_00265	gene	372	perR			
+JDHLPIAI_00265	CDS	372	perR		COG0735	Peroxide operon regulator
+JDHLPIAI_00266	gene	387	dfx			
+JDHLPIAI_00266	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+JDHLPIAI_00267	gene	1980				
+JDHLPIAI_00267	CDS	1980				hypothetical protein
+JDHLPIAI_00268	gene	786				
+JDHLPIAI_00268	CDS	786				hypothetical protein
+JDHLPIAI_00269	gene	1053				
+JDHLPIAI_00269	CDS	1053				hypothetical protein
+JDHLPIAI_00270	gene	708	mtnN			
+JDHLPIAI_00270	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+JDHLPIAI_00271	gene	1008	trpS			
+JDHLPIAI_00271	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+JDHLPIAI_00272	gene	768				
+JDHLPIAI_00272	CDS	768				hypothetical protein
+JDHLPIAI_00273	gene	480	lspA			
+JDHLPIAI_00273	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+JDHLPIAI_00274	gene	933	rluD_2			
+JDHLPIAI_00274	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+JDHLPIAI_00275	gene	525	pyrR			
+JDHLPIAI_00275	CDS	525	pyrR			Bifunctional protein PyrR
+JDHLPIAI_00276	gene	1764	rqcH			
+JDHLPIAI_00276	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+JDHLPIAI_00277	gene	825	ydjP			
+JDHLPIAI_00277	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+JDHLPIAI_00278	gene	279	yjdJ			
+JDHLPIAI_00278	CDS	279	yjdJ		COG2388	putative protein YjdJ
+JDHLPIAI_00279	gene	462	mutX			
+JDHLPIAI_00279	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+JDHLPIAI_00280	gene	507	tpx			
+JDHLPIAI_00280	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+JDHLPIAI_00281	gene	651				
+JDHLPIAI_00281	CDS	651				hypothetical protein
+JDHLPIAI_00282	gene	141				
+JDHLPIAI_00282	CDS	141				hypothetical protein
+JDHLPIAI_00283	gene	1884				
+JDHLPIAI_00283	CDS	1884				hypothetical protein
+JDHLPIAI_00284	gene	951				
+JDHLPIAI_00284	CDS	951				hypothetical protein
+JDHLPIAI_00285	gene	693	cugP			
+JDHLPIAI_00285	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+JDHLPIAI_00286	gene	1176	bdhA			
+JDHLPIAI_00286	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+JDHLPIAI_00287	gene	753	rpsB			
+JDHLPIAI_00287	CDS	753	rpsB		COG0052	30S ribosomal protein S2
+JDHLPIAI_00288	gene	909	tsf			
+JDHLPIAI_00288	CDS	909	tsf		COG0264	Elongation factor Ts
+JDHLPIAI_00289	gene	708	pyrH			
+JDHLPIAI_00289	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+JDHLPIAI_00290	gene	558	frr			
+JDHLPIAI_00290	CDS	558	frr		COG0233	Ribosome-recycling factor
+JDHLPIAI_00291	gene	732	uppS			
+JDHLPIAI_00291	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+JDHLPIAI_00292	gene	780				
+JDHLPIAI_00292	CDS	780				hypothetical protein
+JDHLPIAI_00293	gene	909				
+JDHLPIAI_00293	CDS	909				hypothetical protein
+JDHLPIAI_00294	gene	468	rimP			
+JDHLPIAI_00294	CDS	468	rimP			Ribosome maturation factor RimP
+JDHLPIAI_00295	gene	1254	nusA			
+JDHLPIAI_00295	CDS	1254	nusA		COG0195	Transcription termination/antitermination protein NusA
+JDHLPIAI_00296	gene	276				
+JDHLPIAI_00296	CDS	276				hypothetical protein
+JDHLPIAI_00297	gene	315	rplGA			
+JDHLPIAI_00297	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+JDHLPIAI_00298	gene	1944	infB			
+JDHLPIAI_00298	CDS	1944	infB			Translation initiation factor IF-2
+JDHLPIAI_00299	gene	348	rbfA			
+JDHLPIAI_00299	CDS	348	rbfA			Ribosome-binding factor A
+JDHLPIAI_00300	gene	804				
+JDHLPIAI_00300	CDS	804				hypothetical protein
+JDHLPIAI_00301	gene	4908				
+JDHLPIAI_00301	CDS	4908				hypothetical protein
+JDHLPIAI_00302	gene	582	srtD			
+JDHLPIAI_00302	CDS	582	srtD	3.4.22.-	COG3764	Sortase D
+JDHLPIAI_00303	gene	1017	nrnA			
+JDHLPIAI_00303	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+JDHLPIAI_00304	gene	903	truB			
+JDHLPIAI_00304	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+JDHLPIAI_00305	gene	972	ribF			
+JDHLPIAI_00305	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+JDHLPIAI_00306	gene	255	rpsO			
+JDHLPIAI_00306	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+JDHLPIAI_00307	gene	846				
+JDHLPIAI_00307	CDS	846			COG1307	DegV domain-containing protein
+JDHLPIAI_00308	gene	2091	pnp			
+JDHLPIAI_00308	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+JDHLPIAI_00309	gene	2073				
+JDHLPIAI_00309	CDS	2073				hypothetical protein
+JDHLPIAI_00310	gene	1266				
+JDHLPIAI_00310	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+JDHLPIAI_00311	gene	2574				
+JDHLPIAI_00311	CDS	2574				hypothetical protein
+JDHLPIAI_00312	gene	1323	rimO			
+JDHLPIAI_00312	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+JDHLPIAI_00313	gene	540	pgsA			
+JDHLPIAI_00313	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+JDHLPIAI_00314	gene	1050	recA			
+JDHLPIAI_00314	CDS	1050	recA		COG0468	Protein RecA
+JDHLPIAI_00315	gene	1500	guaB			
+JDHLPIAI_00315	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+JDHLPIAI_00316	gene	750				
+JDHLPIAI_00316	CDS	750				hypothetical protein
+JDHLPIAI_00317	gene	1671	rnjA			
+JDHLPIAI_00317	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+JDHLPIAI_00318	gene	633				
+JDHLPIAI_00318	CDS	633				hypothetical protein
+JDHLPIAI_00319	gene	762	scpA			
+JDHLPIAI_00319	CDS	762	scpA		COG1354	Segregation and condensation protein A
+JDHLPIAI_00320	gene	519	scpB			
+JDHLPIAI_00320	CDS	519	scpB		COG1386	Segregation and condensation protein B
+JDHLPIAI_00321	gene	750	cobB			
+JDHLPIAI_00321	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+JDHLPIAI_00322	gene	441				
+JDHLPIAI_00322	CDS	441				hypothetical protein
+JDHLPIAI_00323	gene	1515				
+JDHLPIAI_00323	CDS	1515				hypothetical protein
+JDHLPIAI_00324	gene	1761				
+JDHLPIAI_00324	CDS	1761				hypothetical protein
+JDHLPIAI_00325	gene	555				
+JDHLPIAI_00325	CDS	555				hypothetical protein
+JDHLPIAI_00326	gene	675	arlR			
+JDHLPIAI_00326	CDS	675	arlR		COG0745	Response regulator ArlR
+JDHLPIAI_00327	gene	1278	sasA_2			
+JDHLPIAI_00327	CDS	1278	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+JDHLPIAI_00328	gene	318				
+JDHLPIAI_00328	CDS	318				hypothetical protein
+JDHLPIAI_00329	gene	4722				
+JDHLPIAI_00329	CDS	4722				hypothetical protein
+JDHLPIAI_00330	gene	3801				
+JDHLPIAI_00330	CDS	3801				hypothetical protein
+JDHLPIAI_00331	gene	510	folA			
+JDHLPIAI_00331	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+JDHLPIAI_00332	gene	834	thyA			
+JDHLPIAI_00332	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+JDHLPIAI_00333	gene	1860				
+JDHLPIAI_00333	CDS	1860				hypothetical protein
+JDHLPIAI_00334	gene	786				
+JDHLPIAI_00334	CDS	786				hypothetical protein
+JDHLPIAI_00335	gene	699				
+JDHLPIAI_00335	CDS	699				hypothetical protein
+JDHLPIAI_00336	gene	4311	polC_1			
+JDHLPIAI_00336	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+JDHLPIAI_00337	gene	885				
+JDHLPIAI_00337	CDS	885				hypothetical protein
+JDHLPIAI_00338	gene	852				
+JDHLPIAI_00338	CDS	852				hypothetical protein
+JDHLPIAI_00339	gene	1383	dinG			
+JDHLPIAI_00339	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+JDHLPIAI_00340	gene	1158				
+JDHLPIAI_00340	CDS	1158				hypothetical protein
+JDHLPIAI_00341	gene	741				
+JDHLPIAI_00341	CDS	741				hypothetical protein
+JDHLPIAI_00342	gene	339				
+JDHLPIAI_00342	CDS	339				hypothetical protein
+JDHLPIAI_00343	gene	1020	gap_2			
+JDHLPIAI_00343	CDS	1020	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+JDHLPIAI_00344	gene	4305				
+JDHLPIAI_00344	CDS	4305				hypothetical protein
+JDHLPIAI_00345	gene	1308				
+JDHLPIAI_00345	CDS	1308				hypothetical protein
+JDHLPIAI_00346	gene	801	artJ			
+JDHLPIAI_00346	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+JDHLPIAI_00347	gene	618	artQ_2			
+JDHLPIAI_00347	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+JDHLPIAI_00348	gene	645	artM_2			
+JDHLPIAI_00348	CDS	645	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+JDHLPIAI_00349	gene	1155				
+JDHLPIAI_00349	CDS	1155				hypothetical protein
+JDHLPIAI_00350	gene	1137				
+JDHLPIAI_00350	CDS	1137				TelA-like protein
+JDHLPIAI_00351	gene	1149	rlmL			
+JDHLPIAI_00351	CDS	1149	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+JDHLPIAI_00352	gene	1365				
+JDHLPIAI_00352	CDS	1365				hypothetical protein
+JDHLPIAI_00353	gene	696	walR			
+JDHLPIAI_00353	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+JDHLPIAI_00354	gene	1437	rcsC			
+JDHLPIAI_00354	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+JDHLPIAI_00355	gene	1353	mepA_3			
+JDHLPIAI_00355	CDS	1353	mepA_3		COG0534	Multidrug export protein MepA
+JDHLPIAI_00356	gene	843				
+JDHLPIAI_00356	CDS	843				hypothetical protein
+JDHLPIAI_00357	gene	417				
+JDHLPIAI_00357	CDS	417				hypothetical protein
+JDHLPIAI_00358	gene	720				
+JDHLPIAI_00358	CDS	720		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+JDHLPIAI_00359	gene	792				
+JDHLPIAI_00359	CDS	792				hypothetical protein
+JDHLPIAI_00360	gene	909				
+JDHLPIAI_00360	CDS	909				hypothetical protein
+JDHLPIAI_00361	gene	1251				
+JDHLPIAI_00361	CDS	1251				hypothetical protein
+JDHLPIAI_00362	gene	1101				
+JDHLPIAI_00362	CDS	1101				hypothetical protein
+JDHLPIAI_00363	gene	231				
+JDHLPIAI_00363	CDS	231				IS200/IS605 family transposase ISDha13
+JDHLPIAI_00364	gene	987	nrdF			
+JDHLPIAI_00364	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+JDHLPIAI_00365	gene	2109	nrdE			
+JDHLPIAI_00365	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+JDHLPIAI_00366	gene	2403				
+JDHLPIAI_00366	CDS	2403				hypothetical protein
+JDHLPIAI_00367	gene	237	dltC			
+JDHLPIAI_00367	CDS	237	dltC		COG0236	D-alanyl carrier protein
+JDHLPIAI_00368	gene	1161				
+JDHLPIAI_00368	CDS	1161				hypothetical protein
+JDHLPIAI_00369	gene	1599	dltA			
+JDHLPIAI_00369	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+JDHLPIAI_00370	gene	126				
+JDHLPIAI_00370	CDS	126				hypothetical protein
+JDHLPIAI_00371	gene	1227	dltD			
+JDHLPIAI_00371	CDS	1227	dltD		COG3966	Protein DltD
+JDHLPIAI_00372	gene	1173				
+JDHLPIAI_00372	CDS	1173				hypothetical protein
+JDHLPIAI_00373	gene	300				
+JDHLPIAI_00373	CDS	300				hypothetical protein
+JDHLPIAI_00374	gene	1362	gabR			
+JDHLPIAI_00374	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+JDHLPIAI_00375	gene	858	pdxS			
+JDHLPIAI_00375	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+JDHLPIAI_00376	gene	885				
+JDHLPIAI_00376	CDS	885				hypothetical protein
+JDHLPIAI_00377	gene	1872	yjcD			
+JDHLPIAI_00377	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+JDHLPIAI_00378	gene	1587	clcA			
+JDHLPIAI_00378	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+JDHLPIAI_00379	gene	858	folD			
+JDHLPIAI_00379	CDS	858	folD			Bifunctional protein FolD protein
+JDHLPIAI_00380	gene	636	fchA			
+JDHLPIAI_00380	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+JDHLPIAI_00381	gene	141				
+JDHLPIAI_00381	CDS	141				hypothetical protein
+JDHLPIAI_00382	gene	1980	htpG			
+JDHLPIAI_00382	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+JDHLPIAI_00383	gene	1461				
+JDHLPIAI_00383	CDS	1461				hypothetical protein
+JDHLPIAI_00384	gene	765	fpuC			
+JDHLPIAI_00384	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+JDHLPIAI_00385	gene	1065	isdF			
+JDHLPIAI_00385	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+JDHLPIAI_00386	gene	918	isdE			
+JDHLPIAI_00386	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+JDHLPIAI_00387	gene	1125				
+JDHLPIAI_00387	CDS	1125				hypothetical protein
+JDHLPIAI_00388	gene	1929				
+JDHLPIAI_00388	CDS	1929				hypothetical protein
+JDHLPIAI_00389	gene	375				
+JDHLPIAI_00389	CDS	375				hypothetical protein
+JDHLPIAI_00390	gene	930				
+JDHLPIAI_00390	CDS	930				hypothetical protein
+JDHLPIAI_00391	gene	1425	purB			
+JDHLPIAI_00391	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+JDHLPIAI_00392	gene	1278	purA			
+JDHLPIAI_00392	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+JDHLPIAI_00393	gene	1452	trkG			
+JDHLPIAI_00393	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+JDHLPIAI_00394	gene	1365	trkA			
+JDHLPIAI_00394	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+JDHLPIAI_00395	gene	765				
+JDHLPIAI_00395	CDS	765				hypothetical protein
+JDHLPIAI_00396	gene	969	trxB			
+JDHLPIAI_00396	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+JDHLPIAI_00397	gene	1374	zwf			
+JDHLPIAI_00397	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+JDHLPIAI_00398	gene	1440	gnd			
+JDHLPIAI_00398	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+JDHLPIAI_00399	gene	1251	dinB			
+JDHLPIAI_00399	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+JDHLPIAI_00400	gene	849	nadC			
+JDHLPIAI_00400	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+JDHLPIAI_00401	gene	1311	nadB			
+JDHLPIAI_00401	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+JDHLPIAI_00402	gene	909	nadA			
+JDHLPIAI_00402	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+JDHLPIAI_00403	gene	462	dut			
+JDHLPIAI_00403	CDS	462	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+JDHLPIAI_00404	gene	1203	roo			
+JDHLPIAI_00404	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+JDHLPIAI_00405	gene	1062	lytC_3			
+JDHLPIAI_00405	CDS	1062	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JDHLPIAI_00406	gene	600	fbpC			
+JDHLPIAI_00406	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+JDHLPIAI_00407	gene	522				
+JDHLPIAI_00407	CDS	522				hypothetical protein
+JDHLPIAI_00408	gene	993				
+JDHLPIAI_00408	CDS	993				hypothetical protein
+JDHLPIAI_00409	gene	681	tgnD			
+JDHLPIAI_00409	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+JDHLPIAI_00410	gene	996	btuD_1			
+JDHLPIAI_00410	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JDHLPIAI_00411	gene	696	ureG			
+JDHLPIAI_00411	CDS	696	ureG			Urease accessory protein UreG
+JDHLPIAI_00412	gene	1227				
+JDHLPIAI_00412	CDS	1227				hypothetical protein
+JDHLPIAI_00413	gene	1746				
+JDHLPIAI_00413	CDS	1746				hypothetical protein
+JDHLPIAI_00414	gene	810	ecsA_1			
+JDHLPIAI_00414	CDS	810	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+JDHLPIAI_00415	gene	1239	queH			
+JDHLPIAI_00415	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+JDHLPIAI_00416	gene	909	ppaC			
+JDHLPIAI_00416	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+JDHLPIAI_00417	gene	525				
+JDHLPIAI_00417	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JDHLPIAI_00418	gene	1428	apeB			
+JDHLPIAI_00418	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+JDHLPIAI_00419	gene	2364	pcrA			
+JDHLPIAI_00419	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+JDHLPIAI_00420	gene	477	cysG_1			
+JDHLPIAI_00420	CDS	477	cysG_1		COG0007	Siroheme synthase
+JDHLPIAI_00421	gene	969	hemB			
+JDHLPIAI_00421	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+JDHLPIAI_00422	gene	1524	cysG_2			
+JDHLPIAI_00422	CDS	1524	cysG_2	4.99.1.4		Siroheme synthase
+JDHLPIAI_00423	gene	933	hemC			
+JDHLPIAI_00423	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+JDHLPIAI_00424	gene	969	bioB			
+JDHLPIAI_00424	CDS	969	bioB	2.8.1.6		Biotin synthase
+JDHLPIAI_00425	gene	522	dcd			
+JDHLPIAI_00425	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+JDHLPIAI_00426	gene	402				
+JDHLPIAI_00426	CDS	402				hypothetical protein
+JDHLPIAI_00427	gene	546				
+JDHLPIAI_00427	CDS	546				hypothetical protein
+JDHLPIAI_00428	gene	324				
+JDHLPIAI_00428	CDS	324				hypothetical protein
+JDHLPIAI_00429	gene	198				
+JDHLPIAI_00429	CDS	198				hypothetical protein
+JDHLPIAI_00430	gene	771	nirC			
+JDHLPIAI_00430	CDS	771	nirC		COG2116	Nitrite transporter NirC
+JDHLPIAI_00431	gene	972	asrC			
+JDHLPIAI_00431	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+JDHLPIAI_00432	gene	801	asrB			
+JDHLPIAI_00432	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+JDHLPIAI_00433	gene	1011	asrA			
+JDHLPIAI_00433	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+JDHLPIAI_00434	gene	687	glxR			
+JDHLPIAI_00434	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+JDHLPIAI_00435	gene	462	ribH			
+JDHLPIAI_00435	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+JDHLPIAI_00436	gene	1206	ribBA			
+JDHLPIAI_00436	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+JDHLPIAI_00437	gene	657	ribE			
+JDHLPIAI_00437	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+JDHLPIAI_00438	gene	1119	ribD			
+JDHLPIAI_00438	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+JDHLPIAI_00439	gene	867				
+JDHLPIAI_00439	CDS	867				hypothetical protein
+JDHLPIAI_00440	gene	936				
+JDHLPIAI_00440	CDS	936				hypothetical protein
+JDHLPIAI_00441	gene	858				
+JDHLPIAI_00441	CDS	858				hypothetical protein
+JDHLPIAI_00442	gene	918				
+JDHLPIAI_00442	CDS	918				hypothetical protein
+JDHLPIAI_00443	gene	1581				
+JDHLPIAI_00443	CDS	1581				hypothetical protein
+JDHLPIAI_00444	gene	2904				
+JDHLPIAI_00444	CDS	2904				hypothetical protein
+JDHLPIAI_00445	gene	2424				
+JDHLPIAI_00445	CDS	2424				hypothetical protein
+JDHLPIAI_00446	gene	1467				
+JDHLPIAI_00446	CDS	1467				hypothetical protein
+JDHLPIAI_00447	gene	540	puuR			
+JDHLPIAI_00447	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+JDHLPIAI_00448	gene	1044	potA			
+JDHLPIAI_00448	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+JDHLPIAI_00449	gene	867	potB			
+JDHLPIAI_00449	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+JDHLPIAI_00450	gene	807				
+JDHLPIAI_00450	CDS	807				hypothetical protein
+JDHLPIAI_00451	gene	1086	potD			
+JDHLPIAI_00451	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+JDHLPIAI_00452	gene	1479	malQ			
+JDHLPIAI_00452	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+JDHLPIAI_00453	gene	1944				
+JDHLPIAI_00453	CDS	1944				hypothetical protein
+JDHLPIAI_00454	gene	1866	glgB			
+JDHLPIAI_00454	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+JDHLPIAI_00455	gene	1173	glgC			
+JDHLPIAI_00455	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+JDHLPIAI_00456	gene	1107	glgD			
+JDHLPIAI_00456	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+JDHLPIAI_00457	gene	1425	glgA			
+JDHLPIAI_00457	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+JDHLPIAI_00458	gene	2391	glgP			
+JDHLPIAI_00458	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+JDHLPIAI_00459	gene	2415				
+JDHLPIAI_00459	CDS	2415				hypothetical protein
+JDHLPIAI_00460	gene	1365				
+JDHLPIAI_00460	CDS	1365				hypothetical protein
+JDHLPIAI_00461	gene	873	moaA			
+JDHLPIAI_00461	CDS	873	moaA	4.1.99.22		GTP 3',8-cyclase
+JDHLPIAI_00462	gene	1629				
+JDHLPIAI_00462	CDS	1629				hypothetical protein
+JDHLPIAI_00463	gene	1002	add			
+JDHLPIAI_00463	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+JDHLPIAI_00464	gene	810	apbC			
+JDHLPIAI_00464	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+JDHLPIAI_00465	gene	258				
+JDHLPIAI_00465	CDS	258				hypothetical protein
+JDHLPIAI_00466	gene	645				
+JDHLPIAI_00466	CDS	645				hypothetical protein
+JDHLPIAI_00467	gene	297				
+JDHLPIAI_00467	CDS	297				hypothetical protein
+JDHLPIAI_00468	gene	1275	pyrC			
+JDHLPIAI_00468	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+JDHLPIAI_00469	gene	1245	macB			
+JDHLPIAI_00469	CDS	1245	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+JDHLPIAI_00470	gene	675	yknY			
+JDHLPIAI_00470	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+JDHLPIAI_00471	gene	1080	yknX			
+JDHLPIAI_00471	CDS	1080	yknX		COG0845	Putative efflux system component YknX
+JDHLPIAI_00472	gene	651	tal			
+JDHLPIAI_00472	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+JDHLPIAI_00473	gene	1473	algC			
+JDHLPIAI_00473	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+JDHLPIAI_00474	gene	603	maf			
+JDHLPIAI_00474	CDS	603	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+JDHLPIAI_00475	gene	1182	fieF			
+JDHLPIAI_00475	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+JDHLPIAI_00476	gene	792				
+JDHLPIAI_00476	CDS	792				hypothetical protein
+JDHLPIAI_00477	gene	303				
+JDHLPIAI_00477	CDS	303				hypothetical protein
+JDHLPIAI_00478	gene	1218				
+JDHLPIAI_00478	CDS	1218		6.3.1.12		D-aspartate ligase
+JDHLPIAI_00479	gene	720				
+JDHLPIAI_00479	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+JDHLPIAI_00480	gene	1488	murE			
+JDHLPIAI_00480	CDS	1488	murE	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+JDHLPIAI_00481	gene	1476				
+JDHLPIAI_00481	CDS	1476				hypothetical protein
+JDHLPIAI_00482	gene	513	sigM_2			
+JDHLPIAI_00482	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+JDHLPIAI_00483	gene	1098	ychF			
+JDHLPIAI_00483	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+JDHLPIAI_00484	gene	456	inlA			
+JDHLPIAI_00484	CDS	456	inlA		COG4886	Internalin A
+JDHLPIAI_00485	gene	1260				
+JDHLPIAI_00485	CDS	1260				hypothetical protein
+JDHLPIAI_00486	gene	1293				
+JDHLPIAI_00486	CDS	1293				hypothetical protein
+JDHLPIAI_00487	gene	750	lgt			
+JDHLPIAI_00487	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+JDHLPIAI_00488	gene	936	rsmH			
+JDHLPIAI_00488	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+JDHLPIAI_00489	gene	1410	murF			
+JDHLPIAI_00489	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+JDHLPIAI_00490	gene	966	mraY			
+JDHLPIAI_00490	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+JDHLPIAI_00491	gene	1365	murD			
+JDHLPIAI_00491	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+JDHLPIAI_00492	gene	1098	murG			
+JDHLPIAI_00492	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+JDHLPIAI_00493	gene	1161	ftsZ			
+JDHLPIAI_00493	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+JDHLPIAI_00494	gene	468	nrdR			
+JDHLPIAI_00494	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+JDHLPIAI_00495	gene	681	phoP_2			
+JDHLPIAI_00495	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+JDHLPIAI_00496	gene	1281	walK			
+JDHLPIAI_00496	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+JDHLPIAI_00497	gene	1329	der			
+JDHLPIAI_00497	CDS	1329	der		COG1160	GTPase Der
+JDHLPIAI_00498	gene	609	plsY			
+JDHLPIAI_00498	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+JDHLPIAI_00499	gene	1011	gpsA			
+JDHLPIAI_00499	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+JDHLPIAI_00500	gene	702				
+JDHLPIAI_00500	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+JDHLPIAI_00501	gene	495	sepF			
+JDHLPIAI_00501	CDS	495	sepF			Cell division protein SepF
+JDHLPIAI_00502	gene	258				
+JDHLPIAI_00502	CDS	258				hypothetical protein
+JDHLPIAI_00503	gene	786				
+JDHLPIAI_00503	CDS	786				hypothetical protein
+JDHLPIAI_00504	gene	654	gpsB			
+JDHLPIAI_00504	CDS	654	gpsB			Cell cycle protein GpsB
+JDHLPIAI_00505	gene	3123	mupA			
+JDHLPIAI_00505	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+JDHLPIAI_00506	gene	816				
+JDHLPIAI_00506	CDS	816				hypothetical protein
+JDHLPIAI_00507	gene	903				
+JDHLPIAI_00507	CDS	903				hypothetical protein
+JDHLPIAI_00508	gene	822				
+JDHLPIAI_00508	CDS	822				hypothetical protein
+JDHLPIAI_00509	gene	198				
+JDHLPIAI_00509	CDS	198				hypothetical protein
+JDHLPIAI_00510	gene	1440	miaB			
+JDHLPIAI_00510	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+JDHLPIAI_00511	gene	558				
+JDHLPIAI_00511	CDS	558				hypothetical protein
+JDHLPIAI_00512	gene	1659	glnS			
+JDHLPIAI_00512	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+JDHLPIAI_00513	gene	738				
+JDHLPIAI_00513	CDS	738				hypothetical protein
+JDHLPIAI_00514	gene	2844				
+JDHLPIAI_00514	CDS	2844				hypothetical protein
+JDHLPIAI_00515	gene	1980				
+JDHLPIAI_00515	CDS	1980				hypothetical protein
+JDHLPIAI_00516	gene	177				
+JDHLPIAI_00516	CDS	177				hypothetical protein
+JDHLPIAI_00517	gene	1023	lnpD			
+JDHLPIAI_00517	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+JDHLPIAI_00518	gene	1104				
+JDHLPIAI_00518	CDS	1104				hypothetical protein
+JDHLPIAI_00519	gene	1230				
+JDHLPIAI_00519	CDS	1230				hypothetical protein
+JDHLPIAI_00520	gene	1005	asnA			
+JDHLPIAI_00520	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+JDHLPIAI_00521	gene	531	hpt			
+JDHLPIAI_00521	CDS	531	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+JDHLPIAI_00522	gene	795				
+JDHLPIAI_00522	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JDHLPIAI_00523	gene	1248	baiN			
+JDHLPIAI_00523	CDS	1248	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+JDHLPIAI_00524	gene	477				
+JDHLPIAI_00524	CDS	477				hypothetical protein
+JDHLPIAI_00525	gene	1764				
+JDHLPIAI_00525	CDS	1764				hypothetical protein
+JDHLPIAI_00526	gene	3534				
+JDHLPIAI_00526	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+JDHLPIAI_00527	gene	4428				
+JDHLPIAI_00527	CDS	4428				hypothetical protein
+JDHLPIAI_00528	gene	882	licT			
+JDHLPIAI_00528	CDS	882	licT		COG3711	Transcription antiterminator LicT
+JDHLPIAI_00529	gene	2154	ptsG			
+JDHLPIAI_00529	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+JDHLPIAI_00530	gene	681				
+JDHLPIAI_00530	CDS	681				hypothetical protein
+JDHLPIAI_00531	gene	219				
+JDHLPIAI_00531	CDS	219				hypothetical protein
+JDHLPIAI_00532	gene	1416	aroA			
+JDHLPIAI_00532	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+JDHLPIAI_00533	gene	1077	aroC			
+JDHLPIAI_00533	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+JDHLPIAI_00534	gene	780	aroK			
+JDHLPIAI_00534	CDS	780	aroK	2.7.1.71		Shikimate kinase
+JDHLPIAI_00535	gene	1860	asnB			
+JDHLPIAI_00535	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+JDHLPIAI_00536	gene	1572				
+JDHLPIAI_00536	CDS	1572				hypothetical protein
+JDHLPIAI_00537	gene	1401	asnS			
+JDHLPIAI_00537	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+JDHLPIAI_00538	gene	894				
+JDHLPIAI_00538	CDS	894				hypothetical protein
+JDHLPIAI_00539	gene	2205	srfAB			
+JDHLPIAI_00539	CDS	2205	srfAB			Surfactin synthase subunit 2
+JDHLPIAI_00540	gene	897	ddl			
+JDHLPIAI_00540	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+JDHLPIAI_00541	gene	1266	cinA			
+JDHLPIAI_00541	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+JDHLPIAI_00542	gene	804	ywpJ			
+JDHLPIAI_00542	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+JDHLPIAI_00543	gene	567				
+JDHLPIAI_00543	CDS	567				hypothetical protein
+JDHLPIAI_00544	gene	954				
+JDHLPIAI_00544	CDS	954				hypothetical protein
+JDHLPIAI_00545	gene	576				
+JDHLPIAI_00545	CDS	576				hypothetical protein
+JDHLPIAI_00546	gene	594				
+JDHLPIAI_00546	CDS	594				hypothetical protein
+JDHLPIAI_00547	gene	771				
+JDHLPIAI_00547	CDS	771				hypothetical protein
+JDHLPIAI_00548	gene	336				
+JDHLPIAI_00548	CDS	336				hypothetical protein
+JDHLPIAI_00549	gene	684				
+JDHLPIAI_00549	CDS	684				hypothetical protein
+JDHLPIAI_00550	gene	1452				
+JDHLPIAI_00550	CDS	1452				hypothetical protein
+JDHLPIAI_00551	gene	1647	gltX			
+JDHLPIAI_00551	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+JDHLPIAI_00552	gene	1422	purF			
+JDHLPIAI_00552	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+JDHLPIAI_00553	gene	2277	topB			
+JDHLPIAI_00553	CDS	2277	topB	5.6.2.1		DNA topoisomerase 3
+JDHLPIAI_00554	gene	891	ttcA			
+JDHLPIAI_00554	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+JDHLPIAI_00555	gene	519	polC_2			
+JDHLPIAI_00555	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+JDHLPIAI_00556	gene	1044	mtgA			
+JDHLPIAI_00556	CDS	1044	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+JDHLPIAI_00557	gene	372				
+JDHLPIAI_00557	CDS	372				hypothetical protein
+JDHLPIAI_00558	gene	666				
+JDHLPIAI_00558	CDS	666				hypothetical protein
+JDHLPIAI_00559	gene	552	trpP			
+JDHLPIAI_00559	CDS	552	trpP			putative tryptophan transport protein
+JDHLPIAI_00560	gene	1323				
+JDHLPIAI_00560	CDS	1323				hypothetical protein
+JDHLPIAI_00561	gene	1095				
+JDHLPIAI_00561	CDS	1095				hypothetical protein
+JDHLPIAI_00562	gene	651				
+JDHLPIAI_00562	CDS	651				hypothetical protein
+JDHLPIAI_00563	gene	735				
+JDHLPIAI_00563	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+JDHLPIAI_00564	gene	213				
+JDHLPIAI_00564	CDS	213				hypothetical protein
+JDHLPIAI_00565	gene	804				
+JDHLPIAI_00565	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+JDHLPIAI_00566	gene	777	trmK			
+JDHLPIAI_00566	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+JDHLPIAI_00567	gene	1155	sigA			
+JDHLPIAI_00567	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+JDHLPIAI_00568	gene	1824	dnaG			
+JDHLPIAI_00568	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+JDHLPIAI_00569	gene	957				
+JDHLPIAI_00569	CDS	957				hypothetical protein
+JDHLPIAI_00570	gene	867				
+JDHLPIAI_00570	CDS	867				hypothetical protein
+JDHLPIAI_00571	gene	507				
+JDHLPIAI_00571	CDS	507				hypothetical protein
+JDHLPIAI_00572	gene	951				
+JDHLPIAI_00572	CDS	951				hypothetical protein
+JDHLPIAI_00573	gene	1059				
+JDHLPIAI_00573	CDS	1059				hypothetical protein
+JDHLPIAI_00574	gene	471				
+JDHLPIAI_00574	CDS	471				hypothetical protein
+JDHLPIAI_00575	gene	825	metQ			
+JDHLPIAI_00575	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+JDHLPIAI_00576	gene	654	metP			
+JDHLPIAI_00576	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+JDHLPIAI_00577	gene	969	metN			
+JDHLPIAI_00577	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+JDHLPIAI_00578	gene	354				
+JDHLPIAI_00578	CDS	354				hypothetical protein
+JDHLPIAI_00579	gene	1296	brnQ_3			
+JDHLPIAI_00579	CDS	1296	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+JDHLPIAI_00580	gene	2589	clpB			
+JDHLPIAI_00580	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+JDHLPIAI_00581	gene	642				
+JDHLPIAI_00581	CDS	642				hypothetical protein
+JDHLPIAI_00582	gene	411				
+JDHLPIAI_00582	CDS	411				hypothetical protein
+JDHLPIAI_00583	gene	1188	dxr			
+JDHLPIAI_00583	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+JDHLPIAI_00584	gene	1011	mmpA			
+JDHLPIAI_00584	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+JDHLPIAI_00585	gene	1056	ispG			
+JDHLPIAI_00585	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+JDHLPIAI_00586	gene	528				
+JDHLPIAI_00586	CDS	528				hypothetical protein
+JDHLPIAI_00587	gene	477				
+JDHLPIAI_00587	CDS	477				hypothetical protein
+JDHLPIAI_00588	gene	708				
+JDHLPIAI_00588	CDS	708				hypothetical protein
+JDHLPIAI_00589	gene	471				
+JDHLPIAI_00589	CDS	471				hypothetical protein
+JDHLPIAI_00590	gene	1233				
+JDHLPIAI_00590	CDS	1233				hypothetical protein
+JDHLPIAI_00591	gene	645	trmR			
+JDHLPIAI_00591	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+JDHLPIAI_00592	gene	1203	mltG			
+JDHLPIAI_00592	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+JDHLPIAI_00593	gene	822	punA			
+JDHLPIAI_00593	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+JDHLPIAI_00594	gene	1074				
+JDHLPIAI_00594	CDS	1074				hypothetical protein
+JDHLPIAI_00595	gene	831				
+JDHLPIAI_00595	CDS	831				hypothetical protein
+JDHLPIAI_00596	gene	687				
+JDHLPIAI_00596	CDS	687		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+JDHLPIAI_00597	gene	864				
+JDHLPIAI_00597	CDS	864				hypothetical protein
+JDHLPIAI_00598	gene	1122				
+JDHLPIAI_00598	CDS	1122				hypothetical protein
+JDHLPIAI_00599	gene	1683	recN			
+JDHLPIAI_00599	CDS	1683	recN		COG0497	DNA repair protein RecN
+JDHLPIAI_00600	gene	843	tlyA			
+JDHLPIAI_00600	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+JDHLPIAI_00601	gene	1947	dxs			
+JDHLPIAI_00601	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+JDHLPIAI_00602	gene	432				
+JDHLPIAI_00602	CDS	432				hypothetical protein
+JDHLPIAI_00603	gene	885				
+JDHLPIAI_00603	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+JDHLPIAI_00604	gene	246	xseB			
+JDHLPIAI_00604	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+JDHLPIAI_00605	gene	1206	xseA			
+JDHLPIAI_00605	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+JDHLPIAI_00606	gene	1107				
+JDHLPIAI_00606	CDS	1107				hypothetical protein
+JDHLPIAI_00607	gene	582				
+JDHLPIAI_00607	CDS	582				hypothetical protein
+JDHLPIAI_00608	gene	318				
+JDHLPIAI_00608	CDS	318				hypothetical protein
+JDHLPIAI_00609	gene	1395	alaS_1			
+JDHLPIAI_00609	CDS	1395	alaS_1	6.1.1.7		Alanine--tRNA ligase
+JDHLPIAI_00610	gene	954	msrAB			
+JDHLPIAI_00610	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+JDHLPIAI_00611	gene	678				
+JDHLPIAI_00611	CDS	678				hypothetical protein
+JDHLPIAI_00612	gene	1851				
+JDHLPIAI_00612	CDS	1851				hypothetical protein
+JDHLPIAI_00613	gene	936	corA			
+JDHLPIAI_00613	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+JDHLPIAI_00614	gene	705				
+JDHLPIAI_00614	CDS	705				hypothetical protein
+JDHLPIAI_00615	gene	1839	typA			
+JDHLPIAI_00615	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+JDHLPIAI_00616	gene	201				
+JDHLPIAI_00616	CDS	201				hypothetical protein
+JDHLPIAI_00617	gene	2268	copA			
+JDHLPIAI_00617	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+JDHLPIAI_00618	gene	297				
+JDHLPIAI_00618	CDS	297				hypothetical protein
+JDHLPIAI_00619	gene	684	czcR			
+JDHLPIAI_00619	CDS	684	czcR			Transcriptional activator protein CzcR
+JDHLPIAI_00620	gene	1374	adeP			
+JDHLPIAI_00620	CDS	1374	adeP		COG2252	Adenine permease AdeP
+JDHLPIAI_00621	gene	1620	ybiT			
+JDHLPIAI_00621	CDS	1620	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+JDHLPIAI_00622	gene	567	pinR			
+JDHLPIAI_00622	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+JDHLPIAI_00623	gene	2460				
+JDHLPIAI_00623	CDS	2460				hypothetical protein
+JDHLPIAI_00624	gene	681	lolD_1			
+JDHLPIAI_00624	CDS	681	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+JDHLPIAI_00625	gene	603	nudL			
+JDHLPIAI_00625	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+JDHLPIAI_00626	gene	291				
+JDHLPIAI_00626	CDS	291				hypothetical protein
+JDHLPIAI_00627	gene	762	ribX			
+JDHLPIAI_00627	CDS	762	ribX			Riboflavin transport system permease protein RibX
+JDHLPIAI_00628	gene	1023	thiY			
+JDHLPIAI_00628	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+JDHLPIAI_00629	gene	726	tauB			
+JDHLPIAI_00629	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+JDHLPIAI_00630	gene	2643	mutS			
+JDHLPIAI_00630	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+JDHLPIAI_00631	gene	2061	mutL			
+JDHLPIAI_00631	CDS	2061	mutL			DNA mismatch repair protein MutL
+JDHLPIAI_00632	gene	957	miaA			
+JDHLPIAI_00632	CDS	957	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+JDHLPIAI_00633	gene	1275				
+JDHLPIAI_00633	CDS	1275				hypothetical protein
+JDHLPIAI_00634	gene	498	proX			
+JDHLPIAI_00634	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+JDHLPIAI_00635	gene	2121	nrdD			
+JDHLPIAI_00635	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+JDHLPIAI_00636	gene	504	nrdG			
+JDHLPIAI_00636	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+JDHLPIAI_00637	gene	318	erpA			
+JDHLPIAI_00637	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+JDHLPIAI_00638	gene	858	trmB			
+JDHLPIAI_00638	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+JDHLPIAI_00639	gene	819				
+JDHLPIAI_00639	CDS	819				hypothetical protein
+JDHLPIAI_00640	gene	849				
+JDHLPIAI_00640	CDS	849				DegV domain-containing protein
+JDHLPIAI_00641	gene	1356	prpC_2			
+JDHLPIAI_00641	CDS	1356	prpC_2	2.3.3.5	COG0372	2-methylcitrate synthase
+JDHLPIAI_00642	gene	1053	ltaE			
+JDHLPIAI_00642	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+JDHLPIAI_00643	gene	1140	xerD			
+JDHLPIAI_00643	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+JDHLPIAI_00644	gene	636	lexA			
+JDHLPIAI_00644	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+JDHLPIAI_00645	gene	489				
+JDHLPIAI_00645	CDS	489				hypothetical protein
+JDHLPIAI_00646	gene	1896	ftsH4			
+JDHLPIAI_00646	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+JDHLPIAI_00647	gene	831	ispH			
+JDHLPIAI_00647	CDS	831	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+JDHLPIAI_00648	gene	615	plsC			
+JDHLPIAI_00648	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+JDHLPIAI_00649	gene	660	cmk			
+JDHLPIAI_00649	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+JDHLPIAI_00650	gene	1257				
+JDHLPIAI_00650	CDS	1257			COG2081	putative protein
+JDHLPIAI_00651	gene	651	pspA			
+JDHLPIAI_00651	CDS	651	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+JDHLPIAI_00652	gene	942	hexR			
+JDHLPIAI_00652	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+JDHLPIAI_00653	gene	732	rluB			
+JDHLPIAI_00653	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+JDHLPIAI_00654	gene	714				
+JDHLPIAI_00654	CDS	714				hypothetical protein
+JDHLPIAI_00655	gene	1389	gltD			
+JDHLPIAI_00655	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+JDHLPIAI_00656	gene	894				
+JDHLPIAI_00656	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+JDHLPIAI_00657	gene	855	sseB			
+JDHLPIAI_00657	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+JDHLPIAI_00658	gene	357	rplT			
+JDHLPIAI_00658	CDS	357	rplT			50S ribosomal protein L20
+JDHLPIAI_00659	gene	198	rpmI			
+JDHLPIAI_00659	CDS	198	rpmI			50S ribosomal protein L35
+JDHLPIAI_00660	gene	459	infC			
+JDHLPIAI_00660	CDS	459	infC			Translation initiation factor IF-3
+JDHLPIAI_00661	gene	864	map			
+JDHLPIAI_00661	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+JDHLPIAI_00662	gene	603				
+JDHLPIAI_00662	CDS	603				hypothetical protein
+JDHLPIAI_00663	gene	561				
+JDHLPIAI_00663	CDS	561				hypothetical protein
+JDHLPIAI_00664	gene	549	chrA1			
+JDHLPIAI_00664	CDS	549	chrA1			Chromate transport protein
+JDHLPIAI_00665	gene	189				
+JDHLPIAI_00665	CDS	189				Rubredoxin
+JDHLPIAI_00666	gene	1101	dhaD			
+JDHLPIAI_00666	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+JDHLPIAI_00667	gene	1191				
+JDHLPIAI_00667	CDS	1191				hypothetical protein
+JDHLPIAI_00668	gene	750				
+JDHLPIAI_00668	CDS	750				hypothetical protein
+JDHLPIAI_00669	gene	411				
+JDHLPIAI_00669	CDS	411				hypothetical protein
+JDHLPIAI_00670	gene	513				
+JDHLPIAI_00670	CDS	513				hypothetical protein
+JDHLPIAI_00671	gene	777				
+JDHLPIAI_00671	CDS	777				hypothetical protein
+JDHLPIAI_00672	gene	705				
+JDHLPIAI_00672	CDS	705				hypothetical protein
+JDHLPIAI_00673	gene	1368	mepA_4			
+JDHLPIAI_00673	CDS	1368	mepA_4			Multidrug export protein MepA
+JDHLPIAI_00674	gene	2472				
+JDHLPIAI_00674	CDS	2472				hypothetical protein
+JDHLPIAI_00675	gene	597				
+JDHLPIAI_00675	CDS	597				hypothetical protein
+JDHLPIAI_00676	gene	2121	nqrC			
+JDHLPIAI_00676	CDS	2121	nqrC	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit C
+JDHLPIAI_00677	gene	525				
+JDHLPIAI_00677	CDS	525				hypothetical protein
+JDHLPIAI_00678	gene	540				
+JDHLPIAI_00678	CDS	540				hypothetical protein
+JDHLPIAI_00679	gene	4026				
+JDHLPIAI_00679	CDS	4026				hypothetical protein
+JDHLPIAI_00680	gene	711				
+JDHLPIAI_00680	CDS	711				hypothetical protein
+JDHLPIAI_00681	gene	1365	rclA			
+JDHLPIAI_00681	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+JDHLPIAI_00682	gene	312				
+JDHLPIAI_00682	CDS	312				hypothetical protein
+JDHLPIAI_00683	gene	1494				
+JDHLPIAI_00683	CDS	1494				hypothetical protein
+JDHLPIAI_00684	gene	498				
+JDHLPIAI_00684	CDS	498				hypothetical protein
+JDHLPIAI_00685	gene	1392				
+JDHLPIAI_00685	CDS	1392				hypothetical protein
+JDHLPIAI_00686	gene	1188				
+JDHLPIAI_00686	CDS	1188				hypothetical protein
+JDHLPIAI_00687	gene	852				
+JDHLPIAI_00687	CDS	852				hypothetical protein
+JDHLPIAI_00688	gene	432	yiaC			
+JDHLPIAI_00688	CDS	432	yiaC	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YiaC
+JDHLPIAI_00689	gene	360				
+JDHLPIAI_00689	CDS	360				hypothetical protein
+JDHLPIAI_00690	gene	198				
+JDHLPIAI_00690	CDS	198				hypothetical protein
+JDHLPIAI_00691	gene	1071				
+JDHLPIAI_00691	CDS	1071				hypothetical protein
+JDHLPIAI_00692	gene	408				
+JDHLPIAI_00692	CDS	408				hypothetical protein
+JDHLPIAI_00693	gene	504				
+JDHLPIAI_00693	CDS	504				hypothetical protein
+JDHLPIAI_00694	gene	1347				
+JDHLPIAI_00694	CDS	1347				hypothetical protein
+JDHLPIAI_00695	gene	3702				
+JDHLPIAI_00695	CDS	3702				hypothetical protein
+JDHLPIAI_00696	gene	204				
+JDHLPIAI_00696	CDS	204				hypothetical protein
+JDHLPIAI_00697	gene	738				
+JDHLPIAI_00697	CDS	738				hypothetical protein
+JDHLPIAI_00698	gene	642				
+JDHLPIAI_00698	CDS	642				hypothetical protein
+JDHLPIAI_00699	gene	369				
+JDHLPIAI_00699	CDS	369				hypothetical protein
+JDHLPIAI_00700	gene	1683				
+JDHLPIAI_00700	CDS	1683				hypothetical protein
+JDHLPIAI_00701	gene	2253	rep			
+JDHLPIAI_00701	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+JDHLPIAI_00702	gene	684				
+JDHLPIAI_00702	CDS	684				hypothetical protein
+JDHLPIAI_00703	gene	3417	addB			
+JDHLPIAI_00703	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+JDHLPIAI_00704	gene	3933	addA			
+JDHLPIAI_00704	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+JDHLPIAI_00705	gene	1224	cpdA			
+JDHLPIAI_00705	CDS	1224	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JDHLPIAI_00706	gene	3081	smc_1			
+JDHLPIAI_00706	CDS	3081	smc_1			Chromosome partition protein Smc
+JDHLPIAI_00707	gene	1329				
+JDHLPIAI_00707	CDS	1329				hypothetical protein
+JDHLPIAI_00708	gene	711				
+JDHLPIAI_00708	CDS	711				hypothetical protein
+JDHLPIAI_00709	gene	582				
+JDHLPIAI_00709	CDS	582				hypothetical protein
+JDHLPIAI_00710	gene	1332	mepA_5			
+JDHLPIAI_00710	CDS	1332	mepA_5			Multidrug export protein MepA
+JDHLPIAI_00711	gene	855				
+JDHLPIAI_00711	CDS	855				hypothetical protein
+JDHLPIAI_00712	gene	1326				
+JDHLPIAI_00712	CDS	1326				hypothetical protein
+JDHLPIAI_00713	gene	477	yfkJ			
+JDHLPIAI_00713	CDS	477	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+JDHLPIAI_00714	gene	894	bglK			
+JDHLPIAI_00714	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+JDHLPIAI_00715	gene	993	malR			
+JDHLPIAI_00715	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+JDHLPIAI_00716	gene	1287				
+JDHLPIAI_00716	CDS	1287				hypothetical protein
+JDHLPIAI_00717	gene	873	melD			
+JDHLPIAI_00717	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+JDHLPIAI_00718	gene	822	melC			
+JDHLPIAI_00718	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+JDHLPIAI_00719	gene	2289	malP			
+JDHLPIAI_00719	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+JDHLPIAI_00720	gene	1662	malL			
+JDHLPIAI_00720	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+JDHLPIAI_00721	gene	642	ycjU			
+JDHLPIAI_00721	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+JDHLPIAI_00722	gene	1128	msmX			
+JDHLPIAI_00722	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+JDHLPIAI_00723	gene	390				
+JDHLPIAI_00723	CDS	390				hypothetical protein
+JDHLPIAI_00724	gene	1383				
+JDHLPIAI_00724	CDS	1383				hypothetical protein
+JDHLPIAI_00725	gene	339				
+JDHLPIAI_00725	CDS	339				hypothetical protein
+JDHLPIAI_00726	gene	1926	thrZ			
+JDHLPIAI_00726	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+JDHLPIAI_00727	gene	1005	hrcA			
+JDHLPIAI_00727	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+JDHLPIAI_00728	gene	624	grpE			
+JDHLPIAI_00728	CDS	624	grpE			Protein GrpE
+JDHLPIAI_00729	gene	1845	dnaK			
+JDHLPIAI_00729	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+JDHLPIAI_00730	gene	1155	dnaJ			
+JDHLPIAI_00730	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+JDHLPIAI_00731	gene	717	tcdA			
+JDHLPIAI_00731	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+JDHLPIAI_00732	gene	867	comEC_1			
+JDHLPIAI_00732	CDS	867	comEC_1		COG0658	ComE operon protein 3
+JDHLPIAI_00733	gene	906				
+JDHLPIAI_00733	CDS	906				hypothetical protein
+JDHLPIAI_00734	gene	1287	eis			
+JDHLPIAI_00734	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+JDHLPIAI_00735	gene	1236	comEC_2			
+JDHLPIAI_00735	CDS	1236	comEC_2		COG0658	ComE operon protein 3
+JDHLPIAI_00736	gene	1038	yqeN			
+JDHLPIAI_00736	CDS	1038	yqeN		COG1466	putative protein YqeN
+JDHLPIAI_00737	gene	687	graR			
+JDHLPIAI_00737	CDS	687	graR		COG0745	Response regulator protein GraR
+JDHLPIAI_00738	gene	990	graS			
+JDHLPIAI_00738	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+JDHLPIAI_00739	gene	756	yxdL			
+JDHLPIAI_00739	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+JDHLPIAI_00740	gene	1875	yxdM			
+JDHLPIAI_00740	CDS	1875	yxdM			ABC transporter permease protein YxdM
+JDHLPIAI_00741	gene	120				
+JDHLPIAI_00741	CDS	120				hypothetical protein
+JDHLPIAI_00742	gene	267	rpsT			
+JDHLPIAI_00742	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+JDHLPIAI_00743	gene	1806	lepA			
+JDHLPIAI_00743	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+JDHLPIAI_00744	gene	1317	cca			
+JDHLPIAI_00744	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+JDHLPIAI_00745	gene	861				
+JDHLPIAI_00745	CDS	861				hypothetical protein
+JDHLPIAI_00746	gene	1149	hemW			
+JDHLPIAI_00746	CDS	1149	hemW		COG0635	Heme chaperone HemW
+JDHLPIAI_00747	gene	576	zapA			
+JDHLPIAI_00747	CDS	576	zapA			Cell division protein ZapA
+JDHLPIAI_00748	gene	2439				
+JDHLPIAI_00748	CDS	2439				hypothetical protein
+JDHLPIAI_00749	gene	1614	nnr			
+JDHLPIAI_00749	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+JDHLPIAI_00750	gene	453				
+JDHLPIAI_00750	CDS	453				hypothetical protein
+JDHLPIAI_00751	gene	1005				
+JDHLPIAI_00751	CDS	1005			COG0330	putative protein
+JDHLPIAI_00752	gene	369				
+JDHLPIAI_00752	CDS	369				hypothetical protein
+JDHLPIAI_00753	gene	1494				
+JDHLPIAI_00753	CDS	1494				hypothetical protein
+JDHLPIAI_00754	gene	729	ecsA_2			
+JDHLPIAI_00754	CDS	729	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+JDHLPIAI_00755	gene	1560				
+JDHLPIAI_00755	CDS	1560				hypothetical protein
+JDHLPIAI_00756	gene	213				
+JDHLPIAI_00756	CDS	213				hypothetical protein
+JDHLPIAI_00757	gene	1239	rps1			
+JDHLPIAI_00757	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+JDHLPIAI_00758	gene	1422				
+JDHLPIAI_00758	CDS	1422				hypothetical protein
+JDHLPIAI_00759	gene	486				
+JDHLPIAI_00759	CDS	486				hypothetical protein
+JDHLPIAI_00760	gene	456				
+JDHLPIAI_00760	CDS	456				hypothetical protein
+JDHLPIAI_00761	gene	321				
+JDHLPIAI_00761	CDS	321				hypothetical protein
+JDHLPIAI_00762	gene	462	cdd			
+JDHLPIAI_00762	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+JDHLPIAI_00763	gene	738				
+JDHLPIAI_00763	CDS	738				hypothetical protein
+JDHLPIAI_00764	gene	1320				
+JDHLPIAI_00764	CDS	1320				hypothetical protein
+JDHLPIAI_00765	gene	2358	secA			
+JDHLPIAI_00765	CDS	2358	secA		COG0653	Protein translocase subunit SecA
+JDHLPIAI_00766	gene	1365				
+JDHLPIAI_00766	CDS	1365				hypothetical protein
+JDHLPIAI_00767	gene	1305				
+JDHLPIAI_00767	CDS	1305				hypothetical protein
+JDHLPIAI_00768	gene	1893	lytC_4			
+JDHLPIAI_00768	CDS	1893	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JDHLPIAI_00769	gene	1107				
+JDHLPIAI_00769	CDS	1107				hypothetical protein
+JDHLPIAI_00770	gene	663	wecA			
+JDHLPIAI_00770	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+JDHLPIAI_00771	gene	780	tuaG_1			
+JDHLPIAI_00771	CDS	780	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+JDHLPIAI_00772	gene	813				
+JDHLPIAI_00772	CDS	813				hypothetical protein
+JDHLPIAI_00773	gene	1188	tagF			
+JDHLPIAI_00773	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+JDHLPIAI_00774	gene	1122				
+JDHLPIAI_00774	CDS	1122				hypothetical protein
+JDHLPIAI_00775	gene	765	tuaG_2			
+JDHLPIAI_00775	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+JDHLPIAI_00776	gene	1101	mshA			
+JDHLPIAI_00776	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+JDHLPIAI_00777	gene	1446	fcl			
+JDHLPIAI_00777	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+JDHLPIAI_00778	gene	1560	murJ_2			
+JDHLPIAI_00778	CDS	1560	murJ_2		COG0728	putative lipid II flippase MurJ
+JDHLPIAI_00779	gene	1230				
+JDHLPIAI_00779	CDS	1230				hypothetical protein
+JDHLPIAI_00780	gene	2145				
+JDHLPIAI_00780	CDS	2145				hypothetical protein
+JDHLPIAI_00781	gene	1350	alsT			
+JDHLPIAI_00781	CDS	1350	alsT		COG1115	Amino-acid carrier protein AlsT
+JDHLPIAI_00782	gene	525				
+JDHLPIAI_00782	CDS	525				hypothetical protein
+JDHLPIAI_00783	gene	651				
+JDHLPIAI_00783	CDS	651				hypothetical protein
+JDHLPIAI_00784	gene	465				
+JDHLPIAI_00784	CDS	465				hypothetical protein
+JDHLPIAI_00785	gene	1164	ugtP			
+JDHLPIAI_00785	CDS	1164	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+JDHLPIAI_00786	gene	690				
+JDHLPIAI_00786	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+JDHLPIAI_00787	gene	1044				
+JDHLPIAI_00787	CDS	1044				hypothetical protein
+JDHLPIAI_00788	gene	1347	rpoN			
+JDHLPIAI_00788	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+JDHLPIAI_00789	gene	1293				
+JDHLPIAI_00789	CDS	1293				hypothetical protein
+JDHLPIAI_00790	gene	1233				
+JDHLPIAI_00790	CDS	1233				hypothetical protein
+JDHLPIAI_00791	gene	1728	adeC			
+JDHLPIAI_00791	CDS	1728	adeC	3.5.4.2		Adenine deaminase
+JDHLPIAI_00792	gene	189	rpmB			
+JDHLPIAI_00792	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+JDHLPIAI_00793	gene	351				
+JDHLPIAI_00793	CDS	351				putative protein
+JDHLPIAI_00794	gene	1665				
+JDHLPIAI_00794	CDS	1665				putative protein
+JDHLPIAI_00795	gene	2058	recG			
+JDHLPIAI_00795	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+JDHLPIAI_00796	gene	561	rsmD			
+JDHLPIAI_00796	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+JDHLPIAI_00797	gene	483	coaD			
+JDHLPIAI_00797	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+JDHLPIAI_00798	gene	546				
+JDHLPIAI_00798	CDS	546			COG3599	putative protein
+JDHLPIAI_00799	gene	1308	tmcAL			
+JDHLPIAI_00799	CDS	1308	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+JDHLPIAI_00800	gene	1200	ackA			
+JDHLPIAI_00800	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+JDHLPIAI_00801	gene	519				
+JDHLPIAI_00801	CDS	519				hypothetical protein
+JDHLPIAI_00802	gene	180	rpmF			
+JDHLPIAI_00802	CDS	180	rpmF			50S ribosomal protein L32
+JDHLPIAI_00803	gene	1017	plsX			
+JDHLPIAI_00803	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+JDHLPIAI_00804	gene	1977	fbp			
+JDHLPIAI_00804	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+JDHLPIAI_00805	gene	342				
+JDHLPIAI_00805	CDS	342				putative protein
+JDHLPIAI_00806	gene	495	nusB			
+JDHLPIAI_00806	CDS	495	nusB			Transcription antitermination protein NusB
+JDHLPIAI_00807	gene	672	regX3			
+JDHLPIAI_00807	CDS	672	regX3		COG0745	Sensory transduction protein regX3
+JDHLPIAI_00808	gene	975	sasA_3			
+JDHLPIAI_00808	CDS	975	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+JDHLPIAI_00809	gene	672	lolD_2			
+JDHLPIAI_00809	CDS	672	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+JDHLPIAI_00810	gene	2505				
+JDHLPIAI_00810	CDS	2505				hypothetical protein
+JDHLPIAI_00811	gene	1050	apbE			
+JDHLPIAI_00811	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+JDHLPIAI_00812	gene	375				
+JDHLPIAI_00812	CDS	375				hypothetical protein
+JDHLPIAI_00813	gene	675	ung			
+JDHLPIAI_00813	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+JDHLPIAI_00814	gene	606				
+JDHLPIAI_00814	CDS	606				hypothetical protein
+JDHLPIAI_00815	gene	882				
+JDHLPIAI_00815	CDS	882				hypothetical protein
+JDHLPIAI_00816	gene	756				
+JDHLPIAI_00816	CDS	756				hypothetical protein
+JDHLPIAI_00817	gene	870				
+JDHLPIAI_00817	CDS	870				hypothetical protein
+JDHLPIAI_00818	gene	879	rsmA			
+JDHLPIAI_00818	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+JDHLPIAI_00819	gene	555	rnmV			
+JDHLPIAI_00819	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+JDHLPIAI_00820	gene	516				
+JDHLPIAI_00820	CDS	516				hypothetical protein
+JDHLPIAI_00821	gene	651				
+JDHLPIAI_00821	CDS	651				hypothetical protein
+JDHLPIAI_00822	gene	804	proC			
+JDHLPIAI_00822	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+JDHLPIAI_00823	gene	1476				
+JDHLPIAI_00823	CDS	1476				hypothetical protein
+JDHLPIAI_00824	gene	198				
+JDHLPIAI_00824	CDS	198				hypothetical protein
+JDHLPIAI_00825	gene	2490				
+JDHLPIAI_00825	CDS	2490				hypothetical protein
+JDHLPIAI_00826	gene	771	ycfH			
+JDHLPIAI_00826	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+JDHLPIAI_00827	gene	1941	metG			
+JDHLPIAI_00827	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+JDHLPIAI_00828	gene	456	lrpC			
+JDHLPIAI_00828	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+JDHLPIAI_00829	gene	1437	pncB2			
+JDHLPIAI_00829	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+JDHLPIAI_00830	gene	5607				
+JDHLPIAI_00830	CDS	5607				hypothetical protein
+JDHLPIAI_00831	gene	459				
+JDHLPIAI_00831	CDS	459				hypothetical protein
+JDHLPIAI_00832	gene	837	rsmI			
+JDHLPIAI_00832	CDS	837	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+JDHLPIAI_00833	gene	750	yfiC			
+JDHLPIAI_00833	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+JDHLPIAI_00834	gene	897				
+JDHLPIAI_00834	CDS	897				hypothetical protein
+JDHLPIAI_00835	gene	939				
+JDHLPIAI_00835	CDS	939				hypothetical protein
+JDHLPIAI_00836	gene	702	tmk			
+JDHLPIAI_00836	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+JDHLPIAI_00837	gene	1506	speA			
+JDHLPIAI_00837	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+JDHLPIAI_00838	gene	88				
+JDHLPIAI_00838	rRNA	88				5S ribosomal RNA (partial)
+JDHLPIAI_00839	gene	285				
+JDHLPIAI_00839	CDS	285				hypothetical protein
+JDHLPIAI_00840	gene	2637	alaS_2			
+JDHLPIAI_00840	CDS	2637	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+JDHLPIAI_00841	gene	261				
+JDHLPIAI_00841	CDS	261				hypothetical protein
+JDHLPIAI_00842	gene	2280				
+JDHLPIAI_00842	CDS	2280				hypothetical protein
+JDHLPIAI_00843	gene	399	yrrK			
+JDHLPIAI_00843	CDS	399	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+JDHLPIAI_00844	gene	450	fur			
+JDHLPIAI_00844	CDS	450	fur		COG0735	Ferric uptake regulation protein
+JDHLPIAI_00845	gene	1083				
+JDHLPIAI_00845	CDS	1083				hypothetical protein
+JDHLPIAI_00846	gene	1626				
+JDHLPIAI_00846	CDS	1626				hypothetical protein
+JDHLPIAI_00847	gene	1548	rny			
+JDHLPIAI_00847	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+JDHLPIAI_00848	gene	1782				
+JDHLPIAI_00848	CDS	1782				hypothetical protein
+JDHLPIAI_00849	gene	813	uppP			
+JDHLPIAI_00849	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+JDHLPIAI_00850	gene	1200				
+JDHLPIAI_00850	CDS	1200		2.6.1.1		Aspartate aminotransferase
+JDHLPIAI_00851	gene	957	galT			
+JDHLPIAI_00851	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+JDHLPIAI_00852	gene	1902				
+JDHLPIAI_00852	CDS	1902				hypothetical protein
+JDHLPIAI_00853	gene	825	pdxY			
+JDHLPIAI_00853	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+JDHLPIAI_00854	gene	201	cspA			
+JDHLPIAI_00854	CDS	201	cspA		COG1278	Cold shock protein CspA
+JDHLPIAI_00855	gene	453				
+JDHLPIAI_00855	CDS	453				hypothetical protein
+JDHLPIAI_00856	gene	465				
+JDHLPIAI_00856	CDS	465				hypothetical protein
+JDHLPIAI_00857	gene	444				
+JDHLPIAI_00857	CDS	444				hypothetical protein
+JDHLPIAI_00858	gene	768	prsA			
+JDHLPIAI_00858	CDS	768	prsA	5.2.1.8		Foldase protein PrsA
+JDHLPIAI_00859	gene	2175	btuD_2			
+JDHLPIAI_00859	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JDHLPIAI_00860	gene	1878				
+JDHLPIAI_00860	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+JDHLPIAI_00861	gene	1221				
+JDHLPIAI_00861	CDS	1221				hypothetical protein
+JDHLPIAI_00862	gene	285				
+JDHLPIAI_00862	CDS	285				hypothetical protein
+JDHLPIAI_00863	gene	951	prmA			
+JDHLPIAI_00863	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+JDHLPIAI_00864	gene	777	rsmE			
+JDHLPIAI_00864	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+JDHLPIAI_00865	gene	1296	mtaB			
+JDHLPIAI_00865	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+JDHLPIAI_00866	gene	324				
+JDHLPIAI_00866	CDS	324				hypothetical protein
+JDHLPIAI_00867	gene	345				
+JDHLPIAI_00867	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+JDHLPIAI_00868	gene	822				
+JDHLPIAI_00868	CDS	822				hypothetical protein
+JDHLPIAI_00869	gene	1032	pheS			
+JDHLPIAI_00869	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+JDHLPIAI_00870	gene	2391	pheT			
+JDHLPIAI_00870	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+JDHLPIAI_00871	gene	1557	ykoD_3			
+JDHLPIAI_00871	CDS	1557	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+JDHLPIAI_00872	gene	705				
+JDHLPIAI_00872	CDS	705				hypothetical protein
+JDHLPIAI_00873	gene	609				
+JDHLPIAI_00873	CDS	609				hypothetical protein
+JDHLPIAI_00874	gene	1719				
+JDHLPIAI_00874	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+JDHLPIAI_00875	gene	1770	msbA_2			
+JDHLPIAI_00875	CDS	1770	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+JDHLPIAI_00876	gene	957	rhaR_2			
+JDHLPIAI_00876	CDS	957	rhaR_2			HTH-type transcriptional activator RhaR
+JDHLPIAI_00877	gene	1818	uvrC			
+JDHLPIAI_00877	CDS	1818	uvrC		COG0322	UvrABC system protein C
+JDHLPIAI_00878	gene	933	hprK			
+JDHLPIAI_00878	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+JDHLPIAI_00879	gene	921	murB			
+JDHLPIAI_00879	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+JDHLPIAI_00880	gene	738	ycdX			
+JDHLPIAI_00880	CDS	738	ycdX	3.1.3.-	COG1387	putative phosphatase YcdX
+JDHLPIAI_00881	gene	864	yvcJ			
+JDHLPIAI_00881	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+JDHLPIAI_00882	gene	1140				
+JDHLPIAI_00882	CDS	1140			COG0391	Gluconeogenesis factor
+JDHLPIAI_00883	gene	417	ndx1			
+JDHLPIAI_00883	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+JDHLPIAI_00884	gene	966	whiA			
+JDHLPIAI_00884	CDS	966	whiA		COG1481	putative cell division protein WhiA
+JDHLPIAI_00885	gene	3603	dnaE			
+JDHLPIAI_00885	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+JDHLPIAI_00886	gene	918	bcrA			
+JDHLPIAI_00886	CDS	918	bcrA			Bacitracin transport ATP-binding protein BcrA
+JDHLPIAI_00887	gene	234				
+JDHLPIAI_00887	CDS	234				hypothetical protein
+JDHLPIAI_00888	gene	132				
+JDHLPIAI_00888	CDS	132				hypothetical protein
+JDHLPIAI_00889	gene	1053	mnmA			
+JDHLPIAI_00889	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+JDHLPIAI_00890	gene	465	cymR			
+JDHLPIAI_00890	CDS	465	cymR			HTH-type transcriptional regulator CymR
+JDHLPIAI_00891	gene	1272	rarA			
+JDHLPIAI_00891	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+JDHLPIAI_00892	gene	777	codY			
+JDHLPIAI_00892	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+JDHLPIAI_00893	gene	2082	topA			
+JDHLPIAI_00893	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+JDHLPIAI_00894	gene	1257				
+JDHLPIAI_00894	CDS	1257				hypothetical protein
+JDHLPIAI_00895	gene	1629	comM			
+JDHLPIAI_00895	CDS	1629	comM		COG0606	Competence protein ComM
+JDHLPIAI_00896	gene	363				
+JDHLPIAI_00896	CDS	363				hypothetical protein
+JDHLPIAI_00897	gene	1017	hmo_2			
+JDHLPIAI_00897	CDS	1017	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+JDHLPIAI_00898	gene	792	rnhB			
+JDHLPIAI_00898	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+JDHLPIAI_00899	gene	1164	alr1			
+JDHLPIAI_00899	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+JDHLPIAI_00900	gene	885	rbgA			
+JDHLPIAI_00900	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+JDHLPIAI_00901	gene	357	rplS			
+JDHLPIAI_00901	CDS	357	rplS		COG0335	50S ribosomal protein L19
+JDHLPIAI_00902	gene	1224	tyrS			
+JDHLPIAI_00902	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+JDHLPIAI_00903	gene	1158				
+JDHLPIAI_00903	CDS	1158				hypothetical protein
+JDHLPIAI_00904	gene	741	trmD			
+JDHLPIAI_00904	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+JDHLPIAI_00905	gene	519	rimM			
+JDHLPIAI_00905	CDS	519	rimM			Ribosome maturation factor RimM
+JDHLPIAI_00906	gene	234				
+JDHLPIAI_00906	CDS	234				hypothetical protein
+JDHLPIAI_00907	gene	273	rpsP			
+JDHLPIAI_00907	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+JDHLPIAI_00908	gene	1359	ffh			
+JDHLPIAI_00908	CDS	1359	ffh		COG0541	Signal recognition particle protein
+JDHLPIAI_00909	gene	354				
+JDHLPIAI_00909	CDS	354				hypothetical protein
+JDHLPIAI_00910	gene	798				
+JDHLPIAI_00910	CDS	798				hypothetical protein
+JDHLPIAI_00911	gene	1080				
+JDHLPIAI_00911	CDS	1080				IS256 family transposase ISCth4
+JDHLPIAI_00912	gene	2646	ppdK			
+JDHLPIAI_00912	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+JDHLPIAI_00913	gene	840	yqfL			
+JDHLPIAI_00913	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+JDHLPIAI_00914	gene	606	ccpN			
+JDHLPIAI_00914	CDS	606	ccpN		COG0517	Transcriptional repressor CcpN
+JDHLPIAI_00915	gene	771	aviRb			
+JDHLPIAI_00915	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+JDHLPIAI_00916	gene	675	ktrA			
+JDHLPIAI_00916	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+JDHLPIAI_00917	gene	1371	ntpJ			
+JDHLPIAI_00917	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+JDHLPIAI_00918	gene	1992				
+JDHLPIAI_00918	CDS	1992				hypothetical protein
+JDHLPIAI_00919	gene	954	lytC_5			
+JDHLPIAI_00919	CDS	954	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JDHLPIAI_00920	gene	144				
+JDHLPIAI_00920	CDS	144				hypothetical protein
+JDHLPIAI_00921	gene	321	yajC			
+JDHLPIAI_00921	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+JDHLPIAI_00922	gene	1119	tgt			
+JDHLPIAI_00922	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+JDHLPIAI_00923	gene	1026	queA			
+JDHLPIAI_00923	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+JDHLPIAI_00924	gene	1014	ruvB			
+JDHLPIAI_00924	CDS	1014	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+JDHLPIAI_00925	gene	612	ruvA			
+JDHLPIAI_00925	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+JDHLPIAI_00926	gene	498	ruvC			
+JDHLPIAI_00926	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+JDHLPIAI_00927	gene	567				
+JDHLPIAI_00927	CDS	567				hypothetical protein
+JDHLPIAI_00928	gene	642				
+JDHLPIAI_00928	CDS	642				hypothetical protein
+JDHLPIAI_00929	gene	342				
+JDHLPIAI_00929	CDS	342				hypothetical protein
+JDHLPIAI_00930	gene	2574				
+JDHLPIAI_00930	CDS	2574				hypothetical protein
+JDHLPIAI_00931	gene	1296	ftsY			
+JDHLPIAI_00931	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+JDHLPIAI_00932	gene	3552	smc_2			
+JDHLPIAI_00932	CDS	3552	smc_2		COG1196	Chromosome partition protein Smc
+JDHLPIAI_00933	gene	1071				
+JDHLPIAI_00933	CDS	1071				hypothetical protein
+JDHLPIAI_00934	gene	708	rnc			
+JDHLPIAI_00934	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+JDHLPIAI_00935	gene	561	efp			
+JDHLPIAI_00935	CDS	561	efp		COG0231	Elongation factor P
+JDHLPIAI_00936	gene	1695	pgcA			
+JDHLPIAI_00936	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+JDHLPIAI_00937	gene	726	gamA			
+JDHLPIAI_00937	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+JDHLPIAI_00938	gene	402				
+JDHLPIAI_00938	CDS	402				hypothetical protein
+JDHLPIAI_00939	gene	273				
+JDHLPIAI_00939	CDS	273				hypothetical protein
+JDHLPIAI_00940	gene	855				
+JDHLPIAI_00940	CDS	855				hypothetical protein
+JDHLPIAI_00941	gene	2211	kdpB			
+JDHLPIAI_00941	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+JDHLPIAI_00942	gene	378				
+JDHLPIAI_00942	CDS	378				hypothetical protein
+JDHLPIAI_00943	gene	597				
+JDHLPIAI_00943	CDS	597				hypothetical protein
+JDHLPIAI_00944	gene	1113				
+JDHLPIAI_00944	CDS	1113				hypothetical protein
+JDHLPIAI_00945	gene	1119				
+JDHLPIAI_00945	CDS	1119				hypothetical protein
+JDHLPIAI_00946	gene	933	lnrL			
+JDHLPIAI_00946	CDS	933	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+JDHLPIAI_00947	gene	1146				
+JDHLPIAI_00947	CDS	1146				hypothetical protein
+JDHLPIAI_00948	gene	648	lnrK			
+JDHLPIAI_00948	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK

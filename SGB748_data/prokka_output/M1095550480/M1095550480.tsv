@@ -1,0 +1,3126 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LKFMPLPL_00001	gene	1287	cna			
+LKFMPLPL_00001	CDS	1287	cna			Collagen adhesin
+LKFMPLPL_00002	gene	705	srtD			
+LKFMPLPL_00002	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+LKFMPLPL_00003	gene	1017	nrnA			
+LKFMPLPL_00003	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+LKFMPLPL_00004	gene	903	truB			
+LKFMPLPL_00004	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+LKFMPLPL_00005	gene	972	ribF			
+LKFMPLPL_00005	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+LKFMPLPL_00006	gene	255	rpsO			
+LKFMPLPL_00006	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+LKFMPLPL_00007	gene	846				
+LKFMPLPL_00007	CDS	846			COG1307	Fatty acid-binding protein
+LKFMPLPL_00008	gene	2091	pnp			
+LKFMPLPL_00008	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+LKFMPLPL_00009	gene	2073				
+LKFMPLPL_00009	CDS	2073				hypothetical protein
+LKFMPLPL_00010	gene	1266				
+LKFMPLPL_00010	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+LKFMPLPL_00011	gene	2574				
+LKFMPLPL_00011	CDS	2574				hypothetical protein
+LKFMPLPL_00012	gene	1323	rimO			
+LKFMPLPL_00012	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+LKFMPLPL_00013	gene	540	pgsA			
+LKFMPLPL_00013	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+LKFMPLPL_00014	gene	1050	recA			
+LKFMPLPL_00014	CDS	1050	recA		COG0468	Protein RecA
+LKFMPLPL_00015	gene	1500	guaB			
+LKFMPLPL_00015	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+LKFMPLPL_00016	gene	750				
+LKFMPLPL_00016	CDS	750				hypothetical protein
+LKFMPLPL_00017	gene	1671	rnjA			
+LKFMPLPL_00017	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+LKFMPLPL_00018	gene	633				
+LKFMPLPL_00018	CDS	633				hypothetical protein
+LKFMPLPL_00019	gene	762	scpA			
+LKFMPLPL_00019	CDS	762	scpA		COG1354	Segregation and condensation protein A
+LKFMPLPL_00020	gene	519	scpB			
+LKFMPLPL_00020	CDS	519	scpB		COG1386	Segregation and condensation protein B
+LKFMPLPL_00021	gene	750	cobB			
+LKFMPLPL_00021	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+LKFMPLPL_00022	gene	441				
+LKFMPLPL_00022	CDS	441				hypothetical protein
+LKFMPLPL_00023	gene	1515				
+LKFMPLPL_00023	CDS	1515				hypothetical protein
+LKFMPLPL_00024	gene	1761				
+LKFMPLPL_00024	CDS	1761				hypothetical protein
+LKFMPLPL_00025	gene	555				
+LKFMPLPL_00025	CDS	555				hypothetical protein
+LKFMPLPL_00026	gene	675	arlR			
+LKFMPLPL_00026	CDS	675	arlR		COG0745	Response regulator ArlR
+LKFMPLPL_00027	gene	1293	sasA_1			
+LKFMPLPL_00027	CDS	1293	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+LKFMPLPL_00028	gene	318				
+LKFMPLPL_00028	CDS	318				hypothetical protein
+LKFMPLPL_00029	gene	4719				
+LKFMPLPL_00029	CDS	4719				hypothetical protein
+LKFMPLPL_00030	gene	3801				
+LKFMPLPL_00030	CDS	3801				hypothetical protein
+LKFMPLPL_00031	gene	510	folA			
+LKFMPLPL_00031	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+LKFMPLPL_00032	gene	834	thyA			
+LKFMPLPL_00032	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+LKFMPLPL_00033	gene	1860				
+LKFMPLPL_00033	CDS	1860				hypothetical protein
+LKFMPLPL_00034	gene	786				
+LKFMPLPL_00034	CDS	786				hypothetical protein
+LKFMPLPL_00035	gene	699				
+LKFMPLPL_00035	CDS	699				hypothetical protein
+LKFMPLPL_00036	gene	4311	polC_1			
+LKFMPLPL_00036	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+LKFMPLPL_00037	gene	885				
+LKFMPLPL_00037	CDS	885				hypothetical protein
+LKFMPLPL_00038	gene	852				
+LKFMPLPL_00038	CDS	852				hypothetical protein
+LKFMPLPL_00039	gene	1383	dinG			
+LKFMPLPL_00039	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+LKFMPLPL_00040	gene	1158				
+LKFMPLPL_00040	CDS	1158				hypothetical protein
+LKFMPLPL_00041	gene	741				
+LKFMPLPL_00041	CDS	741				hypothetical protein
+LKFMPLPL_00042	gene	339				
+LKFMPLPL_00042	CDS	339				hypothetical protein
+LKFMPLPL_00043	gene	1020	gap_1			
+LKFMPLPL_00043	CDS	1020	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+LKFMPLPL_00044	gene	4305				
+LKFMPLPL_00044	CDS	4305				hypothetical protein
+LKFMPLPL_00045	gene	1326				
+LKFMPLPL_00045	CDS	1326				hypothetical protein
+LKFMPLPL_00046	gene	801	artJ			
+LKFMPLPL_00046	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+LKFMPLPL_00047	gene	618	artQ_1			
+LKFMPLPL_00047	CDS	618	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+LKFMPLPL_00048	gene	645	tcyC			
+LKFMPLPL_00048	CDS	645	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+LKFMPLPL_00049	gene	1155				
+LKFMPLPL_00049	CDS	1155				hypothetical protein
+LKFMPLPL_00050	gene	1137				
+LKFMPLPL_00050	CDS	1137				TelA-like protein
+LKFMPLPL_00051	gene	1149	rlmL_1			
+LKFMPLPL_00051	CDS	1149	rlmL_1		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+LKFMPLPL_00052	gene	1365				
+LKFMPLPL_00052	CDS	1365				hypothetical protein
+LKFMPLPL_00053	gene	696	walR			
+LKFMPLPL_00053	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+LKFMPLPL_00054	gene	1437	rcsC			
+LKFMPLPL_00054	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+LKFMPLPL_00055	gene	1353	mepA_1			
+LKFMPLPL_00055	CDS	1353	mepA_1		COG0534	Multidrug export protein MepA
+LKFMPLPL_00056	gene	843				
+LKFMPLPL_00056	CDS	843				hypothetical protein
+LKFMPLPL_00057	gene	417				
+LKFMPLPL_00057	CDS	417				hypothetical protein
+LKFMPLPL_00058	gene	720	ytrB			
+LKFMPLPL_00058	CDS	720	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+LKFMPLPL_00059	gene	351				
+LKFMPLPL_00059	CDS	351				hypothetical protein
+LKFMPLPL_00060	gene	420				
+LKFMPLPL_00060	CDS	420				hypothetical protein
+LKFMPLPL_00061	gene	906				
+LKFMPLPL_00061	CDS	906				hypothetical protein
+LKFMPLPL_00062	gene	1260				
+LKFMPLPL_00062	CDS	1260				hypothetical protein
+LKFMPLPL_00063	gene	1101				
+LKFMPLPL_00063	CDS	1101				hypothetical protein
+LKFMPLPL_00064	gene	1851				
+LKFMPLPL_00064	CDS	1851				hypothetical protein
+LKFMPLPL_00065	gene	936	corA			
+LKFMPLPL_00065	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+LKFMPLPL_00066	gene	705				
+LKFMPLPL_00066	CDS	705				hypothetical protein
+LKFMPLPL_00067	gene	1839	typA			
+LKFMPLPL_00067	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+LKFMPLPL_00068	gene	201				
+LKFMPLPL_00068	CDS	201				hypothetical protein
+LKFMPLPL_00069	gene	2268	copA			
+LKFMPLPL_00069	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+LKFMPLPL_00070	gene	297				
+LKFMPLPL_00070	CDS	297				hypothetical protein
+LKFMPLPL_00071	gene	684	czcR			
+LKFMPLPL_00071	CDS	684	czcR			Transcriptional activator protein CzcR
+LKFMPLPL_00072	gene	1374	adeP			
+LKFMPLPL_00072	CDS	1374	adeP		COG2252	Adenine permease AdeP
+LKFMPLPL_00073	gene	1620	ybiT_1			
+LKFMPLPL_00073	CDS	1620	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+LKFMPLPL_00074	gene	567	pinR			
+LKFMPLPL_00074	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+LKFMPLPL_00075	gene	603	nudL			
+LKFMPLPL_00075	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+LKFMPLPL_00076	gene	291				
+LKFMPLPL_00076	CDS	291				hypothetical protein
+LKFMPLPL_00077	gene	762	ribX			
+LKFMPLPL_00077	CDS	762	ribX			Riboflavin transport system permease protein RibX
+LKFMPLPL_00078	gene	1023	thiY			
+LKFMPLPL_00078	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+LKFMPLPL_00079	gene	726	tauB			
+LKFMPLPL_00079	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+LKFMPLPL_00080	gene	2643	mutS			
+LKFMPLPL_00080	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+LKFMPLPL_00081	gene	2061	mutL			
+LKFMPLPL_00081	CDS	2061	mutL			DNA mismatch repair protein MutL
+LKFMPLPL_00082	gene	954	miaA			
+LKFMPLPL_00082	CDS	954	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+LKFMPLPL_00083	gene	1275				
+LKFMPLPL_00083	CDS	1275				hypothetical protein
+LKFMPLPL_00084	gene	498	proX			
+LKFMPLPL_00084	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+LKFMPLPL_00085	gene	2121	nrdD			
+LKFMPLPL_00085	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+LKFMPLPL_00086	gene	504	nrdG			
+LKFMPLPL_00086	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+LKFMPLPL_00087	gene	318	erpA			
+LKFMPLPL_00087	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+LKFMPLPL_00088	gene	858	trmB			
+LKFMPLPL_00088	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+LKFMPLPL_00089	gene	819				
+LKFMPLPL_00089	CDS	819				hypothetical protein
+LKFMPLPL_00090	gene	849				
+LKFMPLPL_00090	CDS	849				DegV domain-containing protein
+LKFMPLPL_00091	gene	1356	prpC			
+LKFMPLPL_00091	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+LKFMPLPL_00092	gene	1053	ltaE			
+LKFMPLPL_00092	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+LKFMPLPL_00093	gene	1140	xerD			
+LKFMPLPL_00093	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+LKFMPLPL_00094	gene	636	lexA			
+LKFMPLPL_00094	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+LKFMPLPL_00095	gene	489				
+LKFMPLPL_00095	CDS	489				hypothetical protein
+LKFMPLPL_00096	gene	1896	ftsH4			
+LKFMPLPL_00096	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+LKFMPLPL_00097	gene	831	ispH			
+LKFMPLPL_00097	CDS	831	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+LKFMPLPL_00098	gene	615	plsC			
+LKFMPLPL_00098	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+LKFMPLPL_00099	gene	660	cmk			
+LKFMPLPL_00099	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+LKFMPLPL_00100	gene	1257				
+LKFMPLPL_00100	CDS	1257			COG2081	putative protein
+LKFMPLPL_00101	gene	651	pspA_1			
+LKFMPLPL_00101	CDS	651	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+LKFMPLPL_00102	gene	942	hexR			
+LKFMPLPL_00102	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+LKFMPLPL_00103	gene	732	rluB			
+LKFMPLPL_00103	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+LKFMPLPL_00104	gene	705				
+LKFMPLPL_00104	CDS	705				hypothetical protein
+LKFMPLPL_00105	gene	1389	gltD			
+LKFMPLPL_00105	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+LKFMPLPL_00106	gene	894				
+LKFMPLPL_00106	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+LKFMPLPL_00107	gene	855	sseB			
+LKFMPLPL_00107	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+LKFMPLPL_00108	gene	1044	mtgA_1			
+LKFMPLPL_00108	CDS	1044	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+LKFMPLPL_00109	gene	519	polC_2			
+LKFMPLPL_00109	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+LKFMPLPL_00110	gene	891	ttcA			
+LKFMPLPL_00110	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+LKFMPLPL_00111	gene	2283	topB			
+LKFMPLPL_00111	CDS	2283	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+LKFMPLPL_00112	gene	1422	purF			
+LKFMPLPL_00112	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+LKFMPLPL_00113	gene	1647	gltX			
+LKFMPLPL_00113	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+LKFMPLPL_00114	gene	1452				
+LKFMPLPL_00114	CDS	1452				hypothetical protein
+LKFMPLPL_00115	gene	684				
+LKFMPLPL_00115	CDS	684				hypothetical protein
+LKFMPLPL_00116	gene	336				
+LKFMPLPL_00116	CDS	336				hypothetical protein
+LKFMPLPL_00117	gene	771				
+LKFMPLPL_00117	CDS	771				hypothetical protein
+LKFMPLPL_00118	gene	594				
+LKFMPLPL_00118	CDS	594				hypothetical protein
+LKFMPLPL_00119	gene	576				
+LKFMPLPL_00119	CDS	576				hypothetical protein
+LKFMPLPL_00120	gene	954				
+LKFMPLPL_00120	CDS	954				hypothetical protein
+LKFMPLPL_00121	gene	567				
+LKFMPLPL_00121	CDS	567				hypothetical protein
+LKFMPLPL_00122	gene	804	ywpJ			
+LKFMPLPL_00122	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+LKFMPLPL_00123	gene	1266	cinA			
+LKFMPLPL_00123	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+LKFMPLPL_00124	gene	897	ddl			
+LKFMPLPL_00124	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+LKFMPLPL_00125	gene	2205	srfAB			
+LKFMPLPL_00125	CDS	2205	srfAB			Surfactin synthase subunit 2
+LKFMPLPL_00126	gene	894				
+LKFMPLPL_00126	CDS	894				hypothetical protein
+LKFMPLPL_00127	gene	1401	asnS			
+LKFMPLPL_00127	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+LKFMPLPL_00128	gene	1572				
+LKFMPLPL_00128	CDS	1572				hypothetical protein
+LKFMPLPL_00129	gene	1860	asnB			
+LKFMPLPL_00129	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+LKFMPLPL_00130	gene	780	aroK			
+LKFMPLPL_00130	CDS	780	aroK	2.7.1.71		Shikimate kinase
+LKFMPLPL_00131	gene	1077	aroC			
+LKFMPLPL_00131	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+LKFMPLPL_00132	gene	1416	aroA			
+LKFMPLPL_00132	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+LKFMPLPL_00133	gene	219				
+LKFMPLPL_00133	CDS	219				hypothetical protein
+LKFMPLPL_00134	gene	681				
+LKFMPLPL_00134	CDS	681				hypothetical protein
+LKFMPLPL_00135	gene	2154	ptsG			
+LKFMPLPL_00135	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+LKFMPLPL_00136	gene	882	licT			
+LKFMPLPL_00136	CDS	882	licT		COG3711	Transcription antiterminator LicT
+LKFMPLPL_00137	gene	3534				
+LKFMPLPL_00137	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+LKFMPLPL_00138	gene	1764				
+LKFMPLPL_00138	CDS	1764				hypothetical protein
+LKFMPLPL_00139	gene	465				
+LKFMPLPL_00139	CDS	465				hypothetical protein
+LKFMPLPL_00140	gene	1236	baiN			
+LKFMPLPL_00140	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+LKFMPLPL_00141	gene	795				
+LKFMPLPL_00141	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+LKFMPLPL_00142	gene	531	hpt_1			
+LKFMPLPL_00142	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+LKFMPLPL_00143	gene	1005	asnA			
+LKFMPLPL_00143	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+LKFMPLPL_00144	gene	1230				
+LKFMPLPL_00144	CDS	1230				hypothetical protein
+LKFMPLPL_00145	gene	1104				
+LKFMPLPL_00145	CDS	1104				hypothetical protein
+LKFMPLPL_00146	gene	1023	lnpD			
+LKFMPLPL_00146	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+LKFMPLPL_00147	gene	177				
+LKFMPLPL_00147	CDS	177				hypothetical protein
+LKFMPLPL_00148	gene	1980				
+LKFMPLPL_00148	CDS	1980				hypothetical protein
+LKFMPLPL_00149	gene	2844				
+LKFMPLPL_00149	CDS	2844				hypothetical protein
+LKFMPLPL_00150	gene	738				
+LKFMPLPL_00150	CDS	738				hypothetical protein
+LKFMPLPL_00151	gene	342				
+LKFMPLPL_00151	CDS	342				hypothetical protein
+LKFMPLPL_00152	gene	642				
+LKFMPLPL_00152	CDS	642				hypothetical protein
+LKFMPLPL_00153	gene	567				
+LKFMPLPL_00153	CDS	567				hypothetical protein
+LKFMPLPL_00154	gene	498	ruvC			
+LKFMPLPL_00154	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+LKFMPLPL_00155	gene	612	ruvA			
+LKFMPLPL_00155	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+LKFMPLPL_00156	gene	1014	ruvB_1			
+LKFMPLPL_00156	CDS	1014	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+LKFMPLPL_00157	gene	1026	queA			
+LKFMPLPL_00157	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+LKFMPLPL_00158	gene	1119	tgt			
+LKFMPLPL_00158	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+LKFMPLPL_00159	gene	321	yajC			
+LKFMPLPL_00159	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+LKFMPLPL_00160	gene	144				
+LKFMPLPL_00160	CDS	144				hypothetical protein
+LKFMPLPL_00161	gene	954	lytC_1			
+LKFMPLPL_00161	CDS	954	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+LKFMPLPL_00162	gene	1992				
+LKFMPLPL_00162	CDS	1992				hypothetical protein
+LKFMPLPL_00163	gene	1371	ntpJ			
+LKFMPLPL_00163	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+LKFMPLPL_00164	gene	675	ktrA			
+LKFMPLPL_00164	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+LKFMPLPL_00165	gene	771	aviRb			
+LKFMPLPL_00165	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+LKFMPLPL_00166	gene	606	ccpN			
+LKFMPLPL_00166	CDS	606	ccpN		COG0517	Transcriptional repressor CcpN
+LKFMPLPL_00167	gene	840	yqfL			
+LKFMPLPL_00167	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+LKFMPLPL_00168	gene	2646	ppdK			
+LKFMPLPL_00168	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+LKFMPLPL_00169	gene	726	gamA			
+LKFMPLPL_00169	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+LKFMPLPL_00170	gene	1695	pgcA			
+LKFMPLPL_00170	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+LKFMPLPL_00171	gene	561	efp			
+LKFMPLPL_00171	CDS	561	efp		COG0231	Elongation factor P
+LKFMPLPL_00172	gene	708	rnc			
+LKFMPLPL_00172	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+LKFMPLPL_00173	gene	1071				
+LKFMPLPL_00173	CDS	1071				hypothetical protein
+LKFMPLPL_00174	gene	3552	smc_1			
+LKFMPLPL_00174	CDS	3552	smc_1		COG1196	Chromosome partition protein Smc
+LKFMPLPL_00175	gene	1296	ftsY			
+LKFMPLPL_00175	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+LKFMPLPL_00176	gene	399				
+LKFMPLPL_00176	CDS	399				hypothetical protein
+LKFMPLPL_00177	gene	204				
+LKFMPLPL_00177	CDS	204				hypothetical protein
+LKFMPLPL_00178	gene	1548				
+LKFMPLPL_00178	CDS	1548				hypothetical protein
+LKFMPLPL_00179	gene	1740				
+LKFMPLPL_00179	CDS	1740				hypothetical protein
+LKFMPLPL_00180	gene	213				
+LKFMPLPL_00180	CDS	213				hypothetical protein
+LKFMPLPL_00181	gene	2013				
+LKFMPLPL_00181	CDS	2013				hypothetical protein
+LKFMPLPL_00182	gene	1302				
+LKFMPLPL_00182	CDS	1302				hypothetical protein
+LKFMPLPL_00183	gene	3003				
+LKFMPLPL_00183	CDS	3003				hypothetical protein
+LKFMPLPL_00184	gene	324				
+LKFMPLPL_00184	CDS	324				hypothetical protein
+LKFMPLPL_00185	gene	231				
+LKFMPLPL_00185	CDS	231				IS200/IS605 family transposase ISDha13
+LKFMPLPL_00186	gene	198				
+LKFMPLPL_00186	CDS	198				IS200/IS605 family transposase ISSsu4
+LKFMPLPL_00187	gene	1590	asD			
+LKFMPLPL_00187	CDS	1590	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+LKFMPLPL_00188	gene	1734	aspT			
+LKFMPLPL_00188	CDS	1734	aspT			Aspartate/alanine antiporter
+LKFMPLPL_00189	gene	354				
+LKFMPLPL_00189	CDS	354				hypothetical protein
+LKFMPLPL_00190	gene	1359	ffh			
+LKFMPLPL_00190	CDS	1359	ffh		COG0541	Signal recognition particle protein
+LKFMPLPL_00191	gene	273	rpsP			
+LKFMPLPL_00191	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+LKFMPLPL_00192	gene	234				
+LKFMPLPL_00192	CDS	234				hypothetical protein
+LKFMPLPL_00193	gene	519	rimM			
+LKFMPLPL_00193	CDS	519	rimM			Ribosome maturation factor RimM
+LKFMPLPL_00194	gene	741	trmD			
+LKFMPLPL_00194	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+LKFMPLPL_00195	gene	1158				
+LKFMPLPL_00195	CDS	1158				hypothetical protein
+LKFMPLPL_00196	gene	1224	tyrS			
+LKFMPLPL_00196	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+LKFMPLPL_00197	gene	357	rplS			
+LKFMPLPL_00197	CDS	357	rplS		COG0335	50S ribosomal protein L19
+LKFMPLPL_00198	gene	885	rbgA			
+LKFMPLPL_00198	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+LKFMPLPL_00199	gene	1164	alr1_1			
+LKFMPLPL_00199	CDS	1164	alr1_1	5.1.1.1	COG0787	Alanine racemase 1
+LKFMPLPL_00200	gene	792	rnhB			
+LKFMPLPL_00200	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+LKFMPLPL_00201	gene	1017	hmo_1			
+LKFMPLPL_00201	CDS	1017	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+LKFMPLPL_00202	gene	363				
+LKFMPLPL_00202	CDS	363				hypothetical protein
+LKFMPLPL_00203	gene	1617	comM			
+LKFMPLPL_00203	CDS	1617	comM		COG0606	Competence protein ComM
+LKFMPLPL_00204	gene	1257				
+LKFMPLPL_00204	CDS	1257				hypothetical protein
+LKFMPLPL_00205	gene	2082	topA			
+LKFMPLPL_00205	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+LKFMPLPL_00206	gene	777	codY			
+LKFMPLPL_00206	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+LKFMPLPL_00207	gene	1272	rarA			
+LKFMPLPL_00207	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+LKFMPLPL_00208	gene	465	cymR			
+LKFMPLPL_00208	CDS	465	cymR			HTH-type transcriptional regulator CymR
+LKFMPLPL_00209	gene	1053	mnmA			
+LKFMPLPL_00209	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+LKFMPLPL_00210	gene	132				
+LKFMPLPL_00210	CDS	132				hypothetical protein
+LKFMPLPL_00211	gene	234				
+LKFMPLPL_00211	CDS	234				hypothetical protein
+LKFMPLPL_00212	gene	231	bcrA_1			
+LKFMPLPL_00212	CDS	231	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+LKFMPLPL_00213	gene	693	bcrA_2			
+LKFMPLPL_00213	CDS	693	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+LKFMPLPL_00214	gene	735				
+LKFMPLPL_00214	CDS	735				hypothetical protein
+LKFMPLPL_00215	gene	723				
+LKFMPLPL_00215	CDS	723				hypothetical protein
+LKFMPLPL_00216	gene	738				
+LKFMPLPL_00216	CDS	738				hypothetical protein
+LKFMPLPL_00217	gene	2106				
+LKFMPLPL_00217	CDS	2106				hypothetical protein
+LKFMPLPL_00218	gene	765	sufC			
+LKFMPLPL_00218	CDS	765	sufC		COG0396	Vegetative protein 296
+LKFMPLPL_00219	gene	1425				
+LKFMPLPL_00219	CDS	1425				hypothetical protein
+LKFMPLPL_00220	gene	831				
+LKFMPLPL_00220	CDS	831				hypothetical protein
+LKFMPLPL_00221	gene	1236	csd			
+LKFMPLPL_00221	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+LKFMPLPL_00222	gene	438	sufU			
+LKFMPLPL_00222	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+LKFMPLPL_00223	gene	408				
+LKFMPLPL_00223	CDS	408				hypothetical protein
+LKFMPLPL_00224	gene	627				
+LKFMPLPL_00224	CDS	627				hypothetical protein
+LKFMPLPL_00225	gene	291				
+LKFMPLPL_00225	CDS	291				hypothetical protein
+LKFMPLPL_00226	gene	735				
+LKFMPLPL_00226	CDS	735		3.1.3.-	COG0560	putative phosphatase
+LKFMPLPL_00227	gene	1221				
+LKFMPLPL_00227	CDS	1221				hypothetical protein
+LKFMPLPL_00228	gene	660				
+LKFMPLPL_00228	CDS	660				hypothetical protein
+LKFMPLPL_00229	gene	246				
+LKFMPLPL_00229	CDS	246				hypothetical protein
+LKFMPLPL_00230	gene	930	gloB_1			
+LKFMPLPL_00230	CDS	930	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+LKFMPLPL_00231	gene	786				
+LKFMPLPL_00231	CDS	786				hypothetical protein
+LKFMPLPL_00232	gene	708				
+LKFMPLPL_00232	CDS	708				hypothetical protein
+LKFMPLPL_00233	gene	555				
+LKFMPLPL_00233	CDS	555		3.1.3.-	COG5663	Nucleotidase
+LKFMPLPL_00234	gene	252				
+LKFMPLPL_00234	CDS	252				hypothetical protein
+LKFMPLPL_00235	gene	561	nfrA1			
+LKFMPLPL_00235	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+LKFMPLPL_00236	gene	1866	nhaP2			
+LKFMPLPL_00236	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+LKFMPLPL_00237	gene	1236				
+LKFMPLPL_00237	CDS	1236				hypothetical protein
+LKFMPLPL_00238	gene	1056	epsF			
+LKFMPLPL_00238	CDS	1056	epsF		COG1459	Type II secretion system protein F
+LKFMPLPL_00239	gene	390				
+LKFMPLPL_00239	CDS	390				hypothetical protein
+LKFMPLPL_00240	gene	1401				
+LKFMPLPL_00240	CDS	1401				hypothetical protein
+LKFMPLPL_00241	gene	435				
+LKFMPLPL_00241	CDS	435				hypothetical protein
+LKFMPLPL_00242	gene	1068				
+LKFMPLPL_00242	CDS	1068				hypothetical protein
+LKFMPLPL_00243	gene	375				
+LKFMPLPL_00243	CDS	375				hypothetical protein
+LKFMPLPL_00244	gene	1614				
+LKFMPLPL_00244	CDS	1614				hypothetical protein
+LKFMPLPL_00245	gene	1347	pgi			
+LKFMPLPL_00245	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+LKFMPLPL_00246	gene	438				
+LKFMPLPL_00246	CDS	438				hypothetical protein
+LKFMPLPL_00247	gene	1542				
+LKFMPLPL_00247	CDS	1542				hypothetical protein
+LKFMPLPL_00248	gene	729	yehX			
+LKFMPLPL_00248	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+LKFMPLPL_00249	gene	249				
+LKFMPLPL_00249	CDS	249				hypothetical protein
+LKFMPLPL_00250	gene	882				
+LKFMPLPL_00250	CDS	882				hypothetical protein
+LKFMPLPL_00251	gene	642	gmk			
+LKFMPLPL_00251	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+LKFMPLPL_00252	gene	267	rpoZ			
+LKFMPLPL_00252	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+LKFMPLPL_00253	gene	1212	undec1A			
+LKFMPLPL_00253	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+LKFMPLPL_00254	gene	2313	priA			
+LKFMPLPL_00254	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+LKFMPLPL_00255	gene	456	def1			
+LKFMPLPL_00255	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+LKFMPLPL_00256	gene	930	fmt			
+LKFMPLPL_00256	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+LKFMPLPL_00257	gene	690				
+LKFMPLPL_00257	CDS	690				hypothetical protein
+LKFMPLPL_00258	gene	1344	rsmB			
+LKFMPLPL_00258	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+LKFMPLPL_00259	gene	1038	rlmN			
+LKFMPLPL_00259	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+LKFMPLPL_00260	gene	750	stp			
+LKFMPLPL_00260	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+LKFMPLPL_00261	gene	1881	prkC			
+LKFMPLPL_00261	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+LKFMPLPL_00262	gene	735	fabG_1			
+LKFMPLPL_00262	CDS	735	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LKFMPLPL_00263	gene	900	rsgA			
+LKFMPLPL_00263	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+LKFMPLPL_00264	gene	657	rpe			
+LKFMPLPL_00264	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+LKFMPLPL_00265	gene	684	thiN			
+LKFMPLPL_00265	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+LKFMPLPL_00266	gene	714	phoP_1			
+LKFMPLPL_00266	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+LKFMPLPL_00267	gene	2358	sasA_2			
+LKFMPLPL_00267	CDS	2358	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+LKFMPLPL_00268	gene	1374	mepA_2			
+LKFMPLPL_00268	CDS	1374	mepA_2			Multidrug export protein MepA
+LKFMPLPL_00269	gene	474	slyA			
+LKFMPLPL_00269	CDS	474	slyA			Transcriptional regulator SlyA
+LKFMPLPL_00270	gene	786				
+LKFMPLPL_00270	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+LKFMPLPL_00271	gene	1026	cggR			
+LKFMPLPL_00271	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+LKFMPLPL_00272	gene	1008	gap_2			
+LKFMPLPL_00272	CDS	1008	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+LKFMPLPL_00273	gene	1200	pgk			
+LKFMPLPL_00273	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+LKFMPLPL_00274	gene	741	tpiA			
+LKFMPLPL_00274	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+LKFMPLPL_00275	gene	1527	gpmI			
+LKFMPLPL_00275	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+LKFMPLPL_00276	gene	1293	eno			
+LKFMPLPL_00276	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+LKFMPLPL_00277	gene	231				
+LKFMPLPL_00277	CDS	231				hypothetical protein
+LKFMPLPL_00278	gene	2244	rnr			
+LKFMPLPL_00278	CDS	2244	rnr	3.1.13.1	COG0557	Ribonuclease R
+LKFMPLPL_00279	gene	456	smpB			
+LKFMPLPL_00279	CDS	456	smpB		COG0691	SsrA-binding protein
+LKFMPLPL_00280	gene	831	artP_1			
+LKFMPLPL_00280	CDS	831	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+LKFMPLPL_00281	gene	1275	argG			
+LKFMPLPL_00281	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+LKFMPLPL_00282	gene	1374	argH			
+LKFMPLPL_00282	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+LKFMPLPL_00283	gene	1266	clpX			
+LKFMPLPL_00283	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+LKFMPLPL_00284	gene	585	clpP			
+LKFMPLPL_00284	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+LKFMPLPL_00285	gene	1284	tig			
+LKFMPLPL_00285	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+LKFMPLPL_00286	gene	474				
+LKFMPLPL_00286	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+LKFMPLPL_00287	gene	1461	rph			
+LKFMPLPL_00287	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+LKFMPLPL_00288	gene	2109	ligA			
+LKFMPLPL_00288	CDS	2109	ligA	6.5.1.2		DNA ligase
+LKFMPLPL_00289	gene	465	bcp			
+LKFMPLPL_00289	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+LKFMPLPL_00290	gene	636	opuCD			
+LKFMPLPL_00290	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+LKFMPLPL_00291	gene	1662				
+LKFMPLPL_00291	CDS	1662				hypothetical protein
+LKFMPLPL_00292	gene	1170	opuCA			
+LKFMPLPL_00292	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+LKFMPLPL_00293	gene	1188	uctC			
+LKFMPLPL_00293	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+LKFMPLPL_00294	gene	285				
+LKFMPLPL_00294	CDS	285				hypothetical protein
+LKFMPLPL_00295	gene	723				
+LKFMPLPL_00295	CDS	723			COG0217	putative transcriptional regulatory protein
+LKFMPLPL_00296	gene	759	nadE			
+LKFMPLPL_00296	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+LKFMPLPL_00297	gene	642	yigZ			
+LKFMPLPL_00297	CDS	642	yigZ		COG1739	IMPACT family member YigZ
+LKFMPLPL_00298	gene	678				
+LKFMPLPL_00298	CDS	678				hypothetical protein
+LKFMPLPL_00299	gene	423				
+LKFMPLPL_00299	CDS	423				hypothetical protein
+LKFMPLPL_00300	gene	219				
+LKFMPLPL_00300	CDS	219				hypothetical protein
+LKFMPLPL_00301	gene	675				
+LKFMPLPL_00301	CDS	675				hypothetical protein
+LKFMPLPL_00302	gene	1731	cdr			
+LKFMPLPL_00302	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+LKFMPLPL_00303	gene	288	pagR			
+LKFMPLPL_00303	CDS	288	pagR			Transcriptional repressor PagR
+LKFMPLPL_00304	gene	546	hpt_2			
+LKFMPLPL_00304	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+LKFMPLPL_00305	gene	723	engB			
+LKFMPLPL_00305	CDS	723	engB			GTP-binding protein EngB
+LKFMPLPL_00306	gene	2424	lon1			
+LKFMPLPL_00306	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+LKFMPLPL_00307	gene	468				
+LKFMPLPL_00307	CDS	468				hypothetical protein
+LKFMPLPL_00308	gene	513				
+LKFMPLPL_00308	CDS	513				hypothetical protein
+LKFMPLPL_00309	gene	240				
+LKFMPLPL_00309	CDS	240				hypothetical protein
+LKFMPLPL_00310	gene	1455				
+LKFMPLPL_00310	CDS	1455				hypothetical protein
+LKFMPLPL_00311	gene	1701	argS			
+LKFMPLPL_00311	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+LKFMPLPL_00312	gene	468				
+LKFMPLPL_00312	CDS	468				hypothetical protein
+LKFMPLPL_00313	gene	2424	mutS2			
+LKFMPLPL_00313	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+LKFMPLPL_00314	gene	1449	pepD_1			
+LKFMPLPL_00314	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+LKFMPLPL_00315	gene	876				
+LKFMPLPL_00315	CDS	876				DegV domain-containing protein
+LKFMPLPL_00316	gene	471	trmL			
+LKFMPLPL_00316	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+LKFMPLPL_00317	gene	639	pdg			
+LKFMPLPL_00317	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+LKFMPLPL_00318	gene	1656	udk			
+LKFMPLPL_00318	CDS	1656	udk	2.7.1.48		Uridine kinase
+LKFMPLPL_00319	gene	606	sipT			
+LKFMPLPL_00319	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+LKFMPLPL_00320	gene	1500	rsmF			
+LKFMPLPL_00320	CDS	1500	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+LKFMPLPL_00321	gene	591				
+LKFMPLPL_00321	CDS	591				hypothetical protein
+LKFMPLPL_00322	gene	1305	pdp			
+LKFMPLPL_00322	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+LKFMPLPL_00323	gene	3783	purL			
+LKFMPLPL_00323	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+LKFMPLPL_00324	gene	1269	purD			
+LKFMPLPL_00324	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+LKFMPLPL_00325	gene	1533	purH			
+LKFMPLPL_00325	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+LKFMPLPL_00326	gene	594	purN			
+LKFMPLPL_00326	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+LKFMPLPL_00327	gene	1077	purM			
+LKFMPLPL_00327	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+LKFMPLPL_00328	gene	477	purE			
+LKFMPLPL_00328	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+LKFMPLPL_00329	gene	2481				
+LKFMPLPL_00329	CDS	2481				hypothetical protein
+LKFMPLPL_00330	gene	708	ytrE			
+LKFMPLPL_00330	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+LKFMPLPL_00331	gene	288				
+LKFMPLPL_00331	CDS	288				hypothetical protein
+LKFMPLPL_00332	gene	1506	glpK			
+LKFMPLPL_00332	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+LKFMPLPL_00333	gene	147				
+LKFMPLPL_00333	CDS	147				hypothetical protein
+LKFMPLPL_00334	gene	1788	pepF1			
+LKFMPLPL_00334	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+LKFMPLPL_00335	gene	528				
+LKFMPLPL_00335	CDS	528				hypothetical protein
+LKFMPLPL_00336	gene	1083	hhoB			
+LKFMPLPL_00336	CDS	1083	hhoB			Putative serine protease HhoB
+LKFMPLPL_00337	gene	1326	pepC			
+LKFMPLPL_00337	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+LKFMPLPL_00338	gene	1311				
+LKFMPLPL_00338	CDS	1311				hypothetical protein
+LKFMPLPL_00339	gene	945	hmo_2			
+LKFMPLPL_00339	CDS	945	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+LKFMPLPL_00340	gene	939				
+LKFMPLPL_00340	CDS	939				hypothetical protein
+LKFMPLPL_00341	gene	576				
+LKFMPLPL_00341	CDS	576				hypothetical protein
+LKFMPLPL_00342	gene	270	atpC			
+LKFMPLPL_00342	CDS	270	atpC			ATP synthase epsilon chain
+LKFMPLPL_00343	gene	1401	atpD			
+LKFMPLPL_00343	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+LKFMPLPL_00344	gene	999	atpG			
+LKFMPLPL_00344	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+LKFMPLPL_00345	gene	1503	atpA			
+LKFMPLPL_00345	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+LKFMPLPL_00346	gene	543	atpH			
+LKFMPLPL_00346	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+LKFMPLPL_00347	gene	507	atpF			
+LKFMPLPL_00347	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+LKFMPLPL_00348	gene	264	atpE			
+LKFMPLPL_00348	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+LKFMPLPL_00349	gene	705	atpB			
+LKFMPLPL_00349	CDS	705	atpB		COG0356	ATP synthase subunit a
+LKFMPLPL_00350	gene	402				
+LKFMPLPL_00350	CDS	402				hypothetical protein
+LKFMPLPL_00351	gene	240				
+LKFMPLPL_00351	CDS	240				hypothetical protein
+LKFMPLPL_00352	gene	630	upp			
+LKFMPLPL_00352	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+LKFMPLPL_00353	gene	447	ywlF			
+LKFMPLPL_00353	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+LKFMPLPL_00354	gene	1038	ywlC			
+LKFMPLPL_00354	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+LKFMPLPL_00355	gene	1065	prfA			
+LKFMPLPL_00355	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+LKFMPLPL_00356	gene	915	prmC			
+LKFMPLPL_00356	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+LKFMPLPL_00357	gene	720				
+LKFMPLPL_00357	CDS	720				hypothetical protein
+LKFMPLPL_00358	gene	327				
+LKFMPLPL_00358	CDS	327				hypothetical protein
+LKFMPLPL_00359	gene	201	rpmE			
+LKFMPLPL_00359	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+LKFMPLPL_00360	gene	1443	rho			
+LKFMPLPL_00360	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+LKFMPLPL_00361	gene	894	gtaB			
+LKFMPLPL_00361	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+LKFMPLPL_00362	gene	240				
+LKFMPLPL_00362	CDS	240			COG1188	putative protein
+LKFMPLPL_00363	gene	282	hup			
+LKFMPLPL_00363	CDS	282	hup			DNA-binding protein HU
+LKFMPLPL_00364	gene	1011				
+LKFMPLPL_00364	CDS	1011				hypothetical protein
+LKFMPLPL_00365	gene	1623	murJ_1			
+LKFMPLPL_00365	CDS	1623	murJ_1		COG2244	Lipid II flippase MurJ
+LKFMPLPL_00366	gene	1062	prsA_1			
+LKFMPLPL_00366	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+LKFMPLPL_00367	gene	3405	mfd			
+LKFMPLPL_00367	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+LKFMPLPL_00368	gene	561	pth			
+LKFMPLPL_00368	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+LKFMPLPL_00369	gene	651				
+LKFMPLPL_00369	CDS	651				hypothetical protein
+LKFMPLPL_00370	gene	1065				
+LKFMPLPL_00370	CDS	1065				hypothetical protein
+LKFMPLPL_00371	gene	957	prs			
+LKFMPLPL_00371	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+LKFMPLPL_00372	gene	1392	glmU			
+LKFMPLPL_00372	CDS	1392	glmU			Bifunctional protein GlmU
+LKFMPLPL_00373	gene	651				
+LKFMPLPL_00373	CDS	651				hypothetical protein
+LKFMPLPL_00374	gene	834	purR			
+LKFMPLPL_00374	CDS	834	purR		COG0503	Pur operon repressor
+LKFMPLPL_00375	gene	1362	murC			
+LKFMPLPL_00375	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+LKFMPLPL_00376	gene	870				
+LKFMPLPL_00376	CDS	870				hypothetical protein
+LKFMPLPL_00377	gene	879	rsmA			
+LKFMPLPL_00377	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+LKFMPLPL_00378	gene	555	rnmV			
+LKFMPLPL_00378	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+LKFMPLPL_00379	gene	549				
+LKFMPLPL_00379	CDS	549				hypothetical protein
+LKFMPLPL_00380	gene	651				
+LKFMPLPL_00380	CDS	651				hypothetical protein
+LKFMPLPL_00381	gene	804	proC			
+LKFMPLPL_00381	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+LKFMPLPL_00382	gene	1479				
+LKFMPLPL_00382	CDS	1479				hypothetical protein
+LKFMPLPL_00383	gene	198				
+LKFMPLPL_00383	CDS	198				hypothetical protein
+LKFMPLPL_00384	gene	2493				
+LKFMPLPL_00384	CDS	2493				hypothetical protein
+LKFMPLPL_00385	gene	681	lolD_1			
+LKFMPLPL_00385	CDS	681	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+LKFMPLPL_00386	gene	2547				
+LKFMPLPL_00386	CDS	2547				hypothetical protein
+LKFMPLPL_00387	gene	771	ycfH			
+LKFMPLPL_00387	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+LKFMPLPL_00388	gene	1941	metG			
+LKFMPLPL_00388	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+LKFMPLPL_00389	gene	456	lrpC			
+LKFMPLPL_00389	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+LKFMPLPL_00390	gene	1437	pncB2			
+LKFMPLPL_00390	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+LKFMPLPL_00391	gene	837	rsmI			
+LKFMPLPL_00391	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+LKFMPLPL_00392	gene	750	yfiC			
+LKFMPLPL_00392	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+LKFMPLPL_00393	gene	897				
+LKFMPLPL_00393	CDS	897				hypothetical protein
+LKFMPLPL_00394	gene	939				
+LKFMPLPL_00394	CDS	939				hypothetical protein
+LKFMPLPL_00395	gene	702	tmk			
+LKFMPLPL_00395	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+LKFMPLPL_00396	gene	1506	speA			
+LKFMPLPL_00396	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+LKFMPLPL_00397	gene	107				
+LKFMPLPL_00397	rRNA	107				5S ribosomal RNA
+LKFMPLPL_00398	gene	618	slmA			
+LKFMPLPL_00398	CDS	618	slmA			Nucleoid occlusion factor SlmA
+LKFMPLPL_00399	gene	729	ecsA_1			
+LKFMPLPL_00399	CDS	729	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+LKFMPLPL_00400	gene	1560				
+LKFMPLPL_00400	CDS	1560				hypothetical protein
+LKFMPLPL_00401	gene	213				
+LKFMPLPL_00401	CDS	213				hypothetical protein
+LKFMPLPL_00402	gene	1239	rps1			
+LKFMPLPL_00402	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+LKFMPLPL_00403	gene	1422				
+LKFMPLPL_00403	CDS	1422				hypothetical protein
+LKFMPLPL_00404	gene	486				
+LKFMPLPL_00404	CDS	486				hypothetical protein
+LKFMPLPL_00405	gene	846	cvfB			
+LKFMPLPL_00405	CDS	846	cvfB		COG2996	Conserved virulence factor B
+LKFMPLPL_00406	gene	462	cdd			
+LKFMPLPL_00406	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+LKFMPLPL_00407	gene	738				
+LKFMPLPL_00407	CDS	738				hypothetical protein
+LKFMPLPL_00408	gene	1320				
+LKFMPLPL_00408	CDS	1320				hypothetical protein
+LKFMPLPL_00409	gene	2358	secA_1			
+LKFMPLPL_00409	CDS	2358	secA_1		COG0653	Protein translocase subunit SecA
+LKFMPLPL_00410	gene	1365				
+LKFMPLPL_00410	CDS	1365				hypothetical protein
+LKFMPLPL_00411	gene	1305				
+LKFMPLPL_00411	CDS	1305				hypothetical protein
+LKFMPLPL_00412	gene	1893	lytC_2			
+LKFMPLPL_00412	CDS	1893	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+LKFMPLPL_00413	gene	1107				
+LKFMPLPL_00413	CDS	1107				hypothetical protein
+LKFMPLPL_00414	gene	663	wecA			
+LKFMPLPL_00414	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+LKFMPLPL_00415	gene	780	tuaG_1			
+LKFMPLPL_00415	CDS	780	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+LKFMPLPL_00416	gene	813				
+LKFMPLPL_00416	CDS	813				hypothetical protein
+LKFMPLPL_00417	gene	1188	tagF			
+LKFMPLPL_00417	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+LKFMPLPL_00418	gene	1122				
+LKFMPLPL_00418	CDS	1122				hypothetical protein
+LKFMPLPL_00419	gene	765	tuaG_2			
+LKFMPLPL_00419	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+LKFMPLPL_00420	gene	1101	mshA			
+LKFMPLPL_00420	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+LKFMPLPL_00421	gene	1446	fcl			
+LKFMPLPL_00421	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+LKFMPLPL_00422	gene	1560	murJ_2			
+LKFMPLPL_00422	CDS	1560	murJ_2		COG0728	putative lipid II flippase MurJ
+LKFMPLPL_00423	gene	1230				
+LKFMPLPL_00423	CDS	1230				hypothetical protein
+LKFMPLPL_00424	gene	2145				
+LKFMPLPL_00424	CDS	2145				hypothetical protein
+LKFMPLPL_00425	gene	1350	alsT_1			
+LKFMPLPL_00425	CDS	1350	alsT_1		COG1115	Amino-acid carrier protein AlsT
+LKFMPLPL_00426	gene	963	tagU_1			
+LKFMPLPL_00426	CDS	963	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+LKFMPLPL_00427	gene	1041	tagU_2			
+LKFMPLPL_00427	CDS	1041	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+LKFMPLPL_00428	gene	789	ybiV			
+LKFMPLPL_00428	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+LKFMPLPL_00429	gene	1128				
+LKFMPLPL_00429	CDS	1128				hypothetical protein
+LKFMPLPL_00430	gene	264	ptsH			
+LKFMPLPL_00430	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+LKFMPLPL_00431	gene	1716	ptsI			
+LKFMPLPL_00431	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+LKFMPLPL_00432	gene	654				
+LKFMPLPL_00432	CDS	654				hypothetical protein
+LKFMPLPL_00433	gene	900				
+LKFMPLPL_00433	CDS	900				hypothetical protein
+LKFMPLPL_00434	gene	546				
+LKFMPLPL_00434	CDS	546				hypothetical protein
+LKFMPLPL_00435	gene	888				
+LKFMPLPL_00435	CDS	888				hypothetical protein
+LKFMPLPL_00436	gene	222				
+LKFMPLPL_00436	CDS	222				hypothetical protein
+LKFMPLPL_00437	gene	975				
+LKFMPLPL_00437	CDS	975				hypothetical protein
+LKFMPLPL_00438	gene	1374	moaA_1			
+LKFMPLPL_00438	CDS	1374	moaA_1			GTP 3',8-cyclase
+LKFMPLPL_00439	gene	1668	ubiB			
+LKFMPLPL_00439	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+LKFMPLPL_00440	gene	2484				
+LKFMPLPL_00440	CDS	2484				hypothetical protein
+LKFMPLPL_00441	gene	522	apt			
+LKFMPLPL_00441	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+LKFMPLPL_00442	gene	2226	relA			
+LKFMPLPL_00442	CDS	2226	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+LKFMPLPL_00443	gene	450	dtd			
+LKFMPLPL_00443	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+LKFMPLPL_00444	gene	627	gloC			
+LKFMPLPL_00444	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+LKFMPLPL_00445	gene	1560				
+LKFMPLPL_00445	CDS	1560				hypothetical protein
+LKFMPLPL_00446	gene	1263	hisS			
+LKFMPLPL_00446	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+LKFMPLPL_00447	gene	1791	aspS			
+LKFMPLPL_00447	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+LKFMPLPL_00448	gene	315	csoR			
+LKFMPLPL_00448	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+LKFMPLPL_00449	gene	477				
+LKFMPLPL_00449	CDS	477				hypothetical protein
+LKFMPLPL_00450	gene	972	pta			
+LKFMPLPL_00450	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+LKFMPLPL_00451	gene	1200	sstT_1			
+LKFMPLPL_00451	CDS	1200	sstT_1			Serine/threonine transporter SstT
+LKFMPLPL_00452	gene	678				
+LKFMPLPL_00452	CDS	678				hypothetical protein
+LKFMPLPL_00453	gene	777	yjjP			
+LKFMPLPL_00453	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+LKFMPLPL_00454	gene	1467				
+LKFMPLPL_00454	CDS	1467				hypothetical protein
+LKFMPLPL_00455	gene	540	puuR			
+LKFMPLPL_00455	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+LKFMPLPL_00456	gene	1044	potA			
+LKFMPLPL_00456	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+LKFMPLPL_00457	gene	867	potB			
+LKFMPLPL_00457	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+LKFMPLPL_00458	gene	807				
+LKFMPLPL_00458	CDS	807				hypothetical protein
+LKFMPLPL_00459	gene	1086	potD			
+LKFMPLPL_00459	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+LKFMPLPL_00460	gene	1479	malQ			
+LKFMPLPL_00460	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+LKFMPLPL_00461	gene	1944				
+LKFMPLPL_00461	CDS	1944				hypothetical protein
+LKFMPLPL_00462	gene	1866	glgB			
+LKFMPLPL_00462	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+LKFMPLPL_00463	gene	1173	glgC			
+LKFMPLPL_00463	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+LKFMPLPL_00464	gene	1107	glgD			
+LKFMPLPL_00464	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+LKFMPLPL_00465	gene	1425	glgA			
+LKFMPLPL_00465	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+LKFMPLPL_00466	gene	2391	glgP			
+LKFMPLPL_00466	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+LKFMPLPL_00467	gene	2430				
+LKFMPLPL_00467	CDS	2430				hypothetical protein
+LKFMPLPL_00468	gene	1365				
+LKFMPLPL_00468	CDS	1365				hypothetical protein
+LKFMPLPL_00469	gene	873	moaA_2			
+LKFMPLPL_00469	CDS	873	moaA_2	4.1.99.22		GTP 3',8-cyclase
+LKFMPLPL_00470	gene	1629				
+LKFMPLPL_00470	CDS	1629				hypothetical protein
+LKFMPLPL_00471	gene	1002	add			
+LKFMPLPL_00471	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+LKFMPLPL_00472	gene	810	apbC			
+LKFMPLPL_00472	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+LKFMPLPL_00473	gene	258				
+LKFMPLPL_00473	CDS	258				hypothetical protein
+LKFMPLPL_00474	gene	645				
+LKFMPLPL_00474	CDS	645				hypothetical protein
+LKFMPLPL_00475	gene	297				
+LKFMPLPL_00475	CDS	297				hypothetical protein
+LKFMPLPL_00476	gene	1275	pyrC			
+LKFMPLPL_00476	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+LKFMPLPL_00477	gene	1245	macB_1			
+LKFMPLPL_00477	CDS	1245	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+LKFMPLPL_00478	gene	675	yknY			
+LKFMPLPL_00478	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+LKFMPLPL_00479	gene	1083	yknX			
+LKFMPLPL_00479	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+LKFMPLPL_00480	gene	651	tal			
+LKFMPLPL_00480	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+LKFMPLPL_00481	gene	1473	algC			
+LKFMPLPL_00481	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+LKFMPLPL_00482	gene	930				
+LKFMPLPL_00482	CDS	930				hypothetical protein
+LKFMPLPL_00483	gene	606	maf			
+LKFMPLPL_00483	CDS	606	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+LKFMPLPL_00484	gene	1182	fieF			
+LKFMPLPL_00484	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+LKFMPLPL_00485	gene	792				
+LKFMPLPL_00485	CDS	792				hypothetical protein
+LKFMPLPL_00486	gene	303				
+LKFMPLPL_00486	CDS	303				hypothetical protein
+LKFMPLPL_00487	gene	1218				
+LKFMPLPL_00487	CDS	1218		6.3.1.12		D-aspartate ligase
+LKFMPLPL_00488	gene	720				
+LKFMPLPL_00488	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+LKFMPLPL_00489	gene	1488	murE_1			
+LKFMPLPL_00489	CDS	1488	murE_1	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+LKFMPLPL_00490	gene	237	dltC			
+LKFMPLPL_00490	CDS	237	dltC		COG0236	D-alanyl carrier protein
+LKFMPLPL_00491	gene	1161				
+LKFMPLPL_00491	CDS	1161				hypothetical protein
+LKFMPLPL_00492	gene	1599	dltA			
+LKFMPLPL_00492	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+LKFMPLPL_00493	gene	126				
+LKFMPLPL_00493	CDS	126				hypothetical protein
+LKFMPLPL_00494	gene	1227	dltD			
+LKFMPLPL_00494	CDS	1227	dltD		COG3966	Protein DltD
+LKFMPLPL_00495	gene	1173				
+LKFMPLPL_00495	CDS	1173				hypothetical protein
+LKFMPLPL_00496	gene	300				
+LKFMPLPL_00496	CDS	300				hypothetical protein
+LKFMPLPL_00497	gene	1362	gabR			
+LKFMPLPL_00497	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+LKFMPLPL_00498	gene	858	pdxS			
+LKFMPLPL_00498	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+LKFMPLPL_00499	gene	885				
+LKFMPLPL_00499	CDS	885				hypothetical protein
+LKFMPLPL_00500	gene	1872	yjcD			
+LKFMPLPL_00500	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+LKFMPLPL_00501	gene	1587	clcA			
+LKFMPLPL_00501	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+LKFMPLPL_00502	gene	858	folD			
+LKFMPLPL_00502	CDS	858	folD			Bifunctional protein FolD protein
+LKFMPLPL_00503	gene	636	fchA			
+LKFMPLPL_00503	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+LKFMPLPL_00504	gene	141				
+LKFMPLPL_00504	CDS	141				hypothetical protein
+LKFMPLPL_00505	gene	1980	htpG			
+LKFMPLPL_00505	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+LKFMPLPL_00506	gene	1461				
+LKFMPLPL_00506	CDS	1461				hypothetical protein
+LKFMPLPL_00507	gene	765	fpuC			
+LKFMPLPL_00507	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+LKFMPLPL_00508	gene	1065	isdF			
+LKFMPLPL_00508	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+LKFMPLPL_00509	gene	918	isdE			
+LKFMPLPL_00509	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+LKFMPLPL_00510	gene	1125				
+LKFMPLPL_00510	CDS	1125				hypothetical protein
+LKFMPLPL_00511	gene	2019				
+LKFMPLPL_00511	CDS	2019				hypothetical protein
+LKFMPLPL_00512	gene	375				
+LKFMPLPL_00512	CDS	375				hypothetical protein
+LKFMPLPL_00513	gene	930				
+LKFMPLPL_00513	CDS	930				hypothetical protein
+LKFMPLPL_00514	gene	1425	purB			
+LKFMPLPL_00514	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+LKFMPLPL_00515	gene	1278	purA			
+LKFMPLPL_00515	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+LKFMPLPL_00516	gene	1452	trkG			
+LKFMPLPL_00516	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+LKFMPLPL_00517	gene	1365	trkA			
+LKFMPLPL_00517	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+LKFMPLPL_00518	gene	762				
+LKFMPLPL_00518	CDS	762				hypothetical protein
+LKFMPLPL_00519	gene	1566	pknD			
+LKFMPLPL_00519	CDS	1566	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+LKFMPLPL_00520	gene	969	trxB			
+LKFMPLPL_00520	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+LKFMPLPL_00521	gene	1374	zwf			
+LKFMPLPL_00521	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+LKFMPLPL_00522	gene	1440	gnd			
+LKFMPLPL_00522	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+LKFMPLPL_00523	gene	1251	dinB			
+LKFMPLPL_00523	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+LKFMPLPL_00524	gene	849	nadC			
+LKFMPLPL_00524	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+LKFMPLPL_00525	gene	1311	nadB			
+LKFMPLPL_00525	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+LKFMPLPL_00526	gene	909	nadA			
+LKFMPLPL_00526	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+LKFMPLPL_00527	gene	462	dut			
+LKFMPLPL_00527	CDS	462	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+LKFMPLPL_00528	gene	1203	roo			
+LKFMPLPL_00528	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+LKFMPLPL_00529	gene	1062	lytC_3			
+LKFMPLPL_00529	CDS	1062	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+LKFMPLPL_00530	gene	600	fbpC			
+LKFMPLPL_00530	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+LKFMPLPL_00531	gene	522				
+LKFMPLPL_00531	CDS	522				hypothetical protein
+LKFMPLPL_00532	gene	993				
+LKFMPLPL_00532	CDS	993				hypothetical protein
+LKFMPLPL_00533	gene	693	tgnD			
+LKFMPLPL_00533	CDS	693	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+LKFMPLPL_00534	gene	996	btuD_1			
+LKFMPLPL_00534	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKFMPLPL_00535	gene	696	ureG			
+LKFMPLPL_00535	CDS	696	ureG			Urease accessory protein UreG
+LKFMPLPL_00536	gene	1227				
+LKFMPLPL_00536	CDS	1227				hypothetical protein
+LKFMPLPL_00537	gene	1746				
+LKFMPLPL_00537	CDS	1746				hypothetical protein
+LKFMPLPL_00538	gene	810	ecsA_2			
+LKFMPLPL_00538	CDS	810	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+LKFMPLPL_00539	gene	1245	queH			
+LKFMPLPL_00539	CDS	1245	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+LKFMPLPL_00540	gene	909	ppaC			
+LKFMPLPL_00540	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+LKFMPLPL_00541	gene	525				
+LKFMPLPL_00541	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+LKFMPLPL_00542	gene	1428	apeB			
+LKFMPLPL_00542	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+LKFMPLPL_00543	gene	2364	pcrA			
+LKFMPLPL_00543	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+LKFMPLPL_00544	gene	477	cysG_1			
+LKFMPLPL_00544	CDS	477	cysG_1		COG0007	Siroheme synthase
+LKFMPLPL_00545	gene	969	hemB			
+LKFMPLPL_00545	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+LKFMPLPL_00546	gene	1524	cysG_2			
+LKFMPLPL_00546	CDS	1524	cysG_2	4.99.1.4		Siroheme synthase
+LKFMPLPL_00547	gene	933	hemC			
+LKFMPLPL_00547	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+LKFMPLPL_00548	gene	969	bioB_1			
+LKFMPLPL_00548	CDS	969	bioB_1	2.8.1.6		Biotin synthase
+LKFMPLPL_00549	gene	522	dcd			
+LKFMPLPL_00549	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+LKFMPLPL_00550	gene	402				
+LKFMPLPL_00550	CDS	402				hypothetical protein
+LKFMPLPL_00551	gene	546				
+LKFMPLPL_00551	CDS	546				hypothetical protein
+LKFMPLPL_00552	gene	324				
+LKFMPLPL_00552	CDS	324				hypothetical protein
+LKFMPLPL_00553	gene	771	nirC			
+LKFMPLPL_00553	CDS	771	nirC		COG2116	Nitrite transporter NirC
+LKFMPLPL_00554	gene	972	asrC			
+LKFMPLPL_00554	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+LKFMPLPL_00555	gene	801	asrB			
+LKFMPLPL_00555	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+LKFMPLPL_00556	gene	1011	asrA			
+LKFMPLPL_00556	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+LKFMPLPL_00557	gene	687	glxR			
+LKFMPLPL_00557	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+LKFMPLPL_00558	gene	462	ribH			
+LKFMPLPL_00558	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+LKFMPLPL_00559	gene	1206	ribBA			
+LKFMPLPL_00559	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+LKFMPLPL_00560	gene	657	ribE			
+LKFMPLPL_00560	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+LKFMPLPL_00561	gene	1119	ribD			
+LKFMPLPL_00561	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+LKFMPLPL_00562	gene	867				
+LKFMPLPL_00562	CDS	867				hypothetical protein
+LKFMPLPL_00563	gene	936				
+LKFMPLPL_00563	CDS	936				hypothetical protein
+LKFMPLPL_00564	gene	858				
+LKFMPLPL_00564	CDS	858				hypothetical protein
+LKFMPLPL_00565	gene	918				
+LKFMPLPL_00565	CDS	918				hypothetical protein
+LKFMPLPL_00566	gene	1581				
+LKFMPLPL_00566	CDS	1581				hypothetical protein
+LKFMPLPL_00567	gene	2904				
+LKFMPLPL_00567	CDS	2904				hypothetical protein
+LKFMPLPL_00568	gene	2424				
+LKFMPLPL_00568	CDS	2424				hypothetical protein
+LKFMPLPL_00569	gene	273				
+LKFMPLPL_00569	CDS	273				hypothetical protein
+LKFMPLPL_00570	gene	855				
+LKFMPLPL_00570	CDS	855				hypothetical protein
+LKFMPLPL_00571	gene	2211	kdpB			
+LKFMPLPL_00571	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+LKFMPLPL_00572	gene	378				
+LKFMPLPL_00572	CDS	378				hypothetical protein
+LKFMPLPL_00573	gene	597				
+LKFMPLPL_00573	CDS	597				hypothetical protein
+LKFMPLPL_00574	gene	1113				
+LKFMPLPL_00574	CDS	1113				hypothetical protein
+LKFMPLPL_00575	gene	1119				
+LKFMPLPL_00575	CDS	1119				hypothetical protein
+LKFMPLPL_00576	gene	933	lnrL_1			
+LKFMPLPL_00576	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LKFMPLPL_00577	gene	1146				
+LKFMPLPL_00577	CDS	1146				hypothetical protein
+LKFMPLPL_00578	gene	648	lnrK			
+LKFMPLPL_00578	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+LKFMPLPL_00579	gene	735	rsuA			
+LKFMPLPL_00579	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+LKFMPLPL_00580	gene	876	hslO			
+LKFMPLPL_00580	CDS	876	hslO		COG1281	33 kDa chaperonin
+LKFMPLPL_00581	gene	795				
+LKFMPLPL_00581	CDS	795		2.1.1.156		Glycine/sarcosine/dimethylglycine N-methyltransferase
+LKFMPLPL_00582	gene	1371	ykoD_1			
+LKFMPLPL_00582	CDS	1371	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+LKFMPLPL_00583	gene	690	ecfT_1			
+LKFMPLPL_00583	CDS	690	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+LKFMPLPL_00584	gene	582				
+LKFMPLPL_00584	CDS	582				hypothetical protein
+LKFMPLPL_00585	gene	1725				
+LKFMPLPL_00585	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+LKFMPLPL_00586	gene	1758	hepA			
+LKFMPLPL_00586	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+LKFMPLPL_00587	gene	996	rhaR_1			
+LKFMPLPL_00587	CDS	996	rhaR_1			HTH-type transcriptional activator RhaR
+LKFMPLPL_00588	gene	849				
+LKFMPLPL_00588	CDS	849				hypothetical protein
+LKFMPLPL_00589	gene	438				
+LKFMPLPL_00589	CDS	438				hypothetical protein
+LKFMPLPL_00590	gene	657				
+LKFMPLPL_00590	CDS	657				hypothetical protein
+LKFMPLPL_00591	gene	477				
+LKFMPLPL_00591	CDS	477				hypothetical protein
+LKFMPLPL_00592	gene	1194	sdaB			
+LKFMPLPL_00592	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+LKFMPLPL_00593	gene	885	dapA_1			
+LKFMPLPL_00593	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+LKFMPLPL_00594	gene	606	rpsD			
+LKFMPLPL_00594	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+LKFMPLPL_00595	gene	744	artM			
+LKFMPLPL_00595	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+LKFMPLPL_00596	gene	675	artQ_2			
+LKFMPLPL_00596	CDS	675	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+LKFMPLPL_00597	gene	846	artP_2			
+LKFMPLPL_00597	CDS	846	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+LKFMPLPL_00598	gene	282				
+LKFMPLPL_00598	CDS	282				hypothetical protein
+LKFMPLPL_00599	gene	2190				
+LKFMPLPL_00599	CDS	2190				hypothetical protein
+LKFMPLPL_00600	gene	549				
+LKFMPLPL_00600	CDS	549				hypothetical protein
+LKFMPLPL_00601	gene	1269				
+LKFMPLPL_00601	CDS	1269				hypothetical protein
+LKFMPLPL_00602	gene	495	sigM_1			
+LKFMPLPL_00602	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+LKFMPLPL_00603	gene	1083				
+LKFMPLPL_00603	CDS	1083				hypothetical protein
+LKFMPLPL_00604	gene	450				
+LKFMPLPL_00604	CDS	450				hypothetical protein
+LKFMPLPL_00605	gene	354				
+LKFMPLPL_00605	CDS	354				hypothetical protein
+LKFMPLPL_00606	gene	672				
+LKFMPLPL_00606	CDS	672				hypothetical protein
+LKFMPLPL_00607	gene	600				
+LKFMPLPL_00607	CDS	600				hypothetical protein
+LKFMPLPL_00608	gene	1740				
+LKFMPLPL_00608	CDS	1740				hypothetical protein
+LKFMPLPL_00609	gene	1719				
+LKFMPLPL_00609	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+LKFMPLPL_00610	gene	1743	msbA_1			
+LKFMPLPL_00610	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+LKFMPLPL_00611	gene	588				
+LKFMPLPL_00611	CDS	588				hypothetical protein
+LKFMPLPL_00612	gene	1413	ykoD_2			
+LKFMPLPL_00612	CDS	1413	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+LKFMPLPL_00613	gene	675				
+LKFMPLPL_00613	CDS	675				hypothetical protein
+LKFMPLPL_00614	gene	774				
+LKFMPLPL_00614	CDS	774				hypothetical protein
+LKFMPLPL_00615	gene	582	pyrE			
+LKFMPLPL_00615	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+LKFMPLPL_00616	gene	903	pyrD			
+LKFMPLPL_00616	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+LKFMPLPL_00617	gene	690	pyrK			
+LKFMPLPL_00617	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+LKFMPLPL_00618	gene	912	pyrB			
+LKFMPLPL_00618	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+LKFMPLPL_00619	gene	1218	dctA			
+LKFMPLPL_00619	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+LKFMPLPL_00620	gene	732				
+LKFMPLPL_00620	CDS	732				hypothetical protein
+LKFMPLPL_00621	gene	834				
+LKFMPLPL_00621	CDS	834				hypothetical protein
+LKFMPLPL_00622	gene	1032				
+LKFMPLPL_00622	CDS	1032				hypothetical protein
+LKFMPLPL_00623	gene	4227				
+LKFMPLPL_00623	CDS	4227				hypothetical protein
+LKFMPLPL_00624	gene	1311				
+LKFMPLPL_00624	CDS	1311				hypothetical protein
+LKFMPLPL_00625	gene	618				
+LKFMPLPL_00625	CDS	618				hypothetical protein
+LKFMPLPL_00626	gene	954				
+LKFMPLPL_00626	CDS	954				hypothetical protein
+LKFMPLPL_00627	gene	1773				
+LKFMPLPL_00627	CDS	1773				hypothetical protein
+LKFMPLPL_00628	gene	723				
+LKFMPLPL_00628	CDS	723				hypothetical protein
+LKFMPLPL_00629	gene	192				
+LKFMPLPL_00629	CDS	192				hypothetical protein
+LKFMPLPL_00630	gene	1134				
+LKFMPLPL_00630	CDS	1134				hypothetical protein
+LKFMPLPL_00631	gene	633				
+LKFMPLPL_00631	CDS	633				hypothetical protein
+LKFMPLPL_00632	gene	357				
+LKFMPLPL_00632	CDS	357				hypothetical protein
+LKFMPLPL_00633	gene	363				
+LKFMPLPL_00633	CDS	363				hypothetical protein
+LKFMPLPL_00634	gene	405				
+LKFMPLPL_00634	CDS	405				hypothetical protein
+LKFMPLPL_00635	gene	507				
+LKFMPLPL_00635	CDS	507				hypothetical protein
+LKFMPLPL_00636	gene	981				
+LKFMPLPL_00636	CDS	981				hypothetical protein
+LKFMPLPL_00637	gene	2325				
+LKFMPLPL_00637	CDS	2325				hypothetical protein
+LKFMPLPL_00638	gene	852				
+LKFMPLPL_00638	CDS	852				hypothetical protein
+LKFMPLPL_00639	gene	678				
+LKFMPLPL_00639	CDS	678				hypothetical protein
+LKFMPLPL_00640	gene	450				
+LKFMPLPL_00640	CDS	450				hypothetical protein
+LKFMPLPL_00641	gene	1518				
+LKFMPLPL_00641	CDS	1518				hypothetical protein
+LKFMPLPL_00642	gene	1599	ftsH_1			
+LKFMPLPL_00642	CDS	1599	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+LKFMPLPL_00643	gene	879				
+LKFMPLPL_00643	CDS	879				hypothetical protein
+LKFMPLPL_00644	gene	861				
+LKFMPLPL_00644	CDS	861				hypothetical protein
+LKFMPLPL_00645	gene	678				
+LKFMPLPL_00645	CDS	678				hypothetical protein
+LKFMPLPL_00646	gene	3147				
+LKFMPLPL_00646	CDS	3147				hypothetical protein
+LKFMPLPL_00647	gene	744				
+LKFMPLPL_00647	CDS	744				hypothetical protein
+LKFMPLPL_00648	gene	648				
+LKFMPLPL_00648	CDS	648				hypothetical protein
+LKFMPLPL_00649	gene	76				
+LKFMPLPL_00649	tRNA	76				tRNA-Pyl(cta)
+LKFMPLPL_00650	gene	852	cdaA			
+LKFMPLPL_00650	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+LKFMPLPL_00651	gene	915	cdaR			
+LKFMPLPL_00651	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+LKFMPLPL_00652	gene	1083	buk2			
+LKFMPLPL_00652	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+LKFMPLPL_00653	gene	678				
+LKFMPLPL_00653	CDS	678				hypothetical protein
+LKFMPLPL_00654	gene	216	rsxB_1			
+LKFMPLPL_00654	CDS	216	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+LKFMPLPL_00655	gene	1065	padG			
+LKFMPLPL_00655	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+LKFMPLPL_00656	gene	780	korB			
+LKFMPLPL_00656	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+LKFMPLPL_00657	gene	555				
+LKFMPLPL_00657	CDS	555				hypothetical protein
+LKFMPLPL_00658	gene	1368	glmM			
+LKFMPLPL_00658	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+LKFMPLPL_00659	gene	177				
+LKFMPLPL_00659	CDS	177				hypothetical protein
+LKFMPLPL_00660	gene	1254	murAA			
+LKFMPLPL_00660	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+LKFMPLPL_00661	gene	1011	mreB_1			
+LKFMPLPL_00661	CDS	1011	mreB_1		COG1077	Cell shape-determining protein MreB
+LKFMPLPL_00662	gene	1185	metK			
+LKFMPLPL_00662	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+LKFMPLPL_00663	gene	2220	recD2			
+LKFMPLPL_00663	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+LKFMPLPL_00664	gene	771				
+LKFMPLPL_00664	CDS	771				hypothetical protein
+LKFMPLPL_00665	gene	540	folT			
+LKFMPLPL_00665	CDS	540	folT			Folate transporter FolT
+LKFMPLPL_00666	gene	141				
+LKFMPLPL_00666	CDS	141				hypothetical protein
+LKFMPLPL_00667	gene	2691	secA_2			
+LKFMPLPL_00667	CDS	2691	secA_2			Protein translocase subunit SecA
+LKFMPLPL_00668	gene	1671	norR			
+LKFMPLPL_00668	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+LKFMPLPL_00669	gene	1182				
+LKFMPLPL_00669	CDS	1182				hypothetical protein
+LKFMPLPL_00670	gene	1212	fldA_1			
+LKFMPLPL_00670	CDS	1212	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+LKFMPLPL_00671	gene	1233	hadB			
+LKFMPLPL_00671	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+LKFMPLPL_00672	gene	1125	hadC_1			
+LKFMPLPL_00672	CDS	1125	hadC_1	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+LKFMPLPL_00673	gene	1143	carC_1			
+LKFMPLPL_00673	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+LKFMPLPL_00674	gene	786	carD_1			
+LKFMPLPL_00674	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+LKFMPLPL_00675	gene	1011	carE_1			
+LKFMPLPL_00675	CDS	1011	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+LKFMPLPL_00676	gene	999				
+LKFMPLPL_00676	CDS	999		1.1.1.28		D-lactate dehydrogenase
+LKFMPLPL_00677	gene	1047	prfB			
+LKFMPLPL_00677	CDS	1047	prfB			Peptide chain release factor 2
+LKFMPLPL_00678	gene	2163	yhgF			
+LKFMPLPL_00678	CDS	2163	yhgF		COG2183	Protein YhgF
+LKFMPLPL_00679	gene	621	ribU			
+LKFMPLPL_00679	CDS	621	ribU			Riboflavin transporter RibU
+LKFMPLPL_00680	gene	795	fldI			
+LKFMPLPL_00680	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+LKFMPLPL_00681	gene	921				
+LKFMPLPL_00681	CDS	921				hypothetical protein
+LKFMPLPL_00682	gene	459	tsaE			
+LKFMPLPL_00682	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+LKFMPLPL_00683	gene	720	tsaB			
+LKFMPLPL_00683	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+LKFMPLPL_00684	gene	450	rimI			
+LKFMPLPL_00684	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+LKFMPLPL_00685	gene	1020	tsaD			
+LKFMPLPL_00685	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+LKFMPLPL_00686	gene	1932	yheS			
+LKFMPLPL_00686	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+LKFMPLPL_00687	gene	636	rex1			
+LKFMPLPL_00687	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+LKFMPLPL_00688	gene	168				
+LKFMPLPL_00688	CDS	168			COG1145	Ferredoxin
+LKFMPLPL_00689	gene	1254				
+LKFMPLPL_00689	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+LKFMPLPL_00690	gene	657				
+LKFMPLPL_00690	CDS	657				hypothetical protein
+LKFMPLPL_00691	gene	219				
+LKFMPLPL_00691	CDS	219				hypothetical protein
+LKFMPLPL_00692	gene	234				
+LKFMPLPL_00692	CDS	234				hypothetical protein
+LKFMPLPL_00693	gene	2151	feoB			
+LKFMPLPL_00693	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+LKFMPLPL_00694	gene	168				
+LKFMPLPL_00694	CDS	168				hypothetical protein
+LKFMPLPL_00695	gene	1557				
+LKFMPLPL_00695	CDS	1557				hypothetical protein
+LKFMPLPL_00696	gene	486				
+LKFMPLPL_00696	CDS	486				hypothetical protein
+LKFMPLPL_00697	gene	651				
+LKFMPLPL_00697	CDS	651				hypothetical protein
+LKFMPLPL_00698	gene	954				
+LKFMPLPL_00698	CDS	954				hypothetical protein
+LKFMPLPL_00699	gene	1233				
+LKFMPLPL_00699	CDS	1233				IS256 family transposase ISCth4
+LKFMPLPL_00700	gene	714				
+LKFMPLPL_00700	CDS	714				hypothetical protein
+LKFMPLPL_00701	gene	864				
+LKFMPLPL_00701	CDS	864				hypothetical protein
+LKFMPLPL_00702	gene	528				
+LKFMPLPL_00702	CDS	528				hypothetical protein
+LKFMPLPL_00703	gene	342				
+LKFMPLPL_00703	CDS	342				hypothetical protein
+LKFMPLPL_00704	gene	1050				
+LKFMPLPL_00704	CDS	1050			COG2826	IS30 family transposase ISHahy9
+LKFMPLPL_00705	gene	642				
+LKFMPLPL_00705	CDS	642				hypothetical protein
+LKFMPLPL_00706	gene	1158	iscS			
+LKFMPLPL_00706	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+LKFMPLPL_00707	gene	1188	thiI			
+LKFMPLPL_00707	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+LKFMPLPL_00708	gene	966				
+LKFMPLPL_00708	CDS	966				hypothetical protein
+LKFMPLPL_00709	gene	1968				
+LKFMPLPL_00709	CDS	1968				hypothetical protein
+LKFMPLPL_00710	gene	2355				
+LKFMPLPL_00710	CDS	2355				hypothetical protein
+LKFMPLPL_00711	gene	627				
+LKFMPLPL_00711	CDS	627				hypothetical protein
+LKFMPLPL_00712	gene	1260	dacF			
+LKFMPLPL_00712	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+LKFMPLPL_00713	gene	531				
+LKFMPLPL_00713	CDS	531				hypothetical protein
+LKFMPLPL_00714	gene	1314	hflX			
+LKFMPLPL_00714	CDS	1314	hflX		COG2262	GTPase HflX
+LKFMPLPL_00715	gene	1413	alsT_2			
+LKFMPLPL_00715	CDS	1413	alsT_2		COG1115	Amino-acid carrier protein AlsT
+LKFMPLPL_00716	gene	267				
+LKFMPLPL_00716	CDS	267				hypothetical protein
+LKFMPLPL_00717	gene	1590	clsA_1			
+LKFMPLPL_00717	CDS	1590	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+LKFMPLPL_00718	gene	2808	cas3			
+LKFMPLPL_00718	CDS	2808	cas3	3.1.-.-		CRISPR-associated nuclease/helicase Cas3
+LKFMPLPL_00719	gene	1731				
+LKFMPLPL_00719	CDS	1731				hypothetical protein
+LKFMPLPL_00720	gene	558				
+LKFMPLPL_00720	CDS	558				hypothetical protein
+LKFMPLPL_00721	gene	1095	casC			
+LKFMPLPL_00721	CDS	1095	casC			CRISPR system Cascade subunit CasC
+LKFMPLPL_00722	gene	720	casD			
+LKFMPLPL_00722	CDS	720	casD			CRISPR system Cascade subunit CasD
+LKFMPLPL_00723	gene	636				
+LKFMPLPL_00723	CDS	636				hypothetical protein
+LKFMPLPL_00724	gene	942	ygbT			
+LKFMPLPL_00724	CDS	942	ygbT	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+LKFMPLPL_00725	gene	894				
+LKFMPLPL_00725	CDS	894				hypothetical protein
+	repeat_region	2224				
+LKFMPLPL_00726	gene	552				
+LKFMPLPL_00726	CDS	552				hypothetical protein
+LKFMPLPL_00727	gene	864	gloB_2			
+LKFMPLPL_00727	CDS	864	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+LKFMPLPL_00728	gene	402				
+LKFMPLPL_00728	CDS	402				hypothetical protein
+LKFMPLPL_00729	gene	882				
+LKFMPLPL_00729	CDS	882		3.2.1.-		Protein-ADP-ribose hydrolase
+LKFMPLPL_00730	gene	1161	resA			
+LKFMPLPL_00730	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+LKFMPLPL_00731	gene	891				
+LKFMPLPL_00731	CDS	891				hypothetical protein
+LKFMPLPL_00732	gene	1278				
+LKFMPLPL_00732	CDS	1278				hypothetical protein
+LKFMPLPL_00733	gene	645				
+LKFMPLPL_00733	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+LKFMPLPL_00734	gene	1377				
+LKFMPLPL_00734	CDS	1377				hypothetical protein
+LKFMPLPL_00735	gene	654	qseB			
+LKFMPLPL_00735	CDS	654	qseB			Transcriptional regulatory protein QseB
+LKFMPLPL_00736	gene	1320	sasA_3			
+LKFMPLPL_00736	CDS	1320	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+LKFMPLPL_00737	gene	372	acpS			
+LKFMPLPL_00737	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+LKFMPLPL_00738	gene	813	aptA			
+LKFMPLPL_00738	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+LKFMPLPL_00739	gene	936	aptB			
+LKFMPLPL_00739	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+LKFMPLPL_00740	gene	1173	ctpB			
+LKFMPLPL_00740	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+LKFMPLPL_00741	gene	1083	cobT			
+LKFMPLPL_00741	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+LKFMPLPL_00742	gene	588	cobU			
+LKFMPLPL_00742	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+LKFMPLPL_00743	gene	771	cobS			
+LKFMPLPL_00743	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+LKFMPLPL_00744	gene	639	pspA_2			
+LKFMPLPL_00744	CDS	639	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+LKFMPLPL_00745	gene	1503	cobQ			
+LKFMPLPL_00745	CDS	1503	cobQ			Cobyric acid synthase
+LKFMPLPL_00746	gene	1395	cbiA			
+LKFMPLPL_00746	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+LKFMPLPL_00747	gene	1041	cbiB			
+LKFMPLPL_00747	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+LKFMPLPL_00748	gene	1092	cobD			
+LKFMPLPL_00748	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+LKFMPLPL_00749	gene	885	pduX			
+LKFMPLPL_00749	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+LKFMPLPL_00750	gene	639	cbiC			
+LKFMPLPL_00750	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+LKFMPLPL_00751	gene	1167	cbiD			
+LKFMPLPL_00751	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+LKFMPLPL_00752	gene	720	cbiE			
+LKFMPLPL_00752	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+LKFMPLPL_00753	gene	567	cbiT			
+LKFMPLPL_00753	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+LKFMPLPL_00754	gene	759	cbiF			
+LKFMPLPL_00754	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+LKFMPLPL_00755	gene	1200	cbiG			
+LKFMPLPL_00755	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+LKFMPLPL_00756	gene	726	cbiH			
+LKFMPLPL_00756	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+LKFMPLPL_00757	gene	765	cbiJ			
+LKFMPLPL_00757	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+LKFMPLPL_00758	gene	1548				
+LKFMPLPL_00758	CDS	1548				hypothetical protein
+LKFMPLPL_00759	gene	1104				
+LKFMPLPL_00759	CDS	1104				hypothetical protein
+LKFMPLPL_00760	gene	906				
+LKFMPLPL_00760	CDS	906				hypothetical protein
+LKFMPLPL_00761	gene	924	fba			
+LKFMPLPL_00761	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+LKFMPLPL_00762	gene	552	hpf			
+LKFMPLPL_00762	CDS	552	hpf			Ribosome hibernation promotion factor
+LKFMPLPL_00763	gene	1059				
+LKFMPLPL_00763	CDS	1059			COG1702	PhoH-like protein
+LKFMPLPL_00764	gene	462	ybeY			
+LKFMPLPL_00764	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+LKFMPLPL_00765	gene	897				
+LKFMPLPL_00765	CDS	897				hypothetical protein
+LKFMPLPL_00766	gene	903	era			
+LKFMPLPL_00766	CDS	903	era			GTPase Era
+LKFMPLPL_00767	gene	1377				
+LKFMPLPL_00767	CDS	1377			COG2239	Magnesium transporter MgtE
+LKFMPLPL_00768	gene	747	recO			
+LKFMPLPL_00768	CDS	747	recO		COG1381	DNA repair protein RecO
+LKFMPLPL_00769	gene	609				
+LKFMPLPL_00769	CDS	609				hypothetical protein
+LKFMPLPL_00770	gene	885	glyQ			
+LKFMPLPL_00770	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+LKFMPLPL_00771	gene	2070	glyS			
+LKFMPLPL_00771	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+LKFMPLPL_00772	gene	585				
+LKFMPLPL_00772	CDS	585				hypothetical protein
+LKFMPLPL_00773	gene	426				
+LKFMPLPL_00773	CDS	426			COG0716	Flavodoxin
+LKFMPLPL_00774	gene	1059				
+LKFMPLPL_00774	CDS	1059				hypothetical protein
+LKFMPLPL_00775	gene	471				
+LKFMPLPL_00775	CDS	471				hypothetical protein
+LKFMPLPL_00776	gene	825	metQ			
+LKFMPLPL_00776	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+LKFMPLPL_00777	gene	654	metP			
+LKFMPLPL_00777	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+LKFMPLPL_00778	gene	969	metN			
+LKFMPLPL_00778	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+LKFMPLPL_00779	gene	354				
+LKFMPLPL_00779	CDS	354				hypothetical protein
+LKFMPLPL_00780	gene	1296	brnQ_1			
+LKFMPLPL_00780	CDS	1296	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+LKFMPLPL_00781	gene	2589	clpB			
+LKFMPLPL_00781	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+LKFMPLPL_00782	gene	642				
+LKFMPLPL_00782	CDS	642				hypothetical protein
+LKFMPLPL_00783	gene	411				
+LKFMPLPL_00783	CDS	411				hypothetical protein
+LKFMPLPL_00784	gene	1188	dxr			
+LKFMPLPL_00784	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+LKFMPLPL_00785	gene	1011	mmpA			
+LKFMPLPL_00785	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+LKFMPLPL_00786	gene	1056	ispG			
+LKFMPLPL_00786	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+LKFMPLPL_00787	gene	528				
+LKFMPLPL_00787	CDS	528				hypothetical protein
+LKFMPLPL_00788	gene	477				
+LKFMPLPL_00788	CDS	477				hypothetical protein
+LKFMPLPL_00789	gene	708				
+LKFMPLPL_00789	CDS	708				hypothetical protein
+LKFMPLPL_00790	gene	471				
+LKFMPLPL_00790	CDS	471				hypothetical protein
+LKFMPLPL_00791	gene	1233				
+LKFMPLPL_00791	CDS	1233				hypothetical protein
+LKFMPLPL_00792	gene	645	trmR			
+LKFMPLPL_00792	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+LKFMPLPL_00793	gene	1203	mltG			
+LKFMPLPL_00793	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+LKFMPLPL_00794	gene	822	punA			
+LKFMPLPL_00794	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+LKFMPLPL_00795	gene	1074				
+LKFMPLPL_00795	CDS	1074				hypothetical protein
+LKFMPLPL_00796	gene	831				
+LKFMPLPL_00796	CDS	831				hypothetical protein
+LKFMPLPL_00797	gene	687	arnC			
+LKFMPLPL_00797	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+LKFMPLPL_00798	gene	864				
+LKFMPLPL_00798	CDS	864				hypothetical protein
+LKFMPLPL_00799	gene	1122				
+LKFMPLPL_00799	CDS	1122				hypothetical protein
+LKFMPLPL_00800	gene	1683	recN			
+LKFMPLPL_00800	CDS	1683	recN		COG0497	DNA repair protein RecN
+LKFMPLPL_00801	gene	843	tlyA			
+LKFMPLPL_00801	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+LKFMPLPL_00802	gene	1947	dxs			
+LKFMPLPL_00802	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+LKFMPLPL_00803	gene	432				
+LKFMPLPL_00803	CDS	432				hypothetical protein
+LKFMPLPL_00804	gene	885				
+LKFMPLPL_00804	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+LKFMPLPL_00805	gene	246	xseB			
+LKFMPLPL_00805	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+LKFMPLPL_00806	gene	1206	xseA			
+LKFMPLPL_00806	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+LKFMPLPL_00807	gene	1107				
+LKFMPLPL_00807	CDS	1107				hypothetical protein
+LKFMPLPL_00808	gene	582				
+LKFMPLPL_00808	CDS	582				hypothetical protein
+LKFMPLPL_00809	gene	318				
+LKFMPLPL_00809	CDS	318				hypothetical protein
+LKFMPLPL_00810	gene	1395	alaS_1			
+LKFMPLPL_00810	CDS	1395	alaS_1	6.1.1.7		Alanine--tRNA ligase
+LKFMPLPL_00811	gene	954	msrAB			
+LKFMPLPL_00811	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+LKFMPLPL_00812	gene	678				
+LKFMPLPL_00812	CDS	678				hypothetical protein
+LKFMPLPL_00813	gene	1161				
+LKFMPLPL_00813	CDS	1161				hypothetical protein
+LKFMPLPL_00814	gene	1878				
+LKFMPLPL_00814	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+LKFMPLPL_00815	gene	2175	btuD_2			
+LKFMPLPL_00815	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKFMPLPL_00816	gene	768	prsA_2			
+LKFMPLPL_00816	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+LKFMPLPL_00817	gene	444				
+LKFMPLPL_00817	CDS	444				hypothetical protein
+LKFMPLPL_00818	gene	465				
+LKFMPLPL_00818	CDS	465				hypothetical protein
+LKFMPLPL_00819	gene	453				
+LKFMPLPL_00819	CDS	453				hypothetical protein
+LKFMPLPL_00820	gene	201	cspA			
+LKFMPLPL_00820	CDS	201	cspA		COG1278	Cold shock protein CspA
+LKFMPLPL_00821	gene	825	pdxY			
+LKFMPLPL_00821	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+LKFMPLPL_00822	gene	1902				
+LKFMPLPL_00822	CDS	1902				hypothetical protein
+LKFMPLPL_00823	gene	957	galT			
+LKFMPLPL_00823	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+LKFMPLPL_00824	gene	1200				
+LKFMPLPL_00824	CDS	1200		2.6.1.1		Aspartate aminotransferase
+LKFMPLPL_00825	gene	813	uppP			
+LKFMPLPL_00825	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+LKFMPLPL_00826	gene	1782				
+LKFMPLPL_00826	CDS	1782				hypothetical protein
+LKFMPLPL_00827	gene	1548	rny			
+LKFMPLPL_00827	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+LKFMPLPL_00828	gene	1626				
+LKFMPLPL_00828	CDS	1626				hypothetical protein
+LKFMPLPL_00829	gene	1083				
+LKFMPLPL_00829	CDS	1083				hypothetical protein
+LKFMPLPL_00830	gene	450	fur			
+LKFMPLPL_00830	CDS	450	fur		COG0735	Ferric uptake regulation protein
+LKFMPLPL_00831	gene	417	yrrK			
+LKFMPLPL_00831	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+LKFMPLPL_00832	gene	2280				
+LKFMPLPL_00832	CDS	2280				hypothetical protein
+LKFMPLPL_00833	gene	261				
+LKFMPLPL_00833	CDS	261				hypothetical protein
+LKFMPLPL_00834	gene	2637	alaS_2			
+LKFMPLPL_00834	CDS	2637	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+LKFMPLPL_00835	gene	228				
+LKFMPLPL_00835	CDS	228				hypothetical protein
+LKFMPLPL_00836	gene	1053				
+LKFMPLPL_00836	CDS	1053				hypothetical protein
+LKFMPLPL_00837	gene	378				
+LKFMPLPL_00837	CDS	378				hypothetical protein
+LKFMPLPL_00838	gene	513				
+LKFMPLPL_00838	CDS	513				hypothetical protein
+LKFMPLPL_00839	gene	804				
+LKFMPLPL_00839	CDS	804				hypothetical protein
+LKFMPLPL_00840	gene	138				
+LKFMPLPL_00840	CDS	138				hypothetical protein
+LKFMPLPL_00841	gene	1479	lsa(C)			
+LKFMPLPL_00841	CDS	1479	lsa(C)			ABC-F type ribosomal protection protein Lsa(C)
+LKFMPLPL_00842	gene	90				
+LKFMPLPL_00842	CDS	90				hypothetical protein
+LKFMPLPL_00843	gene	642				
+LKFMPLPL_00843	CDS	642				hypothetical protein
+LKFMPLPL_00844	gene	369				
+LKFMPLPL_00844	CDS	369				hypothetical protein
+LKFMPLPL_00845	gene	1683				
+LKFMPLPL_00845	CDS	1683				hypothetical protein
+LKFMPLPL_00846	gene	2253	rep			
+LKFMPLPL_00846	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+LKFMPLPL_00847	gene	684				
+LKFMPLPL_00847	CDS	684				hypothetical protein
+LKFMPLPL_00848	gene	3417	addB			
+LKFMPLPL_00848	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+LKFMPLPL_00849	gene	3933	addA			
+LKFMPLPL_00849	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+LKFMPLPL_00850	gene	1224	cpdA_1			
+LKFMPLPL_00850	CDS	1224	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+LKFMPLPL_00851	gene	3081	smc_2			
+LKFMPLPL_00851	CDS	3081	smc_2			Chromosome partition protein Smc
+LKFMPLPL_00852	gene	1329				
+LKFMPLPL_00852	CDS	1329				hypothetical protein
+LKFMPLPL_00853	gene	711				
+LKFMPLPL_00853	CDS	711				hypothetical protein
+LKFMPLPL_00854	gene	582				
+LKFMPLPL_00854	CDS	582				hypothetical protein
+LKFMPLPL_00855	gene	1332	mepA_3			
+LKFMPLPL_00855	CDS	1332	mepA_3			Multidrug export protein MepA
+LKFMPLPL_00856	gene	465	yfkJ			
+LKFMPLPL_00856	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+LKFMPLPL_00857	gene	894	bglK			
+LKFMPLPL_00857	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+LKFMPLPL_00858	gene	993	malR			
+LKFMPLPL_00858	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+LKFMPLPL_00859	gene	1287				
+LKFMPLPL_00859	CDS	1287				hypothetical protein
+LKFMPLPL_00860	gene	873	melD			
+LKFMPLPL_00860	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+LKFMPLPL_00861	gene	822	melC			
+LKFMPLPL_00861	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+LKFMPLPL_00862	gene	2289	malP			
+LKFMPLPL_00862	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+LKFMPLPL_00863	gene	1662	malL			
+LKFMPLPL_00863	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+LKFMPLPL_00864	gene	642	ycjU			
+LKFMPLPL_00864	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+LKFMPLPL_00865	gene	1128	msmX			
+LKFMPLPL_00865	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+LKFMPLPL_00866	gene	390				
+LKFMPLPL_00866	CDS	390				hypothetical protein
+LKFMPLPL_00867	gene	1380				
+LKFMPLPL_00867	CDS	1380				hypothetical protein
+LKFMPLPL_00868	gene	174				
+LKFMPLPL_00868	CDS	174				hypothetical protein
+LKFMPLPL_00869	gene	789				
+LKFMPLPL_00869	CDS	789				hypothetical protein
+LKFMPLPL_00870	gene	789				
+LKFMPLPL_00870	CDS	789				hypothetical protein
+LKFMPLPL_00871	gene	702				
+LKFMPLPL_00871	CDS	702				hypothetical protein
+LKFMPLPL_00872	gene	663	bcrA_3			
+LKFMPLPL_00872	CDS	663	bcrA_3			Bacitracin transport ATP-binding protein BcrA
+LKFMPLPL_00873	gene	495				
+LKFMPLPL_00873	CDS	495				hypothetical protein
+LKFMPLPL_00874	gene	516				
+LKFMPLPL_00874	CDS	516				hypothetical protein
+LKFMPLPL_00875	gene	414				
+LKFMPLPL_00875	CDS	414				hypothetical protein
+LKFMPLPL_00876	gene	2151				
+LKFMPLPL_00876	CDS	2151				hypothetical protein
+LKFMPLPL_00877	gene	678	macB_2			
+LKFMPLPL_00877	CDS	678	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+LKFMPLPL_00878	gene	306				
+LKFMPLPL_00878	CDS	306				IS481 family transposase ISSsu8
+LKFMPLPL_00879	gene	615				
+LKFMPLPL_00879	CDS	615				hypothetical protein
+LKFMPLPL_00880	gene	597				
+LKFMPLPL_00880	CDS	597				hypothetical protein
+LKFMPLPL_00881	gene	705	ecfT_2			
+LKFMPLPL_00881	CDS	705	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+LKFMPLPL_00882	gene	1476				
+LKFMPLPL_00882	CDS	1476				hypothetical protein
+LKFMPLPL_00883	gene	513	sigM_2			
+LKFMPLPL_00883	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+LKFMPLPL_00884	gene	1098	ychF			
+LKFMPLPL_00884	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+LKFMPLPL_00885	gene	456				
+LKFMPLPL_00885	CDS	456				hypothetical protein
+LKFMPLPL_00886	gene	1260				
+LKFMPLPL_00886	CDS	1260				hypothetical protein
+LKFMPLPL_00887	gene	1293				
+LKFMPLPL_00887	CDS	1293				hypothetical protein
+LKFMPLPL_00888	gene	750	lgt			
+LKFMPLPL_00888	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+LKFMPLPL_00889	gene	936	rsmH			
+LKFMPLPL_00889	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+LKFMPLPL_00890	gene	1410	murF			
+LKFMPLPL_00890	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+LKFMPLPL_00891	gene	966	mraY			
+LKFMPLPL_00891	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+LKFMPLPL_00892	gene	1365	murD			
+LKFMPLPL_00892	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LKFMPLPL_00893	gene	1098	murG			
+LKFMPLPL_00893	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+LKFMPLPL_00894	gene	1161	ftsZ			
+LKFMPLPL_00894	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+LKFMPLPL_00895	gene	468	nrdR			
+LKFMPLPL_00895	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+LKFMPLPL_00896	gene	681	phoP_2			
+LKFMPLPL_00896	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+LKFMPLPL_00897	gene	1281	walK			
+LKFMPLPL_00897	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+LKFMPLPL_00898	gene	1329	der			
+LKFMPLPL_00898	CDS	1329	der		COG1160	GTPase Der
+LKFMPLPL_00899	gene	609	plsY			
+LKFMPLPL_00899	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+LKFMPLPL_00900	gene	1011	gpsA			
+LKFMPLPL_00900	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+LKFMPLPL_00901	gene	702				
+LKFMPLPL_00901	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+LKFMPLPL_00902	gene	495	sepF			
+LKFMPLPL_00902	CDS	495	sepF			Cell division protein SepF
+LKFMPLPL_00903	gene	258				
+LKFMPLPL_00903	CDS	258				hypothetical protein
+LKFMPLPL_00904	gene	786				
+LKFMPLPL_00904	CDS	786				hypothetical protein
+LKFMPLPL_00905	gene	654	gpsB			
+LKFMPLPL_00905	CDS	654	gpsB			Cell cycle protein GpsB
+LKFMPLPL_00906	gene	3123	mupA			
+LKFMPLPL_00906	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+LKFMPLPL_00907	gene	816				
+LKFMPLPL_00907	CDS	816				hypothetical protein
+LKFMPLPL_00908	gene	1242				
+LKFMPLPL_00908	CDS	1242				hypothetical protein
+LKFMPLPL_00909	gene	141				
+LKFMPLPL_00909	CDS	141				hypothetical protein
+LKFMPLPL_00910	gene	1884				
+LKFMPLPL_00910	CDS	1884				hypothetical protein
+LKFMPLPL_00911	gene	951				
+LKFMPLPL_00911	CDS	951				hypothetical protein
+LKFMPLPL_00912	gene	693	cugP			
+LKFMPLPL_00912	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+LKFMPLPL_00913	gene	1176	bdhA			
+LKFMPLPL_00913	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+LKFMPLPL_00914	gene	762	rpsB			
+LKFMPLPL_00914	CDS	762	rpsB			30S ribosomal protein S2
+LKFMPLPL_00915	gene	909	tsf			
+LKFMPLPL_00915	CDS	909	tsf		COG0264	Elongation factor Ts
+LKFMPLPL_00916	gene	708	pyrH			
+LKFMPLPL_00916	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+LKFMPLPL_00917	gene	558	frr			
+LKFMPLPL_00917	CDS	558	frr		COG0233	Ribosome-recycling factor
+LKFMPLPL_00918	gene	732	uppS			
+LKFMPLPL_00918	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+LKFMPLPL_00919	gene	780				
+LKFMPLPL_00919	CDS	780				hypothetical protein
+LKFMPLPL_00920	gene	909				
+LKFMPLPL_00920	CDS	909				hypothetical protein
+LKFMPLPL_00921	gene	468	rimP			
+LKFMPLPL_00921	CDS	468	rimP			Ribosome maturation factor RimP
+LKFMPLPL_00922	gene	1272	nusA			
+LKFMPLPL_00922	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+LKFMPLPL_00923	gene	276				
+LKFMPLPL_00923	CDS	276				hypothetical protein
+LKFMPLPL_00924	gene	315	rplGA			
+LKFMPLPL_00924	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+LKFMPLPL_00925	gene	1944	infB			
+LKFMPLPL_00925	CDS	1944	infB			Translation initiation factor IF-2
+LKFMPLPL_00926	gene	348	rbfA			
+LKFMPLPL_00926	CDS	348	rbfA			Ribosome-binding factor A
+LKFMPLPL_00927	gene	804				
+LKFMPLPL_00927	CDS	804				hypothetical protein
+LKFMPLPL_00928	gene	357	rplT			
+LKFMPLPL_00928	CDS	357	rplT			50S ribosomal protein L20
+LKFMPLPL_00929	gene	198	rpmI			
+LKFMPLPL_00929	CDS	198	rpmI			50S ribosomal protein L35
+LKFMPLPL_00930	gene	459	infC			
+LKFMPLPL_00930	CDS	459	infC			Translation initiation factor IF-3
+LKFMPLPL_00931	gene	864	map			
+LKFMPLPL_00931	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+LKFMPLPL_00932	gene	603				
+LKFMPLPL_00932	CDS	603				hypothetical protein
+LKFMPLPL_00933	gene	561				
+LKFMPLPL_00933	CDS	561				hypothetical protein
+LKFMPLPL_00934	gene	549	chrA1			
+LKFMPLPL_00934	CDS	549	chrA1			Chromate transport protein
+LKFMPLPL_00935	gene	189				
+LKFMPLPL_00935	CDS	189				Rubredoxin
+LKFMPLPL_00936	gene	1101	dhaD			
+LKFMPLPL_00936	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+LKFMPLPL_00937	gene	1191				
+LKFMPLPL_00937	CDS	1191				hypothetical protein
+LKFMPLPL_00938	gene	750				
+LKFMPLPL_00938	CDS	750				hypothetical protein
+LKFMPLPL_00939	gene	411				
+LKFMPLPL_00939	CDS	411				hypothetical protein
+LKFMPLPL_00940	gene	513				
+LKFMPLPL_00940	CDS	513				hypothetical protein
+LKFMPLPL_00941	gene	777				
+LKFMPLPL_00941	CDS	777				hypothetical protein
+LKFMPLPL_00942	gene	711				
+LKFMPLPL_00942	CDS	711				hypothetical protein
+LKFMPLPL_00943	gene	1368	mepA_4			
+LKFMPLPL_00943	CDS	1368	mepA_4			Multidrug export protein MepA
+LKFMPLPL_00944	gene	2472				
+LKFMPLPL_00944	CDS	2472				hypothetical protein
+LKFMPLPL_00945	gene	597				
+LKFMPLPL_00945	CDS	597				hypothetical protein
+LKFMPLPL_00946	gene	639				
+LKFMPLPL_00946	CDS	639				hypothetical protein
+LKFMPLPL_00947	gene	1626	mleA			
+LKFMPLPL_00947	CDS	1626	mleA	4.1.1.101	COG0281	Malolactic enzyme
+LKFMPLPL_00948	gene	627				
+LKFMPLPL_00948	CDS	627			COG2826	IS30 family transposase ISLjo1
+LKFMPLPL_00949	gene	2088	nqrC			
+LKFMPLPL_00949	CDS	2088	nqrC	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit C
+LKFMPLPL_00950	gene	525				
+LKFMPLPL_00950	CDS	525				hypothetical protein
+LKFMPLPL_00951	gene	732				
+LKFMPLPL_00951	CDS	732				hypothetical protein
+LKFMPLPL_00952	gene	4047				
+LKFMPLPL_00952	CDS	4047				hypothetical protein
+LKFMPLPL_00953	gene	996				
+LKFMPLPL_00953	CDS	996				hypothetical protein
+LKFMPLPL_00954	gene	1365	rclA			
+LKFMPLPL_00954	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+LKFMPLPL_00955	gene	573				
+LKFMPLPL_00955	CDS	573				hypothetical protein
+LKFMPLPL_00956	gene	1500				
+LKFMPLPL_00956	CDS	1500				hypothetical protein
+LKFMPLPL_00957	gene	498				
+LKFMPLPL_00957	CDS	498				hypothetical protein
+LKFMPLPL_00958	gene	1392				
+LKFMPLPL_00958	CDS	1392				hypothetical protein
+LKFMPLPL_00959	gene	1188				
+LKFMPLPL_00959	CDS	1188				hypothetical protein
+LKFMPLPL_00960	gene	852				
+LKFMPLPL_00960	CDS	852				hypothetical protein
+LKFMPLPL_00961	gene	432	yiaC			
+LKFMPLPL_00961	CDS	432	yiaC	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YiaC
+LKFMPLPL_00962	gene	174				
+LKFMPLPL_00962	CDS	174				hypothetical protein
+LKFMPLPL_00963	gene	1071				
+LKFMPLPL_00963	CDS	1071				hypothetical protein
+LKFMPLPL_00964	gene	408				
+LKFMPLPL_00964	CDS	408				hypothetical protein
+LKFMPLPL_00965	gene	504				
+LKFMPLPL_00965	CDS	504				hypothetical protein
+LKFMPLPL_00966	gene	915				
+LKFMPLPL_00966	CDS	915				hypothetical protein
+LKFMPLPL_00967	gene	159				
+LKFMPLPL_00967	CDS	159				hypothetical protein
+LKFMPLPL_00968	gene	618				
+LKFMPLPL_00968	CDS	618				hypothetical protein
+LKFMPLPL_00969	gene	198				
+LKFMPLPL_00969	CDS	198				hypothetical protein
+LKFMPLPL_00970	gene	138				
+LKFMPLPL_00970	CDS	138				hypothetical protein
+LKFMPLPL_00971	gene	645				
+LKFMPLPL_00971	CDS	645				hypothetical protein
+LKFMPLPL_00972	gene	840				
+LKFMPLPL_00972	CDS	840				hypothetical protein
+LKFMPLPL_00973	gene	801				
+LKFMPLPL_00973	CDS	801				hypothetical protein
+LKFMPLPL_00974	gene	279				
+LKFMPLPL_00974	CDS	279				IS200/IS605 family transposase ISDha13
+LKFMPLPL_00975	gene	783				
+LKFMPLPL_00975	CDS	783				ISL3 family transposase ISFnu5
+LKFMPLPL_00976	gene	246				
+LKFMPLPL_00976	CDS	246				hypothetical protein
+LKFMPLPL_00977	gene	3216	carB			
+LKFMPLPL_00977	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+LKFMPLPL_00978	gene	1050	carA_1			
+LKFMPLPL_00978	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+LKFMPLPL_00979	gene	723	pyrF			
+LKFMPLPL_00979	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+LKFMPLPL_00980	gene	1140				
+LKFMPLPL_00980	CDS	1140				hypothetical protein
+LKFMPLPL_00981	gene	1128				
+LKFMPLPL_00981	CDS	1128				hypothetical protein
+LKFMPLPL_00982	gene	297				
+LKFMPLPL_00982	CDS	297				hypothetical protein
+LKFMPLPL_00983	gene	339				
+LKFMPLPL_00983	CDS	339				hypothetical protein
+LKFMPLPL_00984	gene	549				
+LKFMPLPL_00984	CDS	549				hypothetical protein
+LKFMPLPL_00985	gene	1725				
+LKFMPLPL_00985	CDS	1725				hypothetical protein
+LKFMPLPL_00986	gene	1407				
+LKFMPLPL_00986	CDS	1407				hypothetical protein
+LKFMPLPL_00987	gene	645				
+LKFMPLPL_00987	CDS	645				hypothetical protein
+LKFMPLPL_00988	gene	741				
+LKFMPLPL_00988	CDS	741				hypothetical protein
+LKFMPLPL_00989	gene	1140	pgl			
+LKFMPLPL_00989	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+LKFMPLPL_00990	gene	369	rplL			
+LKFMPLPL_00990	CDS	369	rplL			50S ribosomal protein L7/L12
+LKFMPLPL_00991	gene	522	rplJ			
+LKFMPLPL_00991	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+LKFMPLPL_00992	gene	699	rplA			
+LKFMPLPL_00992	CDS	699	rplA			50S ribosomal protein L1
+LKFMPLPL_00993	gene	426	rplK			
+LKFMPLPL_00993	CDS	426	rplK		COG0080	50S ribosomal protein L11
+LKFMPLPL_00994	gene	543	nusG			
+LKFMPLPL_00994	CDS	543	nusG			Transcription termination/antitermination protein NusG
+LKFMPLPL_00995	gene	207	secE			
+LKFMPLPL_00995	CDS	207	secE			Protein translocase subunit SecE
+LKFMPLPL_00996	gene	150	rpmG2			
+LKFMPLPL_00996	CDS	150	rpmG2			50S ribosomal protein L33 2
+LKFMPLPL_00997	gene	489				
+LKFMPLPL_00997	CDS	489				hypothetical protein
+LKFMPLPL_00998	gene	696				
+LKFMPLPL_00998	CDS	696				hypothetical protein
+LKFMPLPL_00999	gene	1224	pepT			
+LKFMPLPL_00999	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+LKFMPLPL_01000	gene	75				
+LKFMPLPL_01000	tRNA	75				tRNA-Arg(tcg)
+LKFMPLPL_01001	gene	402				
+LKFMPLPL_01001	CDS	402				hypothetical protein
+LKFMPLPL_01002	gene	75				
+LKFMPLPL_01002	tRNA	75				tRNA-Arg(cct)
+LKFMPLPL_01003	gene	1200	gerN			
+LKFMPLPL_01003	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+LKFMPLPL_01004	gene	447				
+LKFMPLPL_01004	CDS	447				hypothetical protein
+LKFMPLPL_01005	gene	702				
+LKFMPLPL_01005	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+LKFMPLPL_01006	gene	3555	rpoC			
+LKFMPLPL_01006	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+LKFMPLPL_01007	gene	96				
+LKFMPLPL_01007	CDS	96				hypothetical protein
+LKFMPLPL_01008	gene	3747	rpoB			
+LKFMPLPL_01008	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+LKFMPLPL_01009	gene	1056				
+LKFMPLPL_01009	CDS	1056				hypothetical protein
+LKFMPLPL_01010	gene	927				
+LKFMPLPL_01010	CDS	927				hypothetical protein
+LKFMPLPL_01011	gene	1698				
+LKFMPLPL_01011	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+LKFMPLPL_01012	gene	1764				
+LKFMPLPL_01012	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+LKFMPLPL_01013	gene	1782				
+LKFMPLPL_01013	CDS	1782				hypothetical protein
+LKFMPLPL_01014	gene	819				
+LKFMPLPL_01014	CDS	819				hypothetical protein
+LKFMPLPL_01015	gene	825				
+LKFMPLPL_01015	CDS	825				hypothetical protein
+LKFMPLPL_01016	gene	285				
+LKFMPLPL_01016	CDS	285				hypothetical protein
+LKFMPLPL_01017	gene	1014	ccpA			
+LKFMPLPL_01017	CDS	1014	ccpA		COG1609	Catabolite control protein A
+LKFMPLPL_01018	gene	228	acpP_1			
+LKFMPLPL_01018	CDS	228	acpP_1			Acyl carrier protein
+LKFMPLPL_01019	gene	1011				
+LKFMPLPL_01019	CDS	1011				hypothetical protein
+LKFMPLPL_01020	gene	933	rluD_1			
+LKFMPLPL_01020	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LKFMPLPL_01021	gene	888	nadK			
+LKFMPLPL_01021	CDS	888	nadK	2.7.1.23		NAD kinase
+LKFMPLPL_01022	gene	1035	icd			
+LKFMPLPL_01022	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+LKFMPLPL_01023	gene	1974	leuC			
+LKFMPLPL_01023	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+LKFMPLPL_01024	gene	1077	cshE			
+LKFMPLPL_01024	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+LKFMPLPL_01025	gene	330				
+LKFMPLPL_01025	CDS	330				hypothetical protein
+LKFMPLPL_01026	gene	2688				
+LKFMPLPL_01026	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+LKFMPLPL_01027	gene	1062				
+LKFMPLPL_01027	CDS	1062				hypothetical protein
+LKFMPLPL_01028	gene	597				
+LKFMPLPL_01028	CDS	597				hypothetical protein
+LKFMPLPL_01029	gene	603				
+LKFMPLPL_01029	CDS	603				hypothetical protein
+LKFMPLPL_01030	gene	1077	lytC_4			
+LKFMPLPL_01030	CDS	1077	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+LKFMPLPL_01031	gene	243				
+LKFMPLPL_01031	CDS	243				hypothetical protein
+LKFMPLPL_01032	gene	594				
+LKFMPLPL_01032	CDS	594				hypothetical protein
+LKFMPLPL_01033	gene	825				
+LKFMPLPL_01033	CDS	825				hypothetical protein
+LKFMPLPL_01034	gene	1338				
+LKFMPLPL_01034	CDS	1338		1.6.99.3		putative NADH oxidase
+LKFMPLPL_01035	gene	411				
+LKFMPLPL_01035	CDS	411				hypothetical protein
+LKFMPLPL_01036	gene	1284	brnQ_2			
+LKFMPLPL_01036	CDS	1284	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+LKFMPLPL_01037	gene	1968				
+LKFMPLPL_01037	CDS	1968				hypothetical protein
+LKFMPLPL_01038	gene	426				
+LKFMPLPL_01038	CDS	426				hypothetical protein
+LKFMPLPL_01039	gene	1740				
+LKFMPLPL_01039	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+LKFMPLPL_01040	gene	774	dtd3			
+LKFMPLPL_01040	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+LKFMPLPL_01041	gene	522	niaR			
+LKFMPLPL_01041	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+LKFMPLPL_01042	gene	1821				
+LKFMPLPL_01042	CDS	1821				hypothetical protein
+LKFMPLPL_01043	gene	912				
+LKFMPLPL_01043	CDS	912				hypothetical protein
+LKFMPLPL_01044	gene	1473				
+LKFMPLPL_01044	CDS	1473				hypothetical protein
+LKFMPLPL_01045	gene	147				
+LKFMPLPL_01045	CDS	147				hypothetical protein
+LKFMPLPL_01046	gene	228				
+LKFMPLPL_01046	CDS	228				hypothetical protein
+LKFMPLPL_01047	gene	225				
+LKFMPLPL_01047	CDS	225				hypothetical protein
+LKFMPLPL_01048	gene	1239				
+LKFMPLPL_01048	CDS	1239				hypothetical protein
+LKFMPLPL_01049	gene	1677	fhs			
+LKFMPLPL_01049	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+LKFMPLPL_01050	gene	1143				
+LKFMPLPL_01050	CDS	1143				hypothetical protein
+LKFMPLPL_01051	gene	1179				
+LKFMPLPL_01051	CDS	1179				hypothetical protein
+LKFMPLPL_01052	gene	1404	lysN			
+LKFMPLPL_01052	CDS	1404	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+LKFMPLPL_01053	gene	201				
+LKFMPLPL_01053	CDS	201				hypothetical protein
+LKFMPLPL_01054	gene	912	cmpR			
+LKFMPLPL_01054	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+LKFMPLPL_01055	gene	85				
+LKFMPLPL_01055	tRNA	85				tRNA-Leu(caa)
+LKFMPLPL_01056	gene	2643	polA			
+LKFMPLPL_01056	CDS	2643	polA	2.7.7.7		DNA polymerase I
+LKFMPLPL_01057	gene	606	coaE			
+LKFMPLPL_01057	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+LKFMPLPL_01058	gene	561	mltC			
+LKFMPLPL_01058	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+LKFMPLPL_01059	gene	213				
+LKFMPLPL_01059	CDS	213				hypothetical protein
+LKFMPLPL_01060	gene	1431				
+LKFMPLPL_01060	CDS	1431				hypothetical protein
+LKFMPLPL_01061	gene	1344	rnfC			
+LKFMPLPL_01061	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+LKFMPLPL_01062	gene	987	rnfD			
+LKFMPLPL_01062	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+LKFMPLPL_01063	gene	567	rnfG			
+LKFMPLPL_01063	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+LKFMPLPL_01064	gene	594	rnfE			
+LKFMPLPL_01064	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+LKFMPLPL_01065	gene	576	rnfA			
+LKFMPLPL_01065	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+LKFMPLPL_01066	gene	864	rnfB			
+LKFMPLPL_01066	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+LKFMPLPL_01067	gene	687				
+LKFMPLPL_01067	CDS	687				hypothetical protein
+LKFMPLPL_01068	gene	1050	mreB_2			
+LKFMPLPL_01068	CDS	1050	mreB_2		COG1077	Cell shape-determining protein MreB
+LKFMPLPL_01069	gene	882				
+LKFMPLPL_01069	CDS	882				hypothetical protein
+LKFMPLPL_01070	gene	486				
+LKFMPLPL_01070	CDS	486				hypothetical protein
+LKFMPLPL_01071	gene	2898	mrdA			
+LKFMPLPL_01071	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+LKFMPLPL_01072	gene	1113	mrdB			
+LKFMPLPL_01072	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+LKFMPLPL_01073	gene	1860				
+LKFMPLPL_01073	CDS	1860				hypothetical protein
+LKFMPLPL_01074	gene	699				
+LKFMPLPL_01074	CDS	699				hypothetical protein
+LKFMPLPL_01075	gene	1401	rne			
+LKFMPLPL_01075	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+LKFMPLPL_01076	gene	921	rbn			
+LKFMPLPL_01076	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+LKFMPLPL_01077	gene	462	crcB_1			
+LKFMPLPL_01077	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+LKFMPLPL_01078	gene	348	crcB_2			
+LKFMPLPL_01078	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+LKFMPLPL_01079	gene	624	recX			
+LKFMPLPL_01079	CDS	624	recX			Regulatory protein RecX
+LKFMPLPL_01080	gene	696	nadD			
+LKFMPLPL_01080	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+LKFMPLPL_01081	gene	576				
+LKFMPLPL_01081	CDS	576				hypothetical protein
+LKFMPLPL_01082	gene	351	rsfS			
+LKFMPLPL_01082	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+LKFMPLPL_01083	gene	2421	leuS			
+LKFMPLPL_01083	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+LKFMPLPL_01084	gene	915	yijE			
+LKFMPLPL_01084	CDS	915	yijE			putative cystine transporter YijE
+LKFMPLPL_01085	gene	309	rplU			
+LKFMPLPL_01085	CDS	309	rplU		COG0261	50S ribosomal protein L21
+LKFMPLPL_01086	gene	318				
+LKFMPLPL_01086	CDS	318				hypothetical protein
+LKFMPLPL_01087	gene	291	rpmA			
+LKFMPLPL_01087	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+LKFMPLPL_01088	gene	1281	obg			
+LKFMPLPL_01088	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+LKFMPLPL_01089	gene	390				
+LKFMPLPL_01089	CDS	390				hypothetical protein
+LKFMPLPL_01090	gene	1218	tdcB			
+LKFMPLPL_01090	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+LKFMPLPL_01091	gene	378	yabJ			
+LKFMPLPL_01091	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+LKFMPLPL_01092	gene	630				
+LKFMPLPL_01092	CDS	630				hypothetical protein
+LKFMPLPL_01093	gene	1494				
+LKFMPLPL_01093	CDS	1494				hypothetical protein
+LKFMPLPL_01094	gene	369				
+LKFMPLPL_01094	CDS	369				hypothetical protein
+LKFMPLPL_01095	gene	1005				
+LKFMPLPL_01095	CDS	1005			COG0330	putative protein
+LKFMPLPL_01096	gene	453				
+LKFMPLPL_01096	CDS	453				hypothetical protein
+LKFMPLPL_01097	gene	1614	nnr			
+LKFMPLPL_01097	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+LKFMPLPL_01098	gene	2439				
+LKFMPLPL_01098	CDS	2439				hypothetical protein
+LKFMPLPL_01099	gene	576	zapA			
+LKFMPLPL_01099	CDS	576	zapA			Cell division protein ZapA
+LKFMPLPL_01100	gene	1149	hemW			
+LKFMPLPL_01100	CDS	1149	hemW		COG0635	Heme chaperone HemW
+LKFMPLPL_01101	gene	861				
+LKFMPLPL_01101	CDS	861				hypothetical protein
+LKFMPLPL_01102	gene	1317	cca			
+LKFMPLPL_01102	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+LKFMPLPL_01103	gene	1806	lepA			
+LKFMPLPL_01103	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+LKFMPLPL_01104	gene	267	rpsT			
+LKFMPLPL_01104	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+LKFMPLPL_01105	gene	120				
+LKFMPLPL_01105	CDS	120				hypothetical protein
+LKFMPLPL_01106	gene	1875	yxdM			
+LKFMPLPL_01106	CDS	1875	yxdM			ABC transporter permease protein YxdM
+LKFMPLPL_01107	gene	756	yxdL			
+LKFMPLPL_01107	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+LKFMPLPL_01108	gene	990	graS			
+LKFMPLPL_01108	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+LKFMPLPL_01109	gene	687	graR			
+LKFMPLPL_01109	CDS	687	graR		COG0745	Response regulator protein GraR
+LKFMPLPL_01110	gene	1038	yqeN			
+LKFMPLPL_01110	CDS	1038	yqeN		COG1466	putative protein YqeN
+LKFMPLPL_01111	gene	1236	comEC_1			
+LKFMPLPL_01111	CDS	1236	comEC_1		COG0658	ComE operon protein 3
+LKFMPLPL_01112	gene	1287	eis			
+LKFMPLPL_01112	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+LKFMPLPL_01113	gene	906				
+LKFMPLPL_01113	CDS	906				hypothetical protein
+LKFMPLPL_01114	gene	867	comEC_2			
+LKFMPLPL_01114	CDS	867	comEC_2		COG0658	ComE operon protein 3
+LKFMPLPL_01115	gene	717				
+LKFMPLPL_01115	CDS	717				hypothetical protein
+LKFMPLPL_01116	gene	1155	dnaJ			
+LKFMPLPL_01116	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+LKFMPLPL_01117	gene	1845	dnaK			
+LKFMPLPL_01117	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+LKFMPLPL_01118	gene	624	grpE			
+LKFMPLPL_01118	CDS	624	grpE			Protein GrpE
+LKFMPLPL_01119	gene	1005	hrcA			
+LKFMPLPL_01119	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+LKFMPLPL_01120	gene	1926	thrZ			
+LKFMPLPL_01120	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+LKFMPLPL_01121	gene	642				
+LKFMPLPL_01121	CDS	642				hypothetical protein
+LKFMPLPL_01122	gene	222				
+LKFMPLPL_01122	CDS	222				hypothetical protein
+LKFMPLPL_01123	gene	1173				
+LKFMPLPL_01123	CDS	1173				hypothetical protein
+LKFMPLPL_01124	gene	507	flp			
+LKFMPLPL_01124	CDS	507	flp			Protein flp
+LKFMPLPL_01125	gene	1380	mepA_5			
+LKFMPLPL_01125	CDS	1380	mepA_5			Multidrug export protein MepA
+LKFMPLPL_01126	gene	585				
+LKFMPLPL_01126	CDS	585				hypothetical protein
+LKFMPLPL_01127	gene	1755	msbA_2			
+LKFMPLPL_01127	CDS	1755	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+LKFMPLPL_01128	gene	2403				
+LKFMPLPL_01128	CDS	2403				hypothetical protein
+LKFMPLPL_01129	gene	2109	nrdE			
+LKFMPLPL_01129	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+LKFMPLPL_01130	gene	987	nrdF			
+LKFMPLPL_01130	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+LKFMPLPL_01131	gene	1164	ugtP_1			
+LKFMPLPL_01131	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+LKFMPLPL_01132	gene	690				
+LKFMPLPL_01132	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+LKFMPLPL_01133	gene	1044				
+LKFMPLPL_01133	CDS	1044				hypothetical protein
+LKFMPLPL_01134	gene	1347	rpoN			
+LKFMPLPL_01134	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+LKFMPLPL_01135	gene	1293				
+LKFMPLPL_01135	CDS	1293				hypothetical protein
+LKFMPLPL_01136	gene	1233				
+LKFMPLPL_01136	CDS	1233				hypothetical protein
+LKFMPLPL_01137	gene	1728	ade			
+LKFMPLPL_01137	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+LKFMPLPL_01138	gene	189	rpmB			
+LKFMPLPL_01138	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+LKFMPLPL_01139	gene	351				
+LKFMPLPL_01139	CDS	351				putative protein
+LKFMPLPL_01140	gene	1665				
+LKFMPLPL_01140	CDS	1665				putative protein
+LKFMPLPL_01141	gene	2058	recG			
+LKFMPLPL_01141	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+LKFMPLPL_01142	gene	561	rsmD			
+LKFMPLPL_01142	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+LKFMPLPL_01143	gene	483	coaD			
+LKFMPLPL_01143	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+LKFMPLPL_01144	gene	546				
+LKFMPLPL_01144	CDS	546			COG3599	putative protein
+LKFMPLPL_01145	gene	1311	tmcAL			
+LKFMPLPL_01145	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+LKFMPLPL_01146	gene	1200	ackA			
+LKFMPLPL_01146	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+LKFMPLPL_01147	gene	519				
+LKFMPLPL_01147	CDS	519				hypothetical protein
+LKFMPLPL_01148	gene	180	rpmF			
+LKFMPLPL_01148	CDS	180	rpmF			50S ribosomal protein L32
+LKFMPLPL_01149	gene	1017	plsX			
+LKFMPLPL_01149	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+LKFMPLPL_01150	gene	1977	fbp			
+LKFMPLPL_01150	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+LKFMPLPL_01151	gene	342				
+LKFMPLPL_01151	CDS	342				putative protein
+LKFMPLPL_01152	gene	495	nusB			
+LKFMPLPL_01152	CDS	495	nusB			Transcription antitermination protein NusB
+LKFMPLPL_01153	gene	1050	apbE			
+LKFMPLPL_01153	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+LKFMPLPL_01154	gene	375				
+LKFMPLPL_01154	CDS	375				hypothetical protein
+LKFMPLPL_01155	gene	675	ung			
+LKFMPLPL_01155	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+LKFMPLPL_01156	gene	606				
+LKFMPLPL_01156	CDS	606				hypothetical protein
+LKFMPLPL_01157	gene	861				
+LKFMPLPL_01157	CDS	861				hypothetical protein
+LKFMPLPL_01158	gene	441	yqeY			
+LKFMPLPL_01158	CDS	441	yqeY		COG1610	putative protein YqeY
+LKFMPLPL_01159	gene	180	rpsU			
+LKFMPLPL_01159	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+LKFMPLPL_01160	gene	972	pfkA			
+LKFMPLPL_01160	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+LKFMPLPL_01161	gene	1737	pyk			
+LKFMPLPL_01161	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+LKFMPLPL_01162	gene	903				
+LKFMPLPL_01162	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+LKFMPLPL_01163	gene	1929				
+LKFMPLPL_01163	CDS	1929				hypothetical protein
+LKFMPLPL_01164	gene	846				
+LKFMPLPL_01164	CDS	846				hypothetical protein
+LKFMPLPL_01165	gene	753	lacR			
+LKFMPLPL_01165	CDS	753	lacR			Lactose phosphotransferase system repressor
+LKFMPLPL_01166	gene	915	lacC			
+LKFMPLPL_01166	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+LKFMPLPL_01167	gene	1875	fruA			
+LKFMPLPL_01167	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+LKFMPLPL_01168	gene	246				
+LKFMPLPL_01168	CDS	246				hypothetical protein
+LKFMPLPL_01169	gene	1053				
+LKFMPLPL_01169	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+LKFMPLPL_01170	gene	135				
+LKFMPLPL_01170	CDS	135				hypothetical protein
+LKFMPLPL_01171	gene	1404	bioB_2			
+LKFMPLPL_01171	CDS	1404	bioB_2	2.8.1.6		Biotin synthase
+LKFMPLPL_01172	gene	1200	mnmE_1			
+LKFMPLPL_01172	CDS	1200	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+LKFMPLPL_01173	gene	492	ycdZ			
+LKFMPLPL_01173	CDS	492	ycdZ			Inner membrane protein YcdZ
+LKFMPLPL_01174	gene	870	sigF			
+LKFMPLPL_01174	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+LKFMPLPL_01175	gene	531				
+LKFMPLPL_01175	CDS	531				hypothetical protein
+LKFMPLPL_01176	gene	1425	accC			
+LKFMPLPL_01176	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+LKFMPLPL_01177	gene	858	accD			
+LKFMPLPL_01177	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+LKFMPLPL_01178	gene	744	accA			
+LKFMPLPL_01178	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+LKFMPLPL_01179	gene	480				
+LKFMPLPL_01179	CDS	480				hypothetical protein
+LKFMPLPL_01180	gene	1017	fabH			
+LKFMPLPL_01180	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+LKFMPLPL_01181	gene	225	acpP_2			
+LKFMPLPL_01181	CDS	225	acpP_2		COG0236	Acyl carrier protein
+LKFMPLPL_01182	gene	939				
+LKFMPLPL_01182	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+LKFMPLPL_01183	gene	939	fabD			
+LKFMPLPL_01183	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+LKFMPLPL_01184	gene	747	fabG_2			
+LKFMPLPL_01184	CDS	747	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LKFMPLPL_01185	gene	1236	fabF			
+LKFMPLPL_01185	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+LKFMPLPL_01186	gene	426	fabZ			
+LKFMPLPL_01186	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+LKFMPLPL_01187	gene	1338	uacT			
+LKFMPLPL_01187	CDS	1338	uacT		COG2233	Uric acid transporter UacT
+LKFMPLPL_01188	gene	570	xpt			
+LKFMPLPL_01188	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+LKFMPLPL_01189	gene	882				
+LKFMPLPL_01189	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+LKFMPLPL_01190	gene	387				
+LKFMPLPL_01190	CDS	387				hypothetical protein
+LKFMPLPL_01191	gene	1428				
+LKFMPLPL_01191	CDS	1428				hypothetical protein
+LKFMPLPL_01192	gene	846				
+LKFMPLPL_01192	CDS	846				hypothetical protein
+LKFMPLPL_01193	gene	495				
+LKFMPLPL_01193	CDS	495				hypothetical protein
+LKFMPLPL_01194	gene	384				
+LKFMPLPL_01194	CDS	384			COG1302	Alkaline shock protein 23
+LKFMPLPL_01195	gene	876				
+LKFMPLPL_01195	CDS	876				hypothetical protein
+LKFMPLPL_01196	gene	1482	clsA_2			
+LKFMPLPL_01196	CDS	1482	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+LKFMPLPL_01197	gene	282	groS			
+LKFMPLPL_01197	CDS	282	groS		COG0234	10 kDa chaperonin
+LKFMPLPL_01198	gene	1623	groL			
+LKFMPLPL_01198	CDS	1623	groL		COG0459	60 kDa chaperonin
+LKFMPLPL_01199	gene	183				
+LKFMPLPL_01199	CDS	183				hypothetical protein
+LKFMPLPL_01200	gene	378				
+LKFMPLPL_01200	CDS	378				hypothetical protein
+LKFMPLPL_01201	gene	744	aroD			
+LKFMPLPL_01201	CDS	744	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+LKFMPLPL_01202	gene	1167	patB			
+LKFMPLPL_01202	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+LKFMPLPL_01203	gene	810	ecfT_3			
+LKFMPLPL_01203	CDS	810	ecfT_3		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+LKFMPLPL_01204	gene	876	ecfA2			
+LKFMPLPL_01204	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+LKFMPLPL_01205	gene	837	ecfA1			
+LKFMPLPL_01205	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+LKFMPLPL_01206	gene	672				
+LKFMPLPL_01206	CDS	672				hypothetical protein
+LKFMPLPL_01207	gene	933				
+LKFMPLPL_01207	CDS	933				hypothetical protein
+LKFMPLPL_01208	gene	342				
+LKFMPLPL_01208	CDS	342				hypothetical protein
+LKFMPLPL_01209	gene	441				
+LKFMPLPL_01209	CDS	441				hypothetical protein
+LKFMPLPL_01210	gene	1422				
+LKFMPLPL_01210	CDS	1422				hypothetical protein
+LKFMPLPL_01211	gene	1227				
+LKFMPLPL_01211	CDS	1227				hypothetical protein
+LKFMPLPL_01212	gene	342	rplQ			
+LKFMPLPL_01212	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+LKFMPLPL_01213	gene	948	rpoA			
+LKFMPLPL_01213	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+LKFMPLPL_01214	gene	402	rpsK			
+LKFMPLPL_01214	CDS	402	rpsK			30S ribosomal protein S11
+LKFMPLPL_01215	gene	369	rpsM			
+LKFMPLPL_01215	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+LKFMPLPL_01216	gene	114	rpmJ			
+LKFMPLPL_01216	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+LKFMPLPL_01217	gene	219	infA			
+LKFMPLPL_01217	CDS	219	infA		COG0361	Translation initiation factor IF-1
+LKFMPLPL_01218	gene	270				
+LKFMPLPL_01218	CDS	270				hypothetical protein
+LKFMPLPL_01219	gene	642	adk			
+LKFMPLPL_01219	CDS	642	adk	2.7.4.3		Adenylate kinase
+LKFMPLPL_01220	gene	1269	secY			
+LKFMPLPL_01220	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+LKFMPLPL_01221	gene	444	rplO			
+LKFMPLPL_01221	CDS	444	rplO			50S ribosomal protein L15
+LKFMPLPL_01222	gene	186	rpmD			
+LKFMPLPL_01222	CDS	186	rpmD			50S ribosomal protein L30
+LKFMPLPL_01223	gene	510	rpsE			
+LKFMPLPL_01223	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+LKFMPLPL_01224	gene	369	rplR			
+LKFMPLPL_01224	CDS	369	rplR		COG0256	50S ribosomal protein L18
+LKFMPLPL_01225	gene	543	rplF			
+LKFMPLPL_01225	CDS	543	rplF			50S ribosomal protein L6
+LKFMPLPL_01226	gene	399	rpsH			
+LKFMPLPL_01226	CDS	399	rpsH			30S ribosomal protein S8
+LKFMPLPL_01227	gene	186	rpsZ			
+LKFMPLPL_01227	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+LKFMPLPL_01228	gene	543	rplE			
+LKFMPLPL_01228	CDS	543	rplE			50S ribosomal protein L5
+LKFMPLPL_01229	gene	309	rplX			
+LKFMPLPL_01229	CDS	309	rplX		COG0198	50S ribosomal protein L24
+LKFMPLPL_01230	gene	369	rplN			
+LKFMPLPL_01230	CDS	369	rplN		COG0093	50S ribosomal protein L14
+LKFMPLPL_01231	gene	255	rpsQ			
+LKFMPLPL_01231	CDS	255	rpsQ			30S ribosomal protein S17
+LKFMPLPL_01232	gene	204	rpmC			
+LKFMPLPL_01232	CDS	204	rpmC			50S ribosomal protein L29
+LKFMPLPL_01233	gene	429	rplP			
+LKFMPLPL_01233	CDS	429	rplP		COG0197	50S ribosomal protein L16
+LKFMPLPL_01234	gene	795	rpsC			
+LKFMPLPL_01234	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+LKFMPLPL_01235	gene	339	rplV			
+LKFMPLPL_01235	CDS	339	rplV		COG0091	50S ribosomal protein L22
+LKFMPLPL_01236	gene	282	rpsS			
+LKFMPLPL_01236	CDS	282	rpsS			30S ribosomal protein S19
+LKFMPLPL_01237	gene	831	rplB			
+LKFMPLPL_01237	CDS	831	rplB			50S ribosomal protein L2
+LKFMPLPL_01238	gene	291	rplW			
+LKFMPLPL_01238	CDS	291	rplW			50S ribosomal protein L23
+LKFMPLPL_01239	gene	624	rplD			
+LKFMPLPL_01239	CDS	624	rplD			50S ribosomal protein L4
+LKFMPLPL_01240	gene	630	rplC			
+LKFMPLPL_01240	CDS	630	rplC		COG0087	50S ribosomal protein L3
+LKFMPLPL_01241	gene	312	rpsJ			
+LKFMPLPL_01241	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+LKFMPLPL_01242	gene	795				
+LKFMPLPL_01242	CDS	795		1.-.-.-		putative oxidoreductase
+LKFMPLPL_01243	gene	1791				
+LKFMPLPL_01243	CDS	1791				hypothetical protein
+LKFMPLPL_01244	gene	339				
+LKFMPLPL_01244	CDS	339				hypothetical protein
+LKFMPLPL_01245	gene	486				
+LKFMPLPL_01245	CDS	486				hypothetical protein
+LKFMPLPL_01246	gene	654				
+LKFMPLPL_01246	CDS	654				hypothetical protein
+LKFMPLPL_01247	gene	828	exoA			
+LKFMPLPL_01247	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+LKFMPLPL_01248	gene	1194	tuf			
+LKFMPLPL_01248	CDS	1194	tuf		COG0050	Elongation factor Tu
+LKFMPLPL_01249	gene	2067	fusA_1			
+LKFMPLPL_01249	CDS	2067	fusA_1		COG0480	Elongation factor G
+LKFMPLPL_01250	gene	471	rpsG			
+LKFMPLPL_01250	CDS	471	rpsG			30S ribosomal protein S7
+LKFMPLPL_01251	gene	423	rpsL			
+LKFMPLPL_01251	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+LKFMPLPL_01252	gene	1281	ugd			
+LKFMPLPL_01252	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+LKFMPLPL_01253	gene	474	ispF			
+LKFMPLPL_01253	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+LKFMPLPL_01254	gene	693	ispD			
+LKFMPLPL_01254	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+LKFMPLPL_01255	gene	765	rhaR_2			
+LKFMPLPL_01255	CDS	765	rhaR_2			HTH-type transcriptional activator RhaR
+LKFMPLPL_01256	gene	552				
+LKFMPLPL_01256	CDS	552				hypothetical protein
+LKFMPLPL_01257	gene	582				
+LKFMPLPL_01257	CDS	582				hypothetical protein
+LKFMPLPL_01258	gene	1227				
+LKFMPLPL_01258	CDS	1227		3.4.11.-		Aminopeptidase 2
+LKFMPLPL_01259	gene	1170				
+LKFMPLPL_01259	CDS	1170				hypothetical protein
+LKFMPLPL_01260	gene	540				
+LKFMPLPL_01260	CDS	540				hypothetical protein
+LKFMPLPL_01261	gene	609				
+LKFMPLPL_01261	CDS	609				hypothetical protein
+LKFMPLPL_01262	gene	186				
+LKFMPLPL_01262	CDS	186				hypothetical protein
+LKFMPLPL_01263	gene	1317	cpdA_2			
+LKFMPLPL_01263	CDS	1317	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+LKFMPLPL_01264	gene	75				
+LKFMPLPL_01264	tRNA	75				tRNA-Arg(acg)
+LKFMPLPL_01265	gene	1380	mnmE_2			
+LKFMPLPL_01265	CDS	1380	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+LKFMPLPL_01266	gene	1881	mnmG			
+LKFMPLPL_01266	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+LKFMPLPL_01267	gene	729	rsmG			
+LKFMPLPL_01267	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+LKFMPLPL_01268	gene	1326				
+LKFMPLPL_01268	CDS	1326				hypothetical protein
+LKFMPLPL_01269	gene	1944	yjcS			
+LKFMPLPL_01269	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+LKFMPLPL_01270	gene	678	lolD_2			
+LKFMPLPL_01270	CDS	678	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+LKFMPLPL_01271	gene	207				
+LKFMPLPL_01271	CDS	207				hypothetical protein
+LKFMPLPL_01272	gene	162				
+LKFMPLPL_01272	CDS	162				hypothetical protein
+LKFMPLPL_01273	gene	915				
+LKFMPLPL_01273	CDS	915				hypothetical protein
+LKFMPLPL_01274	gene	516				
+LKFMPLPL_01274	CDS	516				hypothetical protein
+LKFMPLPL_01275	gene	558				
+LKFMPLPL_01275	CDS	558				ISL3 family transposase IS1476
+LKFMPLPL_01276	gene	285				
+LKFMPLPL_01276	CDS	285				hypothetical protein
+LKFMPLPL_01277	gene	951	prmA			
+LKFMPLPL_01277	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+LKFMPLPL_01278	gene	777	rsmE			
+LKFMPLPL_01278	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+LKFMPLPL_01279	gene	1296	mtaB			
+LKFMPLPL_01279	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+LKFMPLPL_01280	gene	324				
+LKFMPLPL_01280	CDS	324				hypothetical protein
+LKFMPLPL_01281	gene	345				
+LKFMPLPL_01281	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+LKFMPLPL_01282	gene	822				
+LKFMPLPL_01282	CDS	822				hypothetical protein
+LKFMPLPL_01283	gene	1032	pheS			
+LKFMPLPL_01283	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+LKFMPLPL_01284	gene	2391	pheT			
+LKFMPLPL_01284	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+LKFMPLPL_01285	gene	1557	ykoD_3			
+LKFMPLPL_01285	CDS	1557	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+LKFMPLPL_01286	gene	705				
+LKFMPLPL_01286	CDS	705				hypothetical protein
+LKFMPLPL_01287	gene	609				
+LKFMPLPL_01287	CDS	609				hypothetical protein
+LKFMPLPL_01288	gene	1719				
+LKFMPLPL_01288	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+LKFMPLPL_01289	gene	1770	msbA_3			
+LKFMPLPL_01289	CDS	1770	msbA_3	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+LKFMPLPL_01290	gene	957	rhaR_3			
+LKFMPLPL_01290	CDS	957	rhaR_3			HTH-type transcriptional activator RhaR
+LKFMPLPL_01291	gene	1818	uvrC			
+LKFMPLPL_01291	CDS	1818	uvrC		COG0322	UvrABC system protein C
+LKFMPLPL_01292	gene	933	hprK			
+LKFMPLPL_01292	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+LKFMPLPL_01293	gene	921	murB			
+LKFMPLPL_01293	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+LKFMPLPL_01294	gene	738	polX			
+LKFMPLPL_01294	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+LKFMPLPL_01295	gene	864	yvcJ			
+LKFMPLPL_01295	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+LKFMPLPL_01296	gene	1140				
+LKFMPLPL_01296	CDS	1140			COG0391	Gluconeogenesis factor
+LKFMPLPL_01297	gene	417	ndx1			
+LKFMPLPL_01297	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+LKFMPLPL_01298	gene	966	whiA			
+LKFMPLPL_01298	CDS	966	whiA		COG1481	putative cell division protein WhiA
+LKFMPLPL_01299	gene	3603	dnaE			
+LKFMPLPL_01299	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+LKFMPLPL_01300	gene	387	dfx			
+LKFMPLPL_01300	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+LKFMPLPL_01301	gene	372	perR			
+LKFMPLPL_01301	CDS	372	perR		COG0735	Peroxide operon regulator
+LKFMPLPL_01302	gene	549	rbr			
+LKFMPLPL_01302	CDS	549	rbr		COG1592	Rubrerythrin
+LKFMPLPL_01303	gene	519	hmpT			
+LKFMPLPL_01303	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+LKFMPLPL_01304	gene	1263	sstT_2			
+LKFMPLPL_01304	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+LKFMPLPL_01305	gene	2826	uvrA			
+LKFMPLPL_01305	CDS	2826	uvrA			UvrABC system protein A
+LKFMPLPL_01306	gene	576				
+LKFMPLPL_01306	CDS	576				hypothetical protein
+LKFMPLPL_01307	gene	1974	uvrB			
+LKFMPLPL_01307	CDS	1974	uvrB			UvrABC system protein B
+LKFMPLPL_01308	gene	396				
+LKFMPLPL_01308	CDS	396				hypothetical protein
+LKFMPLPL_01309	gene	1116				
+LKFMPLPL_01309	CDS	1116				hypothetical protein
+LKFMPLPL_01310	gene	396	panD			
+LKFMPLPL_01310	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+LKFMPLPL_01311	gene	879				
+LKFMPLPL_01311	CDS	879				hypothetical protein
+LKFMPLPL_01312	gene	1185	aspC			
+LKFMPLPL_01312	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+LKFMPLPL_01313	gene	1326	brnQ_3			
+LKFMPLPL_01313	CDS	1326	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+LKFMPLPL_01314	gene	993	hpr			
+LKFMPLPL_01314	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+LKFMPLPL_01315	gene	1008	carE_2			
+LKFMPLPL_01315	CDS	1008	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+LKFMPLPL_01316	gene	792	carD_2			
+LKFMPLPL_01316	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+LKFMPLPL_01317	gene	1134	carC_2			
+LKFMPLPL_01317	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+LKFMPLPL_01318	gene	1119	hadC_2			
+LKFMPLPL_01318	CDS	1119	hadC_2	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+LKFMPLPL_01319	gene	1236	fldB			
+LKFMPLPL_01319	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+LKFMPLPL_01320	gene	1245	fldA_2			
+LKFMPLPL_01320	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+LKFMPLPL_01321	gene	696	rspR_1			
+LKFMPLPL_01321	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+LKFMPLPL_01322	gene	351	ssrA			
+LKFMPLPL_01322	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+LKFMPLPL_01323	gene	579				
+LKFMPLPL_01323	CDS	579				hypothetical protein
+LKFMPLPL_01324	gene	465				
+LKFMPLPL_01324	CDS	465				hypothetical protein
+LKFMPLPL_01325	gene	405				
+LKFMPLPL_01325	CDS	405				hypothetical protein
+LKFMPLPL_01326	gene	591	ogt			
+LKFMPLPL_01326	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+LKFMPLPL_01327	gene	990	asd_1			
+LKFMPLPL_01327	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+LKFMPLPL_01328	gene	1338	hom			
+LKFMPLPL_01328	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+LKFMPLPL_01329	gene	1050	thrC			
+LKFMPLPL_01329	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+LKFMPLPL_01330	gene	909	thrB			
+LKFMPLPL_01330	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+LKFMPLPL_01331	gene	1221	ask			
+LKFMPLPL_01331	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+LKFMPLPL_01332	gene	828	COQ3			
+LKFMPLPL_01332	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+LKFMPLPL_01333	gene	1014	gloB_3			
+LKFMPLPL_01333	CDS	1014	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+LKFMPLPL_01334	gene	1548	carA_2			
+LKFMPLPL_01334	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+LKFMPLPL_01335	gene	960	dusB			
+LKFMPLPL_01335	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+LKFMPLPL_01336	gene	768	coaX			
+LKFMPLPL_01336	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+LKFMPLPL_01337	gene	984	birA			
+LKFMPLPL_01337	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+LKFMPLPL_01338	gene	693				
+LKFMPLPL_01338	CDS	693				hypothetical protein
+LKFMPLPL_01339	gene	405				
+LKFMPLPL_01339	CDS	405				hypothetical protein
+LKFMPLPL_01340	gene	2043	ftsH_2			
+LKFMPLPL_01340	CDS	2043	ftsH_2	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+LKFMPLPL_01341	gene	1380	tilS			
+LKFMPLPL_01341	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+LKFMPLPL_01342	gene	414				
+LKFMPLPL_01342	CDS	414				hypothetical protein
+LKFMPLPL_01343	gene	813	murI			
+LKFMPLPL_01343	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+LKFMPLPL_01344	gene	678	rspR_2			
+LKFMPLPL_01344	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+LKFMPLPL_01345	gene	897	ispE			
+LKFMPLPL_01345	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+LKFMPLPL_01346	gene	783				
+LKFMPLPL_01346	CDS	783				hypothetical protein
+LKFMPLPL_01347	gene	801	yycJ			
+LKFMPLPL_01347	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+LKFMPLPL_01348	gene	483	rlmH			
+LKFMPLPL_01348	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+LKFMPLPL_01349	gene	1050				
+LKFMPLPL_01349	CDS	1050				hypothetical protein
+LKFMPLPL_01350	gene	990	dnaA_1			
+LKFMPLPL_01350	CDS	990	dnaA_1			Chromosomal replication initiator protein DnaA
+LKFMPLPL_01351	gene	1338	dnaC			
+LKFMPLPL_01351	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+LKFMPLPL_01352	gene	447	rplI			
+LKFMPLPL_01352	CDS	447	rplI			50S ribosomal protein L9
+LKFMPLPL_01353	gene	2025	gdpP			
+LKFMPLPL_01353	CDS	2025	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+LKFMPLPL_01354	gene	1041				
+LKFMPLPL_01354	CDS	1041				hypothetical protein
+LKFMPLPL_01355	gene	366				
+LKFMPLPL_01355	CDS	366				hypothetical protein
+LKFMPLPL_01356	gene	1926	fusA_2			
+LKFMPLPL_01356	CDS	1926	fusA_2		COG0480	Elongation factor G
+LKFMPLPL_01357	gene	999				
+LKFMPLPL_01357	CDS	999				hypothetical protein
+LKFMPLPL_01358	gene	795				
+LKFMPLPL_01358	CDS	795				hypothetical protein
+LKFMPLPL_01359	gene	219				
+LKFMPLPL_01359	CDS	219				hypothetical protein
+LKFMPLPL_01360	gene	1380	radA			
+LKFMPLPL_01360	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+LKFMPLPL_01361	gene	1077	disA			
+LKFMPLPL_01361	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+LKFMPLPL_01362	gene	1092	yacL			
+LKFMPLPL_01362	CDS	1092	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+LKFMPLPL_01363	gene	1446	proS			
+LKFMPLPL_01363	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+LKFMPLPL_01364	gene	525				
+LKFMPLPL_01364	CDS	525				hypothetical protein
+LKFMPLPL_01365	gene	1617	deaD			
+LKFMPLPL_01365	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+LKFMPLPL_01366	gene	2766	mtgA_2			
+LKFMPLPL_01366	CDS	2766	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+LKFMPLPL_01367	gene	1551	ybiT_2			
+LKFMPLPL_01367	CDS	1551	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+LKFMPLPL_01368	gene	1551	rsxB_2			
+LKFMPLPL_01368	CDS	1551	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+LKFMPLPL_01369	gene	2652	valS			
+LKFMPLPL_01369	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+LKFMPLPL_01370	gene	507				
+LKFMPLPL_01370	CDS	507				hypothetical protein
+LKFMPLPL_01371	gene	690				
+LKFMPLPL_01371	CDS	690				hypothetical protein
+LKFMPLPL_01372	gene	873				
+LKFMPLPL_01372	CDS	873				hypothetical protein
+LKFMPLPL_01373	gene	1059				
+LKFMPLPL_01373	CDS	1059				hypothetical protein
+LKFMPLPL_01374	gene	678	purC			
+LKFMPLPL_01374	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+LKFMPLPL_01375	gene	1431	pepD_2			
+LKFMPLPL_01375	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+LKFMPLPL_01376	gene	1362	murE_2			
+LKFMPLPL_01376	CDS	1362	murE_2	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+LKFMPLPL_01377	gene	741	mta			
+LKFMPLPL_01377	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+LKFMPLPL_01378	gene	1638	hcp			
+LKFMPLPL_01378	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+LKFMPLPL_01379	gene	183				
+LKFMPLPL_01379	CDS	183				hypothetical protein
+LKFMPLPL_01380	gene	771	rhmA			
+LKFMPLPL_01380	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+LKFMPLPL_01381	gene	822	mscS			
+LKFMPLPL_01381	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+LKFMPLPL_01382	gene	1188				
+LKFMPLPL_01382	CDS	1188				hypothetical protein
+LKFMPLPL_01383	gene	1584				
+LKFMPLPL_01383	CDS	1584				hypothetical protein
+LKFMPLPL_01384	gene	756				
+LKFMPLPL_01384	CDS	756				hypothetical protein
+LKFMPLPL_01385	gene	2514				
+LKFMPLPL_01385	CDS	2514				hypothetical protein
+LKFMPLPL_01386	gene	1404	cysS			
+LKFMPLPL_01386	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+LKFMPLPL_01387	gene	453	mrnC			
+LKFMPLPL_01387	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+LKFMPLPL_01388	gene	735				
+LKFMPLPL_01388	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+LKFMPLPL_01389	gene	564				
+LKFMPLPL_01389	CDS	564				hypothetical protein
+LKFMPLPL_01390	gene	660	sigH			
+LKFMPLPL_01390	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+LKFMPLPL_01391	gene	264				
+LKFMPLPL_01391	CDS	264				hypothetical protein
+LKFMPLPL_01392	gene	1377				
+LKFMPLPL_01392	CDS	1377				hypothetical protein
+LKFMPLPL_01393	gene	750	cseB			
+LKFMPLPL_01393	CDS	750	cseB		COG0745	Transcriptional regulatory protein CseB
+LKFMPLPL_01394	gene	366				
+LKFMPLPL_01394	CDS	366				hypothetical protein
+LKFMPLPL_01395	gene	1857				
+LKFMPLPL_01395	CDS	1857				hypothetical protein
+LKFMPLPL_01396	gene	990	lytC_5			
+LKFMPLPL_01396	CDS	990	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+LKFMPLPL_01397	gene	627				
+LKFMPLPL_01397	CDS	627			COG2826	IS30 family transposase ISLjo1
+LKFMPLPL_01398	gene	753				
+LKFMPLPL_01398	CDS	753				hypothetical protein
+LKFMPLPL_01399	gene	147				
+LKFMPLPL_01399	CDS	147				hypothetical protein
+LKFMPLPL_01400	gene	1206	lysC			
+LKFMPLPL_01400	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+LKFMPLPL_01401	gene	984	asd_2			
+LKFMPLPL_01401	CDS	984	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+LKFMPLPL_01402	gene	900	dapA_2			
+LKFMPLPL_01402	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+LKFMPLPL_01403	gene	732	dapB			
+LKFMPLPL_01403	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+LKFMPLPL_01404	gene	720	dapH			
+LKFMPLPL_01404	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+LKFMPLPL_01405	gene	1152	scmP			
+LKFMPLPL_01405	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+LKFMPLPL_01406	gene	1089	alr1_2			
+LKFMPLPL_01406	CDS	1089	alr1_2	5.1.1.1	COG0787	Alanine racemase 1
+LKFMPLPL_01407	gene	1296	lysA			
+LKFMPLPL_01407	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+LKFMPLPL_01408	gene	1281	serS			
+LKFMPLPL_01408	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+LKFMPLPL_01409	gene	234				
+LKFMPLPL_01409	CDS	234				hypothetical protein
+LKFMPLPL_01410	gene	1377	alsT_3			
+LKFMPLPL_01410	CDS	1377	alsT_3		COG1115	Amino-acid carrier protein AlsT
+LKFMPLPL_01411	gene	195				
+LKFMPLPL_01411	CDS	195				hypothetical protein
+LKFMPLPL_01412	gene	729				
+LKFMPLPL_01412	CDS	729				hypothetical protein
+LKFMPLPL_01413	gene	768	thiG			
+LKFMPLPL_01413	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+LKFMPLPL_01414	gene	1176	thiH			
+LKFMPLPL_01414	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+LKFMPLPL_01415	gene	1176	tadA			
+LKFMPLPL_01415	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+LKFMPLPL_01416	gene	1635				
+LKFMPLPL_01416	CDS	1635				hypothetical protein
+LKFMPLPL_01417	gene	90				
+LKFMPLPL_01417	tRNA	90				tRNA-Ser(gga)
+LKFMPLPL_01418	gene	387	hlyB			
+LKFMPLPL_01418	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+LKFMPLPL_01419	gene	279				
+LKFMPLPL_01419	CDS	279				hypothetical protein
+LKFMPLPL_01420	gene	780				
+LKFMPLPL_01420	CDS	780				hypothetical protein
+LKFMPLPL_01421	gene	645				
+LKFMPLPL_01421	CDS	645				hypothetical protein
+LKFMPLPL_01422	gene	507	tpx			
+LKFMPLPL_01422	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+LKFMPLPL_01423	gene	462	mutX			
+LKFMPLPL_01423	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+LKFMPLPL_01424	gene	279	yjdJ			
+LKFMPLPL_01424	CDS	279	yjdJ		COG2388	putative protein YjdJ
+LKFMPLPL_01425	gene	825	ydjP			
+LKFMPLPL_01425	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+LKFMPLPL_01426	gene	1764	rqcH			
+LKFMPLPL_01426	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+LKFMPLPL_01427	gene	525	pyrR			
+LKFMPLPL_01427	CDS	525	pyrR			Bifunctional protein PyrR
+LKFMPLPL_01428	gene	933	rluD_2			
+LKFMPLPL_01428	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LKFMPLPL_01429	gene	480	lspA			
+LKFMPLPL_01429	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+LKFMPLPL_01430	gene	768				
+LKFMPLPL_01430	CDS	768				hypothetical protein
+LKFMPLPL_01431	gene	1008	trpS			
+LKFMPLPL_01431	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+LKFMPLPL_01432	gene	708	mtnN			
+LKFMPLPL_01432	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+LKFMPLPL_01433	gene	1053				
+LKFMPLPL_01433	CDS	1053				hypothetical protein
+LKFMPLPL_01434	gene	786				
+LKFMPLPL_01434	CDS	786				hypothetical protein
+LKFMPLPL_01435	gene	1995				
+LKFMPLPL_01435	CDS	1995				hypothetical protein
+LKFMPLPL_01436	gene	2412				
+LKFMPLPL_01436	CDS	2412				hypothetical protein
+LKFMPLPL_01437	gene	231				
+LKFMPLPL_01437	CDS	231				IS200/IS605 family transposase ISDha13
+LKFMPLPL_01438	gene	552	rpoE			
+LKFMPLPL_01438	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+LKFMPLPL_01439	gene	1299				
+LKFMPLPL_01439	CDS	1299				hypothetical protein
+LKFMPLPL_01440	gene	258				
+LKFMPLPL_01440	CDS	258				hypothetical protein
+LKFMPLPL_01441	gene	351				
+LKFMPLPL_01441	CDS	351				hypothetical protein
+LKFMPLPL_01442	gene	2487				
+LKFMPLPL_01442	CDS	2487				hypothetical protein
+LKFMPLPL_01443	gene	486	greA			
+LKFMPLPL_01443	CDS	486	greA		COG0782	Transcription elongation factor GreA
+LKFMPLPL_01444	gene	1911	epmA			
+LKFMPLPL_01444	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+LKFMPLPL_01445	gene	1335				
+LKFMPLPL_01445	CDS	1335				hypothetical protein
+LKFMPLPL_01446	gene	708				
+LKFMPLPL_01446	CDS	708				hypothetical protein
+LKFMPLPL_01447	gene	2532				
+LKFMPLPL_01447	CDS	2532				hypothetical protein
+LKFMPLPL_01448	gene	675				
+LKFMPLPL_01448	CDS	675			COG1136	putative ABC transporter ATP-binding protein
+LKFMPLPL_01449	gene	720				
+LKFMPLPL_01449	CDS	720				hypothetical protein
+LKFMPLPL_01450	gene	1095				
+LKFMPLPL_01450	CDS	1095				hypothetical protein
+LKFMPLPL_01451	gene	1182				
+LKFMPLPL_01451	CDS	1182		2.6.1.1		Aspartate aminotransferase
+LKFMPLPL_01452	gene	951				
+LKFMPLPL_01452	CDS	951				hypothetical protein
+LKFMPLPL_01453	gene	507				
+LKFMPLPL_01453	CDS	507				hypothetical protein
+LKFMPLPL_01454	gene	867				
+LKFMPLPL_01454	CDS	867				hypothetical protein
+LKFMPLPL_01455	gene	957				
+LKFMPLPL_01455	CDS	957				hypothetical protein
+LKFMPLPL_01456	gene	1824	dnaG			
+LKFMPLPL_01456	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+LKFMPLPL_01457	gene	1155	sigA			
+LKFMPLPL_01457	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+LKFMPLPL_01458	gene	777	trmK			
+LKFMPLPL_01458	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+LKFMPLPL_01459	gene	804				
+LKFMPLPL_01459	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+LKFMPLPL_01460	gene	213				
+LKFMPLPL_01460	CDS	213				hypothetical protein
+LKFMPLPL_01461	gene	735				
+LKFMPLPL_01461	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+LKFMPLPL_01462	gene	651				
+LKFMPLPL_01462	CDS	651				hypothetical protein
+LKFMPLPL_01463	gene	2415				
+LKFMPLPL_01463	CDS	2415				hypothetical protein
+LKFMPLPL_01464	gene	552	trpP			
+LKFMPLPL_01464	CDS	552	trpP			putative tryptophan transport protein
+LKFMPLPL_01465	gene	666				
+LKFMPLPL_01465	CDS	666				hypothetical protein
+LKFMPLPL_01466	gene	774	sigB			
+LKFMPLPL_01466	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+LKFMPLPL_01467	gene	408	rsbW			
+LKFMPLPL_01467	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+LKFMPLPL_01468	gene	318	rsbV			
+LKFMPLPL_01468	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+LKFMPLPL_01469	gene	2439	gyrA			
+LKFMPLPL_01469	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+LKFMPLPL_01470	gene	1908	gyrB			
+LKFMPLPL_01470	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+LKFMPLPL_01471	gene	1116	recF			
+LKFMPLPL_01471	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+LKFMPLPL_01472	gene	210				
+LKFMPLPL_01472	CDS	210				hypothetical protein
+LKFMPLPL_01473	gene	1104	dnaN			
+LKFMPLPL_01473	CDS	1104	dnaN		COG0592	Beta sliding clamp
+LKFMPLPL_01474	gene	1365	dnaA_2			
+LKFMPLPL_01474	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+LKFMPLPL_01475	gene	135	rpmH			
+LKFMPLPL_01475	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+LKFMPLPL_01476	gene	378	rnpA			
+LKFMPLPL_01476	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+LKFMPLPL_01477	gene	264	yidD			
+LKFMPLPL_01477	CDS	264	yidD			Putative membrane protein insertion efficiency factor
+LKFMPLPL_01478	gene	702	yidC2			
+LKFMPLPL_01478	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+LKFMPLPL_01479	gene	771				
+LKFMPLPL_01479	CDS	771				hypothetical protein
+LKFMPLPL_01480	gene	74				
+LKFMPLPL_01480	tRNA	74				tRNA-Gly(tcc)
+LKFMPLPL_01481	gene	76				
+LKFMPLPL_01481	tRNA	76				tRNA-Val(tac)
+LKFMPLPL_01482	gene	77				
+LKFMPLPL_01482	tRNA	77				tRNA-Asp(gtc)
+LKFMPLPL_01483	gene	75				
+LKFMPLPL_01483	tRNA	75				tRNA-Thr(tgt)
+LKFMPLPL_01484	gene	85				
+LKFMPLPL_01484	tRNA	85				tRNA-Tyr(gta)
+LKFMPLPL_01485	gene	84				
+LKFMPLPL_01485	tRNA	84				tRNA-Leu(tag)
+LKFMPLPL_01486	gene	76				
+LKFMPLPL_01486	tRNA	76				tRNA-Gln(ttg)
+LKFMPLPL_01487	gene	89				
+LKFMPLPL_01487	tRNA	89				tRNA-Ser(tga)
+LKFMPLPL_01488	gene	76				
+LKFMPLPL_01488	tRNA	76				tRNA-Phe(gaa)
+LKFMPLPL_01489	gene	77				
+LKFMPLPL_01489	tRNA	77				tRNA-Met(cat)
+LKFMPLPL_01490	gene	75				
+LKFMPLPL_01490	tRNA	75				tRNA-Lys(ctt)
+LKFMPLPL_01491	gene	72				
+LKFMPLPL_01491	tRNA	72				tRNA-Cys(gca)
+LKFMPLPL_01492	gene	369	ytrA			
+LKFMPLPL_01492	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+LKFMPLPL_01493	gene	729	lnrL_2			
+LKFMPLPL_01493	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LKFMPLPL_01494	gene	858				
+LKFMPLPL_01494	CDS	858				hypothetical protein
+LKFMPLPL_01495	gene	357				
+LKFMPLPL_01495	CDS	357				hypothetical protein
+LKFMPLPL_01496	gene	384	ziaR			
+LKFMPLPL_01496	CDS	384	ziaR			Transcriptional repressor SmtB 
+LKFMPLPL_01497	gene	2199	ziaA			
+LKFMPLPL_01497	CDS	2199	ziaA	7.2.2.12		Zinc-transporting ATPase
+LKFMPLPL_01498	gene	927				
+LKFMPLPL_01498	CDS	927				hypothetical protein
+LKFMPLPL_01499	gene	822	thiD			
+LKFMPLPL_01499	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+LKFMPLPL_01500	gene	1455	thiM			
+LKFMPLPL_01500	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+LKFMPLPL_01501	gene	1305	thiC			
+LKFMPLPL_01501	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+LKFMPLPL_01502	gene	74				
+LKFMPLPL_01502	tRNA	74				tRNA-Gly(tcc)
+LKFMPLPL_01503	gene	72				
+LKFMPLPL_01503	tRNA	72				tRNA-Glu(ctc)
+LKFMPLPL_01504	gene	1314	ugtP_2			
+LKFMPLPL_01504	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+LKFMPLPL_01505	gene	168				
+LKFMPLPL_01505	CDS	168				hypothetical protein
+LKFMPLPL_01506	gene	276				
+LKFMPLPL_01506	CDS	276				hypothetical protein
+LKFMPLPL_01507	gene	600	recR			
+LKFMPLPL_01507	CDS	600	recR		COG0353	Recombination protein RecR
+LKFMPLPL_01508	gene	345				
+LKFMPLPL_01508	CDS	345			COG0718	Nucleoid-associated protein
+LKFMPLPL_01509	gene	1683	ruvB_2			
+LKFMPLPL_01509	CDS	1683	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+LKFMPLPL_01510	gene	576				
+LKFMPLPL_01510	CDS	576				hypothetical protein
+LKFMPLPL_01511	gene	642	bcrA_4			
+LKFMPLPL_01511	CDS	642	bcrA_4			Bacitracin transport ATP-binding protein BcrA
+LKFMPLPL_01512	gene	657				
+LKFMPLPL_01512	CDS	657				hypothetical protein
+LKFMPLPL_01513	gene	681				
+LKFMPLPL_01513	CDS	681				hypothetical protein
+LKFMPLPL_01514	gene	768				
+LKFMPLPL_01514	CDS	768				hypothetical protein
+LKFMPLPL_01515	gene	1701				
+LKFMPLPL_01515	CDS	1701				hypothetical protein
+LKFMPLPL_01516	gene	762				
+LKFMPLPL_01516	CDS	762				hypothetical protein
+LKFMPLPL_01517	gene	510				
+LKFMPLPL_01517	CDS	510				hypothetical protein
+LKFMPLPL_01518	gene	453				
+LKFMPLPL_01518	CDS	453				hypothetical protein
+LKFMPLPL_01519	gene	396				
+LKFMPLPL_01519	CDS	396				hypothetical protein
+LKFMPLPL_01520	gene	777				
+LKFMPLPL_01520	CDS	777				hypothetical protein
+LKFMPLPL_01521	gene	213				
+LKFMPLPL_01521	CDS	213				hypothetical protein
+LKFMPLPL_01522	gene	852				
+LKFMPLPL_01522	CDS	852				hypothetical protein
+LKFMPLPL_01523	gene	5982				
+LKFMPLPL_01523	CDS	5982				hypothetical protein
+LKFMPLPL_01524	gene	255	veg			
+LKFMPLPL_01524	CDS	255	veg		COG4466	Protein Veg
+LKFMPLPL_01525	gene	495				
+LKFMPLPL_01525	CDS	495				hypothetical protein
+LKFMPLPL_01526	gene	711				
+LKFMPLPL_01526	CDS	711				hypothetical protein
+LKFMPLPL_01527	gene	681	rluC			
+LKFMPLPL_01527	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+LKFMPLPL_01528	gene	870	rlmL_2			
+LKFMPLPL_01528	CDS	870	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+LKFMPLPL_01529	gene	1422	pqqE			
+LKFMPLPL_01529	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+LKFMPLPL_01530	gene	510	ftnA			
+LKFMPLPL_01530	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+LKFMPLPL_01531	gene	471				
+LKFMPLPL_01531	CDS	471				hypothetical protein
+LKFMPLPL_01532	gene	564				
+LKFMPLPL_01532	CDS	564				hypothetical protein
+LKFMPLPL_01533	gene	888	cysK			
+LKFMPLPL_01533	CDS	888	cysK	2.5.1.47		Cysteine synthase
+LKFMPLPL_01534	gene	597	cysE			
+LKFMPLPL_01534	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+LKFMPLPL_01535	gene	657				
+LKFMPLPL_01535	CDS	657				hypothetical protein
+LKFMPLPL_01536	gene	393	rpsI			
+LKFMPLPL_01536	CDS	393	rpsI			30S ribosomal protein S9
+LKFMPLPL_01537	gene	429	rplM			
+LKFMPLPL_01537	CDS	429	rplM		COG0102	50S ribosomal protein L13
+LKFMPLPL_01538	gene	1254				
+LKFMPLPL_01538	CDS	1254				hypothetical protein
+LKFMPLPL_01539	gene	918				
+LKFMPLPL_01539	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+LKFMPLPL_01540	gene	1071				
+LKFMPLPL_01540	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+LKFMPLPL_01541	gene	762	truA			
+LKFMPLPL_01541	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+LKFMPLPL_01542	gene	1827	glmS			
+LKFMPLPL_01542	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+LKFMPLPL_01543	gene	1401				
+LKFMPLPL_01543	CDS	1401				hypothetical protein
+LKFMPLPL_01544	gene	162				
+LKFMPLPL_01544	CDS	162				Rubredoxin
+LKFMPLPL_01545	gene	462	zur			
+LKFMPLPL_01545	CDS	462	zur		COG0735	Zinc uptake regulation protein
+LKFMPLPL_01546	gene	981	znuA			
+LKFMPLPL_01546	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+LKFMPLPL_01547	gene	669	mntB			
+LKFMPLPL_01547	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+LKFMPLPL_01548	gene	786	znuB			
+LKFMPLPL_01548	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+LKFMPLPL_01549	gene	753				
+LKFMPLPL_01549	CDS	753				hypothetical protein
+LKFMPLPL_01550	gene	216				
+LKFMPLPL_01550	CDS	216				hypothetical protein
+LKFMPLPL_01551	gene	1020				
+LKFMPLPL_01551	CDS	1020				ISL3 family transposase IS1476
+LKFMPLPL_01552	gene	282				
+LKFMPLPL_01552	CDS	282				hypothetical protein
+LKFMPLPL_01553	gene	1440	miaB			
+LKFMPLPL_01553	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+LKFMPLPL_01554	gene	558				
+LKFMPLPL_01554	CDS	558				hypothetical protein
+LKFMPLPL_01555	gene	1659	glnS			
+LKFMPLPL_01555	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+LKFMPLPL_01556	gene	74				
+LKFMPLPL_01556	tRNA	74				tRNA-Glu(ttc)
+LKFMPLPL_01557	gene	73				
+LKFMPLPL_01557	tRNA	73				tRNA-Asn(gtt)
+LKFMPLPL_01558	gene	105				
+LKFMPLPL_01558	rRNA	105				5S ribosomal RNA
+LKFMPLPL_01559	gene	1989	tkt			
+LKFMPLPL_01559	CDS	1989	tkt	2.2.1.1		Transketolase
+LKFMPLPL_01560	gene	960				
+LKFMPLPL_01560	CDS	960				hypothetical protein
+LKFMPLPL_01561	gene	261				
+LKFMPLPL_01561	CDS	261				hypothetical protein
+LKFMPLPL_01562	gene	768				
+LKFMPLPL_01562	CDS	768				hypothetical protein

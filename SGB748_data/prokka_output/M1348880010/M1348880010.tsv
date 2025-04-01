@@ -1,0 +1,2019 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CHIGKPEB_00001	gene	540				
+CHIGKPEB_00001	CDS	540				hypothetical protein
+CHIGKPEB_00002	gene	609				
+CHIGKPEB_00002	CDS	609				hypothetical protein
+CHIGKPEB_00003	gene	186				
+CHIGKPEB_00003	CDS	186				hypothetical protein
+CHIGKPEB_00004	gene	1317	cpdA			
+CHIGKPEB_00004	CDS	1317	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+CHIGKPEB_00005	gene	75				
+CHIGKPEB_00005	tRNA	75				tRNA-Ser(act)
+CHIGKPEB_00006	gene	1380	mnmE_1			
+CHIGKPEB_00006	CDS	1380	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+CHIGKPEB_00007	gene	1881	mnmG			
+CHIGKPEB_00007	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CHIGKPEB_00008	gene	729	rsmG			
+CHIGKPEB_00008	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+CHIGKPEB_00009	gene	1326				
+CHIGKPEB_00009	CDS	1326				hypothetical protein
+CHIGKPEB_00010	gene	1944	yjcS			
+CHIGKPEB_00010	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+CHIGKPEB_00011	gene	198				
+CHIGKPEB_00011	CDS	198				IS200/IS605 family transposase ISSsu4
+CHIGKPEB_00012	gene	516				
+CHIGKPEB_00012	CDS	516				hypothetical protein
+CHIGKPEB_00013	gene	495				
+CHIGKPEB_00013	CDS	495				hypothetical protein
+CHIGKPEB_00014	gene	657	bcrA			
+CHIGKPEB_00014	CDS	657	bcrA			Bacitracin transport ATP-binding protein BcrA
+CHIGKPEB_00015	gene	702				
+CHIGKPEB_00015	CDS	702				hypothetical protein
+CHIGKPEB_00016	gene	789				
+CHIGKPEB_00016	CDS	789				hypothetical protein
+CHIGKPEB_00017	gene	789				
+CHIGKPEB_00017	CDS	789				hypothetical protein
+CHIGKPEB_00018	gene	1623				
+CHIGKPEB_00018	CDS	1623				hypothetical protein
+CHIGKPEB_00019	gene	882				
+CHIGKPEB_00019	CDS	882				hypothetical protein
+CHIGKPEB_00020	gene	249				
+CHIGKPEB_00020	CDS	249				hypothetical protein
+CHIGKPEB_00021	gene	729	yehX			
+CHIGKPEB_00021	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+CHIGKPEB_00022	gene	882	opuCC			
+CHIGKPEB_00022	CDS	882	opuCC		COG1732	Carnitine transport binding protein OpuCC
+CHIGKPEB_00023	gene	642	opuCD			
+CHIGKPEB_00023	CDS	642	opuCD		COG1174	Carnitine transport permease protein OpuCD
+CHIGKPEB_00024	gene	438				
+CHIGKPEB_00024	CDS	438				hypothetical protein
+CHIGKPEB_00025	gene	1347	pgi			
+CHIGKPEB_00025	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+CHIGKPEB_00026	gene	1614				
+CHIGKPEB_00026	CDS	1614				hypothetical protein
+CHIGKPEB_00027	gene	375				
+CHIGKPEB_00027	CDS	375				hypothetical protein
+CHIGKPEB_00028	gene	1068				
+CHIGKPEB_00028	CDS	1068				hypothetical protein
+CHIGKPEB_00029	gene	435				
+CHIGKPEB_00029	CDS	435				hypothetical protein
+CHIGKPEB_00030	gene	1401				
+CHIGKPEB_00030	CDS	1401				hypothetical protein
+CHIGKPEB_00031	gene	390				
+CHIGKPEB_00031	CDS	390				hypothetical protein
+CHIGKPEB_00032	gene	987	epsF			
+CHIGKPEB_00032	CDS	987	epsF		COG1459	Type II secretion system protein F
+CHIGKPEB_00033	gene	411	misCA			
+CHIGKPEB_00033	CDS	411	misCA		COG0706	Membrane protein insertase MisCA
+CHIGKPEB_00034	gene	771				
+CHIGKPEB_00034	CDS	771				hypothetical protein
+CHIGKPEB_00035	gene	615	sodA1			
+CHIGKPEB_00035	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+CHIGKPEB_00036	gene	885				
+CHIGKPEB_00036	CDS	885				hypothetical protein
+CHIGKPEB_00037	gene	828	panB			
+CHIGKPEB_00037	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+CHIGKPEB_00038	gene	849	panC			
+CHIGKPEB_00038	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+CHIGKPEB_00039	gene	1287	brnQ_1			
+CHIGKPEB_00039	CDS	1287	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+CHIGKPEB_00040	gene	1278				
+CHIGKPEB_00040	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+CHIGKPEB_00041	gene	600	COQ5_1			
+CHIGKPEB_00041	CDS	600	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CHIGKPEB_00042	gene	921				
+CHIGKPEB_00042	CDS	921				hypothetical protein
+CHIGKPEB_00043	gene	543	yajL			
+CHIGKPEB_00043	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+CHIGKPEB_00044	gene	528	bcrC			
+CHIGKPEB_00044	CDS	528	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+CHIGKPEB_00045	gene	108				
+CHIGKPEB_00045	CDS	108				hypothetical protein
+CHIGKPEB_00046	gene	945	hmo			
+CHIGKPEB_00046	CDS	945	hmo	1.1.3.46		4-hydroxymandelate oxidase
+CHIGKPEB_00047	gene	939				
+CHIGKPEB_00047	CDS	939				hypothetical protein
+CHIGKPEB_00048	gene	576				
+CHIGKPEB_00048	CDS	576				hypothetical protein
+CHIGKPEB_00049	gene	270	atpC			
+CHIGKPEB_00049	CDS	270	atpC			ATP synthase epsilon chain
+CHIGKPEB_00050	gene	1296	atpD			
+CHIGKPEB_00050	CDS	1296	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+CHIGKPEB_00051	gene	225				
+CHIGKPEB_00051	CDS	225				hypothetical protein
+CHIGKPEB_00052	gene	351	ssrA			
+CHIGKPEB_00052	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+CHIGKPEB_00053	gene	696	rspR_1			
+CHIGKPEB_00053	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+CHIGKPEB_00054	gene	1245	fldA			
+CHIGKPEB_00054	CDS	1245	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+CHIGKPEB_00055	gene	1236	fldB			
+CHIGKPEB_00055	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+CHIGKPEB_00056	gene	1119	hadC			
+CHIGKPEB_00056	CDS	1119	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+CHIGKPEB_00057	gene	1134	carC			
+CHIGKPEB_00057	CDS	1134	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+CHIGKPEB_00058	gene	792	carD			
+CHIGKPEB_00058	CDS	792	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+CHIGKPEB_00059	gene	1008	carE			
+CHIGKPEB_00059	CDS	1008	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+CHIGKPEB_00060	gene	90				
+CHIGKPEB_00060	CDS	90				hypothetical protein
+CHIGKPEB_00061	gene	699	rplA			
+CHIGKPEB_00061	CDS	699	rplA			50S ribosomal protein L1
+CHIGKPEB_00062	gene	522	rplJ			
+CHIGKPEB_00062	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+CHIGKPEB_00063	gene	369	rplL			
+CHIGKPEB_00063	CDS	369	rplL			50S ribosomal protein L7/L12
+CHIGKPEB_00064	gene	1140	pgl			
+CHIGKPEB_00064	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+CHIGKPEB_00065	gene	741				
+CHIGKPEB_00065	CDS	741				hypothetical protein
+CHIGKPEB_00066	gene	645				
+CHIGKPEB_00066	CDS	645				hypothetical protein
+CHIGKPEB_00067	gene	1407	patA			
+CHIGKPEB_00067	CDS	1407	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+CHIGKPEB_00068	gene	1725				
+CHIGKPEB_00068	CDS	1725				hypothetical protein
+CHIGKPEB_00069	gene	549				
+CHIGKPEB_00069	CDS	549				hypothetical protein
+CHIGKPEB_00070	gene	339				
+CHIGKPEB_00070	CDS	339				hypothetical protein
+CHIGKPEB_00071	gene	771	ycfH			
+CHIGKPEB_00071	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+CHIGKPEB_00072	gene	1941	metG			
+CHIGKPEB_00072	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+CHIGKPEB_00073	gene	456	lrpC			
+CHIGKPEB_00073	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+CHIGKPEB_00074	gene	1437	pncB2			
+CHIGKPEB_00074	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+CHIGKPEB_00075	gene	837	rsmI			
+CHIGKPEB_00075	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+CHIGKPEB_00076	gene	750	yfiC			
+CHIGKPEB_00076	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+CHIGKPEB_00077	gene	897				
+CHIGKPEB_00077	CDS	897				hypothetical protein
+CHIGKPEB_00078	gene	939				
+CHIGKPEB_00078	CDS	939				hypothetical protein
+CHIGKPEB_00079	gene	822	thiD			
+CHIGKPEB_00079	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+CHIGKPEB_00080	gene	927				
+CHIGKPEB_00080	CDS	927				hypothetical protein
+CHIGKPEB_00081	gene	2211	ziaA			
+CHIGKPEB_00081	CDS	2211	ziaA	7.2.2.12		Zinc-transporting ATPase
+CHIGKPEB_00082	gene	384	ziaR			
+CHIGKPEB_00082	CDS	384	ziaR			Transcriptional repressor SmtB 
+CHIGKPEB_00083	gene	357				
+CHIGKPEB_00083	CDS	357				hypothetical protein
+CHIGKPEB_00084	gene	858				
+CHIGKPEB_00084	CDS	858				hypothetical protein
+CHIGKPEB_00085	gene	729	lnrL			
+CHIGKPEB_00085	CDS	729	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CHIGKPEB_00086	gene	369	ytrA			
+CHIGKPEB_00086	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+CHIGKPEB_00087	gene	1791				
+CHIGKPEB_00087	CDS	1791				hypothetical protein
+CHIGKPEB_00088	gene	846				
+CHIGKPEB_00088	CDS	846		1.-.-.-		putative oxidoreductase
+CHIGKPEB_00089	gene	312	rpsJ			
+CHIGKPEB_00089	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+CHIGKPEB_00090	gene	630	rplC			
+CHIGKPEB_00090	CDS	630	rplC		COG0087	50S ribosomal protein L3
+CHIGKPEB_00091	gene	624	rplD			
+CHIGKPEB_00091	CDS	624	rplD			50S ribosomal protein L4
+CHIGKPEB_00092	gene	291	rplW			
+CHIGKPEB_00092	CDS	291	rplW			50S ribosomal protein L23
+CHIGKPEB_00093	gene	831	rplB			
+CHIGKPEB_00093	CDS	831	rplB			50S ribosomal protein L2
+CHIGKPEB_00094	gene	282	rpsS			
+CHIGKPEB_00094	CDS	282	rpsS			30S ribosomal protein S19
+CHIGKPEB_00095	gene	339	rplV			
+CHIGKPEB_00095	CDS	339	rplV		COG0091	50S ribosomal protein L22
+CHIGKPEB_00096	gene	795	rpsC			
+CHIGKPEB_00096	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+CHIGKPEB_00097	gene	429	rplP			
+CHIGKPEB_00097	CDS	429	rplP		COG0197	50S ribosomal protein L16
+CHIGKPEB_00098	gene	204	rpmC			
+CHIGKPEB_00098	CDS	204	rpmC			50S ribosomal protein L29
+CHIGKPEB_00099	gene	255	rpsQ			
+CHIGKPEB_00099	CDS	255	rpsQ			30S ribosomal protein S17
+CHIGKPEB_00100	gene	1281	serS			
+CHIGKPEB_00100	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+CHIGKPEB_00101	gene	1377	alsT_1			
+CHIGKPEB_00101	CDS	1377	alsT_1		COG1115	Amino-acid carrier protein AlsT
+CHIGKPEB_00102	gene	195				
+CHIGKPEB_00102	CDS	195				hypothetical protein
+CHIGKPEB_00103	gene	729				
+CHIGKPEB_00103	CDS	729				hypothetical protein
+CHIGKPEB_00104	gene	768	thiG			
+CHIGKPEB_00104	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+CHIGKPEB_00105	gene	1176	thiH			
+CHIGKPEB_00105	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+CHIGKPEB_00106	gene	1176	tadA			
+CHIGKPEB_00106	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+CHIGKPEB_00107	gene	285				
+CHIGKPEB_00107	CDS	285				hypothetical protein
+CHIGKPEB_00108	gene	213				
+CHIGKPEB_00108	CDS	213				hypothetical protein
+CHIGKPEB_00109	gene	759				
+CHIGKPEB_00109	CDS	759				hypothetical protein
+CHIGKPEB_00110	gene	1365	rlmCD			
+CHIGKPEB_00110	CDS	1365	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+CHIGKPEB_00111	gene	735	rsuA			
+CHIGKPEB_00111	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+CHIGKPEB_00112	gene	876	hslO			
+CHIGKPEB_00112	CDS	876	hslO		COG1281	33 kDa chaperonin
+CHIGKPEB_00113	gene	795	COQ5_2			
+CHIGKPEB_00113	CDS	795	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CHIGKPEB_00114	gene	1221	ykoD_1			
+CHIGKPEB_00114	CDS	1221	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+CHIGKPEB_00115	gene	426				
+CHIGKPEB_00115	CDS	426				hypothetical protein
+CHIGKPEB_00116	gene	1740				
+CHIGKPEB_00116	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+CHIGKPEB_00117	gene	774	dtd3			
+CHIGKPEB_00117	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+CHIGKPEB_00118	gene	522	niaR			
+CHIGKPEB_00118	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+CHIGKPEB_00119	gene	387	mscL			
+CHIGKPEB_00119	CDS	387	mscL		COG1970	Large-conductance mechanosensitive channel
+CHIGKPEB_00120	gene	1821				
+CHIGKPEB_00120	CDS	1821				hypothetical protein
+CHIGKPEB_00121	gene	762				
+CHIGKPEB_00121	CDS	762				hypothetical protein
+CHIGKPEB_00122	gene	1041				
+CHIGKPEB_00122	CDS	1041				hypothetical protein
+CHIGKPEB_00123	gene	366				
+CHIGKPEB_00123	CDS	366				hypothetical protein
+CHIGKPEB_00124	gene	1926	fusA			
+CHIGKPEB_00124	CDS	1926	fusA		COG0480	Elongation factor G
+CHIGKPEB_00125	gene	999				
+CHIGKPEB_00125	CDS	999				hypothetical protein
+CHIGKPEB_00126	gene	1245				
+CHIGKPEB_00126	CDS	1245				hypothetical protein
+CHIGKPEB_00127	gene	219				
+CHIGKPEB_00127	CDS	219				hypothetical protein
+CHIGKPEB_00128	gene	903				
+CHIGKPEB_00128	CDS	903				hypothetical protein
+CHIGKPEB_00129	gene	471				
+CHIGKPEB_00129	CDS	471				hypothetical protein
+CHIGKPEB_00130	gene	708				
+CHIGKPEB_00130	CDS	708				hypothetical protein
+CHIGKPEB_00131	gene	477				
+CHIGKPEB_00131	CDS	477				hypothetical protein
+CHIGKPEB_00132	gene	528				
+CHIGKPEB_00132	CDS	528				hypothetical protein
+CHIGKPEB_00133	gene	1056	ispG			
+CHIGKPEB_00133	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+CHIGKPEB_00134	gene	1011	mmpA			
+CHIGKPEB_00134	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+CHIGKPEB_00135	gene	1188	dxr			
+CHIGKPEB_00135	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+CHIGKPEB_00136	gene	411				
+CHIGKPEB_00136	CDS	411				hypothetical protein
+CHIGKPEB_00137	gene	543	cof			
+CHIGKPEB_00137	CDS	543	cof	3.6.1.-		HMP-PP phosphatase
+CHIGKPEB_00138	gene	1026	cggR			
+CHIGKPEB_00138	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+CHIGKPEB_00139	gene	1008	gap			
+CHIGKPEB_00139	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+CHIGKPEB_00140	gene	1200	pgk			
+CHIGKPEB_00140	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+CHIGKPEB_00141	gene	741	tpiA			
+CHIGKPEB_00141	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+CHIGKPEB_00142	gene	1527	gpmI			
+CHIGKPEB_00142	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+CHIGKPEB_00143	gene	996				
+CHIGKPEB_00143	CDS	996				hypothetical protein
+CHIGKPEB_00144	gene	1413	alsT_2			
+CHIGKPEB_00144	CDS	1413	alsT_2		COG1115	Amino-acid carrier protein AlsT
+CHIGKPEB_00145	gene	267				
+CHIGKPEB_00145	CDS	267				hypothetical protein
+CHIGKPEB_00146	gene	1590	clsA			
+CHIGKPEB_00146	CDS	1590	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+CHIGKPEB_00147	gene	1311	tmcAL			
+CHIGKPEB_00147	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+CHIGKPEB_00148	gene	546				
+CHIGKPEB_00148	CDS	546			COG3599	putative protein
+CHIGKPEB_00149	gene	483	coaD			
+CHIGKPEB_00149	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+CHIGKPEB_00150	gene	561	rsmD			
+CHIGKPEB_00150	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+CHIGKPEB_00151	gene	2058	recG			
+CHIGKPEB_00151	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+CHIGKPEB_00152	gene	1197				
+CHIGKPEB_00152	CDS	1197				putative protein
+CHIGKPEB_00153	gene	621				
+CHIGKPEB_00153	CDS	621				hypothetical protein
+CHIGKPEB_00154	gene	1050	apbE			
+CHIGKPEB_00154	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+CHIGKPEB_00155	gene	375				
+CHIGKPEB_00155	CDS	375				hypothetical protein
+CHIGKPEB_00156	gene	675	ung			
+CHIGKPEB_00156	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+CHIGKPEB_00157	gene	594				
+CHIGKPEB_00157	CDS	594				hypothetical protein
+CHIGKPEB_00158	gene	861				
+CHIGKPEB_00158	CDS	861				hypothetical protein
+CHIGKPEB_00159	gene	441	yqeY			
+CHIGKPEB_00159	CDS	441	yqeY		COG1610	putative protein YqeY
+CHIGKPEB_00160	gene	180	rpsU			
+CHIGKPEB_00160	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+CHIGKPEB_00161	gene	972	pfkA			
+CHIGKPEB_00161	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+CHIGKPEB_00162	gene	480				
+CHIGKPEB_00162	CDS	480				hypothetical protein
+CHIGKPEB_00163	gene	438				
+CHIGKPEB_00163	CDS	438				hypothetical protein
+CHIGKPEB_00164	gene	657				
+CHIGKPEB_00164	CDS	657				hypothetical protein
+CHIGKPEB_00165	gene	477				
+CHIGKPEB_00165	CDS	477				hypothetical protein
+CHIGKPEB_00166	gene	1194	sdaB			
+CHIGKPEB_00166	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+CHIGKPEB_00167	gene	885	dapA_1			
+CHIGKPEB_00167	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CHIGKPEB_00168	gene	606	rpsD			
+CHIGKPEB_00168	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+CHIGKPEB_00169	gene	744	artM			
+CHIGKPEB_00169	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+CHIGKPEB_00170	gene	675	artQ_1			
+CHIGKPEB_00170	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+CHIGKPEB_00171	gene	174				
+CHIGKPEB_00171	CDS	174				hypothetical protein
+CHIGKPEB_00172	gene	684				
+CHIGKPEB_00172	CDS	684				hypothetical protein
+CHIGKPEB_00173	gene	2253	uvrD			
+CHIGKPEB_00173	CDS	2253	uvrD	3.6.4.12	COG0210	DNA helicase II
+CHIGKPEB_00174	gene	1683				
+CHIGKPEB_00174	CDS	1683				hypothetical protein
+CHIGKPEB_00175	gene	270				
+CHIGKPEB_00175	CDS	270				hypothetical protein
+CHIGKPEB_00176	gene	192	gdpP			
+CHIGKPEB_00176	CDS	192	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+CHIGKPEB_00177	gene	447	rplI			
+CHIGKPEB_00177	CDS	447	rplI			50S ribosomal protein L9
+CHIGKPEB_00178	gene	1338	dnaC			
+CHIGKPEB_00178	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+CHIGKPEB_00179	gene	990	dnaA_1			
+CHIGKPEB_00179	CDS	990	dnaA_1			Chromosomal replication initiator protein DnaA
+CHIGKPEB_00180	gene	1050				
+CHIGKPEB_00180	CDS	1050				hypothetical protein
+CHIGKPEB_00181	gene	483	rlmH			
+CHIGKPEB_00181	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+CHIGKPEB_00182	gene	801	yycJ			
+CHIGKPEB_00182	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+CHIGKPEB_00183	gene	162				
+CHIGKPEB_00183	CDS	162				Rubredoxin
+CHIGKPEB_00184	gene	462	zur			
+CHIGKPEB_00184	CDS	462	zur		COG0735	Zinc uptake regulation protein
+CHIGKPEB_00185	gene	1551	rsxB			
+CHIGKPEB_00185	CDS	1551	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CHIGKPEB_00186	gene	2652	valS			
+CHIGKPEB_00186	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+CHIGKPEB_00187	gene	507				
+CHIGKPEB_00187	CDS	507				hypothetical protein
+CHIGKPEB_00188	gene	690				
+CHIGKPEB_00188	CDS	690				hypothetical protein
+CHIGKPEB_00189	gene	468				
+CHIGKPEB_00189	CDS	468				hypothetical protein
+CHIGKPEB_00190	gene	522				
+CHIGKPEB_00190	CDS	522				hypothetical protein
+CHIGKPEB_00191	gene	252				
+CHIGKPEB_00191	CDS	252				hypothetical protein
+CHIGKPEB_00192	gene	1455				
+CHIGKPEB_00192	CDS	1455				hypothetical protein
+CHIGKPEB_00193	gene	1701	argS			
+CHIGKPEB_00193	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+CHIGKPEB_00194	gene	507	engB			
+CHIGKPEB_00194	CDS	507	engB		COG0218	putative GTP-binding protein EngB
+CHIGKPEB_00195	gene	546	hpt_1			
+CHIGKPEB_00195	CDS	546	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+CHIGKPEB_00196	gene	288	pagR			
+CHIGKPEB_00196	CDS	288	pagR			Transcriptional repressor PagR
+CHIGKPEB_00197	gene	1731	cdr			
+CHIGKPEB_00197	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+CHIGKPEB_00198	gene	675				
+CHIGKPEB_00198	CDS	675				hypothetical protein
+CHIGKPEB_00199	gene	219				
+CHIGKPEB_00199	CDS	219				hypothetical protein
+CHIGKPEB_00200	gene	423				
+CHIGKPEB_00200	CDS	423				hypothetical protein
+CHIGKPEB_00201	gene	678				
+CHIGKPEB_00201	CDS	678				hypothetical protein
+CHIGKPEB_00202	gene	642				
+CHIGKPEB_00202	CDS	642				hypothetical protein
+CHIGKPEB_00203	gene	375				
+CHIGKPEB_00203	CDS	375				hypothetical protein
+CHIGKPEB_00204	gene	2019				
+CHIGKPEB_00204	CDS	2019				hypothetical protein
+CHIGKPEB_00205	gene	1125				
+CHIGKPEB_00205	CDS	1125				hypothetical protein
+CHIGKPEB_00206	gene	918	isdE			
+CHIGKPEB_00206	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+CHIGKPEB_00207	gene	1065	isdF			
+CHIGKPEB_00207	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+CHIGKPEB_00208	gene	765	fpuC			
+CHIGKPEB_00208	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+CHIGKPEB_00209	gene	903				
+CHIGKPEB_00209	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+CHIGKPEB_00210	gene	1929				
+CHIGKPEB_00210	CDS	1929				hypothetical protein
+CHIGKPEB_00211	gene	846				
+CHIGKPEB_00211	CDS	846				hypothetical protein
+CHIGKPEB_00212	gene	753	lacR			
+CHIGKPEB_00212	CDS	753	lacR			Lactose phosphotransferase system repressor
+CHIGKPEB_00213	gene	915	lacC			
+CHIGKPEB_00213	CDS	915	lacC	2.7.1.144		Tagatose-6-phosphate kinase
+CHIGKPEB_00214	gene	474				
+CHIGKPEB_00214	CDS	474				hypothetical protein
+CHIGKPEB_00215	gene	390				
+CHIGKPEB_00215	CDS	390				hypothetical protein
+CHIGKPEB_00216	gene	882				
+CHIGKPEB_00216	CDS	882		3.2.1.-		Protein-ADP-ribose hydrolase
+CHIGKPEB_00217	gene	1161	resA			
+CHIGKPEB_00217	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+CHIGKPEB_00218	gene	153				
+CHIGKPEB_00218	CDS	153				hypothetical protein
+CHIGKPEB_00219	gene	891				
+CHIGKPEB_00219	CDS	891				hypothetical protein
+CHIGKPEB_00220	gene	1278				
+CHIGKPEB_00220	CDS	1278				hypothetical protein
+CHIGKPEB_00221	gene	645				
+CHIGKPEB_00221	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+CHIGKPEB_00222	gene	678				
+CHIGKPEB_00222	CDS	678				hypothetical protein
+CHIGKPEB_00223	gene	654				
+CHIGKPEB_00223	CDS	654				hypothetical protein
+CHIGKPEB_00224	gene	1188	norV			
+CHIGKPEB_00224	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+CHIGKPEB_00225	gene	552	bioY			
+CHIGKPEB_00225	CDS	552	bioY		COG1268	Biotin transporter BioY
+CHIGKPEB_00226	gene	825	aroF			
+CHIGKPEB_00226	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+CHIGKPEB_00227	gene	1824	aroB			
+CHIGKPEB_00227	CDS	1824	aroB	4.2.3.4		3-dehydroquinate synthase
+CHIGKPEB_00228	gene	705	rny			
+CHIGKPEB_00228	CDS	705	rny	3.1.-.-	COG1418	Ribonuclease Y
+CHIGKPEB_00229	gene	1782				
+CHIGKPEB_00229	CDS	1782				hypothetical protein
+CHIGKPEB_00230	gene	813	uppP			
+CHIGKPEB_00230	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+CHIGKPEB_00231	gene	1200				
+CHIGKPEB_00231	CDS	1200		2.6.1.1		Aspartate aminotransferase
+CHIGKPEB_00232	gene	957	galT			
+CHIGKPEB_00232	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+CHIGKPEB_00233	gene	567				
+CHIGKPEB_00233	CDS	567				hypothetical protein
+CHIGKPEB_00234	gene	498	ruvC			
+CHIGKPEB_00234	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+CHIGKPEB_00235	gene	612	ruvA			
+CHIGKPEB_00235	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+CHIGKPEB_00236	gene	1014	ruvB_1			
+CHIGKPEB_00236	CDS	1014	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+CHIGKPEB_00237	gene	1026	queA			
+CHIGKPEB_00237	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+CHIGKPEB_00238	gene	1119	tgt			
+CHIGKPEB_00238	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+CHIGKPEB_00239	gene	321	yajC			
+CHIGKPEB_00239	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+CHIGKPEB_00240	gene	144				
+CHIGKPEB_00240	CDS	144				hypothetical protein
+CHIGKPEB_00241	gene	762	truA			
+CHIGKPEB_00241	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+CHIGKPEB_00242	gene	1071				
+CHIGKPEB_00242	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+CHIGKPEB_00243	gene	918				
+CHIGKPEB_00243	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+CHIGKPEB_00244	gene	1254				
+CHIGKPEB_00244	CDS	1254				hypothetical protein
+CHIGKPEB_00245	gene	429	rplM			
+CHIGKPEB_00245	CDS	429	rplM		COG0102	50S ribosomal protein L13
+CHIGKPEB_00246	gene	393	rpsI			
+CHIGKPEB_00246	CDS	393	rpsI			30S ribosomal protein S9
+CHIGKPEB_00247	gene	474				
+CHIGKPEB_00247	CDS	474				hypothetical protein
+CHIGKPEB_00248	gene	861				
+CHIGKPEB_00248	CDS	861				hypothetical protein
+CHIGKPEB_00249	gene	1149	hemW			
+CHIGKPEB_00249	CDS	1149	hemW		COG0635	Heme chaperone HemW
+CHIGKPEB_00250	gene	576	zapA			
+CHIGKPEB_00250	CDS	576	zapA			Cell division protein ZapA
+CHIGKPEB_00251	gene	2439				
+CHIGKPEB_00251	CDS	2439				hypothetical protein
+CHIGKPEB_00252	gene	1263	sstT			
+CHIGKPEB_00252	CDS	1263	sstT		COG3633	Serine/threonine transporter SstT
+CHIGKPEB_00253	gene	2826	uvrA			
+CHIGKPEB_00253	CDS	2826	uvrA			UvrABC system protein A
+CHIGKPEB_00254	gene	426				
+CHIGKPEB_00254	CDS	426				hypothetical protein
+CHIGKPEB_00255	gene	153				
+CHIGKPEB_00255	CDS	153				hypothetical protein
+CHIGKPEB_00256	gene	933	uvrB			
+CHIGKPEB_00256	CDS	933	uvrB			UvrABC system protein B
+CHIGKPEB_00257	gene	957	prs			
+CHIGKPEB_00257	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+CHIGKPEB_00258	gene	1392	glmU			
+CHIGKPEB_00258	CDS	1392	glmU			Bifunctional protein GlmU
+CHIGKPEB_00259	gene	651				
+CHIGKPEB_00259	CDS	651				hypothetical protein
+CHIGKPEB_00260	gene	834	purR			
+CHIGKPEB_00260	CDS	834	purR		COG0503	Pur operon repressor
+CHIGKPEB_00261	gene	1362	murC			
+CHIGKPEB_00261	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+CHIGKPEB_00262	gene	168				
+CHIGKPEB_00262	CDS	168				hypothetical protein
+CHIGKPEB_00263	gene	276				
+CHIGKPEB_00263	CDS	276				hypothetical protein
+CHIGKPEB_00264	gene	600	recR			
+CHIGKPEB_00264	CDS	600	recR		COG0353	Recombination protein RecR
+CHIGKPEB_00265	gene	345				
+CHIGKPEB_00265	CDS	345			COG0718	Nucleoid-associated protein
+CHIGKPEB_00266	gene	1683	ruvB_2			
+CHIGKPEB_00266	CDS	1683	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+CHIGKPEB_00267	gene	1701				
+CHIGKPEB_00267	CDS	1701				hypothetical protein
+CHIGKPEB_00268	gene	675				
+CHIGKPEB_00268	CDS	675				hypothetical protein
+CHIGKPEB_00269	gene	309				
+CHIGKPEB_00269	CDS	309				hypothetical protein
+CHIGKPEB_00270	gene	456	def1			
+CHIGKPEB_00270	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+CHIGKPEB_00271	gene	930	fmt			
+CHIGKPEB_00271	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+CHIGKPEB_00272	gene	690				
+CHIGKPEB_00272	CDS	690				hypothetical protein
+CHIGKPEB_00273	gene	1344	rsmB			
+CHIGKPEB_00273	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+CHIGKPEB_00274	gene	1038	rlmN			
+CHIGKPEB_00274	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+CHIGKPEB_00275	gene	750	stp			
+CHIGKPEB_00275	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+CHIGKPEB_00276	gene	882				
+CHIGKPEB_00276	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+CHIGKPEB_00277	gene	570	xpt			
+CHIGKPEB_00277	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+CHIGKPEB_00278	gene	1338				
+CHIGKPEB_00278	CDS	1338				Nucleobase transporter PlUacP
+CHIGKPEB_00279	gene	426	fabZ			
+CHIGKPEB_00279	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+CHIGKPEB_00280	gene	1236	fabF			
+CHIGKPEB_00280	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+CHIGKPEB_00281	gene	747	fabG			
+CHIGKPEB_00281	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CHIGKPEB_00282	gene	369	fabD			
+CHIGKPEB_00282	CDS	369	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+CHIGKPEB_00283	gene	720	dapH			
+CHIGKPEB_00283	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+CHIGKPEB_00284	gene	732	dapB			
+CHIGKPEB_00284	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+CHIGKPEB_00285	gene	900	dapA_2			
+CHIGKPEB_00285	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CHIGKPEB_00286	gene	984	asd_1			
+CHIGKPEB_00286	CDS	984	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+CHIGKPEB_00287	gene	1206	lysC			
+CHIGKPEB_00287	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+CHIGKPEB_00288	gene	228	acpP			
+CHIGKPEB_00288	CDS	228	acpP			Acyl carrier protein
+CHIGKPEB_00289	gene	1011				
+CHIGKPEB_00289	CDS	1011				hypothetical protein
+CHIGKPEB_00290	gene	933	rluD_1			
+CHIGKPEB_00290	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CHIGKPEB_00291	gene	888	nadK			
+CHIGKPEB_00291	CDS	888	nadK	2.7.1.23		NAD kinase
+CHIGKPEB_00292	gene	1035	icd			
+CHIGKPEB_00292	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+CHIGKPEB_00293	gene	606	hacB			
+CHIGKPEB_00293	CDS	606	hacB	4.2.1.33		Methanogen homoaconitase small subunit
+CHIGKPEB_00294	gene	1263	hisS			
+CHIGKPEB_00294	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+CHIGKPEB_00295	gene	1560				
+CHIGKPEB_00295	CDS	1560				hypothetical protein
+CHIGKPEB_00296	gene	627	gloC			
+CHIGKPEB_00296	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+CHIGKPEB_00297	gene	450	dtd			
+CHIGKPEB_00297	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+CHIGKPEB_00298	gene	1959	relA			
+CHIGKPEB_00298	CDS	1959	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+CHIGKPEB_00299	gene	795	fldI			
+CHIGKPEB_00299	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+CHIGKPEB_00300	gene	621	ribU			
+CHIGKPEB_00300	CDS	621	ribU			Riboflavin transporter RibU
+CHIGKPEB_00301	gene	2163	yhgF			
+CHIGKPEB_00301	CDS	2163	yhgF		COG2183	Protein YhgF
+CHIGKPEB_00302	gene	1047	prfB			
+CHIGKPEB_00302	CDS	1047	prfB			Peptide chain release factor 2
+CHIGKPEB_00303	gene	657				
+CHIGKPEB_00303	CDS	657		1.1.1.28		D-lactate dehydrogenase
+CHIGKPEB_00304	gene	489	ispF			
+CHIGKPEB_00304	CDS	489	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+CHIGKPEB_00305	gene	693	ispD			
+CHIGKPEB_00305	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+CHIGKPEB_00306	gene	765	rhaR_1			
+CHIGKPEB_00306	CDS	765	rhaR_1			HTH-type transcriptional activator RhaR
+CHIGKPEB_00307	gene	552				
+CHIGKPEB_00307	CDS	552				hypothetical protein
+CHIGKPEB_00308	gene	582				
+CHIGKPEB_00308	CDS	582				hypothetical protein
+CHIGKPEB_00309	gene	1227				
+CHIGKPEB_00309	CDS	1227		3.4.11.-		Aminopeptidase 2
+CHIGKPEB_00310	gene	387				
+CHIGKPEB_00310	CDS	387				hypothetical protein
+CHIGKPEB_00311	gene	2424	mutS2			
+CHIGKPEB_00311	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+CHIGKPEB_00312	gene	1449	pepD_1			
+CHIGKPEB_00312	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+CHIGKPEB_00313	gene	876				
+CHIGKPEB_00313	CDS	876			COG1307	Fatty acid-binding protein
+CHIGKPEB_00314	gene	471	trmL			
+CHIGKPEB_00314	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+CHIGKPEB_00315	gene	1260	gabR			
+CHIGKPEB_00315	CDS	1260	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+CHIGKPEB_00316	gene	300				
+CHIGKPEB_00316	CDS	300				hypothetical protein
+CHIGKPEB_00317	gene	1173				
+CHIGKPEB_00317	CDS	1173				hypothetical protein
+CHIGKPEB_00318	gene	1236	dltD			
+CHIGKPEB_00318	CDS	1236	dltD		COG3966	Protein DltD
+CHIGKPEB_00319	gene	126				
+CHIGKPEB_00319	CDS	126				hypothetical protein
+CHIGKPEB_00320	gene	408	apxIB			
+CHIGKPEB_00320	CDS	408	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+CHIGKPEB_00321	gene	1698				
+CHIGKPEB_00321	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+CHIGKPEB_00322	gene	927				
+CHIGKPEB_00322	CDS	927				hypothetical protein
+CHIGKPEB_00323	gene	1056				
+CHIGKPEB_00323	CDS	1056				hypothetical protein
+CHIGKPEB_00324	gene	297				
+CHIGKPEB_00324	CDS	297				hypothetical protein
+CHIGKPEB_00325	gene	465				
+CHIGKPEB_00325	CDS	465				hypothetical protein
+CHIGKPEB_00326	gene	579				
+CHIGKPEB_00326	CDS	579				hypothetical protein
+CHIGKPEB_00327	gene	960				
+CHIGKPEB_00327	CDS	960				hypothetical protein
+CHIGKPEB_00328	gene	1989	tkt			
+CHIGKPEB_00328	CDS	1989	tkt	2.2.1.1		Transketolase
+CHIGKPEB_00329	gene	105				
+CHIGKPEB_00329	rRNA	105				5S ribosomal RNA
+CHIGKPEB_00330	gene	73				
+CHIGKPEB_00330	tRNA	73				tRNA-Asn(gtt)
+CHIGKPEB_00331	gene	74				
+CHIGKPEB_00331	tRNA	74				tRNA-Glu(ttc)
+CHIGKPEB_00332	gene	924	fba			
+CHIGKPEB_00332	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+CHIGKPEB_00333	gene	552	hpf			
+CHIGKPEB_00333	CDS	552	hpf			Ribosome hibernation promotion factor
+CHIGKPEB_00334	gene	1206				
+CHIGKPEB_00334	CDS	1206				hypothetical protein
+CHIGKPEB_00335	gene	462	ybeY			
+CHIGKPEB_00335	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+CHIGKPEB_00336	gene	897				
+CHIGKPEB_00336	CDS	897				hypothetical protein
+CHIGKPEB_00337	gene	903	era			
+CHIGKPEB_00337	CDS	903	era			GTPase Era
+CHIGKPEB_00338	gene	1206				
+CHIGKPEB_00338	CDS	1206				hypothetical protein
+CHIGKPEB_00339	gene	1368	mepA_1			
+CHIGKPEB_00339	CDS	1368	mepA_1			Multidrug export protein MepA
+CHIGKPEB_00340	gene	705				
+CHIGKPEB_00340	CDS	705				hypothetical protein
+CHIGKPEB_00341	gene	777	yddE			
+CHIGKPEB_00341	CDS	777	yddE	5.1.-.-	COG0384	putative isomerase YddE
+CHIGKPEB_00342	gene	345				
+CHIGKPEB_00342	CDS	345				hypothetical protein
+CHIGKPEB_00343	gene	411				
+CHIGKPEB_00343	CDS	411				hypothetical protein
+CHIGKPEB_00344	gene	819				
+CHIGKPEB_00344	CDS	819				hypothetical protein
+CHIGKPEB_00345	gene	804	proC			
+CHIGKPEB_00345	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+CHIGKPEB_00346	gene	651				
+CHIGKPEB_00346	CDS	651				hypothetical protein
+CHIGKPEB_00347	gene	549				
+CHIGKPEB_00347	CDS	549				hypothetical protein
+CHIGKPEB_00348	gene	555	rnmV			
+CHIGKPEB_00348	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+CHIGKPEB_00349	gene	879	rsmA			
+CHIGKPEB_00349	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+CHIGKPEB_00350	gene	234				
+CHIGKPEB_00350	CDS	234				hypothetical protein
+CHIGKPEB_00351	gene	405				
+CHIGKPEB_00351	CDS	405				hypothetical protein
+CHIGKPEB_00352	gene	756				
+CHIGKPEB_00352	CDS	756				hypothetical protein
+CHIGKPEB_00353	gene	984	birA			
+CHIGKPEB_00353	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+CHIGKPEB_00354	gene	768	coaX			
+CHIGKPEB_00354	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+CHIGKPEB_00355	gene	960	dusB			
+CHIGKPEB_00355	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+CHIGKPEB_00356	gene	1020	tsaD			
+CHIGKPEB_00356	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+CHIGKPEB_00357	gene	447	rimI			
+CHIGKPEB_00357	CDS	447	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+CHIGKPEB_00358	gene	720	tsaB			
+CHIGKPEB_00358	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+CHIGKPEB_00359	gene	459	tsaE			
+CHIGKPEB_00359	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+CHIGKPEB_00360	gene	921				
+CHIGKPEB_00360	CDS	921				hypothetical protein
+CHIGKPEB_00361	gene	378	btr			
+CHIGKPEB_00361	CDS	378	btr		COG0614	HTH-type transcriptional activator Btr
+CHIGKPEB_00362	gene	843				
+CHIGKPEB_00362	CDS	843				hypothetical protein
+CHIGKPEB_00363	gene	1353	mepA_2			
+CHIGKPEB_00363	CDS	1353	mepA_2		COG0534	Multidrug export protein MepA
+CHIGKPEB_00364	gene	1437	rcsC			
+CHIGKPEB_00364	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+CHIGKPEB_00365	gene	696	walR			
+CHIGKPEB_00365	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+CHIGKPEB_00366	gene	873				
+CHIGKPEB_00366	CDS	873				hypothetical protein
+CHIGKPEB_00367	gene	741	mta			
+CHIGKPEB_00367	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+CHIGKPEB_00368	gene	1638	hcp			
+CHIGKPEB_00368	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+CHIGKPEB_00369	gene	627				
+CHIGKPEB_00369	CDS	627				hypothetical protein
+CHIGKPEB_00370	gene	651				
+CHIGKPEB_00370	CDS	651				hypothetical protein
+CHIGKPEB_00371	gene	1806	lepA			
+CHIGKPEB_00371	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+CHIGKPEB_00372	gene	267	rpsT			
+CHIGKPEB_00372	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+CHIGKPEB_00373	gene	120				
+CHIGKPEB_00373	CDS	120				hypothetical protein
+CHIGKPEB_00374	gene	1875	yxdM			
+CHIGKPEB_00374	CDS	1875	yxdM			ABC transporter permease protein YxdM
+CHIGKPEB_00375	gene	405	yxdL			
+CHIGKPEB_00375	CDS	405	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+CHIGKPEB_00376	gene	972	asrC			
+CHIGKPEB_00376	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+CHIGKPEB_00377	gene	801	asrB			
+CHIGKPEB_00377	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+CHIGKPEB_00378	gene	1011	asrA			
+CHIGKPEB_00378	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+CHIGKPEB_00379	gene	687	glxR			
+CHIGKPEB_00379	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+CHIGKPEB_00380	gene	462	ribH			
+CHIGKPEB_00380	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+CHIGKPEB_00381	gene	111				
+CHIGKPEB_00381	CDS	111				hypothetical protein
+CHIGKPEB_00382	gene	2070	mutS			
+CHIGKPEB_00382	CDS	2070	mutS		COG0249	DNA mismatch repair protein MutS
+CHIGKPEB_00383	gene	2061	mutL			
+CHIGKPEB_00383	CDS	2061	mutL			DNA mismatch repair protein MutL
+CHIGKPEB_00384	gene	942	miaA			
+CHIGKPEB_00384	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+CHIGKPEB_00385	gene	909	ppaC			
+CHIGKPEB_00385	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+CHIGKPEB_00386	gene	525				
+CHIGKPEB_00386	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+CHIGKPEB_00387	gene	1428	apeB			
+CHIGKPEB_00387	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+CHIGKPEB_00388	gene	1071	rep			
+CHIGKPEB_00388	CDS	1071	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+CHIGKPEB_00389	gene	1431	pepD_2			
+CHIGKPEB_00389	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+CHIGKPEB_00390	gene	678	purC			
+CHIGKPEB_00390	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CHIGKPEB_00391	gene	1059				
+CHIGKPEB_00391	CDS	1059				hypothetical protein
+CHIGKPEB_00392	gene	300				
+CHIGKPEB_00392	CDS	300				hypothetical protein
+CHIGKPEB_00393	gene	1050	carA			
+CHIGKPEB_00393	CDS	1050	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+CHIGKPEB_00394	gene	723	pyrF			
+CHIGKPEB_00394	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+CHIGKPEB_00395	gene	1140				
+CHIGKPEB_00395	CDS	1140				hypothetical protein
+CHIGKPEB_00396	gene	1128				
+CHIGKPEB_00396	CDS	1128				hypothetical protein
+CHIGKPEB_00397	gene	1032				
+CHIGKPEB_00397	CDS	1032				hypothetical protein
+CHIGKPEB_00398	gene	834				
+CHIGKPEB_00398	CDS	834				hypothetical protein
+CHIGKPEB_00399	gene	732				
+CHIGKPEB_00399	CDS	732				hypothetical protein
+CHIGKPEB_00400	gene	1218	dctA			
+CHIGKPEB_00400	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+CHIGKPEB_00401	gene	363				
+CHIGKPEB_00401	CDS	363				hypothetical protein
+CHIGKPEB_00402	gene	1617	comM			
+CHIGKPEB_00402	CDS	1617	comM		COG0606	Competence protein ComM
+CHIGKPEB_00403	gene	1053				
+CHIGKPEB_00403	CDS	1053				hypothetical protein
+CHIGKPEB_00404	gene	168				
+CHIGKPEB_00404	CDS	168				hypothetical protein
+CHIGKPEB_00405	gene	846				
+CHIGKPEB_00405	CDS	846			COG1307	Fatty acid-binding protein
+CHIGKPEB_00406	gene	255	rpsO			
+CHIGKPEB_00406	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+CHIGKPEB_00407	gene	972	ribF			
+CHIGKPEB_00407	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+CHIGKPEB_00408	gene	903	truB			
+CHIGKPEB_00408	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+CHIGKPEB_00409	gene	1017	nrnA			
+CHIGKPEB_00409	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+CHIGKPEB_00410	gene	504	cbiH			
+CHIGKPEB_00410	CDS	504	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+CHIGKPEB_00411	gene	765	cbiJ			
+CHIGKPEB_00411	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+CHIGKPEB_00412	gene	1545				
+CHIGKPEB_00412	CDS	1545				hypothetical protein
+CHIGKPEB_00413	gene	1104				
+CHIGKPEB_00413	CDS	1104				hypothetical protein
+CHIGKPEB_00414	gene	192				
+CHIGKPEB_00414	CDS	192				hypothetical protein
+CHIGKPEB_00415	gene	183				
+CHIGKPEB_00415	CDS	183				hypothetical protein
+CHIGKPEB_00416	gene	3441	pycA			
+CHIGKPEB_00416	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+CHIGKPEB_00417	gene	89				
+CHIGKPEB_00417	rRNA	89				5S ribosomal RNA (partial)
+CHIGKPEB_00418	gene	1344	rnfC			
+CHIGKPEB_00418	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+CHIGKPEB_00419	gene	1431				
+CHIGKPEB_00419	CDS	1431				hypothetical protein
+CHIGKPEB_00420	gene	213				
+CHIGKPEB_00420	CDS	213				hypothetical protein
+CHIGKPEB_00421	gene	561	mltC			
+CHIGKPEB_00421	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+CHIGKPEB_00422	gene	1050	thrC			
+CHIGKPEB_00422	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+CHIGKPEB_00423	gene	1338	hom			
+CHIGKPEB_00423	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+CHIGKPEB_00424	gene	990	asd_2			
+CHIGKPEB_00424	CDS	990	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+CHIGKPEB_00425	gene	591	ogt			
+CHIGKPEB_00425	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+CHIGKPEB_00426	gene	1173	ctpB			
+CHIGKPEB_00426	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+CHIGKPEB_00427	gene	936	aptB			
+CHIGKPEB_00427	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+CHIGKPEB_00428	gene	813	aptA			
+CHIGKPEB_00428	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+CHIGKPEB_00429	gene	372	acpS			
+CHIGKPEB_00429	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+CHIGKPEB_00430	gene	432	resE			
+CHIGKPEB_00430	CDS	432	resE	2.7.13.3		Sensor histidine kinase ResE
+CHIGKPEB_00431	gene	1050	mreB_1			
+CHIGKPEB_00431	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+CHIGKPEB_00432	gene	882				
+CHIGKPEB_00432	CDS	882				hypothetical protein
+CHIGKPEB_00433	gene	486				
+CHIGKPEB_00433	CDS	486				hypothetical protein
+CHIGKPEB_00434	gene	672				
+CHIGKPEB_00434	CDS	672				hypothetical protein
+CHIGKPEB_00435	gene	933				
+CHIGKPEB_00435	CDS	933				hypothetical protein
+CHIGKPEB_00436	gene	342				
+CHIGKPEB_00436	CDS	342				hypothetical protein
+CHIGKPEB_00437	gene	213				
+CHIGKPEB_00437	CDS	213				hypothetical protein
+CHIGKPEB_00438	gene	915				
+CHIGKPEB_00438	CDS	915				hypothetical protein
+CHIGKPEB_00439	gene	381				
+CHIGKPEB_00439	CDS	381				hypothetical protein
+CHIGKPEB_00440	gene	678				
+CHIGKPEB_00440	CDS	678				hypothetical protein
+CHIGKPEB_00441	gene	954	msrAB			
+CHIGKPEB_00441	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+CHIGKPEB_00442	gene	1395	alaS_1			
+CHIGKPEB_00442	CDS	1395	alaS_1	6.1.1.7		Alanine--tRNA ligase
+CHIGKPEB_00443	gene	318				
+CHIGKPEB_00443	CDS	318				hypothetical protein
+CHIGKPEB_00444	gene	402				
+CHIGKPEB_00444	CDS	402				hypothetical protein
+CHIGKPEB_00445	gene	594	purN			
+CHIGKPEB_00445	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+CHIGKPEB_00446	gene	1533	purH			
+CHIGKPEB_00446	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+CHIGKPEB_00447	gene	1269	purD			
+CHIGKPEB_00447	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+CHIGKPEB_00448	gene	1008	murJ_1			
+CHIGKPEB_00448	CDS	1008	murJ_1			lipid II flippase MurJ
+CHIGKPEB_00449	gene	1014				
+CHIGKPEB_00449	CDS	1014				hypothetical protein
+CHIGKPEB_00450	gene	282	hup			
+CHIGKPEB_00450	CDS	282	hup			DNA-binding protein HU
+CHIGKPEB_00451	gene	240				
+CHIGKPEB_00451	CDS	240			COG1188	putative protein
+CHIGKPEB_00452	gene	894	gtaB			
+CHIGKPEB_00452	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+CHIGKPEB_00453	gene	108				
+CHIGKPEB_00453	CDS	108				hypothetical protein
+CHIGKPEB_00454	gene	495				
+CHIGKPEB_00454	CDS	495				hypothetical protein
+CHIGKPEB_00455	gene	723				
+CHIGKPEB_00455	CDS	723				hypothetical protein
+CHIGKPEB_00456	gene	1773				
+CHIGKPEB_00456	CDS	1773				hypothetical protein
+CHIGKPEB_00457	gene	468				
+CHIGKPEB_00457	CDS	468				hypothetical protein
+CHIGKPEB_00458	gene	888	ispH			
+CHIGKPEB_00458	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+CHIGKPEB_00459	gene	1896	ftsH4			
+CHIGKPEB_00459	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+CHIGKPEB_00460	gene	489				
+CHIGKPEB_00460	CDS	489				hypothetical protein
+CHIGKPEB_00461	gene	636	lexA			
+CHIGKPEB_00461	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+CHIGKPEB_00462	gene	1200	argG			
+CHIGKPEB_00462	CDS	1200	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+CHIGKPEB_00463	gene	1374	argH_1			
+CHIGKPEB_00463	CDS	1374	argH_1	4.3.2.1	COG0165	Argininosuccinate lyase
+CHIGKPEB_00464	gene	462				
+CHIGKPEB_00464	CDS	462				hypothetical protein
+CHIGKPEB_00465	gene	3603	dnaE			
+CHIGKPEB_00465	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+CHIGKPEB_00466	gene	729	whiA			
+CHIGKPEB_00466	CDS	729	whiA		COG1481	putative cell division protein WhiA
+CHIGKPEB_00467	gene	1656	udk			
+CHIGKPEB_00467	CDS	1656	udk	2.7.1.48		Uridine kinase
+CHIGKPEB_00468	gene	606	sipT			
+CHIGKPEB_00468	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+CHIGKPEB_00469	gene	1500	rsmF			
+CHIGKPEB_00469	CDS	1500	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+CHIGKPEB_00470	gene	318				
+CHIGKPEB_00470	CDS	318				hypothetical protein
+CHIGKPEB_00471	gene	1305	pdp			
+CHIGKPEB_00471	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+CHIGKPEB_00472	gene	2526	purL			
+CHIGKPEB_00472	CDS	2526	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+CHIGKPEB_00473	gene	1014	malP_1			
+CHIGKPEB_00473	CDS	1014	malP_1	2.4.1.1	COG0058	Maltodextrin phosphorylase
+CHIGKPEB_00474	gene	2451				
+CHIGKPEB_00474	CDS	2451				hypothetical protein
+CHIGKPEB_00475	gene	2205	srfAB			
+CHIGKPEB_00475	CDS	2205	srfAB			Surfactin synthase subunit 2
+CHIGKPEB_00476	gene	897	ddl			
+CHIGKPEB_00476	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+CHIGKPEB_00477	gene	2268	copA			
+CHIGKPEB_00477	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+CHIGKPEB_00478	gene	297				
+CHIGKPEB_00478	CDS	297				hypothetical protein
+CHIGKPEB_00479	gene	684	czcR			
+CHIGKPEB_00479	CDS	684	czcR			Transcriptional activator protein CzcR
+CHIGKPEB_00480	gene	891	rnjA			
+CHIGKPEB_00480	CDS	891	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+CHIGKPEB_00481	gene	633				
+CHIGKPEB_00481	CDS	633				hypothetical protein
+CHIGKPEB_00482	gene	762	scpA			
+CHIGKPEB_00482	CDS	762	scpA		COG1354	Segregation and condensation protein A
+CHIGKPEB_00483	gene	519	scpB			
+CHIGKPEB_00483	CDS	519	scpB		COG1386	Segregation and condensation protein B
+CHIGKPEB_00484	gene	750	cobB			
+CHIGKPEB_00484	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+CHIGKPEB_00485	gene	357				
+CHIGKPEB_00485	CDS	357				hypothetical protein
+CHIGKPEB_00486	gene	1782				
+CHIGKPEB_00486	CDS	1782				hypothetical protein
+CHIGKPEB_00487	gene	819				
+CHIGKPEB_00487	CDS	819				hypothetical protein
+CHIGKPEB_00488	gene	444				
+CHIGKPEB_00488	CDS	444				hypothetical protein
+CHIGKPEB_00489	gene	2115				
+CHIGKPEB_00489	CDS	2115				hypothetical protein
+CHIGKPEB_00490	gene	237	pepC			
+CHIGKPEB_00490	CDS	237	pepC	3.4.22.40	COG3579	Aminopeptidase C
+CHIGKPEB_00491	gene	1083	hhoB			
+CHIGKPEB_00491	CDS	1083	hhoB			Putative serine protease HhoB
+CHIGKPEB_00492	gene	528				
+CHIGKPEB_00492	CDS	528				hypothetical protein
+CHIGKPEB_00493	gene	1023	thiY			
+CHIGKPEB_00493	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+CHIGKPEB_00494	gene	762	ribX			
+CHIGKPEB_00494	CDS	762	ribX			Riboflavin transport system permease protein RibX
+CHIGKPEB_00495	gene	291				
+CHIGKPEB_00495	CDS	291				hypothetical protein
+CHIGKPEB_00496	gene	603	nudL			
+CHIGKPEB_00496	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+CHIGKPEB_00497	gene	201				
+CHIGKPEB_00497	CDS	201				hypothetical protein
+CHIGKPEB_00498	gene	450	cobS			
+CHIGKPEB_00498	CDS	450	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+CHIGKPEB_00499	gene	639	pspA_1			
+CHIGKPEB_00499	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+CHIGKPEB_00500	gene	1503	cobQ			
+CHIGKPEB_00500	CDS	1503	cobQ			Cobyric acid synthase
+CHIGKPEB_00501	gene	939	aspS			
+CHIGKPEB_00501	CDS	939	aspS	6.1.1.12		Aspartate--tRNA ligase
+CHIGKPEB_00502	gene	315	csoR			
+CHIGKPEB_00502	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+CHIGKPEB_00503	gene	477				
+CHIGKPEB_00503	CDS	477				hypothetical protein
+CHIGKPEB_00504	gene	972	pta			
+CHIGKPEB_00504	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+CHIGKPEB_00505	gene	258				
+CHIGKPEB_00505	CDS	258				hypothetical protein
+CHIGKPEB_00506	gene	543	atpH			
+CHIGKPEB_00506	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+CHIGKPEB_00507	gene	507	atpF			
+CHIGKPEB_00507	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+CHIGKPEB_00508	gene	264	atpE			
+CHIGKPEB_00508	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+CHIGKPEB_00509	gene	705	atpB			
+CHIGKPEB_00509	CDS	705	atpB		COG0356	ATP synthase subunit a
+CHIGKPEB_00510	gene	402				
+CHIGKPEB_00510	CDS	402				hypothetical protein
+CHIGKPEB_00511	gene	240				
+CHIGKPEB_00511	CDS	240				hypothetical protein
+CHIGKPEB_00512	gene	444	upp			
+CHIGKPEB_00512	CDS	444	upp	2.4.2.9		Uracil phosphoribosyltransferase
+CHIGKPEB_00513	gene	183				
+CHIGKPEB_00513	CDS	183				hypothetical protein
+CHIGKPEB_00514	gene	774	sigB			
+CHIGKPEB_00514	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+CHIGKPEB_00515	gene	408	rsbW			
+CHIGKPEB_00515	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+CHIGKPEB_00516	gene	318	rsbV			
+CHIGKPEB_00516	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+CHIGKPEB_00517	gene	1434	gyrA			
+CHIGKPEB_00517	CDS	1434	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+CHIGKPEB_00518	gene	1065	feoB			
+CHIGKPEB_00518	CDS	1065	feoB		COG0370	Fe(2+) transporter FeoB
+CHIGKPEB_00519	gene	168				
+CHIGKPEB_00519	CDS	168				hypothetical protein
+CHIGKPEB_00520	gene	1557				
+CHIGKPEB_00520	CDS	1557				hypothetical protein
+CHIGKPEB_00521	gene	486				
+CHIGKPEB_00521	CDS	486				hypothetical protein
+CHIGKPEB_00522	gene	648				
+CHIGKPEB_00522	CDS	648				hypothetical protein
+CHIGKPEB_00523	gene	651	pspA_2			
+CHIGKPEB_00523	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+CHIGKPEB_00524	gene	942	hexR			
+CHIGKPEB_00524	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+CHIGKPEB_00525	gene	732	rluB			
+CHIGKPEB_00525	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+CHIGKPEB_00526	gene	705				
+CHIGKPEB_00526	CDS	705				hypothetical protein
+CHIGKPEB_00527	gene	1839	typA			
+CHIGKPEB_00527	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+CHIGKPEB_00528	gene	705				
+CHIGKPEB_00528	CDS	705				hypothetical protein
+CHIGKPEB_00529	gene	936	corA			
+CHIGKPEB_00529	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+CHIGKPEB_00530	gene	1065				
+CHIGKPEB_00530	CDS	1065				hypothetical protein
+CHIGKPEB_00531	gene	651				
+CHIGKPEB_00531	CDS	651				hypothetical protein
+CHIGKPEB_00532	gene	561	pth			
+CHIGKPEB_00532	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+CHIGKPEB_00533	gene	981				
+CHIGKPEB_00533	CDS	981			COG2239	Magnesium transporter MgtE
+CHIGKPEB_00534	gene	747	recO			
+CHIGKPEB_00534	CDS	747	recO		COG1381	DNA repair protein RecO
+CHIGKPEB_00535	gene	609				
+CHIGKPEB_00535	CDS	609				hypothetical protein
+CHIGKPEB_00536	gene	885	glyQ			
+CHIGKPEB_00536	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+CHIGKPEB_00537	gene	741	bdhA			
+CHIGKPEB_00537	CDS	741	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+CHIGKPEB_00538	gene	762	rpsB			
+CHIGKPEB_00538	CDS	762	rpsB			30S ribosomal protein S2
+CHIGKPEB_00539	gene	909	tsf			
+CHIGKPEB_00539	CDS	909	tsf		COG0264	Elongation factor Ts
+CHIGKPEB_00540	gene	708	pyrH			
+CHIGKPEB_00540	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+CHIGKPEB_00541	gene	1626				
+CHIGKPEB_00541	CDS	1626				hypothetical protein
+CHIGKPEB_00542	gene	1083				
+CHIGKPEB_00542	CDS	1083				hypothetical protein
+CHIGKPEB_00543	gene	204				
+CHIGKPEB_00543	CDS	204				hypothetical protein
+CHIGKPEB_00544	gene	1560	murJ_2			
+CHIGKPEB_00544	CDS	1560	murJ_2		COG0728	putative lipid II flippase MurJ
+CHIGKPEB_00545	gene	1230				
+CHIGKPEB_00545	CDS	1230				hypothetical protein
+CHIGKPEB_00546	gene	375				
+CHIGKPEB_00546	CDS	375				hypothetical protein
+CHIGKPEB_00547	gene	1551	ybiT_1			
+CHIGKPEB_00547	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+CHIGKPEB_00548	gene	1764	rqcH			
+CHIGKPEB_00548	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+CHIGKPEB_00549	gene	525	pyrR			
+CHIGKPEB_00549	CDS	525	pyrR			Bifunctional protein PyrR
+CHIGKPEB_00550	gene	933	rluD_2			
+CHIGKPEB_00550	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CHIGKPEB_00551	gene	480	lspA			
+CHIGKPEB_00551	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+CHIGKPEB_00552	gene	1191	malP_2			
+CHIGKPEB_00552	CDS	1191	malP_2	2.4.1.8		Maltose phosphorylase
+CHIGKPEB_00553	gene	1662	malL			
+CHIGKPEB_00553	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+CHIGKPEB_00554	gene	642	ycjU			
+CHIGKPEB_00554	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+CHIGKPEB_00555	gene	708	ytrE			
+CHIGKPEB_00555	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+CHIGKPEB_00556	gene	279				
+CHIGKPEB_00556	CDS	279				hypothetical protein
+CHIGKPEB_00557	gene	477	glpK			
+CHIGKPEB_00557	CDS	477	glpK	2.7.1.30	COG0554	Glycerol kinase
+CHIGKPEB_00558	gene	534				
+CHIGKPEB_00558	CDS	534				hypothetical protein
+CHIGKPEB_00559	gene	1200	mnmE_2			
+CHIGKPEB_00559	CDS	1200	mnmE_2	3.6.-.-		tRNA modification GTPase MnmE
+CHIGKPEB_00560	gene	1404	bioB_1			
+CHIGKPEB_00560	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+CHIGKPEB_00561	gene	135				
+CHIGKPEB_00561	CDS	135				hypothetical protein
+CHIGKPEB_00562	gene	444				
+CHIGKPEB_00562	CDS	444		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+CHIGKPEB_00563	gene	1782	mfd			
+CHIGKPEB_00563	CDS	1782	mfd	3.6.4.-		Transcription-repair-coupling factor
+CHIGKPEB_00564	gene	1062	prsA_1			
+CHIGKPEB_00564	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+CHIGKPEB_00565	gene	1158	iscS			
+CHIGKPEB_00565	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+CHIGKPEB_00566	gene	1188	thiI			
+CHIGKPEB_00566	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+CHIGKPEB_00567	gene	963				
+CHIGKPEB_00567	CDS	963				hypothetical protein
+CHIGKPEB_00568	gene	1800				
+CHIGKPEB_00568	CDS	1800				hypothetical protein
+CHIGKPEB_00569	gene	756				
+CHIGKPEB_00569	CDS	756				hypothetical protein
+CHIGKPEB_00570	gene	1068				
+CHIGKPEB_00570	CDS	1068				hypothetical protein
+CHIGKPEB_00571	gene	297				
+CHIGKPEB_00571	CDS	297				hypothetical protein
+CHIGKPEB_00572	gene	450				
+CHIGKPEB_00572	CDS	450				hypothetical protein
+CHIGKPEB_00573	gene	1083				
+CHIGKPEB_00573	CDS	1083				hypothetical protein
+CHIGKPEB_00574	gene	495	sigM			
+CHIGKPEB_00574	CDS	495	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+CHIGKPEB_00575	gene	867	lytC_1			
+CHIGKPEB_00575	CDS	867	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CHIGKPEB_00576	gene	444				
+CHIGKPEB_00576	CDS	444				hypothetical protein
+CHIGKPEB_00577	gene	1119	ribD			
+CHIGKPEB_00577	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+CHIGKPEB_00578	gene	657	ribE			
+CHIGKPEB_00578	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+CHIGKPEB_00579	gene	1659	glnS			
+CHIGKPEB_00579	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+CHIGKPEB_00580	gene	501	lytG			
+CHIGKPEB_00580	CDS	501	lytG	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+CHIGKPEB_00581	gene	870	nrdF			
+CHIGKPEB_00581	CDS	870	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+CHIGKPEB_00582	gene	1164	ugtP			
+CHIGKPEB_00582	CDS	1164	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+CHIGKPEB_00583	gene	690				
+CHIGKPEB_00583	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+CHIGKPEB_00584	gene	627				
+CHIGKPEB_00584	CDS	627				hypothetical protein
+CHIGKPEB_00585	gene	89				
+CHIGKPEB_00585	rRNA	89				5S ribosomal RNA (partial)
+CHIGKPEB_00586	gene	768	prsA_2			
+CHIGKPEB_00586	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+CHIGKPEB_00587	gene	444				
+CHIGKPEB_00587	CDS	444				hypothetical protein
+CHIGKPEB_00588	gene	465				
+CHIGKPEB_00588	CDS	465				hypothetical protein
+CHIGKPEB_00589	gene	453				
+CHIGKPEB_00589	CDS	453				hypothetical protein
+CHIGKPEB_00590	gene	201	cspA			
+CHIGKPEB_00590	CDS	201	cspA		COG1278	Cold shock protein CspA
+CHIGKPEB_00591	gene	1740				
+CHIGKPEB_00591	CDS	1740				hypothetical protein
+CHIGKPEB_00592	gene	1266				
+CHIGKPEB_00592	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+CHIGKPEB_00593	gene	162	ccpA			
+CHIGKPEB_00593	CDS	162	ccpA		COG1609	Catabolite control protein A
+CHIGKPEB_00594	gene	234				
+CHIGKPEB_00594	CDS	234				hypothetical protein
+CHIGKPEB_00595	gene	1404	lysN			
+CHIGKPEB_00595	CDS	1404	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+CHIGKPEB_00596	gene	201				
+CHIGKPEB_00596	CDS	201				hypothetical protein
+CHIGKPEB_00597	gene	912	cmpR			
+CHIGKPEB_00597	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+CHIGKPEB_00598	gene	1380	tilS			
+CHIGKPEB_00598	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+CHIGKPEB_00599	gene	414				
+CHIGKPEB_00599	CDS	414				hypothetical protein
+CHIGKPEB_00600	gene	267	rpoZ			
+CHIGKPEB_00600	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+CHIGKPEB_00601	gene	1212	undec1A			
+CHIGKPEB_00601	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+CHIGKPEB_00602	gene	1101				
+CHIGKPEB_00602	CDS	1101				hypothetical protein
+CHIGKPEB_00603	gene	1251				
+CHIGKPEB_00603	CDS	1251				hypothetical protein
+CHIGKPEB_00604	gene	753				
+CHIGKPEB_00604	CDS	753				hypothetical protein
+CHIGKPEB_00605	gene	1677	fhs			
+CHIGKPEB_00605	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+CHIGKPEB_00606	gene	519	polC			
+CHIGKPEB_00606	CDS	519	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+CHIGKPEB_00607	gene	1044	mtgA			
+CHIGKPEB_00607	CDS	1044	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+CHIGKPEB_00608	gene	855	sseB			
+CHIGKPEB_00608	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+CHIGKPEB_00609	gene	444				
+CHIGKPEB_00609	CDS	444				hypothetical protein
+CHIGKPEB_00610	gene	540	pgsA			
+CHIGKPEB_00610	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+CHIGKPEB_00611	gene	1323	rimO			
+CHIGKPEB_00611	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+CHIGKPEB_00612	gene	423	spoIIIE			
+CHIGKPEB_00612	CDS	423	spoIIIE		COG1674	DNA translocase SpoIIIE
+CHIGKPEB_00613	gene	678	rspR_2			
+CHIGKPEB_00613	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+CHIGKPEB_00614	gene	897	ispE			
+CHIGKPEB_00614	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+CHIGKPEB_00615	gene	783				
+CHIGKPEB_00615	CDS	783				hypothetical protein
+CHIGKPEB_00616	gene	189				
+CHIGKPEB_00616	CDS	189				hypothetical protein
+CHIGKPEB_00617	gene	627				
+CHIGKPEB_00617	CDS	627				hypothetical protein
+CHIGKPEB_00618	gene	408				
+CHIGKPEB_00618	CDS	408				hypothetical protein
+CHIGKPEB_00619	gene	438	sufU			
+CHIGKPEB_00619	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+CHIGKPEB_00620	gene	1236	csd			
+CHIGKPEB_00620	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+CHIGKPEB_00621	gene	360				
+CHIGKPEB_00621	CDS	360				hypothetical protein
+CHIGKPEB_00622	gene	2127	sasA_1			
+CHIGKPEB_00622	CDS	2127	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+CHIGKPEB_00623	gene	1278	mepA_3			
+CHIGKPEB_00623	CDS	1278	mepA_3			Multidrug export protein MepA
+CHIGKPEB_00624	gene	543	nusG			
+CHIGKPEB_00624	CDS	543	nusG			Transcription termination/antitermination protein NusG
+CHIGKPEB_00625	gene	207	secE			
+CHIGKPEB_00625	CDS	207	secE			Protein translocase subunit SecE
+CHIGKPEB_00626	gene	150	rpmG2			
+CHIGKPEB_00626	CDS	150	rpmG2			50S ribosomal protein L33 2
+CHIGKPEB_00627	gene	489	queT			
+CHIGKPEB_00627	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+CHIGKPEB_00628	gene	696				
+CHIGKPEB_00628	CDS	696				hypothetical protein
+CHIGKPEB_00629	gene	777	pepT			
+CHIGKPEB_00629	CDS	777	pepT	3.4.11.4	COG2195	Peptidase T
+CHIGKPEB_00630	gene	1356	prpC			
+CHIGKPEB_00630	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+CHIGKPEB_00631	gene	1053	ltaE			
+CHIGKPEB_00631	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+CHIGKPEB_00632	gene	1041	cobD_1			
+CHIGKPEB_00632	CDS	1041	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+CHIGKPEB_00633	gene	1092	cobD_2			
+CHIGKPEB_00633	CDS	1092	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+CHIGKPEB_00634	gene	885	pduX			
+CHIGKPEB_00634	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+CHIGKPEB_00635	gene	357	aroA			
+CHIGKPEB_00635	CDS	357	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+CHIGKPEB_00636	gene	1077	aroC			
+CHIGKPEB_00636	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+CHIGKPEB_00637	gene	780	aroK			
+CHIGKPEB_00637	CDS	780	aroK	2.7.1.71		Shikimate kinase
+CHIGKPEB_00638	gene	738				
+CHIGKPEB_00638	CDS	738				hypothetical protein
+CHIGKPEB_00639	gene	1113				
+CHIGKPEB_00639	CDS	1113				hypothetical protein
+CHIGKPEB_00640	gene	201	rpmE			
+CHIGKPEB_00640	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+CHIGKPEB_00641	gene	537	rho			
+CHIGKPEB_00641	CDS	537	rho	3.6.4.-		Transcription termination factor Rho
+CHIGKPEB_00642	gene	2421	leuS			
+CHIGKPEB_00642	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+CHIGKPEB_00643	gene	627				
+CHIGKPEB_00643	CDS	627				hypothetical protein
+CHIGKPEB_00644	gene	873	moaA			
+CHIGKPEB_00644	CDS	873	moaA	4.1.99.22		GTP 3',8-cyclase
+CHIGKPEB_00645	gene	1629				
+CHIGKPEB_00645	CDS	1629				hypothetical protein
+CHIGKPEB_00646	gene	768				
+CHIGKPEB_00646	CDS	768				hypothetical protein
+CHIGKPEB_00647	gene	1008	trpS			
+CHIGKPEB_00647	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+CHIGKPEB_00648	gene	708	mtnN			
+CHIGKPEB_00648	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+CHIGKPEB_00649	gene	570				
+CHIGKPEB_00649	CDS	570				hypothetical protein
+CHIGKPEB_00650	gene	492	gndA			
+CHIGKPEB_00650	CDS	492	gndA	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+CHIGKPEB_00651	gene	1374	zwf			
+CHIGKPEB_00651	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+CHIGKPEB_00652	gene	969	trxB			
+CHIGKPEB_00652	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+CHIGKPEB_00653	gene	396				
+CHIGKPEB_00653	CDS	396				hypothetical protein
+CHIGKPEB_00654	gene	1053	mnmA			
+CHIGKPEB_00654	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+CHIGKPEB_00655	gene	417	yrrK			
+CHIGKPEB_00655	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+CHIGKPEB_00656	gene	2280				
+CHIGKPEB_00656	CDS	2280				hypothetical protein
+CHIGKPEB_00657	gene	261				
+CHIGKPEB_00657	CDS	261				hypothetical protein
+CHIGKPEB_00658	gene	372	alaS_2			
+CHIGKPEB_00658	CDS	372	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+CHIGKPEB_00659	gene	204	accC			
+CHIGKPEB_00659	CDS	204	accC	6.3.4.14	COG0439	Biotin carboxylase
+CHIGKPEB_00660	gene	858	accD			
+CHIGKPEB_00660	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+CHIGKPEB_00661	gene	744	accA			
+CHIGKPEB_00661	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+CHIGKPEB_00662	gene	480				
+CHIGKPEB_00662	CDS	480				hypothetical protein
+CHIGKPEB_00663	gene	1017	fabH			
+CHIGKPEB_00663	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+CHIGKPEB_00664	gene	996	btuD			
+CHIGKPEB_00664	CDS	996	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CHIGKPEB_00665	gene	696	ureG			
+CHIGKPEB_00665	CDS	696	ureG			Urease accessory protein UreG
+CHIGKPEB_00666	gene	1227				
+CHIGKPEB_00666	CDS	1227				hypothetical protein
+CHIGKPEB_00667	gene	624	rlmB			
+CHIGKPEB_00667	CDS	624	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CHIGKPEB_00668	gene	636	ccpN			
+CHIGKPEB_00668	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+CHIGKPEB_00669	gene	840	yqfL			
+CHIGKPEB_00669	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+CHIGKPEB_00670	gene	438				
+CHIGKPEB_00670	CDS	438				hypothetical protein
+CHIGKPEB_00671	gene	822	punA			
+CHIGKPEB_00671	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+CHIGKPEB_00672	gene	1203	mltG			
+CHIGKPEB_00672	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+CHIGKPEB_00673	gene	645	trmR			
+CHIGKPEB_00673	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+CHIGKPEB_00674	gene	516				
+CHIGKPEB_00674	CDS	516				hypothetical protein
+CHIGKPEB_00675	gene	1011	lytC_2			
+CHIGKPEB_00675	CDS	1011	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CHIGKPEB_00676	gene	855				
+CHIGKPEB_00676	CDS	855				hypothetical protein
+CHIGKPEB_00677	gene	747				
+CHIGKPEB_00677	CDS	747				hypothetical protein
+CHIGKPEB_00678	gene	495				
+CHIGKPEB_00678	CDS	495				hypothetical protein
+CHIGKPEB_00679	gene	384				
+CHIGKPEB_00679	CDS	384			COG1302	Alkaline shock protein 23
+CHIGKPEB_00680	gene	876				
+CHIGKPEB_00680	CDS	876				hypothetical protein
+CHIGKPEB_00681	gene	1365	dnaA_2			
+CHIGKPEB_00681	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+CHIGKPEB_00682	gene	135	rpmH			
+CHIGKPEB_00682	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+CHIGKPEB_00683	gene	378	rnpA			
+CHIGKPEB_00683	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+CHIGKPEB_00684	gene	936				
+CHIGKPEB_00684	CDS	936				hypothetical protein
+CHIGKPEB_00685	gene	1293				
+CHIGKPEB_00685	CDS	1293				hypothetical protein
+CHIGKPEB_00686	gene	750	lgt			
+CHIGKPEB_00686	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+CHIGKPEB_00687	gene	1278	sasA_2			
+CHIGKPEB_00687	CDS	1278	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+CHIGKPEB_00688	gene	675	arlR			
+CHIGKPEB_00688	CDS	675	arlR		COG0745	Response regulator ArlR
+CHIGKPEB_00689	gene	555				
+CHIGKPEB_00689	CDS	555				hypothetical protein
+CHIGKPEB_00690	gene	252				
+CHIGKPEB_00690	CDS	252				hypothetical protein
+CHIGKPEB_00691	gene	462	cdd			
+CHIGKPEB_00691	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+CHIGKPEB_00692	gene	846	cvfB			
+CHIGKPEB_00692	CDS	846	cvfB		COG2996	Conserved virulence factor B
+CHIGKPEB_00693	gene	486				
+CHIGKPEB_00693	CDS	486				hypothetical protein
+CHIGKPEB_00694	gene	780				
+CHIGKPEB_00694	CDS	780				hypothetical protein
+CHIGKPEB_00695	gene	1077	lytC_3			
+CHIGKPEB_00695	CDS	1077	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CHIGKPEB_00696	gene	900				
+CHIGKPEB_00696	CDS	900				hypothetical protein
+CHIGKPEB_00697	gene	618				
+CHIGKPEB_00697	CDS	618				hypothetical protein
+CHIGKPEB_00698	gene	897	uvrC			
+CHIGKPEB_00698	CDS	897	uvrC		COG0322	UvrABC system protein C
+CHIGKPEB_00699	gene	933	hprK			
+CHIGKPEB_00699	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+CHIGKPEB_00700	gene	921	murB			
+CHIGKPEB_00700	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+CHIGKPEB_00701	gene	1170	aspC			
+CHIGKPEB_00701	CDS	1170	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+CHIGKPEB_00702	gene	879				
+CHIGKPEB_00702	CDS	879				hypothetical protein
+CHIGKPEB_00703	gene	396	panD			
+CHIGKPEB_00703	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+CHIGKPEB_00704	gene	261				
+CHIGKPEB_00704	CDS	261				hypothetical protein
+CHIGKPEB_00705	gene	1200	gerN			
+CHIGKPEB_00705	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+CHIGKPEB_00706	gene	447				
+CHIGKPEB_00706	CDS	447				hypothetical protein
+CHIGKPEB_00707	gene	702				
+CHIGKPEB_00707	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+CHIGKPEB_00708	gene	1656				
+CHIGKPEB_00708	CDS	1656				hypothetical protein
+CHIGKPEB_00709	gene	651				
+CHIGKPEB_00709	CDS	651				hypothetical protein
+CHIGKPEB_00710	gene	735				
+CHIGKPEB_00710	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+CHIGKPEB_00711	gene	213				
+CHIGKPEB_00711	CDS	213				hypothetical protein
+CHIGKPEB_00712	gene	804				
+CHIGKPEB_00712	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+CHIGKPEB_00713	gene	438				
+CHIGKPEB_00713	CDS	438				hypothetical protein
+CHIGKPEB_00714	gene	246	xseB			
+CHIGKPEB_00714	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+CHIGKPEB_00715	gene	1206	xseA			
+CHIGKPEB_00715	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+CHIGKPEB_00716	gene	786				
+CHIGKPEB_00716	CDS	786				hypothetical protein
+CHIGKPEB_00717	gene	585	clpP			
+CHIGKPEB_00717	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+CHIGKPEB_00718	gene	1284	tig			
+CHIGKPEB_00718	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+CHIGKPEB_00719	gene	474				
+CHIGKPEB_00719	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+CHIGKPEB_00720	gene	705				
+CHIGKPEB_00720	CDS	705				hypothetical protein
+CHIGKPEB_00721	gene	609				
+CHIGKPEB_00721	CDS	609				hypothetical protein
+CHIGKPEB_00722	gene	1254				
+CHIGKPEB_00722	CDS	1254		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+CHIGKPEB_00723	gene	915	prmC			
+CHIGKPEB_00723	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+CHIGKPEB_00724	gene	720				
+CHIGKPEB_00724	CDS	720				hypothetical protein
+CHIGKPEB_00725	gene	327				
+CHIGKPEB_00725	CDS	327				hypothetical protein
+CHIGKPEB_00726	gene	1296	lysA			
+CHIGKPEB_00726	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+CHIGKPEB_00727	gene	1077	alr1			
+CHIGKPEB_00727	CDS	1077	alr1	5.1.1.1	COG0787	Alanine racemase 1
+CHIGKPEB_00728	gene	435	ykuR			
+CHIGKPEB_00728	CDS	435	ykuR	3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+CHIGKPEB_00729	gene	1416				
+CHIGKPEB_00729	CDS	1416				hypothetical protein
+CHIGKPEB_00730	gene	717				
+CHIGKPEB_00730	CDS	717				hypothetical protein
+CHIGKPEB_00731	gene	816	murG			
+CHIGKPEB_00731	CDS	816	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+CHIGKPEB_00732	gene	1161	ftsZ			
+CHIGKPEB_00732	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+CHIGKPEB_00733	gene	516	nrdR			
+CHIGKPEB_00733	CDS	516	nrdR		COG1327	Transcriptional repressor NrdR
+CHIGKPEB_00734	gene	813	obg			
+CHIGKPEB_00734	CDS	813	obg	3.6.5.-	COG0536	GTPase Obg
+CHIGKPEB_00735	gene	390				
+CHIGKPEB_00735	CDS	390				hypothetical protein
+CHIGKPEB_00736	gene	1218	tdcB			
+CHIGKPEB_00736	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+CHIGKPEB_00737	gene	540	puuR			
+CHIGKPEB_00737	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+CHIGKPEB_00738	gene	1044	potA			
+CHIGKPEB_00738	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+CHIGKPEB_00739	gene	867	potB			
+CHIGKPEB_00739	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+CHIGKPEB_00740	gene	219				
+CHIGKPEB_00740	CDS	219				hypothetical protein
+CHIGKPEB_00741	gene	657				
+CHIGKPEB_00741	CDS	657				hypothetical protein
+CHIGKPEB_00742	gene	1254				
+CHIGKPEB_00742	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+CHIGKPEB_00743	gene	957				
+CHIGKPEB_00743	CDS	957				hypothetical protein
+CHIGKPEB_00744	gene	867				
+CHIGKPEB_00744	CDS	867				hypothetical protein
+CHIGKPEB_00745	gene	186				
+CHIGKPEB_00745	CDS	186				hypothetical protein
+CHIGKPEB_00746	gene	570				
+CHIGKPEB_00746	CDS	570				hypothetical protein
+CHIGKPEB_00747	gene	282	yabJ			
+CHIGKPEB_00747	CDS	282	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+CHIGKPEB_00748	gene	339	clpB			
+CHIGKPEB_00748	CDS	339	clpB		COG0542	Chaperone protein ClpB
+CHIGKPEB_00749	gene	1296	brnQ_2			
+CHIGKPEB_00749	CDS	1296	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+CHIGKPEB_00750	gene	354				
+CHIGKPEB_00750	CDS	354				hypothetical protein
+CHIGKPEB_00751	gene	951				
+CHIGKPEB_00751	CDS	951				hypothetical protein
+CHIGKPEB_00752	gene	1059				
+CHIGKPEB_00752	CDS	1059				hypothetical protein
+CHIGKPEB_00753	gene	786				
+CHIGKPEB_00753	CDS	786				hypothetical protein
+CHIGKPEB_00754	gene	447	rpiB			
+CHIGKPEB_00754	CDS	447	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+CHIGKPEB_00755	gene	1038	ywlC			
+CHIGKPEB_00755	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+CHIGKPEB_00756	gene	1065	prfA			
+CHIGKPEB_00756	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+CHIGKPEB_00757	gene	696	nadD			
+CHIGKPEB_00757	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+CHIGKPEB_00758	gene	624	recX			
+CHIGKPEB_00758	CDS	624	recX			Regulatory protein RecX
+CHIGKPEB_00759	gene	348	crcB_1			
+CHIGKPEB_00759	CDS	348	crcB_1			Putative fluoride ion transporter CrcB
+CHIGKPEB_00760	gene	462	crcB_2			
+CHIGKPEB_00760	CDS	462	crcB_2			Putative fluoride ion transporter CrcB
+CHIGKPEB_00761	gene	2610				
+CHIGKPEB_00761	CDS	2610				hypothetical protein
+CHIGKPEB_00762	gene	750	metK			
+CHIGKPEB_00762	CDS	750	metK	2.5.1.6		S-adenosylmethionine synthase
+CHIGKPEB_00763	gene	777	rsmE			
+CHIGKPEB_00763	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+CHIGKPEB_00764	gene	951	prmA			
+CHIGKPEB_00764	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+CHIGKPEB_00765	gene	1323	glmS			
+CHIGKPEB_00765	CDS	1323	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+CHIGKPEB_00766	gene	252				
+CHIGKPEB_00766	CDS	252				hypothetical protein
+CHIGKPEB_00767	gene	561	nfrA1			
+CHIGKPEB_00767	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+CHIGKPEB_00768	gene	327				
+CHIGKPEB_00768	CDS	327				hypothetical protein
+CHIGKPEB_00769	gene	540				
+CHIGKPEB_00769	CDS	540				IS630 family transposase ISPlu8
+CHIGKPEB_00770	gene	480				
+CHIGKPEB_00770	CDS	480				hypothetical protein
+CHIGKPEB_00771	gene	417	map			
+CHIGKPEB_00771	CDS	417	map	3.4.11.18	COG0024	Methionine aminopeptidase
+CHIGKPEB_00772	gene	459	infC			
+CHIGKPEB_00772	CDS	459	infC			Translation initiation factor IF-3
+CHIGKPEB_00773	gene	198	rpmI			
+CHIGKPEB_00773	CDS	198	rpmI			50S ribosomal protein L35
+CHIGKPEB_00774	gene	357	rplT			
+CHIGKPEB_00774	CDS	357	rplT			50S ribosomal protein L20
+CHIGKPEB_00775	gene	342				
+CHIGKPEB_00775	CDS	342				hypothetical protein
+CHIGKPEB_00776	gene	603	nadE			
+CHIGKPEB_00776	CDS	603	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+CHIGKPEB_00777	gene	723				
+CHIGKPEB_00777	CDS	723			COG0217	putative transcriptional regulatory protein
+CHIGKPEB_00778	gene	282				
+CHIGKPEB_00778	CDS	282				hypothetical protein
+CHIGKPEB_00779	gene	639				
+CHIGKPEB_00779	CDS	639				hypothetical protein
+CHIGKPEB_00780	gene	597				
+CHIGKPEB_00780	CDS	597				hypothetical protein
+CHIGKPEB_00781	gene	444	pyrB			
+CHIGKPEB_00781	CDS	444	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+CHIGKPEB_00782	gene	690	pyrK			
+CHIGKPEB_00782	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+CHIGKPEB_00783	gene	903	pyrD			
+CHIGKPEB_00783	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+CHIGKPEB_00784	gene	1077	disA			
+CHIGKPEB_00784	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+CHIGKPEB_00785	gene	1380	radA			
+CHIGKPEB_00785	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+CHIGKPEB_00786	gene	249				
+CHIGKPEB_00786	CDS	249				hypothetical protein
+CHIGKPEB_00787	gene	1479	malQ			
+CHIGKPEB_00787	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+CHIGKPEB_00788	gene	654	potD			
+CHIGKPEB_00788	CDS	654	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+CHIGKPEB_00789	gene	426				
+CHIGKPEB_00789	CDS	426				hypothetical protein
+CHIGKPEB_00790	gene	1371	ntpJ			
+CHIGKPEB_00790	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+CHIGKPEB_00791	gene	675	ktrA			
+CHIGKPEB_00791	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+CHIGKPEB_00792	gene	1071				
+CHIGKPEB_00792	CDS	1071				hypothetical protein
+CHIGKPEB_00793	gene	708	rnc			
+CHIGKPEB_00793	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+CHIGKPEB_00794	gene	1080	ykoD_2			
+CHIGKPEB_00794	CDS	1080	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+CHIGKPEB_00795	gene	1416	pheT			
+CHIGKPEB_00795	CDS	1416	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+CHIGKPEB_00796	gene	411				
+CHIGKPEB_00796	CDS	411				hypothetical protein
+CHIGKPEB_00797	gene	1284	brnQ_3			
+CHIGKPEB_00797	CDS	1284	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+CHIGKPEB_00798	gene	1698	secA1			
+CHIGKPEB_00798	CDS	1698	secA1			Protein translocase subunit SecA 1
+CHIGKPEB_00799	gene	246				
+CHIGKPEB_00799	CDS	246				hypothetical protein
+CHIGKPEB_00800	gene	660				
+CHIGKPEB_00800	CDS	660				hypothetical protein
+CHIGKPEB_00801	gene	1221				
+CHIGKPEB_00801	CDS	1221				hypothetical protein
+CHIGKPEB_00802	gene	642				
+CHIGKPEB_00802	CDS	642				hypothetical protein
+CHIGKPEB_00803	gene	600				
+CHIGKPEB_00803	CDS	600				hypothetical protein
+CHIGKPEB_00804	gene	672				
+CHIGKPEB_00804	CDS	672				hypothetical protein
+CHIGKPEB_00805	gene	981				
+CHIGKPEB_00805	CDS	981				hypothetical protein
+CHIGKPEB_00806	gene	441				
+CHIGKPEB_00806	CDS	441				hypothetical protein
+CHIGKPEB_00807	gene	1524	cysG			
+CHIGKPEB_00807	CDS	1524	cysG	4.99.1.4		Siroheme synthase
+CHIGKPEB_00808	gene	660	hemC			
+CHIGKPEB_00808	CDS	660	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+CHIGKPEB_00809	gene	561				
+CHIGKPEB_00809	CDS	561				hypothetical protein
+CHIGKPEB_00810	gene	549	chrA1			
+CHIGKPEB_00810	CDS	549	chrA1			Chromate transport protein
+CHIGKPEB_00811	gene	189				
+CHIGKPEB_00811	CDS	189				Rubredoxin
+CHIGKPEB_00812	gene	711	dhaD			
+CHIGKPEB_00812	CDS	711	dhaD	1.1.1.6		Glycerol dehydrogenase
+CHIGKPEB_00813	gene	1506	speA			
+CHIGKPEB_00813	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+CHIGKPEB_00814	gene	90				
+CHIGKPEB_00814	rRNA	90				5S ribosomal RNA (partial)
+CHIGKPEB_00815	gene	1695	pgcA			
+CHIGKPEB_00815	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+CHIGKPEB_00816	gene	813				
+CHIGKPEB_00816	CDS	813				hypothetical protein
+CHIGKPEB_00817	gene	168				
+CHIGKPEB_00817	CDS	168				hypothetical protein
+CHIGKPEB_00818	gene	711				
+CHIGKPEB_00818	CDS	711				hypothetical protein
+CHIGKPEB_00819	gene	582				
+CHIGKPEB_00819	CDS	582				hypothetical protein
+CHIGKPEB_00820	gene	1422	pqqE			
+CHIGKPEB_00820	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+CHIGKPEB_00821	gene	510	ftnA			
+CHIGKPEB_00821	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+CHIGKPEB_00822	gene	1014	gloB_1			
+CHIGKPEB_00822	CDS	1014	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+CHIGKPEB_00823	gene	687	ydiF			
+CHIGKPEB_00823	CDS	687	ydiF	2.8.3.8	COG4670	Acetate CoA-transferase YdiF
+CHIGKPEB_00824	gene	852	cdaA			
+CHIGKPEB_00824	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+CHIGKPEB_00825	gene	76				
+CHIGKPEB_00825	tRNA	76				tRNA-Pyl(cta)
+CHIGKPEB_00826	gene	75				
+CHIGKPEB_00826	tRNA	75				tRNA-Gly(gcc)
+CHIGKPEB_00827	gene	77				
+CHIGKPEB_00827	tRNA	77				tRNA-Asp(gtc)
+CHIGKPEB_00828	gene	76				
+CHIGKPEB_00828	tRNA	76				tRNA-Val(tac)
+CHIGKPEB_00829	gene	74				
+CHIGKPEB_00829	tRNA	74				tRNA-Glu(ttc)
+CHIGKPEB_00830	gene	76				
+CHIGKPEB_00830	tRNA	76				tRNA-Met(cat)
+CHIGKPEB_00831	gene	75				
+CHIGKPEB_00831	tRNA	75				tRNA-Asn(gtt)
+CHIGKPEB_00832	gene	1305				
+CHIGKPEB_00832	CDS	1305				hypothetical protein
+CHIGKPEB_00833	gene	645	glgP			
+CHIGKPEB_00833	CDS	645	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+CHIGKPEB_00834	gene	1077	glgA			
+CHIGKPEB_00834	CDS	1077	glgA	2.4.1.21	COG0297	Glycogen synthase
+CHIGKPEB_00835	gene	492				
+CHIGKPEB_00835	CDS	492				hypothetical protein
+CHIGKPEB_00836	gene	663	wecA			
+CHIGKPEB_00836	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+CHIGKPEB_00837	gene	780	tuaG			
+CHIGKPEB_00837	CDS	780	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+CHIGKPEB_00838	gene	387	asnA			
+CHIGKPEB_00838	CDS	387	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+CHIGKPEB_00839	gene	531	hpt_2			
+CHIGKPEB_00839	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+CHIGKPEB_00840	gene	795				
+CHIGKPEB_00840	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+CHIGKPEB_00841	gene	417	yqeN			
+CHIGKPEB_00841	CDS	417	yqeN		COG1466	putative protein YqeN
+CHIGKPEB_00842	gene	687	graR			
+CHIGKPEB_00842	CDS	687	graR		COG0745	Response regulator protein GraR
+CHIGKPEB_00843	gene	990	graS			
+CHIGKPEB_00843	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+CHIGKPEB_00844	gene	477	purE			
+CHIGKPEB_00844	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+CHIGKPEB_00845	gene	1191				
+CHIGKPEB_00845	CDS	1191				hypothetical protein
+CHIGKPEB_00846	gene	483				
+CHIGKPEB_00846	CDS	483				hypothetical protein
+CHIGKPEB_00847	gene	357	rplS			
+CHIGKPEB_00847	CDS	357	rplS		COG0335	50S ribosomal protein L19
+CHIGKPEB_00848	gene	885	rbgA			
+CHIGKPEB_00848	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+CHIGKPEB_00849	gene	171				
+CHIGKPEB_00849	CDS	171				hypothetical protein
+CHIGKPEB_00850	gene	966	mraY			
+CHIGKPEB_00850	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+CHIGKPEB_00851	gene	1230				
+CHIGKPEB_00851	CDS	1230				hypothetical protein
+CHIGKPEB_00852	gene	762				
+CHIGKPEB_00852	CDS	762				hypothetical protein
+CHIGKPEB_00853	gene	1380	dxs			
+CHIGKPEB_00853	CDS	1380	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+CHIGKPEB_00854	gene	843	tlyA			
+CHIGKPEB_00854	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+CHIGKPEB_00855	gene	1134	groL			
+CHIGKPEB_00855	CDS	1134	groL		COG0459	60 kDa chaperonin
+CHIGKPEB_00856	gene	339				
+CHIGKPEB_00856	CDS	339				hypothetical protein
+CHIGKPEB_00857	gene	540	folT			
+CHIGKPEB_00857	CDS	540	folT			Folate transporter FolT
+CHIGKPEB_00858	gene	141				
+CHIGKPEB_00858	CDS	141				hypothetical protein
+CHIGKPEB_00859	gene	849				
+CHIGKPEB_00859	CDS	849				DegV domain-containing protein
+CHIGKPEB_00860	gene	819				
+CHIGKPEB_00860	CDS	819				hypothetical protein
+CHIGKPEB_00861	gene	1293				
+CHIGKPEB_00861	CDS	1293				hypothetical protein
+CHIGKPEB_00862	gene	282				
+CHIGKPEB_00862	CDS	282				hypothetical protein
+CHIGKPEB_00863	gene	576	mrdB			
+CHIGKPEB_00863	CDS	576	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+CHIGKPEB_00864	gene	900				
+CHIGKPEB_00864	CDS	900				hypothetical protein
+CHIGKPEB_00865	gene	1320				
+CHIGKPEB_00865	CDS	1320				hypothetical protein
+CHIGKPEB_00866	gene	1452				
+CHIGKPEB_00866	CDS	1452				hypothetical protein
+CHIGKPEB_00867	gene	255				
+CHIGKPEB_00867	CDS	255				hypothetical protein
+CHIGKPEB_00868	gene	822	melC			
+CHIGKPEB_00868	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+CHIGKPEB_00869	gene	774				
+CHIGKPEB_00869	CDS	774				hypothetical protein
+CHIGKPEB_00870	gene	675				
+CHIGKPEB_00870	CDS	675				hypothetical protein
+CHIGKPEB_00871	gene	1146				
+CHIGKPEB_00871	CDS	1146				hypothetical protein
+CHIGKPEB_00872	gene	735				
+CHIGKPEB_00872	CDS	735				hypothetical protein
+CHIGKPEB_00873	gene	873	rhaR_2			
+CHIGKPEB_00873	CDS	873	rhaR_2			HTH-type transcriptional activator RhaR
+CHIGKPEB_00874	gene	969	bioB_2			
+CHIGKPEB_00874	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+CHIGKPEB_00875	gene	522	dcd			
+CHIGKPEB_00875	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+CHIGKPEB_00876	gene	981	recF			
+CHIGKPEB_00876	CDS	981	recF		COG1195	DNA replication and repair protein RecF
+CHIGKPEB_00877	gene	897	gloB_2			
+CHIGKPEB_00877	CDS	897	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+CHIGKPEB_00878	gene	786				
+CHIGKPEB_00878	CDS	786				hypothetical protein
+CHIGKPEB_00879	gene	258				
+CHIGKPEB_00879	CDS	258				hypothetical protein
+CHIGKPEB_00880	gene	810	apbC			
+CHIGKPEB_00880	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+CHIGKPEB_00881	gene	276				
+CHIGKPEB_00881	CDS	276		3.5.4.40	COG1816	Aminodeoxyfutalosine deaminase
+CHIGKPEB_00882	gene	1122				
+CHIGKPEB_00882	CDS	1122				hypothetical protein
+CHIGKPEB_00883	gene	750	tagF			
+CHIGKPEB_00883	CDS	750	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+CHIGKPEB_00884	gene	996	argH_2			
+CHIGKPEB_00884	CDS	996	argH_2	4.3.2.1		Argininosuccinate lyase
+CHIGKPEB_00885	gene	456				
+CHIGKPEB_00885	CDS	456				hypothetical protein
+CHIGKPEB_00886	gene	1326				
+CHIGKPEB_00886	CDS	1326				hypothetical protein
+CHIGKPEB_00887	gene	1308				
+CHIGKPEB_00887	CDS	1308				hypothetical protein
+CHIGKPEB_00888	gene	282				
+CHIGKPEB_00888	CDS	282				hypothetical protein
+CHIGKPEB_00889	gene	189				
+CHIGKPEB_00889	CDS	189				hypothetical protein
+CHIGKPEB_00890	gene	687	arnC			
+CHIGKPEB_00890	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+CHIGKPEB_00891	gene	780				
+CHIGKPEB_00891	CDS	780				hypothetical protein
+CHIGKPEB_00892	gene	1122				
+CHIGKPEB_00892	CDS	1122				hypothetical protein
+CHIGKPEB_00893	gene	456	recN			
+CHIGKPEB_00893	CDS	456	recN		COG0497	DNA repair protein RecN
+CHIGKPEB_00894	gene	414				
+CHIGKPEB_00894	CDS	414				hypothetical protein
+CHIGKPEB_00895	gene	207				
+CHIGKPEB_00895	CDS	207				hypothetical protein
+CHIGKPEB_00896	gene	1128				
+CHIGKPEB_00896	CDS	1128				hypothetical protein
+CHIGKPEB_00897	gene	264	ptsH			
+CHIGKPEB_00897	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+CHIGKPEB_00898	gene	363	cbiT			
+CHIGKPEB_00898	CDS	363	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+CHIGKPEB_00899	gene	759	cbiF			
+CHIGKPEB_00899	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+CHIGKPEB_00900	gene	576				
+CHIGKPEB_00900	CDS	576				hypothetical protein
+CHIGKPEB_00901	gene	594				
+CHIGKPEB_00901	CDS	594				hypothetical protein
+CHIGKPEB_00902	gene	771				
+CHIGKPEB_00902	CDS	771				hypothetical protein
+CHIGKPEB_00903	gene	1278				
+CHIGKPEB_00903	CDS	1278				hypothetical protein
+CHIGKPEB_00904	gene	507				
+CHIGKPEB_00904	CDS	507				hypothetical protein
+CHIGKPEB_00905	gene	1137				
+CHIGKPEB_00905	CDS	1137				TelA-like protein
+CHIGKPEB_00906	gene	1236	comEC			
+CHIGKPEB_00906	CDS	1236	comEC		COG0658	ComE operon protein 3
+CHIGKPEB_00907	gene	264	veg			
+CHIGKPEB_00907	CDS	264	veg		COG4466	Protein Veg
+CHIGKPEB_00908	gene	495				
+CHIGKPEB_00908	CDS	495				hypothetical protein
+CHIGKPEB_00909	gene	711				
+CHIGKPEB_00909	CDS	711				hypothetical protein
+CHIGKPEB_00910	gene	85				
+CHIGKPEB_00910	tRNA	85				tRNA-Leu(caa)
+CHIGKPEB_00911	gene	387				
+CHIGKPEB_00911	CDS	387				hypothetical protein
+CHIGKPEB_00912	gene	441				
+CHIGKPEB_00912	CDS	441				hypothetical protein
+CHIGKPEB_00913	gene	414				
+CHIGKPEB_00913	CDS	414				hypothetical protein
+CHIGKPEB_00914	gene	225				
+CHIGKPEB_00914	CDS	225				hypothetical protein
+CHIGKPEB_00915	gene	228				
+CHIGKPEB_00915	CDS	228				hypothetical protein
+CHIGKPEB_00916	gene	147				
+CHIGKPEB_00916	CDS	147				hypothetical protein
+CHIGKPEB_00917	gene	372				
+CHIGKPEB_00917	CDS	372				hypothetical protein
+CHIGKPEB_00918	gene	993				
+CHIGKPEB_00918	CDS	993				hypothetical protein
+CHIGKPEB_00919	gene	897	algC			
+CHIGKPEB_00919	CDS	897	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+CHIGKPEB_00920	gene	603	maf			
+CHIGKPEB_00920	CDS	603	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+CHIGKPEB_00921	gene	297				
+CHIGKPEB_00921	CDS	297				hypothetical protein
+CHIGKPEB_00922	gene	1515				
+CHIGKPEB_00922	CDS	1515				hypothetical protein
+CHIGKPEB_00923	gene	261	murAA			
+CHIGKPEB_00923	CDS	261	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+CHIGKPEB_00924	gene	1011	mreB_2			
+CHIGKPEB_00924	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+CHIGKPEB_00925	gene	1017	plsX			
+CHIGKPEB_00925	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+CHIGKPEB_00926	gene	654	metP			
+CHIGKPEB_00926	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+CHIGKPEB_00927	gene	825	metQ			
+CHIGKPEB_00927	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+CHIGKPEB_00928	gene	192				
+CHIGKPEB_00928	CDS	192				hypothetical protein
+CHIGKPEB_00929	gene	1062				
+CHIGKPEB_00929	CDS	1062				hypothetical protein
+CHIGKPEB_00930	gene	327				
+CHIGKPEB_00930	CDS	327				hypothetical protein
+CHIGKPEB_00931	gene	1422	purF			
+CHIGKPEB_00931	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+CHIGKPEB_00932	gene	318	trkI			
+CHIGKPEB_00932	CDS	318	trkI		COG0168	Trk system potassium uptake protein TrkI
+CHIGKPEB_00933	gene	873	roo			
+CHIGKPEB_00933	CDS	873	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+CHIGKPEB_00934	gene	462	dut			
+CHIGKPEB_00934	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+CHIGKPEB_00935	gene	852				
+CHIGKPEB_00935	CDS	852				hypothetical protein
+CHIGKPEB_00936	gene	372				
+CHIGKPEB_00936	CDS	372				hypothetical protein
+CHIGKPEB_00937	gene	1479				
+CHIGKPEB_00937	CDS	1479				hypothetical protein
+CHIGKPEB_00938	gene	222				
+CHIGKPEB_00938	CDS	222				Nucleotide-binding protein
+CHIGKPEB_00939	gene	1146				
+CHIGKPEB_00939	CDS	1146			COG0391	Gluconeogenesis factor
+CHIGKPEB_00940	gene	417	ndx1			
+CHIGKPEB_00940	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+CHIGKPEB_00941	gene	777	codY			
+CHIGKPEB_00941	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+CHIGKPEB_00942	gene	738	artJ			
+CHIGKPEB_00942	CDS	738	artJ		COG0834	ABC transporter arginine-binding protein 1
+CHIGKPEB_00943	gene	618	artQ_2			
+CHIGKPEB_00943	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+CHIGKPEB_00944	gene	1305	thiC			
+CHIGKPEB_00944	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+CHIGKPEB_00945	gene	1290	nadB			
+CHIGKPEB_00945	CDS	1290	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+CHIGKPEB_00946	gene	456				
+CHIGKPEB_00946	CDS	456				hypothetical protein
+CHIGKPEB_00947	gene	984	ychF			
+CHIGKPEB_00947	CDS	984	ychF		COG0012	Ribosome-binding ATPase YchF
+CHIGKPEB_00948	gene	654	macB			
+CHIGKPEB_00948	CDS	654	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+CHIGKPEB_00949	gene	282				
+CHIGKPEB_00949	CDS	282				hypothetical protein
+CHIGKPEB_00950	gene	1374	ubiB			
+CHIGKPEB_00950	CDS	1374	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+CHIGKPEB_00951	gene	570				
+CHIGKPEB_00951	CDS	570				hypothetical protein
+CHIGKPEB_00952	gene	786	dinB			
+CHIGKPEB_00952	CDS	786	dinB	2.7.7.7		DNA polymerase IV
+CHIGKPEB_00953	gene	342				
+CHIGKPEB_00953	CDS	342				putative protein
+CHIGKPEB_00954	gene	495	nusB			
+CHIGKPEB_00954	CDS	495	nusB			Transcription antitermination protein NusB
+CHIGKPEB_00955	gene	672	regX3			
+CHIGKPEB_00955	CDS	672	regX3		COG0745	Sensory transduction protein regX3
+CHIGKPEB_00956	gene	603				
+CHIGKPEB_00956	CDS	603				hypothetical protein
+CHIGKPEB_00957	gene	912	fruA			
+CHIGKPEB_00957	CDS	912	fruA		COG1299	PTS system fructose-specific EIIABC component
+CHIGKPEB_00958	gene	246				
+CHIGKPEB_00958	CDS	246				hypothetical protein
+CHIGKPEB_00959	gene	279				
+CHIGKPEB_00959	CDS	279				hypothetical protein
+CHIGKPEB_00960	gene	462	mutX			
+CHIGKPEB_00960	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+CHIGKPEB_00961	gene	507	tpx			
+CHIGKPEB_00961	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+CHIGKPEB_00962	gene	465				
+CHIGKPEB_00962	CDS	465				hypothetical protein
+CHIGKPEB_00963	gene	1758				
+CHIGKPEB_00963	CDS	1758			COG1132	putative ABC transporter ATP-binding protein
+CHIGKPEB_00964	gene	1062				
+CHIGKPEB_00964	CDS	1062				hypothetical protein
+CHIGKPEB_00965	gene	318				
+CHIGKPEB_00965	CDS	318				hypothetical protein
+CHIGKPEB_00966	gene	333				
+CHIGKPEB_00966	CDS	333				hypothetical protein
+CHIGKPEB_00967	gene	378				
+CHIGKPEB_00967	CDS	378				hypothetical protein
+CHIGKPEB_00968	gene	549				
+CHIGKPEB_00968	CDS	549				hypothetical protein
+CHIGKPEB_00969	gene	630	addA			
+CHIGKPEB_00969	CDS	630	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+CHIGKPEB_00970	gene	324	glgC			
+CHIGKPEB_00970	CDS	324	glgC	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+CHIGKPEB_00971	gene	1107	glgD			
+CHIGKPEB_00971	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+CHIGKPEB_00972	gene	561	rsmH			
+CHIGKPEB_00972	CDS	561	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+CHIGKPEB_00973	gene	72				
+CHIGKPEB_00973	tRNA	72				tRNA-Glu(ctc)
+CHIGKPEB_00974	gene	74				
+CHIGKPEB_00974	tRNA	74				tRNA-Gly(tcc)
+CHIGKPEB_00975	gene	177				
+CHIGKPEB_00975	CDS	177				hypothetical protein
+CHIGKPEB_00976	gene	843				
+CHIGKPEB_00976	CDS	843				hypothetical protein
+CHIGKPEB_00977	gene	600	fbpC			
+CHIGKPEB_00977	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+CHIGKPEB_00978	gene	810	ecfT			
+CHIGKPEB_00978	CDS	810	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+CHIGKPEB_00979	gene	876	ecfA2			
+CHIGKPEB_00979	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+CHIGKPEB_00980	gene	318	erpA			
+CHIGKPEB_00980	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+CHIGKPEB_00981	gene	504	nrdG			
+CHIGKPEB_00981	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+CHIGKPEB_00982	gene	333	glmM			
+CHIGKPEB_00982	CDS	333	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+CHIGKPEB_00983	gene	177				
+CHIGKPEB_00983	CDS	177				hypothetical protein
+CHIGKPEB_00984	gene	342				
+CHIGKPEB_00984	CDS	342				hypothetical protein
+CHIGKPEB_00985	gene	555				
+CHIGKPEB_00985	CDS	555		3.1.3.-	COG5663	Nucleotidase
+CHIGKPEB_00986	gene	276	yjcD			
+CHIGKPEB_00986	CDS	276	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+CHIGKPEB_00987	gene	885				
+CHIGKPEB_00987	CDS	885				hypothetical protein
+CHIGKPEB_00988	gene	360	pdxS			
+CHIGKPEB_00988	CDS	360	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+CHIGKPEB_00989	gene	537				
+CHIGKPEB_00989	CDS	537				hypothetical protein
+CHIGKPEB_00990	gene	270				
+CHIGKPEB_00990	CDS	270				hypothetical protein
+CHIGKPEB_00991	gene	831	artP			
+CHIGKPEB_00991	CDS	831	artP		COG0834	Arginine-binding extracellular protein ArtP
+CHIGKPEB_00992	gene	777	yjjP			
+CHIGKPEB_00992	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+CHIGKPEB_00993	gene	846	hflX			
+CHIGKPEB_00993	CDS	846	hflX		COG2262	GTPase HflX
+CHIGKPEB_00994	gene	465				
+CHIGKPEB_00994	CDS	465				hypothetical protein
+CHIGKPEB_00995	gene	1446	proS			
+CHIGKPEB_00995	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+CHIGKPEB_00996	gene	837				
+CHIGKPEB_00996	CDS	837				hypothetical protein
+CHIGKPEB_00997	gene	297				
+CHIGKPEB_00997	CDS	297				hypothetical protein
+CHIGKPEB_00998	gene	555	ybiT_2			
+CHIGKPEB_00998	CDS	555	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+CHIGKPEB_00999	gene	1161				
+CHIGKPEB_00999	CDS	1161				hypothetical protein
+CHIGKPEB_01000	gene	522	apt			
+CHIGKPEB_01000	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+CHIGKPEB_01001	gene	747				
+CHIGKPEB_01001	CDS	747				hypothetical protein
+CHIGKPEB_01002	gene	1032	dnaG			
+CHIGKPEB_01002	CDS	1032	dnaG	2.7.7.-		DNA primase
+CHIGKPEB_01003	gene	123				
+CHIGKPEB_01003	CDS	123				hypothetical protein
+CHIGKPEB_01004	gene	636	rex1			
+CHIGKPEB_01004	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+CHIGKPEB_01005	gene	324				
+CHIGKPEB_01005	CDS	324				hypothetical protein
+CHIGKPEB_01006	gene	546				
+CHIGKPEB_01006	CDS	546				hypothetical protein
+CHIGKPEB_01007	gene	510	folA			
+CHIGKPEB_01007	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+CHIGKPEB_01008	gene	717	thyA			
+CHIGKPEB_01008	CDS	717	thyA	2.1.1.45	COG0207	Thymidylate synthase
+CHIGKPEB_01009	gene	642				
+CHIGKPEB_01009	CDS	642				hypothetical protein

@@ -1,0 +1,2339 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CEPAIKFI_00001	gene	546	ispD			
+CEPAIKFI_00001	CDS	546	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+CEPAIKFI_00002	gene	474	ispF			
+CEPAIKFI_00002	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+CEPAIKFI_00003	gene	1281	ugd			
+CEPAIKFI_00003	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+CEPAIKFI_00004	gene	423	rpsL			
+CEPAIKFI_00004	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+CEPAIKFI_00005	gene	471	rpsG			
+CEPAIKFI_00005	CDS	471	rpsG			30S ribosomal protein S7
+CEPAIKFI_00006	gene	2067	fusA_1			
+CEPAIKFI_00006	CDS	2067	fusA_1		COG0480	Elongation factor G
+CEPAIKFI_00007	gene	1194	tuf			
+CEPAIKFI_00007	CDS	1194	tuf		COG0050	Elongation factor Tu
+CEPAIKFI_00008	gene	828	exoA			
+CEPAIKFI_00008	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+CEPAIKFI_00009	gene	654				
+CEPAIKFI_00009	CDS	654				hypothetical protein
+CEPAIKFI_00010	gene	1206	lysC			
+CEPAIKFI_00010	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+CEPAIKFI_00011	gene	984	asd			
+CEPAIKFI_00011	CDS	984	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+CEPAIKFI_00012	gene	900	dapA_1			
+CEPAIKFI_00012	CDS	900	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CEPAIKFI_00013	gene	732	dapB			
+CEPAIKFI_00013	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+CEPAIKFI_00014	gene	720	dapH			
+CEPAIKFI_00014	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+CEPAIKFI_00015	gene	1152	scmP			
+CEPAIKFI_00015	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+CEPAIKFI_00016	gene	1788	pepF1			
+CEPAIKFI_00016	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+CEPAIKFI_00017	gene	147				
+CEPAIKFI_00017	CDS	147				hypothetical protein
+CEPAIKFI_00018	gene	1506	glpK			
+CEPAIKFI_00018	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+CEPAIKFI_00019	gene	291				
+CEPAIKFI_00019	CDS	291				hypothetical protein
+CEPAIKFI_00020	gene	708	ytrE_1			
+CEPAIKFI_00020	CDS	708	ytrE_1		COG1136	ABC transporter ATP-binding protein YtrE
+CEPAIKFI_00021	gene	2481				
+CEPAIKFI_00021	CDS	2481				hypothetical protein
+CEPAIKFI_00022	gene	477	purE			
+CEPAIKFI_00022	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+CEPAIKFI_00023	gene	1077	purM			
+CEPAIKFI_00023	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+CEPAIKFI_00024	gene	594	purN			
+CEPAIKFI_00024	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+CEPAIKFI_00025	gene	1533	purH			
+CEPAIKFI_00025	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+CEPAIKFI_00026	gene	1269	purD			
+CEPAIKFI_00026	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+CEPAIKFI_00027	gene	1551	ybiT			
+CEPAIKFI_00027	CDS	1551	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+CEPAIKFI_00028	gene	1551	rsxB_1			
+CEPAIKFI_00028	CDS	1551	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CEPAIKFI_00029	gene	2652	valS			
+CEPAIKFI_00029	CDS	2652	valS	6.1.1.9		Valine--tRNA ligase
+CEPAIKFI_00030	gene	678	purC			
+CEPAIKFI_00030	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CEPAIKFI_00031	gene	1431	pepD_1			
+CEPAIKFI_00031	CDS	1431	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+CEPAIKFI_00032	gene	1413	fpgS			
+CEPAIKFI_00032	CDS	1413	fpgS	6.3.2.17		Folylpolyglutamate synthase
+CEPAIKFI_00033	gene	741	mta			
+CEPAIKFI_00033	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+CEPAIKFI_00034	gene	270				
+CEPAIKFI_00034	CDS	270				hypothetical protein
+CEPAIKFI_00035	gene	2589	clpB			
+CEPAIKFI_00035	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+CEPAIKFI_00036	gene	1296	brnQ_1			
+CEPAIKFI_00036	CDS	1296	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+CEPAIKFI_00037	gene	354				
+CEPAIKFI_00037	CDS	354				hypothetical protein
+CEPAIKFI_00038	gene	969	metN_1			
+CEPAIKFI_00038	CDS	969	metN_1	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+CEPAIKFI_00039	gene	654	metP			
+CEPAIKFI_00039	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+CEPAIKFI_00040	gene	825	metQ			
+CEPAIKFI_00040	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+CEPAIKFI_00041	gene	471				
+CEPAIKFI_00041	CDS	471				hypothetical protein
+CEPAIKFI_00042	gene	1059				
+CEPAIKFI_00042	CDS	1059				hypothetical protein
+CEPAIKFI_00043	gene	951				
+CEPAIKFI_00043	CDS	951				hypothetical protein
+CEPAIKFI_00044	gene	507				
+CEPAIKFI_00044	CDS	507				hypothetical protein
+CEPAIKFI_00045	gene	426	pgcA			
+CEPAIKFI_00045	CDS	426	pgcA	5.4.2.2		Phosphoglucomutase
+CEPAIKFI_00046	gene	561	efp			
+CEPAIKFI_00046	CDS	561	efp		COG0231	Elongation factor P
+CEPAIKFI_00047	gene	708	rnc			
+CEPAIKFI_00047	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+CEPAIKFI_00048	gene	1071				
+CEPAIKFI_00048	CDS	1071				hypothetical protein
+CEPAIKFI_00049	gene	3552	smc			
+CEPAIKFI_00049	CDS	3552	smc		COG1196	Chromosome partition protein Smc
+CEPAIKFI_00050	gene	1296	ftsY			
+CEPAIKFI_00050	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+CEPAIKFI_00051	gene	2574				
+CEPAIKFI_00051	CDS	2574				hypothetical protein
+CEPAIKFI_00052	gene	468				
+CEPAIKFI_00052	CDS	468				hypothetical protein
+CEPAIKFI_00053	gene	600	fbpC			
+CEPAIKFI_00053	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+CEPAIKFI_00054	gene	420				
+CEPAIKFI_00054	CDS	420				hypothetical protein
+CEPAIKFI_00055	gene	1062	lytC_1			
+CEPAIKFI_00055	CDS	1062	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CEPAIKFI_00056	gene	1203	roo			
+CEPAIKFI_00056	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+CEPAIKFI_00057	gene	462	dut			
+CEPAIKFI_00057	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+CEPAIKFI_00058	gene	909	nadA			
+CEPAIKFI_00058	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+CEPAIKFI_00059	gene	1311	nadB			
+CEPAIKFI_00059	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+CEPAIKFI_00060	gene	849	nadC			
+CEPAIKFI_00060	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+CEPAIKFI_00061	gene	1251	dinB			
+CEPAIKFI_00061	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+CEPAIKFI_00062	gene	465	cymR			
+CEPAIKFI_00062	CDS	465	cymR			HTH-type transcriptional regulator CymR
+CEPAIKFI_00063	gene	1272	rarA			
+CEPAIKFI_00063	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+CEPAIKFI_00064	gene	777	codY			
+CEPAIKFI_00064	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+CEPAIKFI_00065	gene	2082	topA			
+CEPAIKFI_00065	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+CEPAIKFI_00066	gene	1257				
+CEPAIKFI_00066	CDS	1257				hypothetical protein
+CEPAIKFI_00067	gene	1623	comM			
+CEPAIKFI_00067	CDS	1623	comM		COG0606	Competence protein ComM
+CEPAIKFI_00068	gene	363				
+CEPAIKFI_00068	CDS	363				hypothetical protein
+CEPAIKFI_00069	gene	1017	hmo_1			
+CEPAIKFI_00069	CDS	1017	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+CEPAIKFI_00070	gene	246				
+CEPAIKFI_00070	CDS	246				hypothetical protein
+CEPAIKFI_00071	gene	864	gloB_1			
+CEPAIKFI_00071	CDS	864	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+CEPAIKFI_00072	gene	402				
+CEPAIKFI_00072	CDS	402				hypothetical protein
+CEPAIKFI_00073	gene	882				
+CEPAIKFI_00073	CDS	882		3.2.1.-		Protein-ADP-ribose hydrolase
+CEPAIKFI_00074	gene	1161	resA			
+CEPAIKFI_00074	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+CEPAIKFI_00075	gene	153				
+CEPAIKFI_00075	CDS	153				hypothetical protein
+CEPAIKFI_00076	gene	891				
+CEPAIKFI_00076	CDS	891				hypothetical protein
+CEPAIKFI_00077	gene	1278				
+CEPAIKFI_00077	CDS	1278				hypothetical protein
+CEPAIKFI_00078	gene	645				
+CEPAIKFI_00078	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+CEPAIKFI_00079	gene	1377				
+CEPAIKFI_00079	CDS	1377				hypothetical protein
+CEPAIKFI_00080	gene	498				
+CEPAIKFI_00080	CDS	498				hypothetical protein
+CEPAIKFI_00081	gene	297				
+CEPAIKFI_00081	CDS	297				hypothetical protein
+CEPAIKFI_00082	gene	1506				
+CEPAIKFI_00082	CDS	1506				hypothetical protein
+CEPAIKFI_00083	gene	399	ssb			
+CEPAIKFI_00083	CDS	399	ssb		COG0629	Single-stranded DNA-binding protein
+CEPAIKFI_00084	gene	729				
+CEPAIKFI_00084	CDS	729				hypothetical protein
+CEPAIKFI_00085	gene	261				
+CEPAIKFI_00085	CDS	261				hypothetical protein
+CEPAIKFI_00086	gene	486				
+CEPAIKFI_00086	CDS	486				hypothetical protein
+CEPAIKFI_00087	gene	198				
+CEPAIKFI_00087	CDS	198				hypothetical protein
+CEPAIKFI_00088	gene	753				
+CEPAIKFI_00088	CDS	753				hypothetical protein
+CEPAIKFI_00089	gene	258				
+CEPAIKFI_00089	CDS	258				hypothetical protein
+CEPAIKFI_00090	gene	207				
+CEPAIKFI_00090	CDS	207				hypothetical protein
+CEPAIKFI_00091	gene	408				
+CEPAIKFI_00091	CDS	408				hypothetical protein
+CEPAIKFI_00092	gene	687	dnaA_1			
+CEPAIKFI_00092	CDS	687	dnaA_1			Chromosomal replication initiator protein DnaA
+CEPAIKFI_00093	gene	843				
+CEPAIKFI_00093	CDS	843				hypothetical protein
+CEPAIKFI_00094	gene	165				
+CEPAIKFI_00094	CDS	165				hypothetical protein
+CEPAIKFI_00095	gene	639				
+CEPAIKFI_00095	CDS	639				hypothetical protein
+CEPAIKFI_00096	gene	522				
+CEPAIKFI_00096	CDS	522				hypothetical protein
+CEPAIKFI_00097	gene	189				
+CEPAIKFI_00097	CDS	189				hypothetical protein
+CEPAIKFI_00098	gene	1362	gabR			
+CEPAIKFI_00098	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+CEPAIKFI_00099	gene	300				
+CEPAIKFI_00099	CDS	300				hypothetical protein
+CEPAIKFI_00100	gene	1173				
+CEPAIKFI_00100	CDS	1173				hypothetical protein
+CEPAIKFI_00101	gene	1227	dltD			
+CEPAIKFI_00101	CDS	1227	dltD		COG3966	Protein DltD
+CEPAIKFI_00102	gene	126				
+CEPAIKFI_00102	CDS	126				hypothetical protein
+CEPAIKFI_00103	gene	1599	dltA			
+CEPAIKFI_00103	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+CEPAIKFI_00104	gene	1161				
+CEPAIKFI_00104	CDS	1161				hypothetical protein
+CEPAIKFI_00105	gene	237	dltC			
+CEPAIKFI_00105	CDS	237	dltC		COG0236	D-alanyl carrier protein
+CEPAIKFI_00106	gene	561				
+CEPAIKFI_00106	CDS	561				hypothetical protein
+CEPAIKFI_00107	gene	1101				
+CEPAIKFI_00107	CDS	1101				hypothetical protein
+CEPAIKFI_00108	gene	1851				
+CEPAIKFI_00108	CDS	1851				hypothetical protein
+CEPAIKFI_00109	gene	936	corA			
+CEPAIKFI_00109	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+CEPAIKFI_00110	gene	705				
+CEPAIKFI_00110	CDS	705				hypothetical protein
+CEPAIKFI_00111	gene	1839	typA			
+CEPAIKFI_00111	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+CEPAIKFI_00112	gene	201				
+CEPAIKFI_00112	CDS	201				hypothetical protein
+CEPAIKFI_00113	gene	993				
+CEPAIKFI_00113	CDS	993				hypothetical protein
+CEPAIKFI_00114	gene	681	tgnD			
+CEPAIKFI_00114	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+CEPAIKFI_00115	gene	996	btuD			
+CEPAIKFI_00115	CDS	996	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CEPAIKFI_00116	gene	696	ureG			
+CEPAIKFI_00116	CDS	696	ureG			Urease accessory protein UreG
+CEPAIKFI_00117	gene	1227				
+CEPAIKFI_00117	CDS	1227				hypothetical protein
+CEPAIKFI_00118	gene	1746				
+CEPAIKFI_00118	CDS	1746				hypothetical protein
+CEPAIKFI_00119	gene	810	ecsA			
+CEPAIKFI_00119	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+CEPAIKFI_00120	gene	480	yqgN			
+CEPAIKFI_00120	CDS	480	yqgN		COG0212	putative protein YqgN
+CEPAIKFI_00121	gene	1494				
+CEPAIKFI_00121	CDS	1494				hypothetical protein
+CEPAIKFI_00122	gene	1368	mepA_1			
+CEPAIKFI_00122	CDS	1368	mepA_1			Multidrug export protein MepA
+CEPAIKFI_00123	gene	705				
+CEPAIKFI_00123	CDS	705				hypothetical protein
+CEPAIKFI_00124	gene	777				
+CEPAIKFI_00124	CDS	777				hypothetical protein
+CEPAIKFI_00125	gene	243				
+CEPAIKFI_00125	CDS	243				hypothetical protein
+CEPAIKFI_00126	gene	411				
+CEPAIKFI_00126	CDS	411				hypothetical protein
+CEPAIKFI_00127	gene	750				
+CEPAIKFI_00127	CDS	750				hypothetical protein
+CEPAIKFI_00128	gene	1191				
+CEPAIKFI_00128	CDS	1191				hypothetical protein
+CEPAIKFI_00129	gene	234	exsA			
+CEPAIKFI_00129	CDS	234	exsA		COG2207	Exoenzyme S synthesis regulatory protein ExsA
+CEPAIKFI_00130	gene	1818	uvrC			
+CEPAIKFI_00130	CDS	1818	uvrC		COG0322	UvrABC system protein C
+CEPAIKFI_00131	gene	933	hprK			
+CEPAIKFI_00131	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+CEPAIKFI_00132	gene	921	murB			
+CEPAIKFI_00132	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+CEPAIKFI_00133	gene	738	polX			
+CEPAIKFI_00133	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+CEPAIKFI_00134	gene	864	yvcJ			
+CEPAIKFI_00134	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+CEPAIKFI_00135	gene	1140				
+CEPAIKFI_00135	CDS	1140			COG0391	Gluconeogenesis factor
+CEPAIKFI_00136	gene	417	ndx1			
+CEPAIKFI_00136	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+CEPAIKFI_00137	gene	462	zur			
+CEPAIKFI_00137	CDS	462	zur		COG0735	Zinc uptake regulation protein
+CEPAIKFI_00138	gene	162				
+CEPAIKFI_00138	CDS	162				Rubredoxin
+CEPAIKFI_00139	gene	801	yycJ			
+CEPAIKFI_00139	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+CEPAIKFI_00140	gene	483	rlmH			
+CEPAIKFI_00140	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+CEPAIKFI_00141	gene	1050				
+CEPAIKFI_00141	CDS	1050				hypothetical protein
+CEPAIKFI_00142	gene	990	dnaA_2			
+CEPAIKFI_00142	CDS	990	dnaA_2			Chromosomal replication initiator protein DnaA
+CEPAIKFI_00143	gene	1338	dnaC			
+CEPAIKFI_00143	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+CEPAIKFI_00144	gene	447	rplI			
+CEPAIKFI_00144	CDS	447	rplI			50S ribosomal protein L9
+CEPAIKFI_00145	gene	1428	gdpP			
+CEPAIKFI_00145	CDS	1428	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+CEPAIKFI_00146	gene	939	fabD			
+CEPAIKFI_00146	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+CEPAIKFI_00147	gene	939				
+CEPAIKFI_00147	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+CEPAIKFI_00148	gene	225	acpP			
+CEPAIKFI_00148	CDS	225	acpP		COG0236	Acyl carrier protein
+CEPAIKFI_00149	gene	1017	fabH			
+CEPAIKFI_00149	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+CEPAIKFI_00150	gene	480				
+CEPAIKFI_00150	CDS	480				hypothetical protein
+CEPAIKFI_00151	gene	744	accA			
+CEPAIKFI_00151	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+CEPAIKFI_00152	gene	858	accD			
+CEPAIKFI_00152	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+CEPAIKFI_00153	gene	1425	accC			
+CEPAIKFI_00153	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+CEPAIKFI_00154	gene	531				
+CEPAIKFI_00154	CDS	531				hypothetical protein
+CEPAIKFI_00155	gene	420				
+CEPAIKFI_00155	CDS	420				hypothetical protein
+CEPAIKFI_00156	gene	912	lytC_2			
+CEPAIKFI_00156	CDS	912	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CEPAIKFI_00157	gene	1404	cysS			
+CEPAIKFI_00157	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CEPAIKFI_00158	gene	453	mrnC			
+CEPAIKFI_00158	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+CEPAIKFI_00159	gene	735				
+CEPAIKFI_00159	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+CEPAIKFI_00160	gene	564				
+CEPAIKFI_00160	CDS	564				hypothetical protein
+CEPAIKFI_00161	gene	660	sigH			
+CEPAIKFI_00161	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+CEPAIKFI_00162	gene	264				
+CEPAIKFI_00162	CDS	264				hypothetical protein
+CEPAIKFI_00163	gene	1377				
+CEPAIKFI_00163	CDS	1377				hypothetical protein
+CEPAIKFI_00164	gene	750	cseB			
+CEPAIKFI_00164	CDS	750	cseB		COG0745	Transcriptional regulatory protein CseB
+CEPAIKFI_00165	gene	366				
+CEPAIKFI_00165	CDS	366				hypothetical protein
+CEPAIKFI_00166	gene	1251				
+CEPAIKFI_00166	CDS	1251				hypothetical protein
+CEPAIKFI_00167	gene	177				
+CEPAIKFI_00167	CDS	177				hypothetical protein
+CEPAIKFI_00168	gene	1023	lnpD			
+CEPAIKFI_00168	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+CEPAIKFI_00169	gene	1104				
+CEPAIKFI_00169	CDS	1104				hypothetical protein
+CEPAIKFI_00170	gene	1230				
+CEPAIKFI_00170	CDS	1230				hypothetical protein
+CEPAIKFI_00171	gene	1005	asnA			
+CEPAIKFI_00171	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+CEPAIKFI_00172	gene	531	hpt_1			
+CEPAIKFI_00172	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+CEPAIKFI_00173	gene	795				
+CEPAIKFI_00173	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+CEPAIKFI_00174	gene	981				
+CEPAIKFI_00174	CDS	981				hypothetical protein
+CEPAIKFI_00175	gene	1455				
+CEPAIKFI_00175	CDS	1455				hypothetical protein
+CEPAIKFI_00176	gene	1620				
+CEPAIKFI_00176	CDS	1620				hypothetical protein
+CEPAIKFI_00177	gene	249				
+CEPAIKFI_00177	CDS	249				hypothetical protein
+CEPAIKFI_00178	gene	552				
+CEPAIKFI_00178	CDS	552				hypothetical protein
+CEPAIKFI_00179	gene	954				
+CEPAIKFI_00179	CDS	954				hypothetical protein
+CEPAIKFI_00180	gene	267				
+CEPAIKFI_00180	CDS	267				hypothetical protein
+CEPAIKFI_00181	gene	387				
+CEPAIKFI_00181	CDS	387				hypothetical protein
+CEPAIKFI_00182	gene	408				
+CEPAIKFI_00182	CDS	408				hypothetical protein
+CEPAIKFI_00183	gene	480				
+CEPAIKFI_00183	CDS	480				hypothetical protein
+CEPAIKFI_00184	gene	345				
+CEPAIKFI_00184	CDS	345				hypothetical protein
+CEPAIKFI_00185	gene	630				
+CEPAIKFI_00185	CDS	630				hypothetical protein
+CEPAIKFI_00186	gene	735	fabG			
+CEPAIKFI_00186	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CEPAIKFI_00187	gene	900	rsgA			
+CEPAIKFI_00187	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+CEPAIKFI_00188	gene	657	rpe			
+CEPAIKFI_00188	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+CEPAIKFI_00189	gene	684	thiN			
+CEPAIKFI_00189	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+CEPAIKFI_00190	gene	714	phoP_1			
+CEPAIKFI_00190	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+CEPAIKFI_00191	gene	2358	sasA			
+CEPAIKFI_00191	CDS	2358	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+CEPAIKFI_00192	gene	1077	mepA_2			
+CEPAIKFI_00192	CDS	1077	mepA_2			Multidrug export protein MepA
+CEPAIKFI_00193	gene	1443	priA			
+CEPAIKFI_00193	CDS	1443	priA	3.6.4.-	COG1198	Primosomal protein N'
+CEPAIKFI_00194	gene	456	def1			
+CEPAIKFI_00194	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+CEPAIKFI_00195	gene	930	fmt			
+CEPAIKFI_00195	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+CEPAIKFI_00196	gene	690				
+CEPAIKFI_00196	CDS	690				hypothetical protein
+CEPAIKFI_00197	gene	1344	rsmB			
+CEPAIKFI_00197	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+CEPAIKFI_00198	gene	1038	rlmN			
+CEPAIKFI_00198	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+CEPAIKFI_00199	gene	750	stp			
+CEPAIKFI_00199	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+CEPAIKFI_00200	gene	93				
+CEPAIKFI_00200	CDS	93				hypothetical protein
+CEPAIKFI_00201	gene	642	bcrA			
+CEPAIKFI_00201	CDS	642	bcrA			Bacitracin transport ATP-binding protein BcrA
+CEPAIKFI_00202	gene	576				
+CEPAIKFI_00202	CDS	576				hypothetical protein
+CEPAIKFI_00203	gene	1683	ruvB_1			
+CEPAIKFI_00203	CDS	1683	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+CEPAIKFI_00204	gene	345				
+CEPAIKFI_00204	CDS	345			COG0718	Nucleoid-associated protein
+CEPAIKFI_00205	gene	600	recR			
+CEPAIKFI_00205	CDS	600	recR		COG0353	Recombination protein RecR
+CEPAIKFI_00206	gene	276				
+CEPAIKFI_00206	CDS	276				hypothetical protein
+CEPAIKFI_00207	gene	168				
+CEPAIKFI_00207	CDS	168				hypothetical protein
+CEPAIKFI_00208	gene	1314	ugtP_1			
+CEPAIKFI_00208	CDS	1314	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+CEPAIKFI_00209	gene	72				
+CEPAIKFI_00209	tRNA	72				tRNA-Glu(ctc)
+CEPAIKFI_00210	gene	74				
+CEPAIKFI_00210	tRNA	74				tRNA-Gly(tcc)
+CEPAIKFI_00211	gene	76				
+CEPAIKFI_00211	tRNA	76				tRNA-Val(tac)
+CEPAIKFI_00212	gene	77				
+CEPAIKFI_00212	tRNA	77				tRNA-Asp(gtc)
+CEPAIKFI_00213	gene	75				
+CEPAIKFI_00213	tRNA	75				tRNA-Thr(tgt)
+CEPAIKFI_00214	gene	85				
+CEPAIKFI_00214	tRNA	85				tRNA-Tyr(gta)
+CEPAIKFI_00215	gene	84				
+CEPAIKFI_00215	tRNA	84				tRNA-Leu(tag)
+CEPAIKFI_00216	gene	75				
+CEPAIKFI_00216	tRNA	75				tRNA-Gly(gcc)
+CEPAIKFI_00217	gene	77				
+CEPAIKFI_00217	tRNA	77				tRNA-Pyl(cta)
+CEPAIKFI_00218	gene	75				
+CEPAIKFI_00218	tRNA	75				tRNA-Gln(ctg)
+CEPAIKFI_00219	gene	1149	hemW			
+CEPAIKFI_00219	CDS	1149	hemW		COG0635	Heme chaperone HemW
+CEPAIKFI_00220	gene	861				
+CEPAIKFI_00220	CDS	861				hypothetical protein
+CEPAIKFI_00221	gene	1317	cca			
+CEPAIKFI_00221	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+CEPAIKFI_00222	gene	1806	lepA			
+CEPAIKFI_00222	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+CEPAIKFI_00223	gene	267	rpsT			
+CEPAIKFI_00223	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+CEPAIKFI_00224	gene	120				
+CEPAIKFI_00224	CDS	120				hypothetical protein
+CEPAIKFI_00225	gene	1134				
+CEPAIKFI_00225	CDS	1134				hypothetical protein
+CEPAIKFI_00226	gene	2574				
+CEPAIKFI_00226	CDS	2574				hypothetical protein
+CEPAIKFI_00227	gene	1266				
+CEPAIKFI_00227	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+CEPAIKFI_00228	gene	1725				
+CEPAIKFI_00228	CDS	1725				hypothetical protein
+CEPAIKFI_00229	gene	225				
+CEPAIKFI_00229	CDS	225				hypothetical protein
+CEPAIKFI_00230	gene	1089	pnp			
+CEPAIKFI_00230	CDS	1089	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+CEPAIKFI_00231	gene	1107				
+CEPAIKFI_00231	CDS	1107				hypothetical protein
+CEPAIKFI_00232	gene	1893	lytC_3			
+CEPAIKFI_00232	CDS	1893	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CEPAIKFI_00233	gene	1305				
+CEPAIKFI_00233	CDS	1305				hypothetical protein
+CEPAIKFI_00234	gene	1365				
+CEPAIKFI_00234	CDS	1365				hypothetical protein
+CEPAIKFI_00235	gene	1425	secA1			
+CEPAIKFI_00235	CDS	1425	secA1			Protein translocase subunit SecA 1
+CEPAIKFI_00236	gene	213				
+CEPAIKFI_00236	CDS	213				hypothetical protein
+CEPAIKFI_00237	gene	291				
+CEPAIKFI_00237	CDS	291				hypothetical protein
+CEPAIKFI_00238	gene	627				
+CEPAIKFI_00238	CDS	627				hypothetical protein
+CEPAIKFI_00239	gene	408				
+CEPAIKFI_00239	CDS	408				hypothetical protein
+CEPAIKFI_00240	gene	438	sufU			
+CEPAIKFI_00240	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+CEPAIKFI_00241	gene	1236	csd			
+CEPAIKFI_00241	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+CEPAIKFI_00242	gene	831				
+CEPAIKFI_00242	CDS	831				hypothetical protein
+CEPAIKFI_00243	gene	1425				
+CEPAIKFI_00243	CDS	1425				hypothetical protein
+CEPAIKFI_00244	gene	765	sufC			
+CEPAIKFI_00244	CDS	765	sufC		COG0396	Vegetative protein 296
+CEPAIKFI_00245	gene	549	lytC_4			
+CEPAIKFI_00245	CDS	549	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CEPAIKFI_00246	gene	1473				
+CEPAIKFI_00246	CDS	1473				hypothetical protein
+CEPAIKFI_00247	gene	147				
+CEPAIKFI_00247	CDS	147				hypothetical protein
+CEPAIKFI_00248	gene	228				
+CEPAIKFI_00248	CDS	228				hypothetical protein
+CEPAIKFI_00249	gene	225				
+CEPAIKFI_00249	CDS	225				hypothetical protein
+CEPAIKFI_00250	gene	1239				
+CEPAIKFI_00250	CDS	1239				hypothetical protein
+CEPAIKFI_00251	gene	1677	fhs			
+CEPAIKFI_00251	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+CEPAIKFI_00252	gene	957				
+CEPAIKFI_00252	CDS	957				hypothetical protein
+CEPAIKFI_00253	gene	459				
+CEPAIKFI_00253	CDS	459				hypothetical protein
+CEPAIKFI_00254	gene	837	rsmI			
+CEPAIKFI_00254	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+CEPAIKFI_00255	gene	750	yfiC			
+CEPAIKFI_00255	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+CEPAIKFI_00256	gene	897				
+CEPAIKFI_00256	CDS	897				hypothetical protein
+CEPAIKFI_00257	gene	939				
+CEPAIKFI_00257	CDS	939				hypothetical protein
+CEPAIKFI_00258	gene	702	tmk			
+CEPAIKFI_00258	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+CEPAIKFI_00259	gene	726	speA			
+CEPAIKFI_00259	CDS	726	speA	4.1.1.19	COG1982	Arginine decarboxylase
+CEPAIKFI_00260	gene	1524	cysG_1			
+CEPAIKFI_00260	CDS	1524	cysG_1	4.99.1.4		Siroheme synthase
+CEPAIKFI_00261	gene	933	hemC			
+CEPAIKFI_00261	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+CEPAIKFI_00262	gene	969	bioB			
+CEPAIKFI_00262	CDS	969	bioB	2.8.1.6		Biotin synthase
+CEPAIKFI_00263	gene	522	dcd			
+CEPAIKFI_00263	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+CEPAIKFI_00264	gene	402				
+CEPAIKFI_00264	CDS	402				hypothetical protein
+CEPAIKFI_00265	gene	546				
+CEPAIKFI_00265	CDS	546				hypothetical protein
+CEPAIKFI_00266	gene	324				
+CEPAIKFI_00266	CDS	324				hypothetical protein
+CEPAIKFI_00267	gene	522				
+CEPAIKFI_00267	CDS	522				hypothetical protein
+CEPAIKFI_00268	gene	546				
+CEPAIKFI_00268	CDS	546				hypothetical protein
+CEPAIKFI_00269	gene	888				
+CEPAIKFI_00269	CDS	888				hypothetical protein
+CEPAIKFI_00270	gene	222				
+CEPAIKFI_00270	CDS	222				hypothetical protein
+CEPAIKFI_00271	gene	975				
+CEPAIKFI_00271	CDS	975				hypothetical protein
+CEPAIKFI_00272	gene	1374	moaA_1			
+CEPAIKFI_00272	CDS	1374	moaA_1			GTP 3',8-cyclase
+CEPAIKFI_00273	gene	1668	ubiB			
+CEPAIKFI_00273	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+CEPAIKFI_00274	gene	567				
+CEPAIKFI_00274	CDS	567				hypothetical protein
+CEPAIKFI_00275	gene	804	ywpJ			
+CEPAIKFI_00275	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+CEPAIKFI_00276	gene	1266	cinA			
+CEPAIKFI_00276	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+CEPAIKFI_00277	gene	897	ddl			
+CEPAIKFI_00277	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+CEPAIKFI_00278	gene	2205	srfAB			
+CEPAIKFI_00278	CDS	2205	srfAB			Surfactin synthase subunit 2
+CEPAIKFI_00279	gene	489	ftsH			
+CEPAIKFI_00279	CDS	489	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CEPAIKFI_00280	gene	405				
+CEPAIKFI_00280	CDS	405				hypothetical protein
+CEPAIKFI_00281	gene	756				
+CEPAIKFI_00281	CDS	756				hypothetical protein
+CEPAIKFI_00282	gene	984	birA			
+CEPAIKFI_00282	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+CEPAIKFI_00283	gene	768	coaX			
+CEPAIKFI_00283	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+CEPAIKFI_00284	gene	960	dusB			
+CEPAIKFI_00284	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+CEPAIKFI_00285	gene	1548	carA_1			
+CEPAIKFI_00285	CDS	1548	carA_1	2.8.3.23	COG4670	Caffeate CoA-transferase
+CEPAIKFI_00286	gene	624				
+CEPAIKFI_00286	CDS	624				hypothetical protein
+CEPAIKFI_00287	gene	2646	ppdK			
+CEPAIKFI_00287	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+CEPAIKFI_00288	gene	840	yqfL			
+CEPAIKFI_00288	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+CEPAIKFI_00289	gene	636	ccpN			
+CEPAIKFI_00289	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+CEPAIKFI_00290	gene	771	aviRb			
+CEPAIKFI_00290	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+CEPAIKFI_00291	gene	504	ktrA			
+CEPAIKFI_00291	CDS	504	ktrA		COG0569	Ktr system potassium uptake protein A
+CEPAIKFI_00292	gene	957	miaA			
+CEPAIKFI_00292	CDS	957	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+CEPAIKFI_00293	gene	1275				
+CEPAIKFI_00293	CDS	1275				hypothetical protein
+CEPAIKFI_00294	gene	498	proX			
+CEPAIKFI_00294	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+CEPAIKFI_00295	gene	2121	nrdD			
+CEPAIKFI_00295	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+CEPAIKFI_00296	gene	504	nrdG			
+CEPAIKFI_00296	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+CEPAIKFI_00297	gene	252	thyA			
+CEPAIKFI_00297	CDS	252	thyA	2.1.1.45	COG0207	Thymidylate synthase
+CEPAIKFI_00298	gene	510	folA			
+CEPAIKFI_00298	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+CEPAIKFI_00299	gene	3711				
+CEPAIKFI_00299	CDS	3711				hypothetical protein
+CEPAIKFI_00300	gene	1731				
+CEPAIKFI_00300	CDS	1731				hypothetical protein
+CEPAIKFI_00301	gene	291	cysG_2			
+CEPAIKFI_00301	CDS	291	cysG_2	4.99.1.4		Siroheme synthase
+CEPAIKFI_00302	gene	2364	pcrA			
+CEPAIKFI_00302	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+CEPAIKFI_00303	gene	1428	apeB			
+CEPAIKFI_00303	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+CEPAIKFI_00304	gene	525				
+CEPAIKFI_00304	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+CEPAIKFI_00305	gene	909	ppaC			
+CEPAIKFI_00305	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+CEPAIKFI_00306	gene	1314	hflX			
+CEPAIKFI_00306	CDS	1314	hflX		COG2262	GTPase HflX
+CEPAIKFI_00307	gene	531				
+CEPAIKFI_00307	CDS	531				hypothetical protein
+CEPAIKFI_00308	gene	1260	dacF			
+CEPAIKFI_00308	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+CEPAIKFI_00309	gene	627				
+CEPAIKFI_00309	CDS	627				hypothetical protein
+CEPAIKFI_00310	gene	1638	hcp			
+CEPAIKFI_00310	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+CEPAIKFI_00311	gene	1527	gpmI			
+CEPAIKFI_00311	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+CEPAIKFI_00312	gene	741	tpiA			
+CEPAIKFI_00312	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+CEPAIKFI_00313	gene	1200	pgk			
+CEPAIKFI_00313	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+CEPAIKFI_00314	gene	1008	gap			
+CEPAIKFI_00314	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+CEPAIKFI_00315	gene	1026	cggR			
+CEPAIKFI_00315	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+CEPAIKFI_00316	gene	1212	fldA			
+CEPAIKFI_00316	CDS	1212	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+CEPAIKFI_00317	gene	1182				
+CEPAIKFI_00317	CDS	1182				hypothetical protein
+CEPAIKFI_00318	gene	1671	norR			
+CEPAIKFI_00318	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+CEPAIKFI_00319	gene	1062	secA			
+CEPAIKFI_00319	CDS	1062	secA		COG0653	Protein translocase subunit SecA
+CEPAIKFI_00320	gene	885	pduX			
+CEPAIKFI_00320	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+CEPAIKFI_00321	gene	1092	cobD_1			
+CEPAIKFI_00321	CDS	1092	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+CEPAIKFI_00322	gene	1041	cobD_2			
+CEPAIKFI_00322	CDS	1041	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+CEPAIKFI_00323	gene	1395	cbiA			
+CEPAIKFI_00323	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+CEPAIKFI_00324	gene	1344	cobQ			
+CEPAIKFI_00324	CDS	1344	cobQ			Cobyric acid synthase
+CEPAIKFI_00325	gene	1380	radA			
+CEPAIKFI_00325	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+CEPAIKFI_00326	gene	219				
+CEPAIKFI_00326	CDS	219				hypothetical protein
+CEPAIKFI_00327	gene	1245				
+CEPAIKFI_00327	CDS	1245				hypothetical protein
+CEPAIKFI_00328	gene	999				
+CEPAIKFI_00328	CDS	999				hypothetical protein
+CEPAIKFI_00329	gene	1071				
+CEPAIKFI_00329	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+CEPAIKFI_00330	gene	762	truA			
+CEPAIKFI_00330	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+CEPAIKFI_00331	gene	1827	glmS			
+CEPAIKFI_00331	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+CEPAIKFI_00332	gene	471				
+CEPAIKFI_00332	CDS	471			COG2826	IS30 family transposase ISLjo1
+CEPAIKFI_00333	gene	513	sigM			
+CEPAIKFI_00333	CDS	513	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+CEPAIKFI_00334	gene	1098	ychF			
+CEPAIKFI_00334	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+CEPAIKFI_00335	gene	456				
+CEPAIKFI_00335	CDS	456				hypothetical protein
+CEPAIKFI_00336	gene	1260				
+CEPAIKFI_00336	CDS	1260				hypothetical protein
+CEPAIKFI_00337	gene	309	rplU_1			
+CEPAIKFI_00337	CDS	309	rplU_1		COG0261	50S ribosomal protein L21
+CEPAIKFI_00338	gene	318				
+CEPAIKFI_00338	CDS	318				hypothetical protein
+CEPAIKFI_00339	gene	291	rpmA_1			
+CEPAIKFI_00339	CDS	291	rpmA_1		COG0211	50S ribosomal protein L27
+CEPAIKFI_00340	gene	1281	obg_1			
+CEPAIKFI_00340	CDS	1281	obg_1	3.6.5.-	COG0536	GTPase Obg
+CEPAIKFI_00341	gene	93				
+CEPAIKFI_00341	CDS	93				hypothetical protein
+CEPAIKFI_00342	gene	390				
+CEPAIKFI_00342	CDS	390				hypothetical protein
+CEPAIKFI_00343	gene	390				
+CEPAIKFI_00343	CDS	390				hypothetical protein
+CEPAIKFI_00344	gene	93				
+CEPAIKFI_00344	CDS	93				hypothetical protein
+CEPAIKFI_00345	gene	1281	obg_2			
+CEPAIKFI_00345	CDS	1281	obg_2	3.6.5.-	COG0536	GTPase Obg
+CEPAIKFI_00346	gene	291	rpmA_2			
+CEPAIKFI_00346	CDS	291	rpmA_2		COG0211	50S ribosomal protein L27
+CEPAIKFI_00347	gene	318				
+CEPAIKFI_00347	CDS	318				hypothetical protein
+CEPAIKFI_00348	gene	309	rplU_2			
+CEPAIKFI_00348	CDS	309	rplU_2		COG0261	50S ribosomal protein L21
+CEPAIKFI_00349	gene	465	bcp			
+CEPAIKFI_00349	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+CEPAIKFI_00350	gene	636	opuCD			
+CEPAIKFI_00350	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+CEPAIKFI_00351	gene	1662				
+CEPAIKFI_00351	CDS	1662				hypothetical protein
+CEPAIKFI_00352	gene	1170	opuCA			
+CEPAIKFI_00352	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+CEPAIKFI_00353	gene	1188	uctC			
+CEPAIKFI_00353	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+CEPAIKFI_00354	gene	510	ftnA			
+CEPAIKFI_00354	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+CEPAIKFI_00355	gene	471				
+CEPAIKFI_00355	CDS	471				hypothetical protein
+CEPAIKFI_00356	gene	564				
+CEPAIKFI_00356	CDS	564				hypothetical protein
+CEPAIKFI_00357	gene	888	cysK			
+CEPAIKFI_00357	CDS	888	cysK	2.5.1.47		Cysteine synthase
+CEPAIKFI_00358	gene	597	cysE			
+CEPAIKFI_00358	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+CEPAIKFI_00359	gene	657				
+CEPAIKFI_00359	CDS	657				hypothetical protein
+CEPAIKFI_00360	gene	399	baiN			
+CEPAIKFI_00360	CDS	399	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+CEPAIKFI_00361	gene	465				
+CEPAIKFI_00361	CDS	465				hypothetical protein
+CEPAIKFI_00362	gene	1764				
+CEPAIKFI_00362	CDS	1764				hypothetical protein
+CEPAIKFI_00363	gene	3216	carB			
+CEPAIKFI_00363	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+CEPAIKFI_00364	gene	1050	carA_2			
+CEPAIKFI_00364	CDS	1050	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+CEPAIKFI_00365	gene	723	pyrF			
+CEPAIKFI_00365	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+CEPAIKFI_00366	gene	225				
+CEPAIKFI_00366	CDS	225				hypothetical protein
+CEPAIKFI_00367	gene	546				
+CEPAIKFI_00367	CDS	546			COG3599	putative protein
+CEPAIKFI_00368	gene	483	coaD			
+CEPAIKFI_00368	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+CEPAIKFI_00369	gene	561	rsmD			
+CEPAIKFI_00369	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+CEPAIKFI_00370	gene	2058	recG			
+CEPAIKFI_00370	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+CEPAIKFI_00371	gene	1074				
+CEPAIKFI_00371	CDS	1074				putative protein
+CEPAIKFI_00372	gene	738				
+CEPAIKFI_00372	CDS	738				hypothetical protein
+CEPAIKFI_00373	gene	1659	glnS			
+CEPAIKFI_00373	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+CEPAIKFI_00374	gene	558				
+CEPAIKFI_00374	CDS	558				hypothetical protein
+CEPAIKFI_00375	gene	735	miaB			
+CEPAIKFI_00375	CDS	735	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+CEPAIKFI_00376	gene	819				
+CEPAIKFI_00376	CDS	819				hypothetical protein
+CEPAIKFI_00377	gene	1794				
+CEPAIKFI_00377	CDS	1794				hypothetical protein
+CEPAIKFI_00378	gene	1764				
+CEPAIKFI_00378	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+CEPAIKFI_00379	gene	1377				
+CEPAIKFI_00379	CDS	1377				hypothetical protein
+CEPAIKFI_00380	gene	882	licT			
+CEPAIKFI_00380	CDS	882	licT		COG3711	Transcription antiterminator LicT
+CEPAIKFI_00381	gene	2154	ptsG			
+CEPAIKFI_00381	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+CEPAIKFI_00382	gene	681				
+CEPAIKFI_00382	CDS	681				hypothetical protein
+CEPAIKFI_00383	gene	1281	walK			
+CEPAIKFI_00383	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+CEPAIKFI_00384	gene	681	phoP_2			
+CEPAIKFI_00384	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+CEPAIKFI_00385	gene	468	nrdR			
+CEPAIKFI_00385	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+CEPAIKFI_00386	gene	1161	ftsZ			
+CEPAIKFI_00386	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+CEPAIKFI_00387	gene	816	murG			
+CEPAIKFI_00387	CDS	816	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+CEPAIKFI_00388	gene	108				
+CEPAIKFI_00388	CDS	108				hypothetical protein
+CEPAIKFI_00389	gene	729	lnrL			
+CEPAIKFI_00389	CDS	729	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CEPAIKFI_00390	gene	858				
+CEPAIKFI_00390	CDS	858				hypothetical protein
+CEPAIKFI_00391	gene	357				
+CEPAIKFI_00391	CDS	357				hypothetical protein
+CEPAIKFI_00392	gene	384	ziaR			
+CEPAIKFI_00392	CDS	384	ziaR			Transcriptional repressor SmtB 
+CEPAIKFI_00393	gene	2217	ziaA			
+CEPAIKFI_00393	CDS	2217	ziaA	7.2.2.12		Zinc-transporting ATPase
+CEPAIKFI_00394	gene	495	nusB			
+CEPAIKFI_00394	CDS	495	nusB			Transcription antitermination protein NusB
+CEPAIKFI_00395	gene	342				
+CEPAIKFI_00395	CDS	342				putative protein
+CEPAIKFI_00396	gene	1977	fbp			
+CEPAIKFI_00396	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+CEPAIKFI_00397	gene	1017	plsX			
+CEPAIKFI_00397	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+CEPAIKFI_00398	gene	180	rpmF			
+CEPAIKFI_00398	CDS	180	rpmF			50S ribosomal protein L32
+CEPAIKFI_00399	gene	519				
+CEPAIKFI_00399	CDS	519				hypothetical protein
+CEPAIKFI_00400	gene	174	ackA			
+CEPAIKFI_00400	CDS	174	ackA	2.7.2.1	COG0282	Acetate kinase
+CEPAIKFI_00401	gene	1380	mnmE_1			
+CEPAIKFI_00401	CDS	1380	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+CEPAIKFI_00402	gene	1881	mnmG			
+CEPAIKFI_00402	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CEPAIKFI_00403	gene	729	rsmG			
+CEPAIKFI_00403	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+CEPAIKFI_00404	gene	882	aspC			
+CEPAIKFI_00404	CDS	882	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+CEPAIKFI_00405	gene	879				
+CEPAIKFI_00405	CDS	879				hypothetical protein
+CEPAIKFI_00406	gene	396	panD			
+CEPAIKFI_00406	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+CEPAIKFI_00407	gene	1116				
+CEPAIKFI_00407	CDS	1116				hypothetical protein
+CEPAIKFI_00408	gene	396				
+CEPAIKFI_00408	CDS	396				hypothetical protein
+CEPAIKFI_00409	gene	2415				
+CEPAIKFI_00409	CDS	2415				hypothetical protein
+CEPAIKFI_00410	gene	1365				
+CEPAIKFI_00410	CDS	1365				hypothetical protein
+CEPAIKFI_00411	gene	873	moaA_2			
+CEPAIKFI_00411	CDS	873	moaA_2	4.1.99.22		GTP 3',8-cyclase
+CEPAIKFI_00412	gene	264	glmM			
+CEPAIKFI_00412	CDS	264	glmM	5.4.2.10		Phosphoglucosamine mutase
+CEPAIKFI_00413	gene	177				
+CEPAIKFI_00413	CDS	177				hypothetical protein
+CEPAIKFI_00414	gene	1254	murAA			
+CEPAIKFI_00414	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+CEPAIKFI_00415	gene	1011	mreB			
+CEPAIKFI_00415	CDS	1011	mreB		COG1077	Cell shape-determining protein MreB
+CEPAIKFI_00416	gene	1185	metK			
+CEPAIKFI_00416	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+CEPAIKFI_00417	gene	450	fur			
+CEPAIKFI_00417	CDS	450	fur		COG0735	Ferric uptake regulation protein
+CEPAIKFI_00418	gene	417	yrrK			
+CEPAIKFI_00418	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+CEPAIKFI_00419	gene	2280				
+CEPAIKFI_00419	CDS	2280				hypothetical protein
+CEPAIKFI_00420	gene	261				
+CEPAIKFI_00420	CDS	261				hypothetical protein
+CEPAIKFI_00421	gene	1944	alaS_1			
+CEPAIKFI_00421	CDS	1944	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+CEPAIKFI_00422	gene	414				
+CEPAIKFI_00422	CDS	414				hypothetical protein
+CEPAIKFI_00423	gene	813	murI			
+CEPAIKFI_00423	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+CEPAIKFI_00424	gene	678	rspR			
+CEPAIKFI_00424	CDS	678	rspR		COG1802	HTH-type transcriptional repressor RspR
+CEPAIKFI_00425	gene	897	ispE			
+CEPAIKFI_00425	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+CEPAIKFI_00426	gene	783				
+CEPAIKFI_00426	CDS	783				hypothetical protein
+CEPAIKFI_00427	gene	255	veg			
+CEPAIKFI_00427	CDS	255	veg		COG4466	Protein Veg
+CEPAIKFI_00428	gene	1449	pepD_2			
+CEPAIKFI_00428	CDS	1449	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+CEPAIKFI_00429	gene	876				
+CEPAIKFI_00429	CDS	876				DegV domain-containing protein
+CEPAIKFI_00430	gene	471	trmL			
+CEPAIKFI_00430	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+CEPAIKFI_00431	gene	639	pdg			
+CEPAIKFI_00431	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+CEPAIKFI_00432	gene	1281	udk			
+CEPAIKFI_00432	CDS	1281	udk	2.7.1.48		Uridine kinase
+CEPAIKFI_00433	gene	1125	addB			
+CEPAIKFI_00433	CDS	1125	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+CEPAIKFI_00434	gene	3933	addA_1			
+CEPAIKFI_00434	CDS	3933	addA_1	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+CEPAIKFI_00435	gene	576				
+CEPAIKFI_00435	CDS	576				hypothetical protein
+CEPAIKFI_00436	gene	594				
+CEPAIKFI_00436	CDS	594				hypothetical protein
+CEPAIKFI_00437	gene	771				
+CEPAIKFI_00437	CDS	771				hypothetical protein
+CEPAIKFI_00438	gene	339				
+CEPAIKFI_00438	CDS	339				hypothetical protein
+CEPAIKFI_00439	gene	684				
+CEPAIKFI_00439	CDS	684				hypothetical protein
+CEPAIKFI_00440	gene	1452				
+CEPAIKFI_00440	CDS	1452				hypothetical protein
+CEPAIKFI_00441	gene	375				
+CEPAIKFI_00441	CDS	375				hypothetical protein
+CEPAIKFI_00442	gene	1068				
+CEPAIKFI_00442	CDS	1068				hypothetical protein
+CEPAIKFI_00443	gene	435				
+CEPAIKFI_00443	CDS	435				hypothetical protein
+CEPAIKFI_00444	gene	1401				
+CEPAIKFI_00444	CDS	1401				hypothetical protein
+CEPAIKFI_00445	gene	324				
+CEPAIKFI_00445	CDS	324				hypothetical protein
+CEPAIKFI_00446	gene	516				
+CEPAIKFI_00446	CDS	516				hypothetical protein
+CEPAIKFI_00447	gene	1011	lytC_5			
+CEPAIKFI_00447	CDS	1011	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CEPAIKFI_00448	gene	855				
+CEPAIKFI_00448	CDS	855				hypothetical protein
+CEPAIKFI_00449	gene	435				
+CEPAIKFI_00449	CDS	435				hypothetical protein
+CEPAIKFI_00450	gene	837				
+CEPAIKFI_00450	CDS	837				hypothetical protein
+CEPAIKFI_00451	gene	297				
+CEPAIKFI_00451	CDS	297				hypothetical protein
+CEPAIKFI_00452	gene	699				
+CEPAIKFI_00452	CDS	699				hypothetical protein
+CEPAIKFI_00453	gene	1860				
+CEPAIKFI_00453	CDS	1860				hypothetical protein
+CEPAIKFI_00454	gene	1113	mrdB			
+CEPAIKFI_00454	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+CEPAIKFI_00455	gene	576				
+CEPAIKFI_00455	CDS	576				hypothetical protein
+CEPAIKFI_00456	gene	900	gnd			
+CEPAIKFI_00456	CDS	900	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+CEPAIKFI_00457	gene	1374	zwf			
+CEPAIKFI_00457	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+CEPAIKFI_00458	gene	969	trxB			
+CEPAIKFI_00458	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+CEPAIKFI_00459	gene	762				
+CEPAIKFI_00459	CDS	762				hypothetical protein
+CEPAIKFI_00460	gene	2496				
+CEPAIKFI_00460	CDS	2496				hypothetical protein
+CEPAIKFI_00461	gene	1032				
+CEPAIKFI_00461	CDS	1032				hypothetical protein
+CEPAIKFI_00462	gene	189				
+CEPAIKFI_00462	CDS	189				hypothetical protein
+CEPAIKFI_00463	gene	1338				
+CEPAIKFI_00463	CDS	1338				hypothetical protein
+CEPAIKFI_00464	gene	486	xkdM			
+CEPAIKFI_00464	CDS	486	xkdM			Phage-like element PBSX protein XkdM
+CEPAIKFI_00465	gene	405				
+CEPAIKFI_00465	CDS	405				hypothetical protein
+CEPAIKFI_00466	gene	2157				
+CEPAIKFI_00466	CDS	2157				hypothetical protein
+CEPAIKFI_00467	gene	435				
+CEPAIKFI_00467	CDS	435				hypothetical protein
+CEPAIKFI_00468	gene	564				
+CEPAIKFI_00468	CDS	564				hypothetical protein
+CEPAIKFI_00469	gene	1059				
+CEPAIKFI_00469	CDS	1059				hypothetical protein
+CEPAIKFI_00470	gene	426				
+CEPAIKFI_00470	CDS	426				hypothetical protein
+CEPAIKFI_00471	gene	270				
+CEPAIKFI_00471	CDS	270				hypothetical protein
+CEPAIKFI_00472	gene	2040				
+CEPAIKFI_00472	CDS	2040				hypothetical protein
+CEPAIKFI_00473	gene	267				
+CEPAIKFI_00473	CDS	267				hypothetical protein
+CEPAIKFI_00474	gene	276				
+CEPAIKFI_00474	CDS	276				hypothetical protein
+CEPAIKFI_00475	gene	315	rplGA			
+CEPAIKFI_00475	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+CEPAIKFI_00476	gene	1944	infB			
+CEPAIKFI_00476	CDS	1944	infB			Translation initiation factor IF-2
+CEPAIKFI_00477	gene	348	rbfA			
+CEPAIKFI_00477	CDS	348	rbfA			Ribosome-binding factor A
+CEPAIKFI_00478	gene	804				
+CEPAIKFI_00478	CDS	804				hypothetical protein
+CEPAIKFI_00479	gene	1170				
+CEPAIKFI_00479	CDS	1170				hypothetical protein
+CEPAIKFI_00480	gene	1227				
+CEPAIKFI_00480	CDS	1227		3.4.11.-		Aminopeptidase 2
+CEPAIKFI_00481	gene	585				
+CEPAIKFI_00481	CDS	585				hypothetical protein
+CEPAIKFI_00482	gene	552				
+CEPAIKFI_00482	CDS	552				hypothetical protein
+CEPAIKFI_00483	gene	765	rhaR			
+CEPAIKFI_00483	CDS	765	rhaR			HTH-type transcriptional activator RhaR
+CEPAIKFI_00484	gene	2226	relA			
+CEPAIKFI_00484	CDS	2226	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+CEPAIKFI_00485	gene	522	apt			
+CEPAIKFI_00485	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+CEPAIKFI_00486	gene	1827				
+CEPAIKFI_00486	CDS	1827				hypothetical protein
+CEPAIKFI_00487	gene	849				
+CEPAIKFI_00487	CDS	849				hypothetical protein
+CEPAIKFI_00488	gene	438				
+CEPAIKFI_00488	CDS	438				hypothetical protein
+CEPAIKFI_00489	gene	258				
+CEPAIKFI_00489	CDS	258				hypothetical protein
+CEPAIKFI_00490	gene	636				
+CEPAIKFI_00490	CDS	636				hypothetical protein
+CEPAIKFI_00491	gene	477				
+CEPAIKFI_00491	CDS	477				hypothetical protein
+CEPAIKFI_00492	gene	1194	sdaB			
+CEPAIKFI_00492	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+CEPAIKFI_00493	gene	450	metN_2			
+CEPAIKFI_00493	CDS	450	metN_2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+CEPAIKFI_00494	gene	588				
+CEPAIKFI_00494	CDS	588				hypothetical protein
+CEPAIKFI_00495	gene	1743	msbA_1			
+CEPAIKFI_00495	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+CEPAIKFI_00496	gene	1719				
+CEPAIKFI_00496	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+CEPAIKFI_00497	gene	237				
+CEPAIKFI_00497	CDS	237				hypothetical protein
+CEPAIKFI_00498	gene	1176	thiH			
+CEPAIKFI_00498	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+CEPAIKFI_00499	gene	768	thiG			
+CEPAIKFI_00499	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+CEPAIKFI_00500	gene	729				
+CEPAIKFI_00500	CDS	729				hypothetical protein
+CEPAIKFI_00501	gene	195				
+CEPAIKFI_00501	CDS	195				hypothetical protein
+CEPAIKFI_00502	gene	1377	alsT_1			
+CEPAIKFI_00502	CDS	1377	alsT_1		COG1115	Amino-acid carrier protein AlsT
+CEPAIKFI_00503	gene	1287	brnQ_2			
+CEPAIKFI_00503	CDS	1287	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+CEPAIKFI_00504	gene	1278				
+CEPAIKFI_00504	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+CEPAIKFI_00505	gene	600	COQ5_1			
+CEPAIKFI_00505	CDS	600	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CEPAIKFI_00506	gene	921				
+CEPAIKFI_00506	CDS	921				hypothetical protein
+CEPAIKFI_00507	gene	831	artP_1			
+CEPAIKFI_00507	CDS	831	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+CEPAIKFI_00508	gene	1275	argG			
+CEPAIKFI_00508	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+CEPAIKFI_00509	gene	1374	argH			
+CEPAIKFI_00509	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+CEPAIKFI_00510	gene	453				
+CEPAIKFI_00510	CDS	453				hypothetical protein
+CEPAIKFI_00511	gene	2643	mutS			
+CEPAIKFI_00511	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+CEPAIKFI_00512	gene	1647	gltX			
+CEPAIKFI_00512	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+CEPAIKFI_00513	gene	1422	purF			
+CEPAIKFI_00513	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+CEPAIKFI_00514	gene	1401	copA			
+CEPAIKFI_00514	CDS	1401	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+CEPAIKFI_00515	gene	297				
+CEPAIKFI_00515	CDS	297				hypothetical protein
+CEPAIKFI_00516	gene	684	czcR			
+CEPAIKFI_00516	CDS	684	czcR			Transcriptional activator protein CzcR
+CEPAIKFI_00517	gene	1374	adeP			
+CEPAIKFI_00517	CDS	1374	adeP		COG2252	Adenine permease AdeP
+CEPAIKFI_00518	gene	147				
+CEPAIKFI_00518	CDS	147				hypothetical protein
+CEPAIKFI_00519	gene	1056	ispG			
+CEPAIKFI_00519	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+CEPAIKFI_00520	gene	1011	mmpA			
+CEPAIKFI_00520	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+CEPAIKFI_00521	gene	1188	dxr			
+CEPAIKFI_00521	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+CEPAIKFI_00522	gene	411				
+CEPAIKFI_00522	CDS	411				hypothetical protein
+CEPAIKFI_00523	gene	1014	ruvB_2			
+CEPAIKFI_00523	CDS	1014	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+CEPAIKFI_00524	gene	612	ruvA			
+CEPAIKFI_00524	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+CEPAIKFI_00525	gene	498	ruvC			
+CEPAIKFI_00525	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+CEPAIKFI_00526	gene	567				
+CEPAIKFI_00526	CDS	567				hypothetical protein
+CEPAIKFI_00527	gene	642				
+CEPAIKFI_00527	CDS	642				hypothetical protein
+CEPAIKFI_00528	gene	1974				
+CEPAIKFI_00528	CDS	1974				hypothetical protein
+CEPAIKFI_00529	gene	2373				
+CEPAIKFI_00529	CDS	2373				hypothetical protein
+CEPAIKFI_00530	gene	1086				
+CEPAIKFI_00530	CDS	1086				hypothetical protein
+CEPAIKFI_00531	gene	228				
+CEPAIKFI_00531	CDS	228				IS200/IS605 family transposase ISDha13
+CEPAIKFI_00532	gene	1296	lysA			
+CEPAIKFI_00532	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+CEPAIKFI_00533	gene	1350	mfd			
+CEPAIKFI_00533	CDS	1350	mfd	3.6.4.-		Transcription-repair-coupling factor
+CEPAIKFI_00534	gene	1062	prsA_1			
+CEPAIKFI_00534	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+CEPAIKFI_00535	gene	1623	spoVB			
+CEPAIKFI_00535	CDS	1623	spoVB		COG2244	Stage V sporulation protein B
+CEPAIKFI_00536	gene	273				
+CEPAIKFI_00536	CDS	273				hypothetical protein
+CEPAIKFI_00537	gene	822	thiD			
+CEPAIKFI_00537	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+CEPAIKFI_00538	gene	1455	thiM			
+CEPAIKFI_00538	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+CEPAIKFI_00539	gene	1305	thiC			
+CEPAIKFI_00539	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+CEPAIKFI_00540	gene	951	prmA			
+CEPAIKFI_00540	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+CEPAIKFI_00541	gene	777	rsmE			
+CEPAIKFI_00541	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+CEPAIKFI_00542	gene	1296	mtaB			
+CEPAIKFI_00542	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+CEPAIKFI_00543	gene	324				
+CEPAIKFI_00543	CDS	324				hypothetical protein
+CEPAIKFI_00544	gene	345				
+CEPAIKFI_00544	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+CEPAIKFI_00545	gene	606				
+CEPAIKFI_00545	CDS	606				hypothetical protein
+CEPAIKFI_00546	gene	924	fba			
+CEPAIKFI_00546	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+CEPAIKFI_00547	gene	552	hpf			
+CEPAIKFI_00547	CDS	552	hpf			Ribosome hibernation promotion factor
+CEPAIKFI_00548	gene	1059				
+CEPAIKFI_00548	CDS	1059			COG1702	PhoH-like protein
+CEPAIKFI_00549	gene	462	ybeY			
+CEPAIKFI_00549	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+CEPAIKFI_00550	gene	456	smpB			
+CEPAIKFI_00550	CDS	456	smpB		COG0691	SsrA-binding protein
+CEPAIKFI_00551	gene	2220	rnr			
+CEPAIKFI_00551	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+CEPAIKFI_00552	gene	231				
+CEPAIKFI_00552	CDS	231				hypothetical protein
+CEPAIKFI_00553	gene	1014	eno			
+CEPAIKFI_00553	CDS	1014	eno	4.2.1.11	COG0148	Enolase
+CEPAIKFI_00554	gene	1110				
+CEPAIKFI_00554	CDS	1110				hypothetical protein
+CEPAIKFI_00555	gene	789	ybiV			
+CEPAIKFI_00555	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+CEPAIKFI_00556	gene	1041	tagU			
+CEPAIKFI_00556	CDS	1041	tagU	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+CEPAIKFI_00557	gene	708	mutS2			
+CEPAIKFI_00557	CDS	708	mutS2	3.1.-.-		Endonuclease MutS2
+CEPAIKFI_00558	gene	468				
+CEPAIKFI_00558	CDS	468				hypothetical protein
+CEPAIKFI_00559	gene	1701	argS			
+CEPAIKFI_00559	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+CEPAIKFI_00560	gene	765	ribBA			
+CEPAIKFI_00560	CDS	765	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+CEPAIKFI_00561	gene	462	ribH			
+CEPAIKFI_00561	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+CEPAIKFI_00562	gene	687	glxR			
+CEPAIKFI_00562	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+CEPAIKFI_00563	gene	1011	asrA			
+CEPAIKFI_00563	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+CEPAIKFI_00564	gene	801	asrB			
+CEPAIKFI_00564	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+CEPAIKFI_00565	gene	1437	pncB2			
+CEPAIKFI_00565	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+CEPAIKFI_00566	gene	456	lrpC			
+CEPAIKFI_00566	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+CEPAIKFI_00567	gene	1941	metG			
+CEPAIKFI_00567	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+CEPAIKFI_00568	gene	618				
+CEPAIKFI_00568	CDS	618				hypothetical protein
+CEPAIKFI_00569	gene	1158	iscS			
+CEPAIKFI_00569	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+CEPAIKFI_00570	gene	1188	thiI			
+CEPAIKFI_00570	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+CEPAIKFI_00571	gene	966				
+CEPAIKFI_00571	CDS	966				hypothetical protein
+CEPAIKFI_00572	gene	267				
+CEPAIKFI_00572	CDS	267				hypothetical protein
+CEPAIKFI_00573	gene	1299				
+CEPAIKFI_00573	CDS	1299				hypothetical protein
+CEPAIKFI_00574	gene	831				
+CEPAIKFI_00574	CDS	831				hypothetical protein
+CEPAIKFI_00575	gene	1152				
+CEPAIKFI_00575	CDS	1152				hypothetical protein
+CEPAIKFI_00576	gene	336				
+CEPAIKFI_00576	CDS	336				hypothetical protein
+CEPAIKFI_00577	gene	315				
+CEPAIKFI_00577	CDS	315				hypothetical protein
+CEPAIKFI_00578	gene	1212	undec1A			
+CEPAIKFI_00578	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+CEPAIKFI_00579	gene	267	rpoZ			
+CEPAIKFI_00579	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+CEPAIKFI_00580	gene	642	gmk			
+CEPAIKFI_00580	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+CEPAIKFI_00581	gene	882				
+CEPAIKFI_00581	CDS	882				hypothetical protein
+CEPAIKFI_00582	gene	249				
+CEPAIKFI_00582	CDS	249				hypothetical protein
+CEPAIKFI_00583	gene	258				
+CEPAIKFI_00583	CDS	258				hypothetical protein
+CEPAIKFI_00584	gene	495	sepF			
+CEPAIKFI_00584	CDS	495	sepF			Cell division protein SepF
+CEPAIKFI_00585	gene	702				
+CEPAIKFI_00585	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+CEPAIKFI_00586	gene	1011	gpsA			
+CEPAIKFI_00586	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CEPAIKFI_00587	gene	609	plsY			
+CEPAIKFI_00587	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+CEPAIKFI_00588	gene	360	der			
+CEPAIKFI_00588	CDS	360	der		COG1160	GTPase Der
+CEPAIKFI_00589	gene	1128	ykoD_1			
+CEPAIKFI_00589	CDS	1128	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+CEPAIKFI_00590	gene	2391	pheT			
+CEPAIKFI_00590	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+CEPAIKFI_00591	gene	744	pheS			
+CEPAIKFI_00591	CDS	744	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+CEPAIKFI_00592	gene	1233				
+CEPAIKFI_00592	CDS	1233				hypothetical protein
+CEPAIKFI_00593	gene	1293				
+CEPAIKFI_00593	CDS	1293				hypothetical protein
+CEPAIKFI_00594	gene	1347	rpoN			
+CEPAIKFI_00594	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+CEPAIKFI_00595	gene	1395	alaS_2			
+CEPAIKFI_00595	CDS	1395	alaS_2	6.1.1.7		Alanine--tRNA ligase
+CEPAIKFI_00596	gene	318				
+CEPAIKFI_00596	CDS	318				hypothetical protein
+CEPAIKFI_00597	gene	582				
+CEPAIKFI_00597	CDS	582				hypothetical protein
+CEPAIKFI_00598	gene	1107				
+CEPAIKFI_00598	CDS	1107				hypothetical protein
+CEPAIKFI_00599	gene	1149	rlmL			
+CEPAIKFI_00599	CDS	1149	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+CEPAIKFI_00600	gene	1137				
+CEPAIKFI_00600	CDS	1137				TelA-like protein
+CEPAIKFI_00601	gene	1155				
+CEPAIKFI_00601	CDS	1155				hypothetical protein
+CEPAIKFI_00602	gene	459	tcyC			
+CEPAIKFI_00602	CDS	459	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+CEPAIKFI_00603	gene	924				
+CEPAIKFI_00603	CDS	924				hypothetical protein
+CEPAIKFI_00604	gene	420				
+CEPAIKFI_00604	CDS	420				hypothetical protein
+CEPAIKFI_00605	gene	738				
+CEPAIKFI_00605	CDS	738				hypothetical protein
+CEPAIKFI_00606	gene	462	cdd			
+CEPAIKFI_00606	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+CEPAIKFI_00607	gene	846	cvfB			
+CEPAIKFI_00607	CDS	846	cvfB		COG2996	Conserved virulence factor B
+CEPAIKFI_00608	gene	486				
+CEPAIKFI_00608	CDS	486				hypothetical protein
+CEPAIKFI_00609	gene	615	ttcA			
+CEPAIKFI_00609	CDS	615	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+CEPAIKFI_00610	gene	519	polC			
+CEPAIKFI_00610	CDS	519	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+CEPAIKFI_00611	gene	1044	mtgA			
+CEPAIKFI_00611	CDS	1044	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+CEPAIKFI_00612	gene	855	sseB			
+CEPAIKFI_00612	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+CEPAIKFI_00613	gene	1227				
+CEPAIKFI_00613	CDS	1227				hypothetical protein
+CEPAIKFI_00614	gene	501				
+CEPAIKFI_00614	CDS	501				hypothetical protein
+CEPAIKFI_00615	gene	264				
+CEPAIKFI_00615	CDS	264				hypothetical protein
+CEPAIKFI_00616	gene	738				
+CEPAIKFI_00616	CDS	738				hypothetical protein
+CEPAIKFI_00617	gene	129	ssbA			
+CEPAIKFI_00617	CDS	129	ssbA		COG0629	Single-stranded DNA-binding protein A
+CEPAIKFI_00618	gene	309				
+CEPAIKFI_00618	CDS	309				hypothetical protein
+CEPAIKFI_00619	gene	1221	proS			
+CEPAIKFI_00619	CDS	1221	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+CEPAIKFI_00620	gene	750				
+CEPAIKFI_00620	CDS	750				hypothetical protein
+CEPAIKFI_00621	gene	2961				
+CEPAIKFI_00621	CDS	2961				hypothetical protein
+CEPAIKFI_00622	gene	135	yabJ			
+CEPAIKFI_00622	CDS	135	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+CEPAIKFI_00623	gene	126				
+CEPAIKFI_00623	CDS	126		1.4.1.2		NAD-specific glutamate dehydrogenase
+CEPAIKFI_00624	gene	657				
+CEPAIKFI_00624	CDS	657				hypothetical protein
+CEPAIKFI_00625	gene	219				
+CEPAIKFI_00625	CDS	219				hypothetical protein
+CEPAIKFI_00626	gene	234				
+CEPAIKFI_00626	CDS	234				hypothetical protein
+CEPAIKFI_00627	gene	2151	feoB			
+CEPAIKFI_00627	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+CEPAIKFI_00628	gene	168				
+CEPAIKFI_00628	CDS	168				hypothetical protein
+CEPAIKFI_00629	gene	1155	dnaJ			
+CEPAIKFI_00629	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+CEPAIKFI_00630	gene	1845	dnaK			
+CEPAIKFI_00630	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+CEPAIKFI_00631	gene	624	grpE			
+CEPAIKFI_00631	CDS	624	grpE			Protein GrpE
+CEPAIKFI_00632	gene	522	ytrE_2			
+CEPAIKFI_00632	CDS	522	ytrE_2		COG1136	ABC transporter ATP-binding protein YtrE
+CEPAIKFI_00633	gene	1785				
+CEPAIKFI_00633	CDS	1785				hypothetical protein
+CEPAIKFI_00634	gene	600				
+CEPAIKFI_00634	CDS	600				hypothetical protein
+CEPAIKFI_00635	gene	672				
+CEPAIKFI_00635	CDS	672				hypothetical protein
+CEPAIKFI_00636	gene	1500				
+CEPAIKFI_00636	CDS	1500				hypothetical protein
+CEPAIKFI_00637	gene	312				
+CEPAIKFI_00637	CDS	312				hypothetical protein
+CEPAIKFI_00638	gene	1365	rclA			
+CEPAIKFI_00638	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+CEPAIKFI_00639	gene	2163	yhgF			
+CEPAIKFI_00639	CDS	2163	yhgF		COG2183	Protein YhgF
+CEPAIKFI_00640	gene	1047	prfB			
+CEPAIKFI_00640	CDS	1047	prfB			Peptide chain release factor 2
+CEPAIKFI_00641	gene	135	rpmH			
+CEPAIKFI_00641	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+CEPAIKFI_00642	gene	378	rnpA			
+CEPAIKFI_00642	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+CEPAIKFI_00643	gene	264	yidD			
+CEPAIKFI_00643	CDS	264	yidD			Putative membrane protein insertion efficiency factor
+CEPAIKFI_00644	gene	702	yidC2			
+CEPAIKFI_00644	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+CEPAIKFI_00645	gene	771				
+CEPAIKFI_00645	CDS	771				hypothetical protein
+CEPAIKFI_00646	gene	615	sodA1			
+CEPAIKFI_00646	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+CEPAIKFI_00647	gene	201				
+CEPAIKFI_00647	CDS	201				hypothetical protein
+CEPAIKFI_00648	gene	441				
+CEPAIKFI_00648	CDS	441				hypothetical protein
+CEPAIKFI_00649	gene	480	lspA			
+CEPAIKFI_00649	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+CEPAIKFI_00650	gene	933	rluD			
+CEPAIKFI_00650	CDS	933	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CEPAIKFI_00651	gene	525	pyrR			
+CEPAIKFI_00651	CDS	525	pyrR			Bifunctional protein PyrR
+CEPAIKFI_00652	gene	2403				
+CEPAIKFI_00652	CDS	2403				hypothetical protein
+CEPAIKFI_00653	gene	345				
+CEPAIKFI_00653	CDS	345				hypothetical protein
+CEPAIKFI_00654	gene	465				
+CEPAIKFI_00654	CDS	465				hypothetical protein
+CEPAIKFI_00655	gene	444				
+CEPAIKFI_00655	CDS	444				hypothetical protein
+CEPAIKFI_00656	gene	768	prsA_2			
+CEPAIKFI_00656	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+CEPAIKFI_00657	gene	1149	cdr			
+CEPAIKFI_00657	CDS	1149	cdr	1.8.1.14		Coenzyme A disulfide reductase
+CEPAIKFI_00658	gene	675				
+CEPAIKFI_00658	CDS	675				hypothetical protein
+CEPAIKFI_00659	gene	219				
+CEPAIKFI_00659	CDS	219				hypothetical protein
+CEPAIKFI_00660	gene	423				
+CEPAIKFI_00660	CDS	423				hypothetical protein
+CEPAIKFI_00661	gene	678				
+CEPAIKFI_00661	CDS	678				hypothetical protein
+CEPAIKFI_00662	gene	240				
+CEPAIKFI_00662	CDS	240				hypothetical protein
+CEPAIKFI_00663	gene	531				
+CEPAIKFI_00663	CDS	531				hypothetical protein
+CEPAIKFI_00664	gene	468				
+CEPAIKFI_00664	CDS	468				hypothetical protein
+CEPAIKFI_00665	gene	690				
+CEPAIKFI_00665	CDS	690				hypothetical protein
+CEPAIKFI_00666	gene	198				
+CEPAIKFI_00666	CDS	198				hypothetical protein
+CEPAIKFI_00667	gene	1476				
+CEPAIKFI_00667	CDS	1476				hypothetical protein
+CEPAIKFI_00668	gene	804	proC			
+CEPAIKFI_00668	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+CEPAIKFI_00669	gene	651				
+CEPAIKFI_00669	CDS	651				hypothetical protein
+CEPAIKFI_00670	gene	876				
+CEPAIKFI_00670	CDS	876				hypothetical protein
+CEPAIKFI_00671	gene	384				
+CEPAIKFI_00671	CDS	384			COG1302	Alkaline shock protein 23
+CEPAIKFI_00672	gene	495				
+CEPAIKFI_00672	CDS	495				hypothetical protein
+CEPAIKFI_00673	gene	846				
+CEPAIKFI_00673	CDS	846				hypothetical protein
+CEPAIKFI_00674	gene	1020				
+CEPAIKFI_00674	CDS	1020				hypothetical protein
+CEPAIKFI_00675	gene	1017	nrnA			
+CEPAIKFI_00675	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+CEPAIKFI_00676	gene	705	srtD			
+CEPAIKFI_00676	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+CEPAIKFI_00677	gene	1626	cna			
+CEPAIKFI_00677	CDS	1626	cna			Collagen adhesin
+CEPAIKFI_00678	gene	705	uppS			
+CEPAIKFI_00678	CDS	705	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+CEPAIKFI_00679	gene	780				
+CEPAIKFI_00679	CDS	780				hypothetical protein
+CEPAIKFI_00680	gene	909				
+CEPAIKFI_00680	CDS	909				hypothetical protein
+CEPAIKFI_00681	gene	468	rimP			
+CEPAIKFI_00681	CDS	468	rimP			Ribosome maturation factor RimP
+CEPAIKFI_00682	gene	909	tsf			
+CEPAIKFI_00682	CDS	909	tsf		COG0264	Elongation factor Ts
+CEPAIKFI_00683	gene	762	rpsB			
+CEPAIKFI_00683	CDS	762	rpsB			30S ribosomal protein S2
+CEPAIKFI_00684	gene	1176	bdhA			
+CEPAIKFI_00684	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+CEPAIKFI_00685	gene	234				
+CEPAIKFI_00685	CDS	234				hypothetical protein
+CEPAIKFI_00686	gene	858	folD			
+CEPAIKFI_00686	CDS	858	folD			Bifunctional protein FolD protein
+CEPAIKFI_00687	gene	636	fchA			
+CEPAIKFI_00687	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+CEPAIKFI_00688	gene	141				
+CEPAIKFI_00688	CDS	141				hypothetical protein
+CEPAIKFI_00689	gene	1230				
+CEPAIKFI_00689	CDS	1230				hypothetical protein
+CEPAIKFI_00690	gene	900	murJ			
+CEPAIKFI_00690	CDS	900	murJ		COG0728	putative lipid II flippase MurJ
+CEPAIKFI_00691	gene	909	tadA			
+CEPAIKFI_00691	CDS	909	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+CEPAIKFI_00692	gene	1635				
+CEPAIKFI_00692	CDS	1635				hypothetical protein
+CEPAIKFI_00693	gene	90				
+CEPAIKFI_00693	tRNA	90				tRNA-Ser(gga)
+CEPAIKFI_00694	gene	387	hlyB			
+CEPAIKFI_00694	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+CEPAIKFI_00695	gene	279				
+CEPAIKFI_00695	CDS	279				hypothetical protein
+CEPAIKFI_00696	gene	237				
+CEPAIKFI_00696	CDS	237				hypothetical protein
+CEPAIKFI_00697	gene	852				
+CEPAIKFI_00697	CDS	852				hypothetical protein
+CEPAIKFI_00698	gene	1383	dinG			
+CEPAIKFI_00698	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+CEPAIKFI_00699	gene	1158				
+CEPAIKFI_00699	CDS	1158				hypothetical protein
+CEPAIKFI_00700	gene	1326				
+CEPAIKFI_00700	CDS	1326				hypothetical protein
+CEPAIKFI_00701	gene	2256				
+CEPAIKFI_00701	CDS	2256				hypothetical protein
+CEPAIKFI_00702	gene	351	rsfS			
+CEPAIKFI_00702	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+CEPAIKFI_00703	gene	576				
+CEPAIKFI_00703	CDS	576				hypothetical protein
+CEPAIKFI_00704	gene	279	nadD			
+CEPAIKFI_00704	CDS	279	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+CEPAIKFI_00705	gene	960				
+CEPAIKFI_00705	CDS	960				hypothetical protein
+CEPAIKFI_00706	gene	1989	tkt			
+CEPAIKFI_00706	CDS	1989	tkt	2.2.1.1		Transketolase
+CEPAIKFI_00707	gene	102				
+CEPAIKFI_00707	rRNA	102				5S ribosomal RNA
+CEPAIKFI_00708	gene	1479	malQ			
+CEPAIKFI_00708	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+CEPAIKFI_00709	gene	1086	potD			
+CEPAIKFI_00709	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+CEPAIKFI_00710	gene	807				
+CEPAIKFI_00710	CDS	807				hypothetical protein
+CEPAIKFI_00711	gene	936				
+CEPAIKFI_00711	CDS	936				hypothetical protein
+CEPAIKFI_00712	gene	162				
+CEPAIKFI_00712	CDS	162				hypothetical protein
+CEPAIKFI_00713	gene	690				
+CEPAIKFI_00713	CDS	690				hypothetical protein
+CEPAIKFI_00714	gene	408				
+CEPAIKFI_00714	CDS	408				hypothetical protein
+CEPAIKFI_00715	gene	639	pspA_1			
+CEPAIKFI_00715	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+CEPAIKFI_00716	gene	771	cobS			
+CEPAIKFI_00716	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+CEPAIKFI_00717	gene	588	cobU			
+CEPAIKFI_00717	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+CEPAIKFI_00718	gene	1083	cobT			
+CEPAIKFI_00718	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+CEPAIKFI_00719	gene	249				
+CEPAIKFI_00719	CDS	249				hypothetical protein
+CEPAIKFI_00720	gene	201	cspA			
+CEPAIKFI_00720	CDS	201	cspA		COG1278	Cold shock protein CspA
+CEPAIKFI_00721	gene	825	pdxY			
+CEPAIKFI_00721	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+CEPAIKFI_00722	gene	1902				
+CEPAIKFI_00722	CDS	1902				hypothetical protein
+CEPAIKFI_00723	gene	216	rsxB_2			
+CEPAIKFI_00723	CDS	216	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CEPAIKFI_00724	gene	678				
+CEPAIKFI_00724	CDS	678				hypothetical protein
+CEPAIKFI_00725	gene	1083	buk2			
+CEPAIKFI_00725	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+CEPAIKFI_00726	gene	792	cdaR			
+CEPAIKFI_00726	CDS	792	cdaR		COG4856	CdaA regulatory protein CdaR
+CEPAIKFI_00727	gene	423	rpoC			
+CEPAIKFI_00727	CDS	423	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+CEPAIKFI_00728	gene	702				
+CEPAIKFI_00728	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+CEPAIKFI_00729	gene	447				
+CEPAIKFI_00729	CDS	447				hypothetical protein
+CEPAIKFI_00730	gene	1200	gerN			
+CEPAIKFI_00730	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+CEPAIKFI_00731	gene	75				
+CEPAIKFI_00731	tRNA	75				tRNA-Arg(cct)
+CEPAIKFI_00732	gene	222	fabF			
+CEPAIKFI_00732	CDS	222	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+CEPAIKFI_00733	gene	426	fabZ			
+CEPAIKFI_00733	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+CEPAIKFI_00734	gene	1371	uacT			
+CEPAIKFI_00734	CDS	1371	uacT		COG2233	Uric acid transporter UacT
+CEPAIKFI_00735	gene	570	xpt			
+CEPAIKFI_00735	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+CEPAIKFI_00736	gene	1311				
+CEPAIKFI_00736	CDS	1311				hypothetical protein
+CEPAIKFI_00737	gene	618				
+CEPAIKFI_00737	CDS	618				hypothetical protein
+CEPAIKFI_00738	gene	1683				
+CEPAIKFI_00738	CDS	1683				hypothetical protein
+CEPAIKFI_00739	gene	1125				
+CEPAIKFI_00739	CDS	1125				hypothetical protein
+CEPAIKFI_00740	gene	1644				
+CEPAIKFI_00740	CDS	1644				hypothetical protein
+CEPAIKFI_00741	gene	1482	clsA			
+CEPAIKFI_00741	CDS	1482	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+CEPAIKFI_00742	gene	282	groS			
+CEPAIKFI_00742	CDS	282	groS		COG0234	10 kDa chaperonin
+CEPAIKFI_00743	gene	1623	groL			
+CEPAIKFI_00743	CDS	1623	groL		COG0459	60 kDa chaperonin
+CEPAIKFI_00744	gene	426	rplK			
+CEPAIKFI_00744	CDS	426	rplK		COG0080	50S ribosomal protein L11
+CEPAIKFI_00745	gene	543	nusG			
+CEPAIKFI_00745	CDS	543	nusG			Transcription termination/antitermination protein NusG
+CEPAIKFI_00746	gene	207	secE			
+CEPAIKFI_00746	CDS	207	secE			Protein translocase subunit SecE
+CEPAIKFI_00747	gene	150	rpmG2			
+CEPAIKFI_00747	CDS	150	rpmG2			50S ribosomal protein L33 2
+CEPAIKFI_00748	gene	489	queT			
+CEPAIKFI_00748	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+CEPAIKFI_00749	gene	696				
+CEPAIKFI_00749	CDS	696				hypothetical protein
+CEPAIKFI_00750	gene	351	pepT			
+CEPAIKFI_00750	CDS	351	pepT	3.4.11.4		Peptidase T
+CEPAIKFI_00751	gene	546				
+CEPAIKFI_00751	CDS	546				hypothetical protein
+CEPAIKFI_00752	gene	675				
+CEPAIKFI_00752	CDS	675				hypothetical protein
+CEPAIKFI_00753	gene	678				
+CEPAIKFI_00753	CDS	678				hypothetical protein
+CEPAIKFI_00754	gene	654				
+CEPAIKFI_00754	CDS	654				hypothetical protein
+CEPAIKFI_00755	gene	1305	leuC			
+CEPAIKFI_00755	CDS	1305	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+CEPAIKFI_00756	gene	1035	icd			
+CEPAIKFI_00756	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+CEPAIKFI_00757	gene	888	nadK			
+CEPAIKFI_00757	CDS	888	nadK	2.7.1.23		NAD kinase
+CEPAIKFI_00758	gene	186	rpmD			
+CEPAIKFI_00758	CDS	186	rpmD			50S ribosomal protein L30
+CEPAIKFI_00759	gene	444	rplO			
+CEPAIKFI_00759	CDS	444	rplO			50S ribosomal protein L15
+CEPAIKFI_00760	gene	1269	secY			
+CEPAIKFI_00760	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+CEPAIKFI_00761	gene	642	adk			
+CEPAIKFI_00761	CDS	642	adk	2.7.4.3		Adenylate kinase
+CEPAIKFI_00762	gene	270				
+CEPAIKFI_00762	CDS	270				hypothetical protein
+CEPAIKFI_00763	gene	219	infA			
+CEPAIKFI_00763	CDS	219	infA		COG0361	Translation initiation factor IF-1
+CEPAIKFI_00764	gene	114	rpmJ			
+CEPAIKFI_00764	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+CEPAIKFI_00765	gene	825	aroF			
+CEPAIKFI_00765	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+CEPAIKFI_00766	gene	552	bioY			
+CEPAIKFI_00766	CDS	552	bioY		COG1268	Biotin transporter BioY
+CEPAIKFI_00767	gene	756	norV			
+CEPAIKFI_00767	CDS	756	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+CEPAIKFI_00768	gene	1116	recF			
+CEPAIKFI_00768	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+CEPAIKFI_00769	gene	210				
+CEPAIKFI_00769	CDS	210				hypothetical protein
+CEPAIKFI_00770	gene	402	dnaN			
+CEPAIKFI_00770	CDS	402	dnaN			Beta sliding clamp
+CEPAIKFI_00771	gene	1266	clpX			
+CEPAIKFI_00771	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+CEPAIKFI_00772	gene	951				
+CEPAIKFI_00772	CDS	951				hypothetical protein
+CEPAIKFI_00773	gene	1884				
+CEPAIKFI_00773	CDS	1884				hypothetical protein
+CEPAIKFI_00774	gene	1968				
+CEPAIKFI_00774	CDS	1968				hypothetical protein
+CEPAIKFI_00775	gene	1953	malP			
+CEPAIKFI_00775	CDS	1953	malP	2.4.1.8		Maltose phosphorylase
+CEPAIKFI_00776	gene	678	lolD			
+CEPAIKFI_00776	CDS	678	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+CEPAIKFI_00777	gene	2307				
+CEPAIKFI_00777	CDS	2307				hypothetical protein
+CEPAIKFI_00778	gene	780	aroK			
+CEPAIKFI_00778	CDS	780	aroK	2.7.1.71		Shikimate kinase
+CEPAIKFI_00779	gene	720	aroC			
+CEPAIKFI_00779	CDS	720	aroC	4.2.3.5		Chorismate synthase
+CEPAIKFI_00780	gene	489				
+CEPAIKFI_00780	CDS	489				hypothetical protein
+CEPAIKFI_00781	gene	636	lexA			
+CEPAIKFI_00781	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+CEPAIKFI_00782	gene	1140	xerD			
+CEPAIKFI_00782	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+CEPAIKFI_00783	gene	1446	fcl			
+CEPAIKFI_00783	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+CEPAIKFI_00784	gene	1101	mshA			
+CEPAIKFI_00784	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CEPAIKFI_00785	gene	261	tuaG			
+CEPAIKFI_00785	CDS	261	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+CEPAIKFI_00786	gene	522	rplJ			
+CEPAIKFI_00786	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+CEPAIKFI_00787	gene	369	rplL			
+CEPAIKFI_00787	CDS	369	rplL			50S ribosomal protein L7/L12
+CEPAIKFI_00788	gene	1140	pgl			
+CEPAIKFI_00788	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+CEPAIKFI_00789	gene	285				
+CEPAIKFI_00789	CDS	285				hypothetical protein
+CEPAIKFI_00790	gene	555	rnmV			
+CEPAIKFI_00790	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+CEPAIKFI_00791	gene	879	rsmA			
+CEPAIKFI_00791	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+CEPAIKFI_00792	gene	870				
+CEPAIKFI_00792	CDS	870				hypothetical protein
+CEPAIKFI_00793	gene	303	ung			
+CEPAIKFI_00793	CDS	303	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+CEPAIKFI_00794	gene	606				
+CEPAIKFI_00794	CDS	606				hypothetical protein
+CEPAIKFI_00795	gene	861				
+CEPAIKFI_00795	CDS	861				hypothetical protein
+CEPAIKFI_00796	gene	441	yqeY			
+CEPAIKFI_00796	CDS	441	yqeY		COG1610	putative protein YqeY
+CEPAIKFI_00797	gene	180	rpsU			
+CEPAIKFI_00797	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+CEPAIKFI_00798	gene	1911	epmA			
+CEPAIKFI_00798	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+CEPAIKFI_00799	gene	720				
+CEPAIKFI_00799	CDS	720				hypothetical protein
+CEPAIKFI_00800	gene	1371	ykoD_2			
+CEPAIKFI_00800	CDS	1371	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+CEPAIKFI_00801	gene	795	COQ5_2			
+CEPAIKFI_00801	CDS	795	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CEPAIKFI_00802	gene	207	glgC			
+CEPAIKFI_00802	CDS	207	glgC	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+CEPAIKFI_00803	gene	1425	glgA			
+CEPAIKFI_00803	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+CEPAIKFI_00804	gene	531	thrC			
+CEPAIKFI_00804	CDS	531	thrC	4.2.3.1	COG0498	Threonine synthase
+CEPAIKFI_00805	gene	921	thrB			
+CEPAIKFI_00805	CDS	921	thrB	2.7.1.39	COG0083	Homoserine kinase
+CEPAIKFI_00806	gene	1221	ask			
+CEPAIKFI_00806	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+CEPAIKFI_00807	gene	474				
+CEPAIKFI_00807	CDS	474				hypothetical protein
+CEPAIKFI_00808	gene	645	trmR			
+CEPAIKFI_00808	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+CEPAIKFI_00809	gene	1203	mltG			
+CEPAIKFI_00809	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+CEPAIKFI_00810	gene	822	punA			
+CEPAIKFI_00810	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+CEPAIKFI_00811	gene	378				
+CEPAIKFI_00811	CDS	378				hypothetical protein
+CEPAIKFI_00812	gene	441				
+CEPAIKFI_00812	CDS	441				hypothetical protein
+CEPAIKFI_00813	gene	1422				
+CEPAIKFI_00813	CDS	1422				hypothetical protein
+CEPAIKFI_00814	gene	837				
+CEPAIKFI_00814	CDS	837				hypothetical protein
+CEPAIKFI_00815	gene	900				
+CEPAIKFI_00815	CDS	900		3.6.1.66		dITP/XTP pyrophosphatase
+CEPAIKFI_00816	gene	474				
+CEPAIKFI_00816	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+CEPAIKFI_00817	gene	1284	tig			
+CEPAIKFI_00817	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+CEPAIKFI_00818	gene	726	cbiH			
+CEPAIKFI_00818	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+CEPAIKFI_00819	gene	765	cbiJ			
+CEPAIKFI_00819	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+CEPAIKFI_00820	gene	1545				
+CEPAIKFI_00820	CDS	1545				hypothetical protein
+CEPAIKFI_00821	gene	534				
+CEPAIKFI_00821	CDS	534				hypothetical protein
+CEPAIKFI_00822	gene	1461				
+CEPAIKFI_00822	CDS	1461				hypothetical protein
+CEPAIKFI_00823	gene	624	fpuC			
+CEPAIKFI_00823	CDS	624	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+CEPAIKFI_00824	gene	441				
+CEPAIKFI_00824	CDS	441				hypothetical protein
+CEPAIKFI_00825	gene	750	cobB			
+CEPAIKFI_00825	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+CEPAIKFI_00826	gene	519	scpB			
+CEPAIKFI_00826	CDS	519	scpB		COG1386	Segregation and condensation protein B
+CEPAIKFI_00827	gene	495	scpA			
+CEPAIKFI_00827	CDS	495	scpA			Segregation and condensation protein A
+CEPAIKFI_00828	gene	561	pth			
+CEPAIKFI_00828	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+CEPAIKFI_00829	gene	459				
+CEPAIKFI_00829	CDS	459				hypothetical protein
+CEPAIKFI_00830	gene	477				
+CEPAIKFI_00830	CDS	477				hypothetical protein
+CEPAIKFI_00831	gene	405				
+CEPAIKFI_00831	CDS	405				hypothetical protein
+CEPAIKFI_00832	gene	444				
+CEPAIKFI_00832	CDS	444				hypothetical protein
+CEPAIKFI_00833	gene	414				
+CEPAIKFI_00833	CDS	414				hypothetical protein
+CEPAIKFI_00834	gene	699				
+CEPAIKFI_00834	CDS	699				hypothetical protein
+CEPAIKFI_00835	gene	1518				
+CEPAIKFI_00835	CDS	1518			COG1132	putative ABC transporter ATP-binding protein
+CEPAIKFI_00836	gene	609				
+CEPAIKFI_00836	CDS	609				hypothetical protein
+CEPAIKFI_00837	gene	705				
+CEPAIKFI_00837	CDS	705				hypothetical protein
+CEPAIKFI_00838	gene	936	rsmH			
+CEPAIKFI_00838	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+CEPAIKFI_00839	gene	750	lgt			
+CEPAIKFI_00839	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+CEPAIKFI_00840	gene	192				
+CEPAIKFI_00840	CDS	192				hypothetical protein
+CEPAIKFI_00841	gene	405	pta_1			
+CEPAIKFI_00841	CDS	405	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+CEPAIKFI_00842	gene	459	tsaE			
+CEPAIKFI_00842	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+CEPAIKFI_00843	gene	720	tsaB			
+CEPAIKFI_00843	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+CEPAIKFI_00844	gene	450	rimI			
+CEPAIKFI_00844	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+CEPAIKFI_00845	gene	351				
+CEPAIKFI_00845	CDS	351				hypothetical protein
+CEPAIKFI_00846	gene	867	comEC			
+CEPAIKFI_00846	CDS	867	comEC		COG0658	ComE operon protein 3
+CEPAIKFI_00847	gene	906				
+CEPAIKFI_00847	CDS	906				hypothetical protein
+CEPAIKFI_00848	gene	474				
+CEPAIKFI_00848	CDS	474				hypothetical protein
+CEPAIKFI_00849	gene	915	lacC			
+CEPAIKFI_00849	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+CEPAIKFI_00850	gene	753	lacR			
+CEPAIKFI_00850	CDS	753	lacR			Lactose phosphotransferase system repressor
+CEPAIKFI_00851	gene	102				
+CEPAIKFI_00851	CDS	102				hypothetical protein
+CEPAIKFI_00852	gene	540				
+CEPAIKFI_00852	CDS	540				hypothetical protein
+CEPAIKFI_00853	gene	609				
+CEPAIKFI_00853	CDS	609				hypothetical protein
+CEPAIKFI_00854	gene	186				
+CEPAIKFI_00854	CDS	186				hypothetical protein
+CEPAIKFI_00855	gene	1317	cpdA			
+CEPAIKFI_00855	CDS	1317	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+CEPAIKFI_00856	gene	627	gloC			
+CEPAIKFI_00856	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+CEPAIKFI_00857	gene	1560				
+CEPAIKFI_00857	CDS	1560				hypothetical protein
+CEPAIKFI_00858	gene	603				
+CEPAIKFI_00858	CDS	603				hypothetical protein
+CEPAIKFI_00859	gene	561				
+CEPAIKFI_00859	CDS	561				hypothetical protein
+CEPAIKFI_00860	gene	549	chrA1			
+CEPAIKFI_00860	CDS	549	chrA1			Chromate transport protein
+CEPAIKFI_00861	gene	189				
+CEPAIKFI_00861	CDS	189				Rubredoxin
+CEPAIKFI_00862	gene	351	dhaD			
+CEPAIKFI_00862	CDS	351	dhaD	1.1.1.6		Glycerol dehydrogenase
+CEPAIKFI_00863	gene	582	pyrE			
+CEPAIKFI_00863	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+CEPAIKFI_00864	gene	903	pyrD			
+CEPAIKFI_00864	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+CEPAIKFI_00865	gene	690	pyrK			
+CEPAIKFI_00865	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+CEPAIKFI_00866	gene	606	pyrB			
+CEPAIKFI_00866	CDS	606	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+CEPAIKFI_00867	gene	885				
+CEPAIKFI_00867	CDS	885				hypothetical protein
+CEPAIKFI_00868	gene	828	panB			
+CEPAIKFI_00868	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+CEPAIKFI_00869	gene	849	panC			
+CEPAIKFI_00869	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+CEPAIKFI_00870	gene	1614	nnr			
+CEPAIKFI_00870	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+CEPAIKFI_00871	gene	453				
+CEPAIKFI_00871	CDS	453				hypothetical protein
+CEPAIKFI_00872	gene	2973				
+CEPAIKFI_00872	CDS	2973				hypothetical protein
+CEPAIKFI_00873	gene	726	trmD			
+CEPAIKFI_00873	CDS	726	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+CEPAIKFI_00874	gene	1158				
+CEPAIKFI_00874	CDS	1158				hypothetical protein
+CEPAIKFI_00875	gene	972	tyrS			
+CEPAIKFI_00875	CDS	972	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+CEPAIKFI_00876	gene	186	dxs			
+CEPAIKFI_00876	CDS	186	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+CEPAIKFI_00877	gene	843	tlyA			
+CEPAIKFI_00877	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+CEPAIKFI_00878	gene	1683	recN			
+CEPAIKFI_00878	CDS	1683	recN		COG0497	DNA repair protein RecN
+CEPAIKFI_00879	gene	339				
+CEPAIKFI_00879	CDS	339				hypothetical protein
+CEPAIKFI_00880	gene	297				
+CEPAIKFI_00880	CDS	297				hypothetical protein
+CEPAIKFI_00881	gene	1128				
+CEPAIKFI_00881	CDS	1128				hypothetical protein
+CEPAIKFI_00882	gene	462				
+CEPAIKFI_00882	CDS	462				hypothetical protein
+CEPAIKFI_00883	gene	381				
+CEPAIKFI_00883	CDS	381				hypothetical protein
+CEPAIKFI_00884	gene	702	lytB			
+CEPAIKFI_00884	CDS	702	lytB		COG2247	Amidase enhancer
+CEPAIKFI_00885	gene	540	puuR			
+CEPAIKFI_00885	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+CEPAIKFI_00886	gene	1044	potA			
+CEPAIKFI_00886	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+CEPAIKFI_00887	gene	1356	prpC			
+CEPAIKFI_00887	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+CEPAIKFI_00888	gene	849				
+CEPAIKFI_00888	CDS	849				DegV domain-containing protein
+CEPAIKFI_00889	gene	552	fusA_2			
+CEPAIKFI_00889	CDS	552	fusA_2		COG0480	Elongation factor G
+CEPAIKFI_00890	gene	366				
+CEPAIKFI_00890	CDS	366				hypothetical protein
+CEPAIKFI_00891	gene	1041				
+CEPAIKFI_00891	CDS	1041				hypothetical protein
+CEPAIKFI_00892	gene	1437	rcsC			
+CEPAIKFI_00892	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+CEPAIKFI_00893	gene	195	walR			
+CEPAIKFI_00893	CDS	195	walR		COG0745	Transcriptional regulatory protein WalR
+CEPAIKFI_00894	gene	141				
+CEPAIKFI_00894	CDS	141				hypothetical protein
+CEPAIKFI_00895	gene	540	folT			
+CEPAIKFI_00895	CDS	540	folT			Folate transporter FolT
+CEPAIKFI_00896	gene	888	ispH			
+CEPAIKFI_00896	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+CEPAIKFI_00897	gene	615	plsC			
+CEPAIKFI_00897	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+CEPAIKFI_00898	gene	453	cmk			
+CEPAIKFI_00898	CDS	453	cmk	2.7.4.25	COG0283	Cytidylate kinase
+CEPAIKFI_00899	gene	840	znuA			
+CEPAIKFI_00899	CDS	840	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+CEPAIKFI_00900	gene	669	mntB			
+CEPAIKFI_00900	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+CEPAIKFI_00901	gene	786	znuB			
+CEPAIKFI_00901	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+CEPAIKFI_00902	gene	297				
+CEPAIKFI_00902	CDS	297				hypothetical protein
+CEPAIKFI_00903	gene	375				
+CEPAIKFI_00903	CDS	375				hypothetical protein
+CEPAIKFI_00904	gene	930				
+CEPAIKFI_00904	CDS	930				hypothetical protein
+CEPAIKFI_00905	gene	777				
+CEPAIKFI_00905	CDS	777				hypothetical protein
+CEPAIKFI_00906	gene	600	dapA_2			
+CEPAIKFI_00906	CDS	600	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CEPAIKFI_00907	gene	606	rpsD			
+CEPAIKFI_00907	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+CEPAIKFI_00908	gene	744	artM			
+CEPAIKFI_00908	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+CEPAIKFI_00909	gene	303	glnM			
+CEPAIKFI_00909	CDS	303	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+CEPAIKFI_00910	gene	267				
+CEPAIKFI_00910	CDS	267				hypothetical protein
+CEPAIKFI_00911	gene	1413	alsT_2			
+CEPAIKFI_00911	CDS	1413	alsT_2		COG1115	Amino-acid carrier protein AlsT
+CEPAIKFI_00912	gene	2439	gyrA			
+CEPAIKFI_00912	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+CEPAIKFI_00913	gene	153	gyrB			
+CEPAIKFI_00913	CDS	153	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+CEPAIKFI_00914	gene	300				
+CEPAIKFI_00914	CDS	300				hypothetical protein
+CEPAIKFI_00915	gene	171				
+CEPAIKFI_00915	CDS	171				hypothetical protein
+CEPAIKFI_00916	gene	234				
+CEPAIKFI_00916	CDS	234				hypothetical protein
+CEPAIKFI_00917	gene	306				
+CEPAIKFI_00917	CDS	306				hypothetical protein
+CEPAIKFI_00918	gene	99				
+CEPAIKFI_00918	CDS	99				hypothetical protein
+CEPAIKFI_00919	gene	375				
+CEPAIKFI_00919	CDS	375				hypothetical protein
+CEPAIKFI_00920	gene	612				
+CEPAIKFI_00920	CDS	612				hypothetical protein
+CEPAIKFI_00921	gene	1077				
+CEPAIKFI_00921	CDS	1077				hypothetical protein
+CEPAIKFI_00922	gene	522	bcrC			
+CEPAIKFI_00922	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+CEPAIKFI_00923	gene	234				
+CEPAIKFI_00923	CDS	234				hypothetical protein
+CEPAIKFI_00924	gene	177				
+CEPAIKFI_00924	CDS	177				hypothetical protein
+CEPAIKFI_00925	gene	687	graR			
+CEPAIKFI_00925	CDS	687	graR		COG0745	Response regulator protein GraR
+CEPAIKFI_00926	gene	990	graS			
+CEPAIKFI_00926	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+CEPAIKFI_00927	gene	906				
+CEPAIKFI_00927	CDS	906				hypothetical protein
+CEPAIKFI_00928	gene	795				
+CEPAIKFI_00928	CDS	795				hypothetical protein
+CEPAIKFI_00929	gene	366				
+CEPAIKFI_00929	CDS	366				hypothetical protein
+CEPAIKFI_00930	gene	2082	ligA			
+CEPAIKFI_00930	CDS	2082	ligA	6.5.1.2		DNA ligase
+CEPAIKFI_00931	gene	603	nudL			
+CEPAIKFI_00931	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+CEPAIKFI_00932	gene	291				
+CEPAIKFI_00932	CDS	291				hypothetical protein
+CEPAIKFI_00933	gene	762	ribX			
+CEPAIKFI_00933	CDS	762	ribX			Riboflavin transport system permease protein RibX
+CEPAIKFI_00934	gene	213				
+CEPAIKFI_00934	CDS	213				hypothetical protein
+CEPAIKFI_00935	gene	561	mltC			
+CEPAIKFI_00935	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+CEPAIKFI_00936	gene	606	coaE			
+CEPAIKFI_00936	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+CEPAIKFI_00937	gene	1005	polA			
+CEPAIKFI_00937	CDS	1005	polA	2.7.7.7		DNA polymerase I
+CEPAIKFI_00938	gene	456				
+CEPAIKFI_00938	CDS	456				hypothetical protein
+CEPAIKFI_00939	gene	114				
+CEPAIKFI_00939	CDS	114				hypothetical protein
+CEPAIKFI_00940	gene	204				
+CEPAIKFI_00940	CDS	204				hypothetical protein
+CEPAIKFI_00941	gene	291				
+CEPAIKFI_00941	CDS	291				hypothetical protein
+CEPAIKFI_00942	gene	252				
+CEPAIKFI_00942	CDS	252				hypothetical protein
+CEPAIKFI_00943	gene	540	clcA			
+CEPAIKFI_00943	CDS	540	clcA			H(+)/Cl(-) exchange transporter ClcA
+CEPAIKFI_00944	gene	774				
+CEPAIKFI_00944	CDS	774				hypothetical protein
+CEPAIKFI_00945	gene	675	ecfT_1			
+CEPAIKFI_00945	CDS	675	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+CEPAIKFI_00946	gene	1230				
+CEPAIKFI_00946	CDS	1230				hypothetical protein
+CEPAIKFI_00947	gene	243				
+CEPAIKFI_00947	CDS	243				hypothetical protein
+CEPAIKFI_00948	gene	576				
+CEPAIKFI_00948	CDS	576				hypothetical protein
+CEPAIKFI_00949	gene	879	uvrB			
+CEPAIKFI_00949	CDS	879	uvrB			UvrABC system protein B
+CEPAIKFI_00950	gene	762				
+CEPAIKFI_00950	CDS	762				hypothetical protein
+CEPAIKFI_00951	gene	468				
+CEPAIKFI_00951	CDS	468				hypothetical protein
+CEPAIKFI_00952	gene	756				
+CEPAIKFI_00952	CDS	756				hypothetical protein
+CEPAIKFI_00953	gene	1584				
+CEPAIKFI_00953	CDS	1584				hypothetical protein
+CEPAIKFI_00954	gene	786				
+CEPAIKFI_00954	CDS	786				hypothetical protein
+CEPAIKFI_00955	gene	930	gloB_2			
+CEPAIKFI_00955	CDS	930	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+CEPAIKFI_00956	gene	246				
+CEPAIKFI_00956	CDS	246				hypothetical protein
+CEPAIKFI_00957	gene	540	tgt			
+CEPAIKFI_00957	CDS	540	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+CEPAIKFI_00958	gene	321	yajC			
+CEPAIKFI_00958	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+CEPAIKFI_00959	gene	144				
+CEPAIKFI_00959	CDS	144				hypothetical protein
+CEPAIKFI_00960	gene	954	lytC_6			
+CEPAIKFI_00960	CDS	954	lytC_6	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CEPAIKFI_00961	gene	993	malR			
+CEPAIKFI_00961	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+CEPAIKFI_00962	gene	348	crcB_1			
+CEPAIKFI_00962	CDS	348	crcB_1			Putative fluoride ion transporter CrcB
+CEPAIKFI_00963	gene	462	crcB_2			
+CEPAIKFI_00963	CDS	462	crcB_2			Putative fluoride ion transporter CrcB
+CEPAIKFI_00964	gene	921	rbn			
+CEPAIKFI_00964	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+CEPAIKFI_00965	gene	537	rne			
+CEPAIKFI_00965	CDS	537	rne	3.1.26.12		Ribonuclease E
+CEPAIKFI_00966	gene	1239	rps1			
+CEPAIKFI_00966	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+CEPAIKFI_00967	gene	732	rluB			
+CEPAIKFI_00967	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+CEPAIKFI_00968	gene	705				
+CEPAIKFI_00968	CDS	705				hypothetical protein
+CEPAIKFI_00969	gene	597	sfrB			
+CEPAIKFI_00969	CDS	597	sfrB	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+CEPAIKFI_00970	gene	360	cbiE			
+CEPAIKFI_00970	CDS	360	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+CEPAIKFI_00971	gene	567	cbiT			
+CEPAIKFI_00971	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+CEPAIKFI_00972	gene	759	cbiF			
+CEPAIKFI_00972	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+CEPAIKFI_00973	gene	231				
+CEPAIKFI_00973	CDS	231				hypothetical protein
+CEPAIKFI_00974	gene	750				
+CEPAIKFI_00974	CDS	750				hypothetical protein
+CEPAIKFI_00975	gene	402				
+CEPAIKFI_00975	CDS	402				hypothetical protein
+CEPAIKFI_00976	gene	240				
+CEPAIKFI_00976	CDS	240				hypothetical protein
+CEPAIKFI_00977	gene	630	upp			
+CEPAIKFI_00977	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+CEPAIKFI_00978	gene	447	ywlF			
+CEPAIKFI_00978	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+CEPAIKFI_00979	gene	213				
+CEPAIKFI_00979	CDS	213				hypothetical protein
+CEPAIKFI_00980	gene	1146				
+CEPAIKFI_00980	CDS	1146				hypothetical protein
+CEPAIKFI_00981	gene	945	hmo_2			
+CEPAIKFI_00981	CDS	945	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+CEPAIKFI_00982	gene	321				
+CEPAIKFI_00982	CDS	321				hypothetical protein
+CEPAIKFI_00983	gene	228				
+CEPAIKFI_00983	CDS	228				hypothetical protein
+CEPAIKFI_00984	gene	603				
+CEPAIKFI_00984	CDS	603				hypothetical protein
+CEPAIKFI_00985	gene	183				
+CEPAIKFI_00985	CDS	183				hypothetical protein
+CEPAIKFI_00986	gene	771	rhmA			
+CEPAIKFI_00986	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+CEPAIKFI_00987	gene	822	mscS			
+CEPAIKFI_00987	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+CEPAIKFI_00988	gene	396				
+CEPAIKFI_00988	CDS	396				hypothetical protein
+CEPAIKFI_00989	gene	534				
+CEPAIKFI_00989	CDS	534			COG1132	putative ABC transporter ATP-binding protein
+CEPAIKFI_00990	gene	1065	prfA			
+CEPAIKFI_00990	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+CEPAIKFI_00991	gene	705	prmB			
+CEPAIKFI_00991	CDS	705	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+CEPAIKFI_00992	gene	417	atpB			
+CEPAIKFI_00992	CDS	417	atpB		COG0356	ATP synthase subunit a
+CEPAIKFI_00993	gene	264	atpE			
+CEPAIKFI_00993	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+CEPAIKFI_00994	gene	507	atpF			
+CEPAIKFI_00994	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+CEPAIKFI_00995	gene	543	atpH			
+CEPAIKFI_00995	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+CEPAIKFI_00996	gene	630				
+CEPAIKFI_00996	CDS	630			COG0488	putative ABC transporter ATP-binding protein
+CEPAIKFI_00997	gene	636	rex1			
+CEPAIKFI_00997	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+CEPAIKFI_00998	gene	168				
+CEPAIKFI_00998	CDS	168			COG1145	Ferredoxin
+CEPAIKFI_00999	gene	609				
+CEPAIKFI_00999	CDS	609				hypothetical protein
+CEPAIKFI_01000	gene	747	recO			
+CEPAIKFI_01000	CDS	747	recO		COG1381	DNA repair protein RecO
+CEPAIKFI_01001	gene	1200				
+CEPAIKFI_01001	CDS	1200		2.6.1.1		Aspartate aminotransferase
+CEPAIKFI_01002	gene	504				
+CEPAIKFI_01002	CDS	504				hypothetical protein
+CEPAIKFI_01003	gene	282	hup			
+CEPAIKFI_01003	CDS	282	hup			DNA-binding protein HU
+CEPAIKFI_01004	gene	240				
+CEPAIKFI_01004	CDS	240			COG1188	putative protein
+CEPAIKFI_01005	gene	894	gtaB			
+CEPAIKFI_01005	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+CEPAIKFI_01006	gene	507	engB			
+CEPAIKFI_01006	CDS	507	engB		COG0218	putative GTP-binding protein EngB
+CEPAIKFI_01007	gene	546	hpt_2			
+CEPAIKFI_01007	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+CEPAIKFI_01008	gene	288	pagR			
+CEPAIKFI_01008	CDS	288	pagR			Transcriptional repressor PagR
+CEPAIKFI_01009	gene	1119	ribD			
+CEPAIKFI_01009	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+CEPAIKFI_01010	gene	597				
+CEPAIKFI_01010	CDS	597				hypothetical protein
+CEPAIKFI_01011	gene	1269				
+CEPAIKFI_01011	CDS	1269				hypothetical protein
+CEPAIKFI_01012	gene	1347	pgi			
+CEPAIKFI_01012	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+CEPAIKFI_01013	gene	693				
+CEPAIKFI_01013	CDS	693				hypothetical protein
+CEPAIKFI_01014	gene	1770	msbA_2			
+CEPAIKFI_01014	CDS	1770	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+CEPAIKFI_01015	gene	582				
+CEPAIKFI_01015	CDS	582				hypothetical protein
+CEPAIKFI_01016	gene	1332	mepA_3			
+CEPAIKFI_01016	CDS	1332	mepA_3			Multidrug export protein MepA
+CEPAIKFI_01017	gene	1383				
+CEPAIKFI_01017	CDS	1383				hypothetical protein
+CEPAIKFI_01018	gene	555				
+CEPAIKFI_01018	CDS	555				hypothetical protein
+CEPAIKFI_01019	gene	2070	glyS			
+CEPAIKFI_01019	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+CEPAIKFI_01020	gene	1332				
+CEPAIKFI_01020	CDS	1332				hypothetical protein
+CEPAIKFI_01021	gene	1329				
+CEPAIKFI_01021	CDS	1329				hypothetical protein
+CEPAIKFI_01022	gene	957	prs			
+CEPAIKFI_01022	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+CEPAIKFI_01023	gene	972	pta_2			
+CEPAIKFI_01023	CDS	972	pta_2	2.3.1.8		Phosphate acetyltransferase
+CEPAIKFI_01024	gene	477				
+CEPAIKFI_01024	CDS	477				hypothetical protein
+CEPAIKFI_01025	gene	276	csoR			
+CEPAIKFI_01025	CDS	276	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+CEPAIKFI_01026	gene	438				
+CEPAIKFI_01026	CDS	438				hypothetical protein
+CEPAIKFI_01027	gene	1059				
+CEPAIKFI_01027	CDS	1059			COG0582	Putative prophage phiRv2 integrase
+CEPAIKFI_01028	gene	285	guaA			
+CEPAIKFI_01028	CDS	285	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+CEPAIKFI_01029	gene	252				
+CEPAIKFI_01029	CDS	252				hypothetical protein
+CEPAIKFI_01030	gene	561	nfrA1			
+CEPAIKFI_01030	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+CEPAIKFI_01031	gene	327				
+CEPAIKFI_01031	CDS	327				hypothetical protein
+CEPAIKFI_01032	gene	627				
+CEPAIKFI_01032	CDS	627				hypothetical protein
+CEPAIKFI_01033	gene	732				
+CEPAIKFI_01033	CDS	732				hypothetical protein
+CEPAIKFI_01034	gene	1653				
+CEPAIKFI_01034	CDS	1653				hypothetical protein
+CEPAIKFI_01035	gene	645				
+CEPAIKFI_01035	CDS	645				hypothetical protein
+CEPAIKFI_01036	gene	297				
+CEPAIKFI_01036	CDS	297				hypothetical protein
+CEPAIKFI_01037	gene	1116	pyrC			
+CEPAIKFI_01037	CDS	1116	pyrC	3.5.2.3		Dihydroorotase
+CEPAIKFI_01038	gene	651	tal			
+CEPAIKFI_01038	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+CEPAIKFI_01039	gene	1557				
+CEPAIKFI_01039	CDS	1557				hypothetical protein
+CEPAIKFI_01040	gene	486				
+CEPAIKFI_01040	CDS	486				hypothetical protein
+CEPAIKFI_01041	gene	1824	dnaG			
+CEPAIKFI_01041	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+CEPAIKFI_01042	gene	594	addA_2			
+CEPAIKFI_01042	CDS	594	addA_2	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+CEPAIKFI_01043	gene	684				
+CEPAIKFI_01043	CDS	684				hypothetical protein
+CEPAIKFI_01044	gene	867	xerC_1			
+CEPAIKFI_01044	CDS	867	xerC_1			Tyrosine recombinase XerC
+CEPAIKFI_01045	gene	102				
+CEPAIKFI_01045	CDS	102				hypothetical protein
+CEPAIKFI_01046	gene	987	epsF			
+CEPAIKFI_01046	CDS	987	epsF		COG1459	Type II secretion system protein F
+CEPAIKFI_01047	gene	144				
+CEPAIKFI_01047	CDS	144				hypothetical protein
+CEPAIKFI_01048	gene	282				
+CEPAIKFI_01048	CDS	282				hypothetical protein
+CEPAIKFI_01049	gene	846	artP_2			
+CEPAIKFI_01049	CDS	846	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+CEPAIKFI_01050	gene	1218	glgB			
+CEPAIKFI_01050	CDS	1218	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+CEPAIKFI_01051	gene	1002	add			
+CEPAIKFI_01051	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+CEPAIKFI_01052	gene	810	apbC			
+CEPAIKFI_01052	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+CEPAIKFI_01053	gene	660	rsuA			
+CEPAIKFI_01053	CDS	660	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+CEPAIKFI_01054	gene	726				
+CEPAIKFI_01054	CDS	726				hypothetical protein
+CEPAIKFI_01055	gene	1440				
+CEPAIKFI_01055	CDS	1440				hypothetical protein
+CEPAIKFI_01056	gene	687				
+CEPAIKFI_01056	CDS	687				hypothetical protein
+CEPAIKFI_01057	gene	801	artJ			
+CEPAIKFI_01057	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+CEPAIKFI_01058	gene	618	artQ			
+CEPAIKFI_01058	CDS	618	artQ		COG0765	Arginine transport system permease protein ArtQ
+CEPAIKFI_01059	gene	249	pepC			
+CEPAIKFI_01059	CDS	249	pepC	3.4.22.40	COG3579	Aminopeptidase C
+CEPAIKFI_01060	gene	1083	hhoB			
+CEPAIKFI_01060	CDS	1083	hhoB			Putative serine protease HhoB
+CEPAIKFI_01061	gene	750	tagF			
+CEPAIKFI_01061	CDS	750	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+CEPAIKFI_01062	gene	1122				
+CEPAIKFI_01062	CDS	1122				hypothetical protein
+CEPAIKFI_01063	gene	564	atpD			
+CEPAIKFI_01063	CDS	564	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+CEPAIKFI_01064	gene	270	atpC			
+CEPAIKFI_01064	CDS	270	atpC			ATP synthase epsilon chain
+CEPAIKFI_01065	gene	576				
+CEPAIKFI_01065	CDS	576				hypothetical protein
+CEPAIKFI_01066	gene	966	mraY			
+CEPAIKFI_01066	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+CEPAIKFI_01067	gene	930				
+CEPAIKFI_01067	CDS	930				hypothetical protein
+CEPAIKFI_01068	gene	378				
+CEPAIKFI_01068	CDS	378				hypothetical protein
+CEPAIKFI_01069	gene	597				
+CEPAIKFI_01069	CDS	597				hypothetical protein
+CEPAIKFI_01070	gene	741				
+CEPAIKFI_01070	CDS	741				hypothetical protein
+CEPAIKFI_01071	gene	426				
+CEPAIKFI_01071	CDS	426			COG0716	Flavodoxin
+CEPAIKFI_01072	gene	585				
+CEPAIKFI_01072	CDS	585				hypothetical protein
+CEPAIKFI_01073	gene	198				
+CEPAIKFI_01073	CDS	198				hypothetical protein
+CEPAIKFI_01074	gene	249				
+CEPAIKFI_01074	CDS	249				hypothetical protein
+CEPAIKFI_01075	gene	579				
+CEPAIKFI_01075	CDS	579		6.3.1.12		D-aspartate ligase
+CEPAIKFI_01076	gene	720				
+CEPAIKFI_01076	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+CEPAIKFI_01077	gene	384				
+CEPAIKFI_01077	CDS	384				hypothetical protein
+CEPAIKFI_01078	gene	972	ribF			
+CEPAIKFI_01078	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+CEPAIKFI_01079	gene	255	rpsO			
+CEPAIKFI_01079	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+CEPAIKFI_01080	gene	618				
+CEPAIKFI_01080	CDS	618				hypothetical protein
+CEPAIKFI_01081	gene	1056				
+CEPAIKFI_01081	CDS	1056				hypothetical protein
+CEPAIKFI_01082	gene	579				
+CEPAIKFI_01082	CDS	579				hypothetical protein
+CEPAIKFI_01083	gene	465				
+CEPAIKFI_01083	CDS	465				hypothetical protein
+CEPAIKFI_01084	gene	405				
+CEPAIKFI_01084	CDS	405				hypothetical protein
+CEPAIKFI_01085	gene	918				
+CEPAIKFI_01085	CDS	918				hypothetical protein
+CEPAIKFI_01086	gene	864				
+CEPAIKFI_01086	CDS	864				hypothetical protein
+CEPAIKFI_01087	gene	618	gapA			
+CEPAIKFI_01087	CDS	618	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+CEPAIKFI_01088	gene	726				
+CEPAIKFI_01088	CDS	726				hypothetical protein
+CEPAIKFI_01089	gene	183				
+CEPAIKFI_01089	CDS	183				hypothetical protein
+CEPAIKFI_01090	gene	1365	pycA			
+CEPAIKFI_01090	CDS	1365	pycA	6.4.1.1		Pyruvate carboxylase
+CEPAIKFI_01091	gene	654	gpsB			
+CEPAIKFI_01091	CDS	654	gpsB			Cell cycle protein GpsB
+CEPAIKFI_01092	gene	801	xerC_2			
+CEPAIKFI_01092	CDS	801	xerC_2			Tyrosine recombinase XerC
+CEPAIKFI_01093	gene	354				
+CEPAIKFI_01093	CDS	354				hypothetical protein
+CEPAIKFI_01094	gene	1359	ffh			
+CEPAIKFI_01094	CDS	1359	ffh		COG0541	Signal recognition particle protein
+CEPAIKFI_01095	gene	1572				
+CEPAIKFI_01095	CDS	1572				hypothetical protein
+CEPAIKFI_01096	gene	774	dtd3			
+CEPAIKFI_01096	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+CEPAIKFI_01097	gene	522	niaR			
+CEPAIKFI_01097	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+CEPAIKFI_01098	gene	591				
+CEPAIKFI_01098	CDS	591				hypothetical protein
+CEPAIKFI_01099	gene	1200	mnmE_2			
+CEPAIKFI_01099	CDS	1200	mnmE_2	3.6.-.-		tRNA modification GTPase MnmE
+CEPAIKFI_01100	gene	390				
+CEPAIKFI_01100	CDS	390				hypothetical protein
+CEPAIKFI_01101	gene	1134				
+CEPAIKFI_01101	CDS	1134				hypothetical protein
+CEPAIKFI_01102	gene	219				
+CEPAIKFI_01102	CDS	219				hypothetical protein
+CEPAIKFI_01103	gene	1416	aroA			
+CEPAIKFI_01103	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+CEPAIKFI_01104	gene	816				
+CEPAIKFI_01104	CDS	816				hypothetical protein
+CEPAIKFI_01105	gene	759	nadE			
+CEPAIKFI_01105	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+CEPAIKFI_01106	gene	276				
+CEPAIKFI_01106	CDS	276				hypothetical protein
+CEPAIKFI_01107	gene	402				
+CEPAIKFI_01107	CDS	402				hypothetical protein
+CEPAIKFI_01108	gene	75				
+CEPAIKFI_01108	tRNA	75				tRNA-Arg(tcg)
+CEPAIKFI_01109	gene	1167	patB			
+CEPAIKFI_01109	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+CEPAIKFI_01110	gene	246	purQ			
+CEPAIKFI_01110	CDS	246	purQ	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+CEPAIKFI_01111	gene	1305	pdp			
+CEPAIKFI_01111	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+CEPAIKFI_01112	gene	279	cbiC			
+CEPAIKFI_01112	CDS	279	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+CEPAIKFI_01113	gene	1167	cbiD			
+CEPAIKFI_01113	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+CEPAIKFI_01114	gene	588	mreC			
+CEPAIKFI_01114	CDS	588	mreC		COG1792	Cell shape-determining protein MreC
+CEPAIKFI_01115	gene	486				
+CEPAIKFI_01115	CDS	486				hypothetical protein
+CEPAIKFI_01116	gene	837	ecfA1			
+CEPAIKFI_01116	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+CEPAIKFI_01117	gene	201	rpmE			
+CEPAIKFI_01117	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+CEPAIKFI_01118	gene	327				
+CEPAIKFI_01118	CDS	327				hypothetical protein
+CEPAIKFI_01119	gene	720				
+CEPAIKFI_01119	CDS	720				hypothetical protein
+CEPAIKFI_01120	gene	756	atpA			
+CEPAIKFI_01120	CDS	756	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+CEPAIKFI_01121	gene	1014	ccpA			
+CEPAIKFI_01121	CDS	1014	ccpA		COG1609	Catabolite control protein A
+CEPAIKFI_01122	gene	510				
+CEPAIKFI_01122	CDS	510				hypothetical protein
+CEPAIKFI_01123	gene	657				
+CEPAIKFI_01123	CDS	657				hypothetical protein
+CEPAIKFI_01124	gene	780	serS			
+CEPAIKFI_01124	CDS	780	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+CEPAIKFI_01125	gene	777	yjjP			
+CEPAIKFI_01125	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+CEPAIKFI_01126	gene	810	ecfT_2			
+CEPAIKFI_01126	CDS	810	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+CEPAIKFI_01127	gene	498	ecfA2			
+CEPAIKFI_01127	CDS	498	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+CEPAIKFI_01128	gene	441				
+CEPAIKFI_01128	CDS	441				hypothetical protein
+CEPAIKFI_01129	gene	387				
+CEPAIKFI_01129	CDS	387				hypothetical protein
+CEPAIKFI_01130	gene	597				
+CEPAIKFI_01130	CDS	597		2.7.1.-	COG1597	Putative lipid kinase
+CEPAIKFI_01131	gene	1083				
+CEPAIKFI_01131	CDS	1083				hypothetical protein
+CEPAIKFI_01132	gene	1359	dnaE2			
+CEPAIKFI_01132	CDS	1359	dnaE2	2.7.7.7		Error-prone DNA polymerase
+CEPAIKFI_01133	gene	1104				
+CEPAIKFI_01133	CDS	1104				hypothetical protein
+CEPAIKFI_01134	gene	1527				
+CEPAIKFI_01134	CDS	1527				hypothetical protein
+CEPAIKFI_01135	gene	228				
+CEPAIKFI_01135	CDS	228				hypothetical protein
+CEPAIKFI_01136	gene	1119				
+CEPAIKFI_01136	CDS	1119				hypothetical protein
+CEPAIKFI_01137	gene	1185				
+CEPAIKFI_01137	CDS	1185		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+CEPAIKFI_01138	gene	90				
+CEPAIKFI_01138	rRNA	90				5S ribosomal RNA (partial)
+CEPAIKFI_01139	gene	201				
+CEPAIKFI_01139	CDS	201				hypothetical protein
+CEPAIKFI_01140	gene	1116	lysN			
+CEPAIKFI_01140	CDS	1116	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+CEPAIKFI_01141	gene	636	nrdE			
+CEPAIKFI_01141	CDS	636	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+CEPAIKFI_01142	gene	987	nrdF			
+CEPAIKFI_01142	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+CEPAIKFI_01143	gene	768	fruA			
+CEPAIKFI_01143	CDS	768	fruA		COG1299	PTS system fructose-specific EIIABC component
+CEPAIKFI_01144	gene	246				
+CEPAIKFI_01144	CDS	246				hypothetical protein
+CEPAIKFI_01145	gene	591	lytC_7			
+CEPAIKFI_01145	CDS	591	lytC_7	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+CEPAIKFI_01146	gene	180				
+CEPAIKFI_01146	CDS	180				hypothetical protein
+CEPAIKFI_01147	gene	540	pgsA			
+CEPAIKFI_01147	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+CEPAIKFI_01148	gene	363				
+CEPAIKFI_01148	CDS	363				hypothetical protein
+CEPAIKFI_01149	gene	513				
+CEPAIKFI_01149	CDS	513				hypothetical protein
+CEPAIKFI_01150	gene	624				
+CEPAIKFI_01150	CDS	624				hypothetical protein
+CEPAIKFI_01151	gene	432				
+CEPAIKFI_01151	CDS	432				hypothetical protein
+CEPAIKFI_01152	gene	330				
+CEPAIKFI_01152	CDS	330				hypothetical protein
+CEPAIKFI_01153	gene	300	cshE			
+CEPAIKFI_01153	CDS	300	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+CEPAIKFI_01154	gene	255				
+CEPAIKFI_01154	CDS	255				hypothetical protein
+CEPAIKFI_01155	gene	597				
+CEPAIKFI_01155	CDS	597				hypothetical protein
+CEPAIKFI_01156	gene	903	era			
+CEPAIKFI_01156	CDS	903	era			GTPase Era
+CEPAIKFI_01157	gene	477				
+CEPAIKFI_01157	CDS	477				hypothetical protein
+CEPAIKFI_01158	gene	351				
+CEPAIKFI_01158	CDS	351				putative protein
+CEPAIKFI_01159	gene	189	rpmB			
+CEPAIKFI_01159	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+CEPAIKFI_01160	gene	444				
+CEPAIKFI_01160	CDS	444		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+CEPAIKFI_01161	gene	135				
+CEPAIKFI_01161	CDS	135				hypothetical protein
+CEPAIKFI_01162	gene	591				
+CEPAIKFI_01162	CDS	591				hypothetical protein
+CEPAIKFI_01163	gene	651	pspA_2			
+CEPAIKFI_01163	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+CEPAIKFI_01164	gene	1443	rho			
+CEPAIKFI_01164	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+CEPAIKFI_01165	gene	678	srtA			
+CEPAIKFI_01165	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+CEPAIKFI_01166	gene	159				
+CEPAIKFI_01166	CDS	159				hypothetical protein
+CEPAIKFI_01167	gene	795	fldI			
+CEPAIKFI_01167	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+CEPAIKFI_01168	gene	1083				
+CEPAIKFI_01168	CDS	1083				hypothetical protein
+CEPAIKFI_01169	gene	1014	ugtP_2			
+CEPAIKFI_01169	CDS	1014	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase

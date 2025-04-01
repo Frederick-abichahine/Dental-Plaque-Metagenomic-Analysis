@@ -1,0 +1,3056 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+AKBMDOOL_00001	gene	1731	cdr			
+AKBMDOOL_00001	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+AKBMDOOL_00002	gene	288	pagR			
+AKBMDOOL_00002	CDS	288	pagR			Transcriptional repressor PagR
+AKBMDOOL_00003	gene	546	hpt_1			
+AKBMDOOL_00003	CDS	546	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+AKBMDOOL_00004	gene	723	engB			
+AKBMDOOL_00004	CDS	723	engB			GTP-binding protein EngB
+AKBMDOOL_00005	gene	2424	lon1			
+AKBMDOOL_00005	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+AKBMDOOL_00006	gene	468				
+AKBMDOOL_00006	CDS	468				hypothetical protein
+AKBMDOOL_00007	gene	522				
+AKBMDOOL_00007	CDS	522				hypothetical protein
+AKBMDOOL_00008	gene	240				
+AKBMDOOL_00008	CDS	240				hypothetical protein
+AKBMDOOL_00009	gene	1455				
+AKBMDOOL_00009	CDS	1455				hypothetical protein
+AKBMDOOL_00010	gene	1701	argS			
+AKBMDOOL_00010	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+AKBMDOOL_00011	gene	468				
+AKBMDOOL_00011	CDS	468				hypothetical protein
+AKBMDOOL_00012	gene	2424	mutS2			
+AKBMDOOL_00012	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+AKBMDOOL_00013	gene	1449	pepD_1			
+AKBMDOOL_00013	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+AKBMDOOL_00014	gene	876				
+AKBMDOOL_00014	CDS	876			COG1307	Fatty acid-binding protein
+AKBMDOOL_00015	gene	471	trmL			
+AKBMDOOL_00015	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+AKBMDOOL_00016	gene	639	pdg			
+AKBMDOOL_00016	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+AKBMDOOL_00017	gene	1656	udk			
+AKBMDOOL_00017	CDS	1656	udk	2.7.1.48		Uridine kinase
+AKBMDOOL_00018	gene	606	sipT			
+AKBMDOOL_00018	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+AKBMDOOL_00019	gene	1494	rsmF			
+AKBMDOOL_00019	CDS	1494	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+AKBMDOOL_00020	gene	591				
+AKBMDOOL_00020	CDS	591				hypothetical protein
+AKBMDOOL_00021	gene	1314	pdp			
+AKBMDOOL_00021	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+AKBMDOOL_00022	gene	3783	purL			
+AKBMDOOL_00022	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+AKBMDOOL_00023	gene	1269	purD			
+AKBMDOOL_00023	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+AKBMDOOL_00024	gene	1533	purH			
+AKBMDOOL_00024	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+AKBMDOOL_00025	gene	594	purN			
+AKBMDOOL_00025	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+AKBMDOOL_00026	gene	1077	purM			
+AKBMDOOL_00026	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+AKBMDOOL_00027	gene	477	purE			
+AKBMDOOL_00027	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+AKBMDOOL_00028	gene	2481				
+AKBMDOOL_00028	CDS	2481				hypothetical protein
+AKBMDOOL_00029	gene	708	ytrE_1			
+AKBMDOOL_00029	CDS	708	ytrE_1		COG1136	ABC transporter ATP-binding protein YtrE
+AKBMDOOL_00030	gene	291				
+AKBMDOOL_00030	CDS	291				hypothetical protein
+AKBMDOOL_00031	gene	1506	glpK			
+AKBMDOOL_00031	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+AKBMDOOL_00032	gene	147				
+AKBMDOOL_00032	CDS	147				hypothetical protein
+AKBMDOOL_00033	gene	1788	pepF1			
+AKBMDOOL_00033	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+AKBMDOOL_00034	gene	528				
+AKBMDOOL_00034	CDS	528				hypothetical protein
+AKBMDOOL_00035	gene	1083	hhoB			
+AKBMDOOL_00035	CDS	1083	hhoB			Putative serine protease HhoB
+AKBMDOOL_00036	gene	1326	pepC			
+AKBMDOOL_00036	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+AKBMDOOL_00037	gene	1311				
+AKBMDOOL_00037	CDS	1311				hypothetical protein
+AKBMDOOL_00038	gene	945	hmo_1			
+AKBMDOOL_00038	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+AKBMDOOL_00039	gene	939				
+AKBMDOOL_00039	CDS	939				hypothetical protein
+AKBMDOOL_00040	gene	576				
+AKBMDOOL_00040	CDS	576				hypothetical protein
+AKBMDOOL_00041	gene	270	atpC			
+AKBMDOOL_00041	CDS	270	atpC			ATP synthase epsilon chain
+AKBMDOOL_00042	gene	1401	atpD			
+AKBMDOOL_00042	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+AKBMDOOL_00043	gene	999	atpG			
+AKBMDOOL_00043	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+AKBMDOOL_00044	gene	1503	atpA			
+AKBMDOOL_00044	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+AKBMDOOL_00045	gene	543	atpH			
+AKBMDOOL_00045	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+AKBMDOOL_00046	gene	507	atpF			
+AKBMDOOL_00046	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+AKBMDOOL_00047	gene	264	atpE			
+AKBMDOOL_00047	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+AKBMDOOL_00048	gene	705	atpB			
+AKBMDOOL_00048	CDS	705	atpB		COG0356	ATP synthase subunit a
+AKBMDOOL_00049	gene	402				
+AKBMDOOL_00049	CDS	402				hypothetical protein
+AKBMDOOL_00050	gene	240				
+AKBMDOOL_00050	CDS	240				hypothetical protein
+AKBMDOOL_00051	gene	630	upp			
+AKBMDOOL_00051	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+AKBMDOOL_00052	gene	447	rpiB			
+AKBMDOOL_00052	CDS	447	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+AKBMDOOL_00053	gene	1038	ywlC			
+AKBMDOOL_00053	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+AKBMDOOL_00054	gene	1065	prfA			
+AKBMDOOL_00054	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+AKBMDOOL_00055	gene	915	prmC			
+AKBMDOOL_00055	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+AKBMDOOL_00056	gene	720				
+AKBMDOOL_00056	CDS	720				hypothetical protein
+AKBMDOOL_00057	gene	327				
+AKBMDOOL_00057	CDS	327				hypothetical protein
+AKBMDOOL_00058	gene	201	rpmE			
+AKBMDOOL_00058	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+AKBMDOOL_00059	gene	1443	rho			
+AKBMDOOL_00059	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+AKBMDOOL_00060	gene	894	gtaB			
+AKBMDOOL_00060	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+AKBMDOOL_00061	gene	240				
+AKBMDOOL_00061	CDS	240			COG1188	putative protein
+AKBMDOOL_00062	gene	282	hup			
+AKBMDOOL_00062	CDS	282	hup			DNA-binding protein HU
+AKBMDOOL_00063	gene	1014				
+AKBMDOOL_00063	CDS	1014				hypothetical protein
+AKBMDOOL_00064	gene	1623	murJ_1			
+AKBMDOOL_00064	CDS	1623	murJ_1		COG2244	Lipid II flippase MurJ
+AKBMDOOL_00065	gene	1062	prsA_1			
+AKBMDOOL_00065	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+AKBMDOOL_00066	gene	3405	mfd			
+AKBMDOOL_00066	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+AKBMDOOL_00067	gene	561	pth			
+AKBMDOOL_00067	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+AKBMDOOL_00068	gene	651				
+AKBMDOOL_00068	CDS	651				hypothetical protein
+AKBMDOOL_00069	gene	1065	pilT			
+AKBMDOOL_00069	CDS	1065	pilT		COG2805	Twitching mobility protein
+AKBMDOOL_00070	gene	957	prs			
+AKBMDOOL_00070	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+AKBMDOOL_00071	gene	1392	glmU			
+AKBMDOOL_00071	CDS	1392	glmU			Bifunctional protein GlmU
+AKBMDOOL_00072	gene	651				
+AKBMDOOL_00072	CDS	651				hypothetical protein
+AKBMDOOL_00073	gene	834	purR			
+AKBMDOOL_00073	CDS	834	purR		COG0503	Pur operon repressor
+AKBMDOOL_00074	gene	1362	murC			
+AKBMDOOL_00074	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+AKBMDOOL_00075	gene	870				
+AKBMDOOL_00075	CDS	870				hypothetical protein
+AKBMDOOL_00076	gene	879	rsmA			
+AKBMDOOL_00076	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+AKBMDOOL_00077	gene	555	rnmV			
+AKBMDOOL_00077	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+AKBMDOOL_00078	gene	549				
+AKBMDOOL_00078	CDS	549				hypothetical protein
+AKBMDOOL_00079	gene	651				
+AKBMDOOL_00079	CDS	651				hypothetical protein
+AKBMDOOL_00080	gene	804	proC			
+AKBMDOOL_00080	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+AKBMDOOL_00081	gene	1476				
+AKBMDOOL_00081	CDS	1476				hypothetical protein
+AKBMDOOL_00082	gene	2493				
+AKBMDOOL_00082	CDS	2493				hypothetical protein
+AKBMDOOL_00083	gene	444	ytrE_2			
+AKBMDOOL_00083	CDS	444	ytrE_2		COG1136	ABC transporter ATP-binding protein YtrE
+AKBMDOOL_00084	gene	2070	glyS			
+AKBMDOOL_00084	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+AKBMDOOL_00085	gene	885	glyQ			
+AKBMDOOL_00085	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+AKBMDOOL_00086	gene	609				
+AKBMDOOL_00086	CDS	609				hypothetical protein
+AKBMDOOL_00087	gene	747	recO			
+AKBMDOOL_00087	CDS	747	recO		COG1381	DNA repair protein RecO
+AKBMDOOL_00088	gene	1377				
+AKBMDOOL_00088	CDS	1377			COG2239	Magnesium transporter MgtE
+AKBMDOOL_00089	gene	903	era			
+AKBMDOOL_00089	CDS	903	era			GTPase Era
+AKBMDOOL_00090	gene	897				
+AKBMDOOL_00090	CDS	897				hypothetical protein
+AKBMDOOL_00091	gene	462	ybeY			
+AKBMDOOL_00091	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+AKBMDOOL_00092	gene	1206				
+AKBMDOOL_00092	CDS	1206				hypothetical protein
+AKBMDOOL_00093	gene	552	hpf			
+AKBMDOOL_00093	CDS	552	hpf			Ribosome hibernation promotion factor
+AKBMDOOL_00094	gene	924	fba			
+AKBMDOOL_00094	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+AKBMDOOL_00095	gene	906				
+AKBMDOOL_00095	CDS	906				hypothetical protein
+AKBMDOOL_00096	gene	1104				
+AKBMDOOL_00096	CDS	1104				hypothetical protein
+AKBMDOOL_00097	gene	1545				
+AKBMDOOL_00097	CDS	1545				hypothetical protein
+AKBMDOOL_00098	gene	765	cbiJ			
+AKBMDOOL_00098	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+AKBMDOOL_00099	gene	726	cbiH			
+AKBMDOOL_00099	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+AKBMDOOL_00100	gene	1188	cbiG			
+AKBMDOOL_00100	CDS	1188	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+AKBMDOOL_00101	gene	759	cbiF			
+AKBMDOOL_00101	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+AKBMDOOL_00102	gene	567	cbiT			
+AKBMDOOL_00102	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+AKBMDOOL_00103	gene	720	cbiE			
+AKBMDOOL_00103	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+AKBMDOOL_00104	gene	1167	cbiD			
+AKBMDOOL_00104	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+AKBMDOOL_00105	gene	639	cbiC			
+AKBMDOOL_00105	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+AKBMDOOL_00106	gene	885	pduX			
+AKBMDOOL_00106	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+AKBMDOOL_00107	gene	1092	cobD			
+AKBMDOOL_00107	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+AKBMDOOL_00108	gene	1041	cbiB			
+AKBMDOOL_00108	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+AKBMDOOL_00109	gene	1395	cbiA			
+AKBMDOOL_00109	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+AKBMDOOL_00110	gene	1503	cobQ			
+AKBMDOOL_00110	CDS	1503	cobQ			Cobyric acid synthase
+AKBMDOOL_00111	gene	639	pspA_1			
+AKBMDOOL_00111	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+AKBMDOOL_00112	gene	771	cobS			
+AKBMDOOL_00112	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+AKBMDOOL_00113	gene	588	cobU			
+AKBMDOOL_00113	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+AKBMDOOL_00114	gene	1083	cobT			
+AKBMDOOL_00114	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+AKBMDOOL_00115	gene	1173	ctpB			
+AKBMDOOL_00115	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+AKBMDOOL_00116	gene	936	aptB			
+AKBMDOOL_00116	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+AKBMDOOL_00117	gene	813	aptA			
+AKBMDOOL_00117	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+AKBMDOOL_00118	gene	372	acpS			
+AKBMDOOL_00118	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+AKBMDOOL_00119	gene	1320	sasA_1			
+AKBMDOOL_00119	CDS	1320	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+AKBMDOOL_00120	gene	654	qseB			
+AKBMDOOL_00120	CDS	654	qseB			Transcriptional regulatory protein QseB
+AKBMDOOL_00121	gene	1377				
+AKBMDOOL_00121	CDS	1377				hypothetical protein
+AKBMDOOL_00122	gene	645				
+AKBMDOOL_00122	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+AKBMDOOL_00123	gene	1278				
+AKBMDOOL_00123	CDS	1278				hypothetical protein
+AKBMDOOL_00124	gene	891				
+AKBMDOOL_00124	CDS	891				hypothetical protein
+AKBMDOOL_00125	gene	153				
+AKBMDOOL_00125	CDS	153				hypothetical protein
+AKBMDOOL_00126	gene	1161	resA			
+AKBMDOOL_00126	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+AKBMDOOL_00127	gene	2367				
+AKBMDOOL_00127	CDS	2367				hypothetical protein
+AKBMDOOL_00128	gene	1017				
+AKBMDOOL_00128	CDS	1017		2.4.2.-		Protein ADP-ribosyltransferase
+AKBMDOOL_00129	gene	807				
+AKBMDOOL_00129	CDS	807		3.2.1.-		Protein-ADP-ribose hydrolase
+AKBMDOOL_00130	gene	441	ywnA			
+AKBMDOOL_00130	CDS	441	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+AKBMDOOL_00131	gene	771				
+AKBMDOOL_00131	CDS	771				hypothetical protein
+AKBMDOOL_00132	gene	864	gloB_1			
+AKBMDOOL_00132	CDS	864	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+	repeat_region	1091				
+AKBMDOOL_00133	gene	672				
+AKBMDOOL_00133	CDS	672				hypothetical protein
+AKBMDOOL_00134	gene	306	cas2			
+AKBMDOOL_00134	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+AKBMDOOL_00135	gene	876	cas1			
+AKBMDOOL_00135	CDS	876	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+AKBMDOOL_00136	gene	4101	cas9			
+AKBMDOOL_00136	CDS	4101	cas9	3.1.-.-	COG3513	CRISPR-associated endonuclease Cas9
+AKBMDOOL_00137	gene	1590	clsA_1			
+AKBMDOOL_00137	CDS	1590	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+AKBMDOOL_00138	gene	267				
+AKBMDOOL_00138	CDS	267				hypothetical protein
+AKBMDOOL_00139	gene	1413	alsT_1			
+AKBMDOOL_00139	CDS	1413	alsT_1		COG1115	Amino-acid carrier protein AlsT
+AKBMDOOL_00140	gene	1314	hflX			
+AKBMDOOL_00140	CDS	1314	hflX		COG2262	GTPase HflX
+AKBMDOOL_00141	gene	531				
+AKBMDOOL_00141	CDS	531				hypothetical protein
+AKBMDOOL_00142	gene	1260	dacF			
+AKBMDOOL_00142	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+AKBMDOOL_00143	gene	627				
+AKBMDOOL_00143	CDS	627				hypothetical protein
+AKBMDOOL_00144	gene	618				
+AKBMDOOL_00144	CDS	618				hypothetical protein
+AKBMDOOL_00145	gene	1311				
+AKBMDOOL_00145	CDS	1311				hypothetical protein
+AKBMDOOL_00146	gene	4233				
+AKBMDOOL_00146	CDS	4233				hypothetical protein
+AKBMDOOL_00147	gene	1032				
+AKBMDOOL_00147	CDS	1032				hypothetical protein
+AKBMDOOL_00148	gene	834				
+AKBMDOOL_00148	CDS	834				hypothetical protein
+AKBMDOOL_00149	gene	732				
+AKBMDOOL_00149	CDS	732				hypothetical protein
+AKBMDOOL_00150	gene	1218	dctA			
+AKBMDOOL_00150	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+AKBMDOOL_00151	gene	912	pyrB			
+AKBMDOOL_00151	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+AKBMDOOL_00152	gene	690	pyrK			
+AKBMDOOL_00152	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+AKBMDOOL_00153	gene	903	pyrD			
+AKBMDOOL_00153	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+AKBMDOOL_00154	gene	582	pyrE			
+AKBMDOOL_00154	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+AKBMDOOL_00155	gene	774				
+AKBMDOOL_00155	CDS	774				hypothetical protein
+AKBMDOOL_00156	gene	675	ecfT_1			
+AKBMDOOL_00156	CDS	675	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+AKBMDOOL_00157	gene	1413	ykoD_1			
+AKBMDOOL_00157	CDS	1413	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+AKBMDOOL_00158	gene	588				
+AKBMDOOL_00158	CDS	588				hypothetical protein
+AKBMDOOL_00159	gene	1743	msbA_1			
+AKBMDOOL_00159	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+AKBMDOOL_00160	gene	1719				
+AKBMDOOL_00160	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+AKBMDOOL_00161	gene	1740				
+AKBMDOOL_00161	CDS	1740				hypothetical protein
+AKBMDOOL_00162	gene	600				
+AKBMDOOL_00162	CDS	600				hypothetical protein
+AKBMDOOL_00163	gene	672				
+AKBMDOOL_00163	CDS	672				hypothetical protein
+AKBMDOOL_00164	gene	360				
+AKBMDOOL_00164	CDS	360				hypothetical protein
+AKBMDOOL_00165	gene	450				
+AKBMDOOL_00165	CDS	450				hypothetical protein
+AKBMDOOL_00166	gene	1083				
+AKBMDOOL_00166	CDS	1083				hypothetical protein
+AKBMDOOL_00167	gene	495	sigM_1			
+AKBMDOOL_00167	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+AKBMDOOL_00168	gene	1269				
+AKBMDOOL_00168	CDS	1269				hypothetical protein
+AKBMDOOL_00169	gene	549				
+AKBMDOOL_00169	CDS	549				hypothetical protein
+AKBMDOOL_00170	gene	2190				
+AKBMDOOL_00170	CDS	2190				hypothetical protein
+AKBMDOOL_00171	gene	282				
+AKBMDOOL_00171	CDS	282				hypothetical protein
+AKBMDOOL_00172	gene	846	artP_1			
+AKBMDOOL_00172	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+AKBMDOOL_00173	gene	675	artQ_1			
+AKBMDOOL_00173	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+AKBMDOOL_00174	gene	744	artM_1			
+AKBMDOOL_00174	CDS	744	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+AKBMDOOL_00175	gene	606	rpsD			
+AKBMDOOL_00175	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+AKBMDOOL_00176	gene	885	dapA_1			
+AKBMDOOL_00176	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+AKBMDOOL_00177	gene	1194	sdaB			
+AKBMDOOL_00177	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+AKBMDOOL_00178	gene	477				
+AKBMDOOL_00178	CDS	477				hypothetical protein
+AKBMDOOL_00179	gene	636				
+AKBMDOOL_00179	CDS	636				hypothetical protein
+AKBMDOOL_00180	gene	258				
+AKBMDOOL_00180	CDS	258				hypothetical protein
+AKBMDOOL_00181	gene	438				
+AKBMDOOL_00181	CDS	438				hypothetical protein
+AKBMDOOL_00182	gene	849				
+AKBMDOOL_00182	CDS	849				hypothetical protein
+AKBMDOOL_00183	gene	996	rhaR_1			
+AKBMDOOL_00183	CDS	996	rhaR_1			HTH-type transcriptional activator RhaR
+AKBMDOOL_00184	gene	1758	hepA			
+AKBMDOOL_00184	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+AKBMDOOL_00185	gene	1725				
+AKBMDOOL_00185	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+AKBMDOOL_00186	gene	582				
+AKBMDOOL_00186	CDS	582				hypothetical protein
+AKBMDOOL_00187	gene	690	ecfT_2			
+AKBMDOOL_00187	CDS	690	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+AKBMDOOL_00188	gene	1371	ykoD_2			
+AKBMDOOL_00188	CDS	1371	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+AKBMDOOL_00189	gene	795	COQ5_1			
+AKBMDOOL_00189	CDS	795	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AKBMDOOL_00190	gene	876	hslO			
+AKBMDOOL_00190	CDS	876	hslO		COG1281	33 kDa chaperonin
+AKBMDOOL_00191	gene	735	rsuA			
+AKBMDOOL_00191	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+AKBMDOOL_00192	gene	1635				
+AKBMDOOL_00192	CDS	1635		2.1.1.-	COG2265	putative RNA methyltransferase
+AKBMDOOL_00193	gene	282				
+AKBMDOOL_00193	CDS	282				hypothetical protein
+AKBMDOOL_00194	gene	1608				
+AKBMDOOL_00194	CDS	1608				hypothetical protein
+AKBMDOOL_00195	gene	771				
+AKBMDOOL_00195	CDS	771				hypothetical protein
+AKBMDOOL_00196	gene	852	dnaA_1			
+AKBMDOOL_00196	CDS	852	dnaA_1			Chromosomal replication initiator protein DnaA
+AKBMDOOL_00197	gene	486				
+AKBMDOOL_00197	CDS	486				hypothetical protein
+AKBMDOOL_00198	gene	339				
+AKBMDOOL_00198	CDS	339				hypothetical protein
+AKBMDOOL_00199	gene	165				
+AKBMDOOL_00199	CDS	165				hypothetical protein
+AKBMDOOL_00200	gene	1875	fruA			
+AKBMDOOL_00200	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+AKBMDOOL_00201	gene	246				
+AKBMDOOL_00201	CDS	246				hypothetical protein
+AKBMDOOL_00202	gene	1053				
+AKBMDOOL_00202	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+AKBMDOOL_00203	gene	135				
+AKBMDOOL_00203	CDS	135				hypothetical protein
+AKBMDOOL_00204	gene	1404	bioB_1			
+AKBMDOOL_00204	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+AKBMDOOL_00205	gene	1200	mnmE_1			
+AKBMDOOL_00205	CDS	1200	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+AKBMDOOL_00206	gene	492	ycdZ			
+AKBMDOOL_00206	CDS	492	ycdZ			Inner membrane protein YcdZ
+AKBMDOOL_00207	gene	870	sigF			
+AKBMDOOL_00207	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+AKBMDOOL_00208	gene	531				
+AKBMDOOL_00208	CDS	531				hypothetical protein
+AKBMDOOL_00209	gene	1425	accC			
+AKBMDOOL_00209	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+AKBMDOOL_00210	gene	858	accD			
+AKBMDOOL_00210	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+AKBMDOOL_00211	gene	744	accA			
+AKBMDOOL_00211	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+AKBMDOOL_00212	gene	480				
+AKBMDOOL_00212	CDS	480				hypothetical protein
+AKBMDOOL_00213	gene	1017	fabH			
+AKBMDOOL_00213	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+AKBMDOOL_00214	gene	225	acpP_1			
+AKBMDOOL_00214	CDS	225	acpP_1		COG0236	Acyl carrier protein
+AKBMDOOL_00215	gene	939				
+AKBMDOOL_00215	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+AKBMDOOL_00216	gene	939	fabD			
+AKBMDOOL_00216	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+AKBMDOOL_00217	gene	747	fabG_1			
+AKBMDOOL_00217	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+AKBMDOOL_00218	gene	1236	fabF			
+AKBMDOOL_00218	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+AKBMDOOL_00219	gene	426	fabZ			
+AKBMDOOL_00219	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+AKBMDOOL_00220	gene	1338				
+AKBMDOOL_00220	CDS	1338				Nucleobase transporter PlUacP
+AKBMDOOL_00221	gene	570	xpt			
+AKBMDOOL_00221	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+AKBMDOOL_00222	gene	879				
+AKBMDOOL_00222	CDS	879		2.7.1.-	COG1597	Putative lipid kinase
+AKBMDOOL_00223	gene	387				
+AKBMDOOL_00223	CDS	387				hypothetical protein
+AKBMDOOL_00224	gene	1431				
+AKBMDOOL_00224	CDS	1431				hypothetical protein
+AKBMDOOL_00225	gene	726				
+AKBMDOOL_00225	CDS	726				hypothetical protein
+AKBMDOOL_00226	gene	495				
+AKBMDOOL_00226	CDS	495				hypothetical protein
+AKBMDOOL_00227	gene	384				
+AKBMDOOL_00227	CDS	384			COG1302	Alkaline shock protein 23
+AKBMDOOL_00228	gene	876				
+AKBMDOOL_00228	CDS	876				hypothetical protein
+AKBMDOOL_00229	gene	1482	clsA_2			
+AKBMDOOL_00229	CDS	1482	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+AKBMDOOL_00230	gene	282	groS			
+AKBMDOOL_00230	CDS	282	groS		COG0234	10 kDa chaperonin
+AKBMDOOL_00231	gene	1623	groL			
+AKBMDOOL_00231	CDS	1623	groL		COG0459	60 kDa chaperonin
+AKBMDOOL_00232	gene	1536	guaA			
+AKBMDOOL_00232	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+AKBMDOOL_00233	gene	2484				
+AKBMDOOL_00233	CDS	2484				hypothetical protein
+AKBMDOOL_00234	gene	1050				
+AKBMDOOL_00234	CDS	1050			COG2826	IS30 family transposase ISHahy9
+AKBMDOOL_00235	gene	1197				
+AKBMDOOL_00235	CDS	1197				hypothetical protein
+AKBMDOOL_00236	gene	972	rhaR_2			
+AKBMDOOL_00236	CDS	972	rhaR_2			HTH-type transcriptional activator RhaR
+AKBMDOOL_00237	gene	1767				
+AKBMDOOL_00237	CDS	1767		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+AKBMDOOL_00238	gene	1749				
+AKBMDOOL_00238	CDS	1749			COG1132	putative ABC transporter ATP-binding protein
+AKBMDOOL_00239	gene	225				
+AKBMDOOL_00239	CDS	225				hypothetical protein
+AKBMDOOL_00240	gene	813	der_1			
+AKBMDOOL_00240	CDS	813	der_1			GTPase Der
+AKBMDOOL_00241	gene	315				
+AKBMDOOL_00241	CDS	315				hypothetical protein
+AKBMDOOL_00242	gene	384				
+AKBMDOOL_00242	CDS	384				hypothetical protein
+AKBMDOOL_00243	gene	1386				
+AKBMDOOL_00243	CDS	1386				hypothetical protein
+AKBMDOOL_00244	gene	726				
+AKBMDOOL_00244	CDS	726				hypothetical protein
+AKBMDOOL_00245	gene	222				
+AKBMDOOL_00245	CDS	222				hypothetical protein
+AKBMDOOL_00246	gene	498				
+AKBMDOOL_00246	CDS	498				hypothetical protein
+AKBMDOOL_00247	gene	825				
+AKBMDOOL_00247	CDS	825				hypothetical protein
+AKBMDOOL_00248	gene	819				
+AKBMDOOL_00248	CDS	819				hypothetical protein
+AKBMDOOL_00249	gene	1782				
+AKBMDOOL_00249	CDS	1782				hypothetical protein
+AKBMDOOL_00250	gene	1764				
+AKBMDOOL_00250	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+AKBMDOOL_00251	gene	1698				
+AKBMDOOL_00251	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+AKBMDOOL_00252	gene	927				
+AKBMDOOL_00252	CDS	927				hypothetical protein
+AKBMDOOL_00253	gene	1056				
+AKBMDOOL_00253	CDS	1056				hypothetical protein
+AKBMDOOL_00254	gene	3747	rpoB			
+AKBMDOOL_00254	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+AKBMDOOL_00255	gene	96				
+AKBMDOOL_00255	CDS	96				hypothetical protein
+AKBMDOOL_00256	gene	3555	rpoC			
+AKBMDOOL_00256	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+AKBMDOOL_00257	gene	702				
+AKBMDOOL_00257	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+AKBMDOOL_00258	gene	447				
+AKBMDOOL_00258	CDS	447				hypothetical protein
+AKBMDOOL_00259	gene	1200	gerN			
+AKBMDOOL_00259	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+AKBMDOOL_00260	gene	75				
+AKBMDOOL_00260	tRNA	75				tRNA-Arg(cct)
+AKBMDOOL_00261	gene	291				
+AKBMDOOL_00261	CDS	291				hypothetical protein
+AKBMDOOL_00262	gene	75				
+AKBMDOOL_00262	tRNA	75				tRNA-Arg(tcg)
+AKBMDOOL_00263	gene	1224	pepT			
+AKBMDOOL_00263	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+AKBMDOOL_00264	gene	696				
+AKBMDOOL_00264	CDS	696				hypothetical protein
+AKBMDOOL_00265	gene	489				
+AKBMDOOL_00265	CDS	489				hypothetical protein
+AKBMDOOL_00266	gene	150	rpmG2			
+AKBMDOOL_00266	CDS	150	rpmG2			50S ribosomal protein L33 2
+AKBMDOOL_00267	gene	207	secE			
+AKBMDOOL_00267	CDS	207	secE			Protein translocase subunit SecE
+AKBMDOOL_00268	gene	543	nusG			
+AKBMDOOL_00268	CDS	543	nusG			Transcription termination/antitermination protein NusG
+AKBMDOOL_00269	gene	426	rplK			
+AKBMDOOL_00269	CDS	426	rplK		COG0080	50S ribosomal protein L11
+AKBMDOOL_00270	gene	699	rplA			
+AKBMDOOL_00270	CDS	699	rplA			50S ribosomal protein L1
+AKBMDOOL_00271	gene	522	rplJ			
+AKBMDOOL_00271	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+AKBMDOOL_00272	gene	369	rplL			
+AKBMDOOL_00272	CDS	369	rplL			50S ribosomal protein L7/L12
+AKBMDOOL_00273	gene	1140	pgl			
+AKBMDOOL_00273	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+AKBMDOOL_00274	gene	741				
+AKBMDOOL_00274	CDS	741				hypothetical protein
+AKBMDOOL_00275	gene	645				
+AKBMDOOL_00275	CDS	645				hypothetical protein
+AKBMDOOL_00276	gene	1407				
+AKBMDOOL_00276	CDS	1407				hypothetical protein
+AKBMDOOL_00277	gene	1725				
+AKBMDOOL_00277	CDS	1725				hypothetical protein
+AKBMDOOL_00278	gene	549				
+AKBMDOOL_00278	CDS	549				hypothetical protein
+AKBMDOOL_00279	gene	339				
+AKBMDOOL_00279	CDS	339				hypothetical protein
+AKBMDOOL_00280	gene	297				
+AKBMDOOL_00280	CDS	297				hypothetical protein
+AKBMDOOL_00281	gene	1128				
+AKBMDOOL_00281	CDS	1128				hypothetical protein
+AKBMDOOL_00282	gene	1140				
+AKBMDOOL_00282	CDS	1140				hypothetical protein
+AKBMDOOL_00283	gene	723	pyrF			
+AKBMDOOL_00283	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+AKBMDOOL_00284	gene	1050	carA_1			
+AKBMDOOL_00284	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+AKBMDOOL_00285	gene	3216	carB			
+AKBMDOOL_00285	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+AKBMDOOL_00286	gene	762	truA			
+AKBMDOOL_00286	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+AKBMDOOL_00287	gene	1827	glmS			
+AKBMDOOL_00287	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+AKBMDOOL_00288	gene	1401				
+AKBMDOOL_00288	CDS	1401				hypothetical protein
+AKBMDOOL_00289	gene	747	aroD			
+AKBMDOOL_00289	CDS	747	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+AKBMDOOL_00290	gene	1167	patB			
+AKBMDOOL_00290	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+AKBMDOOL_00291	gene	810	ecfT_3			
+AKBMDOOL_00291	CDS	810	ecfT_3		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+AKBMDOOL_00292	gene	876	ecfA2			
+AKBMDOOL_00292	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+AKBMDOOL_00293	gene	837	ecfA1			
+AKBMDOOL_00293	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+AKBMDOOL_00294	gene	672				
+AKBMDOOL_00294	CDS	672				hypothetical protein
+AKBMDOOL_00295	gene	933				
+AKBMDOOL_00295	CDS	933				hypothetical protein
+AKBMDOOL_00296	gene	336				
+AKBMDOOL_00296	CDS	336				hypothetical protein
+AKBMDOOL_00297	gene	441				
+AKBMDOOL_00297	CDS	441				hypothetical protein
+AKBMDOOL_00298	gene	1422				
+AKBMDOOL_00298	CDS	1422				hypothetical protein
+AKBMDOOL_00299	gene	1242				
+AKBMDOOL_00299	CDS	1242				hypothetical protein
+AKBMDOOL_00300	gene	342	rplQ			
+AKBMDOOL_00300	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+AKBMDOOL_00301	gene	948	rpoA			
+AKBMDOOL_00301	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+AKBMDOOL_00302	gene	402	rpsK			
+AKBMDOOL_00302	CDS	402	rpsK			30S ribosomal protein S11
+AKBMDOOL_00303	gene	369	rpsM			
+AKBMDOOL_00303	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+AKBMDOOL_00304	gene	114	rpmJ			
+AKBMDOOL_00304	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+AKBMDOOL_00305	gene	219	infA			
+AKBMDOOL_00305	CDS	219	infA		COG0361	Translation initiation factor IF-1
+AKBMDOOL_00306	gene	270				
+AKBMDOOL_00306	CDS	270				hypothetical protein
+AKBMDOOL_00307	gene	642	adk			
+AKBMDOOL_00307	CDS	642	adk	2.7.4.3		Adenylate kinase
+AKBMDOOL_00308	gene	1269	secY			
+AKBMDOOL_00308	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+AKBMDOOL_00309	gene	444	rplO			
+AKBMDOOL_00309	CDS	444	rplO			50S ribosomal protein L15
+AKBMDOOL_00310	gene	186	rpmD			
+AKBMDOOL_00310	CDS	186	rpmD			50S ribosomal protein L30
+AKBMDOOL_00311	gene	510	rpsE			
+AKBMDOOL_00311	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+AKBMDOOL_00312	gene	369	rplR			
+AKBMDOOL_00312	CDS	369	rplR		COG0256	50S ribosomal protein L18
+AKBMDOOL_00313	gene	543	rplF			
+AKBMDOOL_00313	CDS	543	rplF			50S ribosomal protein L6
+AKBMDOOL_00314	gene	399	rpsH			
+AKBMDOOL_00314	CDS	399	rpsH			30S ribosomal protein S8
+AKBMDOOL_00315	gene	186	rpsZ			
+AKBMDOOL_00315	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+AKBMDOOL_00316	gene	543	rplE			
+AKBMDOOL_00316	CDS	543	rplE			50S ribosomal protein L5
+AKBMDOOL_00317	gene	309	rplX			
+AKBMDOOL_00317	CDS	309	rplX		COG0198	50S ribosomal protein L24
+AKBMDOOL_00318	gene	369	rplN			
+AKBMDOOL_00318	CDS	369	rplN		COG0093	50S ribosomal protein L14
+AKBMDOOL_00319	gene	255	rpsQ			
+AKBMDOOL_00319	CDS	255	rpsQ			30S ribosomal protein S17
+AKBMDOOL_00320	gene	204	rpmC			
+AKBMDOOL_00320	CDS	204	rpmC			50S ribosomal protein L29
+AKBMDOOL_00321	gene	429	rplP			
+AKBMDOOL_00321	CDS	429	rplP		COG0197	50S ribosomal protein L16
+AKBMDOOL_00322	gene	795	rpsC			
+AKBMDOOL_00322	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+AKBMDOOL_00323	gene	339	rplV			
+AKBMDOOL_00323	CDS	339	rplV		COG0091	50S ribosomal protein L22
+AKBMDOOL_00324	gene	282	rpsS			
+AKBMDOOL_00324	CDS	282	rpsS			30S ribosomal protein S19
+AKBMDOOL_00325	gene	831	rplB			
+AKBMDOOL_00325	CDS	831	rplB			50S ribosomal protein L2
+AKBMDOOL_00326	gene	291	rplW			
+AKBMDOOL_00326	CDS	291	rplW			50S ribosomal protein L23
+AKBMDOOL_00327	gene	624	rplD			
+AKBMDOOL_00327	CDS	624	rplD			50S ribosomal protein L4
+AKBMDOOL_00328	gene	630	rplC			
+AKBMDOOL_00328	CDS	630	rplC		COG0087	50S ribosomal protein L3
+AKBMDOOL_00329	gene	312	rpsJ			
+AKBMDOOL_00329	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+AKBMDOOL_00330	gene	795				
+AKBMDOOL_00330	CDS	795		1.-.-.-		putative oxidoreductase
+AKBMDOOL_00331	gene	1752				
+AKBMDOOL_00331	CDS	1752				hypothetical protein
+AKBMDOOL_00332	gene	486				
+AKBMDOOL_00332	CDS	486				hypothetical protein
+AKBMDOOL_00333	gene	192				
+AKBMDOOL_00333	CDS	192				hypothetical protein
+AKBMDOOL_00334	gene	126				
+AKBMDOOL_00334	CDS	126				hypothetical protein
+AKBMDOOL_00335	gene	3441	pycA			
+AKBMDOOL_00335	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+AKBMDOOL_00336	gene	90				
+AKBMDOOL_00336	rRNA	90				5S ribosomal RNA (partial)
+AKBMDOOL_00337	gene	357	rplT			
+AKBMDOOL_00337	CDS	357	rplT			50S ribosomal protein L20
+AKBMDOOL_00338	gene	198	rpmI			
+AKBMDOOL_00338	CDS	198	rpmI			50S ribosomal protein L35
+AKBMDOOL_00339	gene	459	infC			
+AKBMDOOL_00339	CDS	459	infC			Translation initiation factor IF-3
+AKBMDOOL_00340	gene	864	map			
+AKBMDOOL_00340	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+AKBMDOOL_00341	gene	603				
+AKBMDOOL_00341	CDS	603				hypothetical protein
+AKBMDOOL_00342	gene	561				
+AKBMDOOL_00342	CDS	561				hypothetical protein
+AKBMDOOL_00343	gene	549	chrA1			
+AKBMDOOL_00343	CDS	549	chrA1			Chromate transport protein
+AKBMDOOL_00344	gene	189				
+AKBMDOOL_00344	CDS	189				Rubredoxin
+AKBMDOOL_00345	gene	1101	dhaD			
+AKBMDOOL_00345	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+AKBMDOOL_00346	gene	1191				
+AKBMDOOL_00346	CDS	1191				hypothetical protein
+AKBMDOOL_00347	gene	750				
+AKBMDOOL_00347	CDS	750				hypothetical protein
+AKBMDOOL_00348	gene	411				
+AKBMDOOL_00348	CDS	411				hypothetical protein
+AKBMDOOL_00349	gene	513				
+AKBMDOOL_00349	CDS	513				hypothetical protein
+AKBMDOOL_00350	gene	777	yddE			
+AKBMDOOL_00350	CDS	777	yddE	5.1.-.-	COG0384	putative isomerase YddE
+AKBMDOOL_00351	gene	705				
+AKBMDOOL_00351	CDS	705				hypothetical protein
+AKBMDOOL_00352	gene	1368	mepA_1			
+AKBMDOOL_00352	CDS	1368	mepA_1			Multidrug export protein MepA
+AKBMDOOL_00353	gene	2472				
+AKBMDOOL_00353	CDS	2472				hypothetical protein
+AKBMDOOL_00354	gene	597				
+AKBMDOOL_00354	CDS	597				hypothetical protein
+AKBMDOOL_00355	gene	2127	nqrC			
+AKBMDOOL_00355	CDS	2127	nqrC	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit C
+AKBMDOOL_00356	gene	525				
+AKBMDOOL_00356	CDS	525				hypothetical protein
+AKBMDOOL_00357	gene	540				
+AKBMDOOL_00357	CDS	540				hypothetical protein
+AKBMDOOL_00358	gene	4011				
+AKBMDOOL_00358	CDS	4011				hypothetical protein
+AKBMDOOL_00359	gene	711				
+AKBMDOOL_00359	CDS	711				hypothetical protein
+AKBMDOOL_00360	gene	1080				
+AKBMDOOL_00360	CDS	1080				hypothetical protein
+AKBMDOOL_00361	gene	102				
+AKBMDOOL_00361	CDS	102				hypothetical protein
+AKBMDOOL_00362	gene	1500				
+AKBMDOOL_00362	CDS	1500				hypothetical protein
+AKBMDOOL_00363	gene	498				
+AKBMDOOL_00363	CDS	498				hypothetical protein
+AKBMDOOL_00364	gene	936				
+AKBMDOOL_00364	CDS	936				hypothetical protein
+AKBMDOOL_00365	gene	1188				
+AKBMDOOL_00365	CDS	1188				hypothetical protein
+AKBMDOOL_00366	gene	852				
+AKBMDOOL_00366	CDS	852				hypothetical protein
+AKBMDOOL_00367	gene	432	yiaC			
+AKBMDOOL_00367	CDS	432	yiaC	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YiaC
+AKBMDOOL_00368	gene	342				
+AKBMDOOL_00368	CDS	342				hypothetical protein
+AKBMDOOL_00369	gene	198				
+AKBMDOOL_00369	CDS	198				hypothetical protein
+AKBMDOOL_00370	gene	1071				
+AKBMDOOL_00370	CDS	1071				hypothetical protein
+AKBMDOOL_00371	gene	408				
+AKBMDOOL_00371	CDS	408				hypothetical protein
+AKBMDOOL_00372	gene	504				
+AKBMDOOL_00372	CDS	504				hypothetical protein
+AKBMDOOL_00373	gene	915				
+AKBMDOOL_00373	CDS	915				hypothetical protein
+AKBMDOOL_00374	gene	1020	gap_1			
+AKBMDOOL_00374	CDS	1020	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+AKBMDOOL_00375	gene	339				
+AKBMDOOL_00375	CDS	339				hypothetical protein
+AKBMDOOL_00376	gene	741				
+AKBMDOOL_00376	CDS	741				hypothetical protein
+AKBMDOOL_00377	gene	1158				
+AKBMDOOL_00377	CDS	1158				hypothetical protein
+AKBMDOOL_00378	gene	1383	dinG			
+AKBMDOOL_00378	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+AKBMDOOL_00379	gene	852				
+AKBMDOOL_00379	CDS	852				hypothetical protein
+AKBMDOOL_00380	gene	885				
+AKBMDOOL_00380	CDS	885				hypothetical protein
+AKBMDOOL_00381	gene	4311	polC_1			
+AKBMDOOL_00381	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+AKBMDOOL_00382	gene	699				
+AKBMDOOL_00382	CDS	699				hypothetical protein
+AKBMDOOL_00383	gene	786				
+AKBMDOOL_00383	CDS	786				hypothetical protein
+AKBMDOOL_00384	gene	1860				
+AKBMDOOL_00384	CDS	1860				hypothetical protein
+AKBMDOOL_00385	gene	834	thyA			
+AKBMDOOL_00385	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+AKBMDOOL_00386	gene	510	dfrA			
+AKBMDOOL_00386	CDS	510	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+AKBMDOOL_00387	gene	3747				
+AKBMDOOL_00387	CDS	3747				hypothetical protein
+AKBMDOOL_00388	gene	4719				
+AKBMDOOL_00388	CDS	4719				hypothetical protein
+AKBMDOOL_00389	gene	318				
+AKBMDOOL_00389	CDS	318				hypothetical protein
+AKBMDOOL_00390	gene	1278	sasA_2			
+AKBMDOOL_00390	CDS	1278	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+AKBMDOOL_00391	gene	675	arlR			
+AKBMDOOL_00391	CDS	675	arlR		COG0745	Response regulator ArlR
+AKBMDOOL_00392	gene	555				
+AKBMDOOL_00392	CDS	555				hypothetical protein
+AKBMDOOL_00393	gene	1557				
+AKBMDOOL_00393	CDS	1557				hypothetical protein
+AKBMDOOL_00394	gene	1326	brnQ_1			
+AKBMDOOL_00394	CDS	1326	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+AKBMDOOL_00395	gene	993	hpr			
+AKBMDOOL_00395	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+AKBMDOOL_00396	gene	1008	carE_1			
+AKBMDOOL_00396	CDS	1008	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+AKBMDOOL_00397	gene	792	carD_1			
+AKBMDOOL_00397	CDS	792	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+AKBMDOOL_00398	gene	1134	carC_1			
+AKBMDOOL_00398	CDS	1134	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+AKBMDOOL_00399	gene	1119	hadC_1			
+AKBMDOOL_00399	CDS	1119	hadC_1	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+AKBMDOOL_00400	gene	1236	fldB			
+AKBMDOOL_00400	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+AKBMDOOL_00401	gene	1245	fldA_1			
+AKBMDOOL_00401	CDS	1245	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+AKBMDOOL_00402	gene	696	rspR_1			
+AKBMDOOL_00402	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+AKBMDOOL_00403	gene	351	ssrA			
+AKBMDOOL_00403	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+AKBMDOOL_00404	gene	978	surA			
+AKBMDOOL_00404	CDS	978	surA	5.2.1.8		Chaperone SurA
+AKBMDOOL_00405	gene	2181				
+AKBMDOOL_00405	CDS	2181				hypothetical protein
+AKBMDOOL_00406	gene	3483				
+AKBMDOOL_00406	CDS	3483				hypothetical protein
+AKBMDOOL_00407	gene	483				
+AKBMDOOL_00407	CDS	483				hypothetical protein
+AKBMDOOL_00408	gene	5688				
+AKBMDOOL_00408	CDS	5688				hypothetical protein
+AKBMDOOL_00409	gene	462				
+AKBMDOOL_00409	CDS	462				hypothetical protein
+AKBMDOOL_00410	gene	1374	argH			
+AKBMDOOL_00410	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+AKBMDOOL_00411	gene	1275	argG			
+AKBMDOOL_00411	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+AKBMDOOL_00412	gene	831	artP_2			
+AKBMDOOL_00412	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+AKBMDOOL_00413	gene	456	smpB			
+AKBMDOOL_00413	CDS	456	smpB		COG0691	SsrA-binding protein
+AKBMDOOL_00414	gene	2220	rnr			
+AKBMDOOL_00414	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+AKBMDOOL_00415	gene	231				
+AKBMDOOL_00415	CDS	231				hypothetical protein
+AKBMDOOL_00416	gene	76				
+AKBMDOOL_00416	tRNA	76				tRNA-Val(tac)
+AKBMDOOL_00417	gene	77				
+AKBMDOOL_00417	tRNA	77				tRNA-Asp(gtc)
+AKBMDOOL_00418	gene	75				
+AKBMDOOL_00418	tRNA	75				tRNA-Gly(gcc)
+AKBMDOOL_00419	gene	76				
+AKBMDOOL_00419	tRNA	76				tRNA-Pyl(cta)
+AKBMDOOL_00420	gene	852	cdaA			
+AKBMDOOL_00420	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+AKBMDOOL_00421	gene	915	cdaR			
+AKBMDOOL_00421	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+AKBMDOOL_00422	gene	1083	buk2			
+AKBMDOOL_00422	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+AKBMDOOL_00423	gene	678				
+AKBMDOOL_00423	CDS	678				hypothetical protein
+AKBMDOOL_00424	gene	216	rsxB_1			
+AKBMDOOL_00424	CDS	216	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AKBMDOOL_00425	gene	1065	padG			
+AKBMDOOL_00425	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+AKBMDOOL_00426	gene	780	korB			
+AKBMDOOL_00426	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+AKBMDOOL_00427	gene	555				
+AKBMDOOL_00427	CDS	555				hypothetical protein
+AKBMDOOL_00428	gene	1368	glmM			
+AKBMDOOL_00428	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+AKBMDOOL_00429	gene	177				
+AKBMDOOL_00429	CDS	177				hypothetical protein
+AKBMDOOL_00430	gene	1254	murAA			
+AKBMDOOL_00430	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+AKBMDOOL_00431	gene	1011	mreB_1			
+AKBMDOOL_00431	CDS	1011	mreB_1		COG1077	Cell shape-determining protein MreB
+AKBMDOOL_00432	gene	1185	metK			
+AKBMDOOL_00432	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+AKBMDOOL_00433	gene	2220	recD2			
+AKBMDOOL_00433	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+AKBMDOOL_00434	gene	771				
+AKBMDOOL_00434	CDS	771				hypothetical protein
+AKBMDOOL_00435	gene	540	folT			
+AKBMDOOL_00435	CDS	540	folT			Folate transporter FolT
+AKBMDOOL_00436	gene	141				
+AKBMDOOL_00436	CDS	141				hypothetical protein
+AKBMDOOL_00437	gene	2691	secA_1			
+AKBMDOOL_00437	CDS	2691	secA_1			Protein translocase subunit SecA
+AKBMDOOL_00438	gene	1671	norR			
+AKBMDOOL_00438	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+AKBMDOOL_00439	gene	1182				
+AKBMDOOL_00439	CDS	1182				hypothetical protein
+AKBMDOOL_00440	gene	1212	fldA_2			
+AKBMDOOL_00440	CDS	1212	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+AKBMDOOL_00441	gene	1233	hadB			
+AKBMDOOL_00441	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+AKBMDOOL_00442	gene	1125	hadC_2			
+AKBMDOOL_00442	CDS	1125	hadC_2	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+AKBMDOOL_00443	gene	1143	carC_2			
+AKBMDOOL_00443	CDS	1143	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+AKBMDOOL_00444	gene	786	carD_2			
+AKBMDOOL_00444	CDS	786	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+AKBMDOOL_00445	gene	1011	carE_2			
+AKBMDOOL_00445	CDS	1011	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+AKBMDOOL_00446	gene	999				
+AKBMDOOL_00446	CDS	999		1.1.1.28		D-lactate dehydrogenase
+AKBMDOOL_00447	gene	1047	prfB			
+AKBMDOOL_00447	CDS	1047	prfB			Peptide chain release factor 2
+AKBMDOOL_00448	gene	1638	hcp			
+AKBMDOOL_00448	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+AKBMDOOL_00449	gene	741	mta			
+AKBMDOOL_00449	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+AKBMDOOL_00450	gene	1362	murE_1			
+AKBMDOOL_00450	CDS	1362	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+AKBMDOOL_00451	gene	1431	pepD_2			
+AKBMDOOL_00451	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+AKBMDOOL_00452	gene	678	purC			
+AKBMDOOL_00452	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+AKBMDOOL_00453	gene	2652	valS			
+AKBMDOOL_00453	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+AKBMDOOL_00454	gene	1551	rsxB_2			
+AKBMDOOL_00454	CDS	1551	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AKBMDOOL_00455	gene	1551	ybiT_1			
+AKBMDOOL_00455	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+AKBMDOOL_00456	gene	2766	mtgA_1			
+AKBMDOOL_00456	CDS	2766	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+AKBMDOOL_00457	gene	1617	deaD			
+AKBMDOOL_00457	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+AKBMDOOL_00458	gene	2373				
+AKBMDOOL_00458	CDS	2373				hypothetical protein
+AKBMDOOL_00459	gene	1665				
+AKBMDOOL_00459	CDS	1665				hypothetical protein
+AKBMDOOL_00460	gene	963				
+AKBMDOOL_00460	CDS	963				hypothetical protein
+AKBMDOOL_00461	gene	1188	thiI			
+AKBMDOOL_00461	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+AKBMDOOL_00462	gene	1158	iscS			
+AKBMDOOL_00462	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+AKBMDOOL_00463	gene	618				
+AKBMDOOL_00463	CDS	618				hypothetical protein
+AKBMDOOL_00464	gene	819				
+AKBMDOOL_00464	CDS	819			COG2826	IS30 family transposase IS1470
+AKBMDOOL_00465	gene	522				
+AKBMDOOL_00465	CDS	522				hypothetical protein
+AKBMDOOL_00466	gene	303				
+AKBMDOOL_00466	CDS	303				hypothetical protein
+AKBMDOOL_00467	gene	864				
+AKBMDOOL_00467	CDS	864				hypothetical protein
+AKBMDOOL_00468	gene	714				
+AKBMDOOL_00468	CDS	714				hypothetical protein
+AKBMDOOL_00469	gene	927				
+AKBMDOOL_00469	CDS	927				IS256 family transposase ISCth4
+AKBMDOOL_00470	gene	738				
+AKBMDOOL_00470	CDS	738				hypothetical protein
+AKBMDOOL_00471	gene	471				
+AKBMDOOL_00471	CDS	471				hypothetical protein
+AKBMDOOL_00472	gene	708				
+AKBMDOOL_00472	CDS	708				hypothetical protein
+AKBMDOOL_00473	gene	477				
+AKBMDOOL_00473	CDS	477				hypothetical protein
+AKBMDOOL_00474	gene	528				
+AKBMDOOL_00474	CDS	528				hypothetical protein
+AKBMDOOL_00475	gene	1056	ispG			
+AKBMDOOL_00475	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+AKBMDOOL_00476	gene	1011	mmpA			
+AKBMDOOL_00476	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+AKBMDOOL_00477	gene	1188	dxr			
+AKBMDOOL_00477	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+AKBMDOOL_00478	gene	411				
+AKBMDOOL_00478	CDS	411				hypothetical protein
+AKBMDOOL_00479	gene	642				
+AKBMDOOL_00479	CDS	642				hypothetical protein
+AKBMDOOL_00480	gene	2589	clpB			
+AKBMDOOL_00480	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+AKBMDOOL_00481	gene	1296	brnQ_2			
+AKBMDOOL_00481	CDS	1296	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+AKBMDOOL_00482	gene	354				
+AKBMDOOL_00482	CDS	354				hypothetical protein
+AKBMDOOL_00483	gene	969	metN			
+AKBMDOOL_00483	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+AKBMDOOL_00484	gene	654	metP			
+AKBMDOOL_00484	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+AKBMDOOL_00485	gene	825	metQ			
+AKBMDOOL_00485	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+AKBMDOOL_00486	gene	471				
+AKBMDOOL_00486	CDS	471				hypothetical protein
+AKBMDOOL_00487	gene	1059				
+AKBMDOOL_00487	CDS	1059				hypothetical protein
+AKBMDOOL_00488	gene	951				
+AKBMDOOL_00488	CDS	951				hypothetical protein
+AKBMDOOL_00489	gene	507				
+AKBMDOOL_00489	CDS	507				hypothetical protein
+AKBMDOOL_00490	gene	867				
+AKBMDOOL_00490	CDS	867				hypothetical protein
+AKBMDOOL_00491	gene	957				
+AKBMDOOL_00491	CDS	957				hypothetical protein
+AKBMDOOL_00492	gene	1824	dnaG			
+AKBMDOOL_00492	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+AKBMDOOL_00493	gene	1155	sigA			
+AKBMDOOL_00493	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+AKBMDOOL_00494	gene	777	trmK			
+AKBMDOOL_00494	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+AKBMDOOL_00495	gene	804				
+AKBMDOOL_00495	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+AKBMDOOL_00496	gene	213				
+AKBMDOOL_00496	CDS	213				hypothetical protein
+AKBMDOOL_00497	gene	735				
+AKBMDOOL_00497	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+AKBMDOOL_00498	gene	651				
+AKBMDOOL_00498	CDS	651				hypothetical protein
+AKBMDOOL_00499	gene	2415				
+AKBMDOOL_00499	CDS	2415				hypothetical protein
+AKBMDOOL_00500	gene	552	trpP			
+AKBMDOOL_00500	CDS	552	trpP			putative tryptophan transport protein
+AKBMDOOL_00501	gene	666				
+AKBMDOOL_00501	CDS	666				hypothetical protein
+AKBMDOOL_00502	gene	810	aspC			
+AKBMDOOL_00502	CDS	810	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+AKBMDOOL_00503	gene	879				
+AKBMDOOL_00503	CDS	879				hypothetical protein
+AKBMDOOL_00504	gene	396	panD			
+AKBMDOOL_00504	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+AKBMDOOL_00505	gene	1116				
+AKBMDOOL_00505	CDS	1116				hypothetical protein
+AKBMDOOL_00506	gene	396				
+AKBMDOOL_00506	CDS	396				hypothetical protein
+AKBMDOOL_00507	gene	1974	uvrB			
+AKBMDOOL_00507	CDS	1974	uvrB			UvrABC system protein B
+AKBMDOOL_00508	gene	576				
+AKBMDOOL_00508	CDS	576				hypothetical protein
+AKBMDOOL_00509	gene	2826	uvrA			
+AKBMDOOL_00509	CDS	2826	uvrA			UvrABC system protein A
+AKBMDOOL_00510	gene	1263	sstT_1			
+AKBMDOOL_00510	CDS	1263	sstT_1		COG3633	Serine/threonine transporter SstT
+AKBMDOOL_00511	gene	519	hmpT			
+AKBMDOOL_00511	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+AKBMDOOL_00512	gene	549	rbr			
+AKBMDOOL_00512	CDS	549	rbr		COG1592	Rubrerythrin
+AKBMDOOL_00513	gene	372	perR			
+AKBMDOOL_00513	CDS	372	perR		COG0735	Peroxide operon regulator
+AKBMDOOL_00514	gene	387	dfx			
+AKBMDOOL_00514	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+AKBMDOOL_00515	gene	1956				
+AKBMDOOL_00515	CDS	1956				hypothetical protein
+AKBMDOOL_00516	gene	786				
+AKBMDOOL_00516	CDS	786				hypothetical protein
+AKBMDOOL_00517	gene	1053				
+AKBMDOOL_00517	CDS	1053				hypothetical protein
+AKBMDOOL_00518	gene	708	mtnN			
+AKBMDOOL_00518	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+AKBMDOOL_00519	gene	1008	trpS			
+AKBMDOOL_00519	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+AKBMDOOL_00520	gene	768				
+AKBMDOOL_00520	CDS	768				hypothetical protein
+AKBMDOOL_00521	gene	480	lspA			
+AKBMDOOL_00521	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+AKBMDOOL_00522	gene	933	rluD_1			
+AKBMDOOL_00522	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+AKBMDOOL_00523	gene	525	pyrR			
+AKBMDOOL_00523	CDS	525	pyrR			Bifunctional protein PyrR
+AKBMDOOL_00524	gene	1764	rqcH			
+AKBMDOOL_00524	CDS	1764	rqcH			Rqc2 RqcH
+AKBMDOOL_00525	gene	825	ydjP			
+AKBMDOOL_00525	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+AKBMDOOL_00526	gene	279	yjdJ			
+AKBMDOOL_00526	CDS	279	yjdJ		COG2388	putative protein YjdJ
+AKBMDOOL_00527	gene	462	mutX			
+AKBMDOOL_00527	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+AKBMDOOL_00528	gene	507	tpx			
+AKBMDOOL_00528	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+AKBMDOOL_00529	gene	651				
+AKBMDOOL_00529	CDS	651				hypothetical protein
+AKBMDOOL_00530	gene	768				
+AKBMDOOL_00530	CDS	768				hypothetical protein
+AKBMDOOL_00531	gene	228	rpsR			
+AKBMDOOL_00531	CDS	228	rpsR			30S ribosomal protein S18
+AKBMDOOL_00532	gene	444	ssb			
+AKBMDOOL_00532	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+AKBMDOOL_00533	gene	291	rpsF			
+AKBMDOOL_00533	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+AKBMDOOL_00534	gene	1197	lysN_1			
+AKBMDOOL_00534	CDS	1197	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+AKBMDOOL_00535	gene	180				
+AKBMDOOL_00535	CDS	180				hypothetical protein
+AKBMDOOL_00536	gene	618				
+AKBMDOOL_00536	CDS	618				hypothetical protein
+AKBMDOOL_00537	gene	900				
+AKBMDOOL_00537	CDS	900				hypothetical protein
+AKBMDOOL_00538	gene	1077				
+AKBMDOOL_00538	CDS	1077				hypothetical protein
+AKBMDOOL_00539	gene	522	bcrC			
+AKBMDOOL_00539	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+AKBMDOOL_00540	gene	543	yajL			
+AKBMDOOL_00540	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+AKBMDOOL_00541	gene	921				
+AKBMDOOL_00541	CDS	921				hypothetical protein
+AKBMDOOL_00542	gene	600	COQ5_2			
+AKBMDOOL_00542	CDS	600	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AKBMDOOL_00543	gene	1278				
+AKBMDOOL_00543	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+AKBMDOOL_00544	gene	1287	brnQ_3			
+AKBMDOOL_00544	CDS	1287	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+AKBMDOOL_00545	gene	849	panC			
+AKBMDOOL_00545	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+AKBMDOOL_00546	gene	828	panB			
+AKBMDOOL_00546	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+AKBMDOOL_00547	gene	885				
+AKBMDOOL_00547	CDS	885				hypothetical protein
+AKBMDOOL_00548	gene	201				
+AKBMDOOL_00548	CDS	201				hypothetical protein
+AKBMDOOL_00549	gene	615	sodA1			
+AKBMDOOL_00549	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+AKBMDOOL_00550	gene	771				
+AKBMDOOL_00550	CDS	771				hypothetical protein
+AKBMDOOL_00551	gene	702	yidC2			
+AKBMDOOL_00551	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+AKBMDOOL_00552	gene	378	rnpA			
+AKBMDOOL_00552	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+AKBMDOOL_00553	gene	135	rpmH			
+AKBMDOOL_00553	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+AKBMDOOL_00554	gene	1365	dnaA_2			
+AKBMDOOL_00554	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+AKBMDOOL_00555	gene	1104	dnaN			
+AKBMDOOL_00555	CDS	1104	dnaN		COG0592	Beta sliding clamp
+AKBMDOOL_00556	gene	210				
+AKBMDOOL_00556	CDS	210				hypothetical protein
+AKBMDOOL_00557	gene	1116	recF			
+AKBMDOOL_00557	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+AKBMDOOL_00558	gene	1908	gyrB			
+AKBMDOOL_00558	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+AKBMDOOL_00559	gene	2439	gyrA			
+AKBMDOOL_00559	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+AKBMDOOL_00560	gene	318	rsbV			
+AKBMDOOL_00560	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+AKBMDOOL_00561	gene	408	rsbW			
+AKBMDOOL_00561	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+AKBMDOOL_00562	gene	774	sigB			
+AKBMDOOL_00562	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+AKBMDOOL_00563	gene	1170				
+AKBMDOOL_00563	CDS	1170				hypothetical protein
+AKBMDOOL_00564	gene	1143				
+AKBMDOOL_00564	CDS	1143				hypothetical protein
+AKBMDOOL_00565	gene	1677	fhs			
+AKBMDOOL_00565	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+AKBMDOOL_00566	gene	1239				
+AKBMDOOL_00566	CDS	1239				hypothetical protein
+AKBMDOOL_00567	gene	225				
+AKBMDOOL_00567	CDS	225				hypothetical protein
+AKBMDOOL_00568	gene	228				
+AKBMDOOL_00568	CDS	228				hypothetical protein
+AKBMDOOL_00569	gene	147				
+AKBMDOOL_00569	CDS	147				hypothetical protein
+AKBMDOOL_00570	gene	1473				
+AKBMDOOL_00570	CDS	1473				hypothetical protein
+AKBMDOOL_00571	gene	912				
+AKBMDOOL_00571	CDS	912				hypothetical protein
+AKBMDOOL_00572	gene	1821				
+AKBMDOOL_00572	CDS	1821				hypothetical protein
+AKBMDOOL_00573	gene	387	mscL			
+AKBMDOOL_00573	CDS	387	mscL		COG1970	Large-conductance mechanosensitive channel
+AKBMDOOL_00574	gene	522	niaR			
+AKBMDOOL_00574	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+AKBMDOOL_00575	gene	774	dtd3			
+AKBMDOOL_00575	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+AKBMDOOL_00576	gene	1740				
+AKBMDOOL_00576	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+AKBMDOOL_00577	gene	426				
+AKBMDOOL_00577	CDS	426				hypothetical protein
+AKBMDOOL_00578	gene	1968				
+AKBMDOOL_00578	CDS	1968				hypothetical protein
+AKBMDOOL_00579	gene	1284	brnQ_4			
+AKBMDOOL_00579	CDS	1284	brnQ_4		COG1114	Branched-chain amino acid transport system 2 carrier protein
+AKBMDOOL_00580	gene	411				
+AKBMDOOL_00580	CDS	411				hypothetical protein
+AKBMDOOL_00581	gene	1338				
+AKBMDOOL_00581	CDS	1338		1.6.99.3		putative NADH oxidase
+AKBMDOOL_00582	gene	243				
+AKBMDOOL_00582	CDS	243				hypothetical protein
+AKBMDOOL_00583	gene	1077	lytC_1			
+AKBMDOOL_00583	CDS	1077	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+AKBMDOOL_00584	gene	603				
+AKBMDOOL_00584	CDS	603				hypothetical protein
+AKBMDOOL_00585	gene	597				
+AKBMDOOL_00585	CDS	597				hypothetical protein
+AKBMDOOL_00586	gene	1062				
+AKBMDOOL_00586	CDS	1062				hypothetical protein
+AKBMDOOL_00587	gene	456				
+AKBMDOOL_00587	CDS	456				hypothetical protein
+AKBMDOOL_00588	gene	3417	addB			
+AKBMDOOL_00588	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+AKBMDOOL_00589	gene	3933	addA			
+AKBMDOOL_00589	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+AKBMDOOL_00590	gene	1224	cpdA_1			
+AKBMDOOL_00590	CDS	1224	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AKBMDOOL_00591	gene	3081	smc_1			
+AKBMDOOL_00591	CDS	3081	smc_1			Chromosome partition protein Smc
+AKBMDOOL_00592	gene	1329				
+AKBMDOOL_00592	CDS	1329				hypothetical protein
+AKBMDOOL_00593	gene	711				
+AKBMDOOL_00593	CDS	711				hypothetical protein
+AKBMDOOL_00594	gene	582				
+AKBMDOOL_00594	CDS	582				hypothetical protein
+AKBMDOOL_00595	gene	1332	mepA_2			
+AKBMDOOL_00595	CDS	1332	mepA_2			Multidrug export protein MepA
+AKBMDOOL_00596	gene	465	yfkJ			
+AKBMDOOL_00596	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+AKBMDOOL_00597	gene	894	bglK			
+AKBMDOOL_00597	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+AKBMDOOL_00598	gene	993	malR			
+AKBMDOOL_00598	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+AKBMDOOL_00599	gene	1287				
+AKBMDOOL_00599	CDS	1287				hypothetical protein
+AKBMDOOL_00600	gene	873	melD			
+AKBMDOOL_00600	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+AKBMDOOL_00601	gene	822	melC			
+AKBMDOOL_00601	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+AKBMDOOL_00602	gene	2289	malP			
+AKBMDOOL_00602	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+AKBMDOOL_00603	gene	1662	malL			
+AKBMDOOL_00603	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+AKBMDOOL_00604	gene	642	ycjU			
+AKBMDOOL_00604	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+AKBMDOOL_00605	gene	1128	msmX			
+AKBMDOOL_00605	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+AKBMDOOL_00606	gene	354				
+AKBMDOOL_00606	CDS	354				hypothetical protein
+AKBMDOOL_00607	gene	1359	ffh			
+AKBMDOOL_00607	CDS	1359	ffh		COG0541	Signal recognition particle protein
+AKBMDOOL_00608	gene	273	rpsP			
+AKBMDOOL_00608	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+AKBMDOOL_00609	gene	234				
+AKBMDOOL_00609	CDS	234				hypothetical protein
+AKBMDOOL_00610	gene	519	rimM			
+AKBMDOOL_00610	CDS	519	rimM			Ribosome maturation factor RimM
+AKBMDOOL_00611	gene	741	trmD			
+AKBMDOOL_00611	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+AKBMDOOL_00612	gene	1158				
+AKBMDOOL_00612	CDS	1158				hypothetical protein
+AKBMDOOL_00613	gene	1224	tyrS			
+AKBMDOOL_00613	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+AKBMDOOL_00614	gene	357	rplS			
+AKBMDOOL_00614	CDS	357	rplS		COG0335	50S ribosomal protein L19
+AKBMDOOL_00615	gene	885	rbgA			
+AKBMDOOL_00615	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+AKBMDOOL_00616	gene	1164	alr1_1			
+AKBMDOOL_00616	CDS	1164	alr1_1	5.1.1.1	COG0787	Alanine racemase 1
+AKBMDOOL_00617	gene	792	rnhB			
+AKBMDOOL_00617	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+AKBMDOOL_00618	gene	1017	hmo_2			
+AKBMDOOL_00618	CDS	1017	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+AKBMDOOL_00619	gene	363				
+AKBMDOOL_00619	CDS	363				hypothetical protein
+AKBMDOOL_00620	gene	1617	comM			
+AKBMDOOL_00620	CDS	1617	comM		COG0606	Competence protein ComM
+AKBMDOOL_00621	gene	1257				
+AKBMDOOL_00621	CDS	1257				hypothetical protein
+AKBMDOOL_00622	gene	2082	topA_1			
+AKBMDOOL_00622	CDS	2082	topA_1	5.6.2.1		DNA topoisomerase 1
+AKBMDOOL_00623	gene	777	codY			
+AKBMDOOL_00623	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+AKBMDOOL_00624	gene	1272	rarA			
+AKBMDOOL_00624	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+AKBMDOOL_00625	gene	465	cymR			
+AKBMDOOL_00625	CDS	465	cymR			HTH-type transcriptional regulator CymR
+AKBMDOOL_00626	gene	1053	mnmA			
+AKBMDOOL_00626	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+AKBMDOOL_00627	gene	234				
+AKBMDOOL_00627	CDS	234				hypothetical protein
+AKBMDOOL_00628	gene	918	bcrA_1			
+AKBMDOOL_00628	CDS	918	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+AKBMDOOL_00629	gene	426				
+AKBMDOOL_00629	CDS	426				hypothetical protein
+AKBMDOOL_00630	gene	723				
+AKBMDOOL_00630	CDS	723				hypothetical protein
+AKBMDOOL_00631	gene	738				
+AKBMDOOL_00631	CDS	738				hypothetical protein
+AKBMDOOL_00632	gene	1050	mreB_2			
+AKBMDOOL_00632	CDS	1050	mreB_2		COG1077	Cell shape-determining protein MreB
+AKBMDOOL_00633	gene	882				
+AKBMDOOL_00633	CDS	882				hypothetical protein
+AKBMDOOL_00634	gene	486				
+AKBMDOOL_00634	CDS	486				hypothetical protein
+AKBMDOOL_00635	gene	2898	mrdA			
+AKBMDOOL_00635	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+AKBMDOOL_00636	gene	1113	mrdB			
+AKBMDOOL_00636	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+AKBMDOOL_00637	gene	1212				
+AKBMDOOL_00637	CDS	1212				hypothetical protein
+AKBMDOOL_00638	gene	648				
+AKBMDOOL_00638	CDS	648				hypothetical protein
+AKBMDOOL_00639	gene	699				
+AKBMDOOL_00639	CDS	699				hypothetical protein
+AKBMDOOL_00640	gene	1401	rne			
+AKBMDOOL_00640	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+AKBMDOOL_00641	gene	921	rbn			
+AKBMDOOL_00641	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+AKBMDOOL_00642	gene	462	crcB_1			
+AKBMDOOL_00642	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+AKBMDOOL_00643	gene	348	crcB_2			
+AKBMDOOL_00643	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+AKBMDOOL_00644	gene	624	recX			
+AKBMDOOL_00644	CDS	624	recX			Regulatory protein RecX
+AKBMDOOL_00645	gene	696	nadD			
+AKBMDOOL_00645	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+AKBMDOOL_00646	gene	576				
+AKBMDOOL_00646	CDS	576				hypothetical protein
+AKBMDOOL_00647	gene	351	rsfS			
+AKBMDOOL_00647	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+AKBMDOOL_00648	gene	2421	leuS			
+AKBMDOOL_00648	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+AKBMDOOL_00649	gene	936	yijE			
+AKBMDOOL_00649	CDS	936	yijE			putative cystine transporter YijE
+AKBMDOOL_00650	gene	309	rplU			
+AKBMDOOL_00650	CDS	309	rplU		COG0261	50S ribosomal protein L21
+AKBMDOOL_00651	gene	318				
+AKBMDOOL_00651	CDS	318				hypothetical protein
+AKBMDOOL_00652	gene	291	rpmA			
+AKBMDOOL_00652	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+AKBMDOOL_00653	gene	1281	obg			
+AKBMDOOL_00653	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+AKBMDOOL_00654	gene	390				
+AKBMDOOL_00654	CDS	390				hypothetical protein
+AKBMDOOL_00655	gene	1218	tdcB			
+AKBMDOOL_00655	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+AKBMDOOL_00656	gene	378	yabJ			
+AKBMDOOL_00656	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+AKBMDOOL_00657	gene	633				
+AKBMDOOL_00657	CDS	633				hypothetical protein
+AKBMDOOL_00658	gene	978				
+AKBMDOOL_00658	CDS	978				hypothetical protein
+AKBMDOOL_00659	gene	1581				
+AKBMDOOL_00659	CDS	1581				hypothetical protein
+AKBMDOOL_00660	gene	918				
+AKBMDOOL_00660	CDS	918				hypothetical protein
+AKBMDOOL_00661	gene	858				
+AKBMDOOL_00661	CDS	858				hypothetical protein
+AKBMDOOL_00662	gene	936				
+AKBMDOOL_00662	CDS	936				hypothetical protein
+AKBMDOOL_00663	gene	867				
+AKBMDOOL_00663	CDS	867				hypothetical protein
+AKBMDOOL_00664	gene	1119	ribD			
+AKBMDOOL_00664	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+AKBMDOOL_00665	gene	657	ribE			
+AKBMDOOL_00665	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+AKBMDOOL_00666	gene	1206	ribBA			
+AKBMDOOL_00666	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+AKBMDOOL_00667	gene	462	ribH			
+AKBMDOOL_00667	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+AKBMDOOL_00668	gene	687	glxR			
+AKBMDOOL_00668	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+AKBMDOOL_00669	gene	1011	asrA			
+AKBMDOOL_00669	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+AKBMDOOL_00670	gene	801	asrB			
+AKBMDOOL_00670	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+AKBMDOOL_00671	gene	972	asrC			
+AKBMDOOL_00671	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+AKBMDOOL_00672	gene	771	nirC			
+AKBMDOOL_00672	CDS	771	nirC		COG2116	Nitrite transporter NirC
+AKBMDOOL_00673	gene	324				
+AKBMDOOL_00673	CDS	324				hypothetical protein
+AKBMDOOL_00674	gene	321				
+AKBMDOOL_00674	CDS	321				hypothetical protein
+AKBMDOOL_00675	gene	402				
+AKBMDOOL_00675	CDS	402				hypothetical protein
+AKBMDOOL_00676	gene	522	dcd			
+AKBMDOOL_00676	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+AKBMDOOL_00677	gene	969	bioB_2			
+AKBMDOOL_00677	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+AKBMDOOL_00678	gene	933	hemC			
+AKBMDOOL_00678	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+AKBMDOOL_00679	gene	1524	cysG_1			
+AKBMDOOL_00679	CDS	1524	cysG_1	4.99.1.4		Siroheme synthase
+AKBMDOOL_00680	gene	969	hemB			
+AKBMDOOL_00680	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+AKBMDOOL_00681	gene	477	cysG_2			
+AKBMDOOL_00681	CDS	477	cysG_2		COG0007	Siroheme synthase
+AKBMDOOL_00682	gene	207	glgC_1			
+AKBMDOOL_00682	CDS	207	glgC_1	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+AKBMDOOL_00683	gene	1425	glgA			
+AKBMDOOL_00683	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+AKBMDOOL_00684	gene	2391	glgP			
+AKBMDOOL_00684	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+AKBMDOOL_00685	gene	2415				
+AKBMDOOL_00685	CDS	2415				hypothetical protein
+AKBMDOOL_00686	gene	1365				
+AKBMDOOL_00686	CDS	1365				hypothetical protein
+AKBMDOOL_00687	gene	873	moaA_1			
+AKBMDOOL_00687	CDS	873	moaA_1	4.1.99.22		GTP 3',8-cyclase
+AKBMDOOL_00688	gene	1629				
+AKBMDOOL_00688	CDS	1629				hypothetical protein
+AKBMDOOL_00689	gene	1002	add			
+AKBMDOOL_00689	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+AKBMDOOL_00690	gene	810	apbC			
+AKBMDOOL_00690	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+AKBMDOOL_00691	gene	258				
+AKBMDOOL_00691	CDS	258				hypothetical protein
+AKBMDOOL_00692	gene	645				
+AKBMDOOL_00692	CDS	645				hypothetical protein
+AKBMDOOL_00693	gene	297				
+AKBMDOOL_00693	CDS	297				hypothetical protein
+AKBMDOOL_00694	gene	1275	pyrC			
+AKBMDOOL_00694	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+AKBMDOOL_00695	gene	1245	macB			
+AKBMDOOL_00695	CDS	1245	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+AKBMDOOL_00696	gene	675	yknY			
+AKBMDOOL_00696	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+AKBMDOOL_00697	gene	1083	yknX			
+AKBMDOOL_00697	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+AKBMDOOL_00698	gene	651	tal			
+AKBMDOOL_00698	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+AKBMDOOL_00699	gene	1473	algC			
+AKBMDOOL_00699	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+AKBMDOOL_00700	gene	612	maf			
+AKBMDOOL_00700	CDS	612	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+AKBMDOOL_00701	gene	744				
+AKBMDOOL_00701	CDS	744				hypothetical protein
+AKBMDOOL_00702	gene	264				
+AKBMDOOL_00702	CDS	264				hypothetical protein
+AKBMDOOL_00703	gene	1944	yjcS			
+AKBMDOOL_00703	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+AKBMDOOL_00704	gene	1326				
+AKBMDOOL_00704	CDS	1326				hypothetical protein
+AKBMDOOL_00705	gene	729	rsmG			
+AKBMDOOL_00705	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+AKBMDOOL_00706	gene	1881	mnmG			
+AKBMDOOL_00706	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+AKBMDOOL_00707	gene	1380	mnmE_2			
+AKBMDOOL_00707	CDS	1380	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+AKBMDOOL_00708	gene	75				
+AKBMDOOL_00708	tRNA	75				tRNA-Arg(acg)
+AKBMDOOL_00709	gene	1317	cpdA_2			
+AKBMDOOL_00709	CDS	1317	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AKBMDOOL_00710	gene	186				
+AKBMDOOL_00710	CDS	186				hypothetical protein
+AKBMDOOL_00711	gene	609				
+AKBMDOOL_00711	CDS	609				hypothetical protein
+AKBMDOOL_00712	gene	540				
+AKBMDOOL_00712	CDS	540				hypothetical protein
+AKBMDOOL_00713	gene	1170				
+AKBMDOOL_00713	CDS	1170				hypothetical protein
+AKBMDOOL_00714	gene	1227				
+AKBMDOOL_00714	CDS	1227		3.4.11.-		Aminopeptidase 2
+AKBMDOOL_00715	gene	585				
+AKBMDOOL_00715	CDS	585				hypothetical protein
+AKBMDOOL_00716	gene	552				
+AKBMDOOL_00716	CDS	552				hypothetical protein
+AKBMDOOL_00717	gene	765	rhaR_3			
+AKBMDOOL_00717	CDS	765	rhaR_3			HTH-type transcriptional activator RhaR
+AKBMDOOL_00718	gene	693	ispD			
+AKBMDOOL_00718	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+AKBMDOOL_00719	gene	474	ispF			
+AKBMDOOL_00719	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+AKBMDOOL_00720	gene	1281	ugd			
+AKBMDOOL_00720	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+AKBMDOOL_00721	gene	423	rpsL			
+AKBMDOOL_00721	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+AKBMDOOL_00722	gene	471	rpsG			
+AKBMDOOL_00722	CDS	471	rpsG			30S ribosomal protein S7
+AKBMDOOL_00723	gene	849	nadC			
+AKBMDOOL_00723	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+AKBMDOOL_00724	gene	1311	nadB			
+AKBMDOOL_00724	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+AKBMDOOL_00725	gene	909	nadA			
+AKBMDOOL_00725	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+AKBMDOOL_00726	gene	462	dut			
+AKBMDOOL_00726	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+AKBMDOOL_00727	gene	1203	roo			
+AKBMDOOL_00727	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+AKBMDOOL_00728	gene	1062	lytC_2			
+AKBMDOOL_00728	CDS	1062	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+AKBMDOOL_00729	gene	600	cysA			
+AKBMDOOL_00729	CDS	600	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+AKBMDOOL_00730	gene	522				
+AKBMDOOL_00730	CDS	522				hypothetical protein
+AKBMDOOL_00731	gene	993				
+AKBMDOOL_00731	CDS	993				hypothetical protein
+AKBMDOOL_00732	gene	498				
+AKBMDOOL_00732	CDS	498				hypothetical protein
+AKBMDOOL_00733	gene	681	tgnD			
+AKBMDOOL_00733	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+AKBMDOOL_00734	gene	996	btuD_1			
+AKBMDOOL_00734	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AKBMDOOL_00735	gene	696	ureG			
+AKBMDOOL_00735	CDS	696	ureG			Urease accessory protein UreG
+AKBMDOOL_00736	gene	1227				
+AKBMDOOL_00736	CDS	1227				hypothetical protein
+AKBMDOOL_00737	gene	1746				
+AKBMDOOL_00737	CDS	1746				hypothetical protein
+AKBMDOOL_00738	gene	810	ecsA			
+AKBMDOOL_00738	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+AKBMDOOL_00739	gene	1239	queH			
+AKBMDOOL_00739	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+AKBMDOOL_00740	gene	909	ppaC			
+AKBMDOOL_00740	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+AKBMDOOL_00741	gene	525				
+AKBMDOOL_00741	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+AKBMDOOL_00742	gene	1428	apeB			
+AKBMDOOL_00742	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+AKBMDOOL_00743	gene	372	yehX			
+AKBMDOOL_00743	CDS	372	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+AKBMDOOL_00744	gene	249				
+AKBMDOOL_00744	CDS	249				hypothetical protein
+AKBMDOOL_00745	gene	882				
+AKBMDOOL_00745	CDS	882				hypothetical protein
+AKBMDOOL_00746	gene	642	gmk			
+AKBMDOOL_00746	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+AKBMDOOL_00747	gene	267	rpoZ			
+AKBMDOOL_00747	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+AKBMDOOL_00748	gene	1212	undec1A			
+AKBMDOOL_00748	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+AKBMDOOL_00749	gene	2313	priA			
+AKBMDOOL_00749	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+AKBMDOOL_00750	gene	456	def1			
+AKBMDOOL_00750	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+AKBMDOOL_00751	gene	930	fmt			
+AKBMDOOL_00751	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+AKBMDOOL_00752	gene	690				
+AKBMDOOL_00752	CDS	690				hypothetical protein
+AKBMDOOL_00753	gene	1344	rsmB			
+AKBMDOOL_00753	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+AKBMDOOL_00754	gene	1038	rlmN			
+AKBMDOOL_00754	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+AKBMDOOL_00755	gene	750	stp			
+AKBMDOOL_00755	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+AKBMDOOL_00756	gene	1881	prkC			
+AKBMDOOL_00756	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+AKBMDOOL_00757	gene	735	fabG_2			
+AKBMDOOL_00757	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+AKBMDOOL_00758	gene	900	rsgA			
+AKBMDOOL_00758	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+AKBMDOOL_00759	gene	657	rpe			
+AKBMDOOL_00759	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+AKBMDOOL_00760	gene	684	thiN			
+AKBMDOOL_00760	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+AKBMDOOL_00761	gene	714	phoP_1			
+AKBMDOOL_00761	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+AKBMDOOL_00762	gene	2358	sasA_3			
+AKBMDOOL_00762	CDS	2358	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+AKBMDOOL_00763	gene	1374	mepA_3			
+AKBMDOOL_00763	CDS	1374	mepA_3			Multidrug export protein MepA
+AKBMDOOL_00764	gene	453	slyA			
+AKBMDOOL_00764	CDS	453	slyA			Transcriptional regulator SlyA
+AKBMDOOL_00765	gene	1788	yhgF			
+AKBMDOOL_00765	CDS	1788	yhgF		COG2183	Protein YhgF
+AKBMDOOL_00766	gene	621	ribU			
+AKBMDOOL_00766	CDS	621	ribU			Riboflavin transporter RibU
+AKBMDOOL_00767	gene	795	fldI			
+AKBMDOOL_00767	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+AKBMDOOL_00768	gene	921				
+AKBMDOOL_00768	CDS	921				hypothetical protein
+AKBMDOOL_00769	gene	459	tsaE			
+AKBMDOOL_00769	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+AKBMDOOL_00770	gene	720	tsaB			
+AKBMDOOL_00770	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+AKBMDOOL_00771	gene	450	rimI			
+AKBMDOOL_00771	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+AKBMDOOL_00772	gene	1020	tsaD			
+AKBMDOOL_00772	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+AKBMDOOL_00773	gene	201	lnrL_1			
+AKBMDOOL_00773	CDS	201	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+AKBMDOOL_00774	gene	1770	yheS			
+AKBMDOOL_00774	CDS	1770	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+AKBMDOOL_00775	gene	636	rex1			
+AKBMDOOL_00775	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+AKBMDOOL_00776	gene	168				
+AKBMDOOL_00776	CDS	168			COG1145	Ferredoxin
+AKBMDOOL_00777	gene	1254				
+AKBMDOOL_00777	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+AKBMDOOL_00778	gene	657				
+AKBMDOOL_00778	CDS	657				hypothetical protein
+AKBMDOOL_00779	gene	219				
+AKBMDOOL_00779	CDS	219				hypothetical protein
+AKBMDOOL_00780	gene	234				
+AKBMDOOL_00780	CDS	234				hypothetical protein
+AKBMDOOL_00781	gene	2151	feoB			
+AKBMDOOL_00781	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+AKBMDOOL_00782	gene	168				
+AKBMDOOL_00782	CDS	168				hypothetical protein
+AKBMDOOL_00783	gene	1557				
+AKBMDOOL_00783	CDS	1557				hypothetical protein
+AKBMDOOL_00784	gene	486				
+AKBMDOOL_00784	CDS	486				hypothetical protein
+AKBMDOOL_00785	gene	648				
+AKBMDOOL_00785	CDS	648				hypothetical protein
+AKBMDOOL_00786	gene	954				
+AKBMDOOL_00786	CDS	954				hypothetical protein
+AKBMDOOL_00787	gene	76				
+AKBMDOOL_00787	tRNA	76				tRNA-Val(tac)
+AKBMDOOL_00788	gene	74				
+AKBMDOOL_00788	tRNA	74				tRNA-Glu(ttc)
+AKBMDOOL_00789	gene	73				
+AKBMDOOL_00789	tRNA	73				tRNA-Asn(gtt)
+AKBMDOOL_00790	gene	106				
+AKBMDOOL_00790	rRNA	106				5S ribosomal RNA
+AKBMDOOL_00791	gene	1989	tkt			
+AKBMDOOL_00791	CDS	1989	tkt	2.2.1.1		Transketolase
+AKBMDOOL_00792	gene	960				
+AKBMDOOL_00792	CDS	960				hypothetical protein
+AKBMDOOL_00793	gene	579				
+AKBMDOOL_00793	CDS	579				hypothetical protein
+AKBMDOOL_00794	gene	465				
+AKBMDOOL_00794	CDS	465				hypothetical protein
+AKBMDOOL_00795	gene	405				
+AKBMDOOL_00795	CDS	405				hypothetical protein
+AKBMDOOL_00796	gene	591	ogt			
+AKBMDOOL_00796	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+AKBMDOOL_00797	gene	990	asd_1			
+AKBMDOOL_00797	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+AKBMDOOL_00798	gene	1338	hom			
+AKBMDOOL_00798	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+AKBMDOOL_00799	gene	1050	thrC			
+AKBMDOOL_00799	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+AKBMDOOL_00800	gene	909	thrB			
+AKBMDOOL_00800	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+AKBMDOOL_00801	gene	1221	ask			
+AKBMDOOL_00801	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+AKBMDOOL_00802	gene	828	COQ3			
+AKBMDOOL_00802	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+AKBMDOOL_00803	gene	1014	gloB_2			
+AKBMDOOL_00803	CDS	1014	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+AKBMDOOL_00804	gene	1548	carA_2			
+AKBMDOOL_00804	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+AKBMDOOL_00805	gene	960	dusB			
+AKBMDOOL_00805	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+AKBMDOOL_00806	gene	768	coaX			
+AKBMDOOL_00806	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+AKBMDOOL_00807	gene	984	birA			
+AKBMDOOL_00807	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+AKBMDOOL_00808	gene	756				
+AKBMDOOL_00808	CDS	756				hypothetical protein
+AKBMDOOL_00809	gene	405				
+AKBMDOOL_00809	CDS	405				hypothetical protein
+AKBMDOOL_00810	gene	1461				
+AKBMDOOL_00810	CDS	1461				hypothetical protein
+AKBMDOOL_00811	gene	765	fpuC			
+AKBMDOOL_00811	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+AKBMDOOL_00812	gene	1065	isdF			
+AKBMDOOL_00812	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+AKBMDOOL_00813	gene	918	isdE			
+AKBMDOOL_00813	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+AKBMDOOL_00814	gene	1125				
+AKBMDOOL_00814	CDS	1125				hypothetical protein
+AKBMDOOL_00815	gene	2019				
+AKBMDOOL_00815	CDS	2019				hypothetical protein
+AKBMDOOL_00816	gene	375				
+AKBMDOOL_00816	CDS	375				hypothetical protein
+AKBMDOOL_00817	gene	930				
+AKBMDOOL_00817	CDS	930				hypothetical protein
+AKBMDOOL_00818	gene	1425	purB			
+AKBMDOOL_00818	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+AKBMDOOL_00819	gene	1278	purA			
+AKBMDOOL_00819	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+AKBMDOOL_00820	gene	1452	trkG			
+AKBMDOOL_00820	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+AKBMDOOL_00821	gene	1365	trkA			
+AKBMDOOL_00821	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+AKBMDOOL_00822	gene	762				
+AKBMDOOL_00822	CDS	762				hypothetical protein
+AKBMDOOL_00823	gene	927	trxB			
+AKBMDOOL_00823	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+AKBMDOOL_00824	gene	1374	zwf			
+AKBMDOOL_00824	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+AKBMDOOL_00825	gene	1440	gnd			
+AKBMDOOL_00825	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+AKBMDOOL_00826	gene	789	ybiV			
+AKBMDOOL_00826	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+AKBMDOOL_00827	gene	1041	tagU_1			
+AKBMDOOL_00827	CDS	1041	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+AKBMDOOL_00828	gene	963	tagU_2			
+AKBMDOOL_00828	CDS	963	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+AKBMDOOL_00829	gene	1350	alsT_2			
+AKBMDOOL_00829	CDS	1350	alsT_2		COG1115	Amino-acid carrier protein AlsT
+AKBMDOOL_00830	gene	2145				
+AKBMDOOL_00830	CDS	2145				hypothetical protein
+AKBMDOOL_00831	gene	1230				
+AKBMDOOL_00831	CDS	1230				hypothetical protein
+AKBMDOOL_00832	gene	1560	murJ_2			
+AKBMDOOL_00832	CDS	1560	murJ_2		COG0728	putative lipid II flippase MurJ
+AKBMDOOL_00833	gene	1446	fcl			
+AKBMDOOL_00833	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+AKBMDOOL_00834	gene	1101	mshA			
+AKBMDOOL_00834	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+AKBMDOOL_00835	gene	765	tuaG_1			
+AKBMDOOL_00835	CDS	765	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+AKBMDOOL_00836	gene	1122				
+AKBMDOOL_00836	CDS	1122				hypothetical protein
+AKBMDOOL_00837	gene	1188	tagF			
+AKBMDOOL_00837	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+AKBMDOOL_00838	gene	813				
+AKBMDOOL_00838	CDS	813				hypothetical protein
+AKBMDOOL_00839	gene	780	tuaG_2			
+AKBMDOOL_00839	CDS	780	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+AKBMDOOL_00840	gene	705				
+AKBMDOOL_00840	CDS	705				hypothetical protein
+AKBMDOOL_00841	gene	609				
+AKBMDOOL_00841	CDS	609				hypothetical protein
+AKBMDOOL_00842	gene	1719				
+AKBMDOOL_00842	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+AKBMDOOL_00843	gene	1770	msbA_2			
+AKBMDOOL_00843	CDS	1770	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+AKBMDOOL_00844	gene	957	rhaR_4			
+AKBMDOOL_00844	CDS	957	rhaR_4			HTH-type transcriptional activator RhaR
+AKBMDOOL_00845	gene	1818	uvrC			
+AKBMDOOL_00845	CDS	1818	uvrC		COG0322	UvrABC system protein C
+AKBMDOOL_00846	gene	933	hprK			
+AKBMDOOL_00846	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+AKBMDOOL_00847	gene	921	murB			
+AKBMDOOL_00847	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+AKBMDOOL_00848	gene	738	polX			
+AKBMDOOL_00848	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+AKBMDOOL_00849	gene	864	yvcJ			
+AKBMDOOL_00849	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+AKBMDOOL_00850	gene	1140				
+AKBMDOOL_00850	CDS	1140			COG0391	Gluconeogenesis factor
+AKBMDOOL_00851	gene	417	ndx1			
+AKBMDOOL_00851	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+AKBMDOOL_00852	gene	966	whiA			
+AKBMDOOL_00852	CDS	966	whiA		COG1481	putative cell division protein WhiA
+AKBMDOOL_00853	gene	3603	dnaE			
+AKBMDOOL_00853	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+AKBMDOOL_00854	gene	1266	clpX			
+AKBMDOOL_00854	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+AKBMDOOL_00855	gene	585	clpP			
+AKBMDOOL_00855	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+AKBMDOOL_00856	gene	1284	tig			
+AKBMDOOL_00856	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+AKBMDOOL_00857	gene	474				
+AKBMDOOL_00857	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+AKBMDOOL_00858	gene	1461	rph			
+AKBMDOOL_00858	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+AKBMDOOL_00859	gene	2109	ligA			
+AKBMDOOL_00859	CDS	2109	ligA	6.5.1.2		DNA ligase
+AKBMDOOL_00860	gene	465	bcp			
+AKBMDOOL_00860	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+AKBMDOOL_00861	gene	636	opuCD			
+AKBMDOOL_00861	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+AKBMDOOL_00862	gene	1662				
+AKBMDOOL_00862	CDS	1662				hypothetical protein
+AKBMDOOL_00863	gene	1170	opuCA			
+AKBMDOOL_00863	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+AKBMDOOL_00864	gene	1188	uctC			
+AKBMDOOL_00864	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+AKBMDOOL_00865	gene	285				
+AKBMDOOL_00865	CDS	285				hypothetical protein
+AKBMDOOL_00866	gene	723				
+AKBMDOOL_00866	CDS	723			COG0217	putative transcriptional regulatory protein
+AKBMDOOL_00867	gene	759	nadE			
+AKBMDOOL_00867	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+AKBMDOOL_00868	gene	459				
+AKBMDOOL_00868	CDS	459				hypothetical protein
+AKBMDOOL_00869	gene	339				
+AKBMDOOL_00869	CDS	339				hypothetical protein
+AKBMDOOL_00870	gene	786				
+AKBMDOOL_00870	CDS	786				hypothetical protein
+AKBMDOOL_00871	gene	708				
+AKBMDOOL_00871	CDS	708				hypothetical protein
+AKBMDOOL_00872	gene	555				
+AKBMDOOL_00872	CDS	555		3.1.3.-	COG5663	Nucleotidase
+AKBMDOOL_00873	gene	252				
+AKBMDOOL_00873	CDS	252				hypothetical protein
+AKBMDOOL_00874	gene	561	nfrA1			
+AKBMDOOL_00874	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+AKBMDOOL_00875	gene	1866	nhaP2			
+AKBMDOOL_00875	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+AKBMDOOL_00876	gene	1236				
+AKBMDOOL_00876	CDS	1236				hypothetical protein
+AKBMDOOL_00877	gene	1056	epsF			
+AKBMDOOL_00877	CDS	1056	epsF		COG1459	Type II secretion system protein F
+AKBMDOOL_00878	gene	390				
+AKBMDOOL_00878	CDS	390				hypothetical protein
+AKBMDOOL_00879	gene	1401				
+AKBMDOOL_00879	CDS	1401				hypothetical protein
+AKBMDOOL_00880	gene	435				
+AKBMDOOL_00880	CDS	435				hypothetical protein
+AKBMDOOL_00881	gene	1068				
+AKBMDOOL_00881	CDS	1068				hypothetical protein
+AKBMDOOL_00882	gene	375				
+AKBMDOOL_00882	CDS	375				hypothetical protein
+AKBMDOOL_00883	gene	1614				
+AKBMDOOL_00883	CDS	1614				hypothetical protein
+AKBMDOOL_00884	gene	1347	pgi			
+AKBMDOOL_00884	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+AKBMDOOL_00885	gene	438				
+AKBMDOOL_00885	CDS	438				hypothetical protein
+AKBMDOOL_00886	gene	1542				
+AKBMDOOL_00886	CDS	1542				hypothetical protein
+AKBMDOOL_00887	gene	345	opuBA			
+AKBMDOOL_00887	CDS	345	opuBA		COG1125	Choline transport ATP-binding protein OpuBA
+AKBMDOOL_00888	gene	1824	dap			
+AKBMDOOL_00888	CDS	1824	dap	3.4.11.19		D-aminopeptidase
+AKBMDOOL_00889	gene	501				
+AKBMDOOL_00889	CDS	501			COG2826	IS30 family transposase ISSlu1
+AKBMDOOL_00890	gene	1926	thrZ			
+AKBMDOOL_00890	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+AKBMDOOL_00891	gene	1005	hrcA			
+AKBMDOOL_00891	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+AKBMDOOL_00892	gene	624	grpE			
+AKBMDOOL_00892	CDS	624	grpE			Protein GrpE
+AKBMDOOL_00893	gene	1845	dnaK			
+AKBMDOOL_00893	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+AKBMDOOL_00894	gene	1155	dnaJ			
+AKBMDOOL_00894	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+AKBMDOOL_00895	gene	717	tcdA			
+AKBMDOOL_00895	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+AKBMDOOL_00896	gene	867	comEC_1			
+AKBMDOOL_00896	CDS	867	comEC_1		COG0658	ComE operon protein 3
+AKBMDOOL_00897	gene	906				
+AKBMDOOL_00897	CDS	906				hypothetical protein
+AKBMDOOL_00898	gene	1287	eis			
+AKBMDOOL_00898	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+AKBMDOOL_00899	gene	1236	comEC_2			
+AKBMDOOL_00899	CDS	1236	comEC_2		COG0658	ComE operon protein 3
+AKBMDOOL_00900	gene	1038	yqeN			
+AKBMDOOL_00900	CDS	1038	yqeN		COG1466	putative protein YqeN
+AKBMDOOL_00901	gene	198				
+AKBMDOOL_00901	CDS	198				IS200/IS605 family transposase ISSsu4
+AKBMDOOL_00902	gene	657				
+AKBMDOOL_00902	CDS	657				hypothetical protein
+AKBMDOOL_00903	gene	597	cysE			
+AKBMDOOL_00903	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+AKBMDOOL_00904	gene	888	cysK			
+AKBMDOOL_00904	CDS	888	cysK	2.5.1.47		Cysteine synthase
+AKBMDOOL_00905	gene	564				
+AKBMDOOL_00905	CDS	564				hypothetical protein
+AKBMDOOL_00906	gene	471				
+AKBMDOOL_00906	CDS	471				hypothetical protein
+AKBMDOOL_00907	gene	510	ftnA			
+AKBMDOOL_00907	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+AKBMDOOL_00908	gene	1422	pqqE			
+AKBMDOOL_00908	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+AKBMDOOL_00909	gene	870	rlmL_1			
+AKBMDOOL_00909	CDS	870	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+AKBMDOOL_00910	gene	681	rluC			
+AKBMDOOL_00910	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+AKBMDOOL_00911	gene	711				
+AKBMDOOL_00911	CDS	711				hypothetical protein
+AKBMDOOL_00912	gene	495				
+AKBMDOOL_00912	CDS	495				hypothetical protein
+AKBMDOOL_00913	gene	255	veg			
+AKBMDOOL_00913	CDS	255	veg		COG4466	Protein Veg
+AKBMDOOL_00914	gene	783				
+AKBMDOOL_00914	CDS	783				hypothetical protein
+AKBMDOOL_00915	gene	897	ispE			
+AKBMDOOL_00915	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+AKBMDOOL_00916	gene	678	rspR_2			
+AKBMDOOL_00916	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+AKBMDOOL_00917	gene	813	murI			
+AKBMDOOL_00917	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+AKBMDOOL_00918	gene	414				
+AKBMDOOL_00918	CDS	414				hypothetical protein
+AKBMDOOL_00919	gene	1380	tilS			
+AKBMDOOL_00919	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+AKBMDOOL_00920	gene	2025	ftsH			
+AKBMDOOL_00920	CDS	2025	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+AKBMDOOL_00921	gene	726	gamA			
+AKBMDOOL_00921	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+AKBMDOOL_00922	gene	1695	pgcA			
+AKBMDOOL_00922	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+AKBMDOOL_00923	gene	561	efp			
+AKBMDOOL_00923	CDS	561	efp		COG0231	Elongation factor P
+AKBMDOOL_00924	gene	708	rnc			
+AKBMDOOL_00924	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+AKBMDOOL_00925	gene	1071				
+AKBMDOOL_00925	CDS	1071				hypothetical protein
+AKBMDOOL_00926	gene	3552	smc_2			
+AKBMDOOL_00926	CDS	3552	smc_2		COG1196	Chromosome partition protein Smc
+AKBMDOOL_00927	gene	1296	ftsY			
+AKBMDOOL_00927	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+AKBMDOOL_00928	gene	2574				
+AKBMDOOL_00928	CDS	2574				hypothetical protein
+AKBMDOOL_00929	gene	3864				
+AKBMDOOL_00929	CDS	3864				hypothetical protein
+AKBMDOOL_00930	gene	930	xerC_1			
+AKBMDOOL_00930	CDS	930	xerC_1			Tyrosine recombinase XerC
+AKBMDOOL_00931	gene	1347	infB			
+AKBMDOOL_00931	CDS	1347	infB			Translation initiation factor IF-2
+AKBMDOOL_00932	gene	348	rbfA			
+AKBMDOOL_00932	CDS	348	rbfA			Ribosome-binding factor A
+AKBMDOOL_00933	gene	804				
+AKBMDOOL_00933	CDS	804				hypothetical protein
+AKBMDOOL_00934	gene	4917				
+AKBMDOOL_00934	CDS	4917				hypothetical protein
+AKBMDOOL_00935	gene	705	srtD			
+AKBMDOOL_00935	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+AKBMDOOL_00936	gene	1017	nrnA			
+AKBMDOOL_00936	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+AKBMDOOL_00937	gene	951	truB			
+AKBMDOOL_00937	CDS	951	truB	5.4.99.25		tRNA pseudouridine synthase B
+AKBMDOOL_00938	gene	972	ribF			
+AKBMDOOL_00938	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+AKBMDOOL_00939	gene	255	rpsO			
+AKBMDOOL_00939	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+AKBMDOOL_00940	gene	846				
+AKBMDOOL_00940	CDS	846			COG1307	Fatty acid-binding protein
+AKBMDOOL_00941	gene	2091	pnp			
+AKBMDOOL_00941	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+AKBMDOOL_00942	gene	183				
+AKBMDOOL_00942	CDS	183				hypothetical protein
+AKBMDOOL_00943	gene	771	rhmA			
+AKBMDOOL_00943	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+AKBMDOOL_00944	gene	822	mscS			
+AKBMDOOL_00944	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+AKBMDOOL_00945	gene	1188				
+AKBMDOOL_00945	CDS	1188				hypothetical protein
+AKBMDOOL_00946	gene	1584				
+AKBMDOOL_00946	CDS	1584				hypothetical protein
+AKBMDOOL_00947	gene	756				
+AKBMDOOL_00947	CDS	756				hypothetical protein
+AKBMDOOL_00948	gene	2514				
+AKBMDOOL_00948	CDS	2514				hypothetical protein
+AKBMDOOL_00949	gene	1404	cysS			
+AKBMDOOL_00949	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+AKBMDOOL_00950	gene	453	mrnC			
+AKBMDOOL_00950	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+AKBMDOOL_00951	gene	735				
+AKBMDOOL_00951	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+AKBMDOOL_00952	gene	564				
+AKBMDOOL_00952	CDS	564				hypothetical protein
+AKBMDOOL_00953	gene	660	sigH			
+AKBMDOOL_00953	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+AKBMDOOL_00954	gene	264				
+AKBMDOOL_00954	CDS	264				hypothetical protein
+AKBMDOOL_00955	gene	714	natR			
+AKBMDOOL_00955	CDS	714	natR		COG3279	Transcriptional regulatory protein NatR
+AKBMDOOL_00956	gene	1284				
+AKBMDOOL_00956	CDS	1284				hypothetical protein
+AKBMDOOL_00957	gene	480				
+AKBMDOOL_00957	CDS	480				hypothetical protein
+AKBMDOOL_00958	gene	198				
+AKBMDOOL_00958	CDS	198				hypothetical protein
+AKBMDOOL_00959	gene	162				
+AKBMDOOL_00959	CDS	162				hypothetical protein
+AKBMDOOL_00960	gene	1878				
+AKBMDOOL_00960	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+AKBMDOOL_00961	gene	1221				
+AKBMDOOL_00961	CDS	1221				hypothetical protein
+AKBMDOOL_00962	gene	678				
+AKBMDOOL_00962	CDS	678				hypothetical protein
+AKBMDOOL_00963	gene	954	msrAB			
+AKBMDOOL_00963	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+AKBMDOOL_00964	gene	1395	alaS_1			
+AKBMDOOL_00964	CDS	1395	alaS_1	6.1.1.7		Alanine--tRNA ligase
+AKBMDOOL_00965	gene	318				
+AKBMDOOL_00965	CDS	318				hypothetical protein
+AKBMDOOL_00966	gene	582				
+AKBMDOOL_00966	CDS	582				hypothetical protein
+AKBMDOOL_00967	gene	1107				
+AKBMDOOL_00967	CDS	1107				hypothetical protein
+AKBMDOOL_00968	gene	1206	xseA			
+AKBMDOOL_00968	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+AKBMDOOL_00969	gene	246	xseB			
+AKBMDOOL_00969	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+AKBMDOOL_00970	gene	885				
+AKBMDOOL_00970	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+AKBMDOOL_00971	gene	432				
+AKBMDOOL_00971	CDS	432				hypothetical protein
+AKBMDOOL_00972	gene	1947	dxs			
+AKBMDOOL_00972	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+AKBMDOOL_00973	gene	843	tlyA			
+AKBMDOOL_00973	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+AKBMDOOL_00974	gene	1683	recN			
+AKBMDOOL_00974	CDS	1683	recN		COG0497	DNA repair protein RecN
+AKBMDOOL_00975	gene	813				
+AKBMDOOL_00975	CDS	813				hypothetical protein
+AKBMDOOL_00976	gene	855	sseB			
+AKBMDOOL_00976	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+AKBMDOOL_00977	gene	894				
+AKBMDOOL_00977	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+AKBMDOOL_00978	gene	1389	gltD			
+AKBMDOOL_00978	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+AKBMDOOL_00979	gene	705				
+AKBMDOOL_00979	CDS	705				hypothetical protein
+AKBMDOOL_00980	gene	732	rluB			
+AKBMDOOL_00980	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+AKBMDOOL_00981	gene	942	hexR			
+AKBMDOOL_00981	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+AKBMDOOL_00982	gene	651	pspA_2			
+AKBMDOOL_00982	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+AKBMDOOL_00983	gene	1257				
+AKBMDOOL_00983	CDS	1257			COG2081	putative protein
+AKBMDOOL_00984	gene	660	cmk			
+AKBMDOOL_00984	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+AKBMDOOL_00985	gene	615	plsC			
+AKBMDOOL_00985	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+AKBMDOOL_00986	gene	888	ispH			
+AKBMDOOL_00986	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+AKBMDOOL_00987	gene	1896	ftsH4			
+AKBMDOOL_00987	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+AKBMDOOL_00988	gene	489				
+AKBMDOOL_00988	CDS	489				hypothetical protein
+AKBMDOOL_00989	gene	636	lexA			
+AKBMDOOL_00989	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+AKBMDOOL_00990	gene	441	xerC_2			
+AKBMDOOL_00990	CDS	441	xerC_2			Tyrosine recombinase XerC
+AKBMDOOL_00991	gene	180	rpmF			
+AKBMDOOL_00991	CDS	180	rpmF			50S ribosomal protein L32
+AKBMDOOL_00992	gene	519				
+AKBMDOOL_00992	CDS	519				hypothetical protein
+AKBMDOOL_00993	gene	1200	ackA			
+AKBMDOOL_00993	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+AKBMDOOL_00994	gene	1311	tmcAL			
+AKBMDOOL_00994	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+AKBMDOOL_00995	gene	546				
+AKBMDOOL_00995	CDS	546			COG3599	putative protein
+AKBMDOOL_00996	gene	483	coaD			
+AKBMDOOL_00996	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+AKBMDOOL_00997	gene	561	rsmD			
+AKBMDOOL_00997	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+AKBMDOOL_00998	gene	2058	recG			
+AKBMDOOL_00998	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+AKBMDOOL_00999	gene	1665				
+AKBMDOOL_00999	CDS	1665				putative protein
+AKBMDOOL_01000	gene	351				
+AKBMDOOL_01000	CDS	351				putative protein
+AKBMDOOL_01001	gene	189	rpmB			
+AKBMDOOL_01001	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+AKBMDOOL_01002	gene	1728	ade			
+AKBMDOOL_01002	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+AKBMDOOL_01003	gene	1233				
+AKBMDOOL_01003	CDS	1233				hypothetical protein
+AKBMDOOL_01004	gene	1293				
+AKBMDOOL_01004	CDS	1293				hypothetical protein
+AKBMDOOL_01005	gene	1023	rpoN			
+AKBMDOOL_01005	CDS	1023	rpoN		COG1508	RNA polymerase sigma-54 factor
+AKBMDOOL_01006	gene	657				
+AKBMDOOL_01006	CDS	657				ISL3 family transposase ISSth1
+AKBMDOOL_01007	gene	1980	htpG			
+AKBMDOOL_01007	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+AKBMDOOL_01008	gene	141				
+AKBMDOOL_01008	CDS	141				hypothetical protein
+AKBMDOOL_01009	gene	636	fchA			
+AKBMDOOL_01009	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+AKBMDOOL_01010	gene	858	folD			
+AKBMDOOL_01010	CDS	858	folD			Bifunctional protein FolD protein
+AKBMDOOL_01011	gene	1587	clcA			
+AKBMDOOL_01011	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+AKBMDOOL_01012	gene	1872	yjcD			
+AKBMDOOL_01012	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+AKBMDOOL_01013	gene	885				
+AKBMDOOL_01013	CDS	885				hypothetical protein
+AKBMDOOL_01014	gene	858	pdxS			
+AKBMDOOL_01014	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+AKBMDOOL_01015	gene	1362	gabR			
+AKBMDOOL_01015	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+AKBMDOOL_01016	gene	300				
+AKBMDOOL_01016	CDS	300				hypothetical protein
+AKBMDOOL_01017	gene	1173				
+AKBMDOOL_01017	CDS	1173				hypothetical protein
+AKBMDOOL_01018	gene	1227	dltD			
+AKBMDOOL_01018	CDS	1227	dltD		COG3966	Protein DltD
+AKBMDOOL_01019	gene	126				
+AKBMDOOL_01019	CDS	126				hypothetical protein
+AKBMDOOL_01020	gene	450	srfAA			
+AKBMDOOL_01020	CDS	450	srfAA		COG0318	Surfactin synthase subunit 1
+AKBMDOOL_01021	gene	1404	lysN_2			
+AKBMDOOL_01021	CDS	1404	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+AKBMDOOL_01022	gene	201				
+AKBMDOOL_01022	CDS	201				hypothetical protein
+AKBMDOOL_01023	gene	912	cmpR			
+AKBMDOOL_01023	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+AKBMDOOL_01024	gene	85				
+AKBMDOOL_01024	tRNA	85				tRNA-Leu(caa)
+AKBMDOOL_01025	gene	2643	polA			
+AKBMDOOL_01025	CDS	2643	polA	2.7.7.7		DNA polymerase I
+AKBMDOOL_01026	gene	606	coaE			
+AKBMDOOL_01026	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+AKBMDOOL_01027	gene	561	mltC			
+AKBMDOOL_01027	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+AKBMDOOL_01028	gene	213				
+AKBMDOOL_01028	CDS	213				hypothetical protein
+AKBMDOOL_01029	gene	1431				
+AKBMDOOL_01029	CDS	1431				hypothetical protein
+AKBMDOOL_01030	gene	1344	rnfC			
+AKBMDOOL_01030	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+AKBMDOOL_01031	gene	987	rnfD			
+AKBMDOOL_01031	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+AKBMDOOL_01032	gene	567	rnfG			
+AKBMDOOL_01032	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+AKBMDOOL_01033	gene	594	rnfE			
+AKBMDOOL_01033	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+AKBMDOOL_01034	gene	576	rnfA			
+AKBMDOOL_01034	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+AKBMDOOL_01035	gene	864	rnfB			
+AKBMDOOL_01035	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+AKBMDOOL_01036	gene	2547				
+AKBMDOOL_01036	CDS	2547				hypothetical protein
+AKBMDOOL_01037	gene	771	ycfH			
+AKBMDOOL_01037	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+AKBMDOOL_01038	gene	1941	metG			
+AKBMDOOL_01038	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+AKBMDOOL_01039	gene	456	lrpC			
+AKBMDOOL_01039	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+AKBMDOOL_01040	gene	1437	pncB2			
+AKBMDOOL_01040	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+AKBMDOOL_01041	gene	837	rsmI			
+AKBMDOOL_01041	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+AKBMDOOL_01042	gene	750	yfiC			
+AKBMDOOL_01042	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+AKBMDOOL_01043	gene	897				
+AKBMDOOL_01043	CDS	897				hypothetical protein
+AKBMDOOL_01044	gene	939				
+AKBMDOOL_01044	CDS	939				hypothetical protein
+AKBMDOOL_01045	gene	702	tmk			
+AKBMDOOL_01045	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+AKBMDOOL_01046	gene	1506	speA			
+AKBMDOOL_01046	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+AKBMDOOL_01047	gene	90				
+AKBMDOOL_01047	rRNA	90				5S ribosomal RNA (partial)
+AKBMDOOL_01048	gene	720	ytrB			
+AKBMDOOL_01048	CDS	720	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+AKBMDOOL_01049	gene	417				
+AKBMDOOL_01049	CDS	417				hypothetical protein
+AKBMDOOL_01050	gene	843				
+AKBMDOOL_01050	CDS	843				hypothetical protein
+AKBMDOOL_01051	gene	1353	mepA_4			
+AKBMDOOL_01051	CDS	1353	mepA_4		COG0534	Multidrug export protein MepA
+AKBMDOOL_01052	gene	1437	rcsC			
+AKBMDOOL_01052	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+AKBMDOOL_01053	gene	696	walR			
+AKBMDOOL_01053	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+AKBMDOOL_01054	gene	1365				
+AKBMDOOL_01054	CDS	1365				hypothetical protein
+AKBMDOOL_01055	gene	1149	rlmL_2			
+AKBMDOOL_01055	CDS	1149	rlmL_2		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+AKBMDOOL_01056	gene	1137				
+AKBMDOOL_01056	CDS	1137				TelA-like protein
+AKBMDOOL_01057	gene	1155				
+AKBMDOOL_01057	CDS	1155				hypothetical protein
+AKBMDOOL_01058	gene	645	artM_2			
+AKBMDOOL_01058	CDS	645	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+AKBMDOOL_01059	gene	618	artQ_2			
+AKBMDOOL_01059	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+AKBMDOOL_01060	gene	801	artJ			
+AKBMDOOL_01060	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+AKBMDOOL_01061	gene	1326				
+AKBMDOOL_01061	CDS	1326				hypothetical protein
+AKBMDOOL_01062	gene	366				
+AKBMDOOL_01062	CDS	366				hypothetical protein
+AKBMDOOL_01063	gene	1041				
+AKBMDOOL_01063	CDS	1041				hypothetical protein
+AKBMDOOL_01064	gene	2016	gdpP			
+AKBMDOOL_01064	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+AKBMDOOL_01065	gene	447	rplI			
+AKBMDOOL_01065	CDS	447	rplI			50S ribosomal protein L9
+AKBMDOOL_01066	gene	1338	dnaC			
+AKBMDOOL_01066	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+AKBMDOOL_01067	gene	990	dnaA_3			
+AKBMDOOL_01067	CDS	990	dnaA_3			Chromosomal replication initiator protein DnaA
+AKBMDOOL_01068	gene	1050				
+AKBMDOOL_01068	CDS	1050				hypothetical protein
+AKBMDOOL_01069	gene	483	rlmH			
+AKBMDOOL_01069	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+AKBMDOOL_01070	gene	801	yycJ			
+AKBMDOOL_01070	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+AKBMDOOL_01071	gene	162				
+AKBMDOOL_01071	CDS	162				Rubredoxin
+AKBMDOOL_01072	gene	462	zur			
+AKBMDOOL_01072	CDS	462	zur		COG0735	Zinc uptake regulation protein
+AKBMDOOL_01073	gene	981	znuA			
+AKBMDOOL_01073	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+AKBMDOOL_01074	gene	669	mntB			
+AKBMDOOL_01074	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+AKBMDOOL_01075	gene	786	znuB			
+AKBMDOOL_01075	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+AKBMDOOL_01076	gene	753				
+AKBMDOOL_01076	CDS	753				hypothetical protein
+AKBMDOOL_01077	gene	216				
+AKBMDOOL_01077	CDS	216				hypothetical protein
+AKBMDOOL_01078	gene	1071				
+AKBMDOOL_01078	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+AKBMDOOL_01079	gene	918				
+AKBMDOOL_01079	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+AKBMDOOL_01080	gene	1254				
+AKBMDOOL_01080	CDS	1254				hypothetical protein
+AKBMDOOL_01081	gene	429	rplM			
+AKBMDOOL_01081	CDS	429	rplM		COG0102	50S ribosomal protein L13
+AKBMDOOL_01082	gene	393	rpsI			
+AKBMDOOL_01082	CDS	393	rpsI			30S ribosomal protein S9
+AKBMDOOL_01083	gene	552	rpoE			
+AKBMDOOL_01083	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+AKBMDOOL_01084	gene	1299				
+AKBMDOOL_01084	CDS	1299				hypothetical protein
+AKBMDOOL_01085	gene	258				
+AKBMDOOL_01085	CDS	258				hypothetical protein
+AKBMDOOL_01086	gene	351				
+AKBMDOOL_01086	CDS	351				hypothetical protein
+AKBMDOOL_01087	gene	2487				
+AKBMDOOL_01087	CDS	2487				hypothetical protein
+AKBMDOOL_01088	gene	486	greA			
+AKBMDOOL_01088	CDS	486	greA		COG0782	Transcription elongation factor GreA
+AKBMDOOL_01089	gene	1911	epmA			
+AKBMDOOL_01089	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+AKBMDOOL_01090	gene	720				
+AKBMDOOL_01090	CDS	720				hypothetical protein
+AKBMDOOL_01091	gene	2637	alaS_2			
+AKBMDOOL_01091	CDS	2637	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+AKBMDOOL_01092	gene	261				
+AKBMDOOL_01092	CDS	261				hypothetical protein
+AKBMDOOL_01093	gene	2280				
+AKBMDOOL_01093	CDS	2280				hypothetical protein
+AKBMDOOL_01094	gene	417	yrrK			
+AKBMDOOL_01094	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+AKBMDOOL_01095	gene	450	fur			
+AKBMDOOL_01095	CDS	450	fur		COG0735	Ferric uptake regulation protein
+AKBMDOOL_01096	gene	1083				
+AKBMDOOL_01096	CDS	1083				hypothetical protein
+AKBMDOOL_01097	gene	1626				
+AKBMDOOL_01097	CDS	1626				hypothetical protein
+AKBMDOOL_01098	gene	1548	rny			
+AKBMDOOL_01098	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+AKBMDOOL_01099	gene	1782				
+AKBMDOOL_01099	CDS	1782				hypothetical protein
+AKBMDOOL_01100	gene	465	uppP			
+AKBMDOOL_01100	CDS	465	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+AKBMDOOL_01101	gene	273				
+AKBMDOOL_01101	CDS	273				hypothetical protein
+AKBMDOOL_01102	gene	1239	rps1			
+AKBMDOOL_01102	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+AKBMDOOL_01103	gene	1422				
+AKBMDOOL_01103	CDS	1422				hypothetical protein
+AKBMDOOL_01104	gene	486				
+AKBMDOOL_01104	CDS	486				hypothetical protein
+AKBMDOOL_01105	gene	846	cvfB			
+AKBMDOOL_01105	CDS	846	cvfB		COG2996	Conserved virulence factor B
+AKBMDOOL_01106	gene	462	cdd			
+AKBMDOOL_01106	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+AKBMDOOL_01107	gene	738				
+AKBMDOOL_01107	CDS	738				hypothetical protein
+AKBMDOOL_01108	gene	1320				
+AKBMDOOL_01108	CDS	1320				hypothetical protein
+AKBMDOOL_01109	gene	2358	secA_2			
+AKBMDOOL_01109	CDS	2358	secA_2		COG0653	Protein translocase subunit SecA
+AKBMDOOL_01110	gene	1365				
+AKBMDOOL_01110	CDS	1365				hypothetical protein
+AKBMDOOL_01111	gene	1305				
+AKBMDOOL_01111	CDS	1305				hypothetical protein
+AKBMDOOL_01112	gene	645				
+AKBMDOOL_01112	CDS	645				hypothetical protein
+AKBMDOOL_01113	gene	417	btuD_2			
+AKBMDOOL_01113	CDS	417	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AKBMDOOL_01114	gene	603	nudL			
+AKBMDOOL_01114	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+AKBMDOOL_01115	gene	291				
+AKBMDOOL_01115	CDS	291				hypothetical protein
+AKBMDOOL_01116	gene	762	ribX			
+AKBMDOOL_01116	CDS	762	ribX			Riboflavin transport system permease protein RibX
+AKBMDOOL_01117	gene	1023	thiY			
+AKBMDOOL_01117	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+AKBMDOOL_01118	gene	726	tauB			
+AKBMDOOL_01118	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+AKBMDOOL_01119	gene	2643	mutS			
+AKBMDOOL_01119	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+AKBMDOOL_01120	gene	2061	mutL			
+AKBMDOOL_01120	CDS	2061	mutL			DNA mismatch repair protein MutL
+AKBMDOOL_01121	gene	957	miaA			
+AKBMDOOL_01121	CDS	957	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+AKBMDOOL_01122	gene	1275				
+AKBMDOOL_01122	CDS	1275				hypothetical protein
+AKBMDOOL_01123	gene	498	proX			
+AKBMDOOL_01123	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+AKBMDOOL_01124	gene	1044				
+AKBMDOOL_01124	CDS	1044				hypothetical protein
+AKBMDOOL_01125	gene	690				
+AKBMDOOL_01125	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+AKBMDOOL_01126	gene	1164	ugtP_1			
+AKBMDOOL_01126	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+AKBMDOOL_01127	gene	465				
+AKBMDOOL_01127	CDS	465				hypothetical protein
+AKBMDOOL_01128	gene	651				
+AKBMDOOL_01128	CDS	651				hypothetical protein
+AKBMDOOL_01129	gene	525				
+AKBMDOOL_01129	CDS	525				hypothetical protein
+AKBMDOOL_01130	gene	987	nrdF			
+AKBMDOOL_01130	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+AKBMDOOL_01131	gene	2109	nrdE			
+AKBMDOOL_01131	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+AKBMDOOL_01132	gene	2403				
+AKBMDOOL_01132	CDS	2403				hypothetical protein
+AKBMDOOL_01133	gene	237	dltC			
+AKBMDOOL_01133	CDS	237	dltC		COG0236	D-alanyl carrier protein
+AKBMDOOL_01134	gene	1161				
+AKBMDOOL_01134	CDS	1161				hypothetical protein
+AKBMDOOL_01135	gene	1047	dltA			
+AKBMDOOL_01135	CDS	1047	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+AKBMDOOL_01136	gene	1959	fusA_1			
+AKBMDOOL_01136	CDS	1959	fusA_1		COG0480	Elongation factor G
+AKBMDOOL_01137	gene	999				
+AKBMDOOL_01137	CDS	999				hypothetical protein
+AKBMDOOL_01138	gene	1245				
+AKBMDOOL_01138	CDS	1245				hypothetical protein
+AKBMDOOL_01139	gene	219				
+AKBMDOOL_01139	CDS	219				hypothetical protein
+AKBMDOOL_01140	gene	1380	radA			
+AKBMDOOL_01140	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+AKBMDOOL_01141	gene	1077	disA			
+AKBMDOOL_01141	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+AKBMDOOL_01142	gene	1092				
+AKBMDOOL_01142	CDS	1092				hypothetical protein
+AKBMDOOL_01143	gene	1446	proS			
+AKBMDOOL_01143	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+AKBMDOOL_01144	gene	750				
+AKBMDOOL_01144	CDS	750				hypothetical protein
+AKBMDOOL_01145	gene	474				
+AKBMDOOL_01145	CDS	474				hypothetical protein
+AKBMDOOL_01146	gene	1296	lysA			
+AKBMDOOL_01146	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+AKBMDOOL_01147	gene	1077	alr1_2			
+AKBMDOOL_01147	CDS	1077	alr1_2	5.1.1.1	COG0787	Alanine racemase 1
+AKBMDOOL_01148	gene	1152	scmP			
+AKBMDOOL_01148	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+AKBMDOOL_01149	gene	720	dapH			
+AKBMDOOL_01149	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+AKBMDOOL_01150	gene	732	dapB			
+AKBMDOOL_01150	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+AKBMDOOL_01151	gene	900	dapA_2			
+AKBMDOOL_01151	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+AKBMDOOL_01152	gene	984	asd_2			
+AKBMDOOL_01152	CDS	984	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+AKBMDOOL_01153	gene	1206	lysC			
+AKBMDOOL_01153	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+AKBMDOOL_01154	gene	654				
+AKBMDOOL_01154	CDS	654				hypothetical protein
+AKBMDOOL_01155	gene	828	exoA			
+AKBMDOOL_01155	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+AKBMDOOL_01156	gene	1194	tuf			
+AKBMDOOL_01156	CDS	1194	tuf		COG0050	Elongation factor Tu
+AKBMDOOL_01157	gene	717	fusA_2			
+AKBMDOOL_01157	CDS	717	fusA_2		COG0480	Elongation factor G
+AKBMDOOL_01158	gene	1074	ftsZ			
+AKBMDOOL_01158	CDS	1074	ftsZ		COG0206	Cell division protein FtsZ
+AKBMDOOL_01159	gene	468	nrdR			
+AKBMDOOL_01159	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+AKBMDOOL_01160	gene	681	phoP_2			
+AKBMDOOL_01160	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+AKBMDOOL_01161	gene	1281	walK			
+AKBMDOOL_01161	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+AKBMDOOL_01162	gene	1329	der_2			
+AKBMDOOL_01162	CDS	1329	der_2		COG1160	GTPase Der
+AKBMDOOL_01163	gene	609	plsY			
+AKBMDOOL_01163	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+AKBMDOOL_01164	gene	1011	gpsA			
+AKBMDOOL_01164	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+AKBMDOOL_01165	gene	702				
+AKBMDOOL_01165	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+AKBMDOOL_01166	gene	495	sepF			
+AKBMDOOL_01166	CDS	495	sepF			Cell division protein SepF
+AKBMDOOL_01167	gene	258				
+AKBMDOOL_01167	CDS	258				hypothetical protein
+AKBMDOOL_01168	gene	786				
+AKBMDOOL_01168	CDS	786				hypothetical protein
+AKBMDOOL_01169	gene	654	gpsB			
+AKBMDOOL_01169	CDS	654	gpsB			Cell cycle protein GpsB
+AKBMDOOL_01170	gene	3123	mupA			
+AKBMDOOL_01170	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+AKBMDOOL_01171	gene	1482				
+AKBMDOOL_01171	CDS	1482				hypothetical protein
+AKBMDOOL_01172	gene	513	sigM_2			
+AKBMDOOL_01172	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+AKBMDOOL_01173	gene	1098	ychF			
+AKBMDOOL_01173	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+AKBMDOOL_01174	gene	456				
+AKBMDOOL_01174	CDS	456				hypothetical protein
+AKBMDOOL_01175	gene	1260				
+AKBMDOOL_01175	CDS	1260				hypothetical protein
+AKBMDOOL_01176	gene	1293				
+AKBMDOOL_01176	CDS	1293				hypothetical protein
+AKBMDOOL_01177	gene	750	lgt			
+AKBMDOOL_01177	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+AKBMDOOL_01178	gene	936	rsmH			
+AKBMDOOL_01178	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+AKBMDOOL_01179	gene	1410	murF			
+AKBMDOOL_01179	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+AKBMDOOL_01180	gene	966	mraY			
+AKBMDOOL_01180	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+AKBMDOOL_01181	gene	1365	murD			
+AKBMDOOL_01181	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+AKBMDOOL_01182	gene	1098	murG			
+AKBMDOOL_01182	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+AKBMDOOL_01183	gene	1540				
+AKBMDOOL_01183	rRNA	1540				16S ribosomal RNA
+AKBMDOOL_01184	gene	1305	thiC			
+AKBMDOOL_01184	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+AKBMDOOL_01185	gene	1455	thiM			
+AKBMDOOL_01185	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+AKBMDOOL_01186	gene	822	thiD			
+AKBMDOOL_01186	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+AKBMDOOL_01187	gene	987				
+AKBMDOOL_01187	CDS	987				hypothetical protein
+AKBMDOOL_01188	gene	2211	ziaA			
+AKBMDOOL_01188	CDS	2211	ziaA	7.2.2.12		Zinc-transporting ATPase
+AKBMDOOL_01189	gene	384	ziaR			
+AKBMDOOL_01189	CDS	384	ziaR			Transcriptional repressor SmtB 
+AKBMDOOL_01190	gene	357				
+AKBMDOOL_01190	CDS	357				hypothetical protein
+AKBMDOOL_01191	gene	858				
+AKBMDOOL_01191	CDS	858				hypothetical protein
+AKBMDOOL_01192	gene	729	lnrL_2			
+AKBMDOOL_01192	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+AKBMDOOL_01193	gene	369	ytrA			
+AKBMDOOL_01193	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+AKBMDOOL_01194	gene	72				
+AKBMDOOL_01194	tRNA	72				tRNA-Cys(gca)
+AKBMDOOL_01195	gene	75				
+AKBMDOOL_01195	tRNA	75				tRNA-Lys(ctt)
+AKBMDOOL_01196	gene	77				
+AKBMDOOL_01196	tRNA	77				tRNA-Met(cat)
+AKBMDOOL_01197	gene	76				
+AKBMDOOL_01197	tRNA	76				tRNA-Phe(gaa)
+AKBMDOOL_01198	gene	89				
+AKBMDOOL_01198	tRNA	89				tRNA-Ser(tga)
+AKBMDOOL_01199	gene	76				
+AKBMDOOL_01199	tRNA	76				tRNA-Gln(ttg)
+AKBMDOOL_01200	gene	84				
+AKBMDOOL_01200	tRNA	84				tRNA-Leu(tag)
+AKBMDOOL_01201	gene	735	pta			
+AKBMDOOL_01201	CDS	735	pta	2.3.1.8		Phosphate acetyltransferase
+AKBMDOOL_01202	gene	1200	sstT_2			
+AKBMDOOL_01202	CDS	1200	sstT_2			Serine/threonine transporter SstT
+AKBMDOOL_01203	gene	1578				
+AKBMDOOL_01203	CDS	1578				hypothetical protein
+AKBMDOOL_01204	gene	678				
+AKBMDOOL_01204	CDS	678				hypothetical protein
+AKBMDOOL_01205	gene	777	yjjP			
+AKBMDOOL_01205	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+AKBMDOOL_01206	gene	1467				
+AKBMDOOL_01206	CDS	1467				hypothetical protein
+AKBMDOOL_01207	gene	540	puuR			
+AKBMDOOL_01207	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+AKBMDOOL_01208	gene	1044	potA			
+AKBMDOOL_01208	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+AKBMDOOL_01209	gene	867	potB			
+AKBMDOOL_01209	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+AKBMDOOL_01210	gene	807				
+AKBMDOOL_01210	CDS	807				hypothetical protein
+AKBMDOOL_01211	gene	804	ywpJ			
+AKBMDOOL_01211	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+AKBMDOOL_01212	gene	1266	cinA			
+AKBMDOOL_01212	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+AKBMDOOL_01213	gene	897	ddl			
+AKBMDOOL_01213	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+AKBMDOOL_01214	gene	792	srfAB			
+AKBMDOOL_01214	CDS	792	srfAB			Surfactin synthase subunit 2
+AKBMDOOL_01215	gene	1413	tycC			
+AKBMDOOL_01215	CDS	1413	tycC			Tyrocidine synthase 3
+AKBMDOOL_01216	gene	894				
+AKBMDOOL_01216	CDS	894				hypothetical protein
+AKBMDOOL_01217	gene	1401	asnS			
+AKBMDOOL_01217	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+AKBMDOOL_01218	gene	1572				
+AKBMDOOL_01218	CDS	1572				hypothetical protein
+AKBMDOOL_01219	gene	1503	asnB			
+AKBMDOOL_01219	CDS	1503	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+AKBMDOOL_01220	gene	972				
+AKBMDOOL_01220	CDS	972				hypothetical protein
+AKBMDOOL_01221	gene	177				
+AKBMDOOL_01221	CDS	177				hypothetical protein
+AKBMDOOL_01222	gene	1023	lnpD			
+AKBMDOOL_01222	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+AKBMDOOL_01223	gene	1104				
+AKBMDOOL_01223	CDS	1104				hypothetical protein
+AKBMDOOL_01224	gene	1230				
+AKBMDOOL_01224	CDS	1230				hypothetical protein
+AKBMDOOL_01225	gene	1005	asnA			
+AKBMDOOL_01225	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+AKBMDOOL_01226	gene	531	hpt_2			
+AKBMDOOL_01226	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+AKBMDOOL_01227	gene	795				
+AKBMDOOL_01227	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+AKBMDOOL_01228	gene	1236	baiN			
+AKBMDOOL_01228	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+AKBMDOOL_01229	gene	465				
+AKBMDOOL_01229	CDS	465				hypothetical protein
+AKBMDOOL_01230	gene	1764				
+AKBMDOOL_01230	CDS	1764				hypothetical protein
+AKBMDOOL_01231	gene	228	acpP_2			
+AKBMDOOL_01231	CDS	228	acpP_2			Acyl carrier protein
+AKBMDOOL_01232	gene	1011				
+AKBMDOOL_01232	CDS	1011				hypothetical protein
+AKBMDOOL_01233	gene	933	rluD_2			
+AKBMDOOL_01233	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+AKBMDOOL_01234	gene	888	nadK			
+AKBMDOOL_01234	CDS	888	nadK	2.7.1.23		NAD kinase
+AKBMDOOL_01235	gene	1035	icd			
+AKBMDOOL_01235	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+AKBMDOOL_01236	gene	1974	leuC			
+AKBMDOOL_01236	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+AKBMDOOL_01237	gene	1077	cshE			
+AKBMDOOL_01237	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+AKBMDOOL_01238	gene	330				
+AKBMDOOL_01238	CDS	330				hypothetical protein
+AKBMDOOL_01239	gene	1347	yoaB			
+AKBMDOOL_01239	CDS	1347	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+AKBMDOOL_01240	gene	1440	pyk			
+AKBMDOOL_01240	CDS	1440	pyk	2.7.1.40		Pyruvate kinase
+AKBMDOOL_01241	gene	1386	rlmCD			
+AKBMDOOL_01241	CDS	1386	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+AKBMDOOL_01242	gene	549				
+AKBMDOOL_01242	CDS	549				hypothetical protein
+AKBMDOOL_01243	gene	1050				
+AKBMDOOL_01243	CDS	1050				hypothetical protein
+AKBMDOOL_01244	gene	1023				
+AKBMDOOL_01244	CDS	1023				hypothetical protein
+AKBMDOOL_01245	gene	516				
+AKBMDOOL_01245	CDS	516				hypothetical protein
+AKBMDOOL_01246	gene	1011	lytC_3			
+AKBMDOOL_01246	CDS	1011	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+AKBMDOOL_01247	gene	855				
+AKBMDOOL_01247	CDS	855				hypothetical protein
+AKBMDOOL_01248	gene	435				
+AKBMDOOL_01248	CDS	435				hypothetical protein
+AKBMDOOL_01249	gene	837				
+AKBMDOOL_01249	CDS	837				hypothetical protein
+AKBMDOOL_01250	gene	765	sufC			
+AKBMDOOL_01250	CDS	765	sufC		COG0396	Vegetative protein 296
+AKBMDOOL_01251	gene	1425				
+AKBMDOOL_01251	CDS	1425				hypothetical protein
+AKBMDOOL_01252	gene	831				
+AKBMDOOL_01252	CDS	831				hypothetical protein
+AKBMDOOL_01253	gene	1236	csd			
+AKBMDOOL_01253	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+AKBMDOOL_01254	gene	438	sufU			
+AKBMDOOL_01254	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+AKBMDOOL_01255	gene	408				
+AKBMDOOL_01255	CDS	408				hypothetical protein
+AKBMDOOL_01256	gene	627				
+AKBMDOOL_01256	CDS	627				hypothetical protein
+AKBMDOOL_01257	gene	291				
+AKBMDOOL_01257	CDS	291				hypothetical protein
+AKBMDOOL_01258	gene	735				
+AKBMDOOL_01258	CDS	735		3.1.3.-	COG0560	putative phosphatase
+AKBMDOOL_01259	gene	1221				
+AKBMDOOL_01259	CDS	1221				hypothetical protein
+AKBMDOOL_01260	gene	660				
+AKBMDOOL_01260	CDS	660				hypothetical protein
+AKBMDOOL_01261	gene	246				
+AKBMDOOL_01261	CDS	246				hypothetical protein
+AKBMDOOL_01262	gene	285				
+AKBMDOOL_01262	CDS	285				hypothetical protein
+AKBMDOOL_01263	gene	951	prmA			
+AKBMDOOL_01263	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+AKBMDOOL_01264	gene	777	rsmE			
+AKBMDOOL_01264	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+AKBMDOOL_01265	gene	1296	mtaB			
+AKBMDOOL_01265	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+AKBMDOOL_01266	gene	324				
+AKBMDOOL_01266	CDS	324				hypothetical protein
+AKBMDOOL_01267	gene	345				
+AKBMDOOL_01267	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+AKBMDOOL_01268	gene	822				
+AKBMDOOL_01268	CDS	822				hypothetical protein
+AKBMDOOL_01269	gene	1032	pheS			
+AKBMDOOL_01269	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+AKBMDOOL_01270	gene	2391	pheT			
+AKBMDOOL_01270	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+AKBMDOOL_01271	gene	825	ykoD_3			
+AKBMDOOL_01271	CDS	825	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+AKBMDOOL_01272	gene	1374	moaA_2			
+AKBMDOOL_01272	CDS	1374	moaA_2			GTP 3',8-cyclase
+AKBMDOOL_01273	gene	975				
+AKBMDOOL_01273	CDS	975				hypothetical protein
+AKBMDOOL_01274	gene	222				
+AKBMDOOL_01274	CDS	222				hypothetical protein
+AKBMDOOL_01275	gene	888				
+AKBMDOOL_01275	CDS	888				hypothetical protein
+AKBMDOOL_01276	gene	546				
+AKBMDOOL_01276	CDS	546				hypothetical protein
+AKBMDOOL_01277	gene	900				
+AKBMDOOL_01277	CDS	900				hypothetical protein
+AKBMDOOL_01278	gene	654				
+AKBMDOOL_01278	CDS	654				hypothetical protein
+AKBMDOOL_01279	gene	1716	ptsI			
+AKBMDOOL_01279	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+AKBMDOOL_01280	gene	264	ptsH			
+AKBMDOOL_01280	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+AKBMDOOL_01281	gene	168				
+AKBMDOOL_01281	CDS	168				hypothetical protein
+AKBMDOOL_01282	gene	276				
+AKBMDOOL_01282	CDS	276				hypothetical protein
+AKBMDOOL_01283	gene	600	recR			
+AKBMDOOL_01283	CDS	600	recR		COG0353	Recombination protein RecR
+AKBMDOOL_01284	gene	345				
+AKBMDOOL_01284	CDS	345			COG0718	Nucleoid-associated protein
+AKBMDOOL_01285	gene	1683	ruvB_1			
+AKBMDOOL_01285	CDS	1683	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+AKBMDOOL_01286	gene	576				
+AKBMDOOL_01286	CDS	576				hypothetical protein
+AKBMDOOL_01287	gene	642	bcrA_2			
+AKBMDOOL_01287	CDS	642	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+AKBMDOOL_01288	gene	657				
+AKBMDOOL_01288	CDS	657				hypothetical protein
+AKBMDOOL_01289	gene	681				
+AKBMDOOL_01289	CDS	681				hypothetical protein
+AKBMDOOL_01290	gene	768				
+AKBMDOOL_01290	CDS	768				hypothetical protein
+AKBMDOOL_01291	gene	1701				
+AKBMDOOL_01291	CDS	1701				hypothetical protein
+AKBMDOOL_01292	gene	762				
+AKBMDOOL_01292	CDS	762				hypothetical protein
+AKBMDOOL_01293	gene	1422	purF			
+AKBMDOOL_01293	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+AKBMDOOL_01294	gene	1647	gltX			
+AKBMDOOL_01294	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+AKBMDOOL_01295	gene	1458				
+AKBMDOOL_01295	CDS	1458				hypothetical protein
+AKBMDOOL_01296	gene	684				
+AKBMDOOL_01296	CDS	684				hypothetical protein
+AKBMDOOL_01297	gene	339				
+AKBMDOOL_01297	CDS	339				hypothetical protein
+AKBMDOOL_01298	gene	771				
+AKBMDOOL_01298	CDS	771				hypothetical protein
+AKBMDOOL_01299	gene	594				
+AKBMDOOL_01299	CDS	594				hypothetical protein
+AKBMDOOL_01300	gene	372				
+AKBMDOOL_01300	CDS	372				hypothetical protein
+AKBMDOOL_01301	gene	1266				
+AKBMDOOL_01301	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+AKBMDOOL_01302	gene	2574				
+AKBMDOOL_01302	CDS	2574				hypothetical protein
+AKBMDOOL_01303	gene	1323	rimO			
+AKBMDOOL_01303	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+AKBMDOOL_01304	gene	540	pgsA			
+AKBMDOOL_01304	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+AKBMDOOL_01305	gene	1050	recA			
+AKBMDOOL_01305	CDS	1050	recA		COG0468	Protein RecA
+AKBMDOOL_01306	gene	1500	guaB			
+AKBMDOOL_01306	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+AKBMDOOL_01307	gene	750				
+AKBMDOOL_01307	CDS	750				hypothetical protein
+AKBMDOOL_01308	gene	1263	hisS			
+AKBMDOOL_01308	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+AKBMDOOL_01309	gene	1560				
+AKBMDOOL_01309	CDS	1560				hypothetical protein
+AKBMDOOL_01310	gene	627	gloC			
+AKBMDOOL_01310	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+AKBMDOOL_01311	gene	450	dtd			
+AKBMDOOL_01311	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+AKBMDOOL_01312	gene	2226	relA			
+AKBMDOOL_01312	CDS	2226	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+AKBMDOOL_01313	gene	522	apt			
+AKBMDOOL_01313	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+AKBMDOOL_01314	gene	2484				
+AKBMDOOL_01314	CDS	2484				hypothetical protein
+AKBMDOOL_01315	gene	1635	nrdD			
+AKBMDOOL_01315	CDS	1635	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+AKBMDOOL_01316	gene	504	nrdG			
+AKBMDOOL_01316	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+AKBMDOOL_01317	gene	318	erpA			
+AKBMDOOL_01317	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+AKBMDOOL_01318	gene	858	trmB			
+AKBMDOOL_01318	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+AKBMDOOL_01319	gene	819				
+AKBMDOOL_01319	CDS	819				hypothetical protein
+AKBMDOOL_01320	gene	849				
+AKBMDOOL_01320	CDS	849				DegV domain-containing protein
+AKBMDOOL_01321	gene	1356	prpC			
+AKBMDOOL_01321	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+AKBMDOOL_01322	gene	1053	ltaE			
+AKBMDOOL_01322	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+AKBMDOOL_01323	gene	954	lytC_4			
+AKBMDOOL_01323	CDS	954	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+AKBMDOOL_01324	gene	144				
+AKBMDOOL_01324	CDS	144				hypothetical protein
+AKBMDOOL_01325	gene	321	yajC			
+AKBMDOOL_01325	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+AKBMDOOL_01326	gene	1119	tgt			
+AKBMDOOL_01326	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+AKBMDOOL_01327	gene	1026	queA			
+AKBMDOOL_01327	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+AKBMDOOL_01328	gene	1014	ruvB_2			
+AKBMDOOL_01328	CDS	1014	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+AKBMDOOL_01329	gene	612	ruvA			
+AKBMDOOL_01329	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+AKBMDOOL_01330	gene	498	ruvC			
+AKBMDOOL_01330	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+AKBMDOOL_01331	gene	567				
+AKBMDOOL_01331	CDS	567				hypothetical protein
+AKBMDOOL_01332	gene	642				
+AKBMDOOL_01332	CDS	642				hypothetical protein
+AKBMDOOL_01333	gene	342				
+AKBMDOOL_01333	CDS	342				hypothetical protein
+AKBMDOOL_01334	gene	900	mftC			
+AKBMDOOL_01334	CDS	900	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+AKBMDOOL_01335	gene	828				
+AKBMDOOL_01335	CDS	828				hypothetical protein
+AKBMDOOL_01336	gene	1056				
+AKBMDOOL_01336	CDS	1056				hypothetical protein
+AKBMDOOL_01337	gene	1134				
+AKBMDOOL_01337	CDS	1134				hypothetical protein
+AKBMDOOL_01338	gene	495				
+AKBMDOOL_01338	CDS	495				hypothetical protein
+AKBMDOOL_01339	gene	723				
+AKBMDOOL_01339	CDS	723				hypothetical protein
+AKBMDOOL_01340	gene	1773				
+AKBMDOOL_01340	CDS	1773				hypothetical protein
+AKBMDOOL_01341	gene	954				
+AKBMDOOL_01341	CDS	954				hypothetical protein
+AKBMDOOL_01342	gene	762	rpsB			
+AKBMDOOL_01342	CDS	762	rpsB			30S ribosomal protein S2
+AKBMDOOL_01343	gene	909	tsf			
+AKBMDOOL_01343	CDS	909	tsf		COG0264	Elongation factor Ts
+AKBMDOOL_01344	gene	708	pyrH			
+AKBMDOOL_01344	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+AKBMDOOL_01345	gene	558	frr			
+AKBMDOOL_01345	CDS	558	frr		COG0233	Ribosome-recycling factor
+AKBMDOOL_01346	gene	732	uppS			
+AKBMDOOL_01346	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+AKBMDOOL_01347	gene	780				
+AKBMDOOL_01347	CDS	780				hypothetical protein
+AKBMDOOL_01348	gene	909				
+AKBMDOOL_01348	CDS	909				hypothetical protein
+AKBMDOOL_01349	gene	468	rimP			
+AKBMDOOL_01349	CDS	468	rimP			Ribosome maturation factor RimP
+AKBMDOOL_01350	gene	1272	nusA			
+AKBMDOOL_01350	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+AKBMDOOL_01351	gene	276				
+AKBMDOOL_01351	CDS	276				hypothetical protein
+AKBMDOOL_01352	gene	315	rplGA			
+AKBMDOOL_01352	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+AKBMDOOL_01353	gene	2646	ppdK			
+AKBMDOOL_01353	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+AKBMDOOL_01354	gene	840	yqfL			
+AKBMDOOL_01354	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+AKBMDOOL_01355	gene	636	ccpN			
+AKBMDOOL_01355	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+AKBMDOOL_01356	gene	771	aviRb			
+AKBMDOOL_01356	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+AKBMDOOL_01357	gene	675	ktrA			
+AKBMDOOL_01357	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+AKBMDOOL_01358	gene	1371	ntpJ			
+AKBMDOOL_01358	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+AKBMDOOL_01359	gene	1317				
+AKBMDOOL_01359	CDS	1317				hypothetical protein
+AKBMDOOL_01360	gene	1017	typA			
+AKBMDOOL_01360	CDS	1017	typA		COG1217	GTP-binding protein TypA/BipA 
+AKBMDOOL_01361	gene	705				
+AKBMDOOL_01361	CDS	705				hypothetical protein
+AKBMDOOL_01362	gene	936	corA			
+AKBMDOOL_01362	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+AKBMDOOL_01363	gene	1851				
+AKBMDOOL_01363	CDS	1851				hypothetical protein
+AKBMDOOL_01364	gene	1101				
+AKBMDOOL_01364	CDS	1101				hypothetical protein
+AKBMDOOL_01365	gene	1260				
+AKBMDOOL_01365	CDS	1260				hypothetical protein
+AKBMDOOL_01366	gene	906				
+AKBMDOOL_01366	CDS	906				hypothetical protein
+AKBMDOOL_01367	gene	366				
+AKBMDOOL_01367	CDS	366				hypothetical protein
+AKBMDOOL_01368	gene	468	alsT_3			
+AKBMDOOL_01368	CDS	468	alsT_3		COG1115	Amino-acid carrier protein AlsT
+AKBMDOOL_01369	gene	195				
+AKBMDOOL_01369	CDS	195				hypothetical protein
+AKBMDOOL_01370	gene	729				
+AKBMDOOL_01370	CDS	729				hypothetical protein
+AKBMDOOL_01371	gene	768	thiG			
+AKBMDOOL_01371	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+AKBMDOOL_01372	gene	1176	thiH			
+AKBMDOOL_01372	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+AKBMDOOL_01373	gene	1176	tadA			
+AKBMDOOL_01373	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+AKBMDOOL_01374	gene	1635				
+AKBMDOOL_01374	CDS	1635				hypothetical protein
+AKBMDOOL_01375	gene	90				
+AKBMDOOL_01375	tRNA	90				tRNA-Ser(gga)
+AKBMDOOL_01376	gene	387	hlyB			
+AKBMDOOL_01376	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+AKBMDOOL_01377	gene	885	mleN			
+AKBMDOOL_01377	CDS	885	mleN		COG1757	Malate-2H(+)/Na(+)-lactate antiporter
+AKBMDOOL_01378	gene	528	potD			
+AKBMDOOL_01378	CDS	528	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+AKBMDOOL_01379	gene	1479	malQ			
+AKBMDOOL_01379	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+AKBMDOOL_01380	gene	1944				
+AKBMDOOL_01380	CDS	1944				hypothetical protein
+AKBMDOOL_01381	gene	1866	glgB			
+AKBMDOOL_01381	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+AKBMDOOL_01382	gene	1173	glgC_2			
+AKBMDOOL_01382	CDS	1173	glgC_2	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+AKBMDOOL_01383	gene	624	plsX			
+AKBMDOOL_01383	CDS	624	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+AKBMDOOL_01384	gene	1977	fbp			
+AKBMDOOL_01384	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+AKBMDOOL_01385	gene	342				
+AKBMDOOL_01385	CDS	342				putative protein
+AKBMDOOL_01386	gene	495	nusB			
+AKBMDOOL_01386	CDS	495	nusB			Transcription antitermination protein NusB
+AKBMDOOL_01387	gene	672	regX3			
+AKBMDOOL_01387	CDS	672	regX3		COG0745	Sensory transduction protein regX3
+AKBMDOOL_01388	gene	975	sasA_4			
+AKBMDOOL_01388	CDS	975	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+AKBMDOOL_01389	gene	672	lolD			
+AKBMDOOL_01389	CDS	672	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+AKBMDOOL_01390	gene	675				
+AKBMDOOL_01390	CDS	675				hypothetical protein
+AKBMDOOL_01391	gene	678				
+AKBMDOOL_01391	CDS	678				hypothetical protein
+AKBMDOOL_01392	gene	654				
+AKBMDOOL_01392	CDS	654				hypothetical protein
+AKBMDOOL_01393	gene	1188	norV			
+AKBMDOOL_01393	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+AKBMDOOL_01394	gene	552	bioY			
+AKBMDOOL_01394	CDS	552	bioY		COG1268	Biotin transporter BioY
+AKBMDOOL_01395	gene	825	aroF			
+AKBMDOOL_01395	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+AKBMDOOL_01396	gene	1824	aroB			
+AKBMDOOL_01396	CDS	1824	aroB	4.2.3.4		3-dehydroquinate synthase
+AKBMDOOL_01397	gene	165	miaB			
+AKBMDOOL_01397	CDS	165	miaB	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+AKBMDOOL_01398	gene	558				
+AKBMDOOL_01398	CDS	558				hypothetical protein
+AKBMDOOL_01399	gene	1659	glnS			
+AKBMDOOL_01399	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+AKBMDOOL_01400	gene	738				
+AKBMDOOL_01400	CDS	738				hypothetical protein
+AKBMDOOL_01401	gene	2835				
+AKBMDOOL_01401	CDS	2835				hypothetical protein
+AKBMDOOL_01402	gene	1254				
+AKBMDOOL_01402	CDS	1254				hypothetical protein
+AKBMDOOL_01403	gene	903				
+AKBMDOOL_01403	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+AKBMDOOL_01404	gene	1929				
+AKBMDOOL_01404	CDS	1929				hypothetical protein
+AKBMDOOL_01405	gene	846				
+AKBMDOOL_01405	CDS	846				hypothetical protein
+AKBMDOOL_01406	gene	753	lacR			
+AKBMDOOL_01406	CDS	753	lacR			Lactose phosphotransferase system repressor
+AKBMDOOL_01407	gene	534				
+AKBMDOOL_01407	CDS	534				hypothetical protein
+AKBMDOOL_01408	gene	864				
+AKBMDOOL_01408	CDS	864				hypothetical protein
+AKBMDOOL_01409	gene	687	ppm1			
+AKBMDOOL_01409	CDS	687	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+AKBMDOOL_01410	gene	831				
+AKBMDOOL_01410	CDS	831				hypothetical protein
+AKBMDOOL_01411	gene	1074				
+AKBMDOOL_01411	CDS	1074				hypothetical protein
+AKBMDOOL_01412	gene	822	punA			
+AKBMDOOL_01412	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+AKBMDOOL_01413	gene	1203	mltG			
+AKBMDOOL_01413	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+AKBMDOOL_01414	gene	645	trmR			
+AKBMDOOL_01414	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+AKBMDOOL_01415	gene	1176	bdhA			
+AKBMDOOL_01415	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+AKBMDOOL_01416	gene	693	cugP			
+AKBMDOOL_01416	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+AKBMDOOL_01417	gene	951				
+AKBMDOOL_01417	CDS	951				hypothetical protein
+AKBMDOOL_01418	gene	1884				
+AKBMDOOL_01418	CDS	1884				hypothetical protein
+AKBMDOOL_01419	gene	762				
+AKBMDOOL_01419	CDS	762				hypothetical protein
+AKBMDOOL_01420	gene	735				
+AKBMDOOL_01420	CDS	735				hypothetical protein
+AKBMDOOL_01421	gene	1551	lepA			
+AKBMDOOL_01421	CDS	1551	lepA	3.6.5.-	COG0481	Elongation factor 4
+AKBMDOOL_01422	gene	1317	cca			
+AKBMDOOL_01422	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+AKBMDOOL_01423	gene	861				
+AKBMDOOL_01423	CDS	861				hypothetical protein
+AKBMDOOL_01424	gene	1149	hemW			
+AKBMDOOL_01424	CDS	1149	hemW		COG0635	Heme chaperone HemW
+AKBMDOOL_01425	gene	576	zapA			
+AKBMDOOL_01425	CDS	576	zapA			Cell division protein ZapA
+AKBMDOOL_01426	gene	1218				
+AKBMDOOL_01426	CDS	1218				hypothetical protein
+AKBMDOOL_01427	gene	1614	nnr			
+AKBMDOOL_01427	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+AKBMDOOL_01428	gene	453				
+AKBMDOOL_01428	CDS	453				hypothetical protein
+AKBMDOOL_01429	gene	1005				
+AKBMDOOL_01429	CDS	1005			COG0330	putative protein
+AKBMDOOL_01430	gene	369				
+AKBMDOOL_01430	CDS	369				hypothetical protein
+AKBMDOOL_01431	gene	1494				
+AKBMDOOL_01431	CDS	1494				hypothetical protein
+AKBMDOOL_01432	gene	3534				
+AKBMDOOL_01432	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+AKBMDOOL_01433	gene	882	licT			
+AKBMDOOL_01433	CDS	882	licT		COG3711	Transcription antiterminator LicT
+AKBMDOOL_01434	gene	567	pinR			
+AKBMDOOL_01434	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+AKBMDOOL_01435	gene	1620	ybiT_2			
+AKBMDOOL_01435	CDS	1620	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+AKBMDOOL_01436	gene	1374	adeP			
+AKBMDOOL_01436	CDS	1374	adeP		COG2252	Adenine permease AdeP
+AKBMDOOL_01437	gene	684	czcR			
+AKBMDOOL_01437	CDS	684	czcR			Transcriptional activator protein CzcR
+AKBMDOOL_01438	gene	297				
+AKBMDOOL_01438	CDS	297				hypothetical protein
+AKBMDOOL_01439	gene	1113				
+AKBMDOOL_01439	CDS	1113				hypothetical protein
+AKBMDOOL_01440	gene	1119				
+AKBMDOOL_01440	CDS	1119				hypothetical protein
+AKBMDOOL_01441	gene	933	lnrL_3			
+AKBMDOOL_01441	CDS	933	lnrL_3	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+AKBMDOOL_01442	gene	1146				
+AKBMDOOL_01442	CDS	1146				hypothetical protein
+AKBMDOOL_01443	gene	648	lnrK			
+AKBMDOOL_01443	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+AKBMDOOL_01444	gene	270				
+AKBMDOOL_01444	CDS	270				hypothetical protein
+AKBMDOOL_01445	gene	1353	mepA_5			
+AKBMDOOL_01445	CDS	1353	mepA_5			Multidrug export protein MepA
+AKBMDOOL_01446	gene	678	srtA			
+AKBMDOOL_01446	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+AKBMDOOL_01447	gene	921				
+AKBMDOOL_01447	CDS	921				hypothetical protein
+AKBMDOOL_01448	gene	2241				
+AKBMDOOL_01448	CDS	2241				hypothetical protein
+AKBMDOOL_01449	gene	1293	eno			
+AKBMDOOL_01449	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+AKBMDOOL_01450	gene	1527	gpmI			
+AKBMDOOL_01450	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+AKBMDOOL_01451	gene	741	tpiA			
+AKBMDOOL_01451	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+AKBMDOOL_01452	gene	1200	pgk			
+AKBMDOOL_01452	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+AKBMDOOL_01453	gene	534	gap_2			
+AKBMDOOL_01453	CDS	534	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+AKBMDOOL_01454	gene	780	aroK			
+AKBMDOOL_01454	CDS	780	aroK	2.7.1.71		Shikimate kinase
+AKBMDOOL_01455	gene	1077	aroC			
+AKBMDOOL_01455	CDS	1077	aroC	4.2.3.5		Chorismate synthase
+AKBMDOOL_01456	gene	1416	aroA			
+AKBMDOOL_01456	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+AKBMDOOL_01457	gene	219				
+AKBMDOOL_01457	CDS	219				hypothetical protein
+AKBMDOOL_01458	gene	681				
+AKBMDOOL_01458	CDS	681				hypothetical protein
+AKBMDOOL_01459	gene	798	glcB			
+AKBMDOOL_01459	CDS	798	glcB		COG2190	PTS system glucoside-specific EIICBA component
+AKBMDOOL_01460	gene	1281	serS			
+AKBMDOOL_01460	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+AKBMDOOL_01461	gene	1086				
+AKBMDOOL_01461	CDS	1086				hypothetical protein
+AKBMDOOL_01462	gene	198				
+AKBMDOOL_01462	CDS	198				IS200/IS605 family transposase ISSsu4
+AKBMDOOL_01463	gene	1488	murE_2			
+AKBMDOOL_01463	CDS	1488	murE_2	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+AKBMDOOL_01464	gene	720				
+AKBMDOOL_01464	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+AKBMDOOL_01465	gene	1218				
+AKBMDOOL_01465	CDS	1218		6.3.1.12		D-aspartate ligase
+AKBMDOOL_01466	gene	792				
+AKBMDOOL_01466	CDS	792				hypothetical protein
+AKBMDOOL_01467	gene	1200				
+AKBMDOOL_01467	CDS	1200		2.6.1.1		Aspartate aminotransferase
+AKBMDOOL_01468	gene	957	galT			
+AKBMDOOL_01468	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+AKBMDOOL_01469	gene	1902				
+AKBMDOOL_01469	CDS	1902				hypothetical protein
+AKBMDOOL_01470	gene	2253	rep			
+AKBMDOOL_01470	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+AKBMDOOL_01471	gene	1683				
+AKBMDOOL_01471	CDS	1683				hypothetical protein
+AKBMDOOL_01472	gene	768	prsA_2			
+AKBMDOOL_01472	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+AKBMDOOL_01473	gene	444				
+AKBMDOOL_01473	CDS	444				hypothetical protein
+AKBMDOOL_01474	gene	465				
+AKBMDOOL_01474	CDS	465				hypothetical protein
+AKBMDOOL_01475	gene	453				
+AKBMDOOL_01475	CDS	453				hypothetical protein
+AKBMDOOL_01476	gene	201	cspA			
+AKBMDOOL_01476	CDS	201	cspA		COG1278	Cold shock protein CspA
+AKBMDOOL_01477	gene	825	pdxY			
+AKBMDOOL_01477	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+AKBMDOOL_01478	gene	1035	mtgA_2			
+AKBMDOOL_01478	CDS	1035	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+AKBMDOOL_01479	gene	519	polC_2			
+AKBMDOOL_01479	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+AKBMDOOL_01480	gene	891	ttcA			
+AKBMDOOL_01480	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+AKBMDOOL_01481	gene	837	topA_2			
+AKBMDOOL_01481	CDS	837	topA_2	5.6.2.1		DNA topoisomerase 1
+AKBMDOOL_01482	gene	2268	copA			
+AKBMDOOL_01482	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+AKBMDOOL_01483	gene	201				
+AKBMDOOL_01483	CDS	201				hypothetical protein
+AKBMDOOL_01484	gene	2349				
+AKBMDOOL_01484	CDS	2349				hypothetical protein
+AKBMDOOL_01485	gene	546				
+AKBMDOOL_01485	CDS	546				hypothetical protein
+AKBMDOOL_01486	gene	1050	apbE			
+AKBMDOOL_01486	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+AKBMDOOL_01487	gene	372				
+AKBMDOOL_01487	CDS	372				hypothetical protein
+AKBMDOOL_01488	gene	675	ung			
+AKBMDOOL_01488	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+AKBMDOOL_01489	gene	606				
+AKBMDOOL_01489	CDS	606				hypothetical protein
+AKBMDOOL_01490	gene	861				
+AKBMDOOL_01490	CDS	861				hypothetical protein
+AKBMDOOL_01491	gene	441	yqeY			
+AKBMDOOL_01491	CDS	441	yqeY		COG1610	putative protein YqeY
+AKBMDOOL_01492	gene	180	rpsU			
+AKBMDOOL_01492	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+AKBMDOOL_01493	gene	972	pfkA			
+AKBMDOOL_01493	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+AKBMDOOL_01494	gene	1515				
+AKBMDOOL_01494	CDS	1515				hypothetical protein
+AKBMDOOL_01495	gene	441				
+AKBMDOOL_01495	CDS	441				hypothetical protein
+AKBMDOOL_01496	gene	525				
+AKBMDOOL_01496	CDS	525				hypothetical protein
+AKBMDOOL_01497	gene	1095				
+AKBMDOOL_01497	CDS	1095				hypothetical protein
+AKBMDOOL_01498	gene	1182				
+AKBMDOOL_01498	CDS	1182		2.6.1.1		Aspartate aminotransferase
+AKBMDOOL_01499	gene	2211	kdpB			
+AKBMDOOL_01499	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+AKBMDOOL_01500	gene	378				
+AKBMDOOL_01500	CDS	378				hypothetical protein
+AKBMDOOL_01501	gene	1107				
+AKBMDOOL_01501	CDS	1107				hypothetical protein
+AKBMDOOL_01502	gene	1515	lytC_5			
+AKBMDOOL_01502	CDS	1515	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+AKBMDOOL_01503	gene	750	cobB			
+AKBMDOOL_01503	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+AKBMDOOL_01504	gene	519	scpB			
+AKBMDOOL_01504	CDS	519	scpB		COG1386	Segregation and condensation protein B
+AKBMDOOL_01505	gene	762	scpA			
+AKBMDOOL_01505	CDS	762	scpA		COG1354	Segregation and condensation protein A
+AKBMDOOL_01506	gene	633				
+AKBMDOOL_01506	CDS	633				hypothetical protein
+AKBMDOOL_01507	gene	336				
+AKBMDOOL_01507	CDS	336				hypothetical protein
+AKBMDOOL_01508	gene	1392	nhaC			
+AKBMDOOL_01508	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+AKBMDOOL_01509	gene	1026	cggR			
+AKBMDOOL_01509	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+AKBMDOOL_01510	gene	786				
+AKBMDOOL_01510	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+AKBMDOOL_01511	gene	678				
+AKBMDOOL_01511	CDS	678				hypothetical protein
+AKBMDOOL_01512	gene	423				
+AKBMDOOL_01512	CDS	423				hypothetical protein
+AKBMDOOL_01513	gene	219				
+AKBMDOOL_01513	CDS	219				hypothetical protein
+AKBMDOOL_01514	gene	552				
+AKBMDOOL_01514	CDS	552				hypothetical protein
+AKBMDOOL_01515	gene	816				
+AKBMDOOL_01515	CDS	816				hypothetical protein
+AKBMDOOL_01516	gene	74				
+AKBMDOOL_01516	tRNA	74				tRNA-Gly(tcc)
+AKBMDOOL_01517	gene	72				
+AKBMDOOL_01517	tRNA	72				tRNA-Glu(ctc)
+AKBMDOOL_01518	gene	1314	ugtP_2			
+AKBMDOOL_01518	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+AKBMDOOL_01519	gene	1671	rnjA			
+AKBMDOOL_01519	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+AKBMDOOL_01520	gene	315	csoR			
+AKBMDOOL_01520	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+AKBMDOOL_01521	gene	1275	aspS			
+AKBMDOOL_01521	CDS	1275	aspS	6.1.1.12		Aspartate--tRNA ligase
+AKBMDOOL_01522	gene	954				
+AKBMDOOL_01522	CDS	954				hypothetical protein
+AKBMDOOL_01523	gene	315				
+AKBMDOOL_01523	CDS	315				hypothetical protein
+AKBMDOOL_01524	gene	309				
+AKBMDOOL_01524	CDS	309				hypothetical protein
+AKBMDOOL_01525	gene	450				
+AKBMDOOL_01525	CDS	450				hypothetical protein
+AKBMDOOL_01526	gene	702				
+AKBMDOOL_01526	CDS	702				hypothetical protein
+AKBMDOOL_01527	gene	339				
+AKBMDOOL_01527	CDS	339				hypothetical protein

@@ -1,0 +1,1787 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DEOHBMLB_00001	gene	372	hadB			
+DEOHBMLB_00001	CDS	372	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+DEOHBMLB_00002	gene	1125	hadC			
+DEOHBMLB_00002	CDS	1125	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+DEOHBMLB_00003	gene	1143	carC_1			
+DEOHBMLB_00003	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+DEOHBMLB_00004	gene	786	carD_1			
+DEOHBMLB_00004	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+DEOHBMLB_00005	gene	1011	carE_1			
+DEOHBMLB_00005	CDS	1011	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+DEOHBMLB_00006	gene	999				
+DEOHBMLB_00006	CDS	999		1.1.1.28		D-lactate dehydrogenase
+DEOHBMLB_00007	gene	1047	prfB			
+DEOHBMLB_00007	CDS	1047	prfB			Peptide chain release factor 2
+DEOHBMLB_00008	gene	2163	yhgF			
+DEOHBMLB_00008	CDS	2163	yhgF		COG2183	Protein YhgF
+DEOHBMLB_00009	gene	621	ribU			
+DEOHBMLB_00009	CDS	621	ribU			Riboflavin transporter RibU
+DEOHBMLB_00010	gene	795	fldI			
+DEOHBMLB_00010	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+DEOHBMLB_00011	gene	921				
+DEOHBMLB_00011	CDS	921				hypothetical protein
+DEOHBMLB_00012	gene	192				
+DEOHBMLB_00012	CDS	192				hypothetical protein
+DEOHBMLB_00013	gene	459	tsaE			
+DEOHBMLB_00013	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+DEOHBMLB_00014	gene	720	tsaB			
+DEOHBMLB_00014	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+DEOHBMLB_00015	gene	450	rimI			
+DEOHBMLB_00015	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+DEOHBMLB_00016	gene	1020	tsaD			
+DEOHBMLB_00016	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+DEOHBMLB_00017	gene	1599				
+DEOHBMLB_00017	CDS	1599				hypothetical protein
+DEOHBMLB_00018	gene	1404	cysS			
+DEOHBMLB_00018	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+DEOHBMLB_00019	gene	453	mrnC			
+DEOHBMLB_00019	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+DEOHBMLB_00020	gene	735				
+DEOHBMLB_00020	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+DEOHBMLB_00021	gene	564				
+DEOHBMLB_00021	CDS	564				hypothetical protein
+DEOHBMLB_00022	gene	660	sigH			
+DEOHBMLB_00022	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+DEOHBMLB_00023	gene	264				
+DEOHBMLB_00023	CDS	264				hypothetical protein
+DEOHBMLB_00024	gene	1377				
+DEOHBMLB_00024	CDS	1377				hypothetical protein
+DEOHBMLB_00025	gene	750	cseB			
+DEOHBMLB_00025	CDS	750	cseB		COG0745	Transcriptional regulatory protein CseB
+DEOHBMLB_00026	gene	366				
+DEOHBMLB_00026	CDS	366				hypothetical protein
+DEOHBMLB_00027	gene	789				
+DEOHBMLB_00027	CDS	789				hypothetical protein
+DEOHBMLB_00028	gene	789				
+DEOHBMLB_00028	CDS	789				hypothetical protein
+DEOHBMLB_00029	gene	702				
+DEOHBMLB_00029	CDS	702				hypothetical protein
+DEOHBMLB_00030	gene	657	bcrA_1			
+DEOHBMLB_00030	CDS	657	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+DEOHBMLB_00031	gene	495				
+DEOHBMLB_00031	CDS	495				hypothetical protein
+DEOHBMLB_00032	gene	585	rpoB			
+DEOHBMLB_00032	CDS	585	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+DEOHBMLB_00033	gene	96				
+DEOHBMLB_00033	CDS	96				hypothetical protein
+DEOHBMLB_00034	gene	3555	rpoC			
+DEOHBMLB_00034	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+DEOHBMLB_00035	gene	702				
+DEOHBMLB_00035	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+DEOHBMLB_00036	gene	252				
+DEOHBMLB_00036	CDS	252				hypothetical protein
+DEOHBMLB_00037	gene	165				
+DEOHBMLB_00037	CDS	165				hypothetical protein
+DEOHBMLB_00038	gene	1200	gerN			
+DEOHBMLB_00038	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+DEOHBMLB_00039	gene	75				
+DEOHBMLB_00039	tRNA	75				tRNA-Arg(cct)
+DEOHBMLB_00040	gene	402				
+DEOHBMLB_00040	CDS	402				hypothetical protein
+DEOHBMLB_00041	gene	75				
+DEOHBMLB_00041	tRNA	75				tRNA-Arg(tcg)
+DEOHBMLB_00042	gene	1224	pepT			
+DEOHBMLB_00042	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+DEOHBMLB_00043	gene	1242				
+DEOHBMLB_00043	CDS	1242				hypothetical protein
+DEOHBMLB_00044	gene	816				
+DEOHBMLB_00044	CDS	816				hypothetical protein
+DEOHBMLB_00045	gene	3123	mupA			
+DEOHBMLB_00045	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+DEOHBMLB_00046	gene	654	gpsB			
+DEOHBMLB_00046	CDS	654	gpsB			Cell cycle protein GpsB
+DEOHBMLB_00047	gene	786				
+DEOHBMLB_00047	CDS	786				hypothetical protein
+DEOHBMLB_00048	gene	258				
+DEOHBMLB_00048	CDS	258				hypothetical protein
+DEOHBMLB_00049	gene	495	sepF			
+DEOHBMLB_00049	CDS	495	sepF			Cell division protein SepF
+DEOHBMLB_00050	gene	702				
+DEOHBMLB_00050	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+DEOHBMLB_00051	gene	954	gpsA			
+DEOHBMLB_00051	CDS	954	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+DEOHBMLB_00052	gene	255				
+DEOHBMLB_00052	CDS	255			COG0718	Nucleoid-associated protein
+DEOHBMLB_00053	gene	600	recR			
+DEOHBMLB_00053	CDS	600	recR		COG0353	Recombination protein RecR
+DEOHBMLB_00054	gene	276				
+DEOHBMLB_00054	CDS	276				hypothetical protein
+DEOHBMLB_00055	gene	168				
+DEOHBMLB_00055	CDS	168				hypothetical protein
+DEOHBMLB_00056	gene	1314	ugtP_1			
+DEOHBMLB_00056	CDS	1314	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+DEOHBMLB_00057	gene	72				
+DEOHBMLB_00057	tRNA	72				tRNA-Glu(ctc)
+DEOHBMLB_00058	gene	74				
+DEOHBMLB_00058	tRNA	74				tRNA-Gly(tcc)
+DEOHBMLB_00059	gene	76				
+DEOHBMLB_00059	tRNA	76				tRNA-Val(tac)
+DEOHBMLB_00060	gene	77				
+DEOHBMLB_00060	tRNA	77				tRNA-Asp(gtc)
+DEOHBMLB_00061	gene	75				
+DEOHBMLB_00061	tRNA	75				tRNA-Thr(tgt)
+DEOHBMLB_00062	gene	85				
+DEOHBMLB_00062	tRNA	85				tRNA-Tyr(gta)
+DEOHBMLB_00063	gene	84				
+DEOHBMLB_00063	tRNA	84				tRNA-Leu(tag)
+DEOHBMLB_00064	gene	75				
+DEOHBMLB_00064	tRNA	75				tRNA-Gly(gcc)
+DEOHBMLB_00065	gene	77				
+DEOHBMLB_00065	tRNA	77				tRNA-Pyl(cta)
+DEOHBMLB_00066	gene	75				
+DEOHBMLB_00066	tRNA	75				tRNA-Gln(ctg)
+DEOHBMLB_00067	gene	76				
+DEOHBMLB_00067	tRNA	76				tRNA-Lys(ctt)
+DEOHBMLB_00068	gene	75				
+DEOHBMLB_00068	tRNA	75				tRNA-Met(cat)
+DEOHBMLB_00069	gene	77				
+DEOHBMLB_00069	tRNA	77				tRNA-Met(cat)
+DEOHBMLB_00070	gene	77				
+DEOHBMLB_00070	tRNA	77				tRNA-Pro(tgg)
+DEOHBMLB_00071	gene	77				
+DEOHBMLB_00071	tRNA	77				tRNA-His(gtg)
+DEOHBMLB_00072	gene	72				
+DEOHBMLB_00072	tRNA	72				tRNA-Cys(gca)
+DEOHBMLB_00073	gene	369	ytrA			
+DEOHBMLB_00073	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+DEOHBMLB_00074	gene	729	lnrL_1			
+DEOHBMLB_00074	CDS	729	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+DEOHBMLB_00075	gene	858				
+DEOHBMLB_00075	CDS	858				hypothetical protein
+DEOHBMLB_00076	gene	357				
+DEOHBMLB_00076	CDS	357				hypothetical protein
+DEOHBMLB_00077	gene	384	ziaR			
+DEOHBMLB_00077	CDS	384	ziaR			Transcriptional repressor SmtB 
+DEOHBMLB_00078	gene	831	lysC			
+DEOHBMLB_00078	CDS	831	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+DEOHBMLB_00079	gene	984	asd_1			
+DEOHBMLB_00079	CDS	984	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+DEOHBMLB_00080	gene	900	dapA_1			
+DEOHBMLB_00080	CDS	900	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+DEOHBMLB_00081	gene	732	dapB			
+DEOHBMLB_00081	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+DEOHBMLB_00082	gene	720	dapH			
+DEOHBMLB_00082	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DEOHBMLB_00083	gene	1152	scmP			
+DEOHBMLB_00083	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+DEOHBMLB_00084	gene	1077	alr_1			
+DEOHBMLB_00084	CDS	1077	alr_1	5.1.1.1		Alanine racemase
+DEOHBMLB_00085	gene	1296	lysA			
+DEOHBMLB_00085	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+DEOHBMLB_00086	gene	228				
+DEOHBMLB_00086	CDS	228				IS200/IS605 family transposase ISDha13
+DEOHBMLB_00087	gene	603				
+DEOHBMLB_00087	CDS	603				hypothetical protein
+DEOHBMLB_00088	gene	597				
+DEOHBMLB_00088	CDS	597				hypothetical protein
+DEOHBMLB_00089	gene	1065				
+DEOHBMLB_00089	CDS	1065				hypothetical protein
+DEOHBMLB_00090	gene	2688				
+DEOHBMLB_00090	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+DEOHBMLB_00091	gene	330				
+DEOHBMLB_00091	CDS	330				hypothetical protein
+DEOHBMLB_00092	gene	1077	cshE			
+DEOHBMLB_00092	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+DEOHBMLB_00093	gene	1194	tuf			
+DEOHBMLB_00093	CDS	1194	tuf		COG0050	Elongation factor Tu
+DEOHBMLB_00094	gene	2067	fusA_1			
+DEOHBMLB_00094	CDS	2067	fusA_1		COG0480	Elongation factor G
+DEOHBMLB_00095	gene	471	rpsG			
+DEOHBMLB_00095	CDS	471	rpsG			30S ribosomal protein S7
+DEOHBMLB_00096	gene	423	rpsL			
+DEOHBMLB_00096	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+DEOHBMLB_00097	gene	1281	ugd			
+DEOHBMLB_00097	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+DEOHBMLB_00098	gene	474	ispF			
+DEOHBMLB_00098	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+DEOHBMLB_00099	gene	1332	mepA_1			
+DEOHBMLB_00099	CDS	1332	mepA_1			Multidrug export protein MepA
+DEOHBMLB_00100	gene	582				
+DEOHBMLB_00100	CDS	582				hypothetical protein
+DEOHBMLB_00101	gene	711				
+DEOHBMLB_00101	CDS	711				hypothetical protein
+DEOHBMLB_00102	gene	1329				
+DEOHBMLB_00102	CDS	1329				hypothetical protein
+DEOHBMLB_00103	gene	3081	smc			
+DEOHBMLB_00103	CDS	3081	smc			Chromosome partition protein Smc
+DEOHBMLB_00104	gene	417				
+DEOHBMLB_00104	CDS	417				hypothetical protein
+DEOHBMLB_00105	gene	474	htrA			
+DEOHBMLB_00105	CDS	474	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+DEOHBMLB_00106	gene	1326	pepC			
+DEOHBMLB_00106	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+DEOHBMLB_00107	gene	1311				
+DEOHBMLB_00107	CDS	1311				hypothetical protein
+DEOHBMLB_00108	gene	945	hmo			
+DEOHBMLB_00108	CDS	945	hmo	1.1.3.46		4-hydroxymandelate oxidase
+DEOHBMLB_00109	gene	939				
+DEOHBMLB_00109	CDS	939				hypothetical protein
+DEOHBMLB_00110	gene	576				
+DEOHBMLB_00110	CDS	576				hypothetical protein
+DEOHBMLB_00111	gene	270	atpC			
+DEOHBMLB_00111	CDS	270	atpC			ATP synthase epsilon chain
+DEOHBMLB_00112	gene	1296	atpD			
+DEOHBMLB_00112	CDS	1296	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+DEOHBMLB_00113	gene	360				
+DEOHBMLB_00113	CDS	360				hypothetical protein
+DEOHBMLB_00114	gene	291				
+DEOHBMLB_00114	CDS	291				hypothetical protein
+DEOHBMLB_00115	gene	627				
+DEOHBMLB_00115	CDS	627				hypothetical protein
+DEOHBMLB_00116	gene	408				
+DEOHBMLB_00116	CDS	408				hypothetical protein
+DEOHBMLB_00117	gene	438	sufU			
+DEOHBMLB_00117	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+DEOHBMLB_00118	gene	1236	csd			
+DEOHBMLB_00118	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+DEOHBMLB_00119	gene	831				
+DEOHBMLB_00119	CDS	831				hypothetical protein
+DEOHBMLB_00120	gene	1425				
+DEOHBMLB_00120	CDS	1425				hypothetical protein
+DEOHBMLB_00121	gene	765	sufC			
+DEOHBMLB_00121	CDS	765	sufC		COG0396	Vegetative protein 296
+DEOHBMLB_00122	gene	549	lytC_1			
+DEOHBMLB_00122	CDS	549	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+DEOHBMLB_00123	gene	909	thrB			
+DEOHBMLB_00123	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+DEOHBMLB_00124	gene	1221	ask			
+DEOHBMLB_00124	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+DEOHBMLB_00125	gene	828	COQ3			
+DEOHBMLB_00125	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+DEOHBMLB_00126	gene	1014	gloB_1			
+DEOHBMLB_00126	CDS	1014	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+DEOHBMLB_00127	gene	1548	carA_1			
+DEOHBMLB_00127	CDS	1548	carA_1	2.8.3.23	COG4670	Caffeate CoA-transferase
+DEOHBMLB_00128	gene	960	dusB			
+DEOHBMLB_00128	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+DEOHBMLB_00129	gene	150	coaX			
+DEOHBMLB_00129	CDS	150	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+DEOHBMLB_00130	gene	780	sasA			
+DEOHBMLB_00130	CDS	780	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+DEOHBMLB_00131	gene	372	acpS			
+DEOHBMLB_00131	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+DEOHBMLB_00132	gene	813	aptA			
+DEOHBMLB_00132	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+DEOHBMLB_00133	gene	936	aptB			
+DEOHBMLB_00133	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+DEOHBMLB_00134	gene	1173	ctpB			
+DEOHBMLB_00134	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+DEOHBMLB_00135	gene	1083	cobT			
+DEOHBMLB_00135	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+DEOHBMLB_00136	gene	588	cobU			
+DEOHBMLB_00136	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+DEOHBMLB_00137	gene	771	cobS			
+DEOHBMLB_00137	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+DEOHBMLB_00138	gene	903				
+DEOHBMLB_00138	CDS	903				hypothetical protein
+DEOHBMLB_00139	gene	795				
+DEOHBMLB_00139	CDS	795		1.-.-.-		putative oxidoreductase
+DEOHBMLB_00140	gene	312	rpsJ			
+DEOHBMLB_00140	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+DEOHBMLB_00141	gene	630	rplC			
+DEOHBMLB_00141	CDS	630	rplC		COG0087	50S ribosomal protein L3
+DEOHBMLB_00142	gene	624	rplD			
+DEOHBMLB_00142	CDS	624	rplD			50S ribosomal protein L4
+DEOHBMLB_00143	gene	291	rplW			
+DEOHBMLB_00143	CDS	291	rplW			50S ribosomal protein L23
+DEOHBMLB_00144	gene	831	rplB			
+DEOHBMLB_00144	CDS	831	rplB			50S ribosomal protein L2
+DEOHBMLB_00145	gene	282	rpsS			
+DEOHBMLB_00145	CDS	282	rpsS			30S ribosomal protein S19
+DEOHBMLB_00146	gene	339	rplV			
+DEOHBMLB_00146	CDS	339	rplV		COG0091	50S ribosomal protein L22
+DEOHBMLB_00147	gene	795	rpsC			
+DEOHBMLB_00147	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+DEOHBMLB_00148	gene	429	rplP			
+DEOHBMLB_00148	CDS	429	rplP		COG0197	50S ribosomal protein L16
+DEOHBMLB_00149	gene	177	rpmC			
+DEOHBMLB_00149	CDS	177	rpmC			50S ribosomal protein L29
+DEOHBMLB_00150	gene	765	rhaR_1			
+DEOHBMLB_00150	CDS	765	rhaR_1			HTH-type transcriptional activator RhaR
+DEOHBMLB_00151	gene	552				
+DEOHBMLB_00151	CDS	552				hypothetical protein
+DEOHBMLB_00152	gene	585				
+DEOHBMLB_00152	CDS	585				hypothetical protein
+DEOHBMLB_00153	gene	1227				
+DEOHBMLB_00153	CDS	1227		3.4.11.-		Aminopeptidase 2
+DEOHBMLB_00154	gene	1170				
+DEOHBMLB_00154	CDS	1170				hypothetical protein
+DEOHBMLB_00155	gene	540				
+DEOHBMLB_00155	CDS	540				hypothetical protein
+DEOHBMLB_00156	gene	546				
+DEOHBMLB_00156	CDS	546				hypothetical protein
+DEOHBMLB_00157	gene	594	purN			
+DEOHBMLB_00157	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+DEOHBMLB_00158	gene	1077	purM			
+DEOHBMLB_00158	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+DEOHBMLB_00159	gene	477	purE			
+DEOHBMLB_00159	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+DEOHBMLB_00160	gene	2481				
+DEOHBMLB_00160	CDS	2481				hypothetical protein
+DEOHBMLB_00161	gene	354	ytrE_1			
+DEOHBMLB_00161	CDS	354	ytrE_1		COG1136	ABC transporter ATP-binding protein YtrE
+DEOHBMLB_00162	gene	444	secA_1			
+DEOHBMLB_00162	CDS	444	secA_1		COG0653	Protein translocase subunit SecA
+DEOHBMLB_00163	gene	1671	norR			
+DEOHBMLB_00163	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+DEOHBMLB_00164	gene	1182				
+DEOHBMLB_00164	CDS	1182				hypothetical protein
+DEOHBMLB_00165	gene	1212	fldA			
+DEOHBMLB_00165	CDS	1212	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+DEOHBMLB_00166	gene	570	xpt			
+DEOHBMLB_00166	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+DEOHBMLB_00167	gene	1338				
+DEOHBMLB_00167	CDS	1338				Nucleobase transporter PlUacP
+DEOHBMLB_00168	gene	426	fabZ			
+DEOHBMLB_00168	CDS	426	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+DEOHBMLB_00169	gene	1236	fabF			
+DEOHBMLB_00169	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+DEOHBMLB_00170	gene	747	fabG_1			
+DEOHBMLB_00170	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DEOHBMLB_00171	gene	645	fabD			
+DEOHBMLB_00171	CDS	645	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+DEOHBMLB_00172	gene	1212	undec1A			
+DEOHBMLB_00172	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+DEOHBMLB_00173	gene	267	rpoZ			
+DEOHBMLB_00173	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+DEOHBMLB_00174	gene	642	gmk			
+DEOHBMLB_00174	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+DEOHBMLB_00175	gene	882				
+DEOHBMLB_00175	CDS	882				hypothetical protein
+DEOHBMLB_00176	gene	249				
+DEOHBMLB_00176	CDS	249				hypothetical protein
+DEOHBMLB_00177	gene	729	yehX			
+DEOHBMLB_00177	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+DEOHBMLB_00178	gene	1188				
+DEOHBMLB_00178	CDS	1188				hypothetical protein
+DEOHBMLB_00179	gene	489				
+DEOHBMLB_00179	CDS	489				hypothetical protein
+DEOHBMLB_00180	gene	3534				
+DEOHBMLB_00180	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+DEOHBMLB_00181	gene	882	licT			
+DEOHBMLB_00181	CDS	882	licT		COG3711	Transcription antiterminator LicT
+DEOHBMLB_00182	gene	477	cysG_1			
+DEOHBMLB_00182	CDS	477	cysG_1		COG0007	Siroheme synthase
+DEOHBMLB_00183	gene	969	hemB			
+DEOHBMLB_00183	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+DEOHBMLB_00184	gene	1524	cysG_2			
+DEOHBMLB_00184	CDS	1524	cysG_2	4.99.1.4		Siroheme synthase
+DEOHBMLB_00185	gene	933	hemC			
+DEOHBMLB_00185	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+DEOHBMLB_00186	gene	858	bioB_1			
+DEOHBMLB_00186	CDS	858	bioB_1	2.8.1.6		Biotin synthase
+DEOHBMLB_00187	gene	708				
+DEOHBMLB_00187	CDS	708				hypothetical protein
+DEOHBMLB_00188	gene	786				
+DEOHBMLB_00188	CDS	786				hypothetical protein
+DEOHBMLB_00189	gene	930	gloB_2			
+DEOHBMLB_00189	CDS	930	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+DEOHBMLB_00190	gene	246				
+DEOHBMLB_00190	CDS	246				hypothetical protein
+DEOHBMLB_00191	gene	660				
+DEOHBMLB_00191	CDS	660				hypothetical protein
+DEOHBMLB_00192	gene	1221				
+DEOHBMLB_00192	CDS	1221				hypothetical protein
+DEOHBMLB_00193	gene	750				
+DEOHBMLB_00193	CDS	750				hypothetical protein
+DEOHBMLB_00194	gene	1446	proS			
+DEOHBMLB_00194	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+DEOHBMLB_00195	gene	489	yacL			
+DEOHBMLB_00195	CDS	489	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+DEOHBMLB_00196	gene	5463				
+DEOHBMLB_00196	CDS	5463				hypothetical protein
+DEOHBMLB_00197	gene	735	fabG_2			
+DEOHBMLB_00197	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DEOHBMLB_00198	gene	900	rsgA			
+DEOHBMLB_00198	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+DEOHBMLB_00199	gene	657	rpe			
+DEOHBMLB_00199	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+DEOHBMLB_00200	gene	684	thiN			
+DEOHBMLB_00200	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+DEOHBMLB_00201	gene	714	phoP			
+DEOHBMLB_00201	CDS	714	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+DEOHBMLB_00202	gene	285				
+DEOHBMLB_00202	CDS	285				hypothetical protein
+DEOHBMLB_00203	gene	819				
+DEOHBMLB_00203	CDS	819				hypothetical protein
+DEOHBMLB_00204	gene	1782				
+DEOHBMLB_00204	CDS	1782				hypothetical protein
+DEOHBMLB_00205	gene	414				
+DEOHBMLB_00205	CDS	414				hypothetical protein
+DEOHBMLB_00206	gene	546				
+DEOHBMLB_00206	CDS	546				hypothetical protein
+DEOHBMLB_00207	gene	822	thiD			
+DEOHBMLB_00207	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+DEOHBMLB_00208	gene	1455	thiM			
+DEOHBMLB_00208	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+DEOHBMLB_00209	gene	1305	thiC			
+DEOHBMLB_00209	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+DEOHBMLB_00210	gene	333	gyrA			
+DEOHBMLB_00210	CDS	333	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+DEOHBMLB_00211	gene	318	rsbV			
+DEOHBMLB_00211	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+DEOHBMLB_00212	gene	408	rsbW			
+DEOHBMLB_00212	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+DEOHBMLB_00213	gene	774	sigB			
+DEOHBMLB_00213	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+DEOHBMLB_00214	gene	183				
+DEOHBMLB_00214	CDS	183				hypothetical protein
+DEOHBMLB_00215	gene	771	bphF			
+DEOHBMLB_00215	CDS	771	bphF	4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+DEOHBMLB_00216	gene	822	mscS			
+DEOHBMLB_00216	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+DEOHBMLB_00217	gene	1188				
+DEOHBMLB_00217	CDS	1188				hypothetical protein
+DEOHBMLB_00218	gene	231				
+DEOHBMLB_00218	CDS	231				hypothetical protein
+DEOHBMLB_00219	gene	2244	rnr			
+DEOHBMLB_00219	CDS	2244	rnr	3.1.13.1	COG0557	Ribonuclease R
+DEOHBMLB_00220	gene	456	smpB			
+DEOHBMLB_00220	CDS	456	smpB		COG0691	SsrA-binding protein
+DEOHBMLB_00221	gene	231				
+DEOHBMLB_00221	CDS	231				hypothetical protein
+DEOHBMLB_00222	gene	147				
+DEOHBMLB_00222	CDS	147				hypothetical protein
+DEOHBMLB_00223	gene	717				
+DEOHBMLB_00223	CDS	717				IS481 family transposase ISSsu8
+DEOHBMLB_00224	gene	957	galT			
+DEOHBMLB_00224	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+DEOHBMLB_00225	gene	1200				
+DEOHBMLB_00225	CDS	1200		2.6.1.1		Aspartate aminotransferase
+DEOHBMLB_00226	gene	813	uppP			
+DEOHBMLB_00226	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+DEOHBMLB_00227	gene	1434				
+DEOHBMLB_00227	CDS	1434				hypothetical protein
+DEOHBMLB_00228	gene	1662				
+DEOHBMLB_00228	CDS	1662				hypothetical protein
+DEOHBMLB_00229	gene	1170	opuCA			
+DEOHBMLB_00229	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+DEOHBMLB_00230	gene	1188	uctC			
+DEOHBMLB_00230	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+DEOHBMLB_00231	gene	285				
+DEOHBMLB_00231	CDS	285				hypothetical protein
+DEOHBMLB_00232	gene	414				
+DEOHBMLB_00232	CDS	414				hypothetical protein
+DEOHBMLB_00233	gene	669	mntB			
+DEOHBMLB_00233	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+DEOHBMLB_00234	gene	981	znuA			
+DEOHBMLB_00234	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+DEOHBMLB_00235	gene	462	zur			
+DEOHBMLB_00235	CDS	462	zur		COG0735	Zinc uptake regulation protein
+DEOHBMLB_00236	gene	162				
+DEOHBMLB_00236	CDS	162				Rubredoxin
+DEOHBMLB_00237	gene	801	yycJ			
+DEOHBMLB_00237	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+DEOHBMLB_00238	gene	483	rlmH			
+DEOHBMLB_00238	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+DEOHBMLB_00239	gene	1620	nrdE			
+DEOHBMLB_00239	CDS	1620	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+DEOHBMLB_00240	gene	987	nrdF			
+DEOHBMLB_00240	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+DEOHBMLB_00241	gene	525				
+DEOHBMLB_00241	CDS	525				hypothetical protein
+DEOHBMLB_00242	gene	651				
+DEOHBMLB_00242	CDS	651				hypothetical protein
+DEOHBMLB_00243	gene	465				
+DEOHBMLB_00243	CDS	465				hypothetical protein
+DEOHBMLB_00244	gene	672				
+DEOHBMLB_00244	CDS	672				hypothetical protein
+DEOHBMLB_00245	gene	1617	deaD			
+DEOHBMLB_00245	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+DEOHBMLB_00246	gene	2349	pbpD			
+DEOHBMLB_00246	CDS	2349	pbpD		COG0744	Penicillin-binding protein 4
+DEOHBMLB_00247	gene	180				
+DEOHBMLB_00247	CDS	180				hypothetical protein
+DEOHBMLB_00248	gene	618				
+DEOHBMLB_00248	CDS	618				hypothetical protein
+DEOHBMLB_00249	gene	900				
+DEOHBMLB_00249	CDS	900				hypothetical protein
+DEOHBMLB_00250	gene	1077				
+DEOHBMLB_00250	CDS	1077				hypothetical protein
+DEOHBMLB_00251	gene	435	bcrC			
+DEOHBMLB_00251	CDS	435	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+DEOHBMLB_00252	gene	1083	buk2			
+DEOHBMLB_00252	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+DEOHBMLB_00253	gene	915	cdaR			
+DEOHBMLB_00253	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+DEOHBMLB_00254	gene	852	cdaA			
+DEOHBMLB_00254	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+DEOHBMLB_00255	gene	76				
+DEOHBMLB_00255	tRNA	76				tRNA-Pyl(cta)
+DEOHBMLB_00256	gene	75				
+DEOHBMLB_00256	tRNA	75				tRNA-Gly(gcc)
+DEOHBMLB_00257	gene	77				
+DEOHBMLB_00257	tRNA	77				tRNA-Asp(gtc)
+DEOHBMLB_00258	gene	76				
+DEOHBMLB_00258	tRNA	76				tRNA-Val(tac)
+DEOHBMLB_00259	gene	74				
+DEOHBMLB_00259	tRNA	74				tRNA-Glu(ttc)
+DEOHBMLB_00260	gene	76				
+DEOHBMLB_00260	tRNA	76				tRNA-Met(cat)
+DEOHBMLB_00261	gene	75				
+DEOHBMLB_00261	tRNA	75				tRNA-Asn(gtt)
+DEOHBMLB_00262	gene	1026	cggR			
+DEOHBMLB_00262	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+DEOHBMLB_00263	gene	786				
+DEOHBMLB_00263	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+DEOHBMLB_00264	gene	474	slyA			
+DEOHBMLB_00264	CDS	474	slyA			Transcriptional regulator SlyA
+DEOHBMLB_00265	gene	1557				
+DEOHBMLB_00265	CDS	1557				hypothetical protein
+DEOHBMLB_00266	gene	168				
+DEOHBMLB_00266	CDS	168				hypothetical protein
+DEOHBMLB_00267	gene	2151	feoB			
+DEOHBMLB_00267	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+DEOHBMLB_00268	gene	234				
+DEOHBMLB_00268	CDS	234				hypothetical protein
+DEOHBMLB_00269	gene	219				
+DEOHBMLB_00269	CDS	219				hypothetical protein
+DEOHBMLB_00270	gene	1092	cobD_1			
+DEOHBMLB_00270	CDS	1092	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+DEOHBMLB_00271	gene	1041	cobD_2			
+DEOHBMLB_00271	CDS	1041	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+DEOHBMLB_00272	gene	1395	cbiA			
+DEOHBMLB_00272	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+DEOHBMLB_00273	gene	597	cobQ			
+DEOHBMLB_00273	CDS	597	cobQ			Cobyric acid synthase
+DEOHBMLB_00274	gene	285				
+DEOHBMLB_00274	CDS	285				hypothetical protein
+DEOHBMLB_00275	gene	951	prmA			
+DEOHBMLB_00275	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+DEOHBMLB_00276	gene	777	rsmE			
+DEOHBMLB_00276	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+DEOHBMLB_00277	gene	1296	mtaB			
+DEOHBMLB_00277	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+DEOHBMLB_00278	gene	324				
+DEOHBMLB_00278	CDS	324				hypothetical protein
+DEOHBMLB_00279	gene	345				
+DEOHBMLB_00279	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+DEOHBMLB_00280	gene	780	aroK			
+DEOHBMLB_00280	CDS	780	aroK	2.7.1.71		Shikimate kinase
+DEOHBMLB_00281	gene	1077	aroC			
+DEOHBMLB_00281	CDS	1077	aroC	4.2.3.5		Chorismate synthase
+DEOHBMLB_00282	gene	1416	aroA			
+DEOHBMLB_00282	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+DEOHBMLB_00283	gene	219				
+DEOHBMLB_00283	CDS	219				hypothetical protein
+DEOHBMLB_00284	gene	681				
+DEOHBMLB_00284	CDS	681				hypothetical protein
+DEOHBMLB_00285	gene	768				
+DEOHBMLB_00285	CDS	768				hypothetical protein
+DEOHBMLB_00286	gene	1701				
+DEOHBMLB_00286	CDS	1701				hypothetical protein
+DEOHBMLB_00287	gene	675				
+DEOHBMLB_00287	CDS	675				hypothetical protein
+DEOHBMLB_00288	gene	1005				
+DEOHBMLB_00288	CDS	1005				hypothetical protein
+DEOHBMLB_00289	gene	1143				
+DEOHBMLB_00289	CDS	1143				hypothetical protein
+DEOHBMLB_00290	gene	1734	fhs			
+DEOHBMLB_00290	CDS	1734	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+DEOHBMLB_00291	gene	1074				
+DEOHBMLB_00291	CDS	1074				hypothetical protein
+DEOHBMLB_00292	gene	822	punA			
+DEOHBMLB_00292	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+DEOHBMLB_00293	gene	1203	mltG			
+DEOHBMLB_00293	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+DEOHBMLB_00294	gene	645	trmR			
+DEOHBMLB_00294	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+DEOHBMLB_00295	gene	594				
+DEOHBMLB_00295	CDS	594				hypothetical protein
+DEOHBMLB_00296	gene	1476				
+DEOHBMLB_00296	CDS	1476				hypothetical protein
+DEOHBMLB_00297	gene	804	proC			
+DEOHBMLB_00297	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+DEOHBMLB_00298	gene	651				
+DEOHBMLB_00298	CDS	651				hypothetical protein
+DEOHBMLB_00299	gene	504	cbiH			
+DEOHBMLB_00299	CDS	504	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+DEOHBMLB_00300	gene	765	cbiJ			
+DEOHBMLB_00300	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+DEOHBMLB_00301	gene	1545				
+DEOHBMLB_00301	CDS	1545				hypothetical protein
+DEOHBMLB_00302	gene	1104				
+DEOHBMLB_00302	CDS	1104				hypothetical protein
+DEOHBMLB_00303	gene	243				
+DEOHBMLB_00303	CDS	243				hypothetical protein
+DEOHBMLB_00304	gene	375				
+DEOHBMLB_00304	CDS	375				hypothetical protein
+DEOHBMLB_00305	gene	2019				
+DEOHBMLB_00305	CDS	2019				hypothetical protein
+DEOHBMLB_00306	gene	1125				
+DEOHBMLB_00306	CDS	1125				hypothetical protein
+DEOHBMLB_00307	gene	672				
+DEOHBMLB_00307	CDS	672				hypothetical protein
+DEOHBMLB_00308	gene	933				
+DEOHBMLB_00308	CDS	933				hypothetical protein
+DEOHBMLB_00309	gene	336				
+DEOHBMLB_00309	CDS	336				hypothetical protein
+DEOHBMLB_00310	gene	441				
+DEOHBMLB_00310	CDS	441				hypothetical protein
+DEOHBMLB_00311	gene	1422				
+DEOHBMLB_00311	CDS	1422				hypothetical protein
+DEOHBMLB_00312	gene	234				
+DEOHBMLB_00312	CDS	234				hypothetical protein
+DEOHBMLB_00313	gene	669	mnmE			
+DEOHBMLB_00313	CDS	669	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+DEOHBMLB_00314	gene	1881	mnmG			
+DEOHBMLB_00314	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+DEOHBMLB_00315	gene	729	rsmG			
+DEOHBMLB_00315	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+DEOHBMLB_00316	gene	1128				
+DEOHBMLB_00316	CDS	1128				hypothetical protein
+DEOHBMLB_00317	gene	297				
+DEOHBMLB_00317	CDS	297				hypothetical protein
+DEOHBMLB_00318	gene	339				
+DEOHBMLB_00318	CDS	339				hypothetical protein
+DEOHBMLB_00319	gene	549				
+DEOHBMLB_00319	CDS	549				hypothetical protein
+DEOHBMLB_00320	gene	318				
+DEOHBMLB_00320	CDS	318				hypothetical protein
+DEOHBMLB_00321	gene	129				
+DEOHBMLB_00321	CDS	129				hypothetical protein
+DEOHBMLB_00322	gene	849	nadC			
+DEOHBMLB_00322	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+DEOHBMLB_00323	gene	1251	dinB			
+DEOHBMLB_00323	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+DEOHBMLB_00324	gene	1440	gnd			
+DEOHBMLB_00324	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+DEOHBMLB_00325	gene	741				
+DEOHBMLB_00325	CDS	741				hypothetical protein
+DEOHBMLB_00326	gene	2016	gdpP			
+DEOHBMLB_00326	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+DEOHBMLB_00327	gene	447	rplI			
+DEOHBMLB_00327	CDS	447	rplI			50S ribosomal protein L9
+DEOHBMLB_00328	gene	342				
+DEOHBMLB_00328	CDS	342				hypothetical protein
+DEOHBMLB_00329	gene	1377	alsT			
+DEOHBMLB_00329	CDS	1377	alsT		COG1115	Amino-acid carrier protein AlsT
+DEOHBMLB_00330	gene	1281	serS			
+DEOHBMLB_00330	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+DEOHBMLB_00331	gene	678	srtA			
+DEOHBMLB_00331	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+DEOHBMLB_00332	gene	1353	mepA_2			
+DEOHBMLB_00332	CDS	1353	mepA_2		COG0534	Multidrug export protein MepA
+DEOHBMLB_00333	gene	852				
+DEOHBMLB_00333	CDS	852				hypothetical protein
+DEOHBMLB_00334	gene	408	aroE			
+DEOHBMLB_00334	CDS	408	aroE	1.1.1.25		Shikimate dehydrogenase (NADP(+))
+DEOHBMLB_00335	gene	2070	glyS			
+DEOHBMLB_00335	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+DEOHBMLB_00336	gene	885	glyQ			
+DEOHBMLB_00336	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+DEOHBMLB_00337	gene	609				
+DEOHBMLB_00337	CDS	609				hypothetical protein
+DEOHBMLB_00338	gene	423				
+DEOHBMLB_00338	CDS	423				hypothetical protein
+DEOHBMLB_00339	gene	678				
+DEOHBMLB_00339	CDS	678				hypothetical protein
+DEOHBMLB_00340	gene	642	yigZ			
+DEOHBMLB_00340	CDS	642	yigZ		COG1739	IMPACT family member YigZ
+DEOHBMLB_00341	gene	759	nadE			
+DEOHBMLB_00341	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+DEOHBMLB_00342	gene	2091	pnp			
+DEOHBMLB_00342	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+DEOHBMLB_00343	gene	156	carA_2			
+DEOHBMLB_00343	CDS	156	carA_2	6.3.5.5		Carbamoyl-phosphate synthase small chain
+DEOHBMLB_00344	gene	3216	carB			
+DEOHBMLB_00344	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+DEOHBMLB_00345	gene	669	tadA			
+DEOHBMLB_00345	CDS	669	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+DEOHBMLB_00346	gene	1635				
+DEOHBMLB_00346	CDS	1635				hypothetical protein
+DEOHBMLB_00347	gene	90				
+DEOHBMLB_00347	tRNA	90				tRNA-Ser(gga)
+DEOHBMLB_00348	gene	1185	aspC			
+DEOHBMLB_00348	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+DEOHBMLB_00349	gene	879				
+DEOHBMLB_00349	CDS	879				hypothetical protein
+DEOHBMLB_00350	gene	396	panD			
+DEOHBMLB_00350	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+DEOHBMLB_00351	gene	747				
+DEOHBMLB_00351	CDS	747				hypothetical protein
+DEOHBMLB_00352	gene	183				
+DEOHBMLB_00352	CDS	183				hypothetical protein
+DEOHBMLB_00353	gene	282	hup			
+DEOHBMLB_00353	CDS	282	hup			DNA-binding protein HU
+DEOHBMLB_00354	gene	240				
+DEOHBMLB_00354	CDS	240			COG1188	putative protein
+DEOHBMLB_00355	gene	894	gtaB			
+DEOHBMLB_00355	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+DEOHBMLB_00356	gene	1443	rho			
+DEOHBMLB_00356	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+DEOHBMLB_00357	gene	201	rpmE			
+DEOHBMLB_00357	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+DEOHBMLB_00358	gene	915	prmC			
+DEOHBMLB_00358	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+DEOHBMLB_00359	gene	1065	prfA			
+DEOHBMLB_00359	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+DEOHBMLB_00360	gene	1647	udk			
+DEOHBMLB_00360	CDS	1647	udk	2.7.1.48		Uridine kinase
+DEOHBMLB_00361	gene	639	pdg			
+DEOHBMLB_00361	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+DEOHBMLB_00362	gene	471	trmL			
+DEOHBMLB_00362	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+DEOHBMLB_00363	gene	876				
+DEOHBMLB_00363	CDS	876			COG1307	Fatty acid-binding protein
+DEOHBMLB_00364	gene	882	cna			
+DEOHBMLB_00364	CDS	882	cna			Collagen adhesin
+DEOHBMLB_00365	gene	705	srtD			
+DEOHBMLB_00365	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+DEOHBMLB_00366	gene	1017	nrnA			
+DEOHBMLB_00366	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+DEOHBMLB_00367	gene	951	truB			
+DEOHBMLB_00367	CDS	951	truB	5.4.99.25		tRNA pseudouridine synthase B
+DEOHBMLB_00368	gene	474				
+DEOHBMLB_00368	CDS	474				hypothetical protein
+DEOHBMLB_00369	gene	915	lacC			
+DEOHBMLB_00369	CDS	915	lacC	2.7.1.144		Tagatose-6-phosphate kinase
+DEOHBMLB_00370	gene	585				
+DEOHBMLB_00370	CDS	585				hypothetical protein
+DEOHBMLB_00371	gene	102				
+DEOHBMLB_00371	CDS	102				hypothetical protein
+DEOHBMLB_00372	gene	585				
+DEOHBMLB_00372	CDS	585		3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase
+DEOHBMLB_00373	gene	984	birA			
+DEOHBMLB_00373	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+DEOHBMLB_00374	gene	756				
+DEOHBMLB_00374	CDS	756				hypothetical protein
+DEOHBMLB_00375	gene	405				
+DEOHBMLB_00375	CDS	405				hypothetical protein
+DEOHBMLB_00376	gene	507	ftsH			
+DEOHBMLB_00376	CDS	507	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+DEOHBMLB_00377	gene	1362	gabR			
+DEOHBMLB_00377	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+DEOHBMLB_00378	gene	300				
+DEOHBMLB_00378	CDS	300				hypothetical protein
+DEOHBMLB_00379	gene	1173				
+DEOHBMLB_00379	CDS	1173				hypothetical protein
+DEOHBMLB_00380	gene	873	purH			
+DEOHBMLB_00380	CDS	873	purH			Bifunctional purine biosynthesis protein PurH
+DEOHBMLB_00381	gene	1269	purD			
+DEOHBMLB_00381	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+DEOHBMLB_00382	gene	1896	purQ			
+DEOHBMLB_00382	CDS	1896	purQ	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+DEOHBMLB_00383	gene	1314	pdp			
+DEOHBMLB_00383	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+DEOHBMLB_00384	gene	1587	clcA			
+DEOHBMLB_00384	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+DEOHBMLB_00385	gene	750	folD			
+DEOHBMLB_00385	CDS	750	folD			Bifunctional protein FolD protein
+DEOHBMLB_00386	gene	1365				
+DEOHBMLB_00386	CDS	1365				hypothetical protein
+DEOHBMLB_00387	gene	1458				
+DEOHBMLB_00387	CDS	1458				hypothetical protein
+DEOHBMLB_00388	gene	1380	tilS			
+DEOHBMLB_00388	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+DEOHBMLB_00389	gene	414				
+DEOHBMLB_00389	CDS	414				hypothetical protein
+DEOHBMLB_00390	gene	813	murI			
+DEOHBMLB_00390	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+DEOHBMLB_00391	gene	567	gntR			
+DEOHBMLB_00391	CDS	567	gntR			putative D-xylose utilization operon transcriptional repressor
+DEOHBMLB_00392	gene	1080	thiI			
+DEOHBMLB_00392	CDS	1080	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+DEOHBMLB_00393	gene	963				
+DEOHBMLB_00393	CDS	963				hypothetical protein
+DEOHBMLB_00394	gene	318	erpA			
+DEOHBMLB_00394	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+DEOHBMLB_00395	gene	858	trmB			
+DEOHBMLB_00395	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+DEOHBMLB_00396	gene	819				
+DEOHBMLB_00396	CDS	819				hypothetical protein
+DEOHBMLB_00397	gene	849				
+DEOHBMLB_00397	CDS	849				DegV domain-containing protein
+DEOHBMLB_00398	gene	483	leuS			
+DEOHBMLB_00398	CDS	483	leuS	6.1.1.4		Leucine--tRNA ligase
+DEOHBMLB_00399	gene	936	yijE			
+DEOHBMLB_00399	CDS	936	yijE			putative cystine transporter YijE
+DEOHBMLB_00400	gene	309	rplU			
+DEOHBMLB_00400	CDS	309	rplU		COG0261	50S ribosomal protein L21
+DEOHBMLB_00401	gene	318				
+DEOHBMLB_00401	CDS	318				hypothetical protein
+DEOHBMLB_00402	gene	291	rpmA			
+DEOHBMLB_00402	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+DEOHBMLB_00403	gene	756				
+DEOHBMLB_00403	CDS	756				hypothetical protein
+DEOHBMLB_00404	gene	1584				
+DEOHBMLB_00404	CDS	1584				hypothetical protein
+DEOHBMLB_00405	gene	327	codY			
+DEOHBMLB_00405	CDS	327	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+DEOHBMLB_00406	gene	1272	rarA			
+DEOHBMLB_00406	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+DEOHBMLB_00407	gene	465	cymR			
+DEOHBMLB_00407	CDS	465	cymR			HTH-type transcriptional regulator CymR
+DEOHBMLB_00408	gene	1053	mnmA			
+DEOHBMLB_00408	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+DEOHBMLB_00409	gene	1203	roo			
+DEOHBMLB_00409	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+DEOHBMLB_00410	gene	462	dut			
+DEOHBMLB_00410	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+DEOHBMLB_00411	gene	2124	mrdA			
+DEOHBMLB_00411	CDS	2124	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+DEOHBMLB_00412	gene	1113	mrdB			
+DEOHBMLB_00412	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+DEOHBMLB_00413	gene	333				
+DEOHBMLB_00413	CDS	333				hypothetical protein
+DEOHBMLB_00414	gene	378				
+DEOHBMLB_00414	CDS	378				hypothetical protein
+DEOHBMLB_00415	gene	597				
+DEOHBMLB_00415	CDS	597				hypothetical protein
+DEOHBMLB_00416	gene	759				
+DEOHBMLB_00416	CDS	759				hypothetical protein
+DEOHBMLB_00417	gene	1260				
+DEOHBMLB_00417	CDS	1260				hypothetical protein
+DEOHBMLB_00418	gene	1101				
+DEOHBMLB_00418	CDS	1101				hypothetical protein
+DEOHBMLB_00419	gene	1101	mshA			
+DEOHBMLB_00419	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DEOHBMLB_00420	gene	765	tuaG			
+DEOHBMLB_00420	CDS	765	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+DEOHBMLB_00421	gene	264				
+DEOHBMLB_00421	CDS	264				hypothetical protein
+DEOHBMLB_00422	gene	1011	mreB			
+DEOHBMLB_00422	CDS	1011	mreB		COG1077	Cell shape-determining protein MreB
+DEOHBMLB_00423	gene	1254	murAA			
+DEOHBMLB_00423	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+DEOHBMLB_00424	gene	177				
+DEOHBMLB_00424	CDS	177				hypothetical protein
+DEOHBMLB_00425	gene	1788	pepF1			
+DEOHBMLB_00425	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+DEOHBMLB_00426	gene	528				
+DEOHBMLB_00426	CDS	528				hypothetical protein
+DEOHBMLB_00427	gene	810	ecfT			
+DEOHBMLB_00427	CDS	810	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+DEOHBMLB_00428	gene	1167	patB			
+DEOHBMLB_00428	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+DEOHBMLB_00429	gene	759	aroD			
+DEOHBMLB_00429	CDS	759	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+DEOHBMLB_00430	gene	234				
+DEOHBMLB_00430	CDS	234				hypothetical protein
+DEOHBMLB_00431	gene	1440				
+DEOHBMLB_00431	CDS	1440				hypothetical protein
+DEOHBMLB_00432	gene	387	dfx			
+DEOHBMLB_00432	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+DEOHBMLB_00433	gene	372	perR			
+DEOHBMLB_00433	CDS	372	perR		COG0735	Peroxide operon regulator
+DEOHBMLB_00434	gene	549	rbr			
+DEOHBMLB_00434	CDS	549	rbr		COG1592	Rubrerythrin
+DEOHBMLB_00435	gene	438				
+DEOHBMLB_00435	CDS	438				hypothetical protein
+DEOHBMLB_00436	gene	1347	pgi			
+DEOHBMLB_00436	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+DEOHBMLB_00437	gene	1005				
+DEOHBMLB_00437	CDS	1005				hypothetical protein
+DEOHBMLB_00438	gene	1980	htpG			
+DEOHBMLB_00438	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+DEOHBMLB_00439	gene	141				
+DEOHBMLB_00439	CDS	141				hypothetical protein
+DEOHBMLB_00440	gene	636	fchA			
+DEOHBMLB_00440	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+DEOHBMLB_00441	gene	342	secA_2			
+DEOHBMLB_00441	CDS	342	secA_2		COG0653	Protein translocase subunit SecA
+DEOHBMLB_00442	gene	1365				
+DEOHBMLB_00442	CDS	1365				hypothetical protein
+DEOHBMLB_00443	gene	1305				
+DEOHBMLB_00443	CDS	1305				hypothetical protein
+DEOHBMLB_00444	gene	906				
+DEOHBMLB_00444	CDS	906				hypothetical protein
+DEOHBMLB_00445	gene	1287	eis			
+DEOHBMLB_00445	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+DEOHBMLB_00446	gene	117				
+DEOHBMLB_00446	CDS	117				hypothetical protein
+DEOHBMLB_00447	gene	150				
+DEOHBMLB_00447	CDS	150				hypothetical protein
+DEOHBMLB_00448	gene	1077	accC			
+DEOHBMLB_00448	CDS	1077	accC	6.3.4.14	COG0439	Biotin carboxylase
+DEOHBMLB_00449	gene	858	accD			
+DEOHBMLB_00449	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+DEOHBMLB_00450	gene	744	accA			
+DEOHBMLB_00450	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+DEOHBMLB_00451	gene	573	artP_1			
+DEOHBMLB_00451	CDS	573	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+DEOHBMLB_00452	gene	1275	argG			
+DEOHBMLB_00452	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+DEOHBMLB_00453	gene	1374	argH_1			
+DEOHBMLB_00453	CDS	1374	argH_1	4.3.2.1	COG0165	Argininosuccinate lyase
+DEOHBMLB_00454	gene	1245	macB			
+DEOHBMLB_00454	CDS	1245	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+DEOHBMLB_00455	gene	675	yknY			
+DEOHBMLB_00455	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+DEOHBMLB_00456	gene	510	yknX			
+DEOHBMLB_00456	CDS	510	yknX		COG0845	Putative efflux system component YknX
+DEOHBMLB_00457	gene	927				
+DEOHBMLB_00457	CDS	927				hypothetical protein
+DEOHBMLB_00458	gene	1698				
+DEOHBMLB_00458	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+DEOHBMLB_00459	gene	192				
+DEOHBMLB_00459	CDS	192				hypothetical protein
+DEOHBMLB_00460	gene	708	mtnN			
+DEOHBMLB_00460	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+DEOHBMLB_00461	gene	1008	trpS			
+DEOHBMLB_00461	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+DEOHBMLB_00462	gene	768				
+DEOHBMLB_00462	CDS	768				hypothetical protein
+DEOHBMLB_00463	gene	606				
+DEOHBMLB_00463	CDS	606				hypothetical protein
+DEOHBMLB_00464	gene	924	fba			
+DEOHBMLB_00464	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+DEOHBMLB_00465	gene	552	hpf			
+DEOHBMLB_00465	CDS	552	hpf			Ribosome hibernation promotion factor
+DEOHBMLB_00466	gene	675	artQ_1			
+DEOHBMLB_00466	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+DEOHBMLB_00467	gene	846	artP_2			
+DEOHBMLB_00467	CDS	846	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+DEOHBMLB_00468	gene	282				
+DEOHBMLB_00468	CDS	282				hypothetical protein
+DEOHBMLB_00469	gene	486				
+DEOHBMLB_00469	CDS	486				hypothetical protein
+DEOHBMLB_00470	gene	687	glxR			
+DEOHBMLB_00470	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+DEOHBMLB_00471	gene	462	ribH			
+DEOHBMLB_00471	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+DEOHBMLB_00472	gene	873	ribBA			
+DEOHBMLB_00472	CDS	873	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+DEOHBMLB_00473	gene	264	ytrE_2			
+DEOHBMLB_00473	CDS	264	ytrE_2		COG1136	ABC transporter ATP-binding protein YtrE
+DEOHBMLB_00474	gene	1377				
+DEOHBMLB_00474	CDS	1377				hypothetical protein
+DEOHBMLB_00475	gene	654	qseB			
+DEOHBMLB_00475	CDS	654	qseB			Transcriptional regulatory protein QseB
+DEOHBMLB_00476	gene	1221				
+DEOHBMLB_00476	CDS	1221				hypothetical protein
+DEOHBMLB_00477	gene	486				
+DEOHBMLB_00477	CDS	486				hypothetical protein
+DEOHBMLB_00478	gene	846	cvfB			
+DEOHBMLB_00478	CDS	846	cvfB		COG2996	Conserved virulence factor B
+DEOHBMLB_00479	gene	957	rhaR_2			
+DEOHBMLB_00479	CDS	957	rhaR_2			HTH-type transcriptional activator RhaR
+DEOHBMLB_00480	gene	693	asd_2			
+DEOHBMLB_00480	CDS	693	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+DEOHBMLB_00481	gene	1338	hom			
+DEOHBMLB_00481	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+DEOHBMLB_00482	gene	1941	metG			
+DEOHBMLB_00482	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+DEOHBMLB_00483	gene	255				
+DEOHBMLB_00483	CDS	255				hypothetical protein
+DEOHBMLB_00484	gene	696				
+DEOHBMLB_00484	CDS	696				hypothetical protein
+DEOHBMLB_00485	gene	489	queT			
+DEOHBMLB_00485	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+DEOHBMLB_00486	gene	150	rpmG2			
+DEOHBMLB_00486	CDS	150	rpmG2			50S ribosomal protein L33 2
+DEOHBMLB_00487	gene	207	secE			
+DEOHBMLB_00487	CDS	207	secE			Protein translocase subunit SecE
+DEOHBMLB_00488	gene	543	nusG			
+DEOHBMLB_00488	CDS	543	nusG			Transcription termination/antitermination protein NusG
+DEOHBMLB_00489	gene	426	rplK			
+DEOHBMLB_00489	CDS	426	rplK		COG0080	50S ribosomal protein L11
+DEOHBMLB_00490	gene	903				
+DEOHBMLB_00490	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+DEOHBMLB_00491	gene	1929				
+DEOHBMLB_00491	CDS	1929				hypothetical protein
+DEOHBMLB_00492	gene	117				
+DEOHBMLB_00492	CDS	117				hypothetical protein
+DEOHBMLB_00493	gene	456	def1			
+DEOHBMLB_00493	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+DEOHBMLB_00494	gene	930	fmt			
+DEOHBMLB_00494	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+DEOHBMLB_00495	gene	690				
+DEOHBMLB_00495	CDS	690				hypothetical protein
+DEOHBMLB_00496	gene	1245				
+DEOHBMLB_00496	CDS	1245				hypothetical protein
+DEOHBMLB_00497	gene	1173	glgC			
+DEOHBMLB_00497	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+DEOHBMLB_00498	gene	1107	glgD			
+DEOHBMLB_00498	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+DEOHBMLB_00499	gene	1461				
+DEOHBMLB_00499	CDS	1461				hypothetical protein
+DEOHBMLB_00500	gene	765	fpuC			
+DEOHBMLB_00500	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+DEOHBMLB_00501	gene	420	btuC			
+DEOHBMLB_00501	CDS	420	btuC			Vitamin B12 import system permease protein BtuC
+DEOHBMLB_00502	gene	468				
+DEOHBMLB_00502	CDS	468				hypothetical protein
+DEOHBMLB_00503	gene	522				
+DEOHBMLB_00503	CDS	522				hypothetical protein
+DEOHBMLB_00504	gene	240				
+DEOHBMLB_00504	CDS	240				hypothetical protein
+DEOHBMLB_00505	gene	630				
+DEOHBMLB_00505	CDS	630				hypothetical protein
+DEOHBMLB_00506	gene	756				
+DEOHBMLB_00506	CDS	756				hypothetical protein
+DEOHBMLB_00507	gene	216				
+DEOHBMLB_00507	CDS	216				hypothetical protein
+DEOHBMLB_00508	gene	228	rpsR			
+DEOHBMLB_00508	CDS	228	rpsR			30S ribosomal protein S18
+DEOHBMLB_00509	gene	444	ssb			
+DEOHBMLB_00509	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+DEOHBMLB_00510	gene	291	rpsF			
+DEOHBMLB_00510	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+DEOHBMLB_00511	gene	849	panC			
+DEOHBMLB_00511	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+DEOHBMLB_00512	gene	828	panB			
+DEOHBMLB_00512	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+DEOHBMLB_00513	gene	651				
+DEOHBMLB_00513	CDS	651				hypothetical protein
+DEOHBMLB_00514	gene	1392	glmU			
+DEOHBMLB_00514	CDS	1392	glmU			Bifunctional protein GlmU
+DEOHBMLB_00515	gene	681	tgnD			
+DEOHBMLB_00515	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+DEOHBMLB_00516	gene	996	btuD			
+DEOHBMLB_00516	CDS	996	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+DEOHBMLB_00517	gene	696	ureG			
+DEOHBMLB_00517	CDS	696	ureG			Urease accessory protein UreG
+DEOHBMLB_00518	gene	168				
+DEOHBMLB_00518	CDS	168				hypothetical protein
+DEOHBMLB_00519	gene	75				
+DEOHBMLB_00519	tRNA	75				tRNA-Thr(tgt)
+DEOHBMLB_00520	gene	76				
+DEOHBMLB_00520	tRNA	76				tRNA-Val(tac)
+DEOHBMLB_00521	gene	74				
+DEOHBMLB_00521	tRNA	74				tRNA-Glu(ttc)
+DEOHBMLB_00522	gene	73				
+DEOHBMLB_00522	tRNA	73				tRNA-Asn(gtt)
+DEOHBMLB_00523	gene	109				
+DEOHBMLB_00523	rRNA	109				5S ribosomal RNA
+DEOHBMLB_00524	gene	1989	tkt			
+DEOHBMLB_00524	CDS	1989	tkt	2.2.1.1		Transketolase
+DEOHBMLB_00525	gene	1827	glmS			
+DEOHBMLB_00525	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+DEOHBMLB_00526	gene	399				
+DEOHBMLB_00526	CDS	399				hypothetical protein
+DEOHBMLB_00527	gene	1590	clsA			
+DEOHBMLB_00527	CDS	1590	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+DEOHBMLB_00528	gene	267				
+DEOHBMLB_00528	CDS	267				hypothetical protein
+DEOHBMLB_00529	gene	312				
+DEOHBMLB_00529	CDS	312				hypothetical protein
+DEOHBMLB_00530	gene	1554				
+DEOHBMLB_00530	CDS	1554				hypothetical protein
+DEOHBMLB_00531	gene	522	apt			
+DEOHBMLB_00531	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+DEOHBMLB_00532	gene	285				
+DEOHBMLB_00532	CDS	285				hypothetical protein
+DEOHBMLB_00533	gene	402	rpsK			
+DEOHBMLB_00533	CDS	402	rpsK			30S ribosomal protein S11
+DEOHBMLB_00534	gene	369	rpsM			
+DEOHBMLB_00534	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+DEOHBMLB_00535	gene	114	rpmJ			
+DEOHBMLB_00535	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+DEOHBMLB_00536	gene	219	infA			
+DEOHBMLB_00536	CDS	219	infA		COG0361	Translation initiation factor IF-1
+DEOHBMLB_00537	gene	270				
+DEOHBMLB_00537	CDS	270				hypothetical protein
+DEOHBMLB_00538	gene	642	adk			
+DEOHBMLB_00538	CDS	642	adk	2.7.4.3		Adenylate kinase
+DEOHBMLB_00539	gene	537	secY			
+DEOHBMLB_00539	CDS	537	secY		COG0201	Protein translocase subunit SecY
+DEOHBMLB_00540	gene	492	ycdZ			
+DEOHBMLB_00540	CDS	492	ycdZ			Inner membrane protein YcdZ
+DEOHBMLB_00541	gene	972				
+DEOHBMLB_00541	CDS	972				hypothetical protein
+DEOHBMLB_00542	gene	771	nirC			
+DEOHBMLB_00542	CDS	771	nirC		COG2116	Nitrite transporter NirC
+DEOHBMLB_00543	gene	972	asrC			
+DEOHBMLB_00543	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+DEOHBMLB_00544	gene	306	asrB			
+DEOHBMLB_00544	CDS	306	asrB		COG0543	Anaerobic sulfite reductase subunit B
+DEOHBMLB_00545	gene	1194	sdaB			
+DEOHBMLB_00545	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+DEOHBMLB_00546	gene	477				
+DEOHBMLB_00546	CDS	477				hypothetical protein
+DEOHBMLB_00547	gene	1284	brnQ_1			
+DEOHBMLB_00547	CDS	1284	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+DEOHBMLB_00548	gene	411				
+DEOHBMLB_00548	CDS	411				hypothetical protein
+DEOHBMLB_00549	gene	642				
+DEOHBMLB_00549	CDS	642				hypothetical protein
+DEOHBMLB_00550	gene	567				
+DEOHBMLB_00550	CDS	567				hypothetical protein
+DEOHBMLB_00551	gene	1230				
+DEOHBMLB_00551	CDS	1230				hypothetical protein
+DEOHBMLB_00552	gene	291				
+DEOHBMLB_00552	CDS	291				hypothetical protein
+DEOHBMLB_00553	gene	696	apeB			
+DEOHBMLB_00553	CDS	696	apeB	3.4.11.-		M18 family aminopeptidase 2
+DEOHBMLB_00554	gene	525				
+DEOHBMLB_00554	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+DEOHBMLB_00555	gene	909	ppaC			
+DEOHBMLB_00555	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+DEOHBMLB_00556	gene	1254				
+DEOHBMLB_00556	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+DEOHBMLB_00557	gene	168				
+DEOHBMLB_00557	CDS	168			COG1145	Ferredoxin
+DEOHBMLB_00558	gene	375	rex1			
+DEOHBMLB_00558	CDS	375	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+DEOHBMLB_00559	gene	1881	prkC			
+DEOHBMLB_00559	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+DEOHBMLB_00560	gene	750	prpC			
+DEOHBMLB_00560	CDS	750	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+DEOHBMLB_00561	gene	1098	uvrC			
+DEOHBMLB_00561	CDS	1098	uvrC		COG0322	UvrABC system protein C
+DEOHBMLB_00562	gene	933	hprK			
+DEOHBMLB_00562	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+DEOHBMLB_00563	gene	933	rluD			
+DEOHBMLB_00563	CDS	933	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DEOHBMLB_00564	gene	525	pyrR			
+DEOHBMLB_00564	CDS	525	pyrR			Bifunctional protein PyrR
+DEOHBMLB_00565	gene	834	purR			
+DEOHBMLB_00565	CDS	834	purR		COG0503	Pur operon repressor
+DEOHBMLB_00566	gene	1362	murC			
+DEOHBMLB_00566	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+DEOHBMLB_00567	gene	2655	uvrA			
+DEOHBMLB_00567	CDS	2655	uvrA			UvrABC system protein A
+DEOHBMLB_00568	gene	816	ptsI			
+DEOHBMLB_00568	CDS	816	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+DEOHBMLB_00569	gene	654				
+DEOHBMLB_00569	CDS	654				hypothetical protein
+DEOHBMLB_00570	gene	507				
+DEOHBMLB_00570	CDS	507				hypothetical protein
+DEOHBMLB_00571	gene	1260	valS			
+DEOHBMLB_00571	CDS	1260	valS	6.1.1.9		Valine--tRNA ligase
+DEOHBMLB_00572	gene	1311	addA_1			
+DEOHBMLB_00572	CDS	1311	addA_1	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+DEOHBMLB_00573	gene	684				
+DEOHBMLB_00573	CDS	684				hypothetical protein
+DEOHBMLB_00574	gene	855	brnQ_2			
+DEOHBMLB_00574	CDS	855	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+DEOHBMLB_00575	gene	354				
+DEOHBMLB_00575	CDS	354				hypothetical protein
+DEOHBMLB_00576	gene	780				
+DEOHBMLB_00576	CDS	780				hypothetical protein
+DEOHBMLB_00577	gene	444				
+DEOHBMLB_00577	CDS	444				hypothetical protein
+DEOHBMLB_00578	gene	768	prsA			
+DEOHBMLB_00578	CDS	768	prsA	5.2.1.8		Foldase protein PrsA
+DEOHBMLB_00579	gene	429				
+DEOHBMLB_00579	CDS	429				hypothetical protein
+DEOHBMLB_00580	gene	1551	ybiT_1			
+DEOHBMLB_00580	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+DEOHBMLB_00581	gene	750				
+DEOHBMLB_00581	CDS	750				hypothetical protein
+DEOHBMLB_00582	gene	1431				
+DEOHBMLB_00582	CDS	1431				hypothetical protein
+DEOHBMLB_00583	gene	726				
+DEOHBMLB_00583	CDS	726				hypothetical protein
+DEOHBMLB_00584	gene	390				
+DEOHBMLB_00584	CDS	390				hypothetical protein
+DEOHBMLB_00585	gene	1056	epsF			
+DEOHBMLB_00585	CDS	1056	epsF		COG1459	Type II secretion system protein F
+DEOHBMLB_00586	gene	693				
+DEOHBMLB_00586	CDS	693				hypothetical protein
+DEOHBMLB_00587	gene	420				
+DEOHBMLB_00587	CDS	420				hypothetical protein
+DEOHBMLB_00588	gene	489				
+DEOHBMLB_00588	CDS	489				hypothetical protein
+DEOHBMLB_00589	gene	1188	murE_1			
+DEOHBMLB_00589	CDS	1188	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+DEOHBMLB_00590	gene	741	mta			
+DEOHBMLB_00590	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+DEOHBMLB_00591	gene	897	ddl			
+DEOHBMLB_00591	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+DEOHBMLB_00592	gene	309	lgrD			
+DEOHBMLB_00592	CDS	309	lgrD			Linear gramicidin synthase subunit D
+DEOHBMLB_00593	gene	825				
+DEOHBMLB_00593	CDS	825				hypothetical protein
+DEOHBMLB_00594	gene	912				
+DEOHBMLB_00594	CDS	912				hypothetical protein
+DEOHBMLB_00595	gene	288	pagR			
+DEOHBMLB_00595	CDS	288	pagR			Transcriptional repressor PagR
+DEOHBMLB_00596	gene	546	hpt			
+DEOHBMLB_00596	CDS	546	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+DEOHBMLB_00597	gene	723	engB			
+DEOHBMLB_00597	CDS	723	engB			GTP-binding protein EngB
+DEOHBMLB_00598	gene	444	lon1			
+DEOHBMLB_00598	CDS	444	lon1	3.4.21.53	COG0466	Lon protease 1
+DEOHBMLB_00599	gene	564				
+DEOHBMLB_00599	CDS	564				hypothetical protein
+DEOHBMLB_00600	gene	471				
+DEOHBMLB_00600	CDS	471				hypothetical protein
+DEOHBMLB_00601	gene	162				
+DEOHBMLB_00601	CDS	162				hypothetical protein
+DEOHBMLB_00602	gene	162	pyrB			
+DEOHBMLB_00602	CDS	162	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+DEOHBMLB_00603	gene	690	pyrK			
+DEOHBMLB_00603	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+DEOHBMLB_00604	gene	903	pyrD			
+DEOHBMLB_00604	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+DEOHBMLB_00605	gene	582	pyrE			
+DEOHBMLB_00605	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+DEOHBMLB_00606	gene	672				
+DEOHBMLB_00606	CDS	672				hypothetical protein
+DEOHBMLB_00607	gene	600				
+DEOHBMLB_00607	CDS	600				hypothetical protein
+DEOHBMLB_00608	gene	555				
+DEOHBMLB_00608	CDS	555				hypothetical protein
+DEOHBMLB_00609	gene	1167	cbiD			
+DEOHBMLB_00609	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+DEOHBMLB_00610	gene	639	cbiC			
+DEOHBMLB_00610	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+DEOHBMLB_00611	gene	423	pduX			
+DEOHBMLB_00611	CDS	423	pduX	2.7.1.177	COG4542	L-threonine kinase
+DEOHBMLB_00612	gene	1269				
+DEOHBMLB_00612	CDS	1269				hypothetical protein
+DEOHBMLB_00613	gene	486	greA			
+DEOHBMLB_00613	CDS	486	greA		COG0782	Transcription elongation factor GreA
+DEOHBMLB_00614	gene	459				
+DEOHBMLB_00614	CDS	459				hypothetical protein
+DEOHBMLB_00615	gene	1134	carC_2			
+DEOHBMLB_00615	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+DEOHBMLB_00616	gene	792	carD_2			
+DEOHBMLB_00616	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+DEOHBMLB_00617	gene	696	nadD			
+DEOHBMLB_00617	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+DEOHBMLB_00618	gene	624	recX			
+DEOHBMLB_00618	CDS	624	recX			Regulatory protein RecX
+DEOHBMLB_00619	gene	348	crcB_1			
+DEOHBMLB_00619	CDS	348	crcB_1			Putative fluoride ion transporter CrcB
+DEOHBMLB_00620	gene	207				
+DEOHBMLB_00620	CDS	207				hypothetical protein
+DEOHBMLB_00621	gene	1266				
+DEOHBMLB_00621	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+DEOHBMLB_00622	gene	1461	malP			
+DEOHBMLB_00622	CDS	1461	malP	2.4.1.8		Maltose phosphorylase
+DEOHBMLB_00623	gene	759				
+DEOHBMLB_00623	CDS	759				hypothetical protein
+DEOHBMLB_00624	gene	786				
+DEOHBMLB_00624	CDS	786				hypothetical protein
+DEOHBMLB_00625	gene	483				
+DEOHBMLB_00625	CDS	483				hypothetical protein
+DEOHBMLB_00626	gene	651				
+DEOHBMLB_00626	CDS	651				hypothetical protein
+DEOHBMLB_00627	gene	561	pth			
+DEOHBMLB_00627	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+DEOHBMLB_00628	gene	738				
+DEOHBMLB_00628	CDS	738				hypothetical protein
+DEOHBMLB_00629	gene	234				
+DEOHBMLB_00629	CDS	234				hypothetical protein
+DEOHBMLB_00630	gene	513	cysE			
+DEOHBMLB_00630	CDS	513	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+DEOHBMLB_00631	gene	933	lnrL_2			
+DEOHBMLB_00631	CDS	933	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+DEOHBMLB_00632	gene	1119				
+DEOHBMLB_00632	CDS	1119				hypothetical protein
+DEOHBMLB_00633	gene	288				
+DEOHBMLB_00633	CDS	288				hypothetical protein
+DEOHBMLB_00634	gene	1392	nhaC			
+DEOHBMLB_00634	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+DEOHBMLB_00635	gene	468				
+DEOHBMLB_00635	CDS	468				hypothetical protein
+DEOHBMLB_00636	gene	1368	mepA_3			
+DEOHBMLB_00636	CDS	1368	mepA_3			Multidrug export protein MepA
+DEOHBMLB_00637	gene	705				
+DEOHBMLB_00637	CDS	705				hypothetical protein
+DEOHBMLB_00638	gene	684	lytC_2			
+DEOHBMLB_00638	CDS	684	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+DEOHBMLB_00639	gene	510	folA			
+DEOHBMLB_00639	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+DEOHBMLB_00640	gene	834	thyA			
+DEOHBMLB_00640	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+DEOHBMLB_00641	gene	363				
+DEOHBMLB_00641	CDS	363				hypothetical protein
+DEOHBMLB_00642	gene	375	lldD			
+DEOHBMLB_00642	CDS	375	lldD	1.1.-.-	COG1304	L-lactate dehydrogenase
+DEOHBMLB_00643	gene	567	cbiT			
+DEOHBMLB_00643	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+DEOHBMLB_00644	gene	759	cbiF			
+DEOHBMLB_00644	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+DEOHBMLB_00645	gene	255	rpsQ			
+DEOHBMLB_00645	CDS	255	rpsQ			30S ribosomal protein S17
+DEOHBMLB_00646	gene	369	rplN			
+DEOHBMLB_00646	CDS	369	rplN		COG0093	50S ribosomal protein L14
+DEOHBMLB_00647	gene	309	rplX			
+DEOHBMLB_00647	CDS	309	rplX		COG0198	50S ribosomal protein L24
+DEOHBMLB_00648	gene	543	rplE			
+DEOHBMLB_00648	CDS	543	rplE			50S ribosomal protein L5
+DEOHBMLB_00649	gene	186	rpsZ			
+DEOHBMLB_00649	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+DEOHBMLB_00650	gene	399	rpsH			
+DEOHBMLB_00650	CDS	399	rpsH			30S ribosomal protein S8
+DEOHBMLB_00651	gene	1443	glgP			
+DEOHBMLB_00651	CDS	1443	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+DEOHBMLB_00652	gene	1320	recG			
+DEOHBMLB_00652	CDS	1320	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+DEOHBMLB_00653	gene	561	rsmD			
+DEOHBMLB_00653	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+DEOHBMLB_00654	gene	993	malR			
+DEOHBMLB_00654	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+DEOHBMLB_00655	gene	633				
+DEOHBMLB_00655	CDS	633				hypothetical protein
+DEOHBMLB_00656	gene	891	rnjA			
+DEOHBMLB_00656	CDS	891	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+DEOHBMLB_00657	gene	771	ffh			
+DEOHBMLB_00657	CDS	771	ffh		COG0541	Signal recognition particle protein
+DEOHBMLB_00658	gene	273	rpsP			
+DEOHBMLB_00658	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+DEOHBMLB_00659	gene	234				
+DEOHBMLB_00659	CDS	234				hypothetical protein
+DEOHBMLB_00660	gene	519	rimM			
+DEOHBMLB_00660	CDS	519	rimM			Ribosome maturation factor RimM
+DEOHBMLB_00661	gene	717	tig			
+DEOHBMLB_00661	CDS	717	tig	5.2.1.8	COG0544	Trigger factor
+DEOHBMLB_00662	gene	585	clpP			
+DEOHBMLB_00662	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+DEOHBMLB_00663	gene	864	rnfB			
+DEOHBMLB_00663	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+DEOHBMLB_00664	gene	576	rnfA			
+DEOHBMLB_00664	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+DEOHBMLB_00665	gene	594	rnfE			
+DEOHBMLB_00665	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+DEOHBMLB_00666	gene	954				
+DEOHBMLB_00666	CDS	954				hypothetical protein
+DEOHBMLB_00667	gene	651				
+DEOHBMLB_00667	CDS	651				hypothetical protein
+DEOHBMLB_00668	gene	552	whiA			
+DEOHBMLB_00668	CDS	552	whiA		COG1481	putative cell division protein WhiA
+DEOHBMLB_00669	gene	675	ktrA			
+DEOHBMLB_00669	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+DEOHBMLB_00670	gene	1290	ntpJ			
+DEOHBMLB_00670	CDS	1290	ntpJ			Potassium/sodium uptake protein NtpJ
+DEOHBMLB_00671	gene	504				
+DEOHBMLB_00671	CDS	504				hypothetical protein
+DEOHBMLB_00672	gene	957				
+DEOHBMLB_00672	CDS	957				hypothetical protein
+DEOHBMLB_00673	gene	1200	sstT			
+DEOHBMLB_00673	CDS	1200	sstT			Serine/threonine transporter SstT
+DEOHBMLB_00674	gene	678				
+DEOHBMLB_00674	CDS	678				hypothetical protein
+DEOHBMLB_00675	gene	93				
+DEOHBMLB_00675	CDS	93				hypothetical protein
+DEOHBMLB_00676	gene	1014	ruvB			
+DEOHBMLB_00676	CDS	1014	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+DEOHBMLB_00677	gene	612	ruvA			
+DEOHBMLB_00677	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+DEOHBMLB_00678	gene	651	nnr			
+DEOHBMLB_00678	CDS	651	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+DEOHBMLB_00679	gene	453				
+DEOHBMLB_00679	CDS	453				hypothetical protein
+DEOHBMLB_00680	gene	1005				
+DEOHBMLB_00680	CDS	1005			COG0330	putative protein
+DEOHBMLB_00681	gene	741	patA			
+DEOHBMLB_00681	CDS	741	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+DEOHBMLB_00682	gene	237	dltC			
+DEOHBMLB_00682	CDS	237	dltC		COG0236	D-alanyl carrier protein
+DEOHBMLB_00683	gene	927	trxB			
+DEOHBMLB_00683	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+DEOHBMLB_00684	gene	762				
+DEOHBMLB_00684	CDS	762				hypothetical protein
+DEOHBMLB_00685	gene	375				
+DEOHBMLB_00685	CDS	375				hypothetical protein
+DEOHBMLB_00686	gene	675	ung			
+DEOHBMLB_00686	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+DEOHBMLB_00687	gene	1182				
+DEOHBMLB_00687	CDS	1182		2.6.1.1		Aspartate aminotransferase
+DEOHBMLB_00688	gene	783				
+DEOHBMLB_00688	CDS	783				hypothetical protein
+DEOHBMLB_00689	gene	897	ispE			
+DEOHBMLB_00689	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+DEOHBMLB_00690	gene	492	ycdX			
+DEOHBMLB_00690	CDS	492	ycdX	3.1.3.-		phosphatase YcdX
+DEOHBMLB_00691	gene	864	yvcJ			
+DEOHBMLB_00691	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+DEOHBMLB_00692	gene	870				
+DEOHBMLB_00692	CDS	870				hypothetical protein
+DEOHBMLB_00693	gene	879	rsmA			
+DEOHBMLB_00693	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+DEOHBMLB_00694	gene	645	artM_1			
+DEOHBMLB_00694	CDS	645	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+DEOHBMLB_00695	gene	618	artQ_2			
+DEOHBMLB_00695	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+DEOHBMLB_00696	gene	1005	asnA			
+DEOHBMLB_00696	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+DEOHBMLB_00697	gene	735				
+DEOHBMLB_00697	CDS	735				hypothetical protein
+DEOHBMLB_00698	gene	1191				
+DEOHBMLB_00698	CDS	1191				hypothetical protein
+DEOHBMLB_00699	gene	915	lytC_3			
+DEOHBMLB_00699	CDS	915	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+DEOHBMLB_00700	gene	567	pinR			
+DEOHBMLB_00700	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+DEOHBMLB_00701	gene	867	ybiT_2			
+DEOHBMLB_00701	CDS	867	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+DEOHBMLB_00702	gene	384				
+DEOHBMLB_00702	CDS	384			COG1302	Alkaline shock protein 23
+DEOHBMLB_00703	gene	876				
+DEOHBMLB_00703	CDS	876				hypothetical protein
+DEOHBMLB_00704	gene	636				
+DEOHBMLB_00704	CDS	636				hypothetical protein
+DEOHBMLB_00705	gene	684	hflX			
+DEOHBMLB_00705	CDS	684	hflX		COG2262	GTPase HflX
+DEOHBMLB_00706	gene	531				
+DEOHBMLB_00706	CDS	531				hypothetical protein
+DEOHBMLB_00707	gene	435				
+DEOHBMLB_00707	CDS	435				hypothetical protein
+DEOHBMLB_00708	gene	1095				
+DEOHBMLB_00708	CDS	1095				hypothetical protein
+DEOHBMLB_00709	gene	642	bcrA_2			
+DEOHBMLB_00709	CDS	642	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+DEOHBMLB_00710	gene	576				
+DEOHBMLB_00710	CDS	576				hypothetical protein
+DEOHBMLB_00711	gene	999				
+DEOHBMLB_00711	CDS	999				hypothetical protein
+DEOHBMLB_00712	gene	618	gapA			
+DEOHBMLB_00712	CDS	618	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+DEOHBMLB_00713	gene	456				
+DEOHBMLB_00713	CDS	456				hypothetical protein
+DEOHBMLB_00714	gene	567	ychF_1			
+DEOHBMLB_00714	CDS	567	ychF_1		COG0012	Ribosome-binding ATPase YchF
+DEOHBMLB_00715	gene	450	ychF_2			
+DEOHBMLB_00715	CDS	450	ychF_2		COG0012	Ribosome-binding ATPase YchF
+DEOHBMLB_00716	gene	153				
+DEOHBMLB_00716	CDS	153				hypothetical protein
+DEOHBMLB_00717	gene	1161	resA			
+DEOHBMLB_00717	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+DEOHBMLB_00718	gene	657				
+DEOHBMLB_00718	CDS	657				hypothetical protein
+DEOHBMLB_00719	gene	219				
+DEOHBMLB_00719	CDS	219				hypothetical protein
+DEOHBMLB_00720	gene	624	msrB			
+DEOHBMLB_00720	CDS	624	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+DEOHBMLB_00721	gene	1395	alaS			
+DEOHBMLB_00721	CDS	1395	alaS	6.1.1.7		Alanine--tRNA ligase
+DEOHBMLB_00722	gene	561				
+DEOHBMLB_00722	CDS	561		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+DEOHBMLB_00723	gene	426				
+DEOHBMLB_00723	CDS	426				hypothetical protein
+DEOHBMLB_00724	gene	729	dnaN			
+DEOHBMLB_00724	CDS	729	dnaN		COG0592	Beta sliding clamp
+DEOHBMLB_00725	gene	210				
+DEOHBMLB_00725	CDS	210				hypothetical protein
+DEOHBMLB_00726	gene	1827	rep			
+DEOHBMLB_00726	CDS	1827	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+DEOHBMLB_00727	gene	1581				
+DEOHBMLB_00727	CDS	1581				hypothetical protein
+DEOHBMLB_00728	gene	330				
+DEOHBMLB_00728	CDS	330				hypothetical protein
+DEOHBMLB_00729	gene	363				
+DEOHBMLB_00729	CDS	363				hypothetical protein
+DEOHBMLB_00730	gene	711				
+DEOHBMLB_00730	CDS	711				hypothetical protein
+DEOHBMLB_00731	gene	495				
+DEOHBMLB_00731	CDS	495				hypothetical protein
+DEOHBMLB_00732	gene	1926	ligA			
+DEOHBMLB_00732	CDS	1926	ligA	6.5.1.2		DNA ligase
+DEOHBMLB_00733	gene	723	pyrF			
+DEOHBMLB_00733	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+DEOHBMLB_00734	gene	204				
+DEOHBMLB_00734	CDS	204				hypothetical protein
+DEOHBMLB_00735	gene	840	yqfL			
+DEOHBMLB_00735	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+DEOHBMLB_00736	gene	495	ccpN			
+DEOHBMLB_00736	CDS	495	ccpN		COG0517	Transcriptional repressor CcpN
+DEOHBMLB_00737	gene	1521	argS			
+DEOHBMLB_00737	CDS	1521	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+DEOHBMLB_00738	gene	462				
+DEOHBMLB_00738	CDS	462				hypothetical protein
+DEOHBMLB_00739	gene	699				
+DEOHBMLB_00739	CDS	699				hypothetical protein
+DEOHBMLB_00740	gene	339				
+DEOHBMLB_00740	CDS	339				hypothetical protein
+DEOHBMLB_00741	gene	495	sigM			
+DEOHBMLB_00741	CDS	495	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+DEOHBMLB_00742	gene	777	lytC_4			
+DEOHBMLB_00742	CDS	777	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+DEOHBMLB_00743	gene	1071				
+DEOHBMLB_00743	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+DEOHBMLB_00744	gene	645				
+DEOHBMLB_00744	CDS	645				hypothetical protein
+DEOHBMLB_00745	gene	741				
+DEOHBMLB_00745	CDS	741				hypothetical protein
+DEOHBMLB_00746	gene	822	melC			
+DEOHBMLB_00746	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+DEOHBMLB_00747	gene	873	melD			
+DEOHBMLB_00747	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+DEOHBMLB_00748	gene	426				
+DEOHBMLB_00748	CDS	426			COG0716	Flavodoxin
+DEOHBMLB_00749	gene	585				
+DEOHBMLB_00749	CDS	585				hypothetical protein
+DEOHBMLB_00750	gene	198				
+DEOHBMLB_00750	CDS	198				hypothetical protein
+DEOHBMLB_00751	gene	237				
+DEOHBMLB_00751	CDS	237				hypothetical protein
+DEOHBMLB_00752	gene	576				
+DEOHBMLB_00752	CDS	576				hypothetical protein
+DEOHBMLB_00753	gene	954				
+DEOHBMLB_00753	CDS	954				hypothetical protein
+DEOHBMLB_00754	gene	243				
+DEOHBMLB_00754	CDS	243				hypothetical protein
+DEOHBMLB_00755	gene	327				
+DEOHBMLB_00755	CDS	327				hypothetical protein
+DEOHBMLB_00756	gene	135				
+DEOHBMLB_00756	CDS	135				hypothetical protein
+DEOHBMLB_00757	gene	1404	bioB_2			
+DEOHBMLB_00757	CDS	1404	bioB_2	2.8.1.6		Biotin synthase
+DEOHBMLB_00758	gene	912	cmpR			
+DEOHBMLB_00758	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+DEOHBMLB_00759	gene	201				
+DEOHBMLB_00759	CDS	201				hypothetical protein
+DEOHBMLB_00760	gene	186				
+DEOHBMLB_00760	CDS	186				hypothetical protein
+DEOHBMLB_00761	gene	558	rne			
+DEOHBMLB_00761	CDS	558	rne	3.1.26.12		Ribonuclease E
+DEOHBMLB_00762	gene	921	rbn			
+DEOHBMLB_00762	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+DEOHBMLB_00763	gene	300	crcB_2			
+DEOHBMLB_00763	CDS	300	crcB_2			Putative fluoride ion transporter CrcB
+DEOHBMLB_00764	gene	135	rpmH			
+DEOHBMLB_00764	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+DEOHBMLB_00765	gene	378	rnpA			
+DEOHBMLB_00765	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+DEOHBMLB_00766	gene	264	yidD			
+DEOHBMLB_00766	CDS	264	yidD			Putative membrane protein insertion efficiency factor
+DEOHBMLB_00767	gene	702	yidC2			
+DEOHBMLB_00767	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+DEOHBMLB_00768	gene	804				
+DEOHBMLB_00768	CDS	804				hypothetical protein
+DEOHBMLB_00769	gene	468				
+DEOHBMLB_00769	CDS	468				hypothetical protein
+DEOHBMLB_00770	gene	636	lexA			
+DEOHBMLB_00770	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+DEOHBMLB_00771	gene	528	xerC			
+DEOHBMLB_00771	CDS	528	xerC			Tyrosine recombinase XerC
+DEOHBMLB_00772	gene	588	ecsA			
+DEOHBMLB_00772	CDS	588	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+DEOHBMLB_00773	gene	312				
+DEOHBMLB_00773	CDS	312				hypothetical protein
+DEOHBMLB_00774	gene	864				
+DEOHBMLB_00774	CDS	864				hypothetical protein
+DEOHBMLB_00775	gene	687	ppm1			
+DEOHBMLB_00775	CDS	687	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+DEOHBMLB_00776	gene	969	recA			
+DEOHBMLB_00776	CDS	969	recA		COG0468	Protein RecA
+DEOHBMLB_00777	gene	600	guaB			
+DEOHBMLB_00777	CDS	600	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+DEOHBMLB_00778	gene	246				
+DEOHBMLB_00778	CDS	246				hypothetical protein
+DEOHBMLB_00779	gene	624	fruA			
+DEOHBMLB_00779	CDS	624	fruA		COG1299	PTS system fructose-specific EIIABC component
+DEOHBMLB_00780	gene	828				
+DEOHBMLB_00780	CDS	828				hypothetical protein
+DEOHBMLB_00781	gene	951				
+DEOHBMLB_00781	CDS	951				hypothetical protein
+DEOHBMLB_00782	gene	954	miaA			
+DEOHBMLB_00782	CDS	954	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+DEOHBMLB_00783	gene	810	mutL			
+DEOHBMLB_00783	CDS	810	mutL			DNA mismatch repair protein MutL
+DEOHBMLB_00784	gene	1185	addA_2			
+DEOHBMLB_00784	CDS	1185	addA_2	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+DEOHBMLB_00785	gene	231				
+DEOHBMLB_00785	CDS	231				hypothetical protein
+DEOHBMLB_00786	gene	366				
+DEOHBMLB_00786	CDS	366				hypothetical protein
+DEOHBMLB_00787	gene	123				
+DEOHBMLB_00787	CDS	123				hypothetical protein
+DEOHBMLB_00788	gene	567	fusA_2			
+DEOHBMLB_00788	CDS	567	fusA_2		COG0480	Elongation factor G
+DEOHBMLB_00789	gene	783				
+DEOHBMLB_00789	CDS	783				hypothetical protein
+DEOHBMLB_00790	gene	1134				
+DEOHBMLB_00790	CDS	1134				hypothetical protein
+DEOHBMLB_00791	gene	495				
+DEOHBMLB_00791	CDS	495				hypothetical protein
+DEOHBMLB_00792	gene	171	ywlF			
+DEOHBMLB_00792	CDS	171	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+DEOHBMLB_00793	gene	630	upp			
+DEOHBMLB_00793	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+DEOHBMLB_00794	gene	240				
+DEOHBMLB_00794	CDS	240				hypothetical protein
+DEOHBMLB_00795	gene	1503	atpA			
+DEOHBMLB_00795	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+DEOHBMLB_00796	gene	1170				
+DEOHBMLB_00796	CDS	1170				hypothetical protein
+DEOHBMLB_00797	gene	1185	argH_2			
+DEOHBMLB_00797	CDS	1185	argH_2	4.3.2.1		Argininosuccinate lyase
+DEOHBMLB_00798	gene	1059				
+DEOHBMLB_00798	CDS	1059				hypothetical protein
+DEOHBMLB_00799	gene	450	metN			
+DEOHBMLB_00799	CDS	450	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+DEOHBMLB_00800	gene	588				
+DEOHBMLB_00800	CDS	588				hypothetical protein
+DEOHBMLB_00801	gene	258				
+DEOHBMLB_00801	CDS	258				hypothetical protein
+DEOHBMLB_00802	gene	273				
+DEOHBMLB_00802	CDS	273				hypothetical protein
+DEOHBMLB_00803	gene	855				
+DEOHBMLB_00803	CDS	855				hypothetical protein
+DEOHBMLB_00804	gene	183				
+DEOHBMLB_00804	CDS	183				hypothetical protein
+DEOHBMLB_00805	gene	414	cwlC			
+DEOHBMLB_00805	CDS	414	cwlC	3.5.1.28	COG0860	Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+DEOHBMLB_00806	gene	1107				
+DEOHBMLB_00806	CDS	1107				hypothetical protein
+DEOHBMLB_00807	gene	1803				
+DEOHBMLB_00807	CDS	1803				hypothetical protein
+DEOHBMLB_00808	gene	198	gloC			
+DEOHBMLB_00808	CDS	198	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+DEOHBMLB_00809	gene	1560				
+DEOHBMLB_00809	CDS	1560				hypothetical protein
+DEOHBMLB_00810	gene	342				
+DEOHBMLB_00810	CDS	342				putative protein
+DEOHBMLB_00811	gene	495	nusB			
+DEOHBMLB_00811	CDS	495	nusB			Transcription antitermination protein NusB
+DEOHBMLB_00812	gene	255	apbE			
+DEOHBMLB_00812	CDS	255	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+DEOHBMLB_00813	gene	1503	mutS			
+DEOHBMLB_00813	CDS	1503	mutS			DNA mismatch repair protein MutS
+DEOHBMLB_00814	gene	1104				
+DEOHBMLB_00814	CDS	1104				hypothetical protein
+DEOHBMLB_00815	gene	294	dapA_2			
+DEOHBMLB_00815	CDS	294	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+DEOHBMLB_00816	gene	606	rpsD			
+DEOHBMLB_00816	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+DEOHBMLB_00817	gene	258	artM_2			
+DEOHBMLB_00817	CDS	258	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+DEOHBMLB_00818	gene	354	ugtP_2			
+DEOHBMLB_00818	CDS	354	ugtP_2	2.4.1.315		Processive diacylglycerol beta-glucosyltransferase
+DEOHBMLB_00819	gene	690				
+DEOHBMLB_00819	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+DEOHBMLB_00820	gene	642	copA			
+DEOHBMLB_00820	CDS	642	copA	7.2.2.8		Copper-exporting P-type ATPase
+DEOHBMLB_00821	gene	297				
+DEOHBMLB_00821	CDS	297				hypothetical protein
+DEOHBMLB_00822	gene	285	miaB			
+DEOHBMLB_00822	CDS	285	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+DEOHBMLB_00823	gene	558				
+DEOHBMLB_00823	CDS	558				hypothetical protein
+DEOHBMLB_00824	gene	1131	comEC			
+DEOHBMLB_00824	CDS	1131	comEC		COG0658	ComE operon protein 3
+DEOHBMLB_00825	gene	75				
+DEOHBMLB_00825	tRNA	75				tRNA-Arg(acg)
+DEOHBMLB_00826	gene	636	xseA			
+DEOHBMLB_00826	CDS	636	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+DEOHBMLB_00827	gene	246	xseB			
+DEOHBMLB_00827	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+DEOHBMLB_00828	gene	732				
+DEOHBMLB_00828	CDS	732				hypothetical protein
+DEOHBMLB_00829	gene	234				
+DEOHBMLB_00829	CDS	234				hypothetical protein
+DEOHBMLB_00830	gene	747				
+DEOHBMLB_00830	CDS	747				hypothetical protein
+DEOHBMLB_00831	gene	864	map			
+DEOHBMLB_00831	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+DEOHBMLB_00832	gene	459	infC			
+DEOHBMLB_00832	CDS	459	infC			Translation initiation factor IF-3
+DEOHBMLB_00833	gene	369				
+DEOHBMLB_00833	CDS	369				hypothetical protein
+DEOHBMLB_00834	gene	720				
+DEOHBMLB_00834	CDS	720				hypothetical protein
+DEOHBMLB_00835	gene	291				
+DEOHBMLB_00835	CDS	291				hypothetical protein
+DEOHBMLB_00836	gene	942	glpK			
+DEOHBMLB_00836	CDS	942	glpK	2.7.1.30	COG0554	Glycerol kinase
+DEOHBMLB_00837	gene	1542	dnaE2			
+DEOHBMLB_00837	CDS	1542	dnaE2	2.7.7.7		Error-prone DNA polymerase
+DEOHBMLB_00838	gene	741	tpiA			
+DEOHBMLB_00838	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+DEOHBMLB_00839	gene	309				
+DEOHBMLB_00839	CDS	309				hypothetical protein
+DEOHBMLB_00840	gene	567				
+DEOHBMLB_00840	CDS	567				hypothetical protein
+DEOHBMLB_00841	gene	468				
+DEOHBMLB_00841	CDS	468				hypothetical protein
+DEOHBMLB_00842	gene	708	mutS2			
+DEOHBMLB_00842	CDS	708	mutS2	3.1.-.-		Endonuclease MutS2
+DEOHBMLB_00843	gene	357	rplS			
+DEOHBMLB_00843	CDS	357	rplS		COG0335	50S ribosomal protein L19
+DEOHBMLB_00844	gene	1305	leuC			
+DEOHBMLB_00844	CDS	1305	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+DEOHBMLB_00845	gene	1431	pepD			
+DEOHBMLB_00845	CDS	1431	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+DEOHBMLB_00846	gene	1326	epmA			
+DEOHBMLB_00846	CDS	1326	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+DEOHBMLB_00847	gene	1509				
+DEOHBMLB_00847	CDS	1509				hypothetical protein
+DEOHBMLB_00848	gene	243				
+DEOHBMLB_00848	CDS	243				hypothetical protein
+DEOHBMLB_00849	gene	810				
+DEOHBMLB_00849	CDS	810		1.6.99.3		putative NADH oxidase
+DEOHBMLB_00850	gene	639	addB			
+DEOHBMLB_00850	CDS	639	addB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+DEOHBMLB_00851	gene	213				
+DEOHBMLB_00851	CDS	213				hypothetical protein
+DEOHBMLB_00852	gene	687				
+DEOHBMLB_00852	CDS	687			COG0327	GTP cyclohydrolase 1 type 2 
+DEOHBMLB_00853	gene	114				
+DEOHBMLB_00853	CDS	114				hypothetical protein
+DEOHBMLB_00854	gene	402				
+DEOHBMLB_00854	CDS	402				hypothetical protein
+DEOHBMLB_00855	gene	522	dcd			
+DEOHBMLB_00855	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+DEOHBMLB_00856	gene	717	typA			
+DEOHBMLB_00856	CDS	717	typA		COG1217	GTP-binding protein TypA/BipA 
+DEOHBMLB_00857	gene	705				
+DEOHBMLB_00857	CDS	705				hypothetical protein
+DEOHBMLB_00858	gene	198	carE_2			
+DEOHBMLB_00858	CDS	198	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+DEOHBMLB_00859	gene	1518				
+DEOHBMLB_00859	CDS	1518				hypothetical protein
+DEOHBMLB_00860	gene	333	fur			
+DEOHBMLB_00860	CDS	333	fur		COG0735	Ferric uptake regulation protein
+DEOHBMLB_00861	gene	1083				
+DEOHBMLB_00861	CDS	1083				hypothetical protein
+DEOHBMLB_00862	gene	615				
+DEOHBMLB_00862	CDS	615				hypothetical protein
+DEOHBMLB_00863	gene	1347	trkG			
+DEOHBMLB_00863	CDS	1347	trkG		COG0168	Trk system potassium uptake protein TrkG
+DEOHBMLB_00864	gene	1176	thiH			
+DEOHBMLB_00864	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+DEOHBMLB_00865	gene	189	thiG			
+DEOHBMLB_00865	CDS	189	thiG	2.8.1.10	COG2022	Thiazole synthase
+DEOHBMLB_00866	gene	939				
+DEOHBMLB_00866	CDS	939				hypothetical protein
+DEOHBMLB_00867	gene	660	cmk			
+DEOHBMLB_00867	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+DEOHBMLB_00868	gene	615	plsC			
+DEOHBMLB_00868	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+DEOHBMLB_00869	gene	291				
+DEOHBMLB_00869	CDS	291				hypothetical protein
+DEOHBMLB_00870	gene	762	ribX			
+DEOHBMLB_00870	CDS	762	ribX			Riboflavin transport system permease protein RibX
+DEOHBMLB_00871	gene	711				
+DEOHBMLB_00871	CDS	711				hypothetical protein
+DEOHBMLB_00872	gene	1272	murE_2			
+DEOHBMLB_00872	CDS	1272	murE_2	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+DEOHBMLB_00873	gene	792	rnhB			
+DEOHBMLB_00873	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+DEOHBMLB_00874	gene	210	alr_2			
+DEOHBMLB_00874	CDS	210	alr_2	5.1.1.1		Alanine racemase
+DEOHBMLB_00875	gene	1278	purA			
+DEOHBMLB_00875	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+DEOHBMLB_00876	gene	1317	cca			
+DEOHBMLB_00876	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+DEOHBMLB_00877	gene	798	recD2			
+DEOHBMLB_00877	CDS	798	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+DEOHBMLB_00878	gene	498	glgA			
+DEOHBMLB_00878	CDS	498	glgA	2.4.1.21	COG0297	Glycogen synthase
+DEOHBMLB_00879	gene	468	rimP			
+DEOHBMLB_00879	CDS	468	rimP			Ribosome maturation factor RimP
+DEOHBMLB_00880	gene	390				
+DEOHBMLB_00880	CDS	390				hypothetical protein
+DEOHBMLB_00881	gene	513	pspA			
+DEOHBMLB_00881	CDS	513	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+DEOHBMLB_00882	gene	630				
+DEOHBMLB_00882	CDS	630				putative protein
+DEOHBMLB_00883	gene	168				
+DEOHBMLB_00883	CDS	168				hypothetical protein
+DEOHBMLB_00884	gene	837				
+DEOHBMLB_00884	CDS	837				hypothetical protein
+DEOHBMLB_00885	gene	474				
+DEOHBMLB_00885	CDS	474				hypothetical protein
+DEOHBMLB_00886	gene	198				
+DEOHBMLB_00886	CDS	198				hypothetical protein
+DEOHBMLB_00887	gene	417				
+DEOHBMLB_00887	CDS	417				hypothetical protein
+DEOHBMLB_00888	gene	528				
+DEOHBMLB_00888	CDS	528				hypothetical protein
+DEOHBMLB_00889	gene	600	ispG			
+DEOHBMLB_00889	CDS	600	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+DEOHBMLB_00890	gene	282	arlR			
+DEOHBMLB_00890	CDS	282	arlR		COG0745	Response regulator ArlR
+DEOHBMLB_00891	gene	405				
+DEOHBMLB_00891	CDS	405				hypothetical protein
+DEOHBMLB_00892	gene	561				
+DEOHBMLB_00892	CDS	561				hypothetical protein
+DEOHBMLB_00893	gene	255				
+DEOHBMLB_00893	CDS	255				hypothetical protein

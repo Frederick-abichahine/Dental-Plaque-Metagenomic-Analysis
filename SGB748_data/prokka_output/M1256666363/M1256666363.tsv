@@ -1,0 +1,3301 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GNHACFID_00001	gene	1098				
+GNHACFID_00001	CDS	1098				ISL3 family transposase IS1476
+GNHACFID_00002	gene	921				
+GNHACFID_00002	CDS	921				hypothetical protein
+GNHACFID_00003	gene	507	yfbM			
+GNHACFID_00003	CDS	507	yfbM			Protein YfbM
+GNHACFID_00004	gene	405				
+GNHACFID_00004	CDS	405				hypothetical protein
+GNHACFID_00005	gene	363				
+GNHACFID_00005	CDS	363				hypothetical protein
+GNHACFID_00006	gene	357				
+GNHACFID_00006	CDS	357				hypothetical protein
+GNHACFID_00007	gene	633				
+GNHACFID_00007	CDS	633				hypothetical protein
+GNHACFID_00008	gene	1134				
+GNHACFID_00008	CDS	1134				hypothetical protein
+GNHACFID_00009	gene	495				
+GNHACFID_00009	CDS	495				hypothetical protein
+GNHACFID_00010	gene	723				
+GNHACFID_00010	CDS	723				hypothetical protein
+GNHACFID_00011	gene	618				
+GNHACFID_00011	CDS	618				hypothetical protein
+GNHACFID_00012	gene	1308				
+GNHACFID_00012	CDS	1308				hypothetical protein
+GNHACFID_00013	gene	3702				
+GNHACFID_00013	CDS	3702				hypothetical protein
+GNHACFID_00014	gene	177				
+GNHACFID_00014	CDS	177				hypothetical protein
+GNHACFID_00015	gene	684	tcrA			
+GNHACFID_00015	CDS	684	tcrA		COG0745	Transcriptional regulatory protein TcrA
+GNHACFID_00016	gene	1260	sasA_1			
+GNHACFID_00016	CDS	1260	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+GNHACFID_00017	gene	1578				
+GNHACFID_00017	CDS	1578				hypothetical protein
+GNHACFID_00018	gene	411				
+GNHACFID_00018	CDS	411				hypothetical protein
+GNHACFID_00019	gene	1032				
+GNHACFID_00019	CDS	1032				hypothetical protein
+GNHACFID_00020	gene	834				
+GNHACFID_00020	CDS	834				hypothetical protein
+GNHACFID_00021	gene	732				
+GNHACFID_00021	CDS	732				hypothetical protein
+GNHACFID_00022	gene	1218	dctA			
+GNHACFID_00022	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+GNHACFID_00023	gene	912	pyrB			
+GNHACFID_00023	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+GNHACFID_00024	gene	690	pyrK			
+GNHACFID_00024	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+GNHACFID_00025	gene	903	pyrD			
+GNHACFID_00025	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GNHACFID_00026	gene	582	pyrE			
+GNHACFID_00026	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GNHACFID_00027	gene	774				
+GNHACFID_00027	CDS	774				hypothetical protein
+GNHACFID_00028	gene	675				
+GNHACFID_00028	CDS	675				hypothetical protein
+GNHACFID_00029	gene	1413	ykoD_1			
+GNHACFID_00029	CDS	1413	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GNHACFID_00030	gene	588				
+GNHACFID_00030	CDS	588				hypothetical protein
+GNHACFID_00031	gene	1743	msbA_1			
+GNHACFID_00031	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+GNHACFID_00032	gene	1719				
+GNHACFID_00032	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+GNHACFID_00033	gene	1740				
+GNHACFID_00033	CDS	1740				hypothetical protein
+GNHACFID_00034	gene	600				
+GNHACFID_00034	CDS	600				hypothetical protein
+GNHACFID_00035	gene	672				
+GNHACFID_00035	CDS	672				hypothetical protein
+GNHACFID_00036	gene	174				
+GNHACFID_00036	CDS	174				hypothetical protein
+GNHACFID_00037	gene	354				
+GNHACFID_00037	CDS	354				hypothetical protein
+GNHACFID_00038	gene	450				
+GNHACFID_00038	CDS	450				hypothetical protein
+GNHACFID_00039	gene	1083				
+GNHACFID_00039	CDS	1083				hypothetical protein
+GNHACFID_00040	gene	495	sigM_1			
+GNHACFID_00040	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+GNHACFID_00041	gene	1269				
+GNHACFID_00041	CDS	1269				hypothetical protein
+GNHACFID_00042	gene	549				
+GNHACFID_00042	CDS	549				hypothetical protein
+GNHACFID_00043	gene	2190				
+GNHACFID_00043	CDS	2190				hypothetical protein
+GNHACFID_00044	gene	282				
+GNHACFID_00044	CDS	282				hypothetical protein
+GNHACFID_00045	gene	846	artP_1			
+GNHACFID_00045	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+GNHACFID_00046	gene	675	artQ_1			
+GNHACFID_00046	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+GNHACFID_00047	gene	744	artM_1			
+GNHACFID_00047	CDS	744	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+GNHACFID_00048	gene	606	rpsD			
+GNHACFID_00048	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+GNHACFID_00049	gene	885	dapA_1			
+GNHACFID_00049	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+GNHACFID_00050	gene	1194	sdaB			
+GNHACFID_00050	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+GNHACFID_00051	gene	477				
+GNHACFID_00051	CDS	477				hypothetical protein
+GNHACFID_00052	gene	657				
+GNHACFID_00052	CDS	657				hypothetical protein
+GNHACFID_00053	gene	438				
+GNHACFID_00053	CDS	438				hypothetical protein
+GNHACFID_00054	gene	849				
+GNHACFID_00054	CDS	849				hypothetical protein
+GNHACFID_00055	gene	996	rhaR_1			
+GNHACFID_00055	CDS	996	rhaR_1			HTH-type transcriptional activator RhaR
+GNHACFID_00056	gene	1758	hepA			
+GNHACFID_00056	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+GNHACFID_00057	gene	1725				
+GNHACFID_00057	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+GNHACFID_00058	gene	582				
+GNHACFID_00058	CDS	582				hypothetical protein
+GNHACFID_00059	gene	690	ecfT_1			
+GNHACFID_00059	CDS	690	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+GNHACFID_00060	gene	1371	ykoD_2			
+GNHACFID_00060	CDS	1371	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GNHACFID_00061	gene	795	COQ5_1			
+GNHACFID_00061	CDS	795	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GNHACFID_00062	gene	876	hslO			
+GNHACFID_00062	CDS	876	hslO		COG1281	33 kDa chaperonin
+GNHACFID_00063	gene	735	rsuA			
+GNHACFID_00063	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+GNHACFID_00064	gene	1371	rlmCD_1			
+GNHACFID_00064	CDS	1371	rlmCD_1	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+GNHACFID_00065	gene	453				
+GNHACFID_00065	CDS	453				hypothetical protein
+GNHACFID_00066	gene	894				
+GNHACFID_00066	CDS	894				hypothetical protein
+GNHACFID_00067	gene	1023				
+GNHACFID_00067	CDS	1023				hypothetical protein
+GNHACFID_00068	gene	516				
+GNHACFID_00068	CDS	516				hypothetical protein
+GNHACFID_00069	gene	1011	lytC_1			
+GNHACFID_00069	CDS	1011	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GNHACFID_00070	gene	426	ywnA			
+GNHACFID_00070	CDS	426	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+GNHACFID_00071	gene	1008	adh			
+GNHACFID_00071	CDS	1008	adh	1.1.1.1		Alcohol dehydrogenase
+GNHACFID_00072	gene	855				
+GNHACFID_00072	CDS	855				hypothetical protein
+GNHACFID_00073	gene	435				
+GNHACFID_00073	CDS	435				hypothetical protein
+GNHACFID_00074	gene	837				
+GNHACFID_00074	CDS	837				hypothetical protein
+GNHACFID_00075	gene	297				
+GNHACFID_00075	CDS	297				hypothetical protein
+GNHACFID_00076	gene	636				
+GNHACFID_00076	CDS	636				hypothetical protein
+GNHACFID_00077	gene	675				
+GNHACFID_00077	CDS	675				hypothetical protein
+GNHACFID_00078	gene	678				
+GNHACFID_00078	CDS	678				hypothetical protein
+GNHACFID_00079	gene	654				
+GNHACFID_00079	CDS	654				hypothetical protein
+GNHACFID_00080	gene	1188	norV			
+GNHACFID_00080	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+GNHACFID_00081	gene	552	bioY			
+GNHACFID_00081	CDS	552	bioY		COG1268	Biotin transporter BioY
+GNHACFID_00082	gene	825	aroF			
+GNHACFID_00082	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+GNHACFID_00083	gene	1824	aroB			
+GNHACFID_00083	CDS	1824	aroB	4.2.3.4		3-dehydroquinate synthase
+GNHACFID_00084	gene	852				
+GNHACFID_00084	CDS	852				hypothetical protein
+GNHACFID_00085	gene	1353	mepA_1			
+GNHACFID_00085	CDS	1353	mepA_1		COG0534	Multidrug export protein MepA
+GNHACFID_00086	gene	678	srtA			
+GNHACFID_00086	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+GNHACFID_00087	gene	921				
+GNHACFID_00087	CDS	921				hypothetical protein
+GNHACFID_00088	gene	2244				
+GNHACFID_00088	CDS	2244				hypothetical protein
+GNHACFID_00089	gene	1170				
+GNHACFID_00089	CDS	1170				hypothetical protein
+GNHACFID_00090	gene	1143				
+GNHACFID_00090	CDS	1143				hypothetical protein
+GNHACFID_00091	gene	1677	fhs			
+GNHACFID_00091	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+GNHACFID_00092	gene	1239				
+GNHACFID_00092	CDS	1239				hypothetical protein
+GNHACFID_00093	gene	225				
+GNHACFID_00093	CDS	225				hypothetical protein
+GNHACFID_00094	gene	228				
+GNHACFID_00094	CDS	228				hypothetical protein
+GNHACFID_00095	gene	147				
+GNHACFID_00095	CDS	147				hypothetical protein
+GNHACFID_00096	gene	1473				
+GNHACFID_00096	CDS	1473				hypothetical protein
+GNHACFID_00097	gene	912				
+GNHACFID_00097	CDS	912				hypothetical protein
+GNHACFID_00098	gene	1821				
+GNHACFID_00098	CDS	1821				hypothetical protein
+GNHACFID_00099	gene	522	niaR			
+GNHACFID_00099	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+GNHACFID_00100	gene	774	dtd3			
+GNHACFID_00100	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+GNHACFID_00101	gene	1740				
+GNHACFID_00101	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+GNHACFID_00102	gene	426				
+GNHACFID_00102	CDS	426				hypothetical protein
+GNHACFID_00103	gene	1968				
+GNHACFID_00103	CDS	1968				hypothetical protein
+GNHACFID_00104	gene	1284	brnQ_1			
+GNHACFID_00104	CDS	1284	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+GNHACFID_00105	gene	411				
+GNHACFID_00105	CDS	411				hypothetical protein
+GNHACFID_00106	gene	1338				
+GNHACFID_00106	CDS	1338		1.6.99.3		putative NADH oxidase
+GNHACFID_00107	gene	234				
+GNHACFID_00107	CDS	234				hypothetical protein
+GNHACFID_00108	gene	339				
+GNHACFID_00108	CDS	339				hypothetical protein
+GNHACFID_00109	gene	162				
+GNHACFID_00109	CDS	162				hypothetical protein
+GNHACFID_00110	gene	243				
+GNHACFID_00110	CDS	243				hypothetical protein
+GNHACFID_00111	gene	1077	lytC_2			
+GNHACFID_00111	CDS	1077	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GNHACFID_00112	gene	603				
+GNHACFID_00112	CDS	603				hypothetical protein
+GNHACFID_00113	gene	597				
+GNHACFID_00113	CDS	597				hypothetical protein
+GNHACFID_00114	gene	1062				
+GNHACFID_00114	CDS	1062				hypothetical protein
+GNHACFID_00115	gene	2688				
+GNHACFID_00115	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+GNHACFID_00116	gene	330				
+GNHACFID_00116	CDS	330				hypothetical protein
+GNHACFID_00117	gene	1077	cshE			
+GNHACFID_00117	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+GNHACFID_00118	gene	1974	leuC			
+GNHACFID_00118	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+GNHACFID_00119	gene	1035	icd			
+GNHACFID_00119	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+GNHACFID_00120	gene	888	nadK			
+GNHACFID_00120	CDS	888	nadK	2.7.1.23		NAD kinase
+GNHACFID_00121	gene	933	rluD_1			
+GNHACFID_00121	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+GNHACFID_00122	gene	1011				
+GNHACFID_00122	CDS	1011				hypothetical protein
+GNHACFID_00123	gene	228	acpP_1			
+GNHACFID_00123	CDS	228	acpP_1			Acyl carrier protein
+GNHACFID_00124	gene	1014	ccpA			
+GNHACFID_00124	CDS	1014	ccpA		COG1609	Catabolite control protein A
+GNHACFID_00125	gene	234				
+GNHACFID_00125	CDS	234				hypothetical protein
+GNHACFID_00126	gene	1404	lysN_1			
+GNHACFID_00126	CDS	1404	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+GNHACFID_00127	gene	201				
+GNHACFID_00127	CDS	201				hypothetical protein
+GNHACFID_00128	gene	912	cmpR			
+GNHACFID_00128	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+GNHACFID_00129	gene	85				
+GNHACFID_00129	tRNA	85				tRNA-Leu(caa)
+GNHACFID_00130	gene	2643	polA			
+GNHACFID_00130	CDS	2643	polA	2.7.7.7		DNA polymerase I
+GNHACFID_00131	gene	606	coaE			
+GNHACFID_00131	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+GNHACFID_00132	gene	561	mltC			
+GNHACFID_00132	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+GNHACFID_00133	gene	213				
+GNHACFID_00133	CDS	213				hypothetical protein
+GNHACFID_00134	gene	1431				
+GNHACFID_00134	CDS	1431				hypothetical protein
+GNHACFID_00135	gene	1344	rnfC			
+GNHACFID_00135	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+GNHACFID_00136	gene	987	rnfD			
+GNHACFID_00136	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+GNHACFID_00137	gene	567	rnfG			
+GNHACFID_00137	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+GNHACFID_00138	gene	594	rnfE			
+GNHACFID_00138	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+GNHACFID_00139	gene	576	rnfA			
+GNHACFID_00139	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+GNHACFID_00140	gene	864	rnfB			
+GNHACFID_00140	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+GNHACFID_00141	gene	687				
+GNHACFID_00141	CDS	687				hypothetical protein
+GNHACFID_00142	gene	1050	mreB_1			
+GNHACFID_00142	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+GNHACFID_00143	gene	882				
+GNHACFID_00143	CDS	882				hypothetical protein
+GNHACFID_00144	gene	486				
+GNHACFID_00144	CDS	486				hypothetical protein
+GNHACFID_00145	gene	2898	mrdA			
+GNHACFID_00145	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+GNHACFID_00146	gene	1113	mrdB			
+GNHACFID_00146	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+GNHACFID_00147	gene	1860				
+GNHACFID_00147	CDS	1860				hypothetical protein
+GNHACFID_00148	gene	699				
+GNHACFID_00148	CDS	699				hypothetical protein
+GNHACFID_00149	gene	1401	rne			
+GNHACFID_00149	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+GNHACFID_00150	gene	921	rbn			
+GNHACFID_00150	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+GNHACFID_00151	gene	462	crcB_1			
+GNHACFID_00151	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+GNHACFID_00152	gene	348	crcB_2			
+GNHACFID_00152	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+GNHACFID_00153	gene	624	recX_1			
+GNHACFID_00153	CDS	624	recX_1			Regulatory protein RecX
+GNHACFID_00154	gene	696	nadD			
+GNHACFID_00154	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+GNHACFID_00155	gene	576				
+GNHACFID_00155	CDS	576				hypothetical protein
+GNHACFID_00156	gene	351	rsfS			
+GNHACFID_00156	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+GNHACFID_00157	gene	2421	leuS			
+GNHACFID_00157	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+GNHACFID_00158	gene	936	yijE			
+GNHACFID_00158	CDS	936	yijE			putative cystine transporter YijE
+GNHACFID_00159	gene	309	rplU			
+GNHACFID_00159	CDS	309	rplU		COG0261	50S ribosomal protein L21
+GNHACFID_00160	gene	318				
+GNHACFID_00160	CDS	318				hypothetical protein
+GNHACFID_00161	gene	291	rpmA			
+GNHACFID_00161	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+GNHACFID_00162	gene	1281	obg			
+GNHACFID_00162	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+GNHACFID_00163	gene	390				
+GNHACFID_00163	CDS	390				hypothetical protein
+GNHACFID_00164	gene	1218	tdcB			
+GNHACFID_00164	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+GNHACFID_00165	gene	378	yabJ			
+GNHACFID_00165	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+GNHACFID_00166	gene	2964				
+GNHACFID_00166	CDS	2964				hypothetical protein
+GNHACFID_00167	gene	648	lnrK			
+GNHACFID_00167	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+GNHACFID_00168	gene	1146				
+GNHACFID_00168	CDS	1146				hypothetical protein
+GNHACFID_00169	gene	933	lnrL_1			
+GNHACFID_00169	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+GNHACFID_00170	gene	1119				
+GNHACFID_00170	CDS	1119				hypothetical protein
+GNHACFID_00171	gene	1113				
+GNHACFID_00171	CDS	1113				hypothetical protein
+GNHACFID_00172	gene	597				
+GNHACFID_00172	CDS	597				hypothetical protein
+GNHACFID_00173	gene	378				
+GNHACFID_00173	CDS	378				hypothetical protein
+GNHACFID_00174	gene	2211	kdpB			
+GNHACFID_00174	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+GNHACFID_00175	gene	855				
+GNHACFID_00175	CDS	855				hypothetical protein
+GNHACFID_00176	gene	273				
+GNHACFID_00176	CDS	273				hypothetical protein
+GNHACFID_00177	gene	1119	ribD			
+GNHACFID_00177	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+GNHACFID_00178	gene	657	ribE			
+GNHACFID_00178	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+GNHACFID_00179	gene	1206	ribBA			
+GNHACFID_00179	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+GNHACFID_00180	gene	462	ribH			
+GNHACFID_00180	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+GNHACFID_00181	gene	687	glxR			
+GNHACFID_00181	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+GNHACFID_00182	gene	1011	asrA			
+GNHACFID_00182	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+GNHACFID_00183	gene	801	asrB			
+GNHACFID_00183	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+GNHACFID_00184	gene	972	asrC			
+GNHACFID_00184	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+GNHACFID_00185	gene	771	nirC			
+GNHACFID_00185	CDS	771	nirC		COG2116	Nitrite transporter NirC
+GNHACFID_00186	gene	324				
+GNHACFID_00186	CDS	324				hypothetical protein
+GNHACFID_00187	gene	546				
+GNHACFID_00187	CDS	546				hypothetical protein
+GNHACFID_00188	gene	402				
+GNHACFID_00188	CDS	402				hypothetical protein
+GNHACFID_00189	gene	522	dcd			
+GNHACFID_00189	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+GNHACFID_00190	gene	969	bioB_1			
+GNHACFID_00190	CDS	969	bioB_1	2.8.1.6		Biotin synthase
+GNHACFID_00191	gene	933	hemC			
+GNHACFID_00191	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+GNHACFID_00192	gene	1524	cysG_1			
+GNHACFID_00192	CDS	1524	cysG_1	4.99.1.4		Siroheme synthase
+GNHACFID_00193	gene	969	hemB			
+GNHACFID_00193	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+GNHACFID_00194	gene	477	cysG_2			
+GNHACFID_00194	CDS	477	cysG_2		COG0007	Siroheme synthase
+GNHACFID_00195	gene	2364	pcrA			
+GNHACFID_00195	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+GNHACFID_00196	gene	1428	apeB			
+GNHACFID_00196	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+GNHACFID_00197	gene	525				
+GNHACFID_00197	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+GNHACFID_00198	gene	909	ppaC			
+GNHACFID_00198	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+GNHACFID_00199	gene	1239	queH			
+GNHACFID_00199	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+GNHACFID_00200	gene	810	ecsA_1			
+GNHACFID_00200	CDS	810	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+GNHACFID_00201	gene	1746				
+GNHACFID_00201	CDS	1746				hypothetical protein
+GNHACFID_00202	gene	1227				
+GNHACFID_00202	CDS	1227				hypothetical protein
+GNHACFID_00203	gene	696	ureG			
+GNHACFID_00203	CDS	696	ureG			Urease accessory protein UreG
+GNHACFID_00204	gene	996	btuD_1			
+GNHACFID_00204	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GNHACFID_00205	gene	681	tgnD			
+GNHACFID_00205	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+GNHACFID_00206	gene	993				
+GNHACFID_00206	CDS	993				hypothetical protein
+GNHACFID_00207	gene	522				
+GNHACFID_00207	CDS	522				hypothetical protein
+GNHACFID_00208	gene	600	fbpC			
+GNHACFID_00208	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+GNHACFID_00209	gene	1062	lytC_3			
+GNHACFID_00209	CDS	1062	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GNHACFID_00210	gene	1203	roo			
+GNHACFID_00210	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+GNHACFID_00211	gene	462	dut			
+GNHACFID_00211	CDS	462	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GNHACFID_00212	gene	915	nadA			
+GNHACFID_00212	CDS	915	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GNHACFID_00213	gene	1311	nadB			
+GNHACFID_00213	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+GNHACFID_00214	gene	849	nadC			
+GNHACFID_00214	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GNHACFID_00215	gene	1251	dinB			
+GNHACFID_00215	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+GNHACFID_00216	gene	1440	gnd			
+GNHACFID_00216	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+GNHACFID_00217	gene	1374	zwf			
+GNHACFID_00217	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+GNHACFID_00218	gene	969	trxB			
+GNHACFID_00218	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+GNHACFID_00219	gene	765				
+GNHACFID_00219	CDS	765				hypothetical protein
+GNHACFID_00220	gene	1365	trkA			
+GNHACFID_00220	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+GNHACFID_00221	gene	1452	trkG			
+GNHACFID_00221	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+GNHACFID_00222	gene	1278	purA			
+GNHACFID_00222	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GNHACFID_00223	gene	1425	purB			
+GNHACFID_00223	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+GNHACFID_00224	gene	930				
+GNHACFID_00224	CDS	930				hypothetical protein
+GNHACFID_00225	gene	375				
+GNHACFID_00225	CDS	375				hypothetical protein
+GNHACFID_00226	gene	2019				
+GNHACFID_00226	CDS	2019				hypothetical protein
+GNHACFID_00227	gene	1125				
+GNHACFID_00227	CDS	1125				hypothetical protein
+GNHACFID_00228	gene	918	isdE			
+GNHACFID_00228	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+GNHACFID_00229	gene	1065	isdF			
+GNHACFID_00229	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+GNHACFID_00230	gene	765	fpuC			
+GNHACFID_00230	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+GNHACFID_00231	gene	1461				
+GNHACFID_00231	CDS	1461				hypothetical protein
+GNHACFID_00232	gene	1980	htpG			
+GNHACFID_00232	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+GNHACFID_00233	gene	141				
+GNHACFID_00233	CDS	141				hypothetical protein
+GNHACFID_00234	gene	636	fchA			
+GNHACFID_00234	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+GNHACFID_00235	gene	858	folD			
+GNHACFID_00235	CDS	858	folD			Bifunctional protein FolD protein
+GNHACFID_00236	gene	1587	clcA			
+GNHACFID_00236	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+GNHACFID_00237	gene	1872	yjcD			
+GNHACFID_00237	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+GNHACFID_00238	gene	885				
+GNHACFID_00238	CDS	885				hypothetical protein
+GNHACFID_00239	gene	858	pdxS			
+GNHACFID_00239	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GNHACFID_00240	gene	1362	gabR			
+GNHACFID_00240	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+GNHACFID_00241	gene	300				
+GNHACFID_00241	CDS	300				hypothetical protein
+GNHACFID_00242	gene	1173				
+GNHACFID_00242	CDS	1173				hypothetical protein
+GNHACFID_00243	gene	1227	dltD			
+GNHACFID_00243	CDS	1227	dltD		COG3966	Protein DltD
+GNHACFID_00244	gene	126				
+GNHACFID_00244	CDS	126				hypothetical protein
+GNHACFID_00245	gene	1599	dltA			
+GNHACFID_00245	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+GNHACFID_00246	gene	1161				
+GNHACFID_00246	CDS	1161				hypothetical protein
+GNHACFID_00247	gene	237	dltC			
+GNHACFID_00247	CDS	237	dltC		COG0236	D-alanyl carrier protein
+GNHACFID_00248	gene	2403				
+GNHACFID_00248	CDS	2403				hypothetical protein
+GNHACFID_00249	gene	2109	nrdE			
+GNHACFID_00249	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+GNHACFID_00250	gene	987	nrdF			
+GNHACFID_00250	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+GNHACFID_00251	gene	525				
+GNHACFID_00251	CDS	525				hypothetical protein
+GNHACFID_00252	gene	651				
+GNHACFID_00252	CDS	651				hypothetical protein
+GNHACFID_00253	gene	465				
+GNHACFID_00253	CDS	465				hypothetical protein
+GNHACFID_00254	gene	1164	ugtP_1			
+GNHACFID_00254	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+GNHACFID_00255	gene	690				
+GNHACFID_00255	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+GNHACFID_00256	gene	1044				
+GNHACFID_00256	CDS	1044				hypothetical protein
+GNHACFID_00257	gene	1347	rpoN			
+GNHACFID_00257	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+GNHACFID_00258	gene	1293				
+GNHACFID_00258	CDS	1293				hypothetical protein
+GNHACFID_00259	gene	1233				
+GNHACFID_00259	CDS	1233				hypothetical protein
+GNHACFID_00260	gene	1728	ade			
+GNHACFID_00260	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+GNHACFID_00261	gene	189	rpmB			
+GNHACFID_00261	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+GNHACFID_00262	gene	351				
+GNHACFID_00262	CDS	351				putative protein
+GNHACFID_00263	gene	1665				
+GNHACFID_00263	CDS	1665				putative protein
+GNHACFID_00264	gene	2058	recG			
+GNHACFID_00264	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+GNHACFID_00265	gene	561	rsmD			
+GNHACFID_00265	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+GNHACFID_00266	gene	483	coaD			
+GNHACFID_00266	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+GNHACFID_00267	gene	546				
+GNHACFID_00267	CDS	546			COG3599	putative protein
+GNHACFID_00268	gene	1311	tmcAL			
+GNHACFID_00268	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+GNHACFID_00269	gene	1200	ackA			
+GNHACFID_00269	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+GNHACFID_00270	gene	519				
+GNHACFID_00270	CDS	519				hypothetical protein
+GNHACFID_00271	gene	180	rpmF			
+GNHACFID_00271	CDS	180	rpmF			50S ribosomal protein L32
+GNHACFID_00272	gene	1017	plsX			
+GNHACFID_00272	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+GNHACFID_00273	gene	1977	fbp			
+GNHACFID_00273	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+GNHACFID_00274	gene	342				
+GNHACFID_00274	CDS	342				putative protein
+GNHACFID_00275	gene	495	nusB			
+GNHACFID_00275	CDS	495	nusB			Transcription antitermination protein NusB
+GNHACFID_00276	gene	597				
+GNHACFID_00276	CDS	597				hypothetical protein
+GNHACFID_00277	gene	2472				
+GNHACFID_00277	CDS	2472				hypothetical protein
+GNHACFID_00278	gene	1368	mepA_2			
+GNHACFID_00278	CDS	1368	mepA_2			Multidrug export protein MepA
+GNHACFID_00279	gene	705				
+GNHACFID_00279	CDS	705				hypothetical protein
+GNHACFID_00280	gene	243				
+GNHACFID_00280	CDS	243				hypothetical protein
+GNHACFID_00281	gene	411				
+GNHACFID_00281	CDS	411				hypothetical protein
+GNHACFID_00282	gene	93				
+GNHACFID_00282	CDS	93				hypothetical protein
+GNHACFID_00283	gene	648				
+GNHACFID_00283	CDS	648				hypothetical protein
+GNHACFID_00284	gene	1191				
+GNHACFID_00284	CDS	1191				hypothetical protein
+GNHACFID_00285	gene	1101	dhaD			
+GNHACFID_00285	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+GNHACFID_00286	gene	189				
+GNHACFID_00286	CDS	189				Rubredoxin
+GNHACFID_00287	gene	549	chrA1			
+GNHACFID_00287	CDS	549	chrA1			Chromate transport protein
+GNHACFID_00288	gene	561				
+GNHACFID_00288	CDS	561				hypothetical protein
+GNHACFID_00289	gene	603				
+GNHACFID_00289	CDS	603				hypothetical protein
+GNHACFID_00290	gene	864	map			
+GNHACFID_00290	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+GNHACFID_00291	gene	459	infC			
+GNHACFID_00291	CDS	459	infC			Translation initiation factor IF-3
+GNHACFID_00292	gene	198	rpmI			
+GNHACFID_00292	CDS	198	rpmI			50S ribosomal protein L35
+GNHACFID_00293	gene	357	rplT			
+GNHACFID_00293	CDS	357	rplT			50S ribosomal protein L20
+GNHACFID_00294	gene	342				
+GNHACFID_00294	CDS	342				hypothetical protein
+GNHACFID_00295	gene	642				
+GNHACFID_00295	CDS	642				hypothetical protein
+GNHACFID_00296	gene	567				
+GNHACFID_00296	CDS	567				hypothetical protein
+GNHACFID_00297	gene	498	ruvC			
+GNHACFID_00297	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+GNHACFID_00298	gene	612	ruvA			
+GNHACFID_00298	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+GNHACFID_00299	gene	1014	ruvB_1			
+GNHACFID_00299	CDS	1014	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+GNHACFID_00300	gene	1026	queA			
+GNHACFID_00300	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+GNHACFID_00301	gene	1119	tgt			
+GNHACFID_00301	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+GNHACFID_00302	gene	321	yajC			
+GNHACFID_00302	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+GNHACFID_00303	gene	144				
+GNHACFID_00303	CDS	144				hypothetical protein
+GNHACFID_00304	gene	954	lytC_4			
+GNHACFID_00304	CDS	954	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GNHACFID_00305	gene	1992				
+GNHACFID_00305	CDS	1992				hypothetical protein
+GNHACFID_00306	gene	1371	ntpJ			
+GNHACFID_00306	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+GNHACFID_00307	gene	675	ktrA			
+GNHACFID_00307	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+GNHACFID_00308	gene	771	aviRb			
+GNHACFID_00308	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+GNHACFID_00309	gene	606	ccpN			
+GNHACFID_00309	CDS	606	ccpN		COG0517	Transcriptional repressor CcpN
+GNHACFID_00310	gene	840	yqfL			
+GNHACFID_00310	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+GNHACFID_00311	gene	2646	ppdK			
+GNHACFID_00311	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+GNHACFID_00312	gene	624				
+GNHACFID_00312	CDS	624				hypothetical protein
+GNHACFID_00313	gene	612				
+GNHACFID_00313	CDS	612				hypothetical protein
+GNHACFID_00314	gene	669	ecfT_2			
+GNHACFID_00314	CDS	669	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+GNHACFID_00315	gene	1425	ykoD_3			
+GNHACFID_00315	CDS	1425	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GNHACFID_00316	gene	1713	irtA			
+GNHACFID_00316	CDS	1713	irtA	3.6.3.-	COG1132	Iron import ATP-binding/permease protein IrtA
+GNHACFID_00317	gene	1737	msbA_2			
+GNHACFID_00317	CDS	1737	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+GNHACFID_00318	gene	726	gamA			
+GNHACFID_00318	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+GNHACFID_00319	gene	1695	pgcA			
+GNHACFID_00319	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+GNHACFID_00320	gene	561	efp			
+GNHACFID_00320	CDS	561	efp		COG0231	Elongation factor P
+GNHACFID_00321	gene	708	rnc			
+GNHACFID_00321	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+GNHACFID_00322	gene	1071				
+GNHACFID_00322	CDS	1071				hypothetical protein
+GNHACFID_00323	gene	3552	smc_1			
+GNHACFID_00323	CDS	3552	smc_1		COG1196	Chromosome partition protein Smc
+GNHACFID_00324	gene	1272	ftsY			
+GNHACFID_00324	CDS	1272	ftsY			Signal recognition particle receptor FtsY
+GNHACFID_00325	gene	2574				
+GNHACFID_00325	CDS	2574				hypothetical protein
+GNHACFID_00326	gene	4422				
+GNHACFID_00326	CDS	4422				hypothetical protein
+GNHACFID_00327	gene	930	xerC_1			
+GNHACFID_00327	CDS	930	xerC_1			Tyrosine recombinase XerC
+GNHACFID_00328	gene	1944	yjcS			
+GNHACFID_00328	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+GNHACFID_00329	gene	1326				
+GNHACFID_00329	CDS	1326				hypothetical protein
+GNHACFID_00330	gene	729	rsmG			
+GNHACFID_00330	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+GNHACFID_00331	gene	1881	mnmG			
+GNHACFID_00331	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+GNHACFID_00332	gene	1380	mnmE_1			
+GNHACFID_00332	CDS	1380	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+GNHACFID_00333	gene	75				
+GNHACFID_00333	tRNA	75				tRNA-Arg(acg)
+GNHACFID_00334	gene	1317	cpdA_1			
+GNHACFID_00334	CDS	1317	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GNHACFID_00335	gene	186				
+GNHACFID_00335	CDS	186				hypothetical protein
+GNHACFID_00336	gene	609				
+GNHACFID_00336	CDS	609				hypothetical protein
+GNHACFID_00337	gene	540				
+GNHACFID_00337	CDS	540				hypothetical protein
+GNHACFID_00338	gene	1170				
+GNHACFID_00338	CDS	1170				hypothetical protein
+GNHACFID_00339	gene	1227				
+GNHACFID_00339	CDS	1227		3.4.11.-		Aminopeptidase 2
+GNHACFID_00340	gene	582				
+GNHACFID_00340	CDS	582				hypothetical protein
+GNHACFID_00341	gene	552				
+GNHACFID_00341	CDS	552				hypothetical protein
+GNHACFID_00342	gene	765	rhaR_2			
+GNHACFID_00342	CDS	765	rhaR_2			HTH-type transcriptional activator RhaR
+GNHACFID_00343	gene	693	ispD			
+GNHACFID_00343	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+GNHACFID_00344	gene	489	ispF			
+GNHACFID_00344	CDS	489	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+GNHACFID_00345	gene	1281	ugd			
+GNHACFID_00345	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+GNHACFID_00346	gene	423	rpsL			
+GNHACFID_00346	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+GNHACFID_00347	gene	471	rpsG			
+GNHACFID_00347	CDS	471	rpsG			30S ribosomal protein S7
+GNHACFID_00348	gene	2067	fusA_1			
+GNHACFID_00348	CDS	2067	fusA_1		COG0480	Elongation factor G
+GNHACFID_00349	gene	1194	tuf			
+GNHACFID_00349	CDS	1194	tuf		COG0050	Elongation factor Tu
+GNHACFID_00350	gene	828	exoA			
+GNHACFID_00350	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+GNHACFID_00351	gene	1206	lysC			
+GNHACFID_00351	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+GNHACFID_00352	gene	984	asd_1			
+GNHACFID_00352	CDS	984	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+GNHACFID_00353	gene	900	dapA_2			
+GNHACFID_00353	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+GNHACFID_00354	gene	732	dapB			
+GNHACFID_00354	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+GNHACFID_00355	gene	720	dapH			
+GNHACFID_00355	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+GNHACFID_00356	gene	1152	scmP			
+GNHACFID_00356	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+GNHACFID_00357	gene	1077	alr			
+GNHACFID_00357	CDS	1077	alr	5.1.1.1		Alanine racemase
+GNHACFID_00358	gene	1296	lysA			
+GNHACFID_00358	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+GNHACFID_00359	gene	228				
+GNHACFID_00359	CDS	228				IS200/IS605 family transposase ISDha13
+GNHACFID_00360	gene	1086				
+GNHACFID_00360	CDS	1086				hypothetical protein
+GNHACFID_00361	gene	1281	serS			
+GNHACFID_00361	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GNHACFID_00362	gene	234				
+GNHACFID_00362	CDS	234				hypothetical protein
+GNHACFID_00363	gene	1377	alsT_1			
+GNHACFID_00363	CDS	1377	alsT_1		COG1115	Amino-acid carrier protein AlsT
+GNHACFID_00364	gene	195				
+GNHACFID_00364	CDS	195				hypothetical protein
+GNHACFID_00365	gene	729				
+GNHACFID_00365	CDS	729				hypothetical protein
+GNHACFID_00366	gene	768	thiG			
+GNHACFID_00366	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+GNHACFID_00367	gene	1176	thiH			
+GNHACFID_00367	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+GNHACFID_00368	gene	1176	tadA			
+GNHACFID_00368	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+GNHACFID_00369	gene	1635				
+GNHACFID_00369	CDS	1635				hypothetical protein
+GNHACFID_00370	gene	90				
+GNHACFID_00370	tRNA	90				tRNA-Ser(gga)
+GNHACFID_00371	gene	387	hlyB			
+GNHACFID_00371	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+GNHACFID_00372	gene	279				
+GNHACFID_00372	CDS	279				hypothetical protein
+GNHACFID_00373	gene	1233				
+GNHACFID_00373	CDS	1233				IS256 family transposase ISCth4
+GNHACFID_00374	gene	714				
+GNHACFID_00374	CDS	714				hypothetical protein
+GNHACFID_00375	gene	864				
+GNHACFID_00375	CDS	864				hypothetical protein
+GNHACFID_00376	gene	618				
+GNHACFID_00376	CDS	618				hypothetical protein
+GNHACFID_00377	gene	114				
+GNHACFID_00377	CDS	114				hypothetical protein
+GNHACFID_00378	gene	1050				
+GNHACFID_00378	CDS	1050			COG2826	IS30 family transposase ISHahy9
+GNHACFID_00379	gene	642				
+GNHACFID_00379	CDS	642				hypothetical protein
+GNHACFID_00380	gene	1158	iscS			
+GNHACFID_00380	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+GNHACFID_00381	gene	1188	thiI			
+GNHACFID_00381	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+GNHACFID_00382	gene	963				
+GNHACFID_00382	CDS	963				hypothetical protein
+GNHACFID_00383	gene	1650				
+GNHACFID_00383	CDS	1650				hypothetical protein
+GNHACFID_00384	gene	2376				
+GNHACFID_00384	CDS	2376				hypothetical protein
+GNHACFID_00385	gene	1617	deaD			
+GNHACFID_00385	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+GNHACFID_00386	gene	2766	mtgA_1			
+GNHACFID_00386	CDS	2766	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+GNHACFID_00387	gene	1551	ybiT_1			
+GNHACFID_00387	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+GNHACFID_00388	gene	1551	rsxB_1			
+GNHACFID_00388	CDS	1551	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GNHACFID_00389	gene	2652	valS			
+GNHACFID_00389	CDS	2652	valS	6.1.1.9		Valine--tRNA ligase
+GNHACFID_00390	gene	678	purC			
+GNHACFID_00390	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GNHACFID_00391	gene	1431	pepD_1			
+GNHACFID_00391	CDS	1431	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+GNHACFID_00392	gene	1365	murE_1			
+GNHACFID_00392	CDS	1365	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+GNHACFID_00393	gene	741	mta			
+GNHACFID_00393	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+GNHACFID_00394	gene	1638	hcp			
+GNHACFID_00394	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+GNHACFID_00395	gene	627				
+GNHACFID_00395	CDS	627				hypothetical protein
+GNHACFID_00396	gene	1260	dacF			
+GNHACFID_00396	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+GNHACFID_00397	gene	531				
+GNHACFID_00397	CDS	531				hypothetical protein
+GNHACFID_00398	gene	1314	hflX			
+GNHACFID_00398	CDS	1314	hflX		COG2262	GTPase HflX
+GNHACFID_00399	gene	1413	alsT_2			
+GNHACFID_00399	CDS	1413	alsT_2		COG1115	Amino-acid carrier protein AlsT
+GNHACFID_00400	gene	267				
+GNHACFID_00400	CDS	267				hypothetical protein
+GNHACFID_00401	gene	1590	clsA_1			
+GNHACFID_00401	CDS	1590	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+GNHACFID_00402	gene	135				
+GNHACFID_00402	CDS	135				hypothetical protein
+GNHACFID_00403	gene	1335				
+GNHACFID_00403	CDS	1335				hypothetical protein
+GNHACFID_00404	gene	864	gloB_1			
+GNHACFID_00404	CDS	864	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+GNHACFID_00405	gene	390				
+GNHACFID_00405	CDS	390				hypothetical protein
+GNHACFID_00406	gene	882				
+GNHACFID_00406	CDS	882		3.2.1.-		Protein-ADP-ribose hydrolase
+GNHACFID_00407	gene	2367				
+GNHACFID_00407	CDS	2367				hypothetical protein
+GNHACFID_00408	gene	1161	resA			
+GNHACFID_00408	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+GNHACFID_00409	gene	891				
+GNHACFID_00409	CDS	891				hypothetical protein
+GNHACFID_00410	gene	1278				
+GNHACFID_00410	CDS	1278				hypothetical protein
+GNHACFID_00411	gene	645				
+GNHACFID_00411	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+GNHACFID_00412	gene	1377				
+GNHACFID_00412	CDS	1377				hypothetical protein
+GNHACFID_00413	gene	654	qseB			
+GNHACFID_00413	CDS	654	qseB			Transcriptional regulatory protein QseB
+GNHACFID_00414	gene	1320	sasA_2			
+GNHACFID_00414	CDS	1320	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+GNHACFID_00415	gene	372	acpS			
+GNHACFID_00415	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+GNHACFID_00416	gene	813	aptA_1			
+GNHACFID_00416	CDS	813	aptA_1	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+GNHACFID_00417	gene	936	aptB_1			
+GNHACFID_00417	CDS	936	aptB_1	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+GNHACFID_00418	gene	1173	ctpB			
+GNHACFID_00418	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+GNHACFID_00419	gene	1083	cobT			
+GNHACFID_00419	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+GNHACFID_00420	gene	588	cobU			
+GNHACFID_00420	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+GNHACFID_00421	gene	771	cobS			
+GNHACFID_00421	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+GNHACFID_00422	gene	639	pspA_1			
+GNHACFID_00422	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GNHACFID_00423	gene	1503	cobQ			
+GNHACFID_00423	CDS	1503	cobQ			Cobyric acid synthase
+GNHACFID_00424	gene	1395	cbiA			
+GNHACFID_00424	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+GNHACFID_00425	gene	1041	cbiB			
+GNHACFID_00425	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+GNHACFID_00426	gene	1092	cobD			
+GNHACFID_00426	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+GNHACFID_00427	gene	885	pduX			
+GNHACFID_00427	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+GNHACFID_00428	gene	639	cbiC			
+GNHACFID_00428	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+GNHACFID_00429	gene	1167	cbiD			
+GNHACFID_00429	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+GNHACFID_00430	gene	720	cbiE			
+GNHACFID_00430	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+GNHACFID_00431	gene	567	cbiT			
+GNHACFID_00431	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+GNHACFID_00432	gene	759	cbiF			
+GNHACFID_00432	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+GNHACFID_00433	gene	1200	cbiG			
+GNHACFID_00433	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+GNHACFID_00434	gene	726	cbiH			
+GNHACFID_00434	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+GNHACFID_00435	gene	765	cbiJ			
+GNHACFID_00435	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+GNHACFID_00436	gene	1545				
+GNHACFID_00436	CDS	1545				hypothetical protein
+GNHACFID_00437	gene	1104				
+GNHACFID_00437	CDS	1104				hypothetical protein
+GNHACFID_00438	gene	906				
+GNHACFID_00438	CDS	906				hypothetical protein
+GNHACFID_00439	gene	924	fba			
+GNHACFID_00439	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+GNHACFID_00440	gene	552	hpf			
+GNHACFID_00440	CDS	552	hpf			Ribosome hibernation promotion factor
+GNHACFID_00441	gene	1059				
+GNHACFID_00441	CDS	1059			COG1702	PhoH-like protein
+GNHACFID_00442	gene	462	ybeY			
+GNHACFID_00442	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+GNHACFID_00443	gene	897				
+GNHACFID_00443	CDS	897				hypothetical protein
+GNHACFID_00444	gene	903	era			
+GNHACFID_00444	CDS	903	era			GTPase Era
+GNHACFID_00445	gene	1377				
+GNHACFID_00445	CDS	1377			COG2239	Magnesium transporter MgtE
+GNHACFID_00446	gene	747	recO			
+GNHACFID_00446	CDS	747	recO		COG1381	DNA repair protein RecO
+GNHACFID_00447	gene	609				
+GNHACFID_00447	CDS	609				hypothetical protein
+GNHACFID_00448	gene	885	glyQ			
+GNHACFID_00448	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+GNHACFID_00449	gene	2070	glyS			
+GNHACFID_00449	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+GNHACFID_00450	gene	567	pinR			
+GNHACFID_00450	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+GNHACFID_00451	gene	1620	ybiT_2			
+GNHACFID_00451	CDS	1620	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+GNHACFID_00452	gene	1374	adeP			
+GNHACFID_00452	CDS	1374	adeP		COG2252	Adenine permease AdeP
+GNHACFID_00453	gene	684	czcR			
+GNHACFID_00453	CDS	684	czcR			Transcriptional activator protein CzcR
+GNHACFID_00454	gene	297				
+GNHACFID_00454	CDS	297				hypothetical protein
+GNHACFID_00455	gene	2268	copA			
+GNHACFID_00455	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+GNHACFID_00456	gene	201				
+GNHACFID_00456	CDS	201				hypothetical protein
+GNHACFID_00457	gene	1839	typA			
+GNHACFID_00457	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+GNHACFID_00458	gene	705				
+GNHACFID_00458	CDS	705				hypothetical protein
+GNHACFID_00459	gene	936	corA			
+GNHACFID_00459	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+GNHACFID_00460	gene	1851				
+GNHACFID_00460	CDS	1851				hypothetical protein
+GNHACFID_00461	gene	1101				
+GNHACFID_00461	CDS	1101				hypothetical protein
+GNHACFID_00462	gene	1260				
+GNHACFID_00462	CDS	1260				hypothetical protein
+GNHACFID_00463	gene	906				
+GNHACFID_00463	CDS	906				hypothetical protein
+GNHACFID_00464	gene	795				
+GNHACFID_00464	CDS	795				hypothetical protein
+GNHACFID_00465	gene	720				
+GNHACFID_00465	CDS	720		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+GNHACFID_00466	gene	417				
+GNHACFID_00466	CDS	417				hypothetical protein
+GNHACFID_00467	gene	843				
+GNHACFID_00467	CDS	843				hypothetical protein
+GNHACFID_00468	gene	1353	mepA_3			
+GNHACFID_00468	CDS	1353	mepA_3		COG0534	Multidrug export protein MepA
+GNHACFID_00469	gene	1437	rcsC			
+GNHACFID_00469	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+GNHACFID_00470	gene	696	walR			
+GNHACFID_00470	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+GNHACFID_00471	gene	1365				
+GNHACFID_00471	CDS	1365				hypothetical protein
+GNHACFID_00472	gene	1149	rlmL_1			
+GNHACFID_00472	CDS	1149	rlmL_1		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+GNHACFID_00473	gene	1137				
+GNHACFID_00473	CDS	1137				TelA-like protein
+GNHACFID_00474	gene	1155				
+GNHACFID_00474	CDS	1155				hypothetical protein
+GNHACFID_00475	gene	645	artM_2			
+GNHACFID_00475	CDS	645	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+GNHACFID_00476	gene	618	artQ_2			
+GNHACFID_00476	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+GNHACFID_00477	gene	801	artJ			
+GNHACFID_00477	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+GNHACFID_00478	gene	1326				
+GNHACFID_00478	CDS	1326				hypothetical protein
+GNHACFID_00479	gene	4305				
+GNHACFID_00479	CDS	4305				hypothetical protein
+GNHACFID_00480	gene	1020	gap_1			
+GNHACFID_00480	CDS	1020	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+GNHACFID_00481	gene	339				
+GNHACFID_00481	CDS	339				hypothetical protein
+GNHACFID_00482	gene	741				
+GNHACFID_00482	CDS	741				hypothetical protein
+GNHACFID_00483	gene	1158				
+GNHACFID_00483	CDS	1158				hypothetical protein
+GNHACFID_00484	gene	1383	dinG			
+GNHACFID_00484	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+GNHACFID_00485	gene	852				
+GNHACFID_00485	CDS	852				hypothetical protein
+GNHACFID_00486	gene	885				
+GNHACFID_00486	CDS	885				hypothetical protein
+GNHACFID_00487	gene	4311	polC_1			
+GNHACFID_00487	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+GNHACFID_00488	gene	699				
+GNHACFID_00488	CDS	699				hypothetical protein
+GNHACFID_00489	gene	786				
+GNHACFID_00489	CDS	786				hypothetical protein
+GNHACFID_00490	gene	1860				
+GNHACFID_00490	CDS	1860				hypothetical protein
+GNHACFID_00491	gene	834	thyA			
+GNHACFID_00491	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+GNHACFID_00492	gene	510	folA			
+GNHACFID_00492	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+GNHACFID_00493	gene	3711				
+GNHACFID_00493	CDS	3711				hypothetical protein
+GNHACFID_00494	gene	4719				
+GNHACFID_00494	CDS	4719				hypothetical protein
+GNHACFID_00495	gene	318				
+GNHACFID_00495	CDS	318				hypothetical protein
+GNHACFID_00496	gene	1278	sasA_3			
+GNHACFID_00496	CDS	1278	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+GNHACFID_00497	gene	675	arlR			
+GNHACFID_00497	CDS	675	arlR		COG0745	Response regulator ArlR
+GNHACFID_00498	gene	555				
+GNHACFID_00498	CDS	555				hypothetical protein
+GNHACFID_00499	gene	1761				
+GNHACFID_00499	CDS	1761				hypothetical protein
+GNHACFID_00500	gene	1515				
+GNHACFID_00500	CDS	1515				hypothetical protein
+GNHACFID_00501	gene	441				
+GNHACFID_00501	CDS	441				hypothetical protein
+GNHACFID_00502	gene	750	cobB			
+GNHACFID_00502	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+GNHACFID_00503	gene	519	scpB			
+GNHACFID_00503	CDS	519	scpB		COG1386	Segregation and condensation protein B
+GNHACFID_00504	gene	762	scpA			
+GNHACFID_00504	CDS	762	scpA		COG1354	Segregation and condensation protein A
+GNHACFID_00505	gene	633				
+GNHACFID_00505	CDS	633				hypothetical protein
+GNHACFID_00506	gene	1671	rnjA			
+GNHACFID_00506	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+GNHACFID_00507	gene	750				
+GNHACFID_00507	CDS	750				hypothetical protein
+GNHACFID_00508	gene	1500	guaB			
+GNHACFID_00508	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+GNHACFID_00509	gene	603				
+GNHACFID_00509	CDS	603				hypothetical protein
+GNHACFID_00510	gene	600	maf			
+GNHACFID_00510	CDS	600	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+GNHACFID_00511	gene	1182	fieF			
+GNHACFID_00511	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+GNHACFID_00512	gene	792				
+GNHACFID_00512	CDS	792				hypothetical protein
+GNHACFID_00513	gene	303				
+GNHACFID_00513	CDS	303				hypothetical protein
+GNHACFID_00514	gene	1218				
+GNHACFID_00514	CDS	1218		6.3.1.12		D-aspartate ligase
+GNHACFID_00515	gene	720				
+GNHACFID_00515	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+GNHACFID_00516	gene	1488	murE_2			
+GNHACFID_00516	CDS	1488	murE_2	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+GNHACFID_00517	gene	1476				
+GNHACFID_00517	CDS	1476				hypothetical protein
+GNHACFID_00518	gene	513	sigM_2			
+GNHACFID_00518	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+GNHACFID_00519	gene	1098	ychF			
+GNHACFID_00519	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+GNHACFID_00520	gene	456				
+GNHACFID_00520	CDS	456				hypothetical protein
+GNHACFID_00521	gene	1260				
+GNHACFID_00521	CDS	1260				hypothetical protein
+GNHACFID_00522	gene	1293				
+GNHACFID_00522	CDS	1293				hypothetical protein
+GNHACFID_00523	gene	750	lgt			
+GNHACFID_00523	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+GNHACFID_00524	gene	936	rsmH			
+GNHACFID_00524	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+GNHACFID_00525	gene	1410	murF			
+GNHACFID_00525	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GNHACFID_00526	gene	966	mraY			
+GNHACFID_00526	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GNHACFID_00527	gene	1365	murD			
+GNHACFID_00527	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GNHACFID_00528	gene	1098	murG			
+GNHACFID_00528	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GNHACFID_00529	gene	1161	ftsZ			
+GNHACFID_00529	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+GNHACFID_00530	gene	468	nrdR			
+GNHACFID_00530	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+GNHACFID_00531	gene	681	phoP_1			
+GNHACFID_00531	CDS	681	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+GNHACFID_00532	gene	1281	walK			
+GNHACFID_00532	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+GNHACFID_00533	gene	1329	der			
+GNHACFID_00533	CDS	1329	der		COG1160	GTPase Der
+GNHACFID_00534	gene	609	plsY			
+GNHACFID_00534	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+GNHACFID_00535	gene	1011	gpsA			
+GNHACFID_00535	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+GNHACFID_00536	gene	702				
+GNHACFID_00536	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+GNHACFID_00537	gene	495	sepF			
+GNHACFID_00537	CDS	495	sepF			Cell division protein SepF
+GNHACFID_00538	gene	258				
+GNHACFID_00538	CDS	258				hypothetical protein
+GNHACFID_00539	gene	786				
+GNHACFID_00539	CDS	786				hypothetical protein
+GNHACFID_00540	gene	654	gpsB			
+GNHACFID_00540	CDS	654	gpsB			Cell cycle protein GpsB
+GNHACFID_00541	gene	3123	mupA			
+GNHACFID_00541	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+GNHACFID_00542	gene	816				
+GNHACFID_00542	CDS	816				hypothetical protein
+GNHACFID_00543	gene	825				
+GNHACFID_00543	CDS	825				hypothetical protein
+GNHACFID_00544	gene	1884				
+GNHACFID_00544	CDS	1884				hypothetical protein
+GNHACFID_00545	gene	951				
+GNHACFID_00545	CDS	951				hypothetical protein
+GNHACFID_00546	gene	693	glmU_1			
+GNHACFID_00546	CDS	693	glmU_1	2.7.7.23		Bifunctional protein GlmU
+GNHACFID_00547	gene	1176	bdhA			
+GNHACFID_00547	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+GNHACFID_00548	gene	762	rpsB			
+GNHACFID_00548	CDS	762	rpsB			30S ribosomal protein S2
+GNHACFID_00549	gene	909	tsf			
+GNHACFID_00549	CDS	909	tsf		COG0264	Elongation factor Ts
+GNHACFID_00550	gene	708	pyrH			
+GNHACFID_00550	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GNHACFID_00551	gene	558	frr			
+GNHACFID_00551	CDS	558	frr		COG0233	Ribosome-recycling factor
+GNHACFID_00552	gene	732	uppS			
+GNHACFID_00552	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+GNHACFID_00553	gene	780				
+GNHACFID_00553	CDS	780				hypothetical protein
+GNHACFID_00554	gene	909				
+GNHACFID_00554	CDS	909				hypothetical protein
+GNHACFID_00555	gene	468	rimP			
+GNHACFID_00555	CDS	468	rimP			Ribosome maturation factor RimP
+GNHACFID_00556	gene	1272	nusA			
+GNHACFID_00556	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+GNHACFID_00557	gene	276				
+GNHACFID_00557	CDS	276				hypothetical protein
+GNHACFID_00558	gene	315	rplGA			
+GNHACFID_00558	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+GNHACFID_00559	gene	1944	infB			
+GNHACFID_00559	CDS	1944	infB			Translation initiation factor IF-2
+GNHACFID_00560	gene	348	rbfA			
+GNHACFID_00560	CDS	348	rbfA			Ribosome-binding factor A
+GNHACFID_00561	gene	99				
+GNHACFID_00561	CDS	99				hypothetical protein
+GNHACFID_00562	gene	804				
+GNHACFID_00562	CDS	804				hypothetical protein
+GNHACFID_00563	gene	4476				
+GNHACFID_00563	CDS	4476				hypothetical protein
+GNHACFID_00564	gene	705	srtD			
+GNHACFID_00564	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+GNHACFID_00565	gene	1017	nrnA			
+GNHACFID_00565	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+GNHACFID_00566	gene	951	truB			
+GNHACFID_00566	CDS	951	truB	5.4.99.25		tRNA pseudouridine synthase B
+GNHACFID_00567	gene	972	ribF			
+GNHACFID_00567	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+GNHACFID_00568	gene	255	rpsO			
+GNHACFID_00568	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+GNHACFID_00569	gene	846				
+GNHACFID_00569	CDS	846			COG1307	Fatty acid-binding protein
+GNHACFID_00570	gene	2091	pnp			
+GNHACFID_00570	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+GNHACFID_00571	gene	2073				
+GNHACFID_00571	CDS	2073				hypothetical protein
+GNHACFID_00572	gene	1266				
+GNHACFID_00572	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+GNHACFID_00573	gene	2574				
+GNHACFID_00573	CDS	2574				hypothetical protein
+GNHACFID_00574	gene	1323	rimO			
+GNHACFID_00574	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+GNHACFID_00575	gene	540	pgsA			
+GNHACFID_00575	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GNHACFID_00576	gene	1050	recA			
+GNHACFID_00576	CDS	1050	recA		COG0468	Protein RecA
+GNHACFID_00577	gene	681	lolD_1			
+GNHACFID_00577	CDS	681	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GNHACFID_00578	gene	603	nudL			
+GNHACFID_00578	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+GNHACFID_00579	gene	291				
+GNHACFID_00579	CDS	291				hypothetical protein
+GNHACFID_00580	gene	762	ribX			
+GNHACFID_00580	CDS	762	ribX			Riboflavin transport system permease protein RibX
+GNHACFID_00581	gene	1023	thiY			
+GNHACFID_00581	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+GNHACFID_00582	gene	726	tauB			
+GNHACFID_00582	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+GNHACFID_00583	gene	2643	mutS			
+GNHACFID_00583	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+GNHACFID_00584	gene	2061	mutL			
+GNHACFID_00584	CDS	2061	mutL			DNA mismatch repair protein MutL
+GNHACFID_00585	gene	942	miaA			
+GNHACFID_00585	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+GNHACFID_00586	gene	1275				
+GNHACFID_00586	CDS	1275				hypothetical protein
+GNHACFID_00587	gene	498	proX			
+GNHACFID_00587	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+GNHACFID_00588	gene	2121	nrdD			
+GNHACFID_00588	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+GNHACFID_00589	gene	504	nrdG			
+GNHACFID_00589	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+GNHACFID_00590	gene	318	erpA			
+GNHACFID_00590	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+GNHACFID_00591	gene	837	trmB			
+GNHACFID_00591	CDS	837	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+GNHACFID_00592	gene	819				
+GNHACFID_00592	CDS	819				hypothetical protein
+GNHACFID_00593	gene	849				
+GNHACFID_00593	CDS	849				DegV domain-containing protein
+GNHACFID_00594	gene	1356	prpC			
+GNHACFID_00594	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+GNHACFID_00595	gene	1053	ltaE			
+GNHACFID_00595	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+GNHACFID_00596	gene	1140	xerC_2			
+GNHACFID_00596	CDS	1140	xerC_2			Tyrosine recombinase XerC
+GNHACFID_00597	gene	636	lexA			
+GNHACFID_00597	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+GNHACFID_00598	gene	489				
+GNHACFID_00598	CDS	489				hypothetical protein
+GNHACFID_00599	gene	1896	ftsH4			
+GNHACFID_00599	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+GNHACFID_00600	gene	831	ispH			
+GNHACFID_00600	CDS	831	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+GNHACFID_00601	gene	615	plsC			
+GNHACFID_00601	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+GNHACFID_00602	gene	660	cmk			
+GNHACFID_00602	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+GNHACFID_00603	gene	1257				
+GNHACFID_00603	CDS	1257			COG2081	putative protein
+GNHACFID_00604	gene	651	pspA_2			
+GNHACFID_00604	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GNHACFID_00605	gene	942	hexR			
+GNHACFID_00605	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+GNHACFID_00606	gene	732	rluB			
+GNHACFID_00606	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+GNHACFID_00607	gene	705				
+GNHACFID_00607	CDS	705				hypothetical protein
+GNHACFID_00608	gene	1389	gltD			
+GNHACFID_00608	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+GNHACFID_00609	gene	894				
+GNHACFID_00609	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+GNHACFID_00610	gene	828	sseB			
+GNHACFID_00610	CDS	828	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+GNHACFID_00611	gene	1044	mtgA_2			
+GNHACFID_00611	CDS	1044	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+GNHACFID_00612	gene	519	polC_2			
+GNHACFID_00612	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+GNHACFID_00613	gene	891	ttcA			
+GNHACFID_00613	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+GNHACFID_00614	gene	2277	topB			
+GNHACFID_00614	CDS	2277	topB	5.6.2.1		DNA topoisomerase 3
+GNHACFID_00615	gene	1422	purF			
+GNHACFID_00615	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+GNHACFID_00616	gene	1647	gltX			
+GNHACFID_00616	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GNHACFID_00617	gene	1452				
+GNHACFID_00617	CDS	1452				hypothetical protein
+GNHACFID_00618	gene	684				
+GNHACFID_00618	CDS	684				hypothetical protein
+GNHACFID_00619	gene	336				
+GNHACFID_00619	CDS	336				hypothetical protein
+GNHACFID_00620	gene	771				
+GNHACFID_00620	CDS	771				hypothetical protein
+GNHACFID_00621	gene	594				
+GNHACFID_00621	CDS	594				hypothetical protein
+GNHACFID_00622	gene	576				
+GNHACFID_00622	CDS	576				hypothetical protein
+GNHACFID_00623	gene	954				
+GNHACFID_00623	CDS	954				hypothetical protein
+GNHACFID_00624	gene	567				
+GNHACFID_00624	CDS	567				hypothetical protein
+GNHACFID_00625	gene	804	ywpJ			
+GNHACFID_00625	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+GNHACFID_00626	gene	1266	cinA			
+GNHACFID_00626	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+GNHACFID_00627	gene	897	ddl			
+GNHACFID_00627	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+GNHACFID_00628	gene	864	dpnB			
+GNHACFID_00628	CDS	864	dpnB	3.1.21.4		Type-2 restriction enzyme DpnII
+GNHACFID_00629	gene	813	dpnA			
+GNHACFID_00629	CDS	813	dpnA	2.1.1.72		Modification methylase DpnIIB
+GNHACFID_00630	gene	834	dpnM			
+GNHACFID_00630	CDS	834	dpnM	2.1.1.72		Modification methylase DpnIIA
+GNHACFID_00631	gene	735				
+GNHACFID_00631	CDS	735				hypothetical protein
+GNHACFID_00632	gene	2205	srfAB			
+GNHACFID_00632	CDS	2205	srfAB			Surfactin synthase subunit 2
+GNHACFID_00633	gene	894				
+GNHACFID_00633	CDS	894				hypothetical protein
+GNHACFID_00634	gene	1401	asnS			
+GNHACFID_00634	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+GNHACFID_00635	gene	1572				
+GNHACFID_00635	CDS	1572				hypothetical protein
+GNHACFID_00636	gene	1860	asnB			
+GNHACFID_00636	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+GNHACFID_00637	gene	780	aroK			
+GNHACFID_00637	CDS	780	aroK	2.7.1.71		Shikimate kinase
+GNHACFID_00638	gene	1077	aroC			
+GNHACFID_00638	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+GNHACFID_00639	gene	1416	aroA			
+GNHACFID_00639	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+GNHACFID_00640	gene	219				
+GNHACFID_00640	CDS	219				hypothetical protein
+GNHACFID_00641	gene	681				
+GNHACFID_00641	CDS	681				hypothetical protein
+GNHACFID_00642	gene	2154	ptsG			
+GNHACFID_00642	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+GNHACFID_00643	gene	5679				
+GNHACFID_00643	CDS	5679				hypothetical protein
+GNHACFID_00644	gene	462				
+GNHACFID_00644	CDS	462				hypothetical protein
+GNHACFID_00645	gene	1374	argH			
+GNHACFID_00645	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+GNHACFID_00646	gene	1275	argG			
+GNHACFID_00646	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+GNHACFID_00647	gene	831	artP_2			
+GNHACFID_00647	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+GNHACFID_00648	gene	456	smpB			
+GNHACFID_00648	CDS	456	smpB		COG0691	SsrA-binding protein
+GNHACFID_00649	gene	2220	rnr			
+GNHACFID_00649	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+GNHACFID_00650	gene	231				
+GNHACFID_00650	CDS	231				hypothetical protein
+GNHACFID_00651	gene	1293	eno			
+GNHACFID_00651	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+GNHACFID_00652	gene	1527	gpmI			
+GNHACFID_00652	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GNHACFID_00653	gene	741	tpiA			
+GNHACFID_00653	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+GNHACFID_00654	gene	1200	pgk			
+GNHACFID_00654	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GNHACFID_00655	gene	1008	gap_2			
+GNHACFID_00655	CDS	1008	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+GNHACFID_00656	gene	1026	cggR			
+GNHACFID_00656	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+GNHACFID_00657	gene	786				
+GNHACFID_00657	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+GNHACFID_00658	gene	474	slyA			
+GNHACFID_00658	CDS	474	slyA			Transcriptional regulator SlyA
+GNHACFID_00659	gene	1374	mepA_4			
+GNHACFID_00659	CDS	1374	mepA_4			Multidrug export protein MepA
+GNHACFID_00660	gene	2358	sasA_4			
+GNHACFID_00660	CDS	2358	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+GNHACFID_00661	gene	714	phoP_2			
+GNHACFID_00661	CDS	714	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+GNHACFID_00662	gene	684	thiN			
+GNHACFID_00662	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+GNHACFID_00663	gene	657	rpe			
+GNHACFID_00663	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+GNHACFID_00664	gene	900	rsgA			
+GNHACFID_00664	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+GNHACFID_00665	gene	735	fabG_1			
+GNHACFID_00665	CDS	735	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GNHACFID_00666	gene	1881	prkC			
+GNHACFID_00666	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+GNHACFID_00667	gene	750	stp			
+GNHACFID_00667	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+GNHACFID_00668	gene	1038	rlmN			
+GNHACFID_00668	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+GNHACFID_00669	gene	1344	rsmB			
+GNHACFID_00669	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+GNHACFID_00670	gene	690				
+GNHACFID_00670	CDS	690				hypothetical protein
+GNHACFID_00671	gene	930	fmt			
+GNHACFID_00671	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+GNHACFID_00672	gene	456	def1			
+GNHACFID_00672	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+GNHACFID_00673	gene	2313	priA			
+GNHACFID_00673	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+GNHACFID_00674	gene	1212	undec1A			
+GNHACFID_00674	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+GNHACFID_00675	gene	267	rpoZ			
+GNHACFID_00675	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+GNHACFID_00676	gene	642	gmk			
+GNHACFID_00676	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+GNHACFID_00677	gene	882				
+GNHACFID_00677	CDS	882				hypothetical protein
+GNHACFID_00678	gene	249				
+GNHACFID_00678	CDS	249				hypothetical protein
+GNHACFID_00679	gene	729	yehX			
+GNHACFID_00679	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+GNHACFID_00680	gene	1542				
+GNHACFID_00680	CDS	1542				hypothetical protein
+GNHACFID_00681	gene	438				
+GNHACFID_00681	CDS	438				hypothetical protein
+GNHACFID_00682	gene	1347	pgi			
+GNHACFID_00682	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+GNHACFID_00683	gene	1614				
+GNHACFID_00683	CDS	1614				hypothetical protein
+GNHACFID_00684	gene	375				
+GNHACFID_00684	CDS	375				hypothetical protein
+GNHACFID_00685	gene	1068				
+GNHACFID_00685	CDS	1068				hypothetical protein
+GNHACFID_00686	gene	435				
+GNHACFID_00686	CDS	435				hypothetical protein
+GNHACFID_00687	gene	1401				
+GNHACFID_00687	CDS	1401				hypothetical protein
+GNHACFID_00688	gene	390				
+GNHACFID_00688	CDS	390				hypothetical protein
+GNHACFID_00689	gene	1056	epsF			
+GNHACFID_00689	CDS	1056	epsF		COG1459	Type II secretion system protein F
+GNHACFID_00690	gene	1236				
+GNHACFID_00690	CDS	1236				hypothetical protein
+GNHACFID_00691	gene	1866	nhaP2			
+GNHACFID_00691	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+GNHACFID_00692	gene	561	nfrA1			
+GNHACFID_00692	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+GNHACFID_00693	gene	252				
+GNHACFID_00693	CDS	252				hypothetical protein
+GNHACFID_00694	gene	555				
+GNHACFID_00694	CDS	555		3.1.3.-	COG5663	Nucleotidase
+GNHACFID_00695	gene	708				
+GNHACFID_00695	CDS	708				hypothetical protein
+GNHACFID_00696	gene	786				
+GNHACFID_00696	CDS	786				hypothetical protein
+GNHACFID_00697	gene	930	gloB_2			
+GNHACFID_00697	CDS	930	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+GNHACFID_00698	gene	246				
+GNHACFID_00698	CDS	246				hypothetical protein
+GNHACFID_00699	gene	660				
+GNHACFID_00699	CDS	660				hypothetical protein
+GNHACFID_00700	gene	1221				
+GNHACFID_00700	CDS	1221				hypothetical protein
+GNHACFID_00701	gene	735				
+GNHACFID_00701	CDS	735		3.1.3.-	COG0560	putative phosphatase
+GNHACFID_00702	gene	291				
+GNHACFID_00702	CDS	291				hypothetical protein
+GNHACFID_00703	gene	627				
+GNHACFID_00703	CDS	627				hypothetical protein
+GNHACFID_00704	gene	408				
+GNHACFID_00704	CDS	408				hypothetical protein
+GNHACFID_00705	gene	438	sufU			
+GNHACFID_00705	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+GNHACFID_00706	gene	1236	csd			
+GNHACFID_00706	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+GNHACFID_00707	gene	831				
+GNHACFID_00707	CDS	831				hypothetical protein
+GNHACFID_00708	gene	1425				
+GNHACFID_00708	CDS	1425				hypothetical protein
+GNHACFID_00709	gene	765	sufC			
+GNHACFID_00709	CDS	765	sufC		COG0396	Vegetative protein 296
+GNHACFID_00710	gene	750				
+GNHACFID_00710	CDS	750				hypothetical protein
+GNHACFID_00711	gene	1446	proS			
+GNHACFID_00711	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GNHACFID_00712	gene	1092				
+GNHACFID_00712	CDS	1092				hypothetical protein
+GNHACFID_00713	gene	1077	disA			
+GNHACFID_00713	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+GNHACFID_00714	gene	1380	radA			
+GNHACFID_00714	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+GNHACFID_00715	gene	219				
+GNHACFID_00715	CDS	219				hypothetical protein
+GNHACFID_00716	gene	1245				
+GNHACFID_00716	CDS	1245				hypothetical protein
+GNHACFID_00717	gene	999				
+GNHACFID_00717	CDS	999				hypothetical protein
+GNHACFID_00718	gene	1959	fusA_2			
+GNHACFID_00718	CDS	1959	fusA_2		COG0480	Elongation factor G
+GNHACFID_00719	gene	366				
+GNHACFID_00719	CDS	366				hypothetical protein
+GNHACFID_00720	gene	1041				
+GNHACFID_00720	CDS	1041				hypothetical protein
+GNHACFID_00721	gene	2016	gdpP			
+GNHACFID_00721	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+GNHACFID_00722	gene	447	rplI			
+GNHACFID_00722	CDS	447	rplI			50S ribosomal protein L9
+GNHACFID_00723	gene	1338	dnaC			
+GNHACFID_00723	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+GNHACFID_00724	gene	990	dnaA_1			
+GNHACFID_00724	CDS	990	dnaA_1			Chromosomal replication initiator protein DnaA
+GNHACFID_00725	gene	1050				
+GNHACFID_00725	CDS	1050				hypothetical protein
+GNHACFID_00726	gene	483	rlmH			
+GNHACFID_00726	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+GNHACFID_00727	gene	801	yycJ			
+GNHACFID_00727	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+GNHACFID_00728	gene	162				
+GNHACFID_00728	CDS	162				Rubredoxin
+GNHACFID_00729	gene	462	zur			
+GNHACFID_00729	CDS	462	zur		COG0735	Zinc uptake regulation protein
+GNHACFID_00730	gene	981	znuA			
+GNHACFID_00730	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+GNHACFID_00731	gene	669	mntB			
+GNHACFID_00731	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+GNHACFID_00732	gene	786	znuB			
+GNHACFID_00732	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+GNHACFID_00733	gene	753				
+GNHACFID_00733	CDS	753				hypothetical protein
+GNHACFID_00734	gene	216				
+GNHACFID_00734	CDS	216				hypothetical protein
+GNHACFID_00735	gene	228	rpsR			
+GNHACFID_00735	CDS	228	rpsR			30S ribosomal protein S18
+GNHACFID_00736	gene	444	ssb			
+GNHACFID_00736	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+GNHACFID_00737	gene	291	rpsF			
+GNHACFID_00737	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+GNHACFID_00738	gene	1197	lysN_2			
+GNHACFID_00738	CDS	1197	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+GNHACFID_00739	gene	180				
+GNHACFID_00739	CDS	180				hypothetical protein
+GNHACFID_00740	gene	618				
+GNHACFID_00740	CDS	618				hypothetical protein
+GNHACFID_00741	gene	900				
+GNHACFID_00741	CDS	900				hypothetical protein
+GNHACFID_00742	gene	1077				
+GNHACFID_00742	CDS	1077				hypothetical protein
+GNHACFID_00743	gene	522	bcrC			
+GNHACFID_00743	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+GNHACFID_00744	gene	543	yajL			
+GNHACFID_00744	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+GNHACFID_00745	gene	921				
+GNHACFID_00745	CDS	921				hypothetical protein
+GNHACFID_00746	gene	600	COQ5_2			
+GNHACFID_00746	CDS	600	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GNHACFID_00747	gene	1278				
+GNHACFID_00747	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+GNHACFID_00748	gene	1287	brnQ_2			
+GNHACFID_00748	CDS	1287	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+GNHACFID_00749	gene	849	panC			
+GNHACFID_00749	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+GNHACFID_00750	gene	828	panB			
+GNHACFID_00750	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+GNHACFID_00751	gene	885				
+GNHACFID_00751	CDS	885				hypothetical protein
+GNHACFID_00752	gene	240				
+GNHACFID_00752	CDS	240				hypothetical protein
+GNHACFID_00753	gene	201				
+GNHACFID_00753	CDS	201				hypothetical protein
+GNHACFID_00754	gene	615	sodA1			
+GNHACFID_00754	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+GNHACFID_00755	gene	771				
+GNHACFID_00755	CDS	771				hypothetical protein
+GNHACFID_00756	gene	702	yidC2			
+GNHACFID_00756	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+GNHACFID_00757	gene	378	rnpA			
+GNHACFID_00757	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+GNHACFID_00758	gene	135	rpmH			
+GNHACFID_00758	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+GNHACFID_00759	gene	1365	dnaA_2			
+GNHACFID_00759	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+GNHACFID_00760	gene	1104	dnaN			
+GNHACFID_00760	CDS	1104	dnaN		COG0592	Beta sliding clamp
+GNHACFID_00761	gene	210				
+GNHACFID_00761	CDS	210				hypothetical protein
+GNHACFID_00762	gene	1116	recF			
+GNHACFID_00762	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+GNHACFID_00763	gene	1908	gyrB			
+GNHACFID_00763	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+GNHACFID_00764	gene	2439	gyrA			
+GNHACFID_00764	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+GNHACFID_00765	gene	318	rsbV			
+GNHACFID_00765	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+GNHACFID_00766	gene	408	rsbW			
+GNHACFID_00766	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+GNHACFID_00767	gene	774	sigB			
+GNHACFID_00767	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+GNHACFID_00768	gene	183				
+GNHACFID_00768	CDS	183				hypothetical protein
+GNHACFID_00769	gene	771	rhmA			
+GNHACFID_00769	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+GNHACFID_00770	gene	822	mscS			
+GNHACFID_00770	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+GNHACFID_00771	gene	1188				
+GNHACFID_00771	CDS	1188				hypothetical protein
+GNHACFID_00772	gene	1584				
+GNHACFID_00772	CDS	1584				hypothetical protein
+GNHACFID_00773	gene	756				
+GNHACFID_00773	CDS	756				hypothetical protein
+GNHACFID_00774	gene	2499				
+GNHACFID_00774	CDS	2499				hypothetical protein
+GNHACFID_00775	gene	1404	cysS			
+GNHACFID_00775	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+GNHACFID_00776	gene	453	mrnC			
+GNHACFID_00776	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+GNHACFID_00777	gene	735				
+GNHACFID_00777	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+GNHACFID_00778	gene	564				
+GNHACFID_00778	CDS	564				hypothetical protein
+GNHACFID_00779	gene	660	sigH			
+GNHACFID_00779	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+GNHACFID_00780	gene	264				
+GNHACFID_00780	CDS	264				hypothetical protein
+GNHACFID_00781	gene	1341				
+GNHACFID_00781	CDS	1341				hypothetical protein
+GNHACFID_00782	gene	750	cseB			
+GNHACFID_00782	CDS	750	cseB		COG0745	Transcriptional regulatory protein CseB
+GNHACFID_00783	gene	1206	femX			
+GNHACFID_00783	CDS	1206	femX	2.3.2.16	COG2348	Lipid II:glycine glycyltransferase
+GNHACFID_00784	gene	1398				
+GNHACFID_00784	CDS	1398			COG2239	Magnesium transporter MgtE
+GNHACFID_00785	gene	867	nnr_1			
+GNHACFID_00785	CDS	867	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GNHACFID_00786	gene	819	aptA_2			
+GNHACFID_00786	CDS	819	aptA_2	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+GNHACFID_00787	gene	933	aptB_2			
+GNHACFID_00787	CDS	933	aptB_2	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+GNHACFID_00788	gene	870				
+GNHACFID_00788	CDS	870				hypothetical protein
+GNHACFID_00789	gene	714	ftsE			
+GNHACFID_00789	CDS	714	ftsE		COG2884	Cell division ATP-binding protein FtsE
+GNHACFID_00790	gene	894	ftsX			
+GNHACFID_00790	CDS	894	ftsX		COG2177	Cell division protein FtsX
+GNHACFID_00791	gene	1152	envC			
+GNHACFID_00791	CDS	1152	envC		COG4942	Murein hydrolase activator EnvC
+GNHACFID_00792	gene	1653	recJ			
+GNHACFID_00792	CDS	1653	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+GNHACFID_00793	gene	1155				
+GNHACFID_00793	CDS	1155		3.4.21.-		putative CtpA-like serine protease
+GNHACFID_00794	gene	303				
+GNHACFID_00794	CDS	303				hypothetical protein
+GNHACFID_00795	gene	582				
+GNHACFID_00795	CDS	582				hypothetical protein
+GNHACFID_00796	gene	516	recX_2			
+GNHACFID_00796	CDS	516	recX_2			Regulatory protein RecX
+GNHACFID_00797	gene	903	yicL			
+GNHACFID_00797	CDS	903	yicL		COG0697	putative inner membrane transporter YicL
+GNHACFID_00798	gene	231				
+GNHACFID_00798	CDS	231				hypothetical protein
+GNHACFID_00799	gene	1128				
+GNHACFID_00799	CDS	1128				hypothetical protein
+GNHACFID_00800	gene	942				
+GNHACFID_00800	CDS	942				hypothetical protein
+GNHACFID_00801	gene	753				
+GNHACFID_00801	CDS	753				hypothetical protein
+GNHACFID_00802	gene	1380	mepA_5			
+GNHACFID_00802	CDS	1380	mepA_5			Multidrug export protein MepA
+GNHACFID_00803	gene	585				
+GNHACFID_00803	CDS	585				hypothetical protein
+GNHACFID_00804	gene	1755	msbA_3			
+GNHACFID_00804	CDS	1755	msbA_3	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+GNHACFID_00805	gene	1755				
+GNHACFID_00805	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+GNHACFID_00806	gene	1470	ykoD_4			
+GNHACFID_00806	CDS	1470	ykoD_4	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GNHACFID_00807	gene	705	ecfT_3			
+GNHACFID_00807	CDS	705	ecfT_3			Energy-coupling factor transporter transmembrane protein EcfT
+GNHACFID_00808	gene	597				
+GNHACFID_00808	CDS	597				hypothetical protein
+GNHACFID_00809	gene	615				
+GNHACFID_00809	CDS	615				hypothetical protein
+GNHACFID_00810	gene	699				
+GNHACFID_00810	CDS	699				IS481 family transposase ISSsu8
+GNHACFID_00811	gene	678	macB_1			
+GNHACFID_00811	CDS	678	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+GNHACFID_00812	gene	2505				
+GNHACFID_00812	CDS	2505				hypothetical protein
+GNHACFID_00813	gene	177				
+GNHACFID_00813	CDS	177				hypothetical protein
+GNHACFID_00814	gene	1128	msmX			
+GNHACFID_00814	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+GNHACFID_00815	gene	642	ycjU			
+GNHACFID_00815	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+GNHACFID_00816	gene	1662	malL			
+GNHACFID_00816	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+GNHACFID_00817	gene	2289	malP			
+GNHACFID_00817	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+GNHACFID_00818	gene	822	melC			
+GNHACFID_00818	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+GNHACFID_00819	gene	873	melD			
+GNHACFID_00819	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+GNHACFID_00820	gene	1287				
+GNHACFID_00820	CDS	1287				hypothetical protein
+GNHACFID_00821	gene	993	malR			
+GNHACFID_00821	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+GNHACFID_00822	gene	894	bglK			
+GNHACFID_00822	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+GNHACFID_00823	gene	465	yfkJ			
+GNHACFID_00823	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+GNHACFID_00824	gene	1332	mepA_6			
+GNHACFID_00824	CDS	1332	mepA_6			Multidrug export protein MepA
+GNHACFID_00825	gene	582				
+GNHACFID_00825	CDS	582				hypothetical protein
+GNHACFID_00826	gene	711				
+GNHACFID_00826	CDS	711				hypothetical protein
+GNHACFID_00827	gene	1329				
+GNHACFID_00827	CDS	1329				hypothetical protein
+GNHACFID_00828	gene	3081	smc_2			
+GNHACFID_00828	CDS	3081	smc_2			Chromosome partition protein Smc
+GNHACFID_00829	gene	1224	cpdA_2			
+GNHACFID_00829	CDS	1224	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GNHACFID_00830	gene	3933	addA			
+GNHACFID_00830	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+GNHACFID_00831	gene	3417	addB			
+GNHACFID_00831	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+GNHACFID_00832	gene	684				
+GNHACFID_00832	CDS	684				hypothetical protein
+GNHACFID_00833	gene	2253	rep			
+GNHACFID_00833	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+GNHACFID_00834	gene	1683				
+GNHACFID_00834	CDS	1683				hypothetical protein
+GNHACFID_00835	gene	369				
+GNHACFID_00835	CDS	369				hypothetical protein
+GNHACFID_00836	gene	201				
+GNHACFID_00836	CDS	201				hypothetical protein
+GNHACFID_00837	gene	408				
+GNHACFID_00837	CDS	408				hypothetical protein
+GNHACFID_00838	gene	1479	lsa(C)			
+GNHACFID_00838	CDS	1479	lsa(C)			ABC-F type ribosomal protection protein Lsa(C)
+GNHACFID_00839	gene	804				
+GNHACFID_00839	CDS	804				hypothetical protein
+GNHACFID_00840	gene	2637	alaS_1			
+GNHACFID_00840	CDS	2637	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+GNHACFID_00841	gene	261				
+GNHACFID_00841	CDS	261				hypothetical protein
+GNHACFID_00842	gene	2280				
+GNHACFID_00842	CDS	2280				hypothetical protein
+GNHACFID_00843	gene	417	yrrK			
+GNHACFID_00843	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+GNHACFID_00844	gene	450	fur			
+GNHACFID_00844	CDS	450	fur		COG0735	Ferric uptake regulation protein
+GNHACFID_00845	gene	1083				
+GNHACFID_00845	CDS	1083				hypothetical protein
+GNHACFID_00846	gene	1626				
+GNHACFID_00846	CDS	1626				hypothetical protein
+GNHACFID_00847	gene	1548	rny			
+GNHACFID_00847	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+GNHACFID_00848	gene	1782				
+GNHACFID_00848	CDS	1782				hypothetical protein
+GNHACFID_00849	gene	813	uppP			
+GNHACFID_00849	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+GNHACFID_00850	gene	1200				
+GNHACFID_00850	CDS	1200		2.6.1.1		Aspartate aminotransferase
+GNHACFID_00851	gene	957	galT			
+GNHACFID_00851	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+GNHACFID_00852	gene	1902				
+GNHACFID_00852	CDS	1902				hypothetical protein
+GNHACFID_00853	gene	825	pdxY			
+GNHACFID_00853	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+GNHACFID_00854	gene	201	cspA			
+GNHACFID_00854	CDS	201	cspA		COG1278	Cold shock protein CspA
+GNHACFID_00855	gene	453				
+GNHACFID_00855	CDS	453				hypothetical protein
+GNHACFID_00856	gene	465				
+GNHACFID_00856	CDS	465				hypothetical protein
+GNHACFID_00857	gene	444				
+GNHACFID_00857	CDS	444				hypothetical protein
+GNHACFID_00858	gene	768	prsA_1			
+GNHACFID_00858	CDS	768	prsA_1	5.2.1.8		Foldase protein PrsA
+GNHACFID_00859	gene	2175	btuD_2			
+GNHACFID_00859	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GNHACFID_00860	gene	1878				
+GNHACFID_00860	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+GNHACFID_00861	gene	1161				
+GNHACFID_00861	CDS	1161				hypothetical protein
+GNHACFID_00862	gene	678				
+GNHACFID_00862	CDS	678				hypothetical protein
+GNHACFID_00863	gene	954	msrAB			
+GNHACFID_00863	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+GNHACFID_00864	gene	1395	alaS_2			
+GNHACFID_00864	CDS	1395	alaS_2	6.1.1.7		Alanine--tRNA ligase
+GNHACFID_00865	gene	318				
+GNHACFID_00865	CDS	318				hypothetical protein
+GNHACFID_00866	gene	582				
+GNHACFID_00866	CDS	582				hypothetical protein
+GNHACFID_00867	gene	1107				
+GNHACFID_00867	CDS	1107				hypothetical protein
+GNHACFID_00868	gene	1206	xseA			
+GNHACFID_00868	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+GNHACFID_00869	gene	246	xseB			
+GNHACFID_00869	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+GNHACFID_00870	gene	885				
+GNHACFID_00870	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+GNHACFID_00871	gene	432				
+GNHACFID_00871	CDS	432				hypothetical protein
+GNHACFID_00872	gene	1947	dxs			
+GNHACFID_00872	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+GNHACFID_00873	gene	843	tlyA			
+GNHACFID_00873	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+GNHACFID_00874	gene	1683	recN			
+GNHACFID_00874	CDS	1683	recN		COG0497	DNA repair protein RecN
+GNHACFID_00875	gene	1122				
+GNHACFID_00875	CDS	1122				hypothetical protein
+GNHACFID_00876	gene	864				
+GNHACFID_00876	CDS	864				hypothetical protein
+GNHACFID_00877	gene	687	arnC			
+GNHACFID_00877	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GNHACFID_00878	gene	831				
+GNHACFID_00878	CDS	831				hypothetical protein
+GNHACFID_00879	gene	1074				
+GNHACFID_00879	CDS	1074				hypothetical protein
+GNHACFID_00880	gene	822	punA			
+GNHACFID_00880	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+GNHACFID_00881	gene	1203	mltG			
+GNHACFID_00881	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+GNHACFID_00882	gene	645	trmR			
+GNHACFID_00882	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+GNHACFID_00883	gene	1233				
+GNHACFID_00883	CDS	1233				hypothetical protein
+GNHACFID_00884	gene	471				
+GNHACFID_00884	CDS	471				hypothetical protein
+GNHACFID_00885	gene	708				
+GNHACFID_00885	CDS	708				hypothetical protein
+GNHACFID_00886	gene	477				
+GNHACFID_00886	CDS	477				hypothetical protein
+GNHACFID_00887	gene	528				
+GNHACFID_00887	CDS	528				hypothetical protein
+GNHACFID_00888	gene	1056	ispG			
+GNHACFID_00888	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+GNHACFID_00889	gene	1011	mmpA			
+GNHACFID_00889	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+GNHACFID_00890	gene	1188	dxr			
+GNHACFID_00890	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+GNHACFID_00891	gene	411				
+GNHACFID_00891	CDS	411				hypothetical protein
+GNHACFID_00892	gene	642				
+GNHACFID_00892	CDS	642				hypothetical protein
+GNHACFID_00893	gene	2589	clpB			
+GNHACFID_00893	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+GNHACFID_00894	gene	1296	brnQ_3			
+GNHACFID_00894	CDS	1296	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+GNHACFID_00895	gene	354				
+GNHACFID_00895	CDS	354				hypothetical protein
+GNHACFID_00896	gene	969	metN			
+GNHACFID_00896	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+GNHACFID_00897	gene	654	metP			
+GNHACFID_00897	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+GNHACFID_00898	gene	825	metQ			
+GNHACFID_00898	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+GNHACFID_00899	gene	471				
+GNHACFID_00899	CDS	471				hypothetical protein
+GNHACFID_00900	gene	1059				
+GNHACFID_00900	CDS	1059				hypothetical protein
+GNHACFID_00901	gene	1455				
+GNHACFID_00901	CDS	1455				hypothetical protein
+GNHACFID_00902	gene	1701	argS			
+GNHACFID_00902	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+GNHACFID_00903	gene	468				
+GNHACFID_00903	CDS	468				hypothetical protein
+GNHACFID_00904	gene	2424	mutS2			
+GNHACFID_00904	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+GNHACFID_00905	gene	1449	pepD_2			
+GNHACFID_00905	CDS	1449	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+GNHACFID_00906	gene	876				
+GNHACFID_00906	CDS	876				DegV domain-containing protein
+GNHACFID_00907	gene	471	trmL			
+GNHACFID_00907	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+GNHACFID_00908	gene	639	pdg			
+GNHACFID_00908	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+GNHACFID_00909	gene	1656	udk			
+GNHACFID_00909	CDS	1656	udk	2.7.1.48		Uridine kinase
+GNHACFID_00910	gene	606	sipT			
+GNHACFID_00910	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+GNHACFID_00911	gene	1500	rsmF			
+GNHACFID_00911	CDS	1500	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+GNHACFID_00912	gene	591				
+GNHACFID_00912	CDS	591				hypothetical protein
+GNHACFID_00913	gene	1305	pdp			
+GNHACFID_00913	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+GNHACFID_00914	gene	3783	purL			
+GNHACFID_00914	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+GNHACFID_00915	gene	1269	purD			
+GNHACFID_00915	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GNHACFID_00916	gene	1533	purH			
+GNHACFID_00916	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+GNHACFID_00917	gene	594	purN			
+GNHACFID_00917	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+GNHACFID_00918	gene	1077	purM			
+GNHACFID_00918	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+GNHACFID_00919	gene	477	purE			
+GNHACFID_00919	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+GNHACFID_00920	gene	2481				
+GNHACFID_00920	CDS	2481				hypothetical protein
+GNHACFID_00921	gene	708	ytrE			
+GNHACFID_00921	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+GNHACFID_00922	gene	291				
+GNHACFID_00922	CDS	291				hypothetical protein
+GNHACFID_00923	gene	1506	glpK			
+GNHACFID_00923	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+GNHACFID_00924	gene	147				
+GNHACFID_00924	CDS	147				hypothetical protein
+GNHACFID_00925	gene	1788	pepF1			
+GNHACFID_00925	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+GNHACFID_00926	gene	528				
+GNHACFID_00926	CDS	528				hypothetical protein
+GNHACFID_00927	gene	1083	hhoB			
+GNHACFID_00927	CDS	1083	hhoB			Putative serine protease HhoB
+GNHACFID_00928	gene	1326	pepC			
+GNHACFID_00928	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+GNHACFID_00929	gene	1311				
+GNHACFID_00929	CDS	1311				hypothetical protein
+GNHACFID_00930	gene	945	hmo_1			
+GNHACFID_00930	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+GNHACFID_00931	gene	939				
+GNHACFID_00931	CDS	939				hypothetical protein
+GNHACFID_00932	gene	576				
+GNHACFID_00932	CDS	576				hypothetical protein
+GNHACFID_00933	gene	270	atpC			
+GNHACFID_00933	CDS	270	atpC			ATP synthase epsilon chain
+GNHACFID_00934	gene	1401	atpD			
+GNHACFID_00934	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+GNHACFID_00935	gene	999	atpG			
+GNHACFID_00935	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+GNHACFID_00936	gene	1503	atpA			
+GNHACFID_00936	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+GNHACFID_00937	gene	543	atpH			
+GNHACFID_00937	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+GNHACFID_00938	gene	507	atpF			
+GNHACFID_00938	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+GNHACFID_00939	gene	264	atpE			
+GNHACFID_00939	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+GNHACFID_00940	gene	705	atpB			
+GNHACFID_00940	CDS	705	atpB		COG0356	ATP synthase subunit a
+GNHACFID_00941	gene	402				
+GNHACFID_00941	CDS	402				hypothetical protein
+GNHACFID_00942	gene	240				
+GNHACFID_00942	CDS	240				hypothetical protein
+GNHACFID_00943	gene	630	upp			
+GNHACFID_00943	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+GNHACFID_00944	gene	447	rpiB			
+GNHACFID_00944	CDS	447	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+GNHACFID_00945	gene	1038	ywlC			
+GNHACFID_00945	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+GNHACFID_00946	gene	1065	prfA			
+GNHACFID_00946	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+GNHACFID_00947	gene	915	prmC			
+GNHACFID_00947	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+GNHACFID_00948	gene	720				
+GNHACFID_00948	CDS	720				hypothetical protein
+GNHACFID_00949	gene	327				
+GNHACFID_00949	CDS	327				hypothetical protein
+GNHACFID_00950	gene	201	rpmE			
+GNHACFID_00950	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+GNHACFID_00951	gene	1443	rho			
+GNHACFID_00951	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+GNHACFID_00952	gene	894	gtaB			
+GNHACFID_00952	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+GNHACFID_00953	gene	240				
+GNHACFID_00953	CDS	240			COG1188	putative protein
+GNHACFID_00954	gene	282	hup			
+GNHACFID_00954	CDS	282	hup			DNA-binding protein HU
+GNHACFID_00955	gene	1014				
+GNHACFID_00955	CDS	1014				hypothetical protein
+GNHACFID_00956	gene	1623	spoVB			
+GNHACFID_00956	CDS	1623	spoVB		COG2244	Stage V sporulation protein B
+GNHACFID_00957	gene	1062	prsA_2			
+GNHACFID_00957	CDS	1062	prsA_2	5.2.1.8		Foldase protein PrsA
+GNHACFID_00958	gene	3405	mfd			
+GNHACFID_00958	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+GNHACFID_00959	gene	561	pth			
+GNHACFID_00959	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+GNHACFID_00960	gene	651				
+GNHACFID_00960	CDS	651				hypothetical protein
+GNHACFID_00961	gene	1065				
+GNHACFID_00961	CDS	1065				hypothetical protein
+GNHACFID_00962	gene	309				
+GNHACFID_00962	CDS	309				hypothetical protein
+GNHACFID_00963	gene	585				
+GNHACFID_00963	CDS	585				hypothetical protein
+GNHACFID_00964	gene	426				
+GNHACFID_00964	CDS	426			COG0716	Flavodoxin
+GNHACFID_00965	gene	903				
+GNHACFID_00965	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+GNHACFID_00966	gene	1929				
+GNHACFID_00966	CDS	1929				hypothetical protein
+GNHACFID_00967	gene	846				
+GNHACFID_00967	CDS	846				hypothetical protein
+GNHACFID_00968	gene	753	lacR			
+GNHACFID_00968	CDS	753	lacR			Lactose phosphotransferase system repressor
+GNHACFID_00969	gene	915	lacC			
+GNHACFID_00969	CDS	915	lacC	2.7.1.144		Tagatose-6-phosphate kinase
+GNHACFID_00970	gene	1875	fruA			
+GNHACFID_00970	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+GNHACFID_00971	gene	246				
+GNHACFID_00971	CDS	246				hypothetical protein
+GNHACFID_00972	gene	1053				
+GNHACFID_00972	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+GNHACFID_00973	gene	135				
+GNHACFID_00973	CDS	135				hypothetical protein
+GNHACFID_00974	gene	1404	bioB_2			
+GNHACFID_00974	CDS	1404	bioB_2	2.8.1.6		Biotin synthase
+GNHACFID_00975	gene	1200	mnmE_2			
+GNHACFID_00975	CDS	1200	mnmE_2	3.6.-.-		tRNA modification GTPase MnmE
+GNHACFID_00976	gene	492	ycdZ			
+GNHACFID_00976	CDS	492	ycdZ			Inner membrane protein YcdZ
+GNHACFID_00977	gene	870	sigF			
+GNHACFID_00977	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+GNHACFID_00978	gene	531				
+GNHACFID_00978	CDS	531				hypothetical protein
+GNHACFID_00979	gene	1425	accC			
+GNHACFID_00979	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+GNHACFID_00980	gene	858	accD			
+GNHACFID_00980	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+GNHACFID_00981	gene	744	accA			
+GNHACFID_00981	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+GNHACFID_00982	gene	480				
+GNHACFID_00982	CDS	480				hypothetical protein
+GNHACFID_00983	gene	1017	fabH			
+GNHACFID_00983	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GNHACFID_00984	gene	225	acpP_2			
+GNHACFID_00984	CDS	225	acpP_2		COG0236	Acyl carrier protein
+GNHACFID_00985	gene	939				
+GNHACFID_00985	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+GNHACFID_00986	gene	939	fabD			
+GNHACFID_00986	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+GNHACFID_00987	gene	747	fabG_2			
+GNHACFID_00987	CDS	747	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GNHACFID_00988	gene	1236	fabF			
+GNHACFID_00988	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+GNHACFID_00989	gene	426	fabZ			
+GNHACFID_00989	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+GNHACFID_00990	gene	1338				
+GNHACFID_00990	CDS	1338				Nucleobase transporter PlUacP
+GNHACFID_00991	gene	570	xpt			
+GNHACFID_00991	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+GNHACFID_00992	gene	882				
+GNHACFID_00992	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+GNHACFID_00993	gene	387				
+GNHACFID_00993	CDS	387				hypothetical protein
+GNHACFID_00994	gene	1431				
+GNHACFID_00994	CDS	1431				hypothetical protein
+GNHACFID_00995	gene	846				
+GNHACFID_00995	CDS	846				hypothetical protein
+GNHACFID_00996	gene	495				
+GNHACFID_00996	CDS	495				hypothetical protein
+GNHACFID_00997	gene	384				
+GNHACFID_00997	CDS	384			COG1302	Alkaline shock protein 23
+GNHACFID_00998	gene	876				
+GNHACFID_00998	CDS	876				hypothetical protein
+GNHACFID_00999	gene	1482	clsA_2			
+GNHACFID_00999	CDS	1482	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+GNHACFID_01000	gene	282	groS			
+GNHACFID_01000	CDS	282	groS		COG0234	10 kDa chaperonin
+GNHACFID_01001	gene	1623	groL			
+GNHACFID_01001	CDS	1623	groL		COG0459	60 kDa chaperonin
+GNHACFID_01002	gene	1536	guaA			
+GNHACFID_01002	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+GNHACFID_01003	gene	3237	rapA			
+GNHACFID_01003	CDS	3237	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+GNHACFID_01004	gene	654				
+GNHACFID_01004	CDS	654				hypothetical protein
+GNHACFID_01005	gene	1920				
+GNHACFID_01005	CDS	1920				hypothetical protein
+GNHACFID_01006	gene	3123				
+GNHACFID_01006	CDS	3123				hypothetical protein
+GNHACFID_01007	gene	1506				
+GNHACFID_01007	CDS	1506				hypothetical protein
+GNHACFID_01008	gene	2067				
+GNHACFID_01008	CDS	2067				hypothetical protein
+GNHACFID_01009	gene	1833				
+GNHACFID_01009	CDS	1833				hypothetical protein
+GNHACFID_01010	gene	180				
+GNHACFID_01010	CDS	180				hypothetical protein
+GNHACFID_01011	gene	93				
+GNHACFID_01011	CDS	93				hypothetical protein
+GNHACFID_01012	gene	2127	nqrC			
+GNHACFID_01012	CDS	2127	nqrC	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit C
+GNHACFID_01013	gene	525				
+GNHACFID_01013	CDS	525				hypothetical protein
+GNHACFID_01014	gene	723				
+GNHACFID_01014	CDS	723				hypothetical protein
+GNHACFID_01015	gene	4047				
+GNHACFID_01015	CDS	4047				hypothetical protein
+GNHACFID_01016	gene	573				
+GNHACFID_01016	CDS	573				hypothetical protein
+GNHACFID_01017	gene	1365	rclA			
+GNHACFID_01017	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+GNHACFID_01018	gene	573				
+GNHACFID_01018	CDS	573				hypothetical protein
+GNHACFID_01019	gene	1500				
+GNHACFID_01019	CDS	1500				hypothetical protein
+GNHACFID_01020	gene	498				
+GNHACFID_01020	CDS	498				hypothetical protein
+GNHACFID_01021	gene	1044				
+GNHACFID_01021	CDS	1044				hypothetical protein
+GNHACFID_01022	gene	1188				
+GNHACFID_01022	CDS	1188				hypothetical protein
+GNHACFID_01023	gene	852				
+GNHACFID_01023	CDS	852				hypothetical protein
+GNHACFID_01024	gene	432	yiaC			
+GNHACFID_01024	CDS	432	yiaC	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YiaC
+GNHACFID_01025	gene	360				
+GNHACFID_01025	CDS	360				hypothetical protein
+GNHACFID_01026	gene	93				
+GNHACFID_01026	CDS	93				hypothetical protein
+GNHACFID_01027	gene	1071				
+GNHACFID_01027	CDS	1071				hypothetical protein
+GNHACFID_01028	gene	408				
+GNHACFID_01028	CDS	408				hypothetical protein
+GNHACFID_01029	gene	504				
+GNHACFID_01029	CDS	504				hypothetical protein
+GNHACFID_01030	gene	828				
+GNHACFID_01030	CDS	828				hypothetical protein
+GNHACFID_01031	gene	306				
+GNHACFID_01031	CDS	306				hypothetical protein
+GNHACFID_01032	gene	537				
+GNHACFID_01032	CDS	537				hypothetical protein
+GNHACFID_01033	gene	501				
+GNHACFID_01033	CDS	501				hypothetical protein
+GNHACFID_01034	gene	189				
+GNHACFID_01034	CDS	189				hypothetical protein
+GNHACFID_01035	gene	423				
+GNHACFID_01035	CDS	423				hypothetical protein
+GNHACFID_01036	gene	840				
+GNHACFID_01036	CDS	840				hypothetical protein
+GNHACFID_01037	gene	1119				
+GNHACFID_01037	CDS	1119				hypothetical protein
+GNHACFID_01038	gene	1065				
+GNHACFID_01038	CDS	1065				hypothetical protein
+GNHACFID_01039	gene	237				
+GNHACFID_01039	CDS	237				hypothetical protein
+GNHACFID_01040	gene	1701				
+GNHACFID_01040	CDS	1701				hypothetical protein
+GNHACFID_01041	gene	1104				
+GNHACFID_01041	CDS	1104				hypothetical protein
+GNHACFID_01042	gene	1407				
+GNHACFID_01042	CDS	1407				hypothetical protein
+GNHACFID_01043	gene	357				
+GNHACFID_01043	CDS	357				hypothetical protein
+GNHACFID_01044	gene	312				
+GNHACFID_01044	CDS	312				IS200/IS605 family transposase IS1541B
+GNHACFID_01045	gene	621				
+GNHACFID_01045	CDS	621				hypothetical protein
+GNHACFID_01046	gene	570				
+GNHACFID_01046	CDS	570				hypothetical protein
+GNHACFID_01047	gene	1068				
+GNHACFID_01047	CDS	1068				hypothetical protein
+GNHACFID_01048	gene	1473	algC			
+GNHACFID_01048	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+GNHACFID_01049	gene	651	tal			
+GNHACFID_01049	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+GNHACFID_01050	gene	1083	yknX			
+GNHACFID_01050	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+GNHACFID_01051	gene	675	yknY			
+GNHACFID_01051	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+GNHACFID_01052	gene	1245	macB_2			
+GNHACFID_01052	CDS	1245	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+GNHACFID_01053	gene	1275	pyrC			
+GNHACFID_01053	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+GNHACFID_01054	gene	297				
+GNHACFID_01054	CDS	297				hypothetical protein
+GNHACFID_01055	gene	645				
+GNHACFID_01055	CDS	645				hypothetical protein
+GNHACFID_01056	gene	258				
+GNHACFID_01056	CDS	258				hypothetical protein
+GNHACFID_01057	gene	810	apbC			
+GNHACFID_01057	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+GNHACFID_01058	gene	1002	add			
+GNHACFID_01058	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+GNHACFID_01059	gene	1629				
+GNHACFID_01059	CDS	1629				hypothetical protein
+GNHACFID_01060	gene	873	moaA_1			
+GNHACFID_01060	CDS	873	moaA_1	4.1.99.22		GTP 3',8-cyclase
+GNHACFID_01061	gene	1365				
+GNHACFID_01061	CDS	1365				hypothetical protein
+GNHACFID_01062	gene	828	COQ3			
+GNHACFID_01062	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+GNHACFID_01063	gene	453				
+GNHACFID_01063	CDS	453				hypothetical protein
+GNHACFID_01064	gene	1014	gloB_3			
+GNHACFID_01064	CDS	1014	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+GNHACFID_01065	gene	1548	carA_1			
+GNHACFID_01065	CDS	1548	carA_1	2.8.3.23	COG4670	Caffeate CoA-transferase
+GNHACFID_01066	gene	960	dusB			
+GNHACFID_01066	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+GNHACFID_01067	gene	768	coaX			
+GNHACFID_01067	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+GNHACFID_01068	gene	984	birA			
+GNHACFID_01068	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GNHACFID_01069	gene	756				
+GNHACFID_01069	CDS	756				hypothetical protein
+GNHACFID_01070	gene	405				
+GNHACFID_01070	CDS	405				hypothetical protein
+GNHACFID_01071	gene	2043	ftsH			
+GNHACFID_01071	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+GNHACFID_01072	gene	1380	tilS			
+GNHACFID_01072	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+GNHACFID_01073	gene	414				
+GNHACFID_01073	CDS	414				hypothetical protein
+GNHACFID_01074	gene	813	murI			
+GNHACFID_01074	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+GNHACFID_01075	gene	678	rspR_1			
+GNHACFID_01075	CDS	678	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+GNHACFID_01076	gene	897	ispE			
+GNHACFID_01076	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GNHACFID_01077	gene	783				
+GNHACFID_01077	CDS	783				hypothetical protein
+GNHACFID_01078	gene	255	veg			
+GNHACFID_01078	CDS	255	veg		COG4466	Protein Veg
+GNHACFID_01079	gene	495				
+GNHACFID_01079	CDS	495				hypothetical protein
+GNHACFID_01080	gene	711				
+GNHACFID_01080	CDS	711				hypothetical protein
+GNHACFID_01081	gene	681	rluC			
+GNHACFID_01081	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+GNHACFID_01082	gene	870	rlmL_2			
+GNHACFID_01082	CDS	870	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+GNHACFID_01083	gene	1422	pqqE			
+GNHACFID_01083	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+GNHACFID_01084	gene	510	ftnA			
+GNHACFID_01084	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+GNHACFID_01085	gene	471				
+GNHACFID_01085	CDS	471				hypothetical protein
+GNHACFID_01086	gene	564				
+GNHACFID_01086	CDS	564				hypothetical protein
+GNHACFID_01087	gene	888	cysK			
+GNHACFID_01087	CDS	888	cysK	2.5.1.47		Cysteine synthase
+GNHACFID_01088	gene	597	cysE			
+GNHACFID_01088	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+GNHACFID_01089	gene	246				
+GNHACFID_01089	CDS	246				hypothetical protein
+GNHACFID_01090	gene	3216	carB			
+GNHACFID_01090	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+GNHACFID_01091	gene	1050	carA_2			
+GNHACFID_01091	CDS	1050	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+GNHACFID_01092	gene	723	pyrF			
+GNHACFID_01092	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+GNHACFID_01093	gene	1140				
+GNHACFID_01093	CDS	1140				hypothetical protein
+GNHACFID_01094	gene	1128				
+GNHACFID_01094	CDS	1128				hypothetical protein
+GNHACFID_01095	gene	297				
+GNHACFID_01095	CDS	297				hypothetical protein
+GNHACFID_01096	gene	339				
+GNHACFID_01096	CDS	339				hypothetical protein
+GNHACFID_01097	gene	549				
+GNHACFID_01097	CDS	549				hypothetical protein
+GNHACFID_01098	gene	1725				
+GNHACFID_01098	CDS	1725				hypothetical protein
+GNHACFID_01099	gene	1407	patA			
+GNHACFID_01099	CDS	1407	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+GNHACFID_01100	gene	645				
+GNHACFID_01100	CDS	645				hypothetical protein
+GNHACFID_01101	gene	741				
+GNHACFID_01101	CDS	741				hypothetical protein
+GNHACFID_01102	gene	1140	pgl			
+GNHACFID_01102	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+GNHACFID_01103	gene	369	rplL			
+GNHACFID_01103	CDS	369	rplL			50S ribosomal protein L7/L12
+GNHACFID_01104	gene	522	rplJ			
+GNHACFID_01104	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+GNHACFID_01105	gene	699	rplA			
+GNHACFID_01105	CDS	699	rplA			50S ribosomal protein L1
+GNHACFID_01106	gene	426	rplK			
+GNHACFID_01106	CDS	426	rplK		COG0080	50S ribosomal protein L11
+GNHACFID_01107	gene	543	nusG			
+GNHACFID_01107	CDS	543	nusG			Transcription termination/antitermination protein NusG
+GNHACFID_01108	gene	207	secE			
+GNHACFID_01108	CDS	207	secE			Protein translocase subunit SecE
+GNHACFID_01109	gene	150	rpmG2			
+GNHACFID_01109	CDS	150	rpmG2			50S ribosomal protein L33 2
+GNHACFID_01110	gene	489	queT			
+GNHACFID_01110	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+GNHACFID_01111	gene	696				
+GNHACFID_01111	CDS	696				hypothetical protein
+GNHACFID_01112	gene	1224	pepT			
+GNHACFID_01112	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+GNHACFID_01113	gene	75				
+GNHACFID_01113	tRNA	75				tRNA-Arg(tcg)
+GNHACFID_01114	gene	402				
+GNHACFID_01114	CDS	402				hypothetical protein
+GNHACFID_01115	gene	75				
+GNHACFID_01115	tRNA	75				tRNA-Arg(cct)
+GNHACFID_01116	gene	1200	gerN			
+GNHACFID_01116	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+GNHACFID_01117	gene	447				
+GNHACFID_01117	CDS	447				hypothetical protein
+GNHACFID_01118	gene	702				
+GNHACFID_01118	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+GNHACFID_01119	gene	519				
+GNHACFID_01119	CDS	519				hypothetical protein
+GNHACFID_01120	gene	864				
+GNHACFID_01120	CDS	864				hypothetical protein
+GNHACFID_01121	gene	216				
+GNHACFID_01121	CDS	216				hypothetical protein
+GNHACFID_01122	gene	345				
+GNHACFID_01122	CDS	345				hypothetical protein
+GNHACFID_01123	gene	912				
+GNHACFID_01123	CDS	912				hypothetical protein
+GNHACFID_01124	gene	1809				
+GNHACFID_01124	CDS	1809				hypothetical protein
+GNHACFID_01125	gene	486				
+GNHACFID_01125	CDS	486				hypothetical protein
+GNHACFID_01126	gene	855	dnaA_3			
+GNHACFID_01126	CDS	855	dnaA_3			Chromosomal replication initiator protein DnaA
+GNHACFID_01127	gene	1020				
+GNHACFID_01127	CDS	1020				hypothetical protein
+GNHACFID_01128	gene	888				
+GNHACFID_01128	CDS	888				hypothetical protein
+GNHACFID_01129	gene	957	noc			
+GNHACFID_01129	CDS	957	noc			Nucleoid occlusion protein
+GNHACFID_01130	gene	777				
+GNHACFID_01130	CDS	777			COG1192	putative protein
+GNHACFID_01131	gene	147				
+GNHACFID_01131	CDS	147				hypothetical protein
+GNHACFID_01132	gene	618	slmA			
+GNHACFID_01132	CDS	618	slmA			Nucleoid occlusion factor SlmA
+GNHACFID_01133	gene	1494				
+GNHACFID_01133	CDS	1494				hypothetical protein
+GNHACFID_01134	gene	369				
+GNHACFID_01134	CDS	369				hypothetical protein
+GNHACFID_01135	gene	1005				
+GNHACFID_01135	CDS	1005			COG0330	putative protein
+GNHACFID_01136	gene	453				
+GNHACFID_01136	CDS	453				hypothetical protein
+GNHACFID_01137	gene	1614	nnr_2			
+GNHACFID_01137	CDS	1614	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GNHACFID_01138	gene	2439				
+GNHACFID_01138	CDS	2439				hypothetical protein
+GNHACFID_01139	gene	576	zapA			
+GNHACFID_01139	CDS	576	zapA			Cell division protein ZapA
+GNHACFID_01140	gene	1149	hemW			
+GNHACFID_01140	CDS	1149	hemW		COG0635	Heme chaperone HemW
+GNHACFID_01141	gene	861				
+GNHACFID_01141	CDS	861				hypothetical protein
+GNHACFID_01142	gene	1317	cca			
+GNHACFID_01142	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+GNHACFID_01143	gene	1806	lepA			
+GNHACFID_01143	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+GNHACFID_01144	gene	267	rpsT			
+GNHACFID_01144	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+GNHACFID_01145	gene	165				
+GNHACFID_01145	CDS	165				hypothetical protein
+GNHACFID_01146	gene	1875	yxdM			
+GNHACFID_01146	CDS	1875	yxdM			ABC transporter permease protein YxdM
+GNHACFID_01147	gene	756	yxdL			
+GNHACFID_01147	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+GNHACFID_01148	gene	990	graS			
+GNHACFID_01148	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+GNHACFID_01149	gene	687	graR			
+GNHACFID_01149	CDS	687	graR		COG0745	Response regulator protein GraR
+GNHACFID_01150	gene	1038	yqeN			
+GNHACFID_01150	CDS	1038	yqeN		COG1466	putative protein YqeN
+GNHACFID_01151	gene	1236	comEC_1			
+GNHACFID_01151	CDS	1236	comEC_1		COG0658	ComE operon protein 3
+GNHACFID_01152	gene	1287	eis			
+GNHACFID_01152	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+GNHACFID_01153	gene	906				
+GNHACFID_01153	CDS	906				hypothetical protein
+GNHACFID_01154	gene	867	comEC_2			
+GNHACFID_01154	CDS	867	comEC_2		COG0658	ComE operon protein 3
+GNHACFID_01155	gene	717	tcdA			
+GNHACFID_01155	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+GNHACFID_01156	gene	1155	dnaJ			
+GNHACFID_01156	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+GNHACFID_01157	gene	1845	dnaK			
+GNHACFID_01157	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+GNHACFID_01158	gene	624	grpE			
+GNHACFID_01158	CDS	624	grpE			Protein GrpE
+GNHACFID_01159	gene	1005	hrcA			
+GNHACFID_01159	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+GNHACFID_01160	gene	1926	thrZ			
+GNHACFID_01160	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+GNHACFID_01161	gene	951				
+GNHACFID_01161	CDS	951				hypothetical protein
+GNHACFID_01162	gene	507				
+GNHACFID_01162	CDS	507				hypothetical protein
+GNHACFID_01163	gene	867				
+GNHACFID_01163	CDS	867				hypothetical protein
+GNHACFID_01164	gene	957				
+GNHACFID_01164	CDS	957				hypothetical protein
+GNHACFID_01165	gene	1824	dnaG			
+GNHACFID_01165	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+GNHACFID_01166	gene	1155	sigA			
+GNHACFID_01166	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+GNHACFID_01167	gene	777	trmK			
+GNHACFID_01167	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+GNHACFID_01168	gene	804				
+GNHACFID_01168	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+GNHACFID_01169	gene	213				
+GNHACFID_01169	CDS	213				hypothetical protein
+GNHACFID_01170	gene	735				
+GNHACFID_01170	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+GNHACFID_01171	gene	651				
+GNHACFID_01171	CDS	651				hypothetical protein
+GNHACFID_01172	gene	2415				
+GNHACFID_01172	CDS	2415				hypothetical protein
+GNHACFID_01173	gene	552	trpP			
+GNHACFID_01173	CDS	552	trpP			putative tryptophan transport protein
+GNHACFID_01174	gene	666				
+GNHACFID_01174	CDS	666				hypothetical protein
+GNHACFID_01175	gene	1440	miaB			
+GNHACFID_01175	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GNHACFID_01176	gene	558				
+GNHACFID_01176	CDS	558				hypothetical protein
+GNHACFID_01177	gene	1659	glnS			
+GNHACFID_01177	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+GNHACFID_01178	gene	738				
+GNHACFID_01178	CDS	738				hypothetical protein
+GNHACFID_01179	gene	2835				
+GNHACFID_01179	CDS	2835				hypothetical protein
+GNHACFID_01180	gene	1980				
+GNHACFID_01180	CDS	1980				hypothetical protein
+GNHACFID_01181	gene	177				
+GNHACFID_01181	CDS	177				hypothetical protein
+GNHACFID_01182	gene	1023	lnpD			
+GNHACFID_01182	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+GNHACFID_01183	gene	1104				
+GNHACFID_01183	CDS	1104				hypothetical protein
+GNHACFID_01184	gene	1230				
+GNHACFID_01184	CDS	1230				hypothetical protein
+GNHACFID_01185	gene	1005	asnA			
+GNHACFID_01185	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+GNHACFID_01186	gene	531	hpt_1			
+GNHACFID_01186	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+GNHACFID_01187	gene	795				
+GNHACFID_01187	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+GNHACFID_01188	gene	1236	baiN			
+GNHACFID_01188	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+GNHACFID_01189	gene	465				
+GNHACFID_01189	CDS	465				hypothetical protein
+GNHACFID_01190	gene	1764				
+GNHACFID_01190	CDS	1764				hypothetical protein
+GNHACFID_01191	gene	3534				
+GNHACFID_01191	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+GNHACFID_01192	gene	786	tagU_1			
+GNHACFID_01192	CDS	786	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+GNHACFID_01193	gene	1350	alsT_3			
+GNHACFID_01193	CDS	1350	alsT_3		COG1115	Amino-acid carrier protein AlsT
+GNHACFID_01194	gene	2145				
+GNHACFID_01194	CDS	2145				hypothetical protein
+GNHACFID_01195	gene	1230				
+GNHACFID_01195	CDS	1230				hypothetical protein
+GNHACFID_01196	gene	1560	murJ			
+GNHACFID_01196	CDS	1560	murJ		COG0728	putative lipid II flippase MurJ
+GNHACFID_01197	gene	1446	fcl			
+GNHACFID_01197	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+GNHACFID_01198	gene	1101	mshA			
+GNHACFID_01198	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GNHACFID_01199	gene	765	tuaG_1			
+GNHACFID_01199	CDS	765	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+GNHACFID_01200	gene	1122				
+GNHACFID_01200	CDS	1122				hypothetical protein
+GNHACFID_01201	gene	1188	tagF			
+GNHACFID_01201	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+GNHACFID_01202	gene	813				
+GNHACFID_01202	CDS	813				hypothetical protein
+GNHACFID_01203	gene	780	tuaG_2			
+GNHACFID_01203	CDS	780	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+GNHACFID_01204	gene	663	wecA			
+GNHACFID_01204	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+GNHACFID_01205	gene	1107				
+GNHACFID_01205	CDS	1107				hypothetical protein
+GNHACFID_01206	gene	1893	lytC_5			
+GNHACFID_01206	CDS	1893	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GNHACFID_01207	gene	1305				
+GNHACFID_01207	CDS	1305				hypothetical protein
+GNHACFID_01208	gene	1365				
+GNHACFID_01208	CDS	1365				hypothetical protein
+GNHACFID_01209	gene	2358	secA_1			
+GNHACFID_01209	CDS	2358	secA_1		COG0653	Protein translocase subunit SecA
+GNHACFID_01210	gene	1320				
+GNHACFID_01210	CDS	1320				hypothetical protein
+GNHACFID_01211	gene	738				
+GNHACFID_01211	CDS	738				hypothetical protein
+GNHACFID_01212	gene	462	cdd			
+GNHACFID_01212	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+GNHACFID_01213	gene	846	cvfB			
+GNHACFID_01213	CDS	846	cvfB		COG2996	Conserved virulence factor B
+GNHACFID_01214	gene	486				
+GNHACFID_01214	CDS	486				hypothetical protein
+GNHACFID_01215	gene	1422				
+GNHACFID_01215	CDS	1422				hypothetical protein
+GNHACFID_01216	gene	1239	rps1			
+GNHACFID_01216	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+GNHACFID_01217	gene	354				
+GNHACFID_01217	CDS	354				hypothetical protein
+GNHACFID_01218	gene	213				
+GNHACFID_01218	CDS	213				hypothetical protein
+GNHACFID_01219	gene	1560				
+GNHACFID_01219	CDS	1560				hypothetical protein
+GNHACFID_01220	gene	507	ecsA_2			
+GNHACFID_01220	CDS	507	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+GNHACFID_01221	gene	1044				
+GNHACFID_01221	CDS	1044				hypothetical protein
+GNHACFID_01222	gene	1521				
+GNHACFID_01222	CDS	1521				hypothetical protein
+GNHACFID_01223	gene	1194				
+GNHACFID_01223	CDS	1194				hypothetical protein
+GNHACFID_01224	gene	76				
+GNHACFID_01224	tRNA	76				tRNA-Val(tac)
+GNHACFID_01225	gene	77				
+GNHACFID_01225	tRNA	77				tRNA-Asp(gtc)
+GNHACFID_01226	gene	75				
+GNHACFID_01226	tRNA	75				tRNA-Gly(gcc)
+GNHACFID_01227	gene	76				
+GNHACFID_01227	tRNA	76				tRNA-Pyl(cta)
+GNHACFID_01228	gene	852	cdaA			
+GNHACFID_01228	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+GNHACFID_01229	gene	915	cdaR			
+GNHACFID_01229	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+GNHACFID_01230	gene	1083	buk2			
+GNHACFID_01230	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+GNHACFID_01231	gene	678				
+GNHACFID_01231	CDS	678				hypothetical protein
+GNHACFID_01232	gene	216	rsxB_2			
+GNHACFID_01232	CDS	216	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GNHACFID_01233	gene	1065	padG			
+GNHACFID_01233	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+GNHACFID_01234	gene	780	korB			
+GNHACFID_01234	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+GNHACFID_01235	gene	555				
+GNHACFID_01235	CDS	555				hypothetical protein
+GNHACFID_01236	gene	1368	glmM			
+GNHACFID_01236	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+GNHACFID_01237	gene	177				
+GNHACFID_01237	CDS	177				hypothetical protein
+GNHACFID_01238	gene	1254	murAA			
+GNHACFID_01238	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+GNHACFID_01239	gene	1011	mreB_2			
+GNHACFID_01239	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+GNHACFID_01240	gene	1185	metK			
+GNHACFID_01240	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+GNHACFID_01241	gene	2220	recD2			
+GNHACFID_01241	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+GNHACFID_01242	gene	771				
+GNHACFID_01242	CDS	771				hypothetical protein
+GNHACFID_01243	gene	540	folT			
+GNHACFID_01243	CDS	540	folT			Folate transporter FolT
+GNHACFID_01244	gene	141				
+GNHACFID_01244	CDS	141				hypothetical protein
+GNHACFID_01245	gene	2691	secA_2			
+GNHACFID_01245	CDS	2691	secA_2			Protein translocase subunit SecA
+GNHACFID_01246	gene	1671	norR			
+GNHACFID_01246	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+GNHACFID_01247	gene	1182				
+GNHACFID_01247	CDS	1182				hypothetical protein
+GNHACFID_01248	gene	1212	fldA_1			
+GNHACFID_01248	CDS	1212	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+GNHACFID_01249	gene	1233	hadB			
+GNHACFID_01249	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+GNHACFID_01250	gene	1125	hadC_1			
+GNHACFID_01250	CDS	1125	hadC_1	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+GNHACFID_01251	gene	1143	carC_1			
+GNHACFID_01251	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+GNHACFID_01252	gene	786	carD_1			
+GNHACFID_01252	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+GNHACFID_01253	gene	1011	carE_1			
+GNHACFID_01253	CDS	1011	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+GNHACFID_01254	gene	999				
+GNHACFID_01254	CDS	999		1.1.1.28		D-lactate dehydrogenase
+GNHACFID_01255	gene	1047	prfB			
+GNHACFID_01255	CDS	1047	prfB			Peptide chain release factor 2
+GNHACFID_01256	gene	2163	yhgF			
+GNHACFID_01256	CDS	2163	yhgF		COG2183	Protein YhgF
+GNHACFID_01257	gene	621	ribU			
+GNHACFID_01257	CDS	621	ribU			Riboflavin transporter RibU
+GNHACFID_01258	gene	795	fldI			
+GNHACFID_01258	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+GNHACFID_01259	gene	921				
+GNHACFID_01259	CDS	921				hypothetical protein
+GNHACFID_01260	gene	1374	moaA_2			
+GNHACFID_01260	CDS	1374	moaA_2			GTP 3',8-cyclase
+GNHACFID_01261	gene	1668	ubiB			
+GNHACFID_01261	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+GNHACFID_01262	gene	2484				
+GNHACFID_01262	CDS	2484				hypothetical protein
+GNHACFID_01263	gene	522	apt			
+GNHACFID_01263	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+GNHACFID_01264	gene	2226	relA			
+GNHACFID_01264	CDS	2226	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+GNHACFID_01265	gene	450	dtd			
+GNHACFID_01265	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+GNHACFID_01266	gene	627	gloC			
+GNHACFID_01266	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+GNHACFID_01267	gene	1560				
+GNHACFID_01267	CDS	1560				hypothetical protein
+GNHACFID_01268	gene	1263	hisS			
+GNHACFID_01268	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GNHACFID_01269	gene	1791	aspS			
+GNHACFID_01269	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+GNHACFID_01270	gene	315	csoR			
+GNHACFID_01270	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+GNHACFID_01271	gene	477				
+GNHACFID_01271	CDS	477				hypothetical protein
+GNHACFID_01272	gene	972	pta			
+GNHACFID_01272	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+GNHACFID_01273	gene	1200	sstT_1			
+GNHACFID_01273	CDS	1200	sstT_1			Serine/threonine transporter SstT
+GNHACFID_01274	gene	1578				
+GNHACFID_01274	CDS	1578				hypothetical protein
+GNHACFID_01275	gene	678				
+GNHACFID_01275	CDS	678				hypothetical protein
+GNHACFID_01276	gene	777	yjjP			
+GNHACFID_01276	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+GNHACFID_01277	gene	1467				
+GNHACFID_01277	CDS	1467				hypothetical protein
+GNHACFID_01278	gene	540	puuR			
+GNHACFID_01278	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+GNHACFID_01279	gene	1044	potA			
+GNHACFID_01279	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+GNHACFID_01280	gene	867	potB			
+GNHACFID_01280	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+GNHACFID_01281	gene	807				
+GNHACFID_01281	CDS	807				hypothetical protein
+GNHACFID_01282	gene	1086	potD			
+GNHACFID_01282	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+GNHACFID_01283	gene	750	cas6			
+GNHACFID_01283	CDS	750	cas6	3.1.-.-	COG5551	CRISPR-associated endoribonuclease Cas6
+GNHACFID_01284	gene	2328				
+GNHACFID_01284	CDS	2328		3.1.-.-	COG1353	CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A)
+GNHACFID_01285	gene	468	csm2			
+GNHACFID_01285	CDS	468	csm2			CRISPR system Cms protein Csm2
+GNHACFID_01286	gene	654	csm3			
+GNHACFID_01286	CDS	654	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+GNHACFID_01287	gene	504	csm4_1			
+GNHACFID_01287	CDS	504	csm4_1		COG1567	CRISPR system Cms protein Csm4
+GNHACFID_01288	gene	330	csm4_2			
+GNHACFID_01288	CDS	330	csm4_2		COG1567	CRISPR system Cms protein Csm4
+GNHACFID_01289	gene	1122	csm5			
+GNHACFID_01289	CDS	1122	csm5		COG1332	CRISPR system Cms protein Csm5
+GNHACFID_01290	gene	699	cas1			
+GNHACFID_01290	CDS	699	cas1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+GNHACFID_01291	gene	318	cas2			
+GNHACFID_01291	CDS	318	cas2	3.1.-.-	COG1343	CRISPR-associated endoribonuclease Cas2
+GNHACFID_01292	gene	1344	csm6			
+GNHACFID_01292	CDS	1344	csm6	3.1.-.-		CRISPR system endoribonuclease Csm6
+	repeat_region	460				
+GNHACFID_01293	gene	1269				
+GNHACFID_01293	CDS	1269				hypothetical protein
+GNHACFID_01294	gene	738				
+GNHACFID_01294	CDS	738				hypothetical protein
+GNHACFID_01295	gene	723				
+GNHACFID_01295	CDS	723				hypothetical protein
+GNHACFID_01296	gene	735				
+GNHACFID_01296	CDS	735				hypothetical protein
+GNHACFID_01297	gene	510	bcrA_1			
+GNHACFID_01297	CDS	510	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+GNHACFID_01298	gene	351	bcrA_2			
+GNHACFID_01298	CDS	351	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+GNHACFID_01299	gene	234				
+GNHACFID_01299	CDS	234				hypothetical protein
+GNHACFID_01300	gene	132				
+GNHACFID_01300	CDS	132				hypothetical protein
+GNHACFID_01301	gene	1053	mnmA			
+GNHACFID_01301	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+GNHACFID_01302	gene	465	cymR			
+GNHACFID_01302	CDS	465	cymR			HTH-type transcriptional regulator CymR
+GNHACFID_01303	gene	1272	rarA			
+GNHACFID_01303	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+GNHACFID_01304	gene	777	codY			
+GNHACFID_01304	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+GNHACFID_01305	gene	2082	topA			
+GNHACFID_01305	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+GNHACFID_01306	gene	1257				
+GNHACFID_01306	CDS	1257				hypothetical protein
+GNHACFID_01307	gene	1617	comM			
+GNHACFID_01307	CDS	1617	comM		COG0606	Competence protein ComM
+GNHACFID_01308	gene	363				
+GNHACFID_01308	CDS	363				hypothetical protein
+GNHACFID_01309	gene	1017	hmo_2			
+GNHACFID_01309	CDS	1017	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+GNHACFID_01310	gene	792	rnhB			
+GNHACFID_01310	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GNHACFID_01311	gene	1164	alr1			
+GNHACFID_01311	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+GNHACFID_01312	gene	885	rbgA			
+GNHACFID_01312	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+GNHACFID_01313	gene	357	rplS			
+GNHACFID_01313	CDS	357	rplS		COG0335	50S ribosomal protein L19
+GNHACFID_01314	gene	1224	tyrS			
+GNHACFID_01314	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+GNHACFID_01315	gene	1158				
+GNHACFID_01315	CDS	1158				hypothetical protein
+GNHACFID_01316	gene	726	trmD			
+GNHACFID_01316	CDS	726	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+GNHACFID_01317	gene	519	rimM			
+GNHACFID_01317	CDS	519	rimM			Ribosome maturation factor RimM
+GNHACFID_01318	gene	234				
+GNHACFID_01318	CDS	234				hypothetical protein
+GNHACFID_01319	gene	273	rpsP			
+GNHACFID_01319	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+GNHACFID_01320	gene	1359	ffh			
+GNHACFID_01320	CDS	1359	ffh		COG0541	Signal recognition particle protein
+GNHACFID_01321	gene	354				
+GNHACFID_01321	CDS	354				hypothetical protein
+GNHACFID_01322	gene	1734	aspT			
+GNHACFID_01322	CDS	1734	aspT			Aspartate/alanine antiporter
+GNHACFID_01323	gene	1431	asD			
+GNHACFID_01323	CDS	1431	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+GNHACFID_01324	gene	213				
+GNHACFID_01324	CDS	213				hypothetical protein
+GNHACFID_01325	gene	252				
+GNHACFID_01325	CDS	252				hypothetical protein
+GNHACFID_01326	gene	204				
+GNHACFID_01326	CDS	204				hypothetical protein
+GNHACFID_01327	gene	1191	Int-Tn			
+GNHACFID_01327	CDS	1191	Int-Tn			Transposase from transposon Tn916
+GNHACFID_01328	gene	213				
+GNHACFID_01328	CDS	213				hypothetical protein
+GNHACFID_01329	gene	1422				
+GNHACFID_01329	CDS	1422				hypothetical protein
+GNHACFID_01330	gene	1242				
+GNHACFID_01330	CDS	1242				hypothetical protein
+GNHACFID_01331	gene	342	rplQ			
+GNHACFID_01331	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+GNHACFID_01332	gene	948	rpoA			
+GNHACFID_01332	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+GNHACFID_01333	gene	402	rpsK			
+GNHACFID_01333	CDS	402	rpsK			30S ribosomal protein S11
+GNHACFID_01334	gene	369	rpsM			
+GNHACFID_01334	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+GNHACFID_01335	gene	114	rpmJ			
+GNHACFID_01335	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+GNHACFID_01336	gene	219	infA			
+GNHACFID_01336	CDS	219	infA		COG0361	Translation initiation factor IF-1
+GNHACFID_01337	gene	270				
+GNHACFID_01337	CDS	270				hypothetical protein
+GNHACFID_01338	gene	642	adk			
+GNHACFID_01338	CDS	642	adk	2.7.4.3		Adenylate kinase
+GNHACFID_01339	gene	1269	secY			
+GNHACFID_01339	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+GNHACFID_01340	gene	444	rplO			
+GNHACFID_01340	CDS	444	rplO			50S ribosomal protein L15
+GNHACFID_01341	gene	186	rpmD			
+GNHACFID_01341	CDS	186	rpmD			50S ribosomal protein L30
+GNHACFID_01342	gene	510	rpsE			
+GNHACFID_01342	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+GNHACFID_01343	gene	369	rplR			
+GNHACFID_01343	CDS	369	rplR		COG0256	50S ribosomal protein L18
+GNHACFID_01344	gene	543	rplF			
+GNHACFID_01344	CDS	543	rplF			50S ribosomal protein L6
+GNHACFID_01345	gene	399	rpsH			
+GNHACFID_01345	CDS	399	rpsH			30S ribosomal protein S8
+GNHACFID_01346	gene	186	rpsZ			
+GNHACFID_01346	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+GNHACFID_01347	gene	543	rplE			
+GNHACFID_01347	CDS	543	rplE			50S ribosomal protein L5
+GNHACFID_01348	gene	309	rplX			
+GNHACFID_01348	CDS	309	rplX		COG0198	50S ribosomal protein L24
+GNHACFID_01349	gene	369	rplN			
+GNHACFID_01349	CDS	369	rplN		COG0093	50S ribosomal protein L14
+GNHACFID_01350	gene	255	rpsQ			
+GNHACFID_01350	CDS	255	rpsQ			30S ribosomal protein S17
+GNHACFID_01351	gene	204	rpmC			
+GNHACFID_01351	CDS	204	rpmC			50S ribosomal protein L29
+GNHACFID_01352	gene	429	rplP			
+GNHACFID_01352	CDS	429	rplP		COG0197	50S ribosomal protein L16
+GNHACFID_01353	gene	795	rpsC			
+GNHACFID_01353	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+GNHACFID_01354	gene	339	rplV			
+GNHACFID_01354	CDS	339	rplV		COG0091	50S ribosomal protein L22
+GNHACFID_01355	gene	282	rpsS			
+GNHACFID_01355	CDS	282	rpsS			30S ribosomal protein S19
+GNHACFID_01356	gene	831	rplB			
+GNHACFID_01356	CDS	831	rplB			50S ribosomal protein L2
+GNHACFID_01357	gene	291	rplW			
+GNHACFID_01357	CDS	291	rplW			50S ribosomal protein L23
+GNHACFID_01358	gene	624	rplD			
+GNHACFID_01358	CDS	624	rplD			50S ribosomal protein L4
+GNHACFID_01359	gene	630	rplC			
+GNHACFID_01359	CDS	630	rplC		COG0087	50S ribosomal protein L3
+GNHACFID_01360	gene	312	rpsJ			
+GNHACFID_01360	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+GNHACFID_01361	gene	795				
+GNHACFID_01361	CDS	795		1.-.-.-		putative oxidoreductase
+GNHACFID_01362	gene	1752				
+GNHACFID_01362	CDS	1752				hypothetical protein
+GNHACFID_01363	gene	1014				
+GNHACFID_01363	CDS	1014				hypothetical protein
+GNHACFID_01364	gene	486				
+GNHACFID_01364	CDS	486				hypothetical protein
+GNHACFID_01365	gene	3441	pycA			
+GNHACFID_01365	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+GNHACFID_01366	gene	87				
+GNHACFID_01366	rRNA	87				5S ribosomal RNA (partial)
+GNHACFID_01367	gene	549	lytC_6			
+GNHACFID_01367	CDS	549	lytC_6	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GNHACFID_01368	gene	951	prmA			
+GNHACFID_01368	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+GNHACFID_01369	gene	777	rsmE			
+GNHACFID_01369	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+GNHACFID_01370	gene	1296	mtaB			
+GNHACFID_01370	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+GNHACFID_01371	gene	324				
+GNHACFID_01371	CDS	324				hypothetical protein
+GNHACFID_01372	gene	345				
+GNHACFID_01372	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+GNHACFID_01373	gene	822				
+GNHACFID_01373	CDS	822				hypothetical protein
+GNHACFID_01374	gene	1032	pheS			
+GNHACFID_01374	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+GNHACFID_01375	gene	2391	pheT			
+GNHACFID_01375	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+GNHACFID_01376	gene	1557	ykoD_5			
+GNHACFID_01376	CDS	1557	ykoD_5	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+GNHACFID_01377	gene	705				
+GNHACFID_01377	CDS	705				hypothetical protein
+GNHACFID_01378	gene	609				
+GNHACFID_01378	CDS	609				hypothetical protein
+GNHACFID_01379	gene	1719				
+GNHACFID_01379	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+GNHACFID_01380	gene	1770	msbA_4			
+GNHACFID_01380	CDS	1770	msbA_4	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+GNHACFID_01381	gene	957	rhaR_3			
+GNHACFID_01381	CDS	957	rhaR_3			HTH-type transcriptional activator RhaR
+GNHACFID_01382	gene	1818	uvrC			
+GNHACFID_01382	CDS	1818	uvrC		COG0322	UvrABC system protein C
+GNHACFID_01383	gene	933	hprK			
+GNHACFID_01383	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+GNHACFID_01384	gene	921	murB			
+GNHACFID_01384	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+GNHACFID_01385	gene	738	polX			
+GNHACFID_01385	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+GNHACFID_01386	gene	864	yvcJ			
+GNHACFID_01386	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+GNHACFID_01387	gene	1140				
+GNHACFID_01387	CDS	1140			COG0391	Gluconeogenesis factor
+GNHACFID_01388	gene	417	ndx1			
+GNHACFID_01388	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+GNHACFID_01389	gene	966	whiA			
+GNHACFID_01389	CDS	966	whiA		COG1481	putative cell division protein WhiA
+GNHACFID_01390	gene	3603	dnaE			
+GNHACFID_01390	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+GNHACFID_01391	gene	1827	glmS			
+GNHACFID_01391	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GNHACFID_01392	gene	762	truA			
+GNHACFID_01392	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+GNHACFID_01393	gene	1071				
+GNHACFID_01393	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+GNHACFID_01394	gene	918				
+GNHACFID_01394	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+GNHACFID_01395	gene	1254				
+GNHACFID_01395	CDS	1254				hypothetical protein
+GNHACFID_01396	gene	429	rplM			
+GNHACFID_01396	CDS	429	rplM		COG0102	50S ribosomal protein L13
+GNHACFID_01397	gene	393	rpsI			
+GNHACFID_01397	CDS	393	rpsI			30S ribosomal protein S9
+GNHACFID_01398	gene	411				
+GNHACFID_01398	CDS	411				hypothetical protein
+GNHACFID_01399	gene	1053	xerC_3			
+GNHACFID_01399	CDS	1053	xerC_3			Tyrosine recombinase XerC
+GNHACFID_01400	gene	636				
+GNHACFID_01400	CDS	636				hypothetical protein
+GNHACFID_01401	gene	1140				
+GNHACFID_01401	CDS	1140				hypothetical protein
+GNHACFID_01402	gene	405				
+GNHACFID_01402	CDS	405				hypothetical protein
+GNHACFID_01403	gene	378				
+GNHACFID_01403	CDS	378				hypothetical protein
+GNHACFID_01404	gene	1533				
+GNHACFID_01404	CDS	1533				hypothetical protein
+GNHACFID_01405	gene	315	xre			
+GNHACFID_01405	CDS	315	xre		COG1396	HTH-type transcriptional regulator Xre
+GNHACFID_01406	gene	183				
+GNHACFID_01406	CDS	183				hypothetical protein
+GNHACFID_01407	gene	552				
+GNHACFID_01407	CDS	552				hypothetical protein
+GNHACFID_01408	gene	426				
+GNHACFID_01408	CDS	426				hypothetical protein
+GNHACFID_01409	gene	210				
+GNHACFID_01409	CDS	210				hypothetical protein
+GNHACFID_01410	gene	267				
+GNHACFID_01410	CDS	267				hypothetical protein
+GNHACFID_01411	gene	258				
+GNHACFID_01411	CDS	258				hypothetical protein
+GNHACFID_01412	gene	342				
+GNHACFID_01412	CDS	342				hypothetical protein
+GNHACFID_01413	gene	486	greA			
+GNHACFID_01413	CDS	486	greA		COG0782	Transcription elongation factor GreA
+GNHACFID_01414	gene	1911	epmA			
+GNHACFID_01414	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+GNHACFID_01415	gene	720				
+GNHACFID_01415	CDS	720				hypothetical protein
+GNHACFID_01416	gene	1107				
+GNHACFID_01416	CDS	1107				hypothetical protein
+GNHACFID_01417	gene	1182				
+GNHACFID_01417	CDS	1182		2.6.1.1		Aspartate aminotransferase
+GNHACFID_01418	gene	519	hmpT			
+GNHACFID_01418	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+GNHACFID_01419	gene	1263	sstT_2			
+GNHACFID_01419	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+GNHACFID_01420	gene	2826	uvrA			
+GNHACFID_01420	CDS	2826	uvrA			UvrABC system protein A
+GNHACFID_01421	gene	576				
+GNHACFID_01421	CDS	576				hypothetical protein
+GNHACFID_01422	gene	1974	uvrB			
+GNHACFID_01422	CDS	1974	uvrB			UvrABC system protein B
+GNHACFID_01423	gene	396				
+GNHACFID_01423	CDS	396				hypothetical protein
+GNHACFID_01424	gene	1116				
+GNHACFID_01424	CDS	1116				hypothetical protein
+GNHACFID_01425	gene	396	panD			
+GNHACFID_01425	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+GNHACFID_01426	gene	879				
+GNHACFID_01426	CDS	879				hypothetical protein
+GNHACFID_01427	gene	1185	aspC			
+GNHACFID_01427	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+GNHACFID_01428	gene	1326	brnQ_4			
+GNHACFID_01428	CDS	1326	brnQ_4		COG1114	Branched-chain amino acid transport system 2 carrier protein
+GNHACFID_01429	gene	993	hpr			
+GNHACFID_01429	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+GNHACFID_01430	gene	1008	carE_2			
+GNHACFID_01430	CDS	1008	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+GNHACFID_01431	gene	792	carD_2			
+GNHACFID_01431	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+GNHACFID_01432	gene	1134	carC_2			
+GNHACFID_01432	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+GNHACFID_01433	gene	1119	hadC_2			
+GNHACFID_01433	CDS	1119	hadC_2	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+GNHACFID_01434	gene	1236	fldB			
+GNHACFID_01434	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+GNHACFID_01435	gene	1245	fldA_2			
+GNHACFID_01435	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+GNHACFID_01436	gene	696	rspR_2			
+GNHACFID_01436	CDS	696	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+GNHACFID_01437	gene	351	ssrA			
+GNHACFID_01437	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+GNHACFID_01438	gene	768				
+GNHACFID_01438	CDS	768				hypothetical protein
+GNHACFID_01439	gene	651				
+GNHACFID_01439	CDS	651				hypothetical protein
+GNHACFID_01440	gene	507	tpx			
+GNHACFID_01440	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+GNHACFID_01441	gene	462	mutX			
+GNHACFID_01441	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+GNHACFID_01442	gene	279	yjdJ			
+GNHACFID_01442	CDS	279	yjdJ		COG2388	putative protein YjdJ
+GNHACFID_01443	gene	825	ydjP			
+GNHACFID_01443	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+GNHACFID_01444	gene	1764	rqcH			
+GNHACFID_01444	CDS	1764	rqcH			Rqc2 RqcH
+GNHACFID_01445	gene	525	pyrR			
+GNHACFID_01445	CDS	525	pyrR			Bifunctional protein PyrR
+GNHACFID_01446	gene	933	rluD_2			
+GNHACFID_01446	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+GNHACFID_01447	gene	480	lspA			
+GNHACFID_01447	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+GNHACFID_01448	gene	768				
+GNHACFID_01448	CDS	768				hypothetical protein
+GNHACFID_01449	gene	1008	trpS			
+GNHACFID_01449	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+GNHACFID_01450	gene	708	mtnN			
+GNHACFID_01450	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+GNHACFID_01451	gene	1053				
+GNHACFID_01451	CDS	1053				hypothetical protein
+GNHACFID_01452	gene	786				
+GNHACFID_01452	CDS	786				hypothetical protein
+GNHACFID_01453	gene	1995				
+GNHACFID_01453	CDS	1995				hypothetical protein
+GNHACFID_01454	gene	2412				
+GNHACFID_01454	CDS	2412				hypothetical protein
+GNHACFID_01455	gene	387	dfx			
+GNHACFID_01455	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+GNHACFID_01456	gene	372	perR			
+GNHACFID_01456	CDS	372	perR		COG0735	Peroxide operon regulator
+GNHACFID_01457	gene	549	rbr			
+GNHACFID_01457	CDS	549	rbr		COG1592	Rubrerythrin
+GNHACFID_01458	gene	288				
+GNHACFID_01458	CDS	288				IS200/IS605 family transposase ISStin10
+GNHACFID_01459	gene	1506	speA			
+GNHACFID_01459	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+GNHACFID_01460	gene	702	tmk			
+GNHACFID_01460	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+GNHACFID_01461	gene	939				
+GNHACFID_01461	CDS	939				hypothetical protein
+GNHACFID_01462	gene	897				
+GNHACFID_01462	CDS	897				hypothetical protein
+GNHACFID_01463	gene	750	yfiC			
+GNHACFID_01463	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+GNHACFID_01464	gene	837	rsmI			
+GNHACFID_01464	CDS	837	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+GNHACFID_01465	gene	459				
+GNHACFID_01465	CDS	459				hypothetical protein
+GNHACFID_01466	gene	5607				
+GNHACFID_01466	CDS	5607				hypothetical protein
+GNHACFID_01467	gene	1437	pncB2			
+GNHACFID_01467	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+GNHACFID_01468	gene	456	lrpC			
+GNHACFID_01468	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+GNHACFID_01469	gene	1941	metG			
+GNHACFID_01469	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+GNHACFID_01470	gene	771	ycfH			
+GNHACFID_01470	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+GNHACFID_01471	gene	177				
+GNHACFID_01471	CDS	177				hypothetical protein
+GNHACFID_01472	gene	825				
+GNHACFID_01472	CDS	825				hypothetical protein
+GNHACFID_01473	gene	819				
+GNHACFID_01473	CDS	819				hypothetical protein
+GNHACFID_01474	gene	1782				
+GNHACFID_01474	CDS	1782				hypothetical protein
+GNHACFID_01475	gene	1764				
+GNHACFID_01475	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+GNHACFID_01476	gene	1698				
+GNHACFID_01476	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+GNHACFID_01477	gene	927				
+GNHACFID_01477	CDS	927				hypothetical protein
+GNHACFID_01478	gene	1056				
+GNHACFID_01478	CDS	1056				hypothetical protein
+GNHACFID_01479	gene	3747	rpoB			
+GNHACFID_01479	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+GNHACFID_01480	gene	96				
+GNHACFID_01480	CDS	96				hypothetical protein
+GNHACFID_01481	gene	3555	rpoC			
+GNHACFID_01481	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+GNHACFID_01482	gene	723				
+GNHACFID_01482	CDS	723			COG0217	putative transcriptional regulatory protein
+GNHACFID_01483	gene	285				
+GNHACFID_01483	CDS	285				hypothetical protein
+GNHACFID_01484	gene	1188	uctC			
+GNHACFID_01484	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+GNHACFID_01485	gene	1170	opuCA			
+GNHACFID_01485	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+GNHACFID_01486	gene	1662				
+GNHACFID_01486	CDS	1662				hypothetical protein
+GNHACFID_01487	gene	636	opuCD			
+GNHACFID_01487	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+GNHACFID_01488	gene	465	bcp			
+GNHACFID_01488	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GNHACFID_01489	gene	2109	ligA			
+GNHACFID_01489	CDS	2109	ligA	6.5.1.2		DNA ligase
+GNHACFID_01490	gene	1461	rph			
+GNHACFID_01490	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+GNHACFID_01491	gene	474				
+GNHACFID_01491	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+GNHACFID_01492	gene	1284	tig			
+GNHACFID_01492	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+GNHACFID_01493	gene	585	clpP			
+GNHACFID_01493	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+GNHACFID_01494	gene	1266	clpX			
+GNHACFID_01494	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+GNHACFID_01495	gene	378				
+GNHACFID_01495	CDS	378				hypothetical protein
+GNHACFID_01496	gene	2439				
+GNHACFID_01496	CDS	2439				hypothetical protein
+GNHACFID_01497	gene	2391	glgP			
+GNHACFID_01497	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+GNHACFID_01498	gene	1425	glgA			
+GNHACFID_01498	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+GNHACFID_01499	gene	1107	glgD			
+GNHACFID_01499	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+GNHACFID_01500	gene	1173	glgC			
+GNHACFID_01500	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+GNHACFID_01501	gene	1866	glgB			
+GNHACFID_01501	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+GNHACFID_01502	gene	1944				
+GNHACFID_01502	CDS	1944				hypothetical protein
+GNHACFID_01503	gene	1479	malQ			
+GNHACFID_01503	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+GNHACFID_01504	gene	321				
+GNHACFID_01504	CDS	321				hypothetical protein
+	repeat_region	605				
+GNHACFID_01505	gene	459	tsaE			
+GNHACFID_01505	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GNHACFID_01506	gene	720	tsaB			
+GNHACFID_01506	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+GNHACFID_01507	gene	447	rimI			
+GNHACFID_01507	CDS	447	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+GNHACFID_01508	gene	1020	tsaD			
+GNHACFID_01508	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+GNHACFID_01509	gene	1932	yheS			
+GNHACFID_01509	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+GNHACFID_01510	gene	636	rex1			
+GNHACFID_01510	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+GNHACFID_01511	gene	168				
+GNHACFID_01511	CDS	168			COG1145	Ferredoxin
+GNHACFID_01512	gene	1254				
+GNHACFID_01512	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+GNHACFID_01513	gene	657				
+GNHACFID_01513	CDS	657				hypothetical protein
+GNHACFID_01514	gene	219				
+GNHACFID_01514	CDS	219				hypothetical protein
+GNHACFID_01515	gene	234				
+GNHACFID_01515	CDS	234				hypothetical protein
+GNHACFID_01516	gene	2151	feoB			
+GNHACFID_01516	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+GNHACFID_01517	gene	168				
+GNHACFID_01517	CDS	168				hypothetical protein
+GNHACFID_01518	gene	1557				
+GNHACFID_01518	CDS	1557				hypothetical protein
+GNHACFID_01519	gene	486				
+GNHACFID_01519	CDS	486				hypothetical protein
+GNHACFID_01520	gene	651				
+GNHACFID_01520	CDS	651				hypothetical protein
+GNHACFID_01521	gene	954				
+GNHACFID_01521	CDS	954				hypothetical protein
+GNHACFID_01522	gene	1365	rlmCD_2			
+GNHACFID_01522	CDS	1365	rlmCD_2	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+GNHACFID_01523	gene	1737	pyk			
+GNHACFID_01523	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+GNHACFID_01524	gene	972	pfkA			
+GNHACFID_01524	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+GNHACFID_01525	gene	180	rpsU			
+GNHACFID_01525	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+GNHACFID_01526	gene	441	yqeY			
+GNHACFID_01526	CDS	441	yqeY		COG1610	putative protein YqeY
+GNHACFID_01527	gene	861				
+GNHACFID_01527	CDS	861				hypothetical protein
+GNHACFID_01528	gene	606				
+GNHACFID_01528	CDS	606				hypothetical protein
+GNHACFID_01529	gene	675	ung			
+GNHACFID_01529	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+GNHACFID_01530	gene	375				
+GNHACFID_01530	CDS	375				hypothetical protein
+GNHACFID_01531	gene	1050	apbE			
+GNHACFID_01531	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+GNHACFID_01532	gene	2505				
+GNHACFID_01532	CDS	2505				hypothetical protein
+GNHACFID_01533	gene	672	lolD_2			
+GNHACFID_01533	CDS	672	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GNHACFID_01534	gene	975	tcrY			
+GNHACFID_01534	CDS	975	tcrY	2.7.13.3		putative sensor histidine kinase TcrY
+GNHACFID_01535	gene	672	regX3			
+GNHACFID_01535	CDS	672	regX3		COG0745	Sensory transduction protein regX3
+GNHACFID_01536	gene	1050				
+GNHACFID_01536	CDS	1050		1.8.98.-	COG0641	Anaerobic sulfatase-maturating enzyme
+GNHACFID_01537	gene	1212	moaA_3			
+GNHACFID_01537	CDS	1212	moaA_3			GTP 3',8-cyclase
+GNHACFID_01538	gene	1218	moaA_4			
+GNHACFID_01538	CDS	1218	moaA_4			GTP 3',8-cyclase
+GNHACFID_01539	gene	1005				
+GNHACFID_01539	CDS	1005				hypothetical protein
+GNHACFID_01540	gene	678	lolD_3			
+GNHACFID_01540	CDS	678	lolD_3	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GNHACFID_01541	gene	1740				
+GNHACFID_01541	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+GNHACFID_01542	gene	1476				
+GNHACFID_01542	CDS	1476				hypothetical protein
+GNHACFID_01543	gene	831	proC			
+GNHACFID_01543	CDS	831	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+GNHACFID_01544	gene	651				
+GNHACFID_01544	CDS	651				hypothetical protein
+GNHACFID_01545	gene	549				
+GNHACFID_01545	CDS	549				hypothetical protein
+GNHACFID_01546	gene	555	rnmV			
+GNHACFID_01546	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+GNHACFID_01547	gene	879	rsmA			
+GNHACFID_01547	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+GNHACFID_01548	gene	870				
+GNHACFID_01548	CDS	870				hypothetical protein
+GNHACFID_01549	gene	74				
+GNHACFID_01549	tRNA	74				tRNA-Glu(ttc)
+GNHACFID_01550	gene	73				
+GNHACFID_01550	tRNA	73				tRNA-Asn(gtt)
+GNHACFID_01551	gene	105				
+GNHACFID_01551	rRNA	105				5S ribosomal RNA
+GNHACFID_01552	gene	1989	tkt			
+GNHACFID_01552	CDS	1989	tkt	2.2.1.1		Transketolase
+GNHACFID_01553	gene	984				
+GNHACFID_01553	CDS	984				hypothetical protein
+GNHACFID_01554	gene	579				
+GNHACFID_01554	CDS	579				hypothetical protein
+GNHACFID_01555	gene	465				
+GNHACFID_01555	CDS	465				hypothetical protein
+GNHACFID_01556	gene	405				
+GNHACFID_01556	CDS	405				hypothetical protein
+GNHACFID_01557	gene	591	ogt			
+GNHACFID_01557	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+GNHACFID_01558	gene	990	asd_2			
+GNHACFID_01558	CDS	990	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+GNHACFID_01559	gene	1338	hom			
+GNHACFID_01559	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+GNHACFID_01560	gene	1050	thrC			
+GNHACFID_01560	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+GNHACFID_01561	gene	909	thrB			
+GNHACFID_01561	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+GNHACFID_01562	gene	1221	ask			
+GNHACFID_01562	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+GNHACFID_01563	gene	759	nadE			
+GNHACFID_01563	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+GNHACFID_01564	gene	642				
+GNHACFID_01564	CDS	642				hypothetical protein
+GNHACFID_01565	gene	678				
+GNHACFID_01565	CDS	678				hypothetical protein
+GNHACFID_01566	gene	423				
+GNHACFID_01566	CDS	423				hypothetical protein
+GNHACFID_01567	gene	219				
+GNHACFID_01567	CDS	219				hypothetical protein
+GNHACFID_01568	gene	675				
+GNHACFID_01568	CDS	675				hypothetical protein
+GNHACFID_01569	gene	1731	cdr			
+GNHACFID_01569	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+GNHACFID_01570	gene	288	pagR			
+GNHACFID_01570	CDS	288	pagR			Transcriptional repressor PagR
+GNHACFID_01571	gene	546	hpt_2			
+GNHACFID_01571	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+GNHACFID_01572	gene	723	engB			
+GNHACFID_01572	CDS	723	engB			GTP-binding protein EngB
+GNHACFID_01573	gene	2424	lon1			
+GNHACFID_01573	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+GNHACFID_01574	gene	468				
+GNHACFID_01574	CDS	468				hypothetical protein
+GNHACFID_01575	gene	522				
+GNHACFID_01575	CDS	522				hypothetical protein
+GNHACFID_01576	gene	240				
+GNHACFID_01576	CDS	240				hypothetical protein
+GNHACFID_01577	gene	74				
+GNHACFID_01577	tRNA	74				tRNA-Gly(tcc)
+GNHACFID_01578	gene	72				
+GNHACFID_01578	tRNA	72				tRNA-Glu(ctc)
+GNHACFID_01579	gene	1314	ugtP_2			
+GNHACFID_01579	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+GNHACFID_01580	gene	168				
+GNHACFID_01580	CDS	168				hypothetical protein
+GNHACFID_01581	gene	276				
+GNHACFID_01581	CDS	276				hypothetical protein
+GNHACFID_01582	gene	600	recR			
+GNHACFID_01582	CDS	600	recR		COG0353	Recombination protein RecR
+GNHACFID_01583	gene	345				
+GNHACFID_01583	CDS	345			COG0718	Nucleoid-associated protein
+GNHACFID_01584	gene	1683	ruvB_2			
+GNHACFID_01584	CDS	1683	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+GNHACFID_01585	gene	576				
+GNHACFID_01585	CDS	576				hypothetical protein
+GNHACFID_01586	gene	642	bcrA_3			
+GNHACFID_01586	CDS	642	bcrA_3			Bacitracin transport ATP-binding protein BcrA
+GNHACFID_01587	gene	657				
+GNHACFID_01587	CDS	657				hypothetical protein
+GNHACFID_01588	gene	681				
+GNHACFID_01588	CDS	681				hypothetical protein
+GNHACFID_01589	gene	768				
+GNHACFID_01589	CDS	768				hypothetical protein
+GNHACFID_01590	gene	1701				
+GNHACFID_01590	CDS	1701				hypothetical protein
+GNHACFID_01591	gene	762				
+GNHACFID_01591	CDS	762				hypothetical protein
+GNHACFID_01592	gene	552				
+GNHACFID_01592	CDS	552				IS3 family transposase ISEfa10
+GNHACFID_01593	gene	510				
+GNHACFID_01593	CDS	510				hypothetical protein
+GNHACFID_01594	gene	453				
+GNHACFID_01594	CDS	453				hypothetical protein
+GNHACFID_01595	gene	396				
+GNHACFID_01595	CDS	396				hypothetical protein
+GNHACFID_01596	gene	327				
+GNHACFID_01596	CDS	327				hypothetical protein
+GNHACFID_01597	gene	408				
+GNHACFID_01597	CDS	408				hypothetical protein
+GNHACFID_01598	gene	852				
+GNHACFID_01598	CDS	852				hypothetical protein
+GNHACFID_01599	gene	5994				
+GNHACFID_01599	CDS	5994				hypothetical protein
+GNHACFID_01600	gene	87				
+GNHACFID_01600	rRNA	87				5S ribosomal RNA (partial)
+GNHACFID_01601	gene	1305	thiC			
+GNHACFID_01601	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+GNHACFID_01602	gene	1455	thiM			
+GNHACFID_01602	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+GNHACFID_01603	gene	822	thiD			
+GNHACFID_01603	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+GNHACFID_01604	gene	927				
+GNHACFID_01604	CDS	927				hypothetical protein
+GNHACFID_01605	gene	2187	ziaA			
+GNHACFID_01605	CDS	2187	ziaA	7.2.2.12		Zinc-transporting ATPase
+GNHACFID_01606	gene	384	ziaR			
+GNHACFID_01606	CDS	384	ziaR			Transcriptional repressor SmtB 
+GNHACFID_01607	gene	357				
+GNHACFID_01607	CDS	357				hypothetical protein
+GNHACFID_01608	gene	858				
+GNHACFID_01608	CDS	858				hypothetical protein
+GNHACFID_01609	gene	729	lnrL_2			
+GNHACFID_01609	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+GNHACFID_01610	gene	369	ytrA			
+GNHACFID_01610	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+GNHACFID_01611	gene	213				
+GNHACFID_01611	CDS	213				hypothetical protein
+GNHACFID_01612	gene	1041	tagU_2			
+GNHACFID_01612	CDS	1041	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+GNHACFID_01613	gene	789	ybiV			
+GNHACFID_01613	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+GNHACFID_01614	gene	1110				
+GNHACFID_01614	CDS	1110				hypothetical protein
+GNHACFID_01615	gene	264	ptsH			
+GNHACFID_01615	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+GNHACFID_01616	gene	1716	ptsI			
+GNHACFID_01616	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+GNHACFID_01617	gene	654				
+GNHACFID_01617	CDS	654				hypothetical protein
+GNHACFID_01618	gene	900				
+GNHACFID_01618	CDS	900				hypothetical protein
+GNHACFID_01619	gene	546				
+GNHACFID_01619	CDS	546				hypothetical protein
+GNHACFID_01620	gene	888				
+GNHACFID_01620	CDS	888				hypothetical protein
+GNHACFID_01621	gene	222				
+GNHACFID_01621	CDS	222				hypothetical protein
+GNHACFID_01622	gene	975				
+GNHACFID_01622	CDS	975				hypothetical protein
+GNHACFID_01623	gene	189				
+GNHACFID_01623	CDS	189				hypothetical protein
+GNHACFID_01624	gene	342				
+GNHACFID_01624	CDS	342				hypothetical protein
+GNHACFID_01625	gene	933				
+GNHACFID_01625	CDS	933				hypothetical protein
+GNHACFID_01626	gene	672				
+GNHACFID_01626	CDS	672				hypothetical protein
+GNHACFID_01627	gene	837	ecfA1			
+GNHACFID_01627	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+GNHACFID_01628	gene	876	ecfA2			
+GNHACFID_01628	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+GNHACFID_01629	gene	810	ecfT_4			
+GNHACFID_01629	CDS	810	ecfT_4		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+GNHACFID_01630	gene	1167	patB			
+GNHACFID_01630	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+GNHACFID_01631	gene	747	aroD			
+GNHACFID_01631	CDS	747	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+GNHACFID_01632	gene	1401				
+GNHACFID_01632	CDS	1401				hypothetical protein
+GNHACFID_01633	gene	957	prs			
+GNHACFID_01633	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GNHACFID_01634	gene	1392	glmU_2			
+GNHACFID_01634	CDS	1392	glmU_2			Bifunctional protein GlmU
+GNHACFID_01635	gene	651				
+GNHACFID_01635	CDS	651				hypothetical protein
+GNHACFID_01636	gene	834	purR			
+GNHACFID_01636	CDS	834	purR		COG0503	Pur operon repressor
+GNHACFID_01637	gene	1362	murC			
+GNHACFID_01637	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+GNHACFID_01638	gene	1386	rlmCD_3			
+GNHACFID_01638	CDS	1386	rlmCD_3	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+GNHACFID_01639	gene	537				
+GNHACFID_01639	CDS	537				hypothetical protein
+GNHACFID_01640	gene	750				
+GNHACFID_01640	CDS	750				IS21 family transposase ISCbo2
+GNHACFID_01641	gene	1293				
+GNHACFID_01641	CDS	1293				hypothetical protein
+GNHACFID_01642	gene	1392	nhaC			
+GNHACFID_01642	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+GNHACFID_01643	gene	942				
+GNHACFID_01643	CDS	942				IS481 family transposase ISSsu8
+GNHACFID_01644	gene	567				
+GNHACFID_01644	CDS	567				hypothetical protein
+GNHACFID_01645	gene	489	fpgS			
+GNHACFID_01645	CDS	489	fpgS	6.3.2.17		Folylpolyglutamate synthase
+GNHACFID_01646	gene	459				
+GNHACFID_01646	CDS	459				IS200/IS605 family transposase IS1541D
+GNHACFID_01647	gene	1158				
+GNHACFID_01647	CDS	1158				hypothetical protein
+GNHACFID_01648	gene	585	ygcP			
+GNHACFID_01648	CDS	585	ygcP		COG1954	putative protein YgcP
+GNHACFID_01649	gene	282				
+GNHACFID_01649	CDS	282				IS200/IS605 family transposase ISDha13

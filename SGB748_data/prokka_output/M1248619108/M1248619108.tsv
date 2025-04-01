@@ -1,0 +1,2527 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MCEMKNIG_00001	gene	369	rplL			
+MCEMKNIG_00001	CDS	369	rplL			50S ribosomal protein L7/L12
+MCEMKNIG_00002	gene	522	rplJ			
+MCEMKNIG_00002	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+MCEMKNIG_00003	gene	699	rplA			
+MCEMKNIG_00003	CDS	699	rplA			50S ribosomal protein L1
+MCEMKNIG_00004	gene	426	rplK			
+MCEMKNIG_00004	CDS	426	rplK		COG0080	50S ribosomal protein L11
+MCEMKNIG_00005	gene	543	nusG			
+MCEMKNIG_00005	CDS	543	nusG			Transcription termination/antitermination protein NusG
+MCEMKNIG_00006	gene	207	secE			
+MCEMKNIG_00006	CDS	207	secE			Protein translocase subunit SecE
+MCEMKNIG_00007	gene	150	rpmG2			
+MCEMKNIG_00007	CDS	150	rpmG2			50S ribosomal protein L33 2
+MCEMKNIG_00008	gene	489				
+MCEMKNIG_00008	CDS	489				hypothetical protein
+MCEMKNIG_00009	gene	696				
+MCEMKNIG_00009	CDS	696				hypothetical protein
+MCEMKNIG_00010	gene	1224	pepT			
+MCEMKNIG_00010	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+MCEMKNIG_00011	gene	75				
+MCEMKNIG_00011	tRNA	75				tRNA-Arg(tcg)
+MCEMKNIG_00012	gene	402				
+MCEMKNIG_00012	CDS	402				hypothetical protein
+MCEMKNIG_00013	gene	75				
+MCEMKNIG_00013	tRNA	75				tRNA-Arg(cct)
+MCEMKNIG_00014	gene	1200	gerN			
+MCEMKNIG_00014	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+MCEMKNIG_00015	gene	447				
+MCEMKNIG_00015	CDS	447				hypothetical protein
+MCEMKNIG_00016	gene	702				
+MCEMKNIG_00016	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+MCEMKNIG_00017	gene	3555	rpoC			
+MCEMKNIG_00017	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+MCEMKNIG_00018	gene	96				
+MCEMKNIG_00018	CDS	96				hypothetical protein
+MCEMKNIG_00019	gene	3747	rpoB			
+MCEMKNIG_00019	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+MCEMKNIG_00020	gene	1056				
+MCEMKNIG_00020	CDS	1056				hypothetical protein
+MCEMKNIG_00021	gene	927				
+MCEMKNIG_00021	CDS	927				hypothetical protein
+MCEMKNIG_00022	gene	1698				
+MCEMKNIG_00022	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+MCEMKNIG_00023	gene	1764				
+MCEMKNIG_00023	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MCEMKNIG_00024	gene	1794				
+MCEMKNIG_00024	CDS	1794				hypothetical protein
+MCEMKNIG_00025	gene	819				
+MCEMKNIG_00025	CDS	819				hypothetical protein
+MCEMKNIG_00026	gene	825				
+MCEMKNIG_00026	CDS	825				hypothetical protein
+MCEMKNIG_00027	gene	2187				
+MCEMKNIG_00027	CDS	2187				hypothetical protein
+MCEMKNIG_00028	gene	885	mfd			
+MCEMKNIG_00028	CDS	885	mfd	3.6.4.-		Transcription-repair-coupling factor
+MCEMKNIG_00029	gene	1062	prsA_1			
+MCEMKNIG_00029	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+MCEMKNIG_00030	gene	1623	spoVB			
+MCEMKNIG_00030	CDS	1623	spoVB		COG2244	Stage V sporulation protein B
+MCEMKNIG_00031	gene	1014				
+MCEMKNIG_00031	CDS	1014				hypothetical protein
+MCEMKNIG_00032	gene	282	hup			
+MCEMKNIG_00032	CDS	282	hup			DNA-binding protein HU
+MCEMKNIG_00033	gene	240				
+MCEMKNIG_00033	CDS	240			COG1188	putative protein
+MCEMKNIG_00034	gene	894	gtaB			
+MCEMKNIG_00034	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+MCEMKNIG_00035	gene	1443	rho			
+MCEMKNIG_00035	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+MCEMKNIG_00036	gene	201	rpmE			
+MCEMKNIG_00036	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+MCEMKNIG_00037	gene	327				
+MCEMKNIG_00037	CDS	327				hypothetical protein
+MCEMKNIG_00038	gene	720				
+MCEMKNIG_00038	CDS	720				hypothetical protein
+MCEMKNIG_00039	gene	915	prmC			
+MCEMKNIG_00039	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+MCEMKNIG_00040	gene	1065	prfA			
+MCEMKNIG_00040	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+MCEMKNIG_00041	gene	1038	ywlC			
+MCEMKNIG_00041	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+MCEMKNIG_00042	gene	447	ywlF			
+MCEMKNIG_00042	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+MCEMKNIG_00043	gene	630	upp			
+MCEMKNIG_00043	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+MCEMKNIG_00044	gene	240				
+MCEMKNIG_00044	CDS	240				hypothetical protein
+MCEMKNIG_00045	gene	402				
+MCEMKNIG_00045	CDS	402				hypothetical protein
+MCEMKNIG_00046	gene	705	atpB			
+MCEMKNIG_00046	CDS	705	atpB		COG0356	ATP synthase subunit a
+MCEMKNIG_00047	gene	264	atpE			
+MCEMKNIG_00047	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+MCEMKNIG_00048	gene	507	atpF			
+MCEMKNIG_00048	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+MCEMKNIG_00049	gene	543	atpH			
+MCEMKNIG_00049	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+MCEMKNIG_00050	gene	1503	atpA			
+MCEMKNIG_00050	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+MCEMKNIG_00051	gene	999	atpG			
+MCEMKNIG_00051	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+MCEMKNIG_00052	gene	1401	atpD			
+MCEMKNIG_00052	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+MCEMKNIG_00053	gene	270	atpC			
+MCEMKNIG_00053	CDS	270	atpC			ATP synthase epsilon chain
+MCEMKNIG_00054	gene	576				
+MCEMKNIG_00054	CDS	576				hypothetical protein
+MCEMKNIG_00055	gene	939				
+MCEMKNIG_00055	CDS	939				hypothetical protein
+MCEMKNIG_00056	gene	945	hmo_1			
+MCEMKNIG_00056	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+MCEMKNIG_00057	gene	615	pgl			
+MCEMKNIG_00057	CDS	615	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+MCEMKNIG_00058	gene	741				
+MCEMKNIG_00058	CDS	741				hypothetical protein
+MCEMKNIG_00059	gene	645				
+MCEMKNIG_00059	CDS	645				hypothetical protein
+MCEMKNIG_00060	gene	1407				
+MCEMKNIG_00060	CDS	1407				hypothetical protein
+MCEMKNIG_00061	gene	1725				
+MCEMKNIG_00061	CDS	1725				hypothetical protein
+MCEMKNIG_00062	gene	549				
+MCEMKNIG_00062	CDS	549				hypothetical protein
+MCEMKNIG_00063	gene	339				
+MCEMKNIG_00063	CDS	339				hypothetical protein
+MCEMKNIG_00064	gene	297				
+MCEMKNIG_00064	CDS	297				hypothetical protein
+MCEMKNIG_00065	gene	915				
+MCEMKNIG_00065	CDS	915				hypothetical protein
+MCEMKNIG_00066	gene	246				
+MCEMKNIG_00066	CDS	246				hypothetical protein
+MCEMKNIG_00067	gene	1140				
+MCEMKNIG_00067	CDS	1140				hypothetical protein
+MCEMKNIG_00068	gene	723	pyrF			
+MCEMKNIG_00068	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+MCEMKNIG_00069	gene	1050	carA_1			
+MCEMKNIG_00069	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+MCEMKNIG_00070	gene	3216	carB			
+MCEMKNIG_00070	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+MCEMKNIG_00071	gene	657				
+MCEMKNIG_00071	CDS	657				hypothetical protein
+MCEMKNIG_00072	gene	597	cysE			
+MCEMKNIG_00072	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+MCEMKNIG_00073	gene	888	cysK			
+MCEMKNIG_00073	CDS	888	cysK	2.5.1.47		Cysteine synthase
+MCEMKNIG_00074	gene	564				
+MCEMKNIG_00074	CDS	564				hypothetical protein
+MCEMKNIG_00075	gene	471				
+MCEMKNIG_00075	CDS	471				hypothetical protein
+MCEMKNIG_00076	gene	510	ftnA			
+MCEMKNIG_00076	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+MCEMKNIG_00077	gene	1422	pqqE			
+MCEMKNIG_00077	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+MCEMKNIG_00078	gene	603	pdp			
+MCEMKNIG_00078	CDS	603	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+MCEMKNIG_00079	gene	591				
+MCEMKNIG_00079	CDS	591				hypothetical protein
+MCEMKNIG_00080	gene	1500	rsmF			
+MCEMKNIG_00080	CDS	1500	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+MCEMKNIG_00081	gene	606	sipT			
+MCEMKNIG_00081	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+MCEMKNIG_00082	gene	1656	udk			
+MCEMKNIG_00082	CDS	1656	udk	2.7.1.48		Uridine kinase
+MCEMKNIG_00083	gene	639	pdg			
+MCEMKNIG_00083	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+MCEMKNIG_00084	gene	471	trmL			
+MCEMKNIG_00084	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+MCEMKNIG_00085	gene	876				
+MCEMKNIG_00085	CDS	876			COG1307	Fatty acid-binding protein
+MCEMKNIG_00086	gene	1449	pepD_1			
+MCEMKNIG_00086	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+MCEMKNIG_00087	gene	2424	mutS2			
+MCEMKNIG_00087	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+MCEMKNIG_00088	gene	468				
+MCEMKNIG_00088	CDS	468				hypothetical protein
+MCEMKNIG_00089	gene	1701	argS			
+MCEMKNIG_00089	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+MCEMKNIG_00090	gene	1455				
+MCEMKNIG_00090	CDS	1455				hypothetical protein
+MCEMKNIG_00091	gene	240				
+MCEMKNIG_00091	CDS	240				hypothetical protein
+MCEMKNIG_00092	gene	522				
+MCEMKNIG_00092	CDS	522				hypothetical protein
+MCEMKNIG_00093	gene	468				
+MCEMKNIG_00093	CDS	468				hypothetical protein
+MCEMKNIG_00094	gene	2424	lon1			
+MCEMKNIG_00094	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+MCEMKNIG_00095	gene	723	engB			
+MCEMKNIG_00095	CDS	723	engB			GTP-binding protein EngB
+MCEMKNIG_00096	gene	546	hpt_1			
+MCEMKNIG_00096	CDS	546	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+MCEMKNIG_00097	gene	288	pagR			
+MCEMKNIG_00097	CDS	288	pagR			Transcriptional repressor PagR
+MCEMKNIG_00098	gene	318	rplI			
+MCEMKNIG_00098	CDS	318	rplI			50S ribosomal protein L9
+MCEMKNIG_00099	gene	1338	dnaC			
+MCEMKNIG_00099	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+MCEMKNIG_00100	gene	990	dnaA_1			
+MCEMKNIG_00100	CDS	990	dnaA_1			Chromosomal replication initiator protein DnaA
+MCEMKNIG_00101	gene	1050				
+MCEMKNIG_00101	CDS	1050				hypothetical protein
+MCEMKNIG_00102	gene	483	rlmH			
+MCEMKNIG_00102	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+MCEMKNIG_00103	gene	801	yycJ			
+MCEMKNIG_00103	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+MCEMKNIG_00104	gene	162				
+MCEMKNIG_00104	CDS	162				Rubredoxin
+MCEMKNIG_00105	gene	462	zur			
+MCEMKNIG_00105	CDS	462	zur		COG0735	Zinc uptake regulation protein
+MCEMKNIG_00106	gene	981	znuA			
+MCEMKNIG_00106	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+MCEMKNIG_00107	gene	669	mntB			
+MCEMKNIG_00107	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+MCEMKNIG_00108	gene	786	znuB			
+MCEMKNIG_00108	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+MCEMKNIG_00109	gene	756				
+MCEMKNIG_00109	CDS	756				hypothetical protein
+MCEMKNIG_00110	gene	216				
+MCEMKNIG_00110	CDS	216				hypothetical protein
+MCEMKNIG_00111	gene	228	rpsR			
+MCEMKNIG_00111	CDS	228	rpsR			30S ribosomal protein S18
+MCEMKNIG_00112	gene	444	ssb			
+MCEMKNIG_00112	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+MCEMKNIG_00113	gene	291	rpsF			
+MCEMKNIG_00113	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+MCEMKNIG_00114	gene	1197	lysN			
+MCEMKNIG_00114	CDS	1197	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+MCEMKNIG_00115	gene	180				
+MCEMKNIG_00115	CDS	180				hypothetical protein
+MCEMKNIG_00116	gene	618				
+MCEMKNIG_00116	CDS	618				hypothetical protein
+MCEMKNIG_00117	gene	900				
+MCEMKNIG_00117	CDS	900				hypothetical protein
+MCEMKNIG_00118	gene	1077				
+MCEMKNIG_00118	CDS	1077				hypothetical protein
+MCEMKNIG_00119	gene	522	bcrC			
+MCEMKNIG_00119	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+MCEMKNIG_00120	gene	543	yajL			
+MCEMKNIG_00120	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+MCEMKNIG_00121	gene	921				
+MCEMKNIG_00121	CDS	921				hypothetical protein
+MCEMKNIG_00122	gene	600	COQ5			
+MCEMKNIG_00122	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MCEMKNIG_00123	gene	912				
+MCEMKNIG_00123	CDS	912		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+MCEMKNIG_00124	gene	690	pyrK			
+MCEMKNIG_00124	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+MCEMKNIG_00125	gene	903	pyrD			
+MCEMKNIG_00125	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+MCEMKNIG_00126	gene	582	pyrE			
+MCEMKNIG_00126	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+MCEMKNIG_00127	gene	774				
+MCEMKNIG_00127	CDS	774				hypothetical protein
+MCEMKNIG_00128	gene	675				
+MCEMKNIG_00128	CDS	675				hypothetical protein
+MCEMKNIG_00129	gene	1413	ykoD_1			
+MCEMKNIG_00129	CDS	1413	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+MCEMKNIG_00130	gene	588				
+MCEMKNIG_00130	CDS	588				hypothetical protein
+MCEMKNIG_00131	gene	1743	msbA_1			
+MCEMKNIG_00131	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+MCEMKNIG_00132	gene	1719				
+MCEMKNIG_00132	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MCEMKNIG_00133	gene	1740				
+MCEMKNIG_00133	CDS	1740				hypothetical protein
+MCEMKNIG_00134	gene	600				
+MCEMKNIG_00134	CDS	600				hypothetical protein
+MCEMKNIG_00135	gene	672				
+MCEMKNIG_00135	CDS	672				hypothetical protein
+MCEMKNIG_00136	gene	354				
+MCEMKNIG_00136	CDS	354				hypothetical protein
+MCEMKNIG_00137	gene	450				
+MCEMKNIG_00137	CDS	450				hypothetical protein
+MCEMKNIG_00138	gene	1083				
+MCEMKNIG_00138	CDS	1083				hypothetical protein
+MCEMKNIG_00139	gene	495	sigM_1			
+MCEMKNIG_00139	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+MCEMKNIG_00140	gene	1269				
+MCEMKNIG_00140	CDS	1269				hypothetical protein
+MCEMKNIG_00141	gene	549				
+MCEMKNIG_00141	CDS	549				hypothetical protein
+MCEMKNIG_00142	gene	462				
+MCEMKNIG_00142	CDS	462				hypothetical protein
+MCEMKNIG_00143	gene	765	cbiJ			
+MCEMKNIG_00143	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+MCEMKNIG_00144	gene	726	cbiH			
+MCEMKNIG_00144	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+MCEMKNIG_00145	gene	1200	cbiG			
+MCEMKNIG_00145	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+MCEMKNIG_00146	gene	759	cbiF			
+MCEMKNIG_00146	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+MCEMKNIG_00147	gene	567	cbiT			
+MCEMKNIG_00147	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+MCEMKNIG_00148	gene	720	cbiE			
+MCEMKNIG_00148	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+MCEMKNIG_00149	gene	1167	cbiD			
+MCEMKNIG_00149	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+MCEMKNIG_00150	gene	639	cbiC			
+MCEMKNIG_00150	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+MCEMKNIG_00151	gene	885	pduX			
+MCEMKNIG_00151	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+MCEMKNIG_00152	gene	1092	cobD_1			
+MCEMKNIG_00152	CDS	1092	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+MCEMKNIG_00153	gene	1041	cobD_2			
+MCEMKNIG_00153	CDS	1041	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+MCEMKNIG_00154	gene	1395	cbiA			
+MCEMKNIG_00154	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+MCEMKNIG_00155	gene	1503	cobQ			
+MCEMKNIG_00155	CDS	1503	cobQ			Cobyric acid synthase
+MCEMKNIG_00156	gene	639	pspA_1			
+MCEMKNIG_00156	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+MCEMKNIG_00157	gene	771	cobS			
+MCEMKNIG_00157	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+MCEMKNIG_00158	gene	588	cobU			
+MCEMKNIG_00158	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+MCEMKNIG_00159	gene	1083	cobT			
+MCEMKNIG_00159	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MCEMKNIG_00160	gene	1173	ctpB			
+MCEMKNIG_00160	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+MCEMKNIG_00161	gene	936	aptB			
+MCEMKNIG_00161	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+MCEMKNIG_00162	gene	813	aptA			
+MCEMKNIG_00162	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+MCEMKNIG_00163	gene	726				
+MCEMKNIG_00163	CDS	726				hypothetical protein
+MCEMKNIG_00164	gene	1200	mnmE_1			
+MCEMKNIG_00164	CDS	1200	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+MCEMKNIG_00165	gene	492	ycdZ			
+MCEMKNIG_00165	CDS	492	ycdZ			Inner membrane protein YcdZ
+MCEMKNIG_00166	gene	870	sigF			
+MCEMKNIG_00166	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+MCEMKNIG_00167	gene	531				
+MCEMKNIG_00167	CDS	531				hypothetical protein
+MCEMKNIG_00168	gene	1425	accC			
+MCEMKNIG_00168	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+MCEMKNIG_00169	gene	858	accD			
+MCEMKNIG_00169	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+MCEMKNIG_00170	gene	744	accA			
+MCEMKNIG_00170	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+MCEMKNIG_00171	gene	480				
+MCEMKNIG_00171	CDS	480				hypothetical protein
+MCEMKNIG_00172	gene	1017	fabH			
+MCEMKNIG_00172	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+MCEMKNIG_00173	gene	225	acpP_1			
+MCEMKNIG_00173	CDS	225	acpP_1		COG0236	Acyl carrier protein
+MCEMKNIG_00174	gene	939				
+MCEMKNIG_00174	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+MCEMKNIG_00175	gene	939	fabD			
+MCEMKNIG_00175	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+MCEMKNIG_00176	gene	747	fabG_1			
+MCEMKNIG_00176	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MCEMKNIG_00177	gene	1236	fabF			
+MCEMKNIG_00177	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+MCEMKNIG_00178	gene	426	fabZ			
+MCEMKNIG_00178	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+MCEMKNIG_00179	gene	1338				
+MCEMKNIG_00179	CDS	1338				Nucleobase transporter PlUacP
+MCEMKNIG_00180	gene	570	xpt			
+MCEMKNIG_00180	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+MCEMKNIG_00181	gene	882				
+MCEMKNIG_00181	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+MCEMKNIG_00182	gene	387				
+MCEMKNIG_00182	CDS	387				hypothetical protein
+MCEMKNIG_00183	gene	471	carC			
+MCEMKNIG_00183	CDS	471	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+MCEMKNIG_00184	gene	792	carD			
+MCEMKNIG_00184	CDS	792	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+MCEMKNIG_00185	gene	1008	carE			
+MCEMKNIG_00185	CDS	1008	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+MCEMKNIG_00186	gene	993	hpr			
+MCEMKNIG_00186	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+MCEMKNIG_00187	gene	1326	brnQ_1			
+MCEMKNIG_00187	CDS	1326	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MCEMKNIG_00188	gene	1185	aspC			
+MCEMKNIG_00188	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+MCEMKNIG_00189	gene	879				
+MCEMKNIG_00189	CDS	879				hypothetical protein
+MCEMKNIG_00190	gene	396	panD			
+MCEMKNIG_00190	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+MCEMKNIG_00191	gene	1116				
+MCEMKNIG_00191	CDS	1116				hypothetical protein
+MCEMKNIG_00192	gene	396				
+MCEMKNIG_00192	CDS	396				hypothetical protein
+MCEMKNIG_00193	gene	1974	uvrB			
+MCEMKNIG_00193	CDS	1974	uvrB			UvrABC system protein B
+MCEMKNIG_00194	gene	576				
+MCEMKNIG_00194	CDS	576				hypothetical protein
+MCEMKNIG_00195	gene	2826	uvrA			
+MCEMKNIG_00195	CDS	2826	uvrA			UvrABC system protein A
+MCEMKNIG_00196	gene	1263	sstT			
+MCEMKNIG_00196	CDS	1263	sstT		COG3633	Serine/threonine transporter SstT
+MCEMKNIG_00197	gene	519	hmpT			
+MCEMKNIG_00197	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+MCEMKNIG_00198	gene	549	rbr			
+MCEMKNIG_00198	CDS	549	rbr		COG1592	Rubrerythrin
+MCEMKNIG_00199	gene	678				
+MCEMKNIG_00199	CDS	678				hypothetical protein
+MCEMKNIG_00200	gene	642				
+MCEMKNIG_00200	CDS	642				hypothetical protein
+MCEMKNIG_00201	gene	759	nadE			
+MCEMKNIG_00201	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+MCEMKNIG_00202	gene	723				
+MCEMKNIG_00202	CDS	723			COG0217	putative transcriptional regulatory protein
+MCEMKNIG_00203	gene	285				
+MCEMKNIG_00203	CDS	285				hypothetical protein
+MCEMKNIG_00204	gene	1188	uctC			
+MCEMKNIG_00204	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MCEMKNIG_00205	gene	1170	opuCA			
+MCEMKNIG_00205	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+MCEMKNIG_00206	gene	1662				
+MCEMKNIG_00206	CDS	1662				hypothetical protein
+MCEMKNIG_00207	gene	636	opuCD			
+MCEMKNIG_00207	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+MCEMKNIG_00208	gene	465	bcp			
+MCEMKNIG_00208	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+MCEMKNIG_00209	gene	2109	ligA			
+MCEMKNIG_00209	CDS	2109	ligA	6.5.1.2		DNA ligase
+MCEMKNIG_00210	gene	1461	rph			
+MCEMKNIG_00210	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+MCEMKNIG_00211	gene	474				
+MCEMKNIG_00211	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+MCEMKNIG_00212	gene	1284	tig			
+MCEMKNIG_00212	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+MCEMKNIG_00213	gene	585	clpP			
+MCEMKNIG_00213	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+MCEMKNIG_00214	gene	1266	clpX			
+MCEMKNIG_00214	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+MCEMKNIG_00215	gene	645				
+MCEMKNIG_00215	CDS	645				ISL3 family transposase ISSth1
+MCEMKNIG_00216	gene	1170				
+MCEMKNIG_00216	CDS	1170				hypothetical protein
+MCEMKNIG_00217	gene	1143				
+MCEMKNIG_00217	CDS	1143				hypothetical protein
+MCEMKNIG_00218	gene	1677	fhs			
+MCEMKNIG_00218	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+MCEMKNIG_00219	gene	1233				
+MCEMKNIG_00219	CDS	1233				hypothetical protein
+MCEMKNIG_00220	gene	225				
+MCEMKNIG_00220	CDS	225				hypothetical protein
+MCEMKNIG_00221	gene	228				
+MCEMKNIG_00221	CDS	228				hypothetical protein
+MCEMKNIG_00222	gene	147				
+MCEMKNIG_00222	CDS	147				hypothetical protein
+MCEMKNIG_00223	gene	1473				
+MCEMKNIG_00223	CDS	1473				hypothetical protein
+MCEMKNIG_00224	gene	912				
+MCEMKNIG_00224	CDS	912				hypothetical protein
+MCEMKNIG_00225	gene	1821				
+MCEMKNIG_00225	CDS	1821				hypothetical protein
+MCEMKNIG_00226	gene	522	niaR			
+MCEMKNIG_00226	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+MCEMKNIG_00227	gene	774	dtd3			
+MCEMKNIG_00227	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+MCEMKNIG_00228	gene	1740				
+MCEMKNIG_00228	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MCEMKNIG_00229	gene	426				
+MCEMKNIG_00229	CDS	426				hypothetical protein
+MCEMKNIG_00230	gene	1968				
+MCEMKNIG_00230	CDS	1968				hypothetical protein
+MCEMKNIG_00231	gene	2652	valS			
+MCEMKNIG_00231	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+MCEMKNIG_00232	gene	1551	rsxB_1			
+MCEMKNIG_00232	CDS	1551	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+MCEMKNIG_00233	gene	1551	ybiT_1			
+MCEMKNIG_00233	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+MCEMKNIG_00234	gene	2766	mtgA_1			
+MCEMKNIG_00234	CDS	2766	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+MCEMKNIG_00235	gene	1617	deaD			
+MCEMKNIG_00235	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+MCEMKNIG_00236	gene	2367				
+MCEMKNIG_00236	CDS	2367				hypothetical protein
+MCEMKNIG_00237	gene	1971				
+MCEMKNIG_00237	CDS	1971				hypothetical protein
+MCEMKNIG_00238	gene	963				
+MCEMKNIG_00238	CDS	963				hypothetical protein
+MCEMKNIG_00239	gene	462	thiI			
+MCEMKNIG_00239	CDS	462	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+MCEMKNIG_00240	gene	651	prfB			
+MCEMKNIG_00240	CDS	651	prfB			Peptide chain release factor 2
+MCEMKNIG_00241	gene	2163	yhgF			
+MCEMKNIG_00241	CDS	2163	yhgF		COG2183	Protein YhgF
+MCEMKNIG_00242	gene	621	ribU			
+MCEMKNIG_00242	CDS	621	ribU			Riboflavin transporter RibU
+MCEMKNIG_00243	gene	783	fldI			
+MCEMKNIG_00243	CDS	783	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+MCEMKNIG_00244	gene	399				
+MCEMKNIG_00244	CDS	399				hypothetical protein
+MCEMKNIG_00245	gene	381				
+MCEMKNIG_00245	CDS	381				hypothetical protein
+MCEMKNIG_00246	gene	921				
+MCEMKNIG_00246	CDS	921				hypothetical protein
+MCEMKNIG_00247	gene	459	tsaE			
+MCEMKNIG_00247	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MCEMKNIG_00248	gene	720	tsaB			
+MCEMKNIG_00248	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+MCEMKNIG_00249	gene	450	rimI			
+MCEMKNIG_00249	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+MCEMKNIG_00250	gene	1020	tsaD			
+MCEMKNIG_00250	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+MCEMKNIG_00251	gene	1932	yheS			
+MCEMKNIG_00251	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+MCEMKNIG_00252	gene	636	rex1			
+MCEMKNIG_00252	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+MCEMKNIG_00253	gene	168				
+MCEMKNIG_00253	CDS	168			COG1145	Ferredoxin
+MCEMKNIG_00254	gene	1254				
+MCEMKNIG_00254	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+MCEMKNIG_00255	gene	657				
+MCEMKNIG_00255	CDS	657				hypothetical protein
+MCEMKNIG_00256	gene	228				
+MCEMKNIG_00256	CDS	228				hypothetical protein
+MCEMKNIG_00257	gene	1395				
+MCEMKNIG_00257	CDS	1395				hypothetical protein
+MCEMKNIG_00258	gene	1515				
+MCEMKNIG_00258	CDS	1515				hypothetical protein
+MCEMKNIG_00259	gene	1194				
+MCEMKNIG_00259	CDS	1194				hypothetical protein
+MCEMKNIG_00260	gene	342				
+MCEMKNIG_00260	CDS	342				hypothetical protein
+MCEMKNIG_00261	gene	576				
+MCEMKNIG_00261	CDS	576				hypothetical protein
+MCEMKNIG_00262	gene	882				
+MCEMKNIG_00262	CDS	882				hypothetical protein
+MCEMKNIG_00263	gene	249				
+MCEMKNIG_00263	CDS	249				hypothetical protein
+MCEMKNIG_00264	gene	363				
+MCEMKNIG_00264	CDS	363				hypothetical protein
+MCEMKNIG_00265	gene	318				
+MCEMKNIG_00265	CDS	318				hypothetical protein
+MCEMKNIG_00266	gene	378				
+MCEMKNIG_00266	CDS	378				hypothetical protein
+MCEMKNIG_00267	gene	396				
+MCEMKNIG_00267	CDS	396				hypothetical protein
+MCEMKNIG_00268	gene	462				
+MCEMKNIG_00268	CDS	462				hypothetical protein
+MCEMKNIG_00269	gene	333				
+MCEMKNIG_00269	CDS	333				hypothetical protein
+MCEMKNIG_00270	gene	234				
+MCEMKNIG_00270	CDS	234				hypothetical protein
+MCEMKNIG_00271	gene	3507				
+MCEMKNIG_00271	CDS	3507				hypothetical protein
+MCEMKNIG_00272	gene	345				
+MCEMKNIG_00272	CDS	345				hypothetical protein
+MCEMKNIG_00273	gene	1254				
+MCEMKNIG_00273	CDS	1254				hypothetical protein
+MCEMKNIG_00274	gene	1104				
+MCEMKNIG_00274	CDS	1104				hypothetical protein
+MCEMKNIG_00275	gene	906				
+MCEMKNIG_00275	CDS	906				hypothetical protein
+MCEMKNIG_00276	gene	924	fba			
+MCEMKNIG_00276	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+MCEMKNIG_00277	gene	552	hpf			
+MCEMKNIG_00277	CDS	552	hpf			Ribosome hibernation promotion factor
+MCEMKNIG_00278	gene	1059				
+MCEMKNIG_00278	CDS	1059			COG1702	PhoH-like protein
+MCEMKNIG_00279	gene	462	ybeY			
+MCEMKNIG_00279	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+MCEMKNIG_00280	gene	897				
+MCEMKNIG_00280	CDS	897				hypothetical protein
+MCEMKNIG_00281	gene	903	era			
+MCEMKNIG_00281	CDS	903	era			GTPase Era
+MCEMKNIG_00282	gene	1377				
+MCEMKNIG_00282	CDS	1377			COG2239	Magnesium transporter MgtE
+MCEMKNIG_00283	gene	747	recO			
+MCEMKNIG_00283	CDS	747	recO		COG1381	DNA repair protein RecO
+MCEMKNIG_00284	gene	609				
+MCEMKNIG_00284	CDS	609				hypothetical protein
+MCEMKNIG_00285	gene	885	glyQ			
+MCEMKNIG_00285	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+MCEMKNIG_00286	gene	2070	glyS			
+MCEMKNIG_00286	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+MCEMKNIG_00287	gene	264				
+MCEMKNIG_00287	CDS	264				hypothetical protein
+MCEMKNIG_00288	gene	1005	asnA			
+MCEMKNIG_00288	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+MCEMKNIG_00289	gene	531	hpt_2			
+MCEMKNIG_00289	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+MCEMKNIG_00290	gene	795				
+MCEMKNIG_00290	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MCEMKNIG_00291	gene	1236	baiN			
+MCEMKNIG_00291	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+MCEMKNIG_00292	gene	465				
+MCEMKNIG_00292	CDS	465				hypothetical protein
+MCEMKNIG_00293	gene	1764				
+MCEMKNIG_00293	CDS	1764				hypothetical protein
+MCEMKNIG_00294	gene	3534				
+MCEMKNIG_00294	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+MCEMKNIG_00295	gene	882	licT			
+MCEMKNIG_00295	CDS	882	licT		COG3711	Transcription antiterminator LicT
+MCEMKNIG_00296	gene	210				
+MCEMKNIG_00296	CDS	210				hypothetical protein
+MCEMKNIG_00297	gene	1116	recF			
+MCEMKNIG_00297	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+MCEMKNIG_00298	gene	1908	gyrB			
+MCEMKNIG_00298	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+MCEMKNIG_00299	gene	2439	gyrA			
+MCEMKNIG_00299	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+MCEMKNIG_00300	gene	318	rsbV			
+MCEMKNIG_00300	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+MCEMKNIG_00301	gene	408	rsbW			
+MCEMKNIG_00301	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+MCEMKNIG_00302	gene	774	sigB			
+MCEMKNIG_00302	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+MCEMKNIG_00303	gene	183				
+MCEMKNIG_00303	CDS	183				hypothetical protein
+MCEMKNIG_00304	gene	771	bphF			
+MCEMKNIG_00304	CDS	771	bphF	4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+MCEMKNIG_00305	gene	822	mscS			
+MCEMKNIG_00305	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+MCEMKNIG_00306	gene	1188				
+MCEMKNIG_00306	CDS	1188				hypothetical protein
+MCEMKNIG_00307	gene	1584				
+MCEMKNIG_00307	CDS	1584				hypothetical protein
+MCEMKNIG_00308	gene	756				
+MCEMKNIG_00308	CDS	756				hypothetical protein
+MCEMKNIG_00309	gene	936	rsmH			
+MCEMKNIG_00309	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+MCEMKNIG_00310	gene	750	lgt			
+MCEMKNIG_00310	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+MCEMKNIG_00311	gene	1293				
+MCEMKNIG_00311	CDS	1293				hypothetical protein
+MCEMKNIG_00312	gene	1260				
+MCEMKNIG_00312	CDS	1260				hypothetical protein
+MCEMKNIG_00313	gene	456				
+MCEMKNIG_00313	CDS	456				hypothetical protein
+MCEMKNIG_00314	gene	1098	ychF			
+MCEMKNIG_00314	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+MCEMKNIG_00315	gene	513	sigM_2			
+MCEMKNIG_00315	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+MCEMKNIG_00316	gene	1476				
+MCEMKNIG_00316	CDS	1476				hypothetical protein
+MCEMKNIG_00317	gene	1488	murE_1			
+MCEMKNIG_00317	CDS	1488	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+MCEMKNIG_00318	gene	720				
+MCEMKNIG_00318	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+MCEMKNIG_00319	gene	1218				
+MCEMKNIG_00319	CDS	1218		6.3.1.12		D-aspartate ligase
+MCEMKNIG_00320	gene	303				
+MCEMKNIG_00320	CDS	303				hypothetical protein
+MCEMKNIG_00321	gene	462				
+MCEMKNIG_00321	CDS	462				hypothetical protein
+MCEMKNIG_00322	gene	828	COQ3			
+MCEMKNIG_00322	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+MCEMKNIG_00323	gene	453				
+MCEMKNIG_00323	CDS	453				hypothetical protein
+MCEMKNIG_00324	gene	1014	gloB_1			
+MCEMKNIG_00324	CDS	1014	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+MCEMKNIG_00325	gene	1548	carA_2			
+MCEMKNIG_00325	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+MCEMKNIG_00326	gene	960	dusB			
+MCEMKNIG_00326	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+MCEMKNIG_00327	gene	768	coaX			
+MCEMKNIG_00327	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+MCEMKNIG_00328	gene	984	birA			
+MCEMKNIG_00328	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+MCEMKNIG_00329	gene	405				
+MCEMKNIG_00329	CDS	405				hypothetical protein
+MCEMKNIG_00330	gene	2043	ftsH			
+MCEMKNIG_00330	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+MCEMKNIG_00331	gene	1380	tilS			
+MCEMKNIG_00331	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+MCEMKNIG_00332	gene	414				
+MCEMKNIG_00332	CDS	414				hypothetical protein
+MCEMKNIG_00333	gene	813	murI			
+MCEMKNIG_00333	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+MCEMKNIG_00334	gene	477				
+MCEMKNIG_00334	CDS	477				hypothetical protein
+MCEMKNIG_00335	gene	939				
+MCEMKNIG_00335	CDS	939				hypothetical protein
+MCEMKNIG_00336	gene	435				
+MCEMKNIG_00336	CDS	435				hypothetical protein
+MCEMKNIG_00337	gene	1068				
+MCEMKNIG_00337	CDS	1068				hypothetical protein
+MCEMKNIG_00338	gene	375				
+MCEMKNIG_00338	CDS	375				hypothetical protein
+MCEMKNIG_00339	gene	1614				
+MCEMKNIG_00339	CDS	1614				hypothetical protein
+MCEMKNIG_00340	gene	1347	pgi			
+MCEMKNIG_00340	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MCEMKNIG_00341	gene	438				
+MCEMKNIG_00341	CDS	438				hypothetical protein
+MCEMKNIG_00342	gene	1542				
+MCEMKNIG_00342	CDS	1542				hypothetical protein
+MCEMKNIG_00343	gene	111				
+MCEMKNIG_00343	CDS	111				hypothetical protein
+MCEMKNIG_00344	gene	585	yehX			
+MCEMKNIG_00344	CDS	585	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+MCEMKNIG_00345	gene	249				
+MCEMKNIG_00345	CDS	249				hypothetical protein
+MCEMKNIG_00346	gene	882				
+MCEMKNIG_00346	CDS	882				hypothetical protein
+MCEMKNIG_00347	gene	642	gmk			
+MCEMKNIG_00347	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+MCEMKNIG_00348	gene	267	rpoZ			
+MCEMKNIG_00348	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+MCEMKNIG_00349	gene	1212	undec1A			
+MCEMKNIG_00349	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+MCEMKNIG_00350	gene	1059				
+MCEMKNIG_00350	CDS	1059				hypothetical protein
+MCEMKNIG_00351	gene	471				
+MCEMKNIG_00351	CDS	471				hypothetical protein
+MCEMKNIG_00352	gene	825	metQ			
+MCEMKNIG_00352	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+MCEMKNIG_00353	gene	654	metP			
+MCEMKNIG_00353	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+MCEMKNIG_00354	gene	969	metN			
+MCEMKNIG_00354	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+MCEMKNIG_00355	gene	354				
+MCEMKNIG_00355	CDS	354				hypothetical protein
+MCEMKNIG_00356	gene	1296	brnQ_2			
+MCEMKNIG_00356	CDS	1296	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MCEMKNIG_00357	gene	2589	clpB			
+MCEMKNIG_00357	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+MCEMKNIG_00358	gene	642				
+MCEMKNIG_00358	CDS	642				hypothetical protein
+MCEMKNIG_00359	gene	411				
+MCEMKNIG_00359	CDS	411				hypothetical protein
+MCEMKNIG_00360	gene	1188	dxr			
+MCEMKNIG_00360	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+MCEMKNIG_00361	gene	831	artP_1			
+MCEMKNIG_00361	CDS	831	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+MCEMKNIG_00362	gene	1275	argG			
+MCEMKNIG_00362	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+MCEMKNIG_00363	gene	1374	argH			
+MCEMKNIG_00363	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+MCEMKNIG_00364	gene	462				
+MCEMKNIG_00364	CDS	462				hypothetical protein
+MCEMKNIG_00365	gene	5679				
+MCEMKNIG_00365	CDS	5679				hypothetical protein
+MCEMKNIG_00366	gene	483				
+MCEMKNIG_00366	CDS	483				hypothetical protein
+MCEMKNIG_00367	gene	1980	htpG			
+MCEMKNIG_00367	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+MCEMKNIG_00368	gene	636	fchA			
+MCEMKNIG_00368	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+MCEMKNIG_00369	gene	858	folD			
+MCEMKNIG_00369	CDS	858	folD			Bifunctional protein FolD protein
+MCEMKNIG_00370	gene	1587	clcA			
+MCEMKNIG_00370	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+MCEMKNIG_00371	gene	1872	yjcD			
+MCEMKNIG_00371	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+MCEMKNIG_00372	gene	885				
+MCEMKNIG_00372	CDS	885				hypothetical protein
+MCEMKNIG_00373	gene	858	pdxS			
+MCEMKNIG_00373	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+MCEMKNIG_00374	gene	1362	gabR			
+MCEMKNIG_00374	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+MCEMKNIG_00375	gene	300				
+MCEMKNIG_00375	CDS	300				hypothetical protein
+MCEMKNIG_00376	gene	1050	mreB_1			
+MCEMKNIG_00376	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+MCEMKNIG_00377	gene	687				
+MCEMKNIG_00377	CDS	687				hypothetical protein
+MCEMKNIG_00378	gene	864	rnfB			
+MCEMKNIG_00378	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+MCEMKNIG_00379	gene	576	rnfA			
+MCEMKNIG_00379	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+MCEMKNIG_00380	gene	594	rnfE			
+MCEMKNIG_00380	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+MCEMKNIG_00381	gene	567	rnfG			
+MCEMKNIG_00381	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+MCEMKNIG_00382	gene	987	rnfD			
+MCEMKNIG_00382	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+MCEMKNIG_00383	gene	1344	rnfC			
+MCEMKNIG_00383	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+MCEMKNIG_00384	gene	1431				
+MCEMKNIG_00384	CDS	1431				hypothetical protein
+MCEMKNIG_00385	gene	213				
+MCEMKNIG_00385	CDS	213				hypothetical protein
+MCEMKNIG_00386	gene	561	mltC			
+MCEMKNIG_00386	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+MCEMKNIG_00387	gene	606	coaE			
+MCEMKNIG_00387	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+MCEMKNIG_00388	gene	1443	polA			
+MCEMKNIG_00388	CDS	1443	polA	2.7.7.7		DNA polymerase I
+MCEMKNIG_00389	gene	1671	norR			
+MCEMKNIG_00389	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+MCEMKNIG_00390	gene	1149	secA_1			
+MCEMKNIG_00390	CDS	1149	secA_1		COG0653	Protein translocase subunit SecA
+MCEMKNIG_00391	gene	1542	secA_2			
+MCEMKNIG_00391	CDS	1542	secA_2		COG0653	Protein translocase subunit SecA
+MCEMKNIG_00392	gene	1098				
+MCEMKNIG_00392	CDS	1098				hypothetical protein
+MCEMKNIG_00393	gene	102				
+MCEMKNIG_00393	CDS	102				hypothetical protein
+MCEMKNIG_00394	gene	540	folT			
+MCEMKNIG_00394	CDS	540	folT			Folate transporter FolT
+MCEMKNIG_00395	gene	771				
+MCEMKNIG_00395	CDS	771				hypothetical protein
+MCEMKNIG_00396	gene	2220	recD2			
+MCEMKNIG_00396	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+MCEMKNIG_00397	gene	1185	metK			
+MCEMKNIG_00397	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+MCEMKNIG_00398	gene	477	cysG_1			
+MCEMKNIG_00398	CDS	477	cysG_1		COG0007	Siroheme synthase
+MCEMKNIG_00399	gene	969	hemB			
+MCEMKNIG_00399	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+MCEMKNIG_00400	gene	1524	cysG_2			
+MCEMKNIG_00400	CDS	1524	cysG_2	4.99.1.4		Siroheme synthase
+MCEMKNIG_00401	gene	933	hemC			
+MCEMKNIG_00401	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+MCEMKNIG_00402	gene	969	bioB			
+MCEMKNIG_00402	CDS	969	bioB	2.8.1.6		Biotin synthase
+MCEMKNIG_00403	gene	522	dcd			
+MCEMKNIG_00403	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+MCEMKNIG_00404	gene	402				
+MCEMKNIG_00404	CDS	402				hypothetical protein
+MCEMKNIG_00405	gene	546				
+MCEMKNIG_00405	CDS	546				hypothetical protein
+MCEMKNIG_00406	gene	324				
+MCEMKNIG_00406	CDS	324				hypothetical protein
+MCEMKNIG_00407	gene	771	nirC			
+MCEMKNIG_00407	CDS	771	nirC		COG2116	Nitrite transporter NirC
+MCEMKNIG_00408	gene	756	asrC			
+MCEMKNIG_00408	CDS	756	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+MCEMKNIG_00409	gene	966	whiA			
+MCEMKNIG_00409	CDS	966	whiA		COG1481	putative cell division protein WhiA
+MCEMKNIG_00410	gene	417	ndx1			
+MCEMKNIG_00410	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+MCEMKNIG_00411	gene	1140				
+MCEMKNIG_00411	CDS	1140			COG0391	Gluconeogenesis factor
+MCEMKNIG_00412	gene	864	yvcJ			
+MCEMKNIG_00412	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+MCEMKNIG_00413	gene	738	polX			
+MCEMKNIG_00413	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+MCEMKNIG_00414	gene	921	murB			
+MCEMKNIG_00414	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+MCEMKNIG_00415	gene	933	hprK			
+MCEMKNIG_00415	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+MCEMKNIG_00416	gene	1818	uvrC			
+MCEMKNIG_00416	CDS	1818	uvrC		COG0322	UvrABC system protein C
+MCEMKNIG_00417	gene	957	rhaR_1			
+MCEMKNIG_00417	CDS	957	rhaR_1			HTH-type transcriptional activator RhaR
+MCEMKNIG_00418	gene	1041				
+MCEMKNIG_00418	CDS	1041				hypothetical protein
+MCEMKNIG_00419	gene	834				
+MCEMKNIG_00419	CDS	834				hypothetical protein
+MCEMKNIG_00420	gene	477	purE			
+MCEMKNIG_00420	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MCEMKNIG_00421	gene	1077	purM			
+MCEMKNIG_00421	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+MCEMKNIG_00422	gene	594	purN			
+MCEMKNIG_00422	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+MCEMKNIG_00423	gene	1533	purH			
+MCEMKNIG_00423	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+MCEMKNIG_00424	gene	1269	purD			
+MCEMKNIG_00424	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MCEMKNIG_00425	gene	3783	purL			
+MCEMKNIG_00425	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+MCEMKNIG_00426	gene	369				
+MCEMKNIG_00426	CDS	369				hypothetical protein
+MCEMKNIG_00427	gene	1347	rpoN			
+MCEMKNIG_00427	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+MCEMKNIG_00428	gene	1293				
+MCEMKNIG_00428	CDS	1293				hypothetical protein
+MCEMKNIG_00429	gene	1233				
+MCEMKNIG_00429	CDS	1233				hypothetical protein
+MCEMKNIG_00430	gene	1728	ade			
+MCEMKNIG_00430	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+MCEMKNIG_00431	gene	189	rpmB			
+MCEMKNIG_00431	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+MCEMKNIG_00432	gene	351				
+MCEMKNIG_00432	CDS	351				putative protein
+MCEMKNIG_00433	gene	1665				
+MCEMKNIG_00433	CDS	1665				putative protein
+MCEMKNIG_00434	gene	2058	recG			
+MCEMKNIG_00434	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+MCEMKNIG_00435	gene	201				
+MCEMKNIG_00435	CDS	201				hypothetical protein
+MCEMKNIG_00436	gene	1977				
+MCEMKNIG_00436	CDS	1977				hypothetical protein
+MCEMKNIG_00437	gene	270				
+MCEMKNIG_00437	CDS	270				hypothetical protein
+MCEMKNIG_00438	gene	252				
+MCEMKNIG_00438	CDS	252				hypothetical protein
+MCEMKNIG_00439	gene	489				
+MCEMKNIG_00439	CDS	489				hypothetical protein
+MCEMKNIG_00440	gene	252				
+MCEMKNIG_00440	CDS	252				hypothetical protein
+MCEMKNIG_00441	gene	729				
+MCEMKNIG_00441	CDS	729				hypothetical protein
+MCEMKNIG_00442	gene	309				
+MCEMKNIG_00442	CDS	309				hypothetical protein
+MCEMKNIG_00443	gene	543				
+MCEMKNIG_00443	CDS	543				hypothetical protein
+MCEMKNIG_00444	gene	2481				
+MCEMKNIG_00444	CDS	2481				hypothetical protein
+MCEMKNIG_00445	gene	312				
+MCEMKNIG_00445	CDS	312				hypothetical protein
+MCEMKNIG_00446	gene	1365				
+MCEMKNIG_00446	CDS	1365				hypothetical protein
+MCEMKNIG_00447	gene	405				
+MCEMKNIG_00447	CDS	405				hypothetical protein
+MCEMKNIG_00448	gene	564				
+MCEMKNIG_00448	CDS	564				hypothetical protein
+MCEMKNIG_00449	gene	1251	dinB			
+MCEMKNIG_00449	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+MCEMKNIG_00450	gene	849	nadC			
+MCEMKNIG_00450	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MCEMKNIG_00451	gene	1311	nadB			
+MCEMKNIG_00451	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+MCEMKNIG_00452	gene	909	nadA			
+MCEMKNIG_00452	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+MCEMKNIG_00453	gene	462	dut			
+MCEMKNIG_00453	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MCEMKNIG_00454	gene	1203	roo			
+MCEMKNIG_00454	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+MCEMKNIG_00455	gene	1062	lytC_1			
+MCEMKNIG_00455	CDS	1062	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MCEMKNIG_00456	gene	420				
+MCEMKNIG_00456	CDS	420				hypothetical protein
+MCEMKNIG_00457	gene	600	fbpC			
+MCEMKNIG_00457	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+MCEMKNIG_00458	gene	153				
+MCEMKNIG_00458	CDS	153				hypothetical protein
+MCEMKNIG_00459	gene	1077	cshE			
+MCEMKNIG_00459	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+MCEMKNIG_00460	gene	330				
+MCEMKNIG_00460	CDS	330				hypothetical protein
+MCEMKNIG_00461	gene	2688				
+MCEMKNIG_00461	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+MCEMKNIG_00462	gene	1062				
+MCEMKNIG_00462	CDS	1062				hypothetical protein
+MCEMKNIG_00463	gene	597				
+MCEMKNIG_00463	CDS	597				hypothetical protein
+MCEMKNIG_00464	gene	603				
+MCEMKNIG_00464	CDS	603				hypothetical protein
+MCEMKNIG_00465	gene	1077	lytC_2			
+MCEMKNIG_00465	CDS	1077	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MCEMKNIG_00466	gene	243				
+MCEMKNIG_00466	CDS	243				hypothetical protein
+MCEMKNIG_00467	gene	609	plsY			
+MCEMKNIG_00467	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+MCEMKNIG_00468	gene	1011	gpsA			
+MCEMKNIG_00468	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+MCEMKNIG_00469	gene	702				
+MCEMKNIG_00469	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+MCEMKNIG_00470	gene	495	sepF			
+MCEMKNIG_00470	CDS	495	sepF			Cell division protein SepF
+MCEMKNIG_00471	gene	258				
+MCEMKNIG_00471	CDS	258				hypothetical protein
+MCEMKNIG_00472	gene	786				
+MCEMKNIG_00472	CDS	786				hypothetical protein
+MCEMKNIG_00473	gene	654	gpsB			
+MCEMKNIG_00473	CDS	654	gpsB			Cell cycle protein GpsB
+MCEMKNIG_00474	gene	3123	mupA			
+MCEMKNIG_00474	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+MCEMKNIG_00475	gene	816				
+MCEMKNIG_00475	CDS	816				hypothetical protein
+MCEMKNIG_00476	gene	843				
+MCEMKNIG_00476	CDS	843				hypothetical protein
+MCEMKNIG_00477	gene	417				
+MCEMKNIG_00477	CDS	417				hypothetical protein
+MCEMKNIG_00478	gene	720	lptB			
+MCEMKNIG_00478	CDS	720	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+MCEMKNIG_00479	gene	795				
+MCEMKNIG_00479	CDS	795				hypothetical protein
+MCEMKNIG_00480	gene	906				
+MCEMKNIG_00480	CDS	906				hypothetical protein
+MCEMKNIG_00481	gene	1260				
+MCEMKNIG_00481	CDS	1260				hypothetical protein
+MCEMKNIG_00482	gene	1101				
+MCEMKNIG_00482	CDS	1101				hypothetical protein
+MCEMKNIG_00483	gene	1851				
+MCEMKNIG_00483	CDS	1851				hypothetical protein
+MCEMKNIG_00484	gene	936	corA			
+MCEMKNIG_00484	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+MCEMKNIG_00485	gene	705				
+MCEMKNIG_00485	CDS	705				hypothetical protein
+MCEMKNIG_00486	gene	651				
+MCEMKNIG_00486	CDS	651				hypothetical protein
+MCEMKNIG_00487	gene	834	purR			
+MCEMKNIG_00487	CDS	834	purR		COG0503	Pur operon repressor
+MCEMKNIG_00488	gene	1362	murC			
+MCEMKNIG_00488	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+MCEMKNIG_00489	gene	870				
+MCEMKNIG_00489	CDS	870				hypothetical protein
+MCEMKNIG_00490	gene	879	rsmA			
+MCEMKNIG_00490	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+MCEMKNIG_00491	gene	555	rnmV			
+MCEMKNIG_00491	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+MCEMKNIG_00492	gene	549				
+MCEMKNIG_00492	CDS	549				hypothetical protein
+MCEMKNIG_00493	gene	651				
+MCEMKNIG_00493	CDS	651				hypothetical protein
+MCEMKNIG_00494	gene	804	proC			
+MCEMKNIG_00494	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+MCEMKNIG_00495	gene	591				
+MCEMKNIG_00495	CDS	591				hypothetical protein
+MCEMKNIG_00496	gene	426				
+MCEMKNIG_00496	CDS	426			COG0716	Flavodoxin
+MCEMKNIG_00497	gene	903				
+MCEMKNIG_00497	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+MCEMKNIG_00498	gene	1929				
+MCEMKNIG_00498	CDS	1929				hypothetical protein
+MCEMKNIG_00499	gene	846				
+MCEMKNIG_00499	CDS	846				hypothetical protein
+MCEMKNIG_00500	gene	753	lacR			
+MCEMKNIG_00500	CDS	753	lacR			Lactose phosphotransferase system repressor
+MCEMKNIG_00501	gene	915	lacC			
+MCEMKNIG_00501	CDS	915	lacC	2.7.1.144		Tagatose-6-phosphate kinase
+MCEMKNIG_00502	gene	1875	fruA			
+MCEMKNIG_00502	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+MCEMKNIG_00503	gene	246				
+MCEMKNIG_00503	CDS	246				hypothetical protein
+MCEMKNIG_00504	gene	189				
+MCEMKNIG_00504	CDS	189				hypothetical protein
+MCEMKNIG_00505	gene	1008	gap			
+MCEMKNIG_00505	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+MCEMKNIG_00506	gene	1200	pgk			
+MCEMKNIG_00506	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+MCEMKNIG_00507	gene	741	tpiA			
+MCEMKNIG_00507	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+MCEMKNIG_00508	gene	1527	gpmI			
+MCEMKNIG_00508	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MCEMKNIG_00509	gene	1293	eno			
+MCEMKNIG_00509	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+MCEMKNIG_00510	gene	231				
+MCEMKNIG_00510	CDS	231				hypothetical protein
+MCEMKNIG_00511	gene	2220	rnr			
+MCEMKNIG_00511	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+MCEMKNIG_00512	gene	456	smpB			
+MCEMKNIG_00512	CDS	456	smpB		COG0691	SsrA-binding protein
+MCEMKNIG_00513	gene	579				
+MCEMKNIG_00513	CDS	579				hypothetical protein
+MCEMKNIG_00514	gene	465				
+MCEMKNIG_00514	CDS	465				hypothetical protein
+MCEMKNIG_00515	gene	405				
+MCEMKNIG_00515	CDS	405				hypothetical protein
+MCEMKNIG_00516	gene	591	ogt			
+MCEMKNIG_00516	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+MCEMKNIG_00517	gene	990	asd_1			
+MCEMKNIG_00517	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+MCEMKNIG_00518	gene	1338	hom			
+MCEMKNIG_00518	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+MCEMKNIG_00519	gene	1050	thrC			
+MCEMKNIG_00519	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+MCEMKNIG_00520	gene	909	thrB			
+MCEMKNIG_00520	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+MCEMKNIG_00521	gene	1218	ask			
+MCEMKNIG_00521	CDS	1218	ask	2.7.2.4	COG0527	Aspartokinase
+MCEMKNIG_00522	gene	717				
+MCEMKNIG_00522	CDS	717				hypothetical protein
+MCEMKNIG_00523	gene	996	btuD_1			
+MCEMKNIG_00523	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MCEMKNIG_00524	gene	696	ureG			
+MCEMKNIG_00524	CDS	696	ureG			Urease accessory protein UreG
+MCEMKNIG_00525	gene	1227				
+MCEMKNIG_00525	CDS	1227				hypothetical protein
+MCEMKNIG_00526	gene	1746				
+MCEMKNIG_00526	CDS	1746				hypothetical protein
+MCEMKNIG_00527	gene	810	ecsA			
+MCEMKNIG_00527	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+MCEMKNIG_00528	gene	1239	queH			
+MCEMKNIG_00528	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+MCEMKNIG_00529	gene	909	ppaC			
+MCEMKNIG_00529	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+MCEMKNIG_00530	gene	525				
+MCEMKNIG_00530	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MCEMKNIG_00531	gene	564	apeB			
+MCEMKNIG_00531	CDS	564	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+MCEMKNIG_00532	gene	588	mreC			
+MCEMKNIG_00532	CDS	588	mreC		COG1792	Cell shape-determining protein MreC
+MCEMKNIG_00533	gene	486				
+MCEMKNIG_00533	CDS	486				hypothetical protein
+MCEMKNIG_00534	gene	2898	mrdA			
+MCEMKNIG_00534	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+MCEMKNIG_00535	gene	1113	mrdB			
+MCEMKNIG_00535	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+MCEMKNIG_00536	gene	1860				
+MCEMKNIG_00536	CDS	1860				hypothetical protein
+MCEMKNIG_00537	gene	699				
+MCEMKNIG_00537	CDS	699				hypothetical protein
+MCEMKNIG_00538	gene	1401	rne			
+MCEMKNIG_00538	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+MCEMKNIG_00539	gene	621	rbn			
+MCEMKNIG_00539	CDS	621	rbn	3.1.26.11		Ribonuclease BN
+MCEMKNIG_00540	gene	3651	addA_1			
+MCEMKNIG_00540	CDS	3651	addA_1	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+MCEMKNIG_00541	gene	1224	cpdA_1			
+MCEMKNIG_00541	CDS	1224	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MCEMKNIG_00542	gene	3081	smc_1			
+MCEMKNIG_00542	CDS	3081	smc_1			Chromosome partition protein Smc
+MCEMKNIG_00543	gene	1329				
+MCEMKNIG_00543	CDS	1329				hypothetical protein
+MCEMKNIG_00544	gene	1665				
+MCEMKNIG_00544	CDS	1665			COG1132	putative ABC transporter ATP-binding protein
+MCEMKNIG_00545	gene	609				
+MCEMKNIG_00545	CDS	609				hypothetical protein
+MCEMKNIG_00546	gene	705				
+MCEMKNIG_00546	CDS	705				hypothetical protein
+MCEMKNIG_00547	gene	1557	ykoD_2			
+MCEMKNIG_00547	CDS	1557	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+MCEMKNIG_00548	gene	2391	pheT			
+MCEMKNIG_00548	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+MCEMKNIG_00549	gene	1032	pheS			
+MCEMKNIG_00549	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+MCEMKNIG_00550	gene	822				
+MCEMKNIG_00550	CDS	822				hypothetical protein
+MCEMKNIG_00551	gene	177				
+MCEMKNIG_00551	CDS	177				hypothetical protein
+MCEMKNIG_00552	gene	2451				
+MCEMKNIG_00552	CDS	2451				hypothetical protein
+MCEMKNIG_00553	gene	2391	glgP			
+MCEMKNIG_00553	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+MCEMKNIG_00554	gene	1425	glgA			
+MCEMKNIG_00554	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+MCEMKNIG_00555	gene	1107	glgD			
+MCEMKNIG_00555	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+MCEMKNIG_00556	gene	1173	glgC			
+MCEMKNIG_00556	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+MCEMKNIG_00557	gene	228	glgB			
+MCEMKNIG_00557	CDS	228	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+MCEMKNIG_00558	gene	693	ispD			
+MCEMKNIG_00558	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+MCEMKNIG_00559	gene	765	rhaR_2			
+MCEMKNIG_00559	CDS	765	rhaR_2			HTH-type transcriptional activator RhaR
+MCEMKNIG_00560	gene	552				
+MCEMKNIG_00560	CDS	552				hypothetical protein
+MCEMKNIG_00561	gene	582				
+MCEMKNIG_00561	CDS	582				hypothetical protein
+MCEMKNIG_00562	gene	1227				
+MCEMKNIG_00562	CDS	1227		3.4.11.-		Aminopeptidase 2
+MCEMKNIG_00563	gene	1170				
+MCEMKNIG_00563	CDS	1170				hypothetical protein
+MCEMKNIG_00564	gene	540				
+MCEMKNIG_00564	CDS	540				hypothetical protein
+MCEMKNIG_00565	gene	609				
+MCEMKNIG_00565	CDS	609				hypothetical protein
+MCEMKNIG_00566	gene	186				
+MCEMKNIG_00566	CDS	186				hypothetical protein
+MCEMKNIG_00567	gene	1317	cpdA_2			
+MCEMKNIG_00567	CDS	1317	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MCEMKNIG_00568	gene	1380	srfAB			
+MCEMKNIG_00568	CDS	1380	srfAB			Surfactin synthase subunit 2
+MCEMKNIG_00569	gene	897	ddl			
+MCEMKNIG_00569	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+MCEMKNIG_00570	gene	1266	cinA			
+MCEMKNIG_00570	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+MCEMKNIG_00571	gene	804	ywpJ			
+MCEMKNIG_00571	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+MCEMKNIG_00572	gene	567				
+MCEMKNIG_00572	CDS	567				hypothetical protein
+MCEMKNIG_00573	gene	954				
+MCEMKNIG_00573	CDS	954				hypothetical protein
+MCEMKNIG_00574	gene	576				
+MCEMKNIG_00574	CDS	576				hypothetical protein
+MCEMKNIG_00575	gene	594				
+MCEMKNIG_00575	CDS	594				hypothetical protein
+MCEMKNIG_00576	gene	771				
+MCEMKNIG_00576	CDS	771				hypothetical protein
+MCEMKNIG_00577	gene	804				
+MCEMKNIG_00577	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+MCEMKNIG_00578	gene	777	trmK			
+MCEMKNIG_00578	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+MCEMKNIG_00579	gene	1155	sigA			
+MCEMKNIG_00579	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+MCEMKNIG_00580	gene	1824	dnaG			
+MCEMKNIG_00580	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+MCEMKNIG_00581	gene	957				
+MCEMKNIG_00581	CDS	957				hypothetical protein
+MCEMKNIG_00582	gene	867				
+MCEMKNIG_00582	CDS	867				hypothetical protein
+MCEMKNIG_00583	gene	507				
+MCEMKNIG_00583	CDS	507				hypothetical protein
+MCEMKNIG_00584	gene	951				
+MCEMKNIG_00584	CDS	951				hypothetical protein
+MCEMKNIG_00585	gene	837	ecfA1			
+MCEMKNIG_00585	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+MCEMKNIG_00586	gene	876	ecfA2			
+MCEMKNIG_00586	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+MCEMKNIG_00587	gene	810	ecfT			
+MCEMKNIG_00587	CDS	810	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+MCEMKNIG_00588	gene	1167	patB			
+MCEMKNIG_00588	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+MCEMKNIG_00589	gene	744	aroD			
+MCEMKNIG_00589	CDS	744	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+MCEMKNIG_00590	gene	378				
+MCEMKNIG_00590	CDS	378				hypothetical protein
+MCEMKNIG_00591	gene	1401				
+MCEMKNIG_00591	CDS	1401				hypothetical protein
+MCEMKNIG_00592	gene	1545	glmS			
+MCEMKNIG_00592	CDS	1545	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+MCEMKNIG_00593	gene	1191				
+MCEMKNIG_00593	CDS	1191				hypothetical protein
+MCEMKNIG_00594	gene	750				
+MCEMKNIG_00594	CDS	750				hypothetical protein
+MCEMKNIG_00595	gene	411				
+MCEMKNIG_00595	CDS	411				hypothetical protein
+MCEMKNIG_00596	gene	513				
+MCEMKNIG_00596	CDS	513				hypothetical protein
+MCEMKNIG_00597	gene	780	yddE			
+MCEMKNIG_00597	CDS	780	yddE	5.1.-.-	COG0384	putative isomerase YddE
+MCEMKNIG_00598	gene	705				
+MCEMKNIG_00598	CDS	705				hypothetical protein
+MCEMKNIG_00599	gene	1368	mepA_1			
+MCEMKNIG_00599	CDS	1368	mepA_1			Multidrug export protein MepA
+MCEMKNIG_00600	gene	1611				
+MCEMKNIG_00600	CDS	1611				hypothetical protein
+MCEMKNIG_00601	gene	279				
+MCEMKNIG_00601	CDS	279				hypothetical protein
+MCEMKNIG_00602	gene	678				
+MCEMKNIG_00602	CDS	678				hypothetical protein
+MCEMKNIG_00603	gene	777				
+MCEMKNIG_00603	CDS	777				hypothetical protein
+MCEMKNIG_00604	gene	1467				
+MCEMKNIG_00604	CDS	1467				hypothetical protein
+MCEMKNIG_00605	gene	540	puuR			
+MCEMKNIG_00605	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+MCEMKNIG_00606	gene	1044	potA			
+MCEMKNIG_00606	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+MCEMKNIG_00607	gene	867	potB			
+MCEMKNIG_00607	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+MCEMKNIG_00608	gene	807				
+MCEMKNIG_00608	CDS	807				hypothetical protein
+MCEMKNIG_00609	gene	1086	potD			
+MCEMKNIG_00609	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+MCEMKNIG_00610	gene	810	apbC			
+MCEMKNIG_00610	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+MCEMKNIG_00611	gene	258				
+MCEMKNIG_00611	CDS	258				hypothetical protein
+MCEMKNIG_00612	gene	645				
+MCEMKNIG_00612	CDS	645				hypothetical protein
+MCEMKNIG_00613	gene	297				
+MCEMKNIG_00613	CDS	297				hypothetical protein
+MCEMKNIG_00614	gene	1275	pyrC			
+MCEMKNIG_00614	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+MCEMKNIG_00615	gene	1245	macB			
+MCEMKNIG_00615	CDS	1245	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+MCEMKNIG_00616	gene	675	yknY			
+MCEMKNIG_00616	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+MCEMKNIG_00617	gene	1083	yknX			
+MCEMKNIG_00617	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+MCEMKNIG_00618	gene	651	tal			
+MCEMKNIG_00618	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+MCEMKNIG_00619	gene	495				
+MCEMKNIG_00619	CDS	495				hypothetical protein
+MCEMKNIG_00620	gene	597				
+MCEMKNIG_00620	CDS	597				hypothetical protein
+MCEMKNIG_00621	gene	378				
+MCEMKNIG_00621	CDS	378				hypothetical protein
+MCEMKNIG_00622	gene	2211	kdpB			
+MCEMKNIG_00622	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+MCEMKNIG_00623	gene	855				
+MCEMKNIG_00623	CDS	855				hypothetical protein
+MCEMKNIG_00624	gene	273				
+MCEMKNIG_00624	CDS	273				hypothetical protein
+MCEMKNIG_00625	gene	2424				
+MCEMKNIG_00625	CDS	2424				hypothetical protein
+MCEMKNIG_00626	gene	573				
+MCEMKNIG_00626	CDS	573				hypothetical protein
+MCEMKNIG_00627	gene	651	pspA_2			
+MCEMKNIG_00627	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+MCEMKNIG_00628	gene	1257				
+MCEMKNIG_00628	CDS	1257			COG2081	putative protein
+MCEMKNIG_00629	gene	660	cmk			
+MCEMKNIG_00629	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+MCEMKNIG_00630	gene	615	plsC			
+MCEMKNIG_00630	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+MCEMKNIG_00631	gene	888	ispH			
+MCEMKNIG_00631	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+MCEMKNIG_00632	gene	1896	ftsH4			
+MCEMKNIG_00632	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+MCEMKNIG_00633	gene	489				
+MCEMKNIG_00633	CDS	489				hypothetical protein
+MCEMKNIG_00634	gene	636	lexA			
+MCEMKNIG_00634	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+MCEMKNIG_00635	gene	297				
+MCEMKNIG_00635	CDS	297				hypothetical protein
+MCEMKNIG_00636	gene	636				
+MCEMKNIG_00636	CDS	636				hypothetical protein
+MCEMKNIG_00637	gene	675				
+MCEMKNIG_00637	CDS	675				hypothetical protein
+MCEMKNIG_00638	gene	678				
+MCEMKNIG_00638	CDS	678				hypothetical protein
+MCEMKNIG_00639	gene	654				
+MCEMKNIG_00639	CDS	654				hypothetical protein
+MCEMKNIG_00640	gene	1188	norV			
+MCEMKNIG_00640	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+MCEMKNIG_00641	gene	552	bioY			
+MCEMKNIG_00641	CDS	552	bioY		COG1268	Biotin transporter BioY
+MCEMKNIG_00642	gene	825	aroF			
+MCEMKNIG_00642	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+MCEMKNIG_00643	gene	315	lolD_1			
+MCEMKNIG_00643	CDS	315	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MCEMKNIG_00644	gene	603	nudL			
+MCEMKNIG_00644	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+MCEMKNIG_00645	gene	291				
+MCEMKNIG_00645	CDS	291				hypothetical protein
+MCEMKNIG_00646	gene	762	ribX			
+MCEMKNIG_00646	CDS	762	ribX			Riboflavin transport system permease protein RibX
+MCEMKNIG_00647	gene	1023	thiY			
+MCEMKNIG_00647	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+MCEMKNIG_00648	gene	726	tauB			
+MCEMKNIG_00648	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+MCEMKNIG_00649	gene	2643	mutS			
+MCEMKNIG_00649	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+MCEMKNIG_00650	gene	1494				
+MCEMKNIG_00650	CDS	1494				hypothetical protein
+MCEMKNIG_00651	gene	369				
+MCEMKNIG_00651	CDS	369				hypothetical protein
+MCEMKNIG_00652	gene	1005				
+MCEMKNIG_00652	CDS	1005			COG0330	putative protein
+MCEMKNIG_00653	gene	453				
+MCEMKNIG_00653	CDS	453				hypothetical protein
+MCEMKNIG_00654	gene	1614	nnr			
+MCEMKNIG_00654	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+MCEMKNIG_00655	gene	2139				
+MCEMKNIG_00655	CDS	2139				hypothetical protein
+MCEMKNIG_00656	gene	144				
+MCEMKNIG_00656	CDS	144				hypothetical protein
+MCEMKNIG_00657	gene	282				
+MCEMKNIG_00657	CDS	282				hypothetical protein
+MCEMKNIG_00658	gene	846	artP_2			
+MCEMKNIG_00658	CDS	846	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+MCEMKNIG_00659	gene	675	artQ_1			
+MCEMKNIG_00659	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+MCEMKNIG_00660	gene	744	artM_1			
+MCEMKNIG_00660	CDS	744	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+MCEMKNIG_00661	gene	606	rpsD			
+MCEMKNIG_00661	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+MCEMKNIG_00662	gene	885	dapA_1			
+MCEMKNIG_00662	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MCEMKNIG_00663	gene	1194	sdaB			
+MCEMKNIG_00663	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+MCEMKNIG_00664	gene	477				
+MCEMKNIG_00664	CDS	477				hypothetical protein
+MCEMKNIG_00665	gene	1311				
+MCEMKNIG_00665	CDS	1311				hypothetical protein
+MCEMKNIG_00666	gene	618				
+MCEMKNIG_00666	CDS	618				hypothetical protein
+MCEMKNIG_00667	gene	723				
+MCEMKNIG_00667	CDS	723				hypothetical protein
+MCEMKNIG_00668	gene	192				
+MCEMKNIG_00668	CDS	192				hypothetical protein
+MCEMKNIG_00669	gene	1128				
+MCEMKNIG_00669	CDS	1128				hypothetical protein
+MCEMKNIG_00670	gene	456				
+MCEMKNIG_00670	CDS	456				hypothetical protein
+MCEMKNIG_00671	gene	1056				
+MCEMKNIG_00671	CDS	1056				hypothetical protein
+MCEMKNIG_00672	gene	660	sigH			
+MCEMKNIG_00672	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+MCEMKNIG_00673	gene	564				
+MCEMKNIG_00673	CDS	564				hypothetical protein
+MCEMKNIG_00674	gene	735				
+MCEMKNIG_00674	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+MCEMKNIG_00675	gene	453	mrnC			
+MCEMKNIG_00675	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+MCEMKNIG_00676	gene	1404	cysS			
+MCEMKNIG_00676	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+MCEMKNIG_00677	gene	2088				
+MCEMKNIG_00677	CDS	2088				hypothetical protein
+MCEMKNIG_00678	gene	219				
+MCEMKNIG_00678	CDS	219				hypothetical protein
+MCEMKNIG_00679	gene	234				
+MCEMKNIG_00679	CDS	234				hypothetical protein
+MCEMKNIG_00680	gene	2151	feoB			
+MCEMKNIG_00680	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+MCEMKNIG_00681	gene	168				
+MCEMKNIG_00681	CDS	168				hypothetical protein
+MCEMKNIG_00682	gene	1557				
+MCEMKNIG_00682	CDS	1557				hypothetical protein
+MCEMKNIG_00683	gene	486				
+MCEMKNIG_00683	CDS	486				hypothetical protein
+MCEMKNIG_00684	gene	651				
+MCEMKNIG_00684	CDS	651				hypothetical protein
+MCEMKNIG_00685	gene	954				
+MCEMKNIG_00685	CDS	954				hypothetical protein
+MCEMKNIG_00686	gene	282				
+MCEMKNIG_00686	CDS	282				hypothetical protein
+MCEMKNIG_00687	gene	1635				
+MCEMKNIG_00687	CDS	1635		2.1.1.-	COG2265	putative RNA methyltransferase
+MCEMKNIG_00688	gene	1737	pyk			
+MCEMKNIG_00688	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+MCEMKNIG_00689	gene	972	pfkA			
+MCEMKNIG_00689	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+MCEMKNIG_00690	gene	180	rpsU			
+MCEMKNIG_00690	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+MCEMKNIG_00691	gene	441	yqeY			
+MCEMKNIG_00691	CDS	441	yqeY		COG1610	putative protein YqeY
+MCEMKNIG_00692	gene	1611	ziaA			
+MCEMKNIG_00692	CDS	1611	ziaA	7.2.2.12		Zinc-transporting ATPase
+MCEMKNIG_00693	gene	927				
+MCEMKNIG_00693	CDS	927				hypothetical protein
+MCEMKNIG_00694	gene	822	thiD			
+MCEMKNIG_00694	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+MCEMKNIG_00695	gene	1455	thiM			
+MCEMKNIG_00695	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+MCEMKNIG_00696	gene	1305	thiC			
+MCEMKNIG_00696	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+MCEMKNIG_00697	gene	687	arnC			
+MCEMKNIG_00697	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MCEMKNIG_00698	gene	831				
+MCEMKNIG_00698	CDS	831				hypothetical protein
+MCEMKNIG_00699	gene	1074				
+MCEMKNIG_00699	CDS	1074				hypothetical protein
+MCEMKNIG_00700	gene	822	punA			
+MCEMKNIG_00700	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+MCEMKNIG_00701	gene	1203	mltG			
+MCEMKNIG_00701	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+MCEMKNIG_00702	gene	645	trmR			
+MCEMKNIG_00702	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+MCEMKNIG_00703	gene	1233				
+MCEMKNIG_00703	CDS	1233				hypothetical protein
+MCEMKNIG_00704	gene	1794	mnmG			
+MCEMKNIG_00704	CDS	1794	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MCEMKNIG_00705	gene	729	rsmG			
+MCEMKNIG_00705	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+MCEMKNIG_00706	gene	1326				
+MCEMKNIG_00706	CDS	1326				hypothetical protein
+MCEMKNIG_00707	gene	1944	yjcS			
+MCEMKNIG_00707	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+MCEMKNIG_00708	gene	120				
+MCEMKNIG_00708	CDS	120				hypothetical protein
+MCEMKNIG_00709	gene	462	crcB_1			
+MCEMKNIG_00709	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+MCEMKNIG_00710	gene	348	crcB_2			
+MCEMKNIG_00710	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+MCEMKNIG_00711	gene	624	recX			
+MCEMKNIG_00711	CDS	624	recX			Regulatory protein RecX
+MCEMKNIG_00712	gene	696	nadD			
+MCEMKNIG_00712	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+MCEMKNIG_00713	gene	561				
+MCEMKNIG_00713	CDS	561				hypothetical protein
+MCEMKNIG_00714	gene	351	rsfS			
+MCEMKNIG_00714	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+MCEMKNIG_00715	gene	2421	leuS			
+MCEMKNIG_00715	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+MCEMKNIG_00716	gene	1548	rny			
+MCEMKNIG_00716	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+MCEMKNIG_00717	gene	1626				
+MCEMKNIG_00717	CDS	1626				hypothetical protein
+MCEMKNIG_00718	gene	1083				
+MCEMKNIG_00718	CDS	1083				hypothetical protein
+MCEMKNIG_00719	gene	450	fur			
+MCEMKNIG_00719	CDS	450	fur		COG0735	Ferric uptake regulation protein
+MCEMKNIG_00720	gene	417	yrrK			
+MCEMKNIG_00720	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+MCEMKNIG_00721	gene	777				
+MCEMKNIG_00721	CDS	777				hypothetical protein
+MCEMKNIG_00722	gene	291				
+MCEMKNIG_00722	CDS	291				hypothetical protein
+MCEMKNIG_00723	gene	627				
+MCEMKNIG_00723	CDS	627				hypothetical protein
+MCEMKNIG_00724	gene	408				
+MCEMKNIG_00724	CDS	408				hypothetical protein
+MCEMKNIG_00725	gene	438	sufU			
+MCEMKNIG_00725	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+MCEMKNIG_00726	gene	1236	csd			
+MCEMKNIG_00726	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+MCEMKNIG_00727	gene	831				
+MCEMKNIG_00727	CDS	831				hypothetical protein
+MCEMKNIG_00728	gene	1425				
+MCEMKNIG_00728	CDS	1425				hypothetical protein
+MCEMKNIG_00729	gene	765	sufC			
+MCEMKNIG_00729	CDS	765	sufC		COG0396	Vegetative protein 296
+MCEMKNIG_00730	gene	76				
+MCEMKNIG_00730	tRNA	76				tRNA-Val(tac)
+MCEMKNIG_00731	gene	77				
+MCEMKNIG_00731	tRNA	77				tRNA-Asp(gtc)
+MCEMKNIG_00732	gene	75				
+MCEMKNIG_00732	tRNA	75				tRNA-Gly(gcc)
+MCEMKNIG_00733	gene	76				
+MCEMKNIG_00733	tRNA	76				tRNA-Pyl(cta)
+MCEMKNIG_00734	gene	852	cdaA			
+MCEMKNIG_00734	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+MCEMKNIG_00735	gene	915	cdaR			
+MCEMKNIG_00735	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+MCEMKNIG_00736	gene	1083	buk2			
+MCEMKNIG_00736	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+MCEMKNIG_00737	gene	678				
+MCEMKNIG_00737	CDS	678				hypothetical protein
+MCEMKNIG_00738	gene	216	rsxB_2			
+MCEMKNIG_00738	CDS	216	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+MCEMKNIG_00739	gene	1065	padG			
+MCEMKNIG_00739	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+MCEMKNIG_00740	gene	780	korB			
+MCEMKNIG_00740	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+MCEMKNIG_00741	gene	762	truA			
+MCEMKNIG_00741	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+MCEMKNIG_00742	gene	1071				
+MCEMKNIG_00742	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+MCEMKNIG_00743	gene	918				
+MCEMKNIG_00743	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+MCEMKNIG_00744	gene	1254				
+MCEMKNIG_00744	CDS	1254				hypothetical protein
+MCEMKNIG_00745	gene	429	rplM			
+MCEMKNIG_00745	CDS	429	rplM		COG0102	50S ribosomal protein L13
+MCEMKNIG_00746	gene	393	rpsI			
+MCEMKNIG_00746	CDS	393	rpsI			30S ribosomal protein S9
+MCEMKNIG_00747	gene	1011	ntpJ			
+MCEMKNIG_00747	CDS	1011	ntpJ			Potassium/sodium uptake protein NtpJ
+MCEMKNIG_00748	gene	675	ktrA			
+MCEMKNIG_00748	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+MCEMKNIG_00749	gene	771	aviRb			
+MCEMKNIG_00749	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+MCEMKNIG_00750	gene	606	ccpN			
+MCEMKNIG_00750	CDS	606	ccpN		COG0517	Transcriptional repressor CcpN
+MCEMKNIG_00751	gene	840	yqfL			
+MCEMKNIG_00751	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+MCEMKNIG_00752	gene	750				
+MCEMKNIG_00752	CDS	750				hypothetical protein
+MCEMKNIG_00753	gene	1446	proS			
+MCEMKNIG_00753	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MCEMKNIG_00754	gene	1092				
+MCEMKNIG_00754	CDS	1092				hypothetical protein
+MCEMKNIG_00755	gene	312	disA			
+MCEMKNIG_00755	CDS	312	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+MCEMKNIG_00756	gene	219				
+MCEMKNIG_00756	CDS	219				hypothetical protein
+MCEMKNIG_00757	gene	1245				
+MCEMKNIG_00757	CDS	1245				hypothetical protein
+MCEMKNIG_00758	gene	999				
+MCEMKNIG_00758	CDS	999				hypothetical protein
+MCEMKNIG_00759	gene	1926	fusA			
+MCEMKNIG_00759	CDS	1926	fusA		COG0480	Elongation factor G
+MCEMKNIG_00760	gene	366				
+MCEMKNIG_00760	CDS	366				hypothetical protein
+MCEMKNIG_00761	gene	231				
+MCEMKNIG_00761	CDS	231				hypothetical protein
+MCEMKNIG_00762	gene	1077	alr			
+MCEMKNIG_00762	CDS	1077	alr	5.1.1.1		Alanine racemase
+MCEMKNIG_00763	gene	1152	scmP			
+MCEMKNIG_00763	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+MCEMKNIG_00764	gene	720	dapH			
+MCEMKNIG_00764	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+MCEMKNIG_00765	gene	732	dapB			
+MCEMKNIG_00765	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+MCEMKNIG_00766	gene	900	dapA_2			
+MCEMKNIG_00766	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MCEMKNIG_00767	gene	984	asd_2			
+MCEMKNIG_00767	CDS	984	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+MCEMKNIG_00768	gene	360	lysC			
+MCEMKNIG_00768	CDS	360	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+MCEMKNIG_00769	gene	1308				
+MCEMKNIG_00769	CDS	1308				hypothetical protein
+MCEMKNIG_00770	gene	1326				
+MCEMKNIG_00770	CDS	1326				hypothetical protein
+MCEMKNIG_00771	gene	801	artJ			
+MCEMKNIG_00771	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+MCEMKNIG_00772	gene	618	artQ_2			
+MCEMKNIG_00772	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+MCEMKNIG_00773	gene	645	artM_2			
+MCEMKNIG_00773	CDS	645	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+MCEMKNIG_00774	gene	1437	pncB2			
+MCEMKNIG_00774	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+MCEMKNIG_00775	gene	456	lrpC			
+MCEMKNIG_00775	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+MCEMKNIG_00776	gene	1941	metG			
+MCEMKNIG_00776	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+MCEMKNIG_00777	gene	771	ycfH			
+MCEMKNIG_00777	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+MCEMKNIG_00778	gene	1263	hisS			
+MCEMKNIG_00778	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+MCEMKNIG_00779	gene	1791	aspS			
+MCEMKNIG_00779	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+MCEMKNIG_00780	gene	315	csoR			
+MCEMKNIG_00780	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+MCEMKNIG_00781	gene	477				
+MCEMKNIG_00781	CDS	477				hypothetical protein
+MCEMKNIG_00782	gene	972	pta			
+MCEMKNIG_00782	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+MCEMKNIG_00783	gene	480	lspA			
+MCEMKNIG_00783	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+MCEMKNIG_00784	gene	768				
+MCEMKNIG_00784	CDS	768				hypothetical protein
+MCEMKNIG_00785	gene	1008	trpS			
+MCEMKNIG_00785	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+MCEMKNIG_00786	gene	708	mtnN			
+MCEMKNIG_00786	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MCEMKNIG_00787	gene	1053				
+MCEMKNIG_00787	CDS	1053				hypothetical protein
+MCEMKNIG_00788	gene	786				
+MCEMKNIG_00788	CDS	786				hypothetical protein
+MCEMKNIG_00789	gene	768	sseB			
+MCEMKNIG_00789	CDS	768	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+MCEMKNIG_00790	gene	1044	mtgA_2			
+MCEMKNIG_00790	CDS	1044	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+MCEMKNIG_00791	gene	519	polC_1			
+MCEMKNIG_00791	CDS	519	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+MCEMKNIG_00792	gene	891	ttcA			
+MCEMKNIG_00792	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+MCEMKNIG_00793	gene	2277	topB			
+MCEMKNIG_00793	CDS	2277	topB	5.6.2.1		DNA topoisomerase 3
+MCEMKNIG_00794	gene	186				
+MCEMKNIG_00794	CDS	186				hypothetical protein
+MCEMKNIG_00795	gene	582				
+MCEMKNIG_00795	CDS	582				hypothetical protein
+MCEMKNIG_00796	gene	1332	mepA_2			
+MCEMKNIG_00796	CDS	1332	mepA_2			Multidrug export protein MepA
+MCEMKNIG_00797	gene	465	yfkJ			
+MCEMKNIG_00797	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+MCEMKNIG_00798	gene	162				
+MCEMKNIG_00798	CDS	162				hypothetical protein
+MCEMKNIG_00799	gene	663	bglK			
+MCEMKNIG_00799	CDS	663	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+MCEMKNIG_00800	gene	993	malR			
+MCEMKNIG_00800	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+MCEMKNIG_00801	gene	402	rluD_1			
+MCEMKNIG_00801	CDS	402	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MCEMKNIG_00802	gene	525	pyrR			
+MCEMKNIG_00802	CDS	525	pyrR			Bifunctional protein PyrR
+MCEMKNIG_00803	gene	1764	rqcH			
+MCEMKNIG_00803	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+MCEMKNIG_00804	gene	825	ydjP			
+MCEMKNIG_00804	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+MCEMKNIG_00805	gene	279	yjdJ			
+MCEMKNIG_00805	CDS	279	yjdJ		COG2388	putative protein YjdJ
+MCEMKNIG_00806	gene	462	mutX			
+MCEMKNIG_00806	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+MCEMKNIG_00807	gene	507	tpx			
+MCEMKNIG_00807	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+MCEMKNIG_00808	gene	1671	addA_2			
+MCEMKNIG_00808	CDS	1671	addA_2	3.1.-.-		ATP-dependent helicase/nuclease subunit A
+MCEMKNIG_00809	gene	684				
+MCEMKNIG_00809	CDS	684				hypothetical protein
+MCEMKNIG_00810	gene	3417	addB			
+MCEMKNIG_00810	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+MCEMKNIG_00811	gene	1944				
+MCEMKNIG_00811	CDS	1944				hypothetical protein
+MCEMKNIG_00812	gene	1479	malQ			
+MCEMKNIG_00812	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+MCEMKNIG_00813	gene	315	rplGA			
+MCEMKNIG_00813	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+MCEMKNIG_00814	gene	276				
+MCEMKNIG_00814	CDS	276				hypothetical protein
+MCEMKNIG_00815	gene	1272	nusA			
+MCEMKNIG_00815	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+MCEMKNIG_00816	gene	468	rimP			
+MCEMKNIG_00816	CDS	468	rimP			Ribosome maturation factor RimP
+MCEMKNIG_00817	gene	909				
+MCEMKNIG_00817	CDS	909				hypothetical protein
+MCEMKNIG_00818	gene	780				
+MCEMKNIG_00818	CDS	780				hypothetical protein
+MCEMKNIG_00819	gene	1425	purB			
+MCEMKNIG_00819	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+MCEMKNIG_00820	gene	1278	purA			
+MCEMKNIG_00820	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+MCEMKNIG_00821	gene	1452	trkG			
+MCEMKNIG_00821	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+MCEMKNIG_00822	gene	1128	trkA			
+MCEMKNIG_00822	CDS	1128	trkA		COG0569	Trk system potassium uptake protein TrkA
+MCEMKNIG_00823	gene	777	codY			
+MCEMKNIG_00823	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+MCEMKNIG_00824	gene	1272	rarA			
+MCEMKNIG_00824	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+MCEMKNIG_00825	gene	465	cymR			
+MCEMKNIG_00825	CDS	465	cymR			HTH-type transcriptional regulator CymR
+MCEMKNIG_00826	gene	1053	mnmA			
+MCEMKNIG_00826	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+MCEMKNIG_00827	gene	234				
+MCEMKNIG_00827	CDS	234				hypothetical protein
+MCEMKNIG_00828	gene	342				
+MCEMKNIG_00828	CDS	342				hypothetical protein
+MCEMKNIG_00829	gene	642				
+MCEMKNIG_00829	CDS	642				hypothetical protein
+MCEMKNIG_00830	gene	567				
+MCEMKNIG_00830	CDS	567				hypothetical protein
+MCEMKNIG_00831	gene	498	ruvC			
+MCEMKNIG_00831	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+MCEMKNIG_00832	gene	612	ruvA			
+MCEMKNIG_00832	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+MCEMKNIG_00833	gene	1014	ruvB			
+MCEMKNIG_00833	CDS	1014	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MCEMKNIG_00834	gene	357	rplT			
+MCEMKNIG_00834	CDS	357	rplT			50S ribosomal protein L20
+MCEMKNIG_00835	gene	198	rpmI			
+MCEMKNIG_00835	CDS	198	rpmI			50S ribosomal protein L35
+MCEMKNIG_00836	gene	459	infC			
+MCEMKNIG_00836	CDS	459	infC			Translation initiation factor IF-3
+MCEMKNIG_00837	gene	864	map			
+MCEMKNIG_00837	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+MCEMKNIG_00838	gene	603				
+MCEMKNIG_00838	CDS	603				hypothetical protein
+MCEMKNIG_00839	gene	561				
+MCEMKNIG_00839	CDS	561				hypothetical protein
+MCEMKNIG_00840	gene	549	chrA1			
+MCEMKNIG_00840	CDS	549	chrA1			Chromate transport protein
+MCEMKNIG_00841	gene	189				
+MCEMKNIG_00841	CDS	189				Rubredoxin
+MCEMKNIG_00842	gene	765	dhaD			
+MCEMKNIG_00842	CDS	765	dhaD	1.1.1.6		Glycerol dehydrogenase
+MCEMKNIG_00843	gene	1422	purF			
+MCEMKNIG_00843	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+MCEMKNIG_00844	gene	1647	gltX			
+MCEMKNIG_00844	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+MCEMKNIG_00845	gene	1452				
+MCEMKNIG_00845	CDS	1452				hypothetical protein
+MCEMKNIG_00846	gene	930	fmt			
+MCEMKNIG_00846	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+MCEMKNIG_00847	gene	690				
+MCEMKNIG_00847	CDS	690				hypothetical protein
+MCEMKNIG_00848	gene	1344	rsmB			
+MCEMKNIG_00848	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+MCEMKNIG_00849	gene	1038	rlmN			
+MCEMKNIG_00849	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+MCEMKNIG_00850	gene	750	prpC_1			
+MCEMKNIG_00850	CDS	750	prpC_1	3.1.3.16	COG0631	Protein phosphatase PrpC
+MCEMKNIG_00851	gene	1236	fldB			
+MCEMKNIG_00851	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+MCEMKNIG_00852	gene	1245	fldA			
+MCEMKNIG_00852	CDS	1245	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+MCEMKNIG_00853	gene	696	rspR			
+MCEMKNIG_00853	CDS	696	rspR		COG1802	HTH-type transcriptional repressor RspR
+MCEMKNIG_00854	gene	351	ssrA			
+MCEMKNIG_00854	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+MCEMKNIG_00855	gene	546	xerC_1			
+MCEMKNIG_00855	CDS	546	xerC_1			Tyrosine recombinase XerC
+MCEMKNIG_00856	gene	1671	rnjA			
+MCEMKNIG_00856	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+MCEMKNIG_00857	gene	633				
+MCEMKNIG_00857	CDS	633				hypothetical protein
+MCEMKNIG_00858	gene	762	scpA			
+MCEMKNIG_00858	CDS	762	scpA		COG1354	Segregation and condensation protein A
+MCEMKNIG_00859	gene	519	scpB			
+MCEMKNIG_00859	CDS	519	scpB		COG1386	Segregation and condensation protein B
+MCEMKNIG_00860	gene	750	cobB			
+MCEMKNIG_00860	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+MCEMKNIG_00861	gene	420	fbp			
+MCEMKNIG_00861	CDS	420	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+MCEMKNIG_00862	gene	342				
+MCEMKNIG_00862	CDS	342				putative protein
+MCEMKNIG_00863	gene	495	nusB			
+MCEMKNIG_00863	CDS	495	nusB			Transcription antitermination protein NusB
+MCEMKNIG_00864	gene	672	regX3			
+MCEMKNIG_00864	CDS	672	regX3		COG0745	Sensory transduction protein regX3
+MCEMKNIG_00865	gene	975	sasA_1			
+MCEMKNIG_00865	CDS	975	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+MCEMKNIG_00866	gene	672	lolD_2			
+MCEMKNIG_00866	CDS	672	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MCEMKNIG_00867	gene	651				
+MCEMKNIG_00867	CDS	651				hypothetical protein
+MCEMKNIG_00868	gene	525				
+MCEMKNIG_00868	CDS	525				hypothetical protein
+MCEMKNIG_00869	gene	987	nrdF			
+MCEMKNIG_00869	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+MCEMKNIG_00870	gene	2109	nrdE			
+MCEMKNIG_00870	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+MCEMKNIG_00871	gene	744				
+MCEMKNIG_00871	CDS	744				hypothetical protein
+MCEMKNIG_00872	gene	1761				
+MCEMKNIG_00872	CDS	1761				hypothetical protein
+MCEMKNIG_00873	gene	555				
+MCEMKNIG_00873	CDS	555				hypothetical protein
+MCEMKNIG_00874	gene	675	arlR			
+MCEMKNIG_00874	CDS	675	arlR		COG0745	Response regulator ArlR
+MCEMKNIG_00875	gene	1278	sasA_2			
+MCEMKNIG_00875	CDS	1278	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+MCEMKNIG_00876	gene	318				
+MCEMKNIG_00876	CDS	318				hypothetical protein
+MCEMKNIG_00877	gene	1422				
+MCEMKNIG_00877	CDS	1422				hypothetical protein
+MCEMKNIG_00878	gene	390				
+MCEMKNIG_00878	CDS	390				hypothetical protein
+MCEMKNIG_00879	gene	822				
+MCEMKNIG_00879	CDS	822				hypothetical protein
+MCEMKNIG_00880	gene	342	rplQ			
+MCEMKNIG_00880	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+MCEMKNIG_00881	gene	948	rpoA			
+MCEMKNIG_00881	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+MCEMKNIG_00882	gene	402	rpsK			
+MCEMKNIG_00882	CDS	402	rpsK			30S ribosomal protein S11
+MCEMKNIG_00883	gene	369	rpsM			
+MCEMKNIG_00883	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+MCEMKNIG_00884	gene	114	rpmJ			
+MCEMKNIG_00884	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+MCEMKNIG_00885	gene	1221				
+MCEMKNIG_00885	CDS	1221				hypothetical protein
+MCEMKNIG_00886	gene	660				
+MCEMKNIG_00886	CDS	660				hypothetical protein
+MCEMKNIG_00887	gene	246				
+MCEMKNIG_00887	CDS	246				hypothetical protein
+MCEMKNIG_00888	gene	930	gloB_2			
+MCEMKNIG_00888	CDS	930	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+MCEMKNIG_00889	gene	786				
+MCEMKNIG_00889	CDS	786				hypothetical protein
+MCEMKNIG_00890	gene	1104				
+MCEMKNIG_00890	CDS	1104				hypothetical protein
+MCEMKNIG_00891	gene	1023	lnpD			
+MCEMKNIG_00891	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+MCEMKNIG_00892	gene	177				
+MCEMKNIG_00892	CDS	177				hypothetical protein
+MCEMKNIG_00893	gene	1980				
+MCEMKNIG_00893	CDS	1980				hypothetical protein
+MCEMKNIG_00894	gene	2925	dnaE			
+MCEMKNIG_00894	CDS	2925	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+MCEMKNIG_00895	gene	1572				
+MCEMKNIG_00895	CDS	1572				hypothetical protein
+MCEMKNIG_00896	gene	1860	asnB			
+MCEMKNIG_00896	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+MCEMKNIG_00897	gene	780	aroK			
+MCEMKNIG_00897	CDS	780	aroK	2.7.1.71		Shikimate kinase
+MCEMKNIG_00898	gene	270	aroC			
+MCEMKNIG_00898	CDS	270	aroC	4.2.3.5	COG0082	Chorismate synthase
+MCEMKNIG_00899	gene	1041	tagU			
+MCEMKNIG_00899	CDS	1041	tagU	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MCEMKNIG_00900	gene	789	ybiV			
+MCEMKNIG_00900	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+MCEMKNIG_00901	gene	1128				
+MCEMKNIG_00901	CDS	1128				hypothetical protein
+MCEMKNIG_00902	gene	264	ptsH			
+MCEMKNIG_00902	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+MCEMKNIG_00903	gene	1104	dnaN			
+MCEMKNIG_00903	CDS	1104	dnaN		COG0592	Beta sliding clamp
+MCEMKNIG_00904	gene	1365	dnaA_2			
+MCEMKNIG_00904	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+MCEMKNIG_00905	gene	135	rpmH			
+MCEMKNIG_00905	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+MCEMKNIG_00906	gene	378	rnpA			
+MCEMKNIG_00906	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+MCEMKNIG_00907	gene	702	yidC2			
+MCEMKNIG_00907	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+MCEMKNIG_00908	gene	561	pth			
+MCEMKNIG_00908	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+MCEMKNIG_00909	gene	651				
+MCEMKNIG_00909	CDS	651				hypothetical protein
+MCEMKNIG_00910	gene	1065				
+MCEMKNIG_00910	CDS	1065				hypothetical protein
+MCEMKNIG_00911	gene	957	prs			
+MCEMKNIG_00911	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MCEMKNIG_00912	gene	273				
+MCEMKNIG_00912	CDS	273				hypothetical protein
+MCEMKNIG_00913	gene	663	wecA			
+MCEMKNIG_00913	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+MCEMKNIG_00914	gene	780	tuaG			
+MCEMKNIG_00914	CDS	780	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+MCEMKNIG_00915	gene	813				
+MCEMKNIG_00915	CDS	813				hypothetical protein
+MCEMKNIG_00916	gene	1188	tagF			
+MCEMKNIG_00916	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+MCEMKNIG_00917	gene	1122				
+MCEMKNIG_00917	CDS	1122				hypothetical protein
+MCEMKNIG_00918	gene	684	thiN			
+MCEMKNIG_00918	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+MCEMKNIG_00919	gene	657	rpe			
+MCEMKNIG_00919	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+MCEMKNIG_00920	gene	900	rsgA			
+MCEMKNIG_00920	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+MCEMKNIG_00921	gene	735	fabG_2			
+MCEMKNIG_00921	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MCEMKNIG_00922	gene	1227				
+MCEMKNIG_00922	CDS	1227				hypothetical protein
+MCEMKNIG_00923	gene	738				
+MCEMKNIG_00923	CDS	738				hypothetical protein
+MCEMKNIG_00924	gene	1659	glnS			
+MCEMKNIG_00924	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+MCEMKNIG_00925	gene	558				
+MCEMKNIG_00925	CDS	558				hypothetical protein
+MCEMKNIG_00926	gene	1440	miaB			
+MCEMKNIG_00926	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MCEMKNIG_00927	gene	678	purC			
+MCEMKNIG_00927	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MCEMKNIG_00928	gene	1431	pepD_2			
+MCEMKNIG_00928	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+MCEMKNIG_00929	gene	1362	murE_2			
+MCEMKNIG_00929	CDS	1362	murE_2	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MCEMKNIG_00930	gene	1824	pnp			
+MCEMKNIG_00930	CDS	1824	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+MCEMKNIG_00931	gene	2073				
+MCEMKNIG_00931	CDS	2073				hypothetical protein
+MCEMKNIG_00932	gene	849				
+MCEMKNIG_00932	CDS	849				DegV domain-containing protein
+MCEMKNIG_00933	gene	819				
+MCEMKNIG_00933	CDS	819				hypothetical protein
+MCEMKNIG_00934	gene	858	trmB			
+MCEMKNIG_00934	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+MCEMKNIG_00935	gene	318	erpA			
+MCEMKNIG_00935	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+MCEMKNIG_00936	gene	504	nrdG			
+MCEMKNIG_00936	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+MCEMKNIG_00937	gene	621	nrdD			
+MCEMKNIG_00937	CDS	621	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+MCEMKNIG_00938	gene	186				
+MCEMKNIG_00938	CDS	186				hypothetical protein
+MCEMKNIG_00939	gene	147				
+MCEMKNIG_00939	CDS	147				hypothetical protein
+MCEMKNIG_00940	gene	432				
+MCEMKNIG_00940	CDS	432				hypothetical protein
+MCEMKNIG_00941	gene	1506	glpK			
+MCEMKNIG_00941	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+MCEMKNIG_00942	gene	288				
+MCEMKNIG_00942	CDS	288				hypothetical protein
+MCEMKNIG_00943	gene	708	ytrE			
+MCEMKNIG_00943	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+MCEMKNIG_00944	gene	1005	pgcA			
+MCEMKNIG_00944	CDS	1005	pgcA	5.4.2.2		Phosphoglucomutase
+MCEMKNIG_00945	gene	561	efp			
+MCEMKNIG_00945	CDS	561	efp		COG0231	Elongation factor P
+MCEMKNIG_00946	gene	708	rnc			
+MCEMKNIG_00946	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+MCEMKNIG_00947	gene	1071				
+MCEMKNIG_00947	CDS	1071				hypothetical protein
+MCEMKNIG_00948	gene	648	lepA			
+MCEMKNIG_00948	CDS	648	lepA	3.6.5.-	COG0481	Elongation factor 4
+MCEMKNIG_00949	gene	1317	cca			
+MCEMKNIG_00949	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+MCEMKNIG_00950	gene	861				
+MCEMKNIG_00950	CDS	861				hypothetical protein
+MCEMKNIG_00951	gene	1149	hemW			
+MCEMKNIG_00951	CDS	1149	hemW		COG0635	Heme chaperone HemW
+MCEMKNIG_00952	gene	387	msbA_2			
+MCEMKNIG_00952	CDS	387	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+MCEMKNIG_00953	gene	90				
+MCEMKNIG_00953	tRNA	90				tRNA-Ser(gga)
+MCEMKNIG_00954	gene	1635				
+MCEMKNIG_00954	CDS	1635				hypothetical protein
+MCEMKNIG_00955	gene	1176	tadA			
+MCEMKNIG_00955	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+MCEMKNIG_00956	gene	798	thiH			
+MCEMKNIG_00956	CDS	798	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+MCEMKNIG_00957	gene	699				
+MCEMKNIG_00957	CDS	699				hypothetical protein
+MCEMKNIG_00958	gene	786				
+MCEMKNIG_00958	CDS	786				hypothetical protein
+MCEMKNIG_00959	gene	1128				
+MCEMKNIG_00959	CDS	1128				hypothetical protein
+MCEMKNIG_00960	gene	107				
+MCEMKNIG_00960	rRNA	107				5S ribosomal RNA
+MCEMKNIG_00961	gene	1506	speA			
+MCEMKNIG_00961	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+MCEMKNIG_00962	gene	702	tmk			
+MCEMKNIG_00962	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+MCEMKNIG_00963	gene	939				
+MCEMKNIG_00963	CDS	939				hypothetical protein
+MCEMKNIG_00964	gene	897				
+MCEMKNIG_00964	CDS	897				hypothetical protein
+MCEMKNIG_00965	gene	540	pgsA			
+MCEMKNIG_00965	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+MCEMKNIG_00966	gene	1323	rimO			
+MCEMKNIG_00966	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+MCEMKNIG_00967	gene	2310				
+MCEMKNIG_00967	CDS	2310				hypothetical protein
+MCEMKNIG_00968	gene	1122				
+MCEMKNIG_00968	CDS	1122				hypothetical protein
+MCEMKNIG_00969	gene	1683	recN			
+MCEMKNIG_00969	CDS	1683	recN		COG0497	DNA repair protein RecN
+MCEMKNIG_00970	gene	843	tlyA			
+MCEMKNIG_00970	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+MCEMKNIG_00971	gene	186	dxs			
+MCEMKNIG_00971	CDS	186	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+MCEMKNIG_00972	gene	1140	xerD			
+MCEMKNIG_00972	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+MCEMKNIG_00973	gene	1053	ltaE			
+MCEMKNIG_00973	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+MCEMKNIG_00974	gene	1356	prpC_2			
+MCEMKNIG_00974	CDS	1356	prpC_2	2.3.3.5	COG0372	2-methylcitrate synthase
+MCEMKNIG_00975	gene	339				
+MCEMKNIG_00975	CDS	339				hypothetical protein
+MCEMKNIG_00976	gene	741				
+MCEMKNIG_00976	CDS	741				hypothetical protein
+MCEMKNIG_00977	gene	1158				
+MCEMKNIG_00977	CDS	1158				hypothetical protein
+MCEMKNIG_00978	gene	1383	dinG			
+MCEMKNIG_00978	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+MCEMKNIG_00979	gene	696				
+MCEMKNIG_00979	CDS	696				hypothetical protein
+MCEMKNIG_00980	gene	345				
+MCEMKNIG_00980	CDS	345			COG0718	Nucleoid-associated protein
+MCEMKNIG_00981	gene	600	recR			
+MCEMKNIG_00981	CDS	600	recR		COG0353	Recombination protein RecR
+MCEMKNIG_00982	gene	276				
+MCEMKNIG_00982	CDS	276				hypothetical protein
+MCEMKNIG_00983	gene	168				
+MCEMKNIG_00983	CDS	168				hypothetical protein
+MCEMKNIG_00984	gene	1314	ugtP_1			
+MCEMKNIG_00984	CDS	1314	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+MCEMKNIG_00985	gene	72				
+MCEMKNIG_00985	tRNA	72				tRNA-Glu(ctc)
+MCEMKNIG_00986	gene	74				
+MCEMKNIG_00986	tRNA	74				tRNA-Gly(tcc)
+MCEMKNIG_00987	gene	76				
+MCEMKNIG_00987	tRNA	76				tRNA-Val(tac)
+MCEMKNIG_00988	gene	77				
+MCEMKNIG_00988	tRNA	77				tRNA-Asp(gtc)
+MCEMKNIG_00989	gene	75				
+MCEMKNIG_00989	tRNA	75				tRNA-Thr(tgt)
+MCEMKNIG_00990	gene	85				
+MCEMKNIG_00990	tRNA	85				tRNA-Tyr(gta)
+MCEMKNIG_00991	gene	84				
+MCEMKNIG_00991	tRNA	84				tRNA-Leu(tag)
+MCEMKNIG_00992	gene	1296	ftsY			
+MCEMKNIG_00992	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+MCEMKNIG_00993	gene	2103	smc_2			
+MCEMKNIG_00993	CDS	2103	smc_2		COG1196	Chromosome partition protein Smc
+MCEMKNIG_00994	gene	885				
+MCEMKNIG_00994	CDS	885				hypothetical protein
+MCEMKNIG_00995	gene	2832	polC_2			
+MCEMKNIG_00995	CDS	2832	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+MCEMKNIG_00996	gene	384	ziaR			
+MCEMKNIG_00996	CDS	384	ziaR			Transcriptional repressor SmtB 
+MCEMKNIG_00997	gene	357				
+MCEMKNIG_00997	CDS	357				hypothetical protein
+MCEMKNIG_00998	gene	858				
+MCEMKNIG_00998	CDS	858				hypothetical protein
+MCEMKNIG_00999	gene	729	lnrL_1			
+MCEMKNIG_00999	CDS	729	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MCEMKNIG_01000	gene	369	ytrA			
+MCEMKNIG_01000	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+MCEMKNIG_01001	gene	72				
+MCEMKNIG_01001	tRNA	72				tRNA-Cys(gca)
+MCEMKNIG_01002	gene	75				
+MCEMKNIG_01002	tRNA	75				tRNA-Lys(ctt)
+MCEMKNIG_01003	gene	77				
+MCEMKNIG_01003	tRNA	77				tRNA-Met(cat)
+MCEMKNIG_01004	gene	76				
+MCEMKNIG_01004	tRNA	76				tRNA-Phe(gaa)
+MCEMKNIG_01005	gene	89				
+MCEMKNIG_01005	tRNA	89				tRNA-Ser(tga)
+MCEMKNIG_01006	gene	76				
+MCEMKNIG_01006	tRNA	76				tRNA-Gln(ttg)
+MCEMKNIG_01007	gene	84				
+MCEMKNIG_01007	tRNA	84				tRNA-Leu(tag)
+MCEMKNIG_01008	gene	495				
+MCEMKNIG_01008	CDS	495				hypothetical protein
+MCEMKNIG_01009	gene	384				
+MCEMKNIG_01009	CDS	384			COG1302	Alkaline shock protein 23
+MCEMKNIG_01010	gene	876				
+MCEMKNIG_01010	CDS	876				hypothetical protein
+MCEMKNIG_01011	gene	1482	clsA			
+MCEMKNIG_01011	CDS	1482	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+MCEMKNIG_01012	gene	282	groS			
+MCEMKNIG_01012	CDS	282	groS		COG0234	10 kDa chaperonin
+MCEMKNIG_01013	gene	786				
+MCEMKNIG_01013	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MCEMKNIG_01014	gene	474	slyA			
+MCEMKNIG_01014	CDS	474	slyA			Transcriptional regulator SlyA
+MCEMKNIG_01015	gene	1374	mepA_3			
+MCEMKNIG_01015	CDS	1374	mepA_3			Multidrug export protein MepA
+MCEMKNIG_01016	gene	201				
+MCEMKNIG_01016	CDS	201				hypothetical protein
+MCEMKNIG_01017	gene	1839	typA			
+MCEMKNIG_01017	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+MCEMKNIG_01018	gene	828				
+MCEMKNIG_01018	CDS	828				hypothetical protein
+MCEMKNIG_01019	gene	126				
+MCEMKNIG_01019	CDS	126				hypothetical protein
+MCEMKNIG_01020	gene	819	dltA_1			
+MCEMKNIG_01020	CDS	819	dltA_1	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+MCEMKNIG_01021	gene	765	dltA_2			
+MCEMKNIG_01021	CDS	765	dltA_2	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+MCEMKNIG_01022	gene	1161				
+MCEMKNIG_01022	CDS	1161				hypothetical protein
+MCEMKNIG_01023	gene	237	dltC			
+MCEMKNIG_01023	CDS	237	dltC		COG0236	D-alanyl carrier protein
+MCEMKNIG_01024	gene	837				
+MCEMKNIG_01024	CDS	837				hypothetical protein
+MCEMKNIG_01025	gene	435				
+MCEMKNIG_01025	CDS	435				hypothetical protein
+MCEMKNIG_01026	gene	855				
+MCEMKNIG_01026	CDS	855				hypothetical protein
+MCEMKNIG_01027	gene	1011	lytC_3			
+MCEMKNIG_01027	CDS	1011	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MCEMKNIG_01028	gene	498	proX			
+MCEMKNIG_01028	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+MCEMKNIG_01029	gene	1275				
+MCEMKNIG_01029	CDS	1275				hypothetical protein
+MCEMKNIG_01030	gene	957	miaA			
+MCEMKNIG_01030	CDS	957	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+MCEMKNIG_01031	gene	810	mutL			
+MCEMKNIG_01031	CDS	810	mutL			DNA mismatch repair protein MutL
+MCEMKNIG_01032	gene	1143	ackA			
+MCEMKNIG_01032	CDS	1143	ackA	2.7.2.1	COG0282	Acetate kinase
+MCEMKNIG_01033	gene	519				
+MCEMKNIG_01033	CDS	519				hypothetical protein
+MCEMKNIG_01034	gene	180	rpmF			
+MCEMKNIG_01034	CDS	180	rpmF			50S ribosomal protein L32
+MCEMKNIG_01035	gene	1017	plsX			
+MCEMKNIG_01035	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+MCEMKNIG_01036	gene	1551	relA			
+MCEMKNIG_01036	CDS	1551	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+MCEMKNIG_01037	gene	450	dtd			
+MCEMKNIG_01037	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+MCEMKNIG_01038	gene	627	gloC			
+MCEMKNIG_01038	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+MCEMKNIG_01039	gene	1866	nhaP2			
+MCEMKNIG_01039	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+MCEMKNIG_01040	gene	561	nfrA1			
+MCEMKNIG_01040	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+MCEMKNIG_01041	gene	252				
+MCEMKNIG_01041	CDS	252				hypothetical protein
+MCEMKNIG_01042	gene	2472				
+MCEMKNIG_01042	CDS	2472				hypothetical protein
+MCEMKNIG_01043	gene	510	folA			
+MCEMKNIG_01043	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+MCEMKNIG_01044	gene	834	thyA			
+MCEMKNIG_01044	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+MCEMKNIG_01045	gene	615	sodA1			
+MCEMKNIG_01045	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+MCEMKNIG_01046	gene	201				
+MCEMKNIG_01046	CDS	201				hypothetical protein
+MCEMKNIG_01047	gene	885				
+MCEMKNIG_01047	CDS	885				hypothetical protein
+MCEMKNIG_01048	gene	828	panB			
+MCEMKNIG_01048	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+MCEMKNIG_01049	gene	849	panC			
+MCEMKNIG_01049	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+MCEMKNIG_01050	gene	822	melC			
+MCEMKNIG_01050	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+MCEMKNIG_01051	gene	873	melD			
+MCEMKNIG_01051	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+MCEMKNIG_01052	gene	549				
+MCEMKNIG_01052	CDS	549				hypothetical protein
+MCEMKNIG_01053	gene	960				
+MCEMKNIG_01053	CDS	960				hypothetical protein
+MCEMKNIG_01054	gene	1989	tkt			
+MCEMKNIG_01054	CDS	1989	tkt	2.2.1.1		Transketolase
+MCEMKNIG_01055	gene	106				
+MCEMKNIG_01055	rRNA	106				5S ribosomal RNA
+MCEMKNIG_01056	gene	73				
+MCEMKNIG_01056	tRNA	73				tRNA-Asn(gtt)
+MCEMKNIG_01057	gene	74				
+MCEMKNIG_01057	tRNA	74				tRNA-Glu(ttc)
+MCEMKNIG_01058	gene	76				
+MCEMKNIG_01058	tRNA	76				tRNA-Val(tac)
+MCEMKNIG_01059	gene	1698	secA1			
+MCEMKNIG_01059	CDS	1698	secA1			Protein translocase subunit SecA 1
+MCEMKNIG_01060	gene	1365				
+MCEMKNIG_01060	CDS	1365				hypothetical protein
+MCEMKNIG_01061	gene	909				
+MCEMKNIG_01061	CDS	909				hypothetical protein
+MCEMKNIG_01062	gene	873	moaA_1			
+MCEMKNIG_01062	CDS	873	moaA_1	4.1.99.22		GTP 3',8-cyclase
+MCEMKNIG_01063	gene	1365				
+MCEMKNIG_01063	CDS	1365				hypothetical protein
+MCEMKNIG_01064	gene	324				
+MCEMKNIG_01064	CDS	324				hypothetical protein
+MCEMKNIG_01065	gene	1296	mtaB			
+MCEMKNIG_01065	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+MCEMKNIG_01066	gene	777	rsmE			
+MCEMKNIG_01066	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+MCEMKNIG_01067	gene	951	prmA			
+MCEMKNIG_01067	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+MCEMKNIG_01068	gene	522	apt			
+MCEMKNIG_01068	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+MCEMKNIG_01069	gene	2484				
+MCEMKNIG_01069	CDS	2484				hypothetical protein
+MCEMKNIG_01070	gene	369				
+MCEMKNIG_01070	CDS	369				hypothetical protein
+MCEMKNIG_01071	gene	2019				
+MCEMKNIG_01071	CDS	2019				hypothetical protein
+MCEMKNIG_01072	gene	174				
+MCEMKNIG_01072	CDS	174				hypothetical protein
+MCEMKNIG_01073	gene	117				
+MCEMKNIG_01073	CDS	117				hypothetical protein
+MCEMKNIG_01074	gene	744				
+MCEMKNIG_01074	CDS	744				hypothetical protein
+MCEMKNIG_01075	gene	894				
+MCEMKNIG_01075	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+MCEMKNIG_01076	gene	1389	gltD			
+MCEMKNIG_01076	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+MCEMKNIG_01077	gene	705				
+MCEMKNIG_01077	CDS	705				hypothetical protein
+MCEMKNIG_01078	gene	1011	mreB_2			
+MCEMKNIG_01078	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+MCEMKNIG_01079	gene	1254	murAA			
+MCEMKNIG_01079	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+MCEMKNIG_01080	gene	177				
+MCEMKNIG_01080	CDS	177				hypothetical protein
+MCEMKNIG_01081	gene	783	glmM			
+MCEMKNIG_01081	CDS	783	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+MCEMKNIG_01082	gene	1311				
+MCEMKNIG_01082	CDS	1311				hypothetical protein
+MCEMKNIG_01083	gene	1326	pepC			
+MCEMKNIG_01083	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+MCEMKNIG_01084	gene	474	htrA			
+MCEMKNIG_01084	CDS	474	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+MCEMKNIG_01085	gene	228				
+MCEMKNIG_01085	CDS	228				hypothetical protein
+MCEMKNIG_01086	gene	1287	eis			
+MCEMKNIG_01086	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+MCEMKNIG_01087	gene	1236	comEC			
+MCEMKNIG_01087	CDS	1236	comEC		COG0658	ComE operon protein 3
+MCEMKNIG_01088	gene	519	nadK			
+MCEMKNIG_01088	CDS	519	nadK	2.7.1.23		NAD kinase
+MCEMKNIG_01089	gene	1035	icd			
+MCEMKNIG_01089	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+MCEMKNIG_01090	gene	1743	leuC			
+MCEMKNIG_01090	CDS	1743	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+MCEMKNIG_01091	gene	2637	alaS			
+MCEMKNIG_01091	CDS	2637	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+MCEMKNIG_01092	gene	261				
+MCEMKNIG_01092	CDS	261				hypothetical protein
+MCEMKNIG_01093	gene	1326				
+MCEMKNIG_01093	CDS	1326				hypothetical protein
+MCEMKNIG_01094	gene	825	pdxY			
+MCEMKNIG_01094	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+MCEMKNIG_01095	gene	201	cspA			
+MCEMKNIG_01095	CDS	201	cspA		COG1278	Cold shock protein CspA
+MCEMKNIG_01096	gene	453				
+MCEMKNIG_01096	CDS	453				hypothetical protein
+MCEMKNIG_01097	gene	132				
+MCEMKNIG_01097	CDS	132				hypothetical protein
+MCEMKNIG_01098	gene	171				
+MCEMKNIG_01098	CDS	171				hypothetical protein
+MCEMKNIG_01099	gene	675				
+MCEMKNIG_01099	CDS	675				hypothetical protein
+MCEMKNIG_01100	gene	408				
+MCEMKNIG_01100	CDS	408				hypothetical protein
+MCEMKNIG_01101	gene	240	lytG			
+MCEMKNIG_01101	CDS	240	lytG	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+MCEMKNIG_01102	gene	912				
+MCEMKNIG_01102	CDS	912				hypothetical protein
+MCEMKNIG_01103	gene	246				
+MCEMKNIG_01103	CDS	246				hypothetical protein
+MCEMKNIG_01104	gene	519	rimM			
+MCEMKNIG_01104	CDS	519	rimM			Ribosome maturation factor RimM
+MCEMKNIG_01105	gene	234				
+MCEMKNIG_01105	CDS	234				hypothetical protein
+MCEMKNIG_01106	gene	273	rpsP			
+MCEMKNIG_01106	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+MCEMKNIG_01107	gene	1359	ffh			
+MCEMKNIG_01107	CDS	1359	ffh		COG0541	Signal recognition particle protein
+MCEMKNIG_01108	gene	354				
+MCEMKNIG_01108	CDS	354				hypothetical protein
+MCEMKNIG_01109	gene	894				
+MCEMKNIG_01109	CDS	894				hypothetical protein
+MCEMKNIG_01110	gene	1401	asnS			
+MCEMKNIG_01110	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+MCEMKNIG_01111	gene	468				
+MCEMKNIG_01111	CDS	468				hypothetical protein
+MCEMKNIG_01112	gene	762				
+MCEMKNIG_01112	CDS	762				hypothetical protein
+MCEMKNIG_01113	gene	1701				
+MCEMKNIG_01113	CDS	1701				hypothetical protein
+MCEMKNIG_01114	gene	765				
+MCEMKNIG_01114	CDS	765				hypothetical protein
+MCEMKNIG_01115	gene	927	trxB			
+MCEMKNIG_01115	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+MCEMKNIG_01116	gene	1296	zwf			
+MCEMKNIG_01116	CDS	1296	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+MCEMKNIG_01117	gene	765	fpuC			
+MCEMKNIG_01117	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+MCEMKNIG_01118	gene	1065	isdF			
+MCEMKNIG_01118	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+MCEMKNIG_01119	gene	918	isdE			
+MCEMKNIG_01119	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+MCEMKNIG_01120	gene	684				
+MCEMKNIG_01120	CDS	684				hypothetical protein
+MCEMKNIG_01121	gene	144				
+MCEMKNIG_01121	CDS	144				hypothetical protein
+MCEMKNIG_01122	gene	954	lytC_4			
+MCEMKNIG_01122	CDS	954	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MCEMKNIG_01123	gene	681				
+MCEMKNIG_01123	CDS	681				hypothetical protein
+MCEMKNIG_01124	gene	219				
+MCEMKNIG_01124	CDS	219				hypothetical protein
+MCEMKNIG_01125	gene	1416	aroA			
+MCEMKNIG_01125	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+MCEMKNIG_01126	gene	678				
+MCEMKNIG_01126	CDS	678				hypothetical protein
+MCEMKNIG_01127	gene	954	msrAB			
+MCEMKNIG_01127	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+MCEMKNIG_01128	gene	510	ftsZ			
+MCEMKNIG_01128	CDS	510	ftsZ		COG0206	Cell division protein FtsZ
+MCEMKNIG_01129	gene	516	nrdR			
+MCEMKNIG_01129	CDS	516	nrdR		COG1327	Transcriptional repressor NrdR
+MCEMKNIG_01130	gene	681	phoP			
+MCEMKNIG_01130	CDS	681	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+MCEMKNIG_01131	gene	1281	walK			
+MCEMKNIG_01131	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+MCEMKNIG_01132	gene	1257				
+MCEMKNIG_01132	CDS	1257				hypothetical protein
+MCEMKNIG_01133	gene	1617	comM			
+MCEMKNIG_01133	CDS	1617	comM		COG0606	Competence protein ComM
+MCEMKNIG_01134	gene	363				
+MCEMKNIG_01134	CDS	363				hypothetical protein
+MCEMKNIG_01135	gene	912	hmo_2			
+MCEMKNIG_01135	CDS	912	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+MCEMKNIG_01136	gene	411				
+MCEMKNIG_01136	CDS	411				hypothetical protein
+MCEMKNIG_01137	gene	1338				
+MCEMKNIG_01137	CDS	1338		1.6.99.3		putative NADH oxidase
+MCEMKNIG_01138	gene	864	xerC_2			
+MCEMKNIG_01138	CDS	864	xerC_2			Tyrosine recombinase XerC
+MCEMKNIG_01139	gene	552	rlmL			
+MCEMKNIG_01139	CDS	552	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+MCEMKNIG_01140	gene	681	rluC			
+MCEMKNIG_01140	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+MCEMKNIG_01141	gene	711				
+MCEMKNIG_01141	CDS	711				hypothetical protein
+MCEMKNIG_01142	gene	495				
+MCEMKNIG_01142	CDS	495				hypothetical protein
+MCEMKNIG_01143	gene	255	veg			
+MCEMKNIG_01143	CDS	255	veg		COG4466	Protein Veg
+MCEMKNIG_01144	gene	933	lnrL_2			
+MCEMKNIG_01144	CDS	933	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MCEMKNIG_01145	gene	1119				
+MCEMKNIG_01145	CDS	1119				hypothetical protein
+MCEMKNIG_01146	gene	300				
+MCEMKNIG_01146	CDS	300				hypothetical protein
+MCEMKNIG_01147	gene	1164	ugtP_2			
+MCEMKNIG_01147	CDS	1164	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+MCEMKNIG_01148	gene	690				
+MCEMKNIG_01148	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+MCEMKNIG_01149	gene	1446	fcl			
+MCEMKNIG_01149	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+MCEMKNIG_01150	gene	729	mshA			
+MCEMKNIG_01150	CDS	729	mshA	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+MCEMKNIG_01151	gene	786	algC			
+MCEMKNIG_01151	CDS	786	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+MCEMKNIG_01152	gene	603	maf			
+MCEMKNIG_01152	CDS	603	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+MCEMKNIG_01153	gene	1182	fieF			
+MCEMKNIG_01153	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+MCEMKNIG_01154	gene	621	gapA			
+MCEMKNIG_01154	CDS	621	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+MCEMKNIG_01155	gene	438				
+MCEMKNIG_01155	CDS	438				hypothetical protein
+MCEMKNIG_01156	gene	336				
+MCEMKNIG_01156	CDS	336				hypothetical protein
+MCEMKNIG_01157	gene	933				
+MCEMKNIG_01157	CDS	933				hypothetical protein
+MCEMKNIG_01158	gene	672				
+MCEMKNIG_01158	CDS	672				hypothetical protein
+MCEMKNIG_01159	gene	177				
+MCEMKNIG_01159	CDS	177				hypothetical protein
+MCEMKNIG_01160	gene	219				
+MCEMKNIG_01160	CDS	219				hypothetical protein
+MCEMKNIG_01161	gene	675				
+MCEMKNIG_01161	CDS	675				hypothetical protein
+MCEMKNIG_01162	gene	1467	cdr			
+MCEMKNIG_01162	CDS	1467	cdr	1.8.1.14		Coenzyme A disulfide reductase
+MCEMKNIG_01163	gene	846				
+MCEMKNIG_01163	CDS	846			COG1307	DegV domain-containing protein
+MCEMKNIG_01164	gene	255	rpsO			
+MCEMKNIG_01164	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+MCEMKNIG_01165	gene	972	ribF			
+MCEMKNIG_01165	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+MCEMKNIG_01166	gene	453				
+MCEMKNIG_01166	CDS	453				hypothetical protein
+MCEMKNIG_01167	gene	1107				
+MCEMKNIG_01167	CDS	1107				hypothetical protein
+MCEMKNIG_01168	gene	582				
+MCEMKNIG_01168	CDS	582				hypothetical protein
+MCEMKNIG_01169	gene	912	cmpR			
+MCEMKNIG_01169	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+MCEMKNIG_01170	gene	85				
+MCEMKNIG_01170	tRNA	85				tRNA-Leu(caa)
+MCEMKNIG_01171	gene	528				
+MCEMKNIG_01171	CDS	528				hypothetical protein
+MCEMKNIG_01172	gene	1098	murG			
+MCEMKNIG_01172	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MCEMKNIG_01173	gene	1365	murD			
+MCEMKNIG_01173	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MCEMKNIG_01174	gene	558	frr			
+MCEMKNIG_01174	CDS	558	frr		COG0233	Ribosome-recycling factor
+MCEMKNIG_01175	gene	708	pyrH			
+MCEMKNIG_01175	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+MCEMKNIG_01176	gene	909	tsf			
+MCEMKNIG_01176	CDS	909	tsf		COG0264	Elongation factor Ts
+MCEMKNIG_01177	gene	675	ung			
+MCEMKNIG_01177	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MCEMKNIG_01178	gene	375				
+MCEMKNIG_01178	CDS	375				hypothetical protein
+MCEMKNIG_01179	gene	1050	apbE			
+MCEMKNIG_01179	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+MCEMKNIG_01180	gene	1311	tmcAL			
+MCEMKNIG_01180	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+MCEMKNIG_01181	gene	546				
+MCEMKNIG_01181	CDS	546			COG3599	putative protein
+MCEMKNIG_01182	gene	483	coaD			
+MCEMKNIG_01182	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+MCEMKNIG_01183	gene	384				
+MCEMKNIG_01183	CDS	384				hypothetical protein
+MCEMKNIG_01184	gene	546	rsuA			
+MCEMKNIG_01184	CDS	546	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+MCEMKNIG_01185	gene	1635				
+MCEMKNIG_01185	CDS	1635		2.1.1.-	COG2265	putative RNA methyltransferase
+MCEMKNIG_01186	gene	282				
+MCEMKNIG_01186	CDS	282				hypothetical protein
+MCEMKNIG_01187	gene	1374	moaA_2			
+MCEMKNIG_01187	CDS	1374	moaA_2			GTP 3',8-cyclase
+MCEMKNIG_01188	gene	828	ribBA			
+MCEMKNIG_01188	CDS	828	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+MCEMKNIG_01189	gene	462	ribH			
+MCEMKNIG_01189	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+MCEMKNIG_01190	gene	687	glxR			
+MCEMKNIG_01190	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+MCEMKNIG_01191	gene	1230				
+MCEMKNIG_01191	CDS	1230				hypothetical protein
+MCEMKNIG_01192	gene	696	murJ			
+MCEMKNIG_01192	CDS	696	murJ			lipid II flippase MurJ
+MCEMKNIG_01193	gene	828	exoA			
+MCEMKNIG_01193	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+MCEMKNIG_01194	gene	639				
+MCEMKNIG_01194	CDS	639				hypothetical protein
+MCEMKNIG_01195	gene	678	srtA			
+MCEMKNIG_01195	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+MCEMKNIG_01196	gene	834	mepA_4			
+MCEMKNIG_01196	CDS	834	mepA_4		COG0534	Multidrug export protein MepA
+MCEMKNIG_01197	gene	1392	nhaC			
+MCEMKNIG_01197	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+MCEMKNIG_01198	gene	1011				
+MCEMKNIG_01198	CDS	1011				hypothetical protein
+MCEMKNIG_01199	gene	933	rluD_2			
+MCEMKNIG_01199	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MCEMKNIG_01200	gene	2175	btuD_2			
+MCEMKNIG_01200	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MCEMKNIG_01201	gene	1350	alsT			
+MCEMKNIG_01201	CDS	1350	alsT		COG1115	Amino-acid carrier protein AlsT
+MCEMKNIG_01202	gene	624				
+MCEMKNIG_01202	CDS	624				hypothetical protein
+MCEMKNIG_01203	gene	1218	dctA			
+MCEMKNIG_01203	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+MCEMKNIG_01204	gene	1683				
+MCEMKNIG_01204	CDS	1683				hypothetical protein
+MCEMKNIG_01205	gene	717	tcdA			
+MCEMKNIG_01205	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+MCEMKNIG_01206	gene	1155	dnaJ			
+MCEMKNIG_01206	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+MCEMKNIG_01207	gene	1335	ybiT_2			
+MCEMKNIG_01207	CDS	1335	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+MCEMKNIG_01208	gene	567	pinR			
+MCEMKNIG_01208	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+MCEMKNIG_01209	gene	1437	rcsC			
+MCEMKNIG_01209	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+MCEMKNIG_01210	gene	993				
+MCEMKNIG_01210	CDS	993				hypothetical protein
+MCEMKNIG_01211	gene	498				
+MCEMKNIG_01211	CDS	498				hypothetical protein
+MCEMKNIG_01212	gene	897	ispE			
+MCEMKNIG_01212	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MCEMKNIG_01213	gene	783				
+MCEMKNIG_01213	CDS	783				hypothetical protein
+MCEMKNIG_01214	gene	477				
+MCEMKNIG_01214	CDS	477				hypothetical protein
+MCEMKNIG_01215	gene	708				
+MCEMKNIG_01215	CDS	708				hypothetical protein
+MCEMKNIG_01216	gene	279				
+MCEMKNIG_01216	CDS	279				hypothetical protein
+MCEMKNIG_01217	gene	768	prsA_2			
+MCEMKNIG_01217	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+MCEMKNIG_01218	gene	444				
+MCEMKNIG_01218	CDS	444				hypothetical protein
+MCEMKNIG_01219	gene	465				
+MCEMKNIG_01219	CDS	465				hypothetical protein
+MCEMKNIG_01220	gene	228				
+MCEMKNIG_01220	CDS	228				hypothetical protein
+MCEMKNIG_01221	gene	1056	epsF			
+MCEMKNIG_01221	CDS	1056	epsF		COG1459	Type II secretion system protein F
+MCEMKNIG_01222	gene	390				
+MCEMKNIG_01222	CDS	390				hypothetical protein
+MCEMKNIG_01223	gene	1638	hcp			
+MCEMKNIG_01223	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+MCEMKNIG_01224	gene	1515				
+MCEMKNIG_01224	CDS	1515				hypothetical protein
+MCEMKNIG_01225	gene	432				
+MCEMKNIG_01225	CDS	432				hypothetical protein
+MCEMKNIG_01226	gene	141				
+MCEMKNIG_01226	CDS	141				hypothetical protein
+MCEMKNIG_01227	gene	762	rpsB			
+MCEMKNIG_01227	CDS	762	rpsB			30S ribosomal protein S2
+MCEMKNIG_01228	gene	1176	bdhA			
+MCEMKNIG_01228	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+MCEMKNIG_01229	gene	1200				
+MCEMKNIG_01229	CDS	1200		2.6.1.1		Aspartate aminotransferase
+MCEMKNIG_01230	gene	147				
+MCEMKNIG_01230	CDS	147				hypothetical protein
+MCEMKNIG_01231	gene	1056	ispG			
+MCEMKNIG_01231	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+MCEMKNIG_01232	gene	351	rasP			
+MCEMKNIG_01232	CDS	351	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+MCEMKNIG_01233	gene	357	rplS			
+MCEMKNIG_01233	CDS	357	rplS		COG0335	50S ribosomal protein L19
+MCEMKNIG_01234	gene	885	rbgA			
+MCEMKNIG_01234	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+MCEMKNIG_01235	gene	1014	ccpA			
+MCEMKNIG_01235	CDS	1014	ccpA		COG1609	Catabolite control protein A
+MCEMKNIG_01236	gene	228	acpP_2			
+MCEMKNIG_01236	CDS	228	acpP_2			Acyl carrier protein
+MCEMKNIG_01237	gene	348				
+MCEMKNIG_01237	CDS	348				hypothetical protein
+MCEMKNIG_01238	gene	684	czcR			
+MCEMKNIG_01238	CDS	684	czcR			Transcriptional activator protein CzcR
+MCEMKNIG_01239	gene	1551	priA			
+MCEMKNIG_01239	CDS	1551	priA	3.6.4.-	COG1198	Primosomal protein N'
+MCEMKNIG_01240	gene	1287	brnQ_3			
+MCEMKNIG_01240	CDS	1287	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MCEMKNIG_01241	gene	1545				
+MCEMKNIG_01241	CDS	1545				hypothetical protein
+MCEMKNIG_01242	gene	801	asrB			
+MCEMKNIG_01242	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+MCEMKNIG_01243	gene	573	asrA			
+MCEMKNIG_01243	CDS	573	asrA		COG1145	Anaerobic sulfite reductase subunit A
+MCEMKNIG_01244	gene	390				
+MCEMKNIG_01244	CDS	390				hypothetical protein
+MCEMKNIG_01245	gene	75				
+MCEMKNIG_01245	tRNA	75				tRNA-Arg(acg)
+MCEMKNIG_01246	gene	1380	mnmE_2			
+MCEMKNIG_01246	CDS	1380	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+MCEMKNIG_01247	gene	414	tdcB			
+MCEMKNIG_01247	CDS	414	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+MCEMKNIG_01248	gene	378	yabJ			
+MCEMKNIG_01248	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+MCEMKNIG_01249	gene	912	murF			
+MCEMKNIG_01249	CDS	912	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+MCEMKNIG_01250	gene	321				
+MCEMKNIG_01250	CDS	321				hypothetical protein
+MCEMKNIG_01251	gene	414	cwlC			
+MCEMKNIG_01251	CDS	414	cwlC	3.5.1.28	COG0860	Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+MCEMKNIG_01252	gene	390				
+MCEMKNIG_01252	CDS	390				hypothetical protein
+MCEMKNIG_01253	gene	153				
+MCEMKNIG_01253	CDS	153				hypothetical protein
+MCEMKNIG_01254	gene	729				
+MCEMKNIG_01254	CDS	729				hypothetical protein
+MCEMKNIG_01255	gene	195				
+MCEMKNIG_01255	CDS	195				hypothetical protein
+MCEMKNIG_01256	gene	1053	lysA			
+MCEMKNIG_01256	CDS	1053	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+MCEMKNIG_01257	gene	1434				
+MCEMKNIG_01257	CDS	1434				hypothetical protein
+MCEMKNIG_01258	gene	549	lytC_5			
+MCEMKNIG_01258	CDS	549	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MCEMKNIG_01259	gene	648	lnrK			
+MCEMKNIG_01259	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+MCEMKNIG_01260	gene	846				
+MCEMKNIG_01260	CDS	846				hypothetical protein
+MCEMKNIG_01261	gene	693	cugP			
+MCEMKNIG_01261	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+MCEMKNIG_01262	gene	1281	serS			
+MCEMKNIG_01262	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+MCEMKNIG_01263	gene	1119	tgt			
+MCEMKNIG_01263	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase

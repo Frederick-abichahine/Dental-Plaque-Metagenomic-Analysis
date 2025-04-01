@@ -1,0 +1,3434 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FLAENOFD_00001	gene	107				
+FLAENOFD_00001	rRNA	107				5S ribosomal RNA
+FLAENOFD_00002	gene	1506	speA			
+FLAENOFD_00002	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+FLAENOFD_00003	gene	702	tmk			
+FLAENOFD_00003	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+FLAENOFD_00004	gene	939				
+FLAENOFD_00004	CDS	939				hypothetical protein
+FLAENOFD_00005	gene	897				
+FLAENOFD_00005	CDS	897				hypothetical protein
+FLAENOFD_00006	gene	750	yfiC			
+FLAENOFD_00006	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+FLAENOFD_00007	gene	837	rsmI			
+FLAENOFD_00007	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+FLAENOFD_00008	gene	1437	pncB2			
+FLAENOFD_00008	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+FLAENOFD_00009	gene	456	lrpC			
+FLAENOFD_00009	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+FLAENOFD_00010	gene	1941	metG_1			
+FLAENOFD_00010	CDS	1941	metG_1	6.1.1.10		Methionine--tRNA ligase
+FLAENOFD_00011	gene	771	ycfH			
+FLAENOFD_00011	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+FLAENOFD_00012	gene	2547				
+FLAENOFD_00012	CDS	2547				hypothetical protein
+FLAENOFD_00013	gene	681	lolD_1			
+FLAENOFD_00013	CDS	681	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+FLAENOFD_00014	gene	2493				
+FLAENOFD_00014	CDS	2493				hypothetical protein
+FLAENOFD_00015	gene	198				
+FLAENOFD_00015	CDS	198				hypothetical protein
+FLAENOFD_00016	gene	1479				
+FLAENOFD_00016	CDS	1479				hypothetical protein
+FLAENOFD_00017	gene	804	proC			
+FLAENOFD_00017	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+FLAENOFD_00018	gene	651				
+FLAENOFD_00018	CDS	651				hypothetical protein
+FLAENOFD_00019	gene	549				
+FLAENOFD_00019	CDS	549				hypothetical protein
+FLAENOFD_00020	gene	555	rnmV			
+FLAENOFD_00020	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+FLAENOFD_00021	gene	879	rsmA			
+FLAENOFD_00021	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+FLAENOFD_00022	gene	870				
+FLAENOFD_00022	CDS	870				hypothetical protein
+FLAENOFD_00023	gene	1362	murC			
+FLAENOFD_00023	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+FLAENOFD_00024	gene	834	purR			
+FLAENOFD_00024	CDS	834	purR		COG0503	Pur operon repressor
+FLAENOFD_00025	gene	651				
+FLAENOFD_00025	CDS	651				hypothetical protein
+FLAENOFD_00026	gene	1392	glmU_1			
+FLAENOFD_00026	CDS	1392	glmU_1			Bifunctional protein GlmU
+FLAENOFD_00027	gene	957	prs			
+FLAENOFD_00027	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FLAENOFD_00028	gene	1065				
+FLAENOFD_00028	CDS	1065				hypothetical protein
+FLAENOFD_00029	gene	651				
+FLAENOFD_00029	CDS	651				hypothetical protein
+FLAENOFD_00030	gene	561	pth			
+FLAENOFD_00030	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+FLAENOFD_00031	gene	3405	mfd			
+FLAENOFD_00031	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+FLAENOFD_00032	gene	1062	prsA_1			
+FLAENOFD_00032	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+FLAENOFD_00033	gene	1623	murJ_1			
+FLAENOFD_00033	CDS	1623	murJ_1		COG2244	Lipid II flippase MurJ
+FLAENOFD_00034	gene	1011				
+FLAENOFD_00034	CDS	1011				hypothetical protein
+FLAENOFD_00035	gene	282	hup			
+FLAENOFD_00035	CDS	282	hup			DNA-binding protein HU
+FLAENOFD_00036	gene	240				
+FLAENOFD_00036	CDS	240			COG1188	putative protein
+FLAENOFD_00037	gene	894	gtaB			
+FLAENOFD_00037	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+FLAENOFD_00038	gene	1443	rho			
+FLAENOFD_00038	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+FLAENOFD_00039	gene	201	rpmE			
+FLAENOFD_00039	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+FLAENOFD_00040	gene	327				
+FLAENOFD_00040	CDS	327				hypothetical protein
+FLAENOFD_00041	gene	720				
+FLAENOFD_00041	CDS	720				hypothetical protein
+FLAENOFD_00042	gene	915	prmC			
+FLAENOFD_00042	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+FLAENOFD_00043	gene	1065	prfA			
+FLAENOFD_00043	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+FLAENOFD_00044	gene	1038	ywlC			
+FLAENOFD_00044	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+FLAENOFD_00045	gene	447	ywlF			
+FLAENOFD_00045	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+FLAENOFD_00046	gene	630	upp			
+FLAENOFD_00046	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+FLAENOFD_00047	gene	240				
+FLAENOFD_00047	CDS	240				hypothetical protein
+FLAENOFD_00048	gene	402				
+FLAENOFD_00048	CDS	402				hypothetical protein
+FLAENOFD_00049	gene	705	atpB			
+FLAENOFD_00049	CDS	705	atpB		COG0356	ATP synthase subunit a
+FLAENOFD_00050	gene	264	atpE			
+FLAENOFD_00050	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+FLAENOFD_00051	gene	507	atpF			
+FLAENOFD_00051	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+FLAENOFD_00052	gene	543	atpH			
+FLAENOFD_00052	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+FLAENOFD_00053	gene	1503	atpA			
+FLAENOFD_00053	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+FLAENOFD_00054	gene	999	atpG			
+FLAENOFD_00054	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+FLAENOFD_00055	gene	1401	atpD			
+FLAENOFD_00055	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+FLAENOFD_00056	gene	270	atpC			
+FLAENOFD_00056	CDS	270	atpC			ATP synthase epsilon chain
+FLAENOFD_00057	gene	576				
+FLAENOFD_00057	CDS	576				hypothetical protein
+FLAENOFD_00058	gene	939				
+FLAENOFD_00058	CDS	939				hypothetical protein
+FLAENOFD_00059	gene	945	hmo_1			
+FLAENOFD_00059	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+FLAENOFD_00060	gene	1311				
+FLAENOFD_00060	CDS	1311				hypothetical protein
+FLAENOFD_00061	gene	1326	pepC			
+FLAENOFD_00061	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+FLAENOFD_00062	gene	1083	hhoB			
+FLAENOFD_00062	CDS	1083	hhoB			Putative serine protease HhoB
+FLAENOFD_00063	gene	528				
+FLAENOFD_00063	CDS	528				hypothetical protein
+FLAENOFD_00064	gene	1788	pepF1			
+FLAENOFD_00064	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+FLAENOFD_00065	gene	147				
+FLAENOFD_00065	CDS	147				hypothetical protein
+FLAENOFD_00066	gene	1506	glpK			
+FLAENOFD_00066	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+FLAENOFD_00067	gene	291				
+FLAENOFD_00067	CDS	291				hypothetical protein
+FLAENOFD_00068	gene	708	ytrE			
+FLAENOFD_00068	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+FLAENOFD_00069	gene	2481				
+FLAENOFD_00069	CDS	2481				hypothetical protein
+FLAENOFD_00070	gene	477	purE			
+FLAENOFD_00070	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+FLAENOFD_00071	gene	1077	purM			
+FLAENOFD_00071	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+FLAENOFD_00072	gene	594	purN			
+FLAENOFD_00072	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+FLAENOFD_00073	gene	1533	purH			
+FLAENOFD_00073	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+FLAENOFD_00074	gene	1269	purD			
+FLAENOFD_00074	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FLAENOFD_00075	gene	3783	purL			
+FLAENOFD_00075	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+FLAENOFD_00076	gene	1305	pdp			
+FLAENOFD_00076	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+FLAENOFD_00077	gene	591				
+FLAENOFD_00077	CDS	591				hypothetical protein
+FLAENOFD_00078	gene	1500	rsmF			
+FLAENOFD_00078	CDS	1500	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+FLAENOFD_00079	gene	606	sipT			
+FLAENOFD_00079	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+FLAENOFD_00080	gene	1656	udk			
+FLAENOFD_00080	CDS	1656	udk	2.7.1.48		Uridine kinase
+FLAENOFD_00081	gene	639	pdg			
+FLAENOFD_00081	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+FLAENOFD_00082	gene	471	trmL			
+FLAENOFD_00082	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+FLAENOFD_00083	gene	876				
+FLAENOFD_00083	CDS	876				DegV domain-containing protein
+FLAENOFD_00084	gene	1449	pepD_1			
+FLAENOFD_00084	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+FLAENOFD_00085	gene	2424	mutS2			
+FLAENOFD_00085	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+FLAENOFD_00086	gene	468				
+FLAENOFD_00086	CDS	468				hypothetical protein
+FLAENOFD_00087	gene	1701	argS			
+FLAENOFD_00087	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+FLAENOFD_00088	gene	1455				
+FLAENOFD_00088	CDS	1455				hypothetical protein
+FLAENOFD_00089	gene	780				
+FLAENOFD_00089	CDS	780				hypothetical protein
+FLAENOFD_00090	gene	1608				
+FLAENOFD_00090	CDS	1608				hypothetical protein
+FLAENOFD_00091	gene	285				
+FLAENOFD_00091	CDS	285				hypothetical protein
+FLAENOFD_00092	gene	1635				
+FLAENOFD_00092	CDS	1635		2.1.1.-	COG2265	putative RNA methyltransferase
+FLAENOFD_00093	gene	735	rsuA			
+FLAENOFD_00093	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+FLAENOFD_00094	gene	876	hslO			
+FLAENOFD_00094	CDS	876	hslO		COG1281	33 kDa chaperonin
+FLAENOFD_00095	gene	795				
+FLAENOFD_00095	CDS	795		2.1.1.156		Glycine/sarcosine/dimethylglycine N-methyltransferase
+FLAENOFD_00096	gene	1371	ykoD_1			
+FLAENOFD_00096	CDS	1371	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FLAENOFD_00097	gene	690	ecfT_1			
+FLAENOFD_00097	CDS	690	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+FLAENOFD_00098	gene	582				
+FLAENOFD_00098	CDS	582				hypothetical protein
+FLAENOFD_00099	gene	1725				
+FLAENOFD_00099	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+FLAENOFD_00100	gene	1758	hepA			
+FLAENOFD_00100	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+FLAENOFD_00101	gene	996	rhaR_1			
+FLAENOFD_00101	CDS	996	rhaR_1			HTH-type transcriptional activator RhaR
+FLAENOFD_00102	gene	849				
+FLAENOFD_00102	CDS	849				hypothetical protein
+FLAENOFD_00103	gene	438				
+FLAENOFD_00103	CDS	438				hypothetical protein
+FLAENOFD_00104	gene	657				
+FLAENOFD_00104	CDS	657				hypothetical protein
+FLAENOFD_00105	gene	477				
+FLAENOFD_00105	CDS	477				hypothetical protein
+FLAENOFD_00106	gene	1194	sdaB			
+FLAENOFD_00106	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+FLAENOFD_00107	gene	885	dapA_1			
+FLAENOFD_00107	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+FLAENOFD_00108	gene	606	rpsD			
+FLAENOFD_00108	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+FLAENOFD_00109	gene	744	artM_1			
+FLAENOFD_00109	CDS	744	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+FLAENOFD_00110	gene	675	artQ_1			
+FLAENOFD_00110	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+FLAENOFD_00111	gene	846	artP_1			
+FLAENOFD_00111	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+FLAENOFD_00112	gene	282				
+FLAENOFD_00112	CDS	282				hypothetical protein
+FLAENOFD_00113	gene	2190				
+FLAENOFD_00113	CDS	2190				hypothetical protein
+FLAENOFD_00114	gene	549				
+FLAENOFD_00114	CDS	549				hypothetical protein
+FLAENOFD_00115	gene	1269				
+FLAENOFD_00115	CDS	1269				hypothetical protein
+FLAENOFD_00116	gene	495	sigM_1			
+FLAENOFD_00116	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+FLAENOFD_00117	gene	1083				
+FLAENOFD_00117	CDS	1083				hypothetical protein
+FLAENOFD_00118	gene	450				
+FLAENOFD_00118	CDS	450				hypothetical protein
+FLAENOFD_00119	gene	354				
+FLAENOFD_00119	CDS	354				hypothetical protein
+FLAENOFD_00120	gene	672				
+FLAENOFD_00120	CDS	672				hypothetical protein
+FLAENOFD_00121	gene	600				
+FLAENOFD_00121	CDS	600				hypothetical protein
+FLAENOFD_00122	gene	1740				
+FLAENOFD_00122	CDS	1740				hypothetical protein
+FLAENOFD_00123	gene	1719				
+FLAENOFD_00123	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+FLAENOFD_00124	gene	1743	msbA_1			
+FLAENOFD_00124	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FLAENOFD_00125	gene	588				
+FLAENOFD_00125	CDS	588				hypothetical protein
+FLAENOFD_00126	gene	1413	ykoD_2			
+FLAENOFD_00126	CDS	1413	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FLAENOFD_00127	gene	675				
+FLAENOFD_00127	CDS	675				hypothetical protein
+FLAENOFD_00128	gene	774				
+FLAENOFD_00128	CDS	774				hypothetical protein
+FLAENOFD_00129	gene	582	pyrE			
+FLAENOFD_00129	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+FLAENOFD_00130	gene	903	pyrD			
+FLAENOFD_00130	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+FLAENOFD_00131	gene	690	pyrK			
+FLAENOFD_00131	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+FLAENOFD_00132	gene	912	pyrB			
+FLAENOFD_00132	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+FLAENOFD_00133	gene	1218	dctA			
+FLAENOFD_00133	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+FLAENOFD_00134	gene	732				
+FLAENOFD_00134	CDS	732				hypothetical protein
+FLAENOFD_00135	gene	834				
+FLAENOFD_00135	CDS	834				hypothetical protein
+FLAENOFD_00136	gene	1032				
+FLAENOFD_00136	CDS	1032				hypothetical protein
+FLAENOFD_00137	gene	4227				
+FLAENOFD_00137	CDS	4227				hypothetical protein
+FLAENOFD_00138	gene	1311				
+FLAENOFD_00138	CDS	1311				hypothetical protein
+FLAENOFD_00139	gene	618				
+FLAENOFD_00139	CDS	618				hypothetical protein
+FLAENOFD_00140	gene	954				
+FLAENOFD_00140	CDS	954				hypothetical protein
+FLAENOFD_00141	gene	1773				
+FLAENOFD_00141	CDS	1773				hypothetical protein
+FLAENOFD_00142	gene	723				
+FLAENOFD_00142	CDS	723				hypothetical protein
+FLAENOFD_00143	gene	192				
+FLAENOFD_00143	CDS	192				hypothetical protein
+FLAENOFD_00144	gene	1134				
+FLAENOFD_00144	CDS	1134				hypothetical protein
+FLAENOFD_00145	gene	633				
+FLAENOFD_00145	CDS	633				hypothetical protein
+FLAENOFD_00146	gene	357				
+FLAENOFD_00146	CDS	357				hypothetical protein
+FLAENOFD_00147	gene	363				
+FLAENOFD_00147	CDS	363				hypothetical protein
+FLAENOFD_00148	gene	405				
+FLAENOFD_00148	CDS	405				hypothetical protein
+FLAENOFD_00149	gene	507				
+FLAENOFD_00149	CDS	507				hypothetical protein
+FLAENOFD_00150	gene	981				
+FLAENOFD_00150	CDS	981				hypothetical protein
+FLAENOFD_00151	gene	2325				
+FLAENOFD_00151	CDS	2325				hypothetical protein
+FLAENOFD_00152	gene	852				
+FLAENOFD_00152	CDS	852				hypothetical protein
+FLAENOFD_00153	gene	678				
+FLAENOFD_00153	CDS	678				hypothetical protein
+FLAENOFD_00154	gene	450				
+FLAENOFD_00154	CDS	450				hypothetical protein
+FLAENOFD_00155	gene	1518				
+FLAENOFD_00155	CDS	1518				hypothetical protein
+FLAENOFD_00156	gene	1599	ftsH_1			
+FLAENOFD_00156	CDS	1599	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FLAENOFD_00157	gene	879				
+FLAENOFD_00157	CDS	879				hypothetical protein
+FLAENOFD_00158	gene	861				
+FLAENOFD_00158	CDS	861				hypothetical protein
+FLAENOFD_00159	gene	678				
+FLAENOFD_00159	CDS	678				hypothetical protein
+FLAENOFD_00160	gene	3147				
+FLAENOFD_00160	CDS	3147				hypothetical protein
+FLAENOFD_00161	gene	744				
+FLAENOFD_00161	CDS	744				hypothetical protein
+FLAENOFD_00162	gene	1146				
+FLAENOFD_00162	CDS	1146				hypothetical protein
+FLAENOFD_00163	gene	984	xerC_1			
+FLAENOFD_00163	CDS	984	xerC_1			Tyrosine recombinase XerC
+FLAENOFD_00164	gene	648				
+FLAENOFD_00164	CDS	648				hypothetical protein
+FLAENOFD_00165	gene	540				
+FLAENOFD_00165	CDS	540				hypothetical protein
+FLAENOFD_00166	gene	1527				
+FLAENOFD_00166	CDS	1527				hypothetical protein
+FLAENOFD_00167	gene	585				
+FLAENOFD_00167	CDS	585				hypothetical protein
+FLAENOFD_00168	gene	705	ecfT_2			
+FLAENOFD_00168	CDS	705	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+FLAENOFD_00169	gene	1518	ykoD_3			
+FLAENOFD_00169	CDS	1518	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FLAENOFD_00170	gene	1710				
+FLAENOFD_00170	CDS	1710		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FLAENOFD_00171	gene	1092	btuD_1			
+FLAENOFD_00171	CDS	1092	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FLAENOFD_00172	gene	162				
+FLAENOFD_00172	CDS	162				Rubredoxin
+FLAENOFD_00173	gene	462	zur			
+FLAENOFD_00173	CDS	462	zur		COG0735	Zinc uptake regulation protein
+FLAENOFD_00174	gene	981	znuA			
+FLAENOFD_00174	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+FLAENOFD_00175	gene	669	mntB			
+FLAENOFD_00175	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+FLAENOFD_00176	gene	786	znuB			
+FLAENOFD_00176	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+FLAENOFD_00177	gene	753				
+FLAENOFD_00177	CDS	753				hypothetical protein
+FLAENOFD_00178	gene	216				
+FLAENOFD_00178	CDS	216				hypothetical protein
+FLAENOFD_00179	gene	228	rpsR			
+FLAENOFD_00179	CDS	228	rpsR			30S ribosomal protein S18
+FLAENOFD_00180	gene	444	ssb			
+FLAENOFD_00180	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+FLAENOFD_00181	gene	291	rpsF			
+FLAENOFD_00181	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+FLAENOFD_00182	gene	1197	lysN_1			
+FLAENOFD_00182	CDS	1197	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+FLAENOFD_00183	gene	180				
+FLAENOFD_00183	CDS	180				hypothetical protein
+FLAENOFD_00184	gene	618				
+FLAENOFD_00184	CDS	618				hypothetical protein
+FLAENOFD_00185	gene	900				
+FLAENOFD_00185	CDS	900				hypothetical protein
+FLAENOFD_00186	gene	1077				
+FLAENOFD_00186	CDS	1077				hypothetical protein
+FLAENOFD_00187	gene	522	bcrC			
+FLAENOFD_00187	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+FLAENOFD_00188	gene	543	yajL			
+FLAENOFD_00188	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+FLAENOFD_00189	gene	921				
+FLAENOFD_00189	CDS	921				hypothetical protein
+FLAENOFD_00190	gene	600	COQ5			
+FLAENOFD_00190	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FLAENOFD_00191	gene	1278				
+FLAENOFD_00191	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+FLAENOFD_00192	gene	711	brnQ_1			
+FLAENOFD_00192	CDS	711	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FLAENOFD_00193	gene	522	brnQ_2			
+FLAENOFD_00193	CDS	522	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FLAENOFD_00194	gene	849	panC			
+FLAENOFD_00194	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+FLAENOFD_00195	gene	828	panB			
+FLAENOFD_00195	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+FLAENOFD_00196	gene	885				
+FLAENOFD_00196	CDS	885				hypothetical protein
+FLAENOFD_00197	gene	201				
+FLAENOFD_00197	CDS	201				hypothetical protein
+FLAENOFD_00198	gene	615	sodA1			
+FLAENOFD_00198	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+FLAENOFD_00199	gene	771				
+FLAENOFD_00199	CDS	771				hypothetical protein
+FLAENOFD_00200	gene	702	yidC2			
+FLAENOFD_00200	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+FLAENOFD_00201	gene	378	rnpA			
+FLAENOFD_00201	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+FLAENOFD_00202	gene	135	rpmH			
+FLAENOFD_00202	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+FLAENOFD_00203	gene	1365	dnaA_1			
+FLAENOFD_00203	CDS	1365	dnaA_1			Chromosomal replication initiator protein DnaA
+FLAENOFD_00204	gene	1104	dnaN			
+FLAENOFD_00204	CDS	1104	dnaN		COG0592	Beta sliding clamp
+FLAENOFD_00205	gene	210				
+FLAENOFD_00205	CDS	210				hypothetical protein
+FLAENOFD_00206	gene	1116	recF			
+FLAENOFD_00206	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+FLAENOFD_00207	gene	1908	gyrB			
+FLAENOFD_00207	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+FLAENOFD_00208	gene	2439	gyrA			
+FLAENOFD_00208	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+FLAENOFD_00209	gene	318	rsbV			
+FLAENOFD_00209	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+FLAENOFD_00210	gene	408	rsbW			
+FLAENOFD_00210	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+FLAENOFD_00211	gene	774	sigB			
+FLAENOFD_00211	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+FLAENOFD_00212	gene	183				
+FLAENOFD_00212	CDS	183				hypothetical protein
+FLAENOFD_00213	gene	771	rhmA			
+FLAENOFD_00213	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+FLAENOFD_00214	gene	822	mscS			
+FLAENOFD_00214	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+FLAENOFD_00215	gene	1188				
+FLAENOFD_00215	CDS	1188				hypothetical protein
+FLAENOFD_00216	gene	1584				
+FLAENOFD_00216	CDS	1584				hypothetical protein
+FLAENOFD_00217	gene	756				
+FLAENOFD_00217	CDS	756				hypothetical protein
+FLAENOFD_00218	gene	2514				
+FLAENOFD_00218	CDS	2514				hypothetical protein
+FLAENOFD_00219	gene	1404	cysS			
+FLAENOFD_00219	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+FLAENOFD_00220	gene	453	mrnC			
+FLAENOFD_00220	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+FLAENOFD_00221	gene	735				
+FLAENOFD_00221	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+FLAENOFD_00222	gene	564				
+FLAENOFD_00222	CDS	564				hypothetical protein
+FLAENOFD_00223	gene	660	sigH			
+FLAENOFD_00223	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+FLAENOFD_00224	gene	264				
+FLAENOFD_00224	CDS	264				hypothetical protein
+FLAENOFD_00225	gene	1341				
+FLAENOFD_00225	CDS	1341				hypothetical protein
+FLAENOFD_00226	gene	750	cseB			
+FLAENOFD_00226	CDS	750	cseB		COG0745	Transcriptional regulatory protein CseB
+FLAENOFD_00227	gene	366				
+FLAENOFD_00227	CDS	366				hypothetical protein
+FLAENOFD_00228	gene	1857				
+FLAENOFD_00228	CDS	1857				hypothetical protein
+FLAENOFD_00229	gene	990	lytC_1			
+FLAENOFD_00229	CDS	990	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FLAENOFD_00230	gene	627				
+FLAENOFD_00230	CDS	627			COG2826	IS30 family transposase ISLjo1
+FLAENOFD_00231	gene	753				
+FLAENOFD_00231	CDS	753				hypothetical protein
+FLAENOFD_00232	gene	327				
+FLAENOFD_00232	CDS	327				hypothetical protein
+FLAENOFD_00233	gene	147				
+FLAENOFD_00233	CDS	147				hypothetical protein
+FLAENOFD_00234	gene	558				
+FLAENOFD_00234	CDS	558				ISL3 family transposase IS1476
+FLAENOFD_00235	gene	516				
+FLAENOFD_00235	CDS	516				hypothetical protein
+FLAENOFD_00236	gene	915				
+FLAENOFD_00236	CDS	915				hypothetical protein
+FLAENOFD_00237	gene	162				
+FLAENOFD_00237	CDS	162				hypothetical protein
+FLAENOFD_00238	gene	207				
+FLAENOFD_00238	CDS	207				hypothetical protein
+FLAENOFD_00239	gene	678	lolD_2			
+FLAENOFD_00239	CDS	678	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+FLAENOFD_00240	gene	198				
+FLAENOFD_00240	CDS	198				IS200/IS605 family transposase ISSsu4
+FLAENOFD_00241	gene	801				
+FLAENOFD_00241	CDS	801				hypothetical protein
+FLAENOFD_00242	gene	840				
+FLAENOFD_00242	CDS	840				hypothetical protein
+FLAENOFD_00243	gene	645				
+FLAENOFD_00243	CDS	645				hypothetical protein
+FLAENOFD_00244	gene	138				
+FLAENOFD_00244	CDS	138				hypothetical protein
+FLAENOFD_00245	gene	198				
+FLAENOFD_00245	CDS	198				hypothetical protein
+FLAENOFD_00246	gene	618				
+FLAENOFD_00246	CDS	618				hypothetical protein
+FLAENOFD_00247	gene	159				
+FLAENOFD_00247	CDS	159				hypothetical protein
+FLAENOFD_00248	gene	915				
+FLAENOFD_00248	CDS	915				hypothetical protein
+FLAENOFD_00249	gene	504				
+FLAENOFD_00249	CDS	504				hypothetical protein
+FLAENOFD_00250	gene	408				
+FLAENOFD_00250	CDS	408				hypothetical protein
+FLAENOFD_00251	gene	1071				
+FLAENOFD_00251	CDS	1071				hypothetical protein
+FLAENOFD_00252	gene	852				
+FLAENOFD_00252	CDS	852				hypothetical protein
+FLAENOFD_00253	gene	1188				
+FLAENOFD_00253	CDS	1188				hypothetical protein
+FLAENOFD_00254	gene	1044				
+FLAENOFD_00254	CDS	1044				hypothetical protein
+FLAENOFD_00255	gene	498				
+FLAENOFD_00255	CDS	498				hypothetical protein
+FLAENOFD_00256	gene	1500				
+FLAENOFD_00256	CDS	1500				hypothetical protein
+FLAENOFD_00257	gene	573				
+FLAENOFD_00257	CDS	573				hypothetical protein
+FLAENOFD_00258	gene	1365	rclA			
+FLAENOFD_00258	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+FLAENOFD_00259	gene	996				
+FLAENOFD_00259	CDS	996				hypothetical protein
+FLAENOFD_00260	gene	2283	topB			
+FLAENOFD_00260	CDS	2283	topB	5.6.2.1		DNA topoisomerase 3
+FLAENOFD_00261	gene	891	ttcA			
+FLAENOFD_00261	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+FLAENOFD_00262	gene	519	polC_1			
+FLAENOFD_00262	CDS	519	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FLAENOFD_00263	gene	1044	mtgA_1			
+FLAENOFD_00263	CDS	1044	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+FLAENOFD_00264	gene	855	sseB			
+FLAENOFD_00264	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+FLAENOFD_00265	gene	894				
+FLAENOFD_00265	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+FLAENOFD_00266	gene	1389	gltD			
+FLAENOFD_00266	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+FLAENOFD_00267	gene	705				
+FLAENOFD_00267	CDS	705				hypothetical protein
+FLAENOFD_00268	gene	732	rluB			
+FLAENOFD_00268	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+FLAENOFD_00269	gene	942	hexR			
+FLAENOFD_00269	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+FLAENOFD_00270	gene	651	pspA_1			
+FLAENOFD_00270	CDS	651	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+FLAENOFD_00271	gene	1257				
+FLAENOFD_00271	CDS	1257			COG2081	putative protein
+FLAENOFD_00272	gene	660	cmk			
+FLAENOFD_00272	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+FLAENOFD_00273	gene	615	plsC			
+FLAENOFD_00273	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+FLAENOFD_00274	gene	831	ispH			
+FLAENOFD_00274	CDS	831	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+FLAENOFD_00275	gene	1896	ftsH4			
+FLAENOFD_00275	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+FLAENOFD_00276	gene	489				
+FLAENOFD_00276	CDS	489				hypothetical protein
+FLAENOFD_00277	gene	636	lexA_1			
+FLAENOFD_00277	CDS	636	lexA_1	3.4.21.88	COG1974	LexA repressor
+FLAENOFD_00278	gene	1140	xerD			
+FLAENOFD_00278	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+FLAENOFD_00279	gene	1053	ltaE			
+FLAENOFD_00279	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+FLAENOFD_00280	gene	1356	prpC			
+FLAENOFD_00280	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+FLAENOFD_00281	gene	849				
+FLAENOFD_00281	CDS	849				DegV domain-containing protein
+FLAENOFD_00282	gene	819				
+FLAENOFD_00282	CDS	819				hypothetical protein
+FLAENOFD_00283	gene	858	trmB			
+FLAENOFD_00283	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+FLAENOFD_00284	gene	318	erpA			
+FLAENOFD_00284	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+FLAENOFD_00285	gene	504	nrdG_1			
+FLAENOFD_00285	CDS	504	nrdG_1	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+FLAENOFD_00286	gene	2121	nrdD_1			
+FLAENOFD_00286	CDS	2121	nrdD_1	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+FLAENOFD_00287	gene	498	proX			
+FLAENOFD_00287	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+FLAENOFD_00288	gene	1275				
+FLAENOFD_00288	CDS	1275				hypothetical protein
+FLAENOFD_00289	gene	942	miaA			
+FLAENOFD_00289	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+FLAENOFD_00290	gene	2061	mutL			
+FLAENOFD_00290	CDS	2061	mutL			DNA mismatch repair protein MutL
+FLAENOFD_00291	gene	2643	mutS			
+FLAENOFD_00291	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+FLAENOFD_00292	gene	726	tauB			
+FLAENOFD_00292	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+FLAENOFD_00293	gene	1023	thiY			
+FLAENOFD_00293	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+FLAENOFD_00294	gene	762	ribX			
+FLAENOFD_00294	CDS	762	ribX			Riboflavin transport system permease protein RibX
+FLAENOFD_00295	gene	291				
+FLAENOFD_00295	CDS	291				hypothetical protein
+FLAENOFD_00296	gene	603	nudL			
+FLAENOFD_00296	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+FLAENOFD_00297	gene	567	pinR			
+FLAENOFD_00297	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+FLAENOFD_00298	gene	1620	ybiT_1			
+FLAENOFD_00298	CDS	1620	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+FLAENOFD_00299	gene	1374	adeP			
+FLAENOFD_00299	CDS	1374	adeP		COG2252	Adenine permease AdeP
+FLAENOFD_00300	gene	684	czcR			
+FLAENOFD_00300	CDS	684	czcR			Transcriptional activator protein CzcR
+FLAENOFD_00301	gene	297				
+FLAENOFD_00301	CDS	297				hypothetical protein
+FLAENOFD_00302	gene	2268	copA			
+FLAENOFD_00302	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+FLAENOFD_00303	gene	201				
+FLAENOFD_00303	CDS	201				hypothetical protein
+FLAENOFD_00304	gene	1839	typA			
+FLAENOFD_00304	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+FLAENOFD_00305	gene	705				
+FLAENOFD_00305	CDS	705				hypothetical protein
+FLAENOFD_00306	gene	936	corA			
+FLAENOFD_00306	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+FLAENOFD_00307	gene	1851				
+FLAENOFD_00307	CDS	1851				hypothetical protein
+FLAENOFD_00308	gene	1101				
+FLAENOFD_00308	CDS	1101				hypothetical protein
+FLAENOFD_00309	gene	1260				
+FLAENOFD_00309	CDS	1260				hypothetical protein
+FLAENOFD_00310	gene	906				
+FLAENOFD_00310	CDS	906				hypothetical protein
+FLAENOFD_00311	gene	792				
+FLAENOFD_00311	CDS	792				hypothetical protein
+FLAENOFD_00312	gene	720				
+FLAENOFD_00312	CDS	720		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+FLAENOFD_00313	gene	417				
+FLAENOFD_00313	CDS	417				hypothetical protein
+FLAENOFD_00314	gene	843				
+FLAENOFD_00314	CDS	843				hypothetical protein
+FLAENOFD_00315	gene	1353	mepA_1			
+FLAENOFD_00315	CDS	1353	mepA_1		COG0534	Multidrug export protein MepA
+FLAENOFD_00316	gene	1437	rcsC			
+FLAENOFD_00316	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+FLAENOFD_00317	gene	696	walR			
+FLAENOFD_00317	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+FLAENOFD_00318	gene	1365				
+FLAENOFD_00318	CDS	1365				hypothetical protein
+FLAENOFD_00319	gene	1149	rlmL_1			
+FLAENOFD_00319	CDS	1149	rlmL_1		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+FLAENOFD_00320	gene	1137				
+FLAENOFD_00320	CDS	1137				TelA-like protein
+FLAENOFD_00321	gene	1155				
+FLAENOFD_00321	CDS	1155				hypothetical protein
+FLAENOFD_00322	gene	702				
+FLAENOFD_00322	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+FLAENOFD_00323	gene	2295				
+FLAENOFD_00323	CDS	2295				hypothetical protein
+FLAENOFD_00324	gene	264				
+FLAENOFD_00324	CDS	264				hypothetical protein
+FLAENOFD_00325	gene	279				
+FLAENOFD_00325	CDS	279				hypothetical protein
+FLAENOFD_00326	gene	465				
+FLAENOFD_00326	CDS	465				hypothetical protein
+FLAENOFD_00327	gene	153				
+FLAENOFD_00327	CDS	153				hypothetical protein
+FLAENOFD_00328	gene	591				
+FLAENOFD_00328	CDS	591				hypothetical protein
+FLAENOFD_00329	gene	240	pstB3			
+FLAENOFD_00329	CDS	240	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+FLAENOFD_00330	gene	1713				
+FLAENOFD_00330	CDS	1713		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FLAENOFD_00331	gene	1743				
+FLAENOFD_00331	CDS	1743		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FLAENOFD_00332	gene	228				
+FLAENOFD_00332	CDS	228				hypothetical protein
+FLAENOFD_00333	gene	1053				
+FLAENOFD_00333	CDS	1053				hypothetical protein
+FLAENOFD_00334	gene	378				
+FLAENOFD_00334	CDS	378				hypothetical protein
+FLAENOFD_00335	gene	513				
+FLAENOFD_00335	CDS	513				hypothetical protein
+FLAENOFD_00336	gene	804				
+FLAENOFD_00336	CDS	804				hypothetical protein
+FLAENOFD_00337	gene	138				
+FLAENOFD_00337	CDS	138				hypothetical protein
+FLAENOFD_00338	gene	1479	lsa(C)			
+FLAENOFD_00338	CDS	1479	lsa(C)			ABC-F type ribosomal protection protein Lsa(C)
+FLAENOFD_00339	gene	750				
+FLAENOFD_00339	CDS	750				hypothetical protein
+FLAENOFD_00340	gene	369				
+FLAENOFD_00340	CDS	369				hypothetical protein
+FLAENOFD_00341	gene	1683				
+FLAENOFD_00341	CDS	1683				hypothetical protein
+FLAENOFD_00342	gene	2253	rep			
+FLAENOFD_00342	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+FLAENOFD_00343	gene	684				
+FLAENOFD_00343	CDS	684				hypothetical protein
+FLAENOFD_00344	gene	3417	addB			
+FLAENOFD_00344	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+FLAENOFD_00345	gene	3933	addA			
+FLAENOFD_00345	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+FLAENOFD_00346	gene	1224	cpdA_1			
+FLAENOFD_00346	CDS	1224	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FLAENOFD_00347	gene	3081	smc_1			
+FLAENOFD_00347	CDS	3081	smc_1			Chromosome partition protein Smc
+FLAENOFD_00348	gene	1329				
+FLAENOFD_00348	CDS	1329				hypothetical protein
+FLAENOFD_00349	gene	711				
+FLAENOFD_00349	CDS	711				hypothetical protein
+FLAENOFD_00350	gene	582				
+FLAENOFD_00350	CDS	582				hypothetical protein
+FLAENOFD_00351	gene	1332	mepA_2			
+FLAENOFD_00351	CDS	1332	mepA_2			Multidrug export protein MepA
+FLAENOFD_00352	gene	465	yfkJ			
+FLAENOFD_00352	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+FLAENOFD_00353	gene	894	bglK			
+FLAENOFD_00353	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+FLAENOFD_00354	gene	993	malR			
+FLAENOFD_00354	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+FLAENOFD_00355	gene	1287				
+FLAENOFD_00355	CDS	1287				hypothetical protein
+FLAENOFD_00356	gene	873	melD			
+FLAENOFD_00356	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+FLAENOFD_00357	gene	822	melC			
+FLAENOFD_00357	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+FLAENOFD_00358	gene	2289	malP			
+FLAENOFD_00358	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+FLAENOFD_00359	gene	1662	malL			
+FLAENOFD_00359	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+FLAENOFD_00360	gene	642	ycjU			
+FLAENOFD_00360	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+FLAENOFD_00361	gene	1128	msmX			
+FLAENOFD_00361	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+FLAENOFD_00362	gene	174				
+FLAENOFD_00362	CDS	174				hypothetical protein
+FLAENOFD_00363	gene	2505				
+FLAENOFD_00363	CDS	2505				hypothetical protein
+FLAENOFD_00364	gene	684	macB_1			
+FLAENOFD_00364	CDS	684	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+FLAENOFD_00365	gene	555				
+FLAENOFD_00365	CDS	555				hypothetical protein
+FLAENOFD_00366	gene	615				
+FLAENOFD_00366	CDS	615				hypothetical protein
+FLAENOFD_00367	gene	597				
+FLAENOFD_00367	CDS	597				hypothetical protein
+FLAENOFD_00368	gene	705	ecfT_3			
+FLAENOFD_00368	CDS	705	ecfT_3			Energy-coupling factor transporter transmembrane protein EcfT
+FLAENOFD_00369	gene	1458	ykoD_4			
+FLAENOFD_00369	CDS	1458	ykoD_4	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FLAENOFD_00370	gene	1755				
+FLAENOFD_00370	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FLAENOFD_00371	gene	1755	msbA_2			
+FLAENOFD_00371	CDS	1755	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FLAENOFD_00372	gene	585				
+FLAENOFD_00372	CDS	585				hypothetical protein
+FLAENOFD_00373	gene	1380	mepA_3			
+FLAENOFD_00373	CDS	1380	mepA_3			Multidrug export protein MepA
+FLAENOFD_00374	gene	1824	dap			
+FLAENOFD_00374	CDS	1824	dap	3.4.11.19		D-aminopeptidase
+FLAENOFD_00375	gene	501				
+FLAENOFD_00375	CDS	501			COG2826	IS30 family transposase ISSlu1
+FLAENOFD_00376	gene	825	fldA_1			
+FLAENOFD_00376	CDS	825	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+FLAENOFD_00377	gene	1233	hadB			
+FLAENOFD_00377	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+FLAENOFD_00378	gene	1125	hadC_1			
+FLAENOFD_00378	CDS	1125	hadC_1	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+FLAENOFD_00379	gene	1143	carC_1			
+FLAENOFD_00379	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FLAENOFD_00380	gene	786	carD_1			
+FLAENOFD_00380	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+FLAENOFD_00381	gene	1011	carE_1			
+FLAENOFD_00381	CDS	1011	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+FLAENOFD_00382	gene	999				
+FLAENOFD_00382	CDS	999		1.1.1.28		D-lactate dehydrogenase
+FLAENOFD_00383	gene	1047	prfB			
+FLAENOFD_00383	CDS	1047	prfB			Peptide chain release factor 2
+FLAENOFD_00384	gene	2163	yhgF			
+FLAENOFD_00384	CDS	2163	yhgF		COG2183	Protein YhgF
+FLAENOFD_00385	gene	621	ribU			
+FLAENOFD_00385	CDS	621	ribU			Riboflavin transporter RibU
+FLAENOFD_00386	gene	795	fldI			
+FLAENOFD_00386	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+FLAENOFD_00387	gene	921				
+FLAENOFD_00387	CDS	921				hypothetical protein
+FLAENOFD_00388	gene	459	tsaE			
+FLAENOFD_00388	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+FLAENOFD_00389	gene	720	tsaB			
+FLAENOFD_00389	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+FLAENOFD_00390	gene	450	rimI			
+FLAENOFD_00390	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+FLAENOFD_00391	gene	1020	tsaD			
+FLAENOFD_00391	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+FLAENOFD_00392	gene	1932	yheS			
+FLAENOFD_00392	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+FLAENOFD_00393	gene	636	rex1			
+FLAENOFD_00393	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+FLAENOFD_00394	gene	168				
+FLAENOFD_00394	CDS	168			COG1145	Ferredoxin
+FLAENOFD_00395	gene	1254				
+FLAENOFD_00395	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+FLAENOFD_00396	gene	657				
+FLAENOFD_00396	CDS	657				hypothetical protein
+FLAENOFD_00397	gene	219				
+FLAENOFD_00397	CDS	219				hypothetical protein
+FLAENOFD_00398	gene	234				
+FLAENOFD_00398	CDS	234				hypothetical protein
+FLAENOFD_00399	gene	2151	feoB			
+FLAENOFD_00399	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+FLAENOFD_00400	gene	168				
+FLAENOFD_00400	CDS	168				hypothetical protein
+FLAENOFD_00401	gene	1557				
+FLAENOFD_00401	CDS	1557				hypothetical protein
+FLAENOFD_00402	gene	486				
+FLAENOFD_00402	CDS	486				hypothetical protein
+FLAENOFD_00403	gene	651				
+FLAENOFD_00403	CDS	651				hypothetical protein
+FLAENOFD_00404	gene	954				
+FLAENOFD_00404	CDS	954				hypothetical protein
+FLAENOFD_00405	gene	1233				
+FLAENOFD_00405	CDS	1233				IS256 family transposase ISCth4
+FLAENOFD_00406	gene	714				
+FLAENOFD_00406	CDS	714				hypothetical protein
+FLAENOFD_00407	gene	864				
+FLAENOFD_00407	CDS	864				hypothetical protein
+FLAENOFD_00408	gene	528				
+FLAENOFD_00408	CDS	528				hypothetical protein
+FLAENOFD_00409	gene	342				
+FLAENOFD_00409	CDS	342				hypothetical protein
+FLAENOFD_00410	gene	1050				
+FLAENOFD_00410	CDS	1050			COG2826	IS30 family transposase ISHahy9
+FLAENOFD_00411	gene	642				
+FLAENOFD_00411	CDS	642				hypothetical protein
+FLAENOFD_00412	gene	1158	iscS			
+FLAENOFD_00412	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FLAENOFD_00413	gene	1188	thiI			
+FLAENOFD_00413	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+FLAENOFD_00414	gene	966				
+FLAENOFD_00414	CDS	966				hypothetical protein
+FLAENOFD_00415	gene	1968				
+FLAENOFD_00415	CDS	1968				hypothetical protein
+FLAENOFD_00416	gene	2355				
+FLAENOFD_00416	CDS	2355				hypothetical protein
+FLAENOFD_00417	gene	1617	deaD			
+FLAENOFD_00417	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+FLAENOFD_00418	gene	2766	mtgA_2			
+FLAENOFD_00418	CDS	2766	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+FLAENOFD_00419	gene	1551	ybiT_2			
+FLAENOFD_00419	CDS	1551	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+FLAENOFD_00420	gene	1551	rsxB_1			
+FLAENOFD_00420	CDS	1551	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+FLAENOFD_00421	gene	2652	valS			
+FLAENOFD_00421	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+FLAENOFD_00422	gene	507				
+FLAENOFD_00422	CDS	507				hypothetical protein
+FLAENOFD_00423	gene	690				
+FLAENOFD_00423	CDS	690				hypothetical protein
+FLAENOFD_00424	gene	873				
+FLAENOFD_00424	CDS	873				hypothetical protein
+FLAENOFD_00425	gene	1059				
+FLAENOFD_00425	CDS	1059				hypothetical protein
+FLAENOFD_00426	gene	678	purC			
+FLAENOFD_00426	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+FLAENOFD_00427	gene	1431	pepD_2			
+FLAENOFD_00427	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+FLAENOFD_00428	gene	1362	murE_1			
+FLAENOFD_00428	CDS	1362	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+FLAENOFD_00429	gene	741	mta			
+FLAENOFD_00429	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+FLAENOFD_00430	gene	1638	hcp			
+FLAENOFD_00430	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+FLAENOFD_00431	gene	249				
+FLAENOFD_00431	CDS	249				hypothetical protein
+FLAENOFD_00432	gene	363				
+FLAENOFD_00432	CDS	363				hypothetical protein
+FLAENOFD_00433	gene	357				
+FLAENOFD_00433	CDS	357				hypothetical protein
+FLAENOFD_00434	gene	312				
+FLAENOFD_00434	CDS	312				IS200/IS605 family transposase IS1541B
+FLAENOFD_00435	gene	312				
+FLAENOFD_00435	CDS	312				hypothetical protein
+FLAENOFD_00436	gene	240				
+FLAENOFD_00436	CDS	240				hypothetical protein
+FLAENOFD_00437	gene	273				
+FLAENOFD_00437	CDS	273				hypothetical protein
+FLAENOFD_00438	gene	291				
+FLAENOFD_00438	CDS	291				hypothetical protein
+FLAENOFD_00439	gene	177				
+FLAENOFD_00439	CDS	177				hypothetical protein
+FLAENOFD_00440	gene	576				
+FLAENOFD_00440	CDS	576				hypothetical protein
+FLAENOFD_00441	gene	204				
+FLAENOFD_00441	CDS	204				hypothetical protein
+FLAENOFD_00442	gene	279				
+FLAENOFD_00442	CDS	279				IS200/IS605 family transposase ISDha13
+FLAENOFD_00443	gene	117				
+FLAENOFD_00443	CDS	117				hypothetical protein
+FLAENOFD_00444	gene	135				
+FLAENOFD_00444	CDS	135				hypothetical protein
+FLAENOFD_00445	gene	546				
+FLAENOFD_00445	CDS	546				hypothetical protein
+FLAENOFD_00446	gene	1131				
+FLAENOFD_00446	CDS	1131				hypothetical protein
+FLAENOFD_00447	gene	294				
+FLAENOFD_00447	CDS	294				hypothetical protein
+FLAENOFD_00448	gene	198				
+FLAENOFD_00448	CDS	198				hypothetical protein
+FLAENOFD_00449	gene	612				
+FLAENOFD_00449	CDS	612				hypothetical protein
+FLAENOFD_00450	gene	1797				
+FLAENOFD_00450	CDS	1797				hypothetical protein
+FLAENOFD_00451	gene	426				
+FLAENOFD_00451	CDS	426				hypothetical protein
+FLAENOFD_00452	gene	1002				
+FLAENOFD_00452	CDS	1002				hypothetical protein
+FLAENOFD_00453	gene	1188				
+FLAENOFD_00453	CDS	1188				hypothetical protein
+FLAENOFD_00454	gene	1530				
+FLAENOFD_00454	CDS	1530				hypothetical protein
+FLAENOFD_00455	gene	408				
+FLAENOFD_00455	CDS	408				hypothetical protein
+FLAENOFD_00456	gene	501				
+FLAENOFD_00456	CDS	501				hypothetical protein
+FLAENOFD_00457	gene	1443				
+FLAENOFD_00457	CDS	1443				hypothetical protein
+FLAENOFD_00458	gene	1407	rlmCD			
+FLAENOFD_00458	CDS	1407	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+FLAENOFD_00459	gene	1737	pyk			
+FLAENOFD_00459	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+FLAENOFD_00460	gene	972	pfkA			
+FLAENOFD_00460	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+FLAENOFD_00461	gene	180	rpsU			
+FLAENOFD_00461	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+FLAENOFD_00462	gene	441	yqeY			
+FLAENOFD_00462	CDS	441	yqeY		COG1610	putative protein YqeY
+FLAENOFD_00463	gene	861				
+FLAENOFD_00463	CDS	861				hypothetical protein
+FLAENOFD_00464	gene	594				
+FLAENOFD_00464	CDS	594				hypothetical protein
+FLAENOFD_00465	gene	675	ung			
+FLAENOFD_00465	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+FLAENOFD_00466	gene	375				
+FLAENOFD_00466	CDS	375				hypothetical protein
+FLAENOFD_00467	gene	1050	apbE			
+FLAENOFD_00467	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+FLAENOFD_00468	gene	495	nusB			
+FLAENOFD_00468	CDS	495	nusB			Transcription antitermination protein NusB
+FLAENOFD_00469	gene	342				
+FLAENOFD_00469	CDS	342				putative protein
+FLAENOFD_00470	gene	1977	fbp			
+FLAENOFD_00470	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+FLAENOFD_00471	gene	1017	plsX			
+FLAENOFD_00471	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+FLAENOFD_00472	gene	180	rpmF			
+FLAENOFD_00472	CDS	180	rpmF			50S ribosomal protein L32
+FLAENOFD_00473	gene	519				
+FLAENOFD_00473	CDS	519				hypothetical protein
+FLAENOFD_00474	gene	1200	ackA			
+FLAENOFD_00474	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+FLAENOFD_00475	gene	1311	tmcAL			
+FLAENOFD_00475	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+FLAENOFD_00476	gene	546				
+FLAENOFD_00476	CDS	546			COG3599	putative protein
+FLAENOFD_00477	gene	483	coaD			
+FLAENOFD_00477	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+FLAENOFD_00478	gene	561	rsmD			
+FLAENOFD_00478	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+FLAENOFD_00479	gene	2058	recG			
+FLAENOFD_00479	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+FLAENOFD_00480	gene	1665				
+FLAENOFD_00480	CDS	1665				putative protein
+FLAENOFD_00481	gene	351				
+FLAENOFD_00481	CDS	351				putative protein
+FLAENOFD_00482	gene	189	rpmB			
+FLAENOFD_00482	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+FLAENOFD_00483	gene	1728	ade			
+FLAENOFD_00483	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+FLAENOFD_00484	gene	1233				
+FLAENOFD_00484	CDS	1233				hypothetical protein
+FLAENOFD_00485	gene	1293				
+FLAENOFD_00485	CDS	1293				hypothetical protein
+FLAENOFD_00486	gene	1347	rpoN			
+FLAENOFD_00486	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+FLAENOFD_00487	gene	1044				
+FLAENOFD_00487	CDS	1044				hypothetical protein
+FLAENOFD_00488	gene	690				
+FLAENOFD_00488	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+FLAENOFD_00489	gene	1164	ugtP_1			
+FLAENOFD_00489	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+FLAENOFD_00490	gene	465				
+FLAENOFD_00490	CDS	465				hypothetical protein
+FLAENOFD_00491	gene	651				
+FLAENOFD_00491	CDS	651				hypothetical protein
+FLAENOFD_00492	gene	525				
+FLAENOFD_00492	CDS	525				hypothetical protein
+FLAENOFD_00493	gene	987	nrdF			
+FLAENOFD_00493	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+FLAENOFD_00494	gene	2109	nrdE			
+FLAENOFD_00494	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+FLAENOFD_00495	gene	2403				
+FLAENOFD_00495	CDS	2403				hypothetical protein
+FLAENOFD_00496	gene	237	dltC			
+FLAENOFD_00496	CDS	237	dltC		COG0236	D-alanyl carrier protein
+FLAENOFD_00497	gene	1161				
+FLAENOFD_00497	CDS	1161				hypothetical protein
+FLAENOFD_00498	gene	1599	dltA			
+FLAENOFD_00498	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+FLAENOFD_00499	gene	126				
+FLAENOFD_00499	CDS	126				hypothetical protein
+FLAENOFD_00500	gene	1227	dltD			
+FLAENOFD_00500	CDS	1227	dltD		COG3966	Protein DltD
+FLAENOFD_00501	gene	873				
+FLAENOFD_00501	CDS	873				hypothetical protein
+FLAENOFD_00502	gene	330				
+FLAENOFD_00502	CDS	330				hypothetical protein
+FLAENOFD_00503	gene	300				
+FLAENOFD_00503	CDS	300				hypothetical protein
+FLAENOFD_00504	gene	1362	gabR			
+FLAENOFD_00504	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+FLAENOFD_00505	gene	858	pdxS			
+FLAENOFD_00505	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+FLAENOFD_00506	gene	885				
+FLAENOFD_00506	CDS	885				hypothetical protein
+FLAENOFD_00507	gene	1872	yjcD			
+FLAENOFD_00507	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+FLAENOFD_00508	gene	1587	clcA			
+FLAENOFD_00508	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+FLAENOFD_00509	gene	858	folD			
+FLAENOFD_00509	CDS	858	folD			Bifunctional protein FolD protein
+FLAENOFD_00510	gene	636	fchA			
+FLAENOFD_00510	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+FLAENOFD_00511	gene	141				
+FLAENOFD_00511	CDS	141				hypothetical protein
+FLAENOFD_00512	gene	1980	htpG			
+FLAENOFD_00512	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+FLAENOFD_00513	gene	1461				
+FLAENOFD_00513	CDS	1461				hypothetical protein
+FLAENOFD_00514	gene	765	fpuC			
+FLAENOFD_00514	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+FLAENOFD_00515	gene	1065	isdF			
+FLAENOFD_00515	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+FLAENOFD_00516	gene	918	isdE			
+FLAENOFD_00516	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+FLAENOFD_00517	gene	1125				
+FLAENOFD_00517	CDS	1125				hypothetical protein
+FLAENOFD_00518	gene	2019				
+FLAENOFD_00518	CDS	2019				hypothetical protein
+FLAENOFD_00519	gene	375				
+FLAENOFD_00519	CDS	375				hypothetical protein
+FLAENOFD_00520	gene	930				
+FLAENOFD_00520	CDS	930				hypothetical protein
+FLAENOFD_00521	gene	1425	purB			
+FLAENOFD_00521	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+FLAENOFD_00522	gene	1278	purA			
+FLAENOFD_00522	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FLAENOFD_00523	gene	1452	trkG			
+FLAENOFD_00523	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+FLAENOFD_00524	gene	1365	trkA			
+FLAENOFD_00524	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+FLAENOFD_00525	gene	762				
+FLAENOFD_00525	CDS	762				hypothetical protein
+FLAENOFD_00526	gene	1566	pknD			
+FLAENOFD_00526	CDS	1566	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+FLAENOFD_00527	gene	969	trxB			
+FLAENOFD_00527	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FLAENOFD_00528	gene	1374	zwf			
+FLAENOFD_00528	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+FLAENOFD_00529	gene	1440	gnd			
+FLAENOFD_00529	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+FLAENOFD_00530	gene	1251	dinB			
+FLAENOFD_00530	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+FLAENOFD_00531	gene	849	nadC			
+FLAENOFD_00531	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FLAENOFD_00532	gene	1311	nadB			
+FLAENOFD_00532	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+FLAENOFD_00533	gene	909	nadA			
+FLAENOFD_00533	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+FLAENOFD_00534	gene	462	dut			
+FLAENOFD_00534	CDS	462	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+FLAENOFD_00535	gene	1203	roo			
+FLAENOFD_00535	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+FLAENOFD_00536	gene	1062	lytC_2			
+FLAENOFD_00536	CDS	1062	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FLAENOFD_00537	gene	600	fbpC			
+FLAENOFD_00537	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+FLAENOFD_00538	gene	672	cmpB			
+FLAENOFD_00538	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+FLAENOFD_00539	gene	993				
+FLAENOFD_00539	CDS	993				hypothetical protein
+FLAENOFD_00540	gene	681	tgnD			
+FLAENOFD_00540	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+FLAENOFD_00541	gene	996	btuD_2			
+FLAENOFD_00541	CDS	996	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FLAENOFD_00542	gene	696	ureG			
+FLAENOFD_00542	CDS	696	ureG			Urease accessory protein UreG
+FLAENOFD_00543	gene	1227				
+FLAENOFD_00543	CDS	1227				hypothetical protein
+FLAENOFD_00544	gene	1746				
+FLAENOFD_00544	CDS	1746				hypothetical protein
+FLAENOFD_00545	gene	810	ecsA_1			
+FLAENOFD_00545	CDS	810	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+FLAENOFD_00546	gene	1245	queH			
+FLAENOFD_00546	CDS	1245	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+FLAENOFD_00547	gene	909	ppaC			
+FLAENOFD_00547	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+FLAENOFD_00548	gene	525				
+FLAENOFD_00548	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FLAENOFD_00549	gene	426				
+FLAENOFD_00549	CDS	426			COG0716	Flavodoxin
+FLAENOFD_00550	gene	585				
+FLAENOFD_00550	CDS	585				hypothetical protein
+FLAENOFD_00551	gene	2070	glyS			
+FLAENOFD_00551	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+FLAENOFD_00552	gene	885	glyQ			
+FLAENOFD_00552	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+FLAENOFD_00553	gene	609				
+FLAENOFD_00553	CDS	609				hypothetical protein
+FLAENOFD_00554	gene	747	recO			
+FLAENOFD_00554	CDS	747	recO		COG1381	DNA repair protein RecO
+FLAENOFD_00555	gene	1377				
+FLAENOFD_00555	CDS	1377			COG2239	Magnesium transporter MgtE
+FLAENOFD_00556	gene	903	era			
+FLAENOFD_00556	CDS	903	era			GTPase Era
+FLAENOFD_00557	gene	897				
+FLAENOFD_00557	CDS	897				hypothetical protein
+FLAENOFD_00558	gene	462	ybeY			
+FLAENOFD_00558	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+FLAENOFD_00559	gene	1059				
+FLAENOFD_00559	CDS	1059			COG1702	PhoH-like protein
+FLAENOFD_00560	gene	552	hpf			
+FLAENOFD_00560	CDS	552	hpf			Ribosome hibernation promotion factor
+FLAENOFD_00561	gene	924	fba			
+FLAENOFD_00561	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+FLAENOFD_00562	gene	906				
+FLAENOFD_00562	CDS	906				hypothetical protein
+FLAENOFD_00563	gene	1104				
+FLAENOFD_00563	CDS	1104				hypothetical protein
+FLAENOFD_00564	gene	1548				
+FLAENOFD_00564	CDS	1548				hypothetical protein
+FLAENOFD_00565	gene	765	cbiJ			
+FLAENOFD_00565	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+FLAENOFD_00566	gene	726	cbiH			
+FLAENOFD_00566	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+FLAENOFD_00567	gene	1200	cbiG			
+FLAENOFD_00567	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+FLAENOFD_00568	gene	759	cbiF			
+FLAENOFD_00568	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+FLAENOFD_00569	gene	567	cbiT			
+FLAENOFD_00569	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+FLAENOFD_00570	gene	720	cbiE			
+FLAENOFD_00570	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+FLAENOFD_00571	gene	1167	cbiD			
+FLAENOFD_00571	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+FLAENOFD_00572	gene	639	cbiC			
+FLAENOFD_00572	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+FLAENOFD_00573	gene	885	pduX			
+FLAENOFD_00573	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+FLAENOFD_00574	gene	1092	cobD			
+FLAENOFD_00574	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+FLAENOFD_00575	gene	1041	cbiB			
+FLAENOFD_00575	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+FLAENOFD_00576	gene	1395	cbiA			
+FLAENOFD_00576	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+FLAENOFD_00577	gene	1503	cobQ			
+FLAENOFD_00577	CDS	1503	cobQ			Cobyric acid synthase
+FLAENOFD_00578	gene	639	pspA_2			
+FLAENOFD_00578	CDS	639	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+FLAENOFD_00579	gene	771	cobS			
+FLAENOFD_00579	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+FLAENOFD_00580	gene	588	cobU			
+FLAENOFD_00580	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+FLAENOFD_00581	gene	1083	cobT			
+FLAENOFD_00581	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+FLAENOFD_00582	gene	1173	ctpB			
+FLAENOFD_00582	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+FLAENOFD_00583	gene	936	aptB			
+FLAENOFD_00583	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+FLAENOFD_00584	gene	813	aptA			
+FLAENOFD_00584	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+FLAENOFD_00585	gene	372	acpS			
+FLAENOFD_00585	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+FLAENOFD_00586	gene	1320	sasA_1			
+FLAENOFD_00586	CDS	1320	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+FLAENOFD_00587	gene	744	regX3			
+FLAENOFD_00587	CDS	744	regX3		COG0745	Sensory transduction protein regX3
+FLAENOFD_00588	gene	1377				
+FLAENOFD_00588	CDS	1377				hypothetical protein
+FLAENOFD_00589	gene	645				
+FLAENOFD_00589	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+FLAENOFD_00590	gene	1278				
+FLAENOFD_00590	CDS	1278				hypothetical protein
+FLAENOFD_00591	gene	891				
+FLAENOFD_00591	CDS	891				hypothetical protein
+FLAENOFD_00592	gene	1161	resA			
+FLAENOFD_00592	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+FLAENOFD_00593	gene	882				
+FLAENOFD_00593	CDS	882		3.2.1.-		Protein-ADP-ribose hydrolase
+FLAENOFD_00594	gene	402				
+FLAENOFD_00594	CDS	402				hypothetical protein
+FLAENOFD_00595	gene	864	gloB_1			
+FLAENOFD_00595	CDS	864	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+FLAENOFD_00596	gene	552				
+FLAENOFD_00596	CDS	552				hypothetical protein
+	repeat_region	699				
+FLAENOFD_00597	gene	894				
+FLAENOFD_00597	CDS	894				hypothetical protein
+FLAENOFD_00598	gene	942	ygbT			
+FLAENOFD_00598	CDS	942	ygbT	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+FLAENOFD_00599	gene	636				
+FLAENOFD_00599	CDS	636				hypothetical protein
+FLAENOFD_00600	gene	720	casD			
+FLAENOFD_00600	CDS	720	casD			CRISPR system Cascade subunit CasD
+FLAENOFD_00601	gene	1095	casC			
+FLAENOFD_00601	CDS	1095	casC			CRISPR system Cascade subunit CasC
+FLAENOFD_00602	gene	558				
+FLAENOFD_00602	CDS	558				hypothetical protein
+FLAENOFD_00603	gene	1731				
+FLAENOFD_00603	CDS	1731				hypothetical protein
+FLAENOFD_00604	gene	2256	cas3_1			
+FLAENOFD_00604	CDS	2256	cas3_1	3.1.-.-		CRISPR-associated nuclease/helicase Cas3
+FLAENOFD_00605	gene	183				
+FLAENOFD_00605	CDS	183				hypothetical protein
+FLAENOFD_00606	gene	342				
+FLAENOFD_00606	CDS	342				hypothetical protein
+FLAENOFD_00607	gene	843				
+FLAENOFD_00607	CDS	843				hypothetical protein
+FLAENOFD_00608	gene	1482	relA			
+FLAENOFD_00608	CDS	1482	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+FLAENOFD_00609	gene	450	dtd			
+FLAENOFD_00609	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+FLAENOFD_00610	gene	627	gloC			
+FLAENOFD_00610	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+FLAENOFD_00611	gene	1560				
+FLAENOFD_00611	CDS	1560				hypothetical protein
+FLAENOFD_00612	gene	1263	hisS			
+FLAENOFD_00612	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+FLAENOFD_00613	gene	1791	aspS			
+FLAENOFD_00613	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+FLAENOFD_00614	gene	315	csoR			
+FLAENOFD_00614	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+FLAENOFD_00615	gene	477				
+FLAENOFD_00615	CDS	477				hypothetical protein
+FLAENOFD_00616	gene	972	pta			
+FLAENOFD_00616	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+FLAENOFD_00617	gene	1200	sstT_1			
+FLAENOFD_00617	CDS	1200	sstT_1			Serine/threonine transporter SstT
+FLAENOFD_00618	gene	678				
+FLAENOFD_00618	CDS	678				hypothetical protein
+FLAENOFD_00619	gene	777	yjjP			
+FLAENOFD_00619	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+FLAENOFD_00620	gene	1467				
+FLAENOFD_00620	CDS	1467				hypothetical protein
+FLAENOFD_00621	gene	540	puuR			
+FLAENOFD_00621	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+FLAENOFD_00622	gene	1044	potA			
+FLAENOFD_00622	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+FLAENOFD_00623	gene	867	potB			
+FLAENOFD_00623	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+FLAENOFD_00624	gene	807				
+FLAENOFD_00624	CDS	807				hypothetical protein
+FLAENOFD_00625	gene	1086	potD			
+FLAENOFD_00625	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+FLAENOFD_00626	gene	1479	malQ			
+FLAENOFD_00626	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+FLAENOFD_00627	gene	1944				
+FLAENOFD_00627	CDS	1944				hypothetical protein
+FLAENOFD_00628	gene	1866	glgB			
+FLAENOFD_00628	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+FLAENOFD_00629	gene	1173	glgC			
+FLAENOFD_00629	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+FLAENOFD_00630	gene	1107	glgD			
+FLAENOFD_00630	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+FLAENOFD_00631	gene	1425	glgA			
+FLAENOFD_00631	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+FLAENOFD_00632	gene	2391	glgP			
+FLAENOFD_00632	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+FLAENOFD_00633	gene	2430				
+FLAENOFD_00633	CDS	2430				hypothetical protein
+FLAENOFD_00634	gene	1365				
+FLAENOFD_00634	CDS	1365				hypothetical protein
+FLAENOFD_00635	gene	873	moaA_1			
+FLAENOFD_00635	CDS	873	moaA_1	4.1.99.22		GTP 3',8-cyclase
+FLAENOFD_00636	gene	1629				
+FLAENOFD_00636	CDS	1629				hypothetical protein
+FLAENOFD_00637	gene	1002	add			
+FLAENOFD_00637	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+FLAENOFD_00638	gene	810	apbC			
+FLAENOFD_00638	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+FLAENOFD_00639	gene	258				
+FLAENOFD_00639	CDS	258				hypothetical protein
+FLAENOFD_00640	gene	645				
+FLAENOFD_00640	CDS	645				hypothetical protein
+FLAENOFD_00641	gene	297				
+FLAENOFD_00641	CDS	297				hypothetical protein
+FLAENOFD_00642	gene	1275	pyrC			
+FLAENOFD_00642	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+FLAENOFD_00643	gene	1245	macB_2			
+FLAENOFD_00643	CDS	1245	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+FLAENOFD_00644	gene	675	yknY			
+FLAENOFD_00644	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FLAENOFD_00645	gene	1083	yknX			
+FLAENOFD_00645	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+FLAENOFD_00646	gene	651	tal			
+FLAENOFD_00646	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+FLAENOFD_00647	gene	1473	algC			
+FLAENOFD_00647	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+FLAENOFD_00648	gene	930				
+FLAENOFD_00648	CDS	930				hypothetical protein
+FLAENOFD_00649	gene	606	maf			
+FLAENOFD_00649	CDS	606	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+FLAENOFD_00650	gene	1182	fieF			
+FLAENOFD_00650	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+FLAENOFD_00651	gene	792				
+FLAENOFD_00651	CDS	792				hypothetical protein
+FLAENOFD_00652	gene	303				
+FLAENOFD_00652	CDS	303				hypothetical protein
+FLAENOFD_00653	gene	1218				
+FLAENOFD_00653	CDS	1218		6.3.1.12		D-aspartate ligase
+FLAENOFD_00654	gene	720				
+FLAENOFD_00654	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+FLAENOFD_00655	gene	1488	murE_2			
+FLAENOFD_00655	CDS	1488	murE_2	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+FLAENOFD_00656	gene	1422	purF			
+FLAENOFD_00656	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+FLAENOFD_00657	gene	1647	gltX			
+FLAENOFD_00657	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+FLAENOFD_00658	gene	1452				
+FLAENOFD_00658	CDS	1452				hypothetical protein
+FLAENOFD_00659	gene	684				
+FLAENOFD_00659	CDS	684				hypothetical protein
+FLAENOFD_00660	gene	336				
+FLAENOFD_00660	CDS	336				hypothetical protein
+FLAENOFD_00661	gene	759				
+FLAENOFD_00661	CDS	759				hypothetical protein
+FLAENOFD_00662	gene	594				
+FLAENOFD_00662	CDS	594				hypothetical protein
+FLAENOFD_00663	gene	576				
+FLAENOFD_00663	CDS	576				hypothetical protein
+FLAENOFD_00664	gene	954				
+FLAENOFD_00664	CDS	954				hypothetical protein
+FLAENOFD_00665	gene	567				
+FLAENOFD_00665	CDS	567				hypothetical protein
+FLAENOFD_00666	gene	804	ywpJ			
+FLAENOFD_00666	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+FLAENOFD_00667	gene	1266	cinA			
+FLAENOFD_00667	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+FLAENOFD_00668	gene	897	ddl			
+FLAENOFD_00668	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+FLAENOFD_00669	gene	2205	srfAB			
+FLAENOFD_00669	CDS	2205	srfAB			Surfactin synthase subunit 2
+FLAENOFD_00670	gene	894				
+FLAENOFD_00670	CDS	894				hypothetical protein
+FLAENOFD_00671	gene	1401	asnS			
+FLAENOFD_00671	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+FLAENOFD_00672	gene	1572				
+FLAENOFD_00672	CDS	1572				hypothetical protein
+FLAENOFD_00673	gene	1860	asnB			
+FLAENOFD_00673	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+FLAENOFD_00674	gene	780	aroK			
+FLAENOFD_00674	CDS	780	aroK	2.7.1.71		Shikimate kinase
+FLAENOFD_00675	gene	1077	aroC			
+FLAENOFD_00675	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+FLAENOFD_00676	gene	1416	aroA			
+FLAENOFD_00676	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+FLAENOFD_00677	gene	219				
+FLAENOFD_00677	CDS	219				hypothetical protein
+FLAENOFD_00678	gene	681				
+FLAENOFD_00678	CDS	681				hypothetical protein
+FLAENOFD_00679	gene	2154	ptsG			
+FLAENOFD_00679	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+FLAENOFD_00680	gene	882	licT			
+FLAENOFD_00680	CDS	882	licT		COG3711	Transcription antiterminator LicT
+FLAENOFD_00681	gene	4428				
+FLAENOFD_00681	CDS	4428				hypothetical protein
+FLAENOFD_00682	gene	3534				
+FLAENOFD_00682	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+FLAENOFD_00683	gene	1764				
+FLAENOFD_00683	CDS	1764				hypothetical protein
+FLAENOFD_00684	gene	465				
+FLAENOFD_00684	CDS	465				hypothetical protein
+FLAENOFD_00685	gene	1236	baiN			
+FLAENOFD_00685	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+FLAENOFD_00686	gene	795				
+FLAENOFD_00686	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FLAENOFD_00687	gene	531	hpt_1			
+FLAENOFD_00687	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+FLAENOFD_00688	gene	1005	asnA			
+FLAENOFD_00688	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+FLAENOFD_00689	gene	1230				
+FLAENOFD_00689	CDS	1230				hypothetical protein
+FLAENOFD_00690	gene	1104				
+FLAENOFD_00690	CDS	1104				hypothetical protein
+FLAENOFD_00691	gene	1023	lnpD			
+FLAENOFD_00691	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+FLAENOFD_00692	gene	177				
+FLAENOFD_00692	CDS	177				hypothetical protein
+FLAENOFD_00693	gene	1980				
+FLAENOFD_00693	CDS	1980				hypothetical protein
+FLAENOFD_00694	gene	2835				
+FLAENOFD_00694	CDS	2835				hypothetical protein
+FLAENOFD_00695	gene	738				
+FLAENOFD_00695	CDS	738				hypothetical protein
+FLAENOFD_00696	gene	780	lytC_3			
+FLAENOFD_00696	CDS	780	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FLAENOFD_00697	gene	2637	alaS_1			
+FLAENOFD_00697	CDS	2637	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+FLAENOFD_00698	gene	261				
+FLAENOFD_00698	CDS	261				hypothetical protein
+FLAENOFD_00699	gene	2280				
+FLAENOFD_00699	CDS	2280				hypothetical protein
+FLAENOFD_00700	gene	417	yrrK			
+FLAENOFD_00700	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+FLAENOFD_00701	gene	450	fur			
+FLAENOFD_00701	CDS	450	fur		COG0735	Ferric uptake regulation protein
+FLAENOFD_00702	gene	1083				
+FLAENOFD_00702	CDS	1083				hypothetical protein
+FLAENOFD_00703	gene	1626				
+FLAENOFD_00703	CDS	1626				hypothetical protein
+FLAENOFD_00704	gene	1548	rny			
+FLAENOFD_00704	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+FLAENOFD_00705	gene	1782				
+FLAENOFD_00705	CDS	1782				hypothetical protein
+FLAENOFD_00706	gene	813	uppP			
+FLAENOFD_00706	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+FLAENOFD_00707	gene	1200				
+FLAENOFD_00707	CDS	1200		2.6.1.1		Aspartate aminotransferase
+FLAENOFD_00708	gene	957	galT			
+FLAENOFD_00708	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+FLAENOFD_00709	gene	1902				
+FLAENOFD_00709	CDS	1902				hypothetical protein
+FLAENOFD_00710	gene	825	pdxY			
+FLAENOFD_00710	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+FLAENOFD_00711	gene	201	cspA			
+FLAENOFD_00711	CDS	201	cspA		COG1278	Cold shock protein CspA
+FLAENOFD_00712	gene	453				
+FLAENOFD_00712	CDS	453				hypothetical protein
+FLAENOFD_00713	gene	465				
+FLAENOFD_00713	CDS	465				hypothetical protein
+FLAENOFD_00714	gene	444				
+FLAENOFD_00714	CDS	444				hypothetical protein
+FLAENOFD_00715	gene	768	prsA_2			
+FLAENOFD_00715	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+FLAENOFD_00716	gene	2175	btuD_3			
+FLAENOFD_00716	CDS	2175	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FLAENOFD_00717	gene	1878				
+FLAENOFD_00717	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+FLAENOFD_00718	gene	1161				
+FLAENOFD_00718	CDS	1161				hypothetical protein
+FLAENOFD_00719	gene	678				
+FLAENOFD_00719	CDS	678				hypothetical protein
+FLAENOFD_00720	gene	954	msrAB			
+FLAENOFD_00720	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+FLAENOFD_00721	gene	1395	alaS_2			
+FLAENOFD_00721	CDS	1395	alaS_2	6.1.1.7		Alanine--tRNA ligase
+FLAENOFD_00722	gene	318				
+FLAENOFD_00722	CDS	318				hypothetical protein
+FLAENOFD_00723	gene	582				
+FLAENOFD_00723	CDS	582				hypothetical protein
+FLAENOFD_00724	gene	1107				
+FLAENOFD_00724	CDS	1107				hypothetical protein
+FLAENOFD_00725	gene	1206	xseA			
+FLAENOFD_00725	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+FLAENOFD_00726	gene	246	xseB			
+FLAENOFD_00726	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+FLAENOFD_00727	gene	885				
+FLAENOFD_00727	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+FLAENOFD_00728	gene	432				
+FLAENOFD_00728	CDS	432				hypothetical protein
+FLAENOFD_00729	gene	1947	dxs			
+FLAENOFD_00729	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+FLAENOFD_00730	gene	843	tlyA			
+FLAENOFD_00730	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+FLAENOFD_00731	gene	1683	recN			
+FLAENOFD_00731	CDS	1683	recN		COG0497	DNA repair protein RecN
+FLAENOFD_00732	gene	1122				
+FLAENOFD_00732	CDS	1122				hypothetical protein
+FLAENOFD_00733	gene	864				
+FLAENOFD_00733	CDS	864				hypothetical protein
+FLAENOFD_00734	gene	687	arnC			
+FLAENOFD_00734	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FLAENOFD_00735	gene	831				
+FLAENOFD_00735	CDS	831				hypothetical protein
+FLAENOFD_00736	gene	1074				
+FLAENOFD_00736	CDS	1074				hypothetical protein
+FLAENOFD_00737	gene	822	punA			
+FLAENOFD_00737	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+FLAENOFD_00738	gene	1203	mltG			
+FLAENOFD_00738	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+FLAENOFD_00739	gene	645	trmR			
+FLAENOFD_00739	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+FLAENOFD_00740	gene	618	slmA			
+FLAENOFD_00740	CDS	618	slmA			Nucleoid occlusion factor SlmA
+FLAENOFD_00741	gene	729	ecsA_2			
+FLAENOFD_00741	CDS	729	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+FLAENOFD_00742	gene	1560				
+FLAENOFD_00742	CDS	1560				hypothetical protein
+FLAENOFD_00743	gene	213				
+FLAENOFD_00743	CDS	213				hypothetical protein
+FLAENOFD_00744	gene	1239	rps1			
+FLAENOFD_00744	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+FLAENOFD_00745	gene	1422				
+FLAENOFD_00745	CDS	1422				hypothetical protein
+FLAENOFD_00746	gene	486				
+FLAENOFD_00746	CDS	486				hypothetical protein
+FLAENOFD_00747	gene	846	cvfB			
+FLAENOFD_00747	CDS	846	cvfB		COG2996	Conserved virulence factor B
+FLAENOFD_00748	gene	462	cdd			
+FLAENOFD_00748	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+FLAENOFD_00749	gene	738				
+FLAENOFD_00749	CDS	738				hypothetical protein
+FLAENOFD_00750	gene	1320				
+FLAENOFD_00750	CDS	1320				hypothetical protein
+FLAENOFD_00751	gene	2358	secA_1			
+FLAENOFD_00751	CDS	2358	secA_1		COG0653	Protein translocase subunit SecA
+FLAENOFD_00752	gene	1365				
+FLAENOFD_00752	CDS	1365				hypothetical protein
+FLAENOFD_00753	gene	1305				
+FLAENOFD_00753	CDS	1305				hypothetical protein
+FLAENOFD_00754	gene	1893	lytC_4			
+FLAENOFD_00754	CDS	1893	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FLAENOFD_00755	gene	1107				
+FLAENOFD_00755	CDS	1107				hypothetical protein
+FLAENOFD_00756	gene	663	wecA			
+FLAENOFD_00756	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+FLAENOFD_00757	gene	780	tuaG_1			
+FLAENOFD_00757	CDS	780	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+FLAENOFD_00758	gene	813				
+FLAENOFD_00758	CDS	813				hypothetical protein
+FLAENOFD_00759	gene	1188	tagF			
+FLAENOFD_00759	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+FLAENOFD_00760	gene	1122				
+FLAENOFD_00760	CDS	1122				hypothetical protein
+FLAENOFD_00761	gene	765	tuaG_2			
+FLAENOFD_00761	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+FLAENOFD_00762	gene	1101	mshA			
+FLAENOFD_00762	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FLAENOFD_00763	gene	1446	fcl			
+FLAENOFD_00763	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+FLAENOFD_00764	gene	1560	murJ_2			
+FLAENOFD_00764	CDS	1560	murJ_2		COG0728	putative lipid II flippase MurJ
+FLAENOFD_00765	gene	1230				
+FLAENOFD_00765	CDS	1230				hypothetical protein
+FLAENOFD_00766	gene	2145				
+FLAENOFD_00766	CDS	2145				hypothetical protein
+FLAENOFD_00767	gene	1350	alsT_1			
+FLAENOFD_00767	CDS	1350	alsT_1		COG1115	Amino-acid carrier protein AlsT
+FLAENOFD_00768	gene	963	tagU_1			
+FLAENOFD_00768	CDS	963	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FLAENOFD_00769	gene	1041	tagU_2			
+FLAENOFD_00769	CDS	1041	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FLAENOFD_00770	gene	789	ybiV			
+FLAENOFD_00770	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+FLAENOFD_00771	gene	1128				
+FLAENOFD_00771	CDS	1128				hypothetical protein
+FLAENOFD_00772	gene	264	ptsH			
+FLAENOFD_00772	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+FLAENOFD_00773	gene	1716	ptsI			
+FLAENOFD_00773	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+FLAENOFD_00774	gene	654				
+FLAENOFD_00774	CDS	654				hypothetical protein
+FLAENOFD_00775	gene	900				
+FLAENOFD_00775	CDS	900				hypothetical protein
+FLAENOFD_00776	gene	546				
+FLAENOFD_00776	CDS	546				hypothetical protein
+FLAENOFD_00777	gene	888				
+FLAENOFD_00777	CDS	888				hypothetical protein
+FLAENOFD_00778	gene	222				
+FLAENOFD_00778	CDS	222				hypothetical protein
+FLAENOFD_00779	gene	975				
+FLAENOFD_00779	CDS	975				hypothetical protein
+FLAENOFD_00780	gene	1374	moaA_2			
+FLAENOFD_00780	CDS	1374	moaA_2			GTP 3',8-cyclase
+FLAENOFD_00781	gene	345				
+FLAENOFD_00781	CDS	345				hypothetical protein
+FLAENOFD_00782	gene	3483				
+FLAENOFD_00782	CDS	3483				hypothetical protein
+FLAENOFD_00783	gene	270				
+FLAENOFD_00783	CDS	270				hypothetical protein
+FLAENOFD_00784	gene	372				
+FLAENOFD_00784	CDS	372				hypothetical protein
+FLAENOFD_00785	gene	462				
+FLAENOFD_00785	CDS	462				hypothetical protein
+FLAENOFD_00786	gene	396				
+FLAENOFD_00786	CDS	396				hypothetical protein
+FLAENOFD_00787	gene	378				
+FLAENOFD_00787	CDS	378				hypothetical protein
+FLAENOFD_00788	gene	318				
+FLAENOFD_00788	CDS	318				hypothetical protein
+FLAENOFD_00789	gene	363				
+FLAENOFD_00789	CDS	363				hypothetical protein
+FLAENOFD_00790	gene	249				
+FLAENOFD_00790	CDS	249				hypothetical protein
+FLAENOFD_00791	gene	882				
+FLAENOFD_00791	CDS	882				hypothetical protein
+FLAENOFD_00792	gene	576				
+FLAENOFD_00792	CDS	576				hypothetical protein
+FLAENOFD_00793	gene	342				
+FLAENOFD_00793	CDS	342				hypothetical protein
+FLAENOFD_00794	gene	204				
+FLAENOFD_00794	CDS	204				hypothetical protein
+FLAENOFD_00795	gene	1194				
+FLAENOFD_00795	CDS	1194				hypothetical protein
+FLAENOFD_00796	gene	1515				
+FLAENOFD_00796	CDS	1515				hypothetical protein
+FLAENOFD_00797	gene	1395				
+FLAENOFD_00797	CDS	1395				hypothetical protein
+FLAENOFD_00798	gene	510				
+FLAENOFD_00798	CDS	510				hypothetical protein
+FLAENOFD_00799	gene	195				
+FLAENOFD_00799	CDS	195				hypothetical protein
+FLAENOFD_00800	gene	405				
+FLAENOFD_00800	CDS	405				hypothetical protein
+FLAENOFD_00801	gene	1365				
+FLAENOFD_00801	CDS	1365				hypothetical protein
+FLAENOFD_00802	gene	312				
+FLAENOFD_00802	CDS	312				hypothetical protein
+FLAENOFD_00803	gene	2481				
+FLAENOFD_00803	CDS	2481				hypothetical protein
+FLAENOFD_00804	gene	489				
+FLAENOFD_00804	CDS	489				hypothetical protein
+FLAENOFD_00805	gene	543				
+FLAENOFD_00805	CDS	543				hypothetical protein
+FLAENOFD_00806	gene	309				
+FLAENOFD_00806	CDS	309				hypothetical protein
+FLAENOFD_00807	gene	1506				
+FLAENOFD_00807	CDS	1506				hypothetical protein
+FLAENOFD_00808	gene	297				
+FLAENOFD_00808	CDS	297				hypothetical protein
+FLAENOFD_00809	gene	231				
+FLAENOFD_00809	CDS	231				hypothetical protein
+FLAENOFD_00810	gene	1977				
+FLAENOFD_00810	CDS	1977				hypothetical protein
+FLAENOFD_00811	gene	201				
+FLAENOFD_00811	CDS	201				hypothetical protein
+FLAENOFD_00812	gene	567				
+FLAENOFD_00812	CDS	567				hypothetical protein
+FLAENOFD_00813	gene	1188				
+FLAENOFD_00813	CDS	1188				hypothetical protein
+FLAENOFD_00814	gene	441				
+FLAENOFD_00814	CDS	441				hypothetical protein
+FLAENOFD_00815	gene	357				
+FLAENOFD_00815	CDS	357				hypothetical protein
+FLAENOFD_00816	gene	255				
+FLAENOFD_00816	CDS	255				hypothetical protein
+FLAENOFD_00817	gene	306				
+FLAENOFD_00817	CDS	306				hypothetical protein
+FLAENOFD_00818	gene	165				
+FLAENOFD_00818	CDS	165				hypothetical protein
+FLAENOFD_00819	gene	147				
+FLAENOFD_00819	CDS	147				hypothetical protein
+FLAENOFD_00820	gene	216				
+FLAENOFD_00820	CDS	216				hypothetical protein
+FLAENOFD_00821	gene	576	lexA_2			
+FLAENOFD_00821	CDS	576	lexA_2	3.4.21.88		LexA repressor
+FLAENOFD_00822	gene	642				
+FLAENOFD_00822	CDS	642				hypothetical protein
+FLAENOFD_00823	gene	252				
+FLAENOFD_00823	CDS	252				hypothetical protein
+FLAENOFD_00824	gene	1014	xerC_2			
+FLAENOFD_00824	CDS	1014	xerC_2			Tyrosine recombinase XerC
+FLAENOFD_00825	gene	582	cas3_2			
+FLAENOFD_00825	CDS	582	cas3_2	3.1.-.-		CRISPR-associated nuclease/helicase Cas3
+FLAENOFD_00826	gene	1590	clsA_1			
+FLAENOFD_00826	CDS	1590	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+FLAENOFD_00827	gene	267				
+FLAENOFD_00827	CDS	267				hypothetical protein
+FLAENOFD_00828	gene	1413	alsT_2			
+FLAENOFD_00828	CDS	1413	alsT_2		COG1115	Amino-acid carrier protein AlsT
+FLAENOFD_00829	gene	1314	hflX			
+FLAENOFD_00829	CDS	1314	hflX		COG2262	GTPase HflX
+FLAENOFD_00830	gene	531				
+FLAENOFD_00830	CDS	531				hypothetical protein
+FLAENOFD_00831	gene	1260	dacF			
+FLAENOFD_00831	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+FLAENOFD_00832	gene	627				
+FLAENOFD_00832	CDS	627				hypothetical protein
+FLAENOFD_00833	gene	570				
+FLAENOFD_00833	CDS	570				hypothetical protein
+FLAENOFD_00834	gene	303				
+FLAENOFD_00834	CDS	303				hypothetical protein
+FLAENOFD_00835	gene	378	yabJ			
+FLAENOFD_00835	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+FLAENOFD_00836	gene	1218	tdcB			
+FLAENOFD_00836	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+FLAENOFD_00837	gene	390				
+FLAENOFD_00837	CDS	390				hypothetical protein
+FLAENOFD_00838	gene	1281	obg			
+FLAENOFD_00838	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+FLAENOFD_00839	gene	291	rpmA			
+FLAENOFD_00839	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+FLAENOFD_00840	gene	318				
+FLAENOFD_00840	CDS	318				hypothetical protein
+FLAENOFD_00841	gene	309	rplU			
+FLAENOFD_00841	CDS	309	rplU		COG0261	50S ribosomal protein L21
+FLAENOFD_00842	gene	936	yijE			
+FLAENOFD_00842	CDS	936	yijE			putative cystine transporter YijE
+FLAENOFD_00843	gene	2421	leuS			
+FLAENOFD_00843	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+FLAENOFD_00844	gene	351	rsfS			
+FLAENOFD_00844	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+FLAENOFD_00845	gene	576				
+FLAENOFD_00845	CDS	576				hypothetical protein
+FLAENOFD_00846	gene	696	nadD			
+FLAENOFD_00846	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+FLAENOFD_00847	gene	624	recX			
+FLAENOFD_00847	CDS	624	recX			Regulatory protein RecX
+FLAENOFD_00848	gene	348	crcB_1			
+FLAENOFD_00848	CDS	348	crcB_1			Putative fluoride ion transporter CrcB
+FLAENOFD_00849	gene	462	crcB_2			
+FLAENOFD_00849	CDS	462	crcB_2			Putative fluoride ion transporter CrcB
+FLAENOFD_00850	gene	921	rbn			
+FLAENOFD_00850	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+FLAENOFD_00851	gene	1401	rne			
+FLAENOFD_00851	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+FLAENOFD_00852	gene	699				
+FLAENOFD_00852	CDS	699				hypothetical protein
+FLAENOFD_00853	gene	1860				
+FLAENOFD_00853	CDS	1860				hypothetical protein
+FLAENOFD_00854	gene	1113	mrdB			
+FLAENOFD_00854	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+FLAENOFD_00855	gene	2898	mrdA			
+FLAENOFD_00855	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+FLAENOFD_00856	gene	486				
+FLAENOFD_00856	CDS	486				hypothetical protein
+FLAENOFD_00857	gene	882				
+FLAENOFD_00857	CDS	882				hypothetical protein
+FLAENOFD_00858	gene	1050	mreB_1			
+FLAENOFD_00858	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+FLAENOFD_00859	gene	687				
+FLAENOFD_00859	CDS	687				hypothetical protein
+FLAENOFD_00860	gene	864	rnfB			
+FLAENOFD_00860	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+FLAENOFD_00861	gene	576	rnfA			
+FLAENOFD_00861	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+FLAENOFD_00862	gene	594	rnfE			
+FLAENOFD_00862	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+FLAENOFD_00863	gene	567	rnfG			
+FLAENOFD_00863	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+FLAENOFD_00864	gene	987	rnfD			
+FLAENOFD_00864	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+FLAENOFD_00865	gene	1344	rnfC			
+FLAENOFD_00865	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+FLAENOFD_00866	gene	1431				
+FLAENOFD_00866	CDS	1431				hypothetical protein
+FLAENOFD_00867	gene	213				
+FLAENOFD_00867	CDS	213				hypothetical protein
+FLAENOFD_00868	gene	561	mltC			
+FLAENOFD_00868	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+FLAENOFD_00869	gene	606	coaE			
+FLAENOFD_00869	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+FLAENOFD_00870	gene	2643	polA			
+FLAENOFD_00870	CDS	2643	polA	2.7.7.7		DNA polymerase I
+FLAENOFD_00871	gene	85				
+FLAENOFD_00871	tRNA	85				tRNA-Leu(caa)
+FLAENOFD_00872	gene	912	cmpR			
+FLAENOFD_00872	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+FLAENOFD_00873	gene	201				
+FLAENOFD_00873	CDS	201				hypothetical protein
+FLAENOFD_00874	gene	1404	lysN_2			
+FLAENOFD_00874	CDS	1404	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+FLAENOFD_00875	gene	2967				
+FLAENOFD_00875	CDS	2967				hypothetical protein
+FLAENOFD_00876	gene	2226	cna			
+FLAENOFD_00876	CDS	2226	cna			Collagen adhesin
+FLAENOFD_00877	gene	705	srtD			
+FLAENOFD_00877	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+FLAENOFD_00878	gene	1017	nrnA			
+FLAENOFD_00878	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+FLAENOFD_00879	gene	951	truB			
+FLAENOFD_00879	CDS	951	truB	5.4.99.25		tRNA pseudouridine synthase B
+FLAENOFD_00880	gene	972	ribF			
+FLAENOFD_00880	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+FLAENOFD_00881	gene	255	rpsO			
+FLAENOFD_00881	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+FLAENOFD_00882	gene	846				
+FLAENOFD_00882	CDS	846			COG1307	Fatty acid-binding protein
+FLAENOFD_00883	gene	2091	pnp			
+FLAENOFD_00883	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+FLAENOFD_00884	gene	2073				
+FLAENOFD_00884	CDS	2073				hypothetical protein
+FLAENOFD_00885	gene	1266				
+FLAENOFD_00885	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+FLAENOFD_00886	gene	2574				
+FLAENOFD_00886	CDS	2574				hypothetical protein
+FLAENOFD_00887	gene	1323	rimO			
+FLAENOFD_00887	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+FLAENOFD_00888	gene	540	pgsA			
+FLAENOFD_00888	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+FLAENOFD_00889	gene	1050	recA			
+FLAENOFD_00889	CDS	1050	recA		COG0468	Protein RecA
+FLAENOFD_00890	gene	1500	guaB			
+FLAENOFD_00890	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+FLAENOFD_00891	gene	750				
+FLAENOFD_00891	CDS	750				hypothetical protein
+FLAENOFD_00892	gene	1671	rnjA			
+FLAENOFD_00892	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+FLAENOFD_00893	gene	633				
+FLAENOFD_00893	CDS	633				hypothetical protein
+FLAENOFD_00894	gene	762	scpA			
+FLAENOFD_00894	CDS	762	scpA		COG1354	Segregation and condensation protein A
+FLAENOFD_00895	gene	519	scpB			
+FLAENOFD_00895	CDS	519	scpB		COG1386	Segregation and condensation protein B
+FLAENOFD_00896	gene	750	cobB			
+FLAENOFD_00896	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+FLAENOFD_00897	gene	441				
+FLAENOFD_00897	CDS	441				hypothetical protein
+FLAENOFD_00898	gene	1515				
+FLAENOFD_00898	CDS	1515				hypothetical protein
+FLAENOFD_00899	gene	1761				
+FLAENOFD_00899	CDS	1761				hypothetical protein
+FLAENOFD_00900	gene	555				
+FLAENOFD_00900	CDS	555				hypothetical protein
+FLAENOFD_00901	gene	675	arlR			
+FLAENOFD_00901	CDS	675	arlR		COG0745	Response regulator ArlR
+FLAENOFD_00902	gene	1278	sasA_2			
+FLAENOFD_00902	CDS	1278	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+FLAENOFD_00903	gene	318				
+FLAENOFD_00903	CDS	318				hypothetical protein
+FLAENOFD_00904	gene	507				
+FLAENOFD_00904	CDS	507				hypothetical protein
+FLAENOFD_00905	gene	585	yehX			
+FLAENOFD_00905	CDS	585	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+FLAENOFD_00906	gene	249				
+FLAENOFD_00906	CDS	249				hypothetical protein
+FLAENOFD_00907	gene	882				
+FLAENOFD_00907	CDS	882				hypothetical protein
+FLAENOFD_00908	gene	642	gmk			
+FLAENOFD_00908	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+FLAENOFD_00909	gene	267	rpoZ			
+FLAENOFD_00909	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+FLAENOFD_00910	gene	1212	undec1A			
+FLAENOFD_00910	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+FLAENOFD_00911	gene	2313	priA			
+FLAENOFD_00911	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+FLAENOFD_00912	gene	456	def1			
+FLAENOFD_00912	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+FLAENOFD_00913	gene	930	fmt			
+FLAENOFD_00913	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+FLAENOFD_00914	gene	690				
+FLAENOFD_00914	CDS	690				hypothetical protein
+FLAENOFD_00915	gene	1344	rsmB			
+FLAENOFD_00915	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+FLAENOFD_00916	gene	1038	rlmN			
+FLAENOFD_00916	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+FLAENOFD_00917	gene	750	stp			
+FLAENOFD_00917	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+FLAENOFD_00918	gene	1881	prkC			
+FLAENOFD_00918	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+FLAENOFD_00919	gene	735	fabG_1			
+FLAENOFD_00919	CDS	735	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FLAENOFD_00920	gene	900	rsgA			
+FLAENOFD_00920	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+FLAENOFD_00921	gene	657	rpe			
+FLAENOFD_00921	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+FLAENOFD_00922	gene	684	thiN			
+FLAENOFD_00922	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+FLAENOFD_00923	gene	714	phoP_1			
+FLAENOFD_00923	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FLAENOFD_00924	gene	2358	sasA_3			
+FLAENOFD_00924	CDS	2358	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+FLAENOFD_00925	gene	1374	mepA_4			
+FLAENOFD_00925	CDS	1374	mepA_4			Multidrug export protein MepA
+FLAENOFD_00926	gene	474	slyA			
+FLAENOFD_00926	CDS	474	slyA			Transcriptional regulator SlyA
+FLAENOFD_00927	gene	786				
+FLAENOFD_00927	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FLAENOFD_00928	gene	1026	cggR			
+FLAENOFD_00928	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+FLAENOFD_00929	gene	1008	gap_1			
+FLAENOFD_00929	CDS	1008	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+FLAENOFD_00930	gene	1200	pgk			
+FLAENOFD_00930	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+FLAENOFD_00931	gene	741	tpiA			
+FLAENOFD_00931	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+FLAENOFD_00932	gene	1527	gpmI			
+FLAENOFD_00932	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FLAENOFD_00933	gene	1293	eno			
+FLAENOFD_00933	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+FLAENOFD_00934	gene	231				
+FLAENOFD_00934	CDS	231				hypothetical protein
+FLAENOFD_00935	gene	2244	rnr			
+FLAENOFD_00935	CDS	2244	rnr	3.1.13.1	COG0557	Ribonuclease R
+FLAENOFD_00936	gene	456	smpB			
+FLAENOFD_00936	CDS	456	smpB		COG0691	SsrA-binding protein
+FLAENOFD_00937	gene	831	artP_2			
+FLAENOFD_00937	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+FLAENOFD_00938	gene	1275	argG			
+FLAENOFD_00938	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+FLAENOFD_00939	gene	1374	argH			
+FLAENOFD_00939	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FLAENOFD_00940	gene	903				
+FLAENOFD_00940	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+FLAENOFD_00941	gene	1929				
+FLAENOFD_00941	CDS	1929				hypothetical protein
+FLAENOFD_00942	gene	846				
+FLAENOFD_00942	CDS	846				hypothetical protein
+FLAENOFD_00943	gene	753	lacR			
+FLAENOFD_00943	CDS	753	lacR			Lactose phosphotransferase system repressor
+FLAENOFD_00944	gene	915	lacC			
+FLAENOFD_00944	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+FLAENOFD_00945	gene	1875	fruA			
+FLAENOFD_00945	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+FLAENOFD_00946	gene	246				
+FLAENOFD_00946	CDS	246				hypothetical protein
+FLAENOFD_00947	gene	1053				
+FLAENOFD_00947	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+FLAENOFD_00948	gene	135				
+FLAENOFD_00948	CDS	135				hypothetical protein
+FLAENOFD_00949	gene	1404	bioB_1			
+FLAENOFD_00949	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+FLAENOFD_00950	gene	1200	mnmE_1			
+FLAENOFD_00950	CDS	1200	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+FLAENOFD_00951	gene	492	ycdZ			
+FLAENOFD_00951	CDS	492	ycdZ			Inner membrane protein YcdZ
+FLAENOFD_00952	gene	870	sigF			
+FLAENOFD_00952	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+FLAENOFD_00953	gene	531				
+FLAENOFD_00953	CDS	531				hypothetical protein
+FLAENOFD_00954	gene	1425	accC			
+FLAENOFD_00954	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+FLAENOFD_00955	gene	858	accD			
+FLAENOFD_00955	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+FLAENOFD_00956	gene	744	accA			
+FLAENOFD_00956	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+FLAENOFD_00957	gene	480				
+FLAENOFD_00957	CDS	480				hypothetical protein
+FLAENOFD_00958	gene	1017	fabH			
+FLAENOFD_00958	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+FLAENOFD_00959	gene	225	acpP_1			
+FLAENOFD_00959	CDS	225	acpP_1		COG0236	Acyl carrier protein
+FLAENOFD_00960	gene	939				
+FLAENOFD_00960	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+FLAENOFD_00961	gene	939	fabD			
+FLAENOFD_00961	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+FLAENOFD_00962	gene	747	fabG_2			
+FLAENOFD_00962	CDS	747	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FLAENOFD_00963	gene	1236	fabF			
+FLAENOFD_00963	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+FLAENOFD_00964	gene	426	fabZ			
+FLAENOFD_00964	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+FLAENOFD_00965	gene	1338	uacT			
+FLAENOFD_00965	CDS	1338	uacT		COG2233	Uric acid transporter UacT
+FLAENOFD_00966	gene	570	xpt			
+FLAENOFD_00966	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+FLAENOFD_00967	gene	882				
+FLAENOFD_00967	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+FLAENOFD_00968	gene	387				
+FLAENOFD_00968	CDS	387				hypothetical protein
+FLAENOFD_00969	gene	1428				
+FLAENOFD_00969	CDS	1428				hypothetical protein
+FLAENOFD_00970	gene	846				
+FLAENOFD_00970	CDS	846				hypothetical protein
+FLAENOFD_00971	gene	495				
+FLAENOFD_00971	CDS	495				hypothetical protein
+FLAENOFD_00972	gene	384				
+FLAENOFD_00972	CDS	384			COG1302	Alkaline shock protein 23
+FLAENOFD_00973	gene	876				
+FLAENOFD_00973	CDS	876				hypothetical protein
+FLAENOFD_00974	gene	1482	clsA_2			
+FLAENOFD_00974	CDS	1482	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+FLAENOFD_00975	gene	282	groS			
+FLAENOFD_00975	CDS	282	groS		COG0234	10 kDa chaperonin
+FLAENOFD_00976	gene	1623	groL			
+FLAENOFD_00976	CDS	1623	groL		COG0459	60 kDa chaperonin
+FLAENOFD_00977	gene	183				
+FLAENOFD_00977	CDS	183				hypothetical protein
+FLAENOFD_00978	gene	387	dfx			
+FLAENOFD_00978	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+FLAENOFD_00979	gene	372	perR			
+FLAENOFD_00979	CDS	372	perR		COG0735	Peroxide operon regulator
+FLAENOFD_00980	gene	549	rbr			
+FLAENOFD_00980	CDS	549	rbr		COG1592	Rubrerythrin
+FLAENOFD_00981	gene	519	hmpT			
+FLAENOFD_00981	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+FLAENOFD_00982	gene	1263	sstT_2			
+FLAENOFD_00982	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+FLAENOFD_00983	gene	2826	uvrA			
+FLAENOFD_00983	CDS	2826	uvrA			UvrABC system protein A
+FLAENOFD_00984	gene	576				
+FLAENOFD_00984	CDS	576				hypothetical protein
+FLAENOFD_00985	gene	1974	uvrB			
+FLAENOFD_00985	CDS	1974	uvrB			UvrABC system protein B
+FLAENOFD_00986	gene	396				
+FLAENOFD_00986	CDS	396				hypothetical protein
+FLAENOFD_00987	gene	1116				
+FLAENOFD_00987	CDS	1116				hypothetical protein
+FLAENOFD_00988	gene	396	panD			
+FLAENOFD_00988	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+FLAENOFD_00989	gene	879				
+FLAENOFD_00989	CDS	879				hypothetical protein
+FLAENOFD_00990	gene	1185	aspC			
+FLAENOFD_00990	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+FLAENOFD_00991	gene	1326	brnQ_3			
+FLAENOFD_00991	CDS	1326	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FLAENOFD_00992	gene	993	hpr			
+FLAENOFD_00992	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+FLAENOFD_00993	gene	1008	carE_2			
+FLAENOFD_00993	CDS	1008	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+FLAENOFD_00994	gene	792	carD_2			
+FLAENOFD_00994	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+FLAENOFD_00995	gene	1134	carC_2			
+FLAENOFD_00995	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FLAENOFD_00996	gene	1119	hadC_2			
+FLAENOFD_00996	CDS	1119	hadC_2	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+FLAENOFD_00997	gene	1236	fldB			
+FLAENOFD_00997	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+FLAENOFD_00998	gene	1245	fldA_2			
+FLAENOFD_00998	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+FLAENOFD_00999	gene	696	rspR_1			
+FLAENOFD_00999	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+FLAENOFD_01000	gene	351	ssrA			
+FLAENOFD_01000	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+FLAENOFD_01001	gene	978	surA			
+FLAENOFD_01001	CDS	978	surA	5.2.1.8		Chaperone SurA
+FLAENOFD_01002	gene	2190				
+FLAENOFD_01002	CDS	2190				hypothetical protein
+FLAENOFD_01003	gene	3459				
+FLAENOFD_01003	CDS	3459				hypothetical protein
+FLAENOFD_01004	gene	444				
+FLAENOFD_01004	CDS	444				hypothetical protein
+FLAENOFD_01005	gene	2337				
+FLAENOFD_01005	CDS	2337				hypothetical protein
+FLAENOFD_01006	gene	1926	thrZ			
+FLAENOFD_01006	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+FLAENOFD_01007	gene	1005	hrcA			
+FLAENOFD_01007	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+FLAENOFD_01008	gene	624	grpE			
+FLAENOFD_01008	CDS	624	grpE			Protein GrpE
+FLAENOFD_01009	gene	1845	dnaK			
+FLAENOFD_01009	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+FLAENOFD_01010	gene	1155	dnaJ			
+FLAENOFD_01010	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+FLAENOFD_01011	gene	717				
+FLAENOFD_01011	CDS	717				hypothetical protein
+FLAENOFD_01012	gene	867	comEC_1			
+FLAENOFD_01012	CDS	867	comEC_1		COG0658	ComE operon protein 3
+FLAENOFD_01013	gene	906				
+FLAENOFD_01013	CDS	906				hypothetical protein
+FLAENOFD_01014	gene	1287	eis			
+FLAENOFD_01014	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+FLAENOFD_01015	gene	1236	comEC_2			
+FLAENOFD_01015	CDS	1236	comEC_2		COG0658	ComE operon protein 3
+FLAENOFD_01016	gene	1038	yqeN			
+FLAENOFD_01016	CDS	1038	yqeN		COG1466	putative protein YqeN
+FLAENOFD_01017	gene	687	graR			
+FLAENOFD_01017	CDS	687	graR		COG0745	Response regulator protein GraR
+FLAENOFD_01018	gene	990	graS			
+FLAENOFD_01018	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+FLAENOFD_01019	gene	756	yxdL_1			
+FLAENOFD_01019	CDS	756	yxdL_1		COG1136	ABC transporter ATP-binding protein YxdL
+FLAENOFD_01020	gene	1875	yxdM			
+FLAENOFD_01020	CDS	1875	yxdM			ABC transporter permease protein YxdM
+FLAENOFD_01021	gene	120				
+FLAENOFD_01021	CDS	120				hypothetical protein
+FLAENOFD_01022	gene	267	rpsT			
+FLAENOFD_01022	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+FLAENOFD_01023	gene	1806	lepA			
+FLAENOFD_01023	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+FLAENOFD_01024	gene	1317	cca			
+FLAENOFD_01024	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+FLAENOFD_01025	gene	861				
+FLAENOFD_01025	CDS	861				hypothetical protein
+FLAENOFD_01026	gene	1149	hemW			
+FLAENOFD_01026	CDS	1149	hemW		COG0635	Heme chaperone HemW
+FLAENOFD_01027	gene	576	zapA			
+FLAENOFD_01027	CDS	576	zapA			Cell division protein ZapA
+FLAENOFD_01028	gene	2439				
+FLAENOFD_01028	CDS	2439				hypothetical protein
+FLAENOFD_01029	gene	1614	nnr			
+FLAENOFD_01029	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FLAENOFD_01030	gene	453				
+FLAENOFD_01030	CDS	453				hypothetical protein
+FLAENOFD_01031	gene	1005				
+FLAENOFD_01031	CDS	1005			COG0330	putative protein
+FLAENOFD_01032	gene	369				
+FLAENOFD_01032	CDS	369				hypothetical protein
+FLAENOFD_01033	gene	1494				
+FLAENOFD_01033	CDS	1494				hypothetical protein
+FLAENOFD_01034	gene	663				
+FLAENOFD_01034	CDS	663				hypothetical protein
+FLAENOFD_01035	gene	2640				
+FLAENOFD_01035	CDS	2640				hypothetical protein
+FLAENOFD_01036	gene	336				
+FLAENOFD_01036	CDS	336				hypothetical protein
+FLAENOFD_01037	gene	552				
+FLAENOFD_01037	CDS	552				hypothetical protein
+FLAENOFD_01038	gene	342				
+FLAENOFD_01038	CDS	342				hypothetical protein
+FLAENOFD_01039	gene	414				
+FLAENOFD_01039	CDS	414				hypothetical protein
+FLAENOFD_01040	gene	315				
+FLAENOFD_01040	CDS	315				hypothetical protein
+FLAENOFD_01041	gene	336				
+FLAENOFD_01041	CDS	336				hypothetical protein
+FLAENOFD_01042	gene	1152				
+FLAENOFD_01042	CDS	1152				hypothetical protein
+FLAENOFD_01043	gene	819				
+FLAENOFD_01043	CDS	819				hypothetical protein
+FLAENOFD_01044	gene	1299				
+FLAENOFD_01044	CDS	1299				hypothetical protein
+FLAENOFD_01045	gene	1770				
+FLAENOFD_01045	CDS	1770				hypothetical protein
+FLAENOFD_01046	gene	477				
+FLAENOFD_01046	CDS	477				hypothetical protein
+FLAENOFD_01047	gene	405				
+FLAENOFD_01047	CDS	405				hypothetical protein
+FLAENOFD_01048	gene	444				
+FLAENOFD_01048	CDS	444				hypothetical protein
+FLAENOFD_01049	gene	486	nrdG_2			
+FLAENOFD_01049	CDS	486	nrdG_2	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+FLAENOFD_01050	gene	279				
+FLAENOFD_01050	CDS	279				hypothetical protein
+FLAENOFD_01051	gene	2184	nrdD_2			
+FLAENOFD_01051	CDS	2184	nrdD_2	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+FLAENOFD_01052	gene	309				
+FLAENOFD_01052	CDS	309				hypothetical protein
+FLAENOFD_01053	gene	501				
+FLAENOFD_01053	CDS	501				hypothetical protein
+FLAENOFD_01054	gene	1908				
+FLAENOFD_01054	CDS	1908				hypothetical protein
+FLAENOFD_01055	gene	225				
+FLAENOFD_01055	CDS	225				hypothetical protein
+FLAENOFD_01056	gene	204				
+FLAENOFD_01056	CDS	204				hypothetical protein
+FLAENOFD_01057	gene	528				
+FLAENOFD_01057	CDS	528				hypothetical protein
+FLAENOFD_01058	gene	300				
+FLAENOFD_01058	CDS	300				hypothetical protein
+FLAENOFD_01059	gene	480				
+FLAENOFD_01059	CDS	480				hypothetical protein
+FLAENOFD_01060	gene	417				
+FLAENOFD_01060	CDS	417				hypothetical protein
+FLAENOFD_01061	gene	483				
+FLAENOFD_01061	CDS	483				hypothetical protein
+FLAENOFD_01062	gene	1041				
+FLAENOFD_01062	CDS	1041				hypothetical protein
+FLAENOFD_01063	gene	279				
+FLAENOFD_01063	CDS	279				hypothetical protein
+FLAENOFD_01064	gene	2637				
+FLAENOFD_01064	CDS	2637				hypothetical protein
+FLAENOFD_01065	gene	174				
+FLAENOFD_01065	CDS	174				hypothetical protein
+FLAENOFD_01066	gene	108				
+FLAENOFD_01066	CDS	108				hypothetical protein
+FLAENOFD_01067	gene	1374				
+FLAENOFD_01067	CDS	1374				hypothetical protein
+FLAENOFD_01068	gene	375				
+FLAENOFD_01068	CDS	375				hypothetical protein
+FLAENOFD_01069	gene	99				
+FLAENOFD_01069	CDS	99				hypothetical protein
+FLAENOFD_01070	gene	288				
+FLAENOFD_01070	CDS	288				hypothetical protein
+FLAENOFD_01071	gene	234				
+FLAENOFD_01071	CDS	234				hypothetical protein
+FLAENOFD_01072	gene	240				
+FLAENOFD_01072	CDS	240				hypothetical protein
+FLAENOFD_01073	gene	762				
+FLAENOFD_01073	CDS	762				hypothetical protein
+FLAENOFD_01074	gene	297				
+FLAENOFD_01074	CDS	297				hypothetical protein
+FLAENOFD_01075	gene	387				
+FLAENOFD_01075	CDS	387				hypothetical protein
+FLAENOFD_01076	gene	645	artM_2			
+FLAENOFD_01076	CDS	645	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+FLAENOFD_01077	gene	618	artQ_2			
+FLAENOFD_01077	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+FLAENOFD_01078	gene	801	artJ			
+FLAENOFD_01078	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+FLAENOFD_01079	gene	1326				
+FLAENOFD_01079	CDS	1326				hypothetical protein
+FLAENOFD_01080	gene	4305				
+FLAENOFD_01080	CDS	4305				hypothetical protein
+FLAENOFD_01081	gene	1020	gap_2			
+FLAENOFD_01081	CDS	1020	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+FLAENOFD_01082	gene	339				
+FLAENOFD_01082	CDS	339				hypothetical protein
+FLAENOFD_01083	gene	741				
+FLAENOFD_01083	CDS	741				hypothetical protein
+FLAENOFD_01084	gene	1158				
+FLAENOFD_01084	CDS	1158				hypothetical protein
+FLAENOFD_01085	gene	1383	dinG			
+FLAENOFD_01085	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+FLAENOFD_01086	gene	852				
+FLAENOFD_01086	CDS	852				hypothetical protein
+FLAENOFD_01087	gene	885				
+FLAENOFD_01087	CDS	885				hypothetical protein
+FLAENOFD_01088	gene	4311	polC_2			
+FLAENOFD_01088	CDS	4311	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FLAENOFD_01089	gene	699				
+FLAENOFD_01089	CDS	699				hypothetical protein
+FLAENOFD_01090	gene	786				
+FLAENOFD_01090	CDS	786				hypothetical protein
+FLAENOFD_01091	gene	1860				
+FLAENOFD_01091	CDS	1860				hypothetical protein
+FLAENOFD_01092	gene	834	thyA			
+FLAENOFD_01092	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+FLAENOFD_01093	gene	510	folA			
+FLAENOFD_01093	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+FLAENOFD_01094	gene	3801				
+FLAENOFD_01094	CDS	3801				hypothetical protein
+FLAENOFD_01095	gene	2502				
+FLAENOFD_01095	CDS	2502				hypothetical protein
+FLAENOFD_01096	gene	738				
+FLAENOFD_01096	CDS	738				hypothetical protein
+FLAENOFD_01097	gene	723				
+FLAENOFD_01097	CDS	723				hypothetical protein
+FLAENOFD_01098	gene	735				
+FLAENOFD_01098	CDS	735				hypothetical protein
+FLAENOFD_01099	gene	918	bcrA_1			
+FLAENOFD_01099	CDS	918	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+FLAENOFD_01100	gene	234				
+FLAENOFD_01100	CDS	234				hypothetical protein
+FLAENOFD_01101	gene	132				
+FLAENOFD_01101	CDS	132				hypothetical protein
+FLAENOFD_01102	gene	1053	mnmA			
+FLAENOFD_01102	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+FLAENOFD_01103	gene	465	cymR			
+FLAENOFD_01103	CDS	465	cymR			HTH-type transcriptional regulator CymR
+FLAENOFD_01104	gene	1272	rarA			
+FLAENOFD_01104	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+FLAENOFD_01105	gene	777	codY			
+FLAENOFD_01105	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+FLAENOFD_01106	gene	2082	topA			
+FLAENOFD_01106	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+FLAENOFD_01107	gene	1257				
+FLAENOFD_01107	CDS	1257				hypothetical protein
+FLAENOFD_01108	gene	1617	comM			
+FLAENOFD_01108	CDS	1617	comM		COG0606	Competence protein ComM
+FLAENOFD_01109	gene	363				
+FLAENOFD_01109	CDS	363				hypothetical protein
+FLAENOFD_01110	gene	1017	hmo_2			
+FLAENOFD_01110	CDS	1017	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+FLAENOFD_01111	gene	792	rnhB			
+FLAENOFD_01111	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+FLAENOFD_01112	gene	1164	alr1			
+FLAENOFD_01112	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+FLAENOFD_01113	gene	885	rbgA			
+FLAENOFD_01113	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+FLAENOFD_01114	gene	357	rplS			
+FLAENOFD_01114	CDS	357	rplS		COG0335	50S ribosomal protein L19
+FLAENOFD_01115	gene	1224	tyrS			
+FLAENOFD_01115	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+FLAENOFD_01116	gene	1158				
+FLAENOFD_01116	CDS	1158				hypothetical protein
+FLAENOFD_01117	gene	741	trmD			
+FLAENOFD_01117	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+FLAENOFD_01118	gene	519	rimM			
+FLAENOFD_01118	CDS	519	rimM			Ribosome maturation factor RimM
+FLAENOFD_01119	gene	234				
+FLAENOFD_01119	CDS	234				hypothetical protein
+FLAENOFD_01120	gene	273	rpsP			
+FLAENOFD_01120	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+FLAENOFD_01121	gene	1359	ffh			
+FLAENOFD_01121	CDS	1359	ffh		COG0541	Signal recognition particle protein
+FLAENOFD_01122	gene	354				
+FLAENOFD_01122	CDS	354				hypothetical protein
+FLAENOFD_01123	gene	1734	aspT			
+FLAENOFD_01123	CDS	1734	aspT			Aspartate/alanine antiporter
+FLAENOFD_01124	gene	1590	asD			
+FLAENOFD_01124	CDS	1590	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+FLAENOFD_01125	gene	198				
+FLAENOFD_01125	CDS	198				IS200/IS605 family transposase ISSsu4
+FLAENOFD_01126	gene	1296	ftsY			
+FLAENOFD_01126	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+FLAENOFD_01127	gene	3552	smc_2			
+FLAENOFD_01127	CDS	3552	smc_2		COG1196	Chromosome partition protein Smc
+FLAENOFD_01128	gene	1071				
+FLAENOFD_01128	CDS	1071				hypothetical protein
+FLAENOFD_01129	gene	708	rnc			
+FLAENOFD_01129	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+FLAENOFD_01130	gene	561	efp			
+FLAENOFD_01130	CDS	561	efp		COG0231	Elongation factor P
+FLAENOFD_01131	gene	1695	pgcA			
+FLAENOFD_01131	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+FLAENOFD_01132	gene	726	gamA			
+FLAENOFD_01132	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+FLAENOFD_01133	gene	2646	ppdK			
+FLAENOFD_01133	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+FLAENOFD_01134	gene	840	yqfL			
+FLAENOFD_01134	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+FLAENOFD_01135	gene	606	ccpN			
+FLAENOFD_01135	CDS	606	ccpN		COG0517	Transcriptional repressor CcpN
+FLAENOFD_01136	gene	771	aviRb			
+FLAENOFD_01136	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+FLAENOFD_01137	gene	675	ktrA			
+FLAENOFD_01137	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+FLAENOFD_01138	gene	1371	ntpJ			
+FLAENOFD_01138	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+FLAENOFD_01139	gene	1992				
+FLAENOFD_01139	CDS	1992				hypothetical protein
+FLAENOFD_01140	gene	954	lytC_5			
+FLAENOFD_01140	CDS	954	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FLAENOFD_01141	gene	144				
+FLAENOFD_01141	CDS	144				hypothetical protein
+FLAENOFD_01142	gene	321	yajC			
+FLAENOFD_01142	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+FLAENOFD_01143	gene	1119	tgt			
+FLAENOFD_01143	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+FLAENOFD_01144	gene	1026	queA			
+FLAENOFD_01144	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+FLAENOFD_01145	gene	1014	ruvB_1			
+FLAENOFD_01145	CDS	1014	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+FLAENOFD_01146	gene	612	ruvA			
+FLAENOFD_01146	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+FLAENOFD_01147	gene	498	ruvC			
+FLAENOFD_01147	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+FLAENOFD_01148	gene	567				
+FLAENOFD_01148	CDS	567				hypothetical protein
+FLAENOFD_01149	gene	642				
+FLAENOFD_01149	CDS	642				hypothetical protein
+FLAENOFD_01150	gene	342				
+FLAENOFD_01150	CDS	342				hypothetical protein
+FLAENOFD_01151	gene	378				
+FLAENOFD_01151	CDS	378				hypothetical protein
+FLAENOFD_01152	gene	744	aroD			
+FLAENOFD_01152	CDS	744	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+FLAENOFD_01153	gene	1167	patB			
+FLAENOFD_01153	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+FLAENOFD_01154	gene	810	ecfT_4			
+FLAENOFD_01154	CDS	810	ecfT_4		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+FLAENOFD_01155	gene	876	ecfA2			
+FLAENOFD_01155	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+FLAENOFD_01156	gene	837	ecfA1			
+FLAENOFD_01156	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+FLAENOFD_01157	gene	672				
+FLAENOFD_01157	CDS	672				hypothetical protein
+FLAENOFD_01158	gene	933				
+FLAENOFD_01158	CDS	933				hypothetical protein
+FLAENOFD_01159	gene	342				
+FLAENOFD_01159	CDS	342				hypothetical protein
+FLAENOFD_01160	gene	441				
+FLAENOFD_01160	CDS	441				hypothetical protein
+FLAENOFD_01161	gene	1422				
+FLAENOFD_01161	CDS	1422				hypothetical protein
+FLAENOFD_01162	gene	1227				
+FLAENOFD_01162	CDS	1227				hypothetical protein
+FLAENOFD_01163	gene	342	rplQ			
+FLAENOFD_01163	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+FLAENOFD_01164	gene	948	rpoA			
+FLAENOFD_01164	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+FLAENOFD_01165	gene	402	rpsK			
+FLAENOFD_01165	CDS	402	rpsK			30S ribosomal protein S11
+FLAENOFD_01166	gene	369	rpsM			
+FLAENOFD_01166	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+FLAENOFD_01167	gene	114	rpmJ			
+FLAENOFD_01167	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+FLAENOFD_01168	gene	219	infA			
+FLAENOFD_01168	CDS	219	infA		COG0361	Translation initiation factor IF-1
+FLAENOFD_01169	gene	270				
+FLAENOFD_01169	CDS	270				hypothetical protein
+FLAENOFD_01170	gene	642	adk			
+FLAENOFD_01170	CDS	642	adk	2.7.4.3		Adenylate kinase
+FLAENOFD_01171	gene	1269	secY			
+FLAENOFD_01171	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+FLAENOFD_01172	gene	444	rplO			
+FLAENOFD_01172	CDS	444	rplO			50S ribosomal protein L15
+FLAENOFD_01173	gene	186	rpmD			
+FLAENOFD_01173	CDS	186	rpmD			50S ribosomal protein L30
+FLAENOFD_01174	gene	510	rpsE			
+FLAENOFD_01174	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+FLAENOFD_01175	gene	369	rplR			
+FLAENOFD_01175	CDS	369	rplR		COG0256	50S ribosomal protein L18
+FLAENOFD_01176	gene	543	rplF			
+FLAENOFD_01176	CDS	543	rplF			50S ribosomal protein L6
+FLAENOFD_01177	gene	399	rpsH			
+FLAENOFD_01177	CDS	399	rpsH			30S ribosomal protein S8
+FLAENOFD_01178	gene	186	rpsZ			
+FLAENOFD_01178	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+FLAENOFD_01179	gene	543	rplE			
+FLAENOFD_01179	CDS	543	rplE			50S ribosomal protein L5
+FLAENOFD_01180	gene	309	rplX			
+FLAENOFD_01180	CDS	309	rplX		COG0198	50S ribosomal protein L24
+FLAENOFD_01181	gene	369	rplN			
+FLAENOFD_01181	CDS	369	rplN		COG0093	50S ribosomal protein L14
+FLAENOFD_01182	gene	255	rpsQ			
+FLAENOFD_01182	CDS	255	rpsQ			30S ribosomal protein S17
+FLAENOFD_01183	gene	204	rpmC			
+FLAENOFD_01183	CDS	204	rpmC			50S ribosomal protein L29
+FLAENOFD_01184	gene	429	rplP			
+FLAENOFD_01184	CDS	429	rplP		COG0197	50S ribosomal protein L16
+FLAENOFD_01185	gene	795	rpsC			
+FLAENOFD_01185	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+FLAENOFD_01186	gene	339	rplV			
+FLAENOFD_01186	CDS	339	rplV		COG0091	50S ribosomal protein L22
+FLAENOFD_01187	gene	282	rpsS			
+FLAENOFD_01187	CDS	282	rpsS			30S ribosomal protein S19
+FLAENOFD_01188	gene	831	rplB			
+FLAENOFD_01188	CDS	831	rplB			50S ribosomal protein L2
+FLAENOFD_01189	gene	291	rplW			
+FLAENOFD_01189	CDS	291	rplW			50S ribosomal protein L23
+FLAENOFD_01190	gene	624	rplD			
+FLAENOFD_01190	CDS	624	rplD			50S ribosomal protein L4
+FLAENOFD_01191	gene	630	rplC			
+FLAENOFD_01191	CDS	630	rplC		COG0087	50S ribosomal protein L3
+FLAENOFD_01192	gene	312	rpsJ			
+FLAENOFD_01192	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+FLAENOFD_01193	gene	795				
+FLAENOFD_01193	CDS	795		1.-.-.-		putative oxidoreductase
+FLAENOFD_01194	gene	1791				
+FLAENOFD_01194	CDS	1791				hypothetical protein
+FLAENOFD_01195	gene	339				
+FLAENOFD_01195	CDS	339				hypothetical protein
+FLAENOFD_01196	gene	486				
+FLAENOFD_01196	CDS	486				hypothetical protein
+FLAENOFD_01197	gene	156				
+FLAENOFD_01197	CDS	156				hypothetical protein
+FLAENOFD_01198	gene	1542				
+FLAENOFD_01198	CDS	1542				hypothetical protein
+FLAENOFD_01199	gene	438				
+FLAENOFD_01199	CDS	438				hypothetical protein
+FLAENOFD_01200	gene	1347	pgi			
+FLAENOFD_01200	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+FLAENOFD_01201	gene	1614				
+FLAENOFD_01201	CDS	1614				hypothetical protein
+FLAENOFD_01202	gene	375				
+FLAENOFD_01202	CDS	375				hypothetical protein
+FLAENOFD_01203	gene	1068				
+FLAENOFD_01203	CDS	1068				hypothetical protein
+FLAENOFD_01204	gene	435				
+FLAENOFD_01204	CDS	435				hypothetical protein
+FLAENOFD_01205	gene	1401				
+FLAENOFD_01205	CDS	1401				hypothetical protein
+FLAENOFD_01206	gene	390				
+FLAENOFD_01206	CDS	390				hypothetical protein
+FLAENOFD_01207	gene	1056	epsF			
+FLAENOFD_01207	CDS	1056	epsF		COG1459	Type II secretion system protein F
+FLAENOFD_01208	gene	1236				
+FLAENOFD_01208	CDS	1236				hypothetical protein
+FLAENOFD_01209	gene	1866	nhaP2			
+FLAENOFD_01209	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+FLAENOFD_01210	gene	561	nfrA1			
+FLAENOFD_01210	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+FLAENOFD_01211	gene	252				
+FLAENOFD_01211	CDS	252				hypothetical protein
+FLAENOFD_01212	gene	555				
+FLAENOFD_01212	CDS	555		3.1.3.-	COG5663	Nucleotidase
+FLAENOFD_01213	gene	708				
+FLAENOFD_01213	CDS	708				hypothetical protein
+FLAENOFD_01214	gene	786				
+FLAENOFD_01214	CDS	786				hypothetical protein
+FLAENOFD_01215	gene	930	gloB_2			
+FLAENOFD_01215	CDS	930	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+FLAENOFD_01216	gene	246				
+FLAENOFD_01216	CDS	246				hypothetical protein
+FLAENOFD_01217	gene	660				
+FLAENOFD_01217	CDS	660				hypothetical protein
+FLAENOFD_01218	gene	1221				
+FLAENOFD_01218	CDS	1221				hypothetical protein
+FLAENOFD_01219	gene	735				
+FLAENOFD_01219	CDS	735		3.1.3.-	COG0560	putative phosphatase
+FLAENOFD_01220	gene	291				
+FLAENOFD_01220	CDS	291				hypothetical protein
+FLAENOFD_01221	gene	627				
+FLAENOFD_01221	CDS	627				hypothetical protein
+FLAENOFD_01222	gene	408				
+FLAENOFD_01222	CDS	408				hypothetical protein
+FLAENOFD_01223	gene	438	sufU			
+FLAENOFD_01223	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+FLAENOFD_01224	gene	1236	csd			
+FLAENOFD_01224	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+FLAENOFD_01225	gene	831				
+FLAENOFD_01225	CDS	831				hypothetical protein
+FLAENOFD_01226	gene	1425				
+FLAENOFD_01226	CDS	1425				hypothetical protein
+FLAENOFD_01227	gene	765	sufC			
+FLAENOFD_01227	CDS	765	sufC		COG0396	Vegetative protein 296
+FLAENOFD_01228	gene	780	lytC_6			
+FLAENOFD_01228	CDS	780	lytC_6	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FLAENOFD_01229	gene	882				
+FLAENOFD_01229	CDS	882				hypothetical protein
+FLAENOFD_01230	gene	480				
+FLAENOFD_01230	CDS	480				hypothetical protein
+FLAENOFD_01231	gene	186				
+FLAENOFD_01231	CDS	186				hypothetical protein
+FLAENOFD_01232	gene	138				
+FLAENOFD_01232	CDS	138				hypothetical protein
+FLAENOFD_01233	gene	3123	mupA			
+FLAENOFD_01233	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+FLAENOFD_01234	gene	816				
+FLAENOFD_01234	CDS	816				hypothetical protein
+FLAENOFD_01235	gene	825				
+FLAENOFD_01235	CDS	825				hypothetical protein
+FLAENOFD_01236	gene	1884				
+FLAENOFD_01236	CDS	1884				hypothetical protein
+FLAENOFD_01237	gene	951				
+FLAENOFD_01237	CDS	951				hypothetical protein
+FLAENOFD_01238	gene	693	glmU_2			
+FLAENOFD_01238	CDS	693	glmU_2	2.7.7.23		Bifunctional protein GlmU
+FLAENOFD_01239	gene	1176	bdhA			
+FLAENOFD_01239	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+FLAENOFD_01240	gene	762	rpsB			
+FLAENOFD_01240	CDS	762	rpsB			30S ribosomal protein S2
+FLAENOFD_01241	gene	909	tsf			
+FLAENOFD_01241	CDS	909	tsf		COG0264	Elongation factor Ts
+FLAENOFD_01242	gene	708	pyrH			
+FLAENOFD_01242	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+FLAENOFD_01243	gene	558	frr			
+FLAENOFD_01243	CDS	558	frr		COG0233	Ribosome-recycling factor
+FLAENOFD_01244	gene	732	uppS			
+FLAENOFD_01244	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+FLAENOFD_01245	gene	780				
+FLAENOFD_01245	CDS	780				hypothetical protein
+FLAENOFD_01246	gene	909				
+FLAENOFD_01246	CDS	909				hypothetical protein
+FLAENOFD_01247	gene	468	rimP			
+FLAENOFD_01247	CDS	468	rimP			Ribosome maturation factor RimP
+FLAENOFD_01248	gene	1272	nusA			
+FLAENOFD_01248	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+FLAENOFD_01249	gene	276				
+FLAENOFD_01249	CDS	276				hypothetical protein
+FLAENOFD_01250	gene	315	rplGA			
+FLAENOFD_01250	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+FLAENOFD_01251	gene	1944	infB			
+FLAENOFD_01251	CDS	1944	infB			Translation initiation factor IF-2
+FLAENOFD_01252	gene	348	rbfA			
+FLAENOFD_01252	CDS	348	rbfA			Ribosome-binding factor A
+FLAENOFD_01253	gene	804				
+FLAENOFD_01253	CDS	804				hypothetical protein
+FLAENOFD_01254	gene	74				
+FLAENOFD_01254	tRNA	74				tRNA-Glu(ttc)
+FLAENOFD_01255	gene	73				
+FLAENOFD_01255	tRNA	73				tRNA-Asn(gtt)
+FLAENOFD_01256	gene	105				
+FLAENOFD_01256	rRNA	105				5S ribosomal RNA
+FLAENOFD_01257	gene	1989	tkt			
+FLAENOFD_01257	CDS	1989	tkt	2.2.1.1		Transketolase
+FLAENOFD_01258	gene	960				
+FLAENOFD_01258	CDS	960				hypothetical protein
+FLAENOFD_01259	gene	579				
+FLAENOFD_01259	CDS	579				hypothetical protein
+FLAENOFD_01260	gene	465				
+FLAENOFD_01260	CDS	465				hypothetical protein
+FLAENOFD_01261	gene	405				
+FLAENOFD_01261	CDS	405				hypothetical protein
+FLAENOFD_01262	gene	591	ogt			
+FLAENOFD_01262	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+FLAENOFD_01263	gene	990	asd_1			
+FLAENOFD_01263	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+FLAENOFD_01264	gene	1338	hom			
+FLAENOFD_01264	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+FLAENOFD_01265	gene	1050	thrC			
+FLAENOFD_01265	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+FLAENOFD_01266	gene	909	thrB			
+FLAENOFD_01266	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+FLAENOFD_01267	gene	1221	ask			
+FLAENOFD_01267	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+FLAENOFD_01268	gene	828	COQ3			
+FLAENOFD_01268	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+FLAENOFD_01269	gene	1014	gloB_3			
+FLAENOFD_01269	CDS	1014	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+FLAENOFD_01270	gene	1548	carA_1			
+FLAENOFD_01270	CDS	1548	carA_1	2.8.3.23	COG4670	Caffeate CoA-transferase
+FLAENOFD_01271	gene	960	dusB			
+FLAENOFD_01271	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+FLAENOFD_01272	gene	768	coaX			
+FLAENOFD_01272	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+FLAENOFD_01273	gene	984	birA			
+FLAENOFD_01273	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+FLAENOFD_01274	gene	693				
+FLAENOFD_01274	CDS	693				hypothetical protein
+FLAENOFD_01275	gene	405				
+FLAENOFD_01275	CDS	405				hypothetical protein
+FLAENOFD_01276	gene	2043	ftsH_2			
+FLAENOFD_01276	CDS	2043	ftsH_2	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+FLAENOFD_01277	gene	1380	tilS			
+FLAENOFD_01277	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+FLAENOFD_01278	gene	414				
+FLAENOFD_01278	CDS	414				hypothetical protein
+FLAENOFD_01279	gene	813	murI			
+FLAENOFD_01279	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+FLAENOFD_01280	gene	678	rspR_2			
+FLAENOFD_01280	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+FLAENOFD_01281	gene	897	ispE			
+FLAENOFD_01281	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+FLAENOFD_01282	gene	783				
+FLAENOFD_01282	CDS	783				hypothetical protein
+FLAENOFD_01283	gene	654				
+FLAENOFD_01283	CDS	654				hypothetical protein
+FLAENOFD_01284	gene	828	exoA			
+FLAENOFD_01284	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+FLAENOFD_01285	gene	1194	tuf			
+FLAENOFD_01285	CDS	1194	tuf		COG0050	Elongation factor Tu
+FLAENOFD_01286	gene	2067	fusA_1			
+FLAENOFD_01286	CDS	2067	fusA_1		COG0480	Elongation factor G
+FLAENOFD_01287	gene	471	rpsG			
+FLAENOFD_01287	CDS	471	rpsG			30S ribosomal protein S7
+FLAENOFD_01288	gene	423	rpsL			
+FLAENOFD_01288	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+FLAENOFD_01289	gene	1281	ugd			
+FLAENOFD_01289	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+FLAENOFD_01290	gene	474	ispF			
+FLAENOFD_01290	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+FLAENOFD_01291	gene	693	ispD			
+FLAENOFD_01291	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+FLAENOFD_01292	gene	765	rhaR_2			
+FLAENOFD_01292	CDS	765	rhaR_2			HTH-type transcriptional activator RhaR
+FLAENOFD_01293	gene	552				
+FLAENOFD_01293	CDS	552				hypothetical protein
+FLAENOFD_01294	gene	582				
+FLAENOFD_01294	CDS	582				hypothetical protein
+FLAENOFD_01295	gene	1227				
+FLAENOFD_01295	CDS	1227		3.4.11.-		Aminopeptidase 2
+FLAENOFD_01296	gene	1170				
+FLAENOFD_01296	CDS	1170				hypothetical protein
+FLAENOFD_01297	gene	540				
+FLAENOFD_01297	CDS	540				hypothetical protein
+FLAENOFD_01298	gene	609				
+FLAENOFD_01298	CDS	609				hypothetical protein
+FLAENOFD_01299	gene	186				
+FLAENOFD_01299	CDS	186				hypothetical protein
+FLAENOFD_01300	gene	1317	cpdA_2			
+FLAENOFD_01300	CDS	1317	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FLAENOFD_01301	gene	75				
+FLAENOFD_01301	tRNA	75				tRNA-Arg(acg)
+FLAENOFD_01302	gene	1380	mnmE_2			
+FLAENOFD_01302	CDS	1380	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+FLAENOFD_01303	gene	1881	mnmG			
+FLAENOFD_01303	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+FLAENOFD_01304	gene	729	rsmG			
+FLAENOFD_01304	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+FLAENOFD_01305	gene	1326				
+FLAENOFD_01305	CDS	1326				hypothetical protein
+FLAENOFD_01306	gene	1944	yjcS			
+FLAENOFD_01306	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+FLAENOFD_01307	gene	1092	xerC_3			
+FLAENOFD_01307	CDS	1092	xerC_3			Tyrosine recombinase XerC
+FLAENOFD_01308	gene	654	gpsB			
+FLAENOFD_01308	CDS	654	gpsB			Cell cycle protein GpsB
+FLAENOFD_01309	gene	786				
+FLAENOFD_01309	CDS	786				hypothetical protein
+FLAENOFD_01310	gene	258				
+FLAENOFD_01310	CDS	258				hypothetical protein
+FLAENOFD_01311	gene	489	sepF			
+FLAENOFD_01311	CDS	489	sepF			Cell division protein SepF
+FLAENOFD_01312	gene	702				
+FLAENOFD_01312	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+FLAENOFD_01313	gene	1011	gpsA			
+FLAENOFD_01313	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+FLAENOFD_01314	gene	609	plsY			
+FLAENOFD_01314	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+FLAENOFD_01315	gene	1329	der			
+FLAENOFD_01315	CDS	1329	der		COG1160	GTPase Der
+FLAENOFD_01316	gene	1281	walK			
+FLAENOFD_01316	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+FLAENOFD_01317	gene	681	phoP_2			
+FLAENOFD_01317	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FLAENOFD_01318	gene	468	nrdR			
+FLAENOFD_01318	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+FLAENOFD_01319	gene	1161	ftsZ			
+FLAENOFD_01319	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+FLAENOFD_01320	gene	1098	murG			
+FLAENOFD_01320	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FLAENOFD_01321	gene	1365	murD			
+FLAENOFD_01321	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+FLAENOFD_01322	gene	966	mraY			
+FLAENOFD_01322	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FLAENOFD_01323	gene	1410	murF			
+FLAENOFD_01323	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+FLAENOFD_01324	gene	936	rsmH			
+FLAENOFD_01324	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+FLAENOFD_01325	gene	750	lgt			
+FLAENOFD_01325	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+FLAENOFD_01326	gene	1293				
+FLAENOFD_01326	CDS	1293				hypothetical protein
+FLAENOFD_01327	gene	1260				
+FLAENOFD_01327	CDS	1260				hypothetical protein
+FLAENOFD_01328	gene	456				
+FLAENOFD_01328	CDS	456				hypothetical protein
+FLAENOFD_01329	gene	1098	ychF			
+FLAENOFD_01329	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+FLAENOFD_01330	gene	513	sigM_2			
+FLAENOFD_01330	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+FLAENOFD_01331	gene	1476				
+FLAENOFD_01331	CDS	1476				hypothetical protein
+FLAENOFD_01332	gene	402				
+FLAENOFD_01332	CDS	402				hypothetical protein
+FLAENOFD_01333	gene	75				
+FLAENOFD_01333	tRNA	75				tRNA-Arg(tcg)
+FLAENOFD_01334	gene	1224	pepT			
+FLAENOFD_01334	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+FLAENOFD_01335	gene	696				
+FLAENOFD_01335	CDS	696				hypothetical protein
+FLAENOFD_01336	gene	489				
+FLAENOFD_01336	CDS	489				hypothetical protein
+FLAENOFD_01337	gene	150	rpmG2			
+FLAENOFD_01337	CDS	150	rpmG2			50S ribosomal protein L33 2
+FLAENOFD_01338	gene	207	secE			
+FLAENOFD_01338	CDS	207	secE			Protein translocase subunit SecE
+FLAENOFD_01339	gene	543	nusG			
+FLAENOFD_01339	CDS	543	nusG			Transcription termination/antitermination protein NusG
+FLAENOFD_01340	gene	426	rplK			
+FLAENOFD_01340	CDS	426	rplK		COG0080	50S ribosomal protein L11
+FLAENOFD_01341	gene	699	rplA			
+FLAENOFD_01341	CDS	699	rplA			50S ribosomal protein L1
+FLAENOFD_01342	gene	522	rplJ			
+FLAENOFD_01342	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+FLAENOFD_01343	gene	369	rplL			
+FLAENOFD_01343	CDS	369	rplL			50S ribosomal protein L7/L12
+FLAENOFD_01344	gene	1140	pgl			
+FLAENOFD_01344	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+FLAENOFD_01345	gene	741				
+FLAENOFD_01345	CDS	741				hypothetical protein
+FLAENOFD_01346	gene	645				
+FLAENOFD_01346	CDS	645				hypothetical protein
+FLAENOFD_01347	gene	1407				
+FLAENOFD_01347	CDS	1407				hypothetical protein
+FLAENOFD_01348	gene	1725				
+FLAENOFD_01348	CDS	1725				hypothetical protein
+FLAENOFD_01349	gene	549				
+FLAENOFD_01349	CDS	549				hypothetical protein
+FLAENOFD_01350	gene	339				
+FLAENOFD_01350	CDS	339				hypothetical protein
+FLAENOFD_01351	gene	297				
+FLAENOFD_01351	CDS	297				hypothetical protein
+FLAENOFD_01352	gene	1128				
+FLAENOFD_01352	CDS	1128				hypothetical protein
+FLAENOFD_01353	gene	1140				
+FLAENOFD_01353	CDS	1140				hypothetical protein
+FLAENOFD_01354	gene	723	pyrF			
+FLAENOFD_01354	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+FLAENOFD_01355	gene	1050	carA_2			
+FLAENOFD_01355	CDS	1050	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+FLAENOFD_01356	gene	3216	carB			
+FLAENOFD_01356	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+FLAENOFD_01357	gene	246				
+FLAENOFD_01357	CDS	246				hypothetical protein
+FLAENOFD_01358	gene	402				
+FLAENOFD_01358	CDS	402				hypothetical protein
+FLAENOFD_01359	gene	357	rplT			
+FLAENOFD_01359	CDS	357	rplT			50S ribosomal protein L20
+FLAENOFD_01360	gene	198	rpmI			
+FLAENOFD_01360	CDS	198	rpmI			50S ribosomal protein L35
+FLAENOFD_01361	gene	459	infC			
+FLAENOFD_01361	CDS	459	infC			Translation initiation factor IF-3
+FLAENOFD_01362	gene	864	map			
+FLAENOFD_01362	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+FLAENOFD_01363	gene	603				
+FLAENOFD_01363	CDS	603				hypothetical protein
+FLAENOFD_01364	gene	561				
+FLAENOFD_01364	CDS	561				hypothetical protein
+FLAENOFD_01365	gene	549	chrA1			
+FLAENOFD_01365	CDS	549	chrA1			Chromate transport protein
+FLAENOFD_01366	gene	189				
+FLAENOFD_01366	CDS	189				Rubredoxin
+FLAENOFD_01367	gene	1101	dhaD			
+FLAENOFD_01367	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+FLAENOFD_01368	gene	1191				
+FLAENOFD_01368	CDS	1191				hypothetical protein
+FLAENOFD_01369	gene	750				
+FLAENOFD_01369	CDS	750				hypothetical protein
+FLAENOFD_01370	gene	411				
+FLAENOFD_01370	CDS	411				hypothetical protein
+FLAENOFD_01371	gene	243				
+FLAENOFD_01371	CDS	243				hypothetical protein
+FLAENOFD_01372	gene	705				
+FLAENOFD_01372	CDS	705				hypothetical protein
+FLAENOFD_01373	gene	1368	mepA_5			
+FLAENOFD_01373	CDS	1368	mepA_5			Multidrug export protein MepA
+FLAENOFD_01374	gene	2472				
+FLAENOFD_01374	CDS	2472				hypothetical protein
+FLAENOFD_01375	gene	597				
+FLAENOFD_01375	CDS	597				hypothetical protein
+FLAENOFD_01376	gene	639				
+FLAENOFD_01376	CDS	639				hypothetical protein
+FLAENOFD_01377	gene	1626	mleA			
+FLAENOFD_01377	CDS	1626	mleA	4.1.1.101	COG0281	Malolactic enzyme
+FLAENOFD_01378	gene	588				
+FLAENOFD_01378	CDS	588			COG2826	IS30 family transposase ISLga1
+FLAENOFD_01379	gene	2127	nqrC			
+FLAENOFD_01379	CDS	2127	nqrC	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit C
+FLAENOFD_01380	gene	525				
+FLAENOFD_01380	CDS	525				hypothetical protein
+FLAENOFD_01381	gene	732				
+FLAENOFD_01381	CDS	732				hypothetical protein
+FLAENOFD_01382	gene	951				
+FLAENOFD_01382	CDS	951				hypothetical protein
+FLAENOFD_01383	gene	801	yycJ			
+FLAENOFD_01383	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+FLAENOFD_01384	gene	483	rlmH			
+FLAENOFD_01384	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+FLAENOFD_01385	gene	1050				
+FLAENOFD_01385	CDS	1050				hypothetical protein
+FLAENOFD_01386	gene	990	dnaA_2			
+FLAENOFD_01386	CDS	990	dnaA_2			Chromosomal replication initiator protein DnaA
+FLAENOFD_01387	gene	1338	dnaC			
+FLAENOFD_01387	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+FLAENOFD_01388	gene	447	rplI			
+FLAENOFD_01388	CDS	447	rplI			50S ribosomal protein L9
+FLAENOFD_01389	gene	2016	gdpP			
+FLAENOFD_01389	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+FLAENOFD_01390	gene	1041				
+FLAENOFD_01390	CDS	1041				hypothetical protein
+FLAENOFD_01391	gene	366				
+FLAENOFD_01391	CDS	366				hypothetical protein
+FLAENOFD_01392	gene	1959	fusA_2			
+FLAENOFD_01392	CDS	1959	fusA_2		COG0480	Elongation factor G
+FLAENOFD_01393	gene	999				
+FLAENOFD_01393	CDS	999				hypothetical protein
+FLAENOFD_01394	gene	795				
+FLAENOFD_01394	CDS	795				hypothetical protein
+FLAENOFD_01395	gene	219				
+FLAENOFD_01395	CDS	219				hypothetical protein
+FLAENOFD_01396	gene	1380	radA			
+FLAENOFD_01396	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+FLAENOFD_01397	gene	1077	disA			
+FLAENOFD_01397	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+FLAENOFD_01398	gene	1092	yacL			
+FLAENOFD_01398	CDS	1092	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+FLAENOFD_01399	gene	1446	proS			
+FLAENOFD_01399	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FLAENOFD_01400	gene	750				
+FLAENOFD_01400	CDS	750				hypothetical protein
+FLAENOFD_01401	gene	867				
+FLAENOFD_01401	CDS	867				hypothetical protein
+FLAENOFD_01402	gene	936				
+FLAENOFD_01402	CDS	936				hypothetical protein
+FLAENOFD_01403	gene	858				
+FLAENOFD_01403	CDS	858				hypothetical protein
+FLAENOFD_01404	gene	918				
+FLAENOFD_01404	CDS	918				hypothetical protein
+FLAENOFD_01405	gene	1581				
+FLAENOFD_01405	CDS	1581				hypothetical protein
+FLAENOFD_01406	gene	2904				
+FLAENOFD_01406	CDS	2904				hypothetical protein
+FLAENOFD_01407	gene	2424				
+FLAENOFD_01407	CDS	2424				hypothetical protein
+FLAENOFD_01408	gene	273				
+FLAENOFD_01408	CDS	273				hypothetical protein
+FLAENOFD_01409	gene	855				
+FLAENOFD_01409	CDS	855				hypothetical protein
+FLAENOFD_01410	gene	2211	kdpB			
+FLAENOFD_01410	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+FLAENOFD_01411	gene	378				
+FLAENOFD_01411	CDS	378				hypothetical protein
+FLAENOFD_01412	gene	597				
+FLAENOFD_01412	CDS	597				hypothetical protein
+FLAENOFD_01413	gene	1113				
+FLAENOFD_01413	CDS	1113				hypothetical protein
+FLAENOFD_01414	gene	1119				
+FLAENOFD_01414	CDS	1119				hypothetical protein
+FLAENOFD_01415	gene	933	lnrL			
+FLAENOFD_01415	CDS	933	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+FLAENOFD_01416	gene	1146				
+FLAENOFD_01416	CDS	1146				hypothetical protein
+FLAENOFD_01417	gene	648	lnrK			
+FLAENOFD_01417	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+FLAENOFD_01418	gene	285				
+FLAENOFD_01418	CDS	285				hypothetical protein
+FLAENOFD_01419	gene	75				
+FLAENOFD_01419	tRNA	75				tRNA-Arg(cct)
+FLAENOFD_01420	gene	1200	gerN			
+FLAENOFD_01420	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+FLAENOFD_01421	gene	447				
+FLAENOFD_01421	CDS	447				hypothetical protein
+FLAENOFD_01422	gene	702				
+FLAENOFD_01422	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+FLAENOFD_01423	gene	3555	rpoC			
+FLAENOFD_01423	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+FLAENOFD_01424	gene	96				
+FLAENOFD_01424	CDS	96				hypothetical protein
+FLAENOFD_01425	gene	3747	rpoB			
+FLAENOFD_01425	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+FLAENOFD_01426	gene	1056				
+FLAENOFD_01426	CDS	1056				hypothetical protein
+FLAENOFD_01427	gene	927				
+FLAENOFD_01427	CDS	927				hypothetical protein
+FLAENOFD_01428	gene	1698				
+FLAENOFD_01428	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+FLAENOFD_01429	gene	1764				
+FLAENOFD_01429	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FLAENOFD_01430	gene	1782				
+FLAENOFD_01430	CDS	1782				hypothetical protein
+FLAENOFD_01431	gene	819				
+FLAENOFD_01431	CDS	819				hypothetical protein
+FLAENOFD_01432	gene	825				
+FLAENOFD_01432	CDS	825				hypothetical protein
+FLAENOFD_01433	gene	285				
+FLAENOFD_01433	CDS	285				hypothetical protein
+FLAENOFD_01434	gene	2412				
+FLAENOFD_01434	CDS	2412				hypothetical protein
+FLAENOFD_01435	gene	1995				
+FLAENOFD_01435	CDS	1995				hypothetical protein
+FLAENOFD_01436	gene	786				
+FLAENOFD_01436	CDS	786				hypothetical protein
+FLAENOFD_01437	gene	1053				
+FLAENOFD_01437	CDS	1053				hypothetical protein
+FLAENOFD_01438	gene	708	mtnN			
+FLAENOFD_01438	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+FLAENOFD_01439	gene	1008	trpS			
+FLAENOFD_01439	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+FLAENOFD_01440	gene	768				
+FLAENOFD_01440	CDS	768				hypothetical protein
+FLAENOFD_01441	gene	480	lspA			
+FLAENOFD_01441	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+FLAENOFD_01442	gene	933	rluD_1			
+FLAENOFD_01442	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FLAENOFD_01443	gene	525	pyrR			
+FLAENOFD_01443	CDS	525	pyrR			Bifunctional protein PyrR
+FLAENOFD_01444	gene	1764	rqcH			
+FLAENOFD_01444	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+FLAENOFD_01445	gene	825	ydjP			
+FLAENOFD_01445	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+FLAENOFD_01446	gene	279	yjdJ			
+FLAENOFD_01446	CDS	279	yjdJ		COG2388	putative protein YjdJ
+FLAENOFD_01447	gene	462	mutX			
+FLAENOFD_01447	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+FLAENOFD_01448	gene	507	tpx			
+FLAENOFD_01448	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+FLAENOFD_01449	gene	645				
+FLAENOFD_01449	CDS	645				hypothetical protein
+FLAENOFD_01450	gene	780				
+FLAENOFD_01450	CDS	780				hypothetical protein
+FLAENOFD_01451	gene	693				
+FLAENOFD_01451	CDS	693				hypothetical protein
+FLAENOFD_01452	gene	237				
+FLAENOFD_01452	CDS	237				hypothetical protein
+FLAENOFD_01453	gene	909				
+FLAENOFD_01453	CDS	909				hypothetical protein
+FLAENOFD_01454	gene	651				
+FLAENOFD_01454	CDS	651				hypothetical protein
+FLAENOFD_01455	gene	1206	lysC			
+FLAENOFD_01455	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+FLAENOFD_01456	gene	984	asd_2			
+FLAENOFD_01456	CDS	984	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+FLAENOFD_01457	gene	900	dapA_2			
+FLAENOFD_01457	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+FLAENOFD_01458	gene	732	dapB			
+FLAENOFD_01458	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+FLAENOFD_01459	gene	720	dapH			
+FLAENOFD_01459	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FLAENOFD_01460	gene	1152	scmP			
+FLAENOFD_01460	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+FLAENOFD_01461	gene	1077	alr			
+FLAENOFD_01461	CDS	1077	alr	5.1.1.1		Alanine racemase
+FLAENOFD_01462	gene	1296	lysA			
+FLAENOFD_01462	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+FLAENOFD_01463	gene	1281	serS			
+FLAENOFD_01463	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+FLAENOFD_01464	gene	234				
+FLAENOFD_01464	CDS	234				hypothetical protein
+FLAENOFD_01465	gene	1377	alsT_3			
+FLAENOFD_01465	CDS	1377	alsT_3		COG1115	Amino-acid carrier protein AlsT
+FLAENOFD_01466	gene	195				
+FLAENOFD_01466	CDS	195				hypothetical protein
+FLAENOFD_01467	gene	729				
+FLAENOFD_01467	CDS	729				hypothetical protein
+FLAENOFD_01468	gene	768	thiG			
+FLAENOFD_01468	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+FLAENOFD_01469	gene	1176	thiH			
+FLAENOFD_01469	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+FLAENOFD_01470	gene	1176	tadA			
+FLAENOFD_01470	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+FLAENOFD_01471	gene	1635				
+FLAENOFD_01471	CDS	1635				hypothetical protein
+FLAENOFD_01472	gene	90				
+FLAENOFD_01472	tRNA	90				tRNA-Ser(gga)
+FLAENOFD_01473	gene	387	hlyB			
+FLAENOFD_01473	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+FLAENOFD_01474	gene	612				
+FLAENOFD_01474	CDS	612				hypothetical protein
+FLAENOFD_01475	gene	1428	apeB			
+FLAENOFD_01475	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+FLAENOFD_01476	gene	2364	pcrA			
+FLAENOFD_01476	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+FLAENOFD_01477	gene	477	cysG_1			
+FLAENOFD_01477	CDS	477	cysG_1		COG0007	Siroheme synthase
+FLAENOFD_01478	gene	969	hemB			
+FLAENOFD_01478	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+FLAENOFD_01479	gene	1524	cysG_2			
+FLAENOFD_01479	CDS	1524	cysG_2	4.99.1.4		Siroheme synthase
+FLAENOFD_01480	gene	933	hemC			
+FLAENOFD_01480	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+FLAENOFD_01481	gene	969	bioB_2			
+FLAENOFD_01481	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+FLAENOFD_01482	gene	522	dcd			
+FLAENOFD_01482	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+FLAENOFD_01483	gene	402				
+FLAENOFD_01483	CDS	402				hypothetical protein
+FLAENOFD_01484	gene	546				
+FLAENOFD_01484	CDS	546				hypothetical protein
+FLAENOFD_01485	gene	324				
+FLAENOFD_01485	CDS	324				hypothetical protein
+FLAENOFD_01486	gene	771	nirC			
+FLAENOFD_01486	CDS	771	nirC		COG2116	Nitrite transporter NirC
+FLAENOFD_01487	gene	972	asrC			
+FLAENOFD_01487	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+FLAENOFD_01488	gene	801	asrB			
+FLAENOFD_01488	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+FLAENOFD_01489	gene	1011	asrA			
+FLAENOFD_01489	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+FLAENOFD_01490	gene	687	glxR			
+FLAENOFD_01490	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+FLAENOFD_01491	gene	462	ribH			
+FLAENOFD_01491	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+FLAENOFD_01492	gene	1206	ribBA			
+FLAENOFD_01492	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+FLAENOFD_01493	gene	657	ribE			
+FLAENOFD_01493	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+FLAENOFD_01494	gene	1119	ribD			
+FLAENOFD_01494	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+FLAENOFD_01495	gene	1059				
+FLAENOFD_01495	CDS	1059				hypothetical protein
+FLAENOFD_01496	gene	471				
+FLAENOFD_01496	CDS	471				hypothetical protein
+FLAENOFD_01497	gene	825	metQ			
+FLAENOFD_01497	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+FLAENOFD_01498	gene	654	metP			
+FLAENOFD_01498	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+FLAENOFD_01499	gene	969	metN			
+FLAENOFD_01499	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+FLAENOFD_01500	gene	354				
+FLAENOFD_01500	CDS	354				hypothetical protein
+FLAENOFD_01501	gene	1296	brnQ_4			
+FLAENOFD_01501	CDS	1296	brnQ_4		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FLAENOFD_01502	gene	2589	clpB			
+FLAENOFD_01502	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+FLAENOFD_01503	gene	642				
+FLAENOFD_01503	CDS	642				hypothetical protein
+FLAENOFD_01504	gene	411				
+FLAENOFD_01504	CDS	411				hypothetical protein
+FLAENOFD_01505	gene	1188	dxr			
+FLAENOFD_01505	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+FLAENOFD_01506	gene	1011	mmpA			
+FLAENOFD_01506	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+FLAENOFD_01507	gene	1056	ispG			
+FLAENOFD_01507	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+FLAENOFD_01508	gene	528				
+FLAENOFD_01508	CDS	528				hypothetical protein
+FLAENOFD_01509	gene	477				
+FLAENOFD_01509	CDS	477				hypothetical protein
+FLAENOFD_01510	gene	708				
+FLAENOFD_01510	CDS	708				hypothetical protein
+FLAENOFD_01511	gene	471				
+FLAENOFD_01511	CDS	471				hypothetical protein
+FLAENOFD_01512	gene	1128				
+FLAENOFD_01512	CDS	1128				hypothetical protein
+FLAENOFD_01513	gene	1968				
+FLAENOFD_01513	CDS	1968				hypothetical protein
+FLAENOFD_01514	gene	426				
+FLAENOFD_01514	CDS	426				hypothetical protein
+FLAENOFD_01515	gene	1740				
+FLAENOFD_01515	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FLAENOFD_01516	gene	774	dtd3			
+FLAENOFD_01516	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+FLAENOFD_01517	gene	522	niaR			
+FLAENOFD_01517	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+FLAENOFD_01518	gene	1821				
+FLAENOFD_01518	CDS	1821				hypothetical protein
+FLAENOFD_01519	gene	912				
+FLAENOFD_01519	CDS	912				hypothetical protein
+FLAENOFD_01520	gene	1473				
+FLAENOFD_01520	CDS	1473				hypothetical protein
+FLAENOFD_01521	gene	147				
+FLAENOFD_01521	CDS	147				hypothetical protein
+FLAENOFD_01522	gene	228				
+FLAENOFD_01522	CDS	228				hypothetical protein
+FLAENOFD_01523	gene	225				
+FLAENOFD_01523	CDS	225				hypothetical protein
+FLAENOFD_01524	gene	1239				
+FLAENOFD_01524	CDS	1239				hypothetical protein
+FLAENOFD_01525	gene	1677	fhs			
+FLAENOFD_01525	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+FLAENOFD_01526	gene	1143				
+FLAENOFD_01526	CDS	1143				hypothetical protein
+FLAENOFD_01527	gene	1179				
+FLAENOFD_01527	CDS	1179				hypothetical protein
+FLAENOFD_01528	gene	285				
+FLAENOFD_01528	CDS	285				hypothetical protein
+FLAENOFD_01529	gene	951	prmA			
+FLAENOFD_01529	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+FLAENOFD_01530	gene	777	rsmE			
+FLAENOFD_01530	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+FLAENOFD_01531	gene	1296	mtaB			
+FLAENOFD_01531	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+FLAENOFD_01532	gene	324				
+FLAENOFD_01532	CDS	324				hypothetical protein
+FLAENOFD_01533	gene	345				
+FLAENOFD_01533	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+FLAENOFD_01534	gene	822				
+FLAENOFD_01534	CDS	822				hypothetical protein
+FLAENOFD_01535	gene	1032	pheS			
+FLAENOFD_01535	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+FLAENOFD_01536	gene	2391	pheT			
+FLAENOFD_01536	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+FLAENOFD_01537	gene	1557	ykoD_5			
+FLAENOFD_01537	CDS	1557	ykoD_5	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FLAENOFD_01538	gene	705				
+FLAENOFD_01538	CDS	705				hypothetical protein
+FLAENOFD_01539	gene	609				
+FLAENOFD_01539	CDS	609				hypothetical protein
+FLAENOFD_01540	gene	1719				
+FLAENOFD_01540	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+FLAENOFD_01541	gene	1770	msbA_3			
+FLAENOFD_01541	CDS	1770	msbA_3	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FLAENOFD_01542	gene	234	exsA			
+FLAENOFD_01542	CDS	234	exsA		COG2207	Exoenzyme S synthesis regulatory protein ExsA
+FLAENOFD_01543	gene	1818	uvrC			
+FLAENOFD_01543	CDS	1818	uvrC		COG0322	UvrABC system protein C
+FLAENOFD_01544	gene	933	hprK			
+FLAENOFD_01544	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+FLAENOFD_01545	gene	921	murB			
+FLAENOFD_01545	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+FLAENOFD_01546	gene	738	ycdX			
+FLAENOFD_01546	CDS	738	ycdX	3.1.3.-	COG1387	putative phosphatase YcdX
+FLAENOFD_01547	gene	864	yvcJ			
+FLAENOFD_01547	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+FLAENOFD_01548	gene	1140				
+FLAENOFD_01548	CDS	1140			COG0391	Gluconeogenesis factor
+FLAENOFD_01549	gene	417	ndx1			
+FLAENOFD_01549	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+FLAENOFD_01550	gene	966	whiA			
+FLAENOFD_01550	CDS	966	whiA		COG1481	putative cell division protein WhiA
+FLAENOFD_01551	gene	3603	dnaE			
+FLAENOFD_01551	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+FLAENOFD_01552	gene	2463				
+FLAENOFD_01552	CDS	2463				hypothetical protein
+FLAENOFD_01553	gene	372	yxdL_2			
+FLAENOFD_01553	CDS	372	yxdL_2		COG1136	ABC transporter ATP-binding protein YxdL
+FLAENOFD_01554	gene	246				
+FLAENOFD_01554	CDS	246				hypothetical protein
+FLAENOFD_01555	gene	666				
+FLAENOFD_01555	CDS	666				hypothetical protein
+FLAENOFD_01556	gene	552	trpP			
+FLAENOFD_01556	CDS	552	trpP			putative tryptophan transport protein
+FLAENOFD_01557	gene	2415				
+FLAENOFD_01557	CDS	2415				hypothetical protein
+FLAENOFD_01558	gene	651				
+FLAENOFD_01558	CDS	651				hypothetical protein
+FLAENOFD_01559	gene	735				
+FLAENOFD_01559	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+FLAENOFD_01560	gene	213				
+FLAENOFD_01560	CDS	213				hypothetical protein
+FLAENOFD_01561	gene	804				
+FLAENOFD_01561	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+FLAENOFD_01562	gene	777	trmK			
+FLAENOFD_01562	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+FLAENOFD_01563	gene	1155	sigA			
+FLAENOFD_01563	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+FLAENOFD_01564	gene	1824	dnaG			
+FLAENOFD_01564	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+FLAENOFD_01565	gene	957				
+FLAENOFD_01565	CDS	957				hypothetical protein
+FLAENOFD_01566	gene	867				
+FLAENOFD_01566	CDS	867				hypothetical protein
+FLAENOFD_01567	gene	507				
+FLAENOFD_01567	CDS	507				hypothetical protein
+FLAENOFD_01568	gene	951				
+FLAENOFD_01568	CDS	951				hypothetical protein
+FLAENOFD_01569	gene	243				
+FLAENOFD_01569	CDS	243				hypothetical protein
+FLAENOFD_01570	gene	513				
+FLAENOFD_01570	CDS	513				hypothetical protein
+FLAENOFD_01571	gene	468				
+FLAENOFD_01571	CDS	468				hypothetical protein
+FLAENOFD_01572	gene	2424	lon1			
+FLAENOFD_01572	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+FLAENOFD_01573	gene	723	engB			
+FLAENOFD_01573	CDS	723	engB			GTP-binding protein EngB
+FLAENOFD_01574	gene	546	hpt_2			
+FLAENOFD_01574	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+FLAENOFD_01575	gene	288	pagR			
+FLAENOFD_01575	CDS	288	pagR			Transcriptional repressor PagR
+FLAENOFD_01576	gene	1731	cdr			
+FLAENOFD_01576	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+FLAENOFD_01577	gene	675				
+FLAENOFD_01577	CDS	675				hypothetical protein
+FLAENOFD_01578	gene	219				
+FLAENOFD_01578	CDS	219				hypothetical protein
+FLAENOFD_01579	gene	423				
+FLAENOFD_01579	CDS	423				hypothetical protein
+FLAENOFD_01580	gene	678				
+FLAENOFD_01580	CDS	678				hypothetical protein
+FLAENOFD_01581	gene	642	yigZ			
+FLAENOFD_01581	CDS	642	yigZ		COG1739	IMPACT family member YigZ
+FLAENOFD_01582	gene	759	nadE			
+FLAENOFD_01582	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FLAENOFD_01583	gene	723				
+FLAENOFD_01583	CDS	723			COG0217	putative transcriptional regulatory protein
+FLAENOFD_01584	gene	285				
+FLAENOFD_01584	CDS	285				hypothetical protein
+FLAENOFD_01585	gene	1188	uctC			
+FLAENOFD_01585	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+FLAENOFD_01586	gene	456				
+FLAENOFD_01586	CDS	456				hypothetical protein
+FLAENOFD_01587	gene	1062				
+FLAENOFD_01587	CDS	1062				hypothetical protein
+FLAENOFD_01588	gene	597				
+FLAENOFD_01588	CDS	597				hypothetical protein
+FLAENOFD_01589	gene	603				
+FLAENOFD_01589	CDS	603				hypothetical protein
+FLAENOFD_01590	gene	1077	lytC_7			
+FLAENOFD_01590	CDS	1077	lytC_7	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FLAENOFD_01591	gene	243				
+FLAENOFD_01591	CDS	243				hypothetical protein
+FLAENOFD_01592	gene	594				
+FLAENOFD_01592	CDS	594				hypothetical protein
+FLAENOFD_01593	gene	825				
+FLAENOFD_01593	CDS	825				hypothetical protein
+FLAENOFD_01594	gene	1338				
+FLAENOFD_01594	CDS	1338		1.6.99.3		putative NADH oxidase
+FLAENOFD_01595	gene	411				
+FLAENOFD_01595	CDS	411				hypothetical protein
+FLAENOFD_01596	gene	1284	brnQ_5			
+FLAENOFD_01596	CDS	1284	brnQ_5		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FLAENOFD_01597	gene	1185	metK			
+FLAENOFD_01597	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+FLAENOFD_01598	gene	2220	recD2			
+FLAENOFD_01598	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+FLAENOFD_01599	gene	771				
+FLAENOFD_01599	CDS	771				hypothetical protein
+FLAENOFD_01600	gene	540	folT			
+FLAENOFD_01600	CDS	540	folT			Folate transporter FolT
+FLAENOFD_01601	gene	141				
+FLAENOFD_01601	CDS	141				hypothetical protein
+FLAENOFD_01602	gene	2691	secA_2			
+FLAENOFD_01602	CDS	2691	secA_2			Protein translocase subunit SecA
+FLAENOFD_01603	gene	1671	norR			
+FLAENOFD_01603	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+FLAENOFD_01604	gene	1182				
+FLAENOFD_01604	CDS	1182				hypothetical protein
+FLAENOFD_01605	gene	74				
+FLAENOFD_01605	tRNA	74				tRNA-Gly(tcc)
+FLAENOFD_01606	gene	72				
+FLAENOFD_01606	tRNA	72				tRNA-Glu(ctc)
+FLAENOFD_01607	gene	1314	ugtP_2			
+FLAENOFD_01607	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+FLAENOFD_01608	gene	168				
+FLAENOFD_01608	CDS	168				hypothetical protein
+FLAENOFD_01609	gene	276				
+FLAENOFD_01609	CDS	276				hypothetical protein
+FLAENOFD_01610	gene	600	recR			
+FLAENOFD_01610	CDS	600	recR		COG0353	Recombination protein RecR
+FLAENOFD_01611	gene	345				
+FLAENOFD_01611	CDS	345			COG0718	Nucleoid-associated protein
+FLAENOFD_01612	gene	1683	ruvB_2			
+FLAENOFD_01612	CDS	1683	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+FLAENOFD_01613	gene	576				
+FLAENOFD_01613	CDS	576				hypothetical protein
+FLAENOFD_01614	gene	642	bcrA_2			
+FLAENOFD_01614	CDS	642	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+FLAENOFD_01615	gene	657				
+FLAENOFD_01615	CDS	657				hypothetical protein
+FLAENOFD_01616	gene	681				
+FLAENOFD_01616	CDS	681				hypothetical protein
+FLAENOFD_01617	gene	768				
+FLAENOFD_01617	CDS	768				hypothetical protein
+FLAENOFD_01618	gene	1701				
+FLAENOFD_01618	CDS	1701				hypothetical protein
+FLAENOFD_01619	gene	762				
+FLAENOFD_01619	CDS	762				hypothetical protein
+FLAENOFD_01620	gene	1011	mreB_2			
+FLAENOFD_01620	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+FLAENOFD_01621	gene	1254	murAA			
+FLAENOFD_01621	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+FLAENOFD_01622	gene	177				
+FLAENOFD_01622	CDS	177				hypothetical protein
+FLAENOFD_01623	gene	1368	glmM			
+FLAENOFD_01623	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+FLAENOFD_01624	gene	555				
+FLAENOFD_01624	CDS	555				hypothetical protein
+FLAENOFD_01625	gene	780	korB			
+FLAENOFD_01625	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+FLAENOFD_01626	gene	1065	padG			
+FLAENOFD_01626	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+FLAENOFD_01627	gene	216	rsxB_2			
+FLAENOFD_01627	CDS	216	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+FLAENOFD_01628	gene	678				
+FLAENOFD_01628	CDS	678				hypothetical protein
+FLAENOFD_01629	gene	1083	buk2			
+FLAENOFD_01629	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+FLAENOFD_01630	gene	915	cdaR			
+FLAENOFD_01630	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+FLAENOFD_01631	gene	852	cdaA			
+FLAENOFD_01631	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+FLAENOFD_01632	gene	76				
+FLAENOFD_01632	tRNA	76				tRNA-Pyl(cta)
+FLAENOFD_01633	gene	717	Int-Tn			
+FLAENOFD_01633	CDS	717	Int-Tn			Transposase from transposon Tn916
+FLAENOFD_01634	gene	438	metG_2			
+FLAENOFD_01634	CDS	438	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+FLAENOFD_01635	gene	1335				
+FLAENOFD_01635	CDS	1335				hypothetical protein
+FLAENOFD_01636	gene	708				
+FLAENOFD_01636	CDS	708				hypothetical protein
+FLAENOFD_01637	gene	2532				
+FLAENOFD_01637	CDS	2532				hypothetical protein
+FLAENOFD_01638	gene	675				
+FLAENOFD_01638	CDS	675			COG1136	putative ABC transporter ATP-binding protein
+FLAENOFD_01639	gene	720				
+FLAENOFD_01639	CDS	720				hypothetical protein
+FLAENOFD_01640	gene	1095				
+FLAENOFD_01640	CDS	1095				hypothetical protein
+FLAENOFD_01641	gene	1182				
+FLAENOFD_01641	CDS	1182		2.6.1.1		Aspartate aminotransferase
+FLAENOFD_01642	gene	510				
+FLAENOFD_01642	CDS	510				hypothetical protein
+FLAENOFD_01643	gene	453				
+FLAENOFD_01643	CDS	453				hypothetical protein
+FLAENOFD_01644	gene	396				
+FLAENOFD_01644	CDS	396				hypothetical protein
+FLAENOFD_01645	gene	405				
+FLAENOFD_01645	CDS	405				hypothetical protein
+FLAENOFD_01646	gene	408				
+FLAENOFD_01646	CDS	408				hypothetical protein
+FLAENOFD_01647	gene	852				
+FLAENOFD_01647	CDS	852				hypothetical protein
+FLAENOFD_01648	gene	5994				
+FLAENOFD_01648	CDS	5994				hypothetical protein
+FLAENOFD_01649	gene	89				
+FLAENOFD_01649	rRNA	89				5S ribosomal RNA (partial)
+FLAENOFD_01650	gene	393	rpsI			
+FLAENOFD_01650	CDS	393	rpsI			30S ribosomal protein S9
+FLAENOFD_01651	gene	429	rplM			
+FLAENOFD_01651	CDS	429	rplM		COG0102	50S ribosomal protein L13
+FLAENOFD_01652	gene	1254				
+FLAENOFD_01652	CDS	1254				hypothetical protein
+FLAENOFD_01653	gene	918				
+FLAENOFD_01653	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+FLAENOFD_01654	gene	1071				
+FLAENOFD_01654	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FLAENOFD_01655	gene	762	truA			
+FLAENOFD_01655	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+FLAENOFD_01656	gene	1827	glmS			
+FLAENOFD_01656	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FLAENOFD_01657	gene	1401				
+FLAENOFD_01657	CDS	1401				hypothetical protein
+FLAENOFD_01658	gene	783				
+FLAENOFD_01658	CDS	783				ISL3 family transposase ISSsu6
+FLAENOFD_01659	gene	255	veg			
+FLAENOFD_01659	CDS	255	veg		COG4466	Protein Veg
+FLAENOFD_01660	gene	495				
+FLAENOFD_01660	CDS	495				hypothetical protein
+FLAENOFD_01661	gene	711				
+FLAENOFD_01661	CDS	711				hypothetical protein
+FLAENOFD_01662	gene	681	rluC			
+FLAENOFD_01662	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+FLAENOFD_01663	gene	870	rlmL_2			
+FLAENOFD_01663	CDS	870	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+FLAENOFD_01664	gene	1422	pqqE			
+FLAENOFD_01664	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+FLAENOFD_01665	gene	510	ftnA			
+FLAENOFD_01665	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+FLAENOFD_01666	gene	471				
+FLAENOFD_01666	CDS	471				hypothetical protein
+FLAENOFD_01667	gene	564				
+FLAENOFD_01667	CDS	564				hypothetical protein
+FLAENOFD_01668	gene	888	cysK			
+FLAENOFD_01668	CDS	888	cysK	2.5.1.47		Cysteine synthase
+FLAENOFD_01669	gene	597	cysE			
+FLAENOFD_01669	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+FLAENOFD_01670	gene	657				
+FLAENOFD_01670	CDS	657				hypothetical protein
+FLAENOFD_01671	gene	282				
+FLAENOFD_01671	CDS	282				hypothetical protein
+FLAENOFD_01672	gene	1938	epmA			
+FLAENOFD_01672	CDS	1938	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+FLAENOFD_01673	gene	486	greA			
+FLAENOFD_01673	CDS	486	greA		COG0782	Transcription elongation factor GreA
+FLAENOFD_01674	gene	2487				
+FLAENOFD_01674	CDS	2487				hypothetical protein
+FLAENOFD_01675	gene	351				
+FLAENOFD_01675	CDS	351				hypothetical protein
+FLAENOFD_01676	gene	258				
+FLAENOFD_01676	CDS	258				hypothetical protein
+FLAENOFD_01677	gene	1299				
+FLAENOFD_01677	CDS	1299				hypothetical protein
+FLAENOFD_01678	gene	552	rpoE			
+FLAENOFD_01678	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+FLAENOFD_01679	gene	729	yoaB			
+FLAENOFD_01679	CDS	729	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+FLAENOFD_01680	gene	330				
+FLAENOFD_01680	CDS	330				hypothetical protein
+FLAENOFD_01681	gene	1077	cshE			
+FLAENOFD_01681	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+FLAENOFD_01682	gene	1974	leuC			
+FLAENOFD_01682	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+FLAENOFD_01683	gene	1035	icd			
+FLAENOFD_01683	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+FLAENOFD_01684	gene	888	nadK			
+FLAENOFD_01684	CDS	888	nadK	2.7.1.23		NAD kinase
+FLAENOFD_01685	gene	933	rluD_2			
+FLAENOFD_01685	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FLAENOFD_01686	gene	1170	opuCA			
+FLAENOFD_01686	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+FLAENOFD_01687	gene	1662				
+FLAENOFD_01687	CDS	1662				hypothetical protein
+FLAENOFD_01688	gene	636	opuCD			
+FLAENOFD_01688	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+FLAENOFD_01689	gene	465	bcp			
+FLAENOFD_01689	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FLAENOFD_01690	gene	2109	ligA			
+FLAENOFD_01690	CDS	2109	ligA	6.5.1.2		DNA ligase
+FLAENOFD_01691	gene	429				
+FLAENOFD_01691	CDS	429		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+FLAENOFD_01692	gene	474				
+FLAENOFD_01692	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+FLAENOFD_01693	gene	1284	tig			
+FLAENOFD_01693	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+FLAENOFD_01694	gene	585	clpP			
+FLAENOFD_01694	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+FLAENOFD_01695	gene	1266	clpX			
+FLAENOFD_01695	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+FLAENOFD_01696	gene	1392	nhaC			
+FLAENOFD_01696	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+FLAENOFD_01697	gene	942				
+FLAENOFD_01697	CDS	942				IS481 family transposase ISSsu8
+FLAENOFD_01698	gene	510				
+FLAENOFD_01698	CDS	510				hypothetical protein
+FLAENOFD_01699	gene	522	apt			
+FLAENOFD_01699	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+FLAENOFD_01700	gene	2484				
+FLAENOFD_01700	CDS	2484				hypothetical protein
+FLAENOFD_01701	gene	753	ubiB			
+FLAENOFD_01701	CDS	753	ubiB	2.7.-.-		protein kinase UbiB
+FLAENOFD_01702	gene	3441	pycA			
+FLAENOFD_01702	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+FLAENOFD_01703	gene	89				
+FLAENOFD_01703	rRNA	89				5S ribosomal RNA (partial)
+FLAENOFD_01704	gene	1659	glnS			
+FLAENOFD_01704	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+FLAENOFD_01705	gene	558				
+FLAENOFD_01705	CDS	558				hypothetical protein
+FLAENOFD_01706	gene	1440	miaB			
+FLAENOFD_01706	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FLAENOFD_01707	gene	768				
+FLAENOFD_01707	CDS	768				hypothetical protein
+FLAENOFD_01708	gene	303				
+FLAENOFD_01708	CDS	303				hypothetical protein
+FLAENOFD_01709	gene	864				
+FLAENOFD_01709	CDS	864				hypothetical protein
+FLAENOFD_01710	gene	645				
+FLAENOFD_01710	CDS	645				hypothetical protein
+FLAENOFD_01711	gene	234				
+FLAENOFD_01711	CDS	234				hypothetical protein
+FLAENOFD_01712	gene	1014	ccpA			
+FLAENOFD_01712	CDS	1014	ccpA		COG1609	Catabolite control protein A
+FLAENOFD_01713	gene	228	acpP_2			
+FLAENOFD_01713	CDS	228	acpP_2			Acyl carrier protein
+FLAENOFD_01714	gene	213				
+FLAENOFD_01714	CDS	213				hypothetical protein
+FLAENOFD_01715	gene	540				
+FLAENOFD_01715	CDS	540				hypothetical protein
+FLAENOFD_01716	gene	648				
+FLAENOFD_01716	CDS	648				hypothetical protein

@@ -1,0 +1,1713 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GEFBOJOP_00001	gene	360	gmk			
+GEFBOJOP_00001	CDS	360	gmk	2.7.4.8	COG0194	Guanylate kinase
+GEFBOJOP_00002	gene	267	rpoZ			
+GEFBOJOP_00002	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+GEFBOJOP_00003	gene	1212	undec1A			
+GEFBOJOP_00003	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+GEFBOJOP_00004	gene	2313	priA			
+GEFBOJOP_00004	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+GEFBOJOP_00005	gene	456	def1			
+GEFBOJOP_00005	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+GEFBOJOP_00006	gene	930	fmt			
+GEFBOJOP_00006	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+GEFBOJOP_00007	gene	690				
+GEFBOJOP_00007	CDS	690				hypothetical protein
+GEFBOJOP_00008	gene	1344	rsmB			
+GEFBOJOP_00008	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+GEFBOJOP_00009	gene	1038	rlmN			
+GEFBOJOP_00009	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+GEFBOJOP_00010	gene	750	stp			
+GEFBOJOP_00010	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+GEFBOJOP_00011	gene	441				
+GEFBOJOP_00011	CDS	441				hypothetical protein
+GEFBOJOP_00012	gene	1422				
+GEFBOJOP_00012	CDS	1422				hypothetical protein
+GEFBOJOP_00013	gene	1227				
+GEFBOJOP_00013	CDS	1227				hypothetical protein
+GEFBOJOP_00014	gene	342	rplQ			
+GEFBOJOP_00014	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+GEFBOJOP_00015	gene	948	rpoA			
+GEFBOJOP_00015	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+GEFBOJOP_00016	gene	402	rpsK			
+GEFBOJOP_00016	CDS	402	rpsK			30S ribosomal protein S11
+GEFBOJOP_00017	gene	369	rpsM			
+GEFBOJOP_00017	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+GEFBOJOP_00018	gene	114	rpmJ			
+GEFBOJOP_00018	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+GEFBOJOP_00019	gene	219	infA			
+GEFBOJOP_00019	CDS	219	infA		COG0361	Translation initiation factor IF-1
+GEFBOJOP_00020	gene	270				
+GEFBOJOP_00020	CDS	270				hypothetical protein
+GEFBOJOP_00021	gene	642	adk			
+GEFBOJOP_00021	CDS	642	adk	2.7.4.3		Adenylate kinase
+GEFBOJOP_00022	gene	1269	secY			
+GEFBOJOP_00022	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+GEFBOJOP_00023	gene	444	rplO			
+GEFBOJOP_00023	CDS	444	rplO			50S ribosomal protein L15
+GEFBOJOP_00024	gene	339				
+GEFBOJOP_00024	CDS	339				hypothetical protein
+GEFBOJOP_00025	gene	297				
+GEFBOJOP_00025	CDS	297				hypothetical protein
+GEFBOJOP_00026	gene	1128				
+GEFBOJOP_00026	CDS	1128				hypothetical protein
+GEFBOJOP_00027	gene	1140				
+GEFBOJOP_00027	CDS	1140				hypothetical protein
+GEFBOJOP_00028	gene	723	pyrF			
+GEFBOJOP_00028	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+GEFBOJOP_00029	gene	1050	carA_1			
+GEFBOJOP_00029	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+GEFBOJOP_00030	gene	1011	carE			
+GEFBOJOP_00030	CDS	1011	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+GEFBOJOP_00031	gene	786	carD_1			
+GEFBOJOP_00031	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+GEFBOJOP_00032	gene	1143	carC_1			
+GEFBOJOP_00032	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+GEFBOJOP_00033	gene	1125	hadC			
+GEFBOJOP_00033	CDS	1125	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+GEFBOJOP_00034	gene	1233	hadB			
+GEFBOJOP_00034	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+GEFBOJOP_00035	gene	1212	fldA_1			
+GEFBOJOP_00035	CDS	1212	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+GEFBOJOP_00036	gene	1023				
+GEFBOJOP_00036	CDS	1023				hypothetical protein
+GEFBOJOP_00037	gene	912	dusB			
+GEFBOJOP_00037	CDS	912	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+GEFBOJOP_00038	gene	1548	carA_2			
+GEFBOJOP_00038	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+GEFBOJOP_00039	gene	1014	gloB			
+GEFBOJOP_00039	CDS	1014	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+GEFBOJOP_00040	gene	828	COQ3			
+GEFBOJOP_00040	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+GEFBOJOP_00041	gene	1221	ask			
+GEFBOJOP_00041	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+GEFBOJOP_00042	gene	909	thrB			
+GEFBOJOP_00042	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+GEFBOJOP_00043	gene	1050	thrC			
+GEFBOJOP_00043	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+GEFBOJOP_00044	gene	834	hom			
+GEFBOJOP_00044	CDS	834	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+GEFBOJOP_00045	gene	936	aptB			
+GEFBOJOP_00045	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+GEFBOJOP_00046	gene	813	aptA			
+GEFBOJOP_00046	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+GEFBOJOP_00047	gene	372	acpS			
+GEFBOJOP_00047	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+GEFBOJOP_00048	gene	1320	sasA			
+GEFBOJOP_00048	CDS	1320	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+GEFBOJOP_00049	gene	744	regX3_1			
+GEFBOJOP_00049	CDS	744	regX3_1		COG0745	Sensory transduction protein regX3
+GEFBOJOP_00050	gene	1377				
+GEFBOJOP_00050	CDS	1377				hypothetical protein
+GEFBOJOP_00051	gene	645				
+GEFBOJOP_00051	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+GEFBOJOP_00052	gene	954				
+GEFBOJOP_00052	CDS	954				hypothetical protein
+GEFBOJOP_00053	gene	582	rsmI			
+GEFBOJOP_00053	CDS	582	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+GEFBOJOP_00054	gene	1437	pncB2			
+GEFBOJOP_00054	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+GEFBOJOP_00055	gene	456	lrpC			
+GEFBOJOP_00055	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+GEFBOJOP_00056	gene	1941	metG			
+GEFBOJOP_00056	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+GEFBOJOP_00057	gene	771	ycfH			
+GEFBOJOP_00057	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+GEFBOJOP_00058	gene	834	trpS			
+GEFBOJOP_00058	CDS	834	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+GEFBOJOP_00059	gene	768				
+GEFBOJOP_00059	CDS	768				hypothetical protein
+GEFBOJOP_00060	gene	480	lspA			
+GEFBOJOP_00060	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+GEFBOJOP_00061	gene	933	rluD_1			
+GEFBOJOP_00061	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+GEFBOJOP_00062	gene	525	pyrR			
+GEFBOJOP_00062	CDS	525	pyrR			Bifunctional protein PyrR
+GEFBOJOP_00063	gene	1764	rqcH			
+GEFBOJOP_00063	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+GEFBOJOP_00064	gene	825	ydjP			
+GEFBOJOP_00064	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+GEFBOJOP_00065	gene	279	yjdJ			
+GEFBOJOP_00065	CDS	279	yjdJ		COG2388	putative protein YjdJ
+GEFBOJOP_00066	gene	447				
+GEFBOJOP_00066	CDS	447				hypothetical protein
+GEFBOJOP_00067	gene	597	cysE			
+GEFBOJOP_00067	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+GEFBOJOP_00068	gene	888	cysK			
+GEFBOJOP_00068	CDS	888	cysK	2.5.1.47		Cysteine synthase
+GEFBOJOP_00069	gene	564				
+GEFBOJOP_00069	CDS	564				hypothetical protein
+GEFBOJOP_00070	gene	471				
+GEFBOJOP_00070	CDS	471				hypothetical protein
+GEFBOJOP_00071	gene	510	ftnA			
+GEFBOJOP_00071	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+GEFBOJOP_00072	gene	1422	pqqE			
+GEFBOJOP_00072	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+GEFBOJOP_00073	gene	870	rlmL_1			
+GEFBOJOP_00073	CDS	870	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+GEFBOJOP_00074	gene	315				
+GEFBOJOP_00074	CDS	315				hypothetical protein
+GEFBOJOP_00075	gene	378				
+GEFBOJOP_00075	CDS	378				hypothetical protein
+GEFBOJOP_00076	gene	597				
+GEFBOJOP_00076	CDS	597				hypothetical protein
+GEFBOJOP_00077	gene	1113				
+GEFBOJOP_00077	CDS	1113				hypothetical protein
+GEFBOJOP_00078	gene	1119				
+GEFBOJOP_00078	CDS	1119				hypothetical protein
+GEFBOJOP_00079	gene	933	lnrL_1			
+GEFBOJOP_00079	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+GEFBOJOP_00080	gene	270	cysG_1			
+GEFBOJOP_00080	CDS	270	cysG_1	4.99.1.4		Siroheme synthase
+GEFBOJOP_00081	gene	147	cysG_2			
+GEFBOJOP_00081	CDS	147	cysG_2	4.99.1.4		Siroheme synthase
+GEFBOJOP_00082	gene	969	hemB			
+GEFBOJOP_00082	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+GEFBOJOP_00083	gene	1524	cysG_3			
+GEFBOJOP_00083	CDS	1524	cysG_3	4.99.1.4		Siroheme synthase
+GEFBOJOP_00084	gene	933	hemC			
+GEFBOJOP_00084	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+GEFBOJOP_00085	gene	366	bioB_1			
+GEFBOJOP_00085	CDS	366	bioB_1	2.8.1.6	COG0502	Biotin synthase
+GEFBOJOP_00086	gene	243				
+GEFBOJOP_00086	CDS	243				hypothetical protein
+GEFBOJOP_00087	gene	1278				
+GEFBOJOP_00087	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+GEFBOJOP_00088	gene	600	COQ5			
+GEFBOJOP_00088	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GEFBOJOP_00089	gene	921				
+GEFBOJOP_00089	CDS	921				hypothetical protein
+GEFBOJOP_00090	gene	543	yajL			
+GEFBOJOP_00090	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+GEFBOJOP_00091	gene	522	bcrC			
+GEFBOJOP_00091	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+GEFBOJOP_00092	gene	1077				
+GEFBOJOP_00092	CDS	1077				hypothetical protein
+GEFBOJOP_00093	gene	612				
+GEFBOJOP_00093	CDS	612				hypothetical protein
+GEFBOJOP_00094	gene	1461				
+GEFBOJOP_00094	CDS	1461				hypothetical protein
+GEFBOJOP_00095	gene	765	fpuC			
+GEFBOJOP_00095	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+GEFBOJOP_00096	gene	1065	isdF			
+GEFBOJOP_00096	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+GEFBOJOP_00097	gene	918	isdE			
+GEFBOJOP_00097	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+GEFBOJOP_00098	gene	1125				
+GEFBOJOP_00098	CDS	1125				hypothetical protein
+GEFBOJOP_00099	gene	672				
+GEFBOJOP_00099	CDS	672				hypothetical protein
+GEFBOJOP_00100	gene	885	rbgA			
+GEFBOJOP_00100	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+GEFBOJOP_00101	gene	1164	alr1_1			
+GEFBOJOP_00101	CDS	1164	alr1_1	5.1.1.1	COG0787	Alanine racemase 1
+GEFBOJOP_00102	gene	792	rnhB			
+GEFBOJOP_00102	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GEFBOJOP_00103	gene	1017	hmo_1			
+GEFBOJOP_00103	CDS	1017	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+GEFBOJOP_00104	gene	363				
+GEFBOJOP_00104	CDS	363				hypothetical protein
+GEFBOJOP_00105	gene	549				
+GEFBOJOP_00105	CDS	549				Nucleobase transporter PlUacP
+GEFBOJOP_00106	gene	570	xpt			
+GEFBOJOP_00106	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+GEFBOJOP_00107	gene	882				
+GEFBOJOP_00107	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+GEFBOJOP_00108	gene	387				
+GEFBOJOP_00108	CDS	387				hypothetical protein
+GEFBOJOP_00109	gene	1431				
+GEFBOJOP_00109	CDS	1431				hypothetical protein
+GEFBOJOP_00110	gene	846				
+GEFBOJOP_00110	CDS	846				hypothetical protein
+GEFBOJOP_00111	gene	495				
+GEFBOJOP_00111	CDS	495				hypothetical protein
+GEFBOJOP_00112	gene	246				
+GEFBOJOP_00112	CDS	246				hypothetical protein
+GEFBOJOP_00113	gene	660				
+GEFBOJOP_00113	CDS	660				hypothetical protein
+GEFBOJOP_00114	gene	1221				
+GEFBOJOP_00114	CDS	1221				hypothetical protein
+GEFBOJOP_00115	gene	735				
+GEFBOJOP_00115	CDS	735		3.1.3.-	COG0560	putative phosphatase
+GEFBOJOP_00116	gene	291				
+GEFBOJOP_00116	CDS	291				hypothetical protein
+GEFBOJOP_00117	gene	627				
+GEFBOJOP_00117	CDS	627				hypothetical protein
+GEFBOJOP_00118	gene	408				
+GEFBOJOP_00118	CDS	408				hypothetical protein
+GEFBOJOP_00119	gene	438	sufU			
+GEFBOJOP_00119	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+GEFBOJOP_00120	gene	357	csd			
+GEFBOJOP_00120	CDS	357	csd	2.8.1.7		putative cysteine desulfurase
+GEFBOJOP_00121	gene	1311				
+GEFBOJOP_00121	CDS	1311				ISL3 family transposase IS1476
+GEFBOJOP_00122	gene	876				
+GEFBOJOP_00122	CDS	876				DegV domain-containing protein
+GEFBOJOP_00123	gene	471	trmL			
+GEFBOJOP_00123	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+GEFBOJOP_00124	gene	639	pdg			
+GEFBOJOP_00124	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+GEFBOJOP_00125	gene	1656	udk			
+GEFBOJOP_00125	CDS	1656	udk	2.7.1.48		Uridine kinase
+GEFBOJOP_00126	gene	606	sipT			
+GEFBOJOP_00126	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+GEFBOJOP_00127	gene	207				
+GEFBOJOP_00127	CDS	207				hypothetical protein
+GEFBOJOP_00128	gene	657	apu			
+GEFBOJOP_00128	CDS	657	apu		COG0366	Amylopullulanase
+GEFBOJOP_00129	gene	1479	malQ			
+GEFBOJOP_00129	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+GEFBOJOP_00130	gene	1086	potD			
+GEFBOJOP_00130	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+GEFBOJOP_00131	gene	807				
+GEFBOJOP_00131	CDS	807				hypothetical protein
+GEFBOJOP_00132	gene	867	potB			
+GEFBOJOP_00132	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+GEFBOJOP_00133	gene	945	potA			
+GEFBOJOP_00133	CDS	945	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+GEFBOJOP_00134	gene	1251	dinB			
+GEFBOJOP_00134	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+GEFBOJOP_00135	gene	849	nadC			
+GEFBOJOP_00135	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GEFBOJOP_00136	gene	1311	nadB			
+GEFBOJOP_00136	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+GEFBOJOP_00137	gene	909	nadA			
+GEFBOJOP_00137	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GEFBOJOP_00138	gene	699				
+GEFBOJOP_00138	CDS	699				hypothetical protein
+GEFBOJOP_00139	gene	1551	ybiT			
+GEFBOJOP_00139	CDS	1551	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+GEFBOJOP_00140	gene	2766	mtgA_1			
+GEFBOJOP_00140	CDS	2766	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+GEFBOJOP_00141	gene	372	dbpA			
+GEFBOJOP_00141	CDS	372	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+GEFBOJOP_00142	gene	639	cbiC			
+GEFBOJOP_00142	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+GEFBOJOP_00143	gene	885	pduX			
+GEFBOJOP_00143	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+GEFBOJOP_00144	gene	1092	cobD			
+GEFBOJOP_00144	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+GEFBOJOP_00145	gene	1041	cbiB			
+GEFBOJOP_00145	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+GEFBOJOP_00146	gene	1395	cbiA			
+GEFBOJOP_00146	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+GEFBOJOP_00147	gene	2514				
+GEFBOJOP_00147	CDS	2514				hypothetical protein
+GEFBOJOP_00148	gene	756				
+GEFBOJOP_00148	CDS	756				hypothetical protein
+GEFBOJOP_00149	gene	1584				
+GEFBOJOP_00149	CDS	1584				hypothetical protein
+GEFBOJOP_00150	gene	300				
+GEFBOJOP_00150	CDS	300				hypothetical protein
+GEFBOJOP_00151	gene	1872	yjcD			
+GEFBOJOP_00151	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+GEFBOJOP_00152	gene	885				
+GEFBOJOP_00152	CDS	885				hypothetical protein
+GEFBOJOP_00153	gene	858	pdxS			
+GEFBOJOP_00153	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GEFBOJOP_00154	gene	1362	gabR			
+GEFBOJOP_00154	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+GEFBOJOP_00155	gene	924	fba			
+GEFBOJOP_00155	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+GEFBOJOP_00156	gene	906				
+GEFBOJOP_00156	CDS	906				hypothetical protein
+GEFBOJOP_00157	gene	1104				
+GEFBOJOP_00157	CDS	1104				hypothetical protein
+GEFBOJOP_00158	gene	1548				
+GEFBOJOP_00158	CDS	1548				hypothetical protein
+GEFBOJOP_00159	gene	255	cbiJ			
+GEFBOJOP_00159	CDS	255	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+GEFBOJOP_00160	gene	459	tsaE			
+GEFBOJOP_00160	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GEFBOJOP_00161	gene	921				
+GEFBOJOP_00161	CDS	921				hypothetical protein
+GEFBOJOP_00162	gene	795	fldI			
+GEFBOJOP_00162	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+GEFBOJOP_00163	gene	621	ribU			
+GEFBOJOP_00163	CDS	621	ribU			Riboflavin transporter RibU
+GEFBOJOP_00164	gene	1665	yhgF			
+GEFBOJOP_00164	CDS	1665	yhgF		COG2183	Protein YhgF
+GEFBOJOP_00165	gene	732				
+GEFBOJOP_00165	CDS	732				hypothetical protein
+GEFBOJOP_00166	gene	1227	dctA			
+GEFBOJOP_00166	CDS	1227	dctA		COG1301	C4-dicarboxylate transport protein
+GEFBOJOP_00167	gene	912	pyrB			
+GEFBOJOP_00167	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+GEFBOJOP_00168	gene	690	pyrK			
+GEFBOJOP_00168	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+GEFBOJOP_00169	gene	903	pyrD			
+GEFBOJOP_00169	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GEFBOJOP_00170	gene	582	pyrE			
+GEFBOJOP_00170	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GEFBOJOP_00171	gene	2424	lon1			
+GEFBOJOP_00171	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+GEFBOJOP_00172	gene	723	engB			
+GEFBOJOP_00172	CDS	723	engB			GTP-binding protein EngB
+GEFBOJOP_00173	gene	546	hpt_1			
+GEFBOJOP_00173	CDS	546	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+GEFBOJOP_00174	gene	288	pagR			
+GEFBOJOP_00174	CDS	288	pagR			Transcriptional repressor PagR
+GEFBOJOP_00175	gene	846	radA			
+GEFBOJOP_00175	CDS	846	radA	3.6.4.-	COG1066	DNA repair protein RadA
+GEFBOJOP_00176	gene	1077	disA			
+GEFBOJOP_00176	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+GEFBOJOP_00177	gene	1092	yacL			
+GEFBOJOP_00177	CDS	1092	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+GEFBOJOP_00178	gene	1446	proS			
+GEFBOJOP_00178	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GEFBOJOP_00179	gene	240				
+GEFBOJOP_00179	CDS	240				hypothetical protein
+GEFBOJOP_00180	gene	630	upp			
+GEFBOJOP_00180	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+GEFBOJOP_00181	gene	447	ywlF			
+GEFBOJOP_00181	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+GEFBOJOP_00182	gene	1038	ywlC			
+GEFBOJOP_00182	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+GEFBOJOP_00183	gene	1065	prfA			
+GEFBOJOP_00183	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+GEFBOJOP_00184	gene	915	prmC			
+GEFBOJOP_00184	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+GEFBOJOP_00185	gene	591				
+GEFBOJOP_00185	CDS	591				hypothetical protein
+GEFBOJOP_00186	gene	1314	pdp			
+GEFBOJOP_00186	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+GEFBOJOP_00187	gene	2127	purQ			
+GEFBOJOP_00187	CDS	2127	purQ	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+GEFBOJOP_00188	gene	510				
+GEFBOJOP_00188	CDS	510			COG1132	putative ABC transporter ATP-binding/permease protein
+GEFBOJOP_00189	gene	927				
+GEFBOJOP_00189	CDS	927				hypothetical protein
+GEFBOJOP_00190	gene	1056				
+GEFBOJOP_00190	CDS	1056				hypothetical protein
+GEFBOJOP_00191	gene	480				
+GEFBOJOP_00191	CDS	480				hypothetical protein
+GEFBOJOP_00192	gene	546				
+GEFBOJOP_00192	CDS	546			COG3599	putative protein
+GEFBOJOP_00193	gene	483	coaD			
+GEFBOJOP_00193	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+GEFBOJOP_00194	gene	561	rsmD			
+GEFBOJOP_00194	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+GEFBOJOP_00195	gene	2058	recG			
+GEFBOJOP_00195	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+GEFBOJOP_00196	gene	168				
+GEFBOJOP_00196	CDS	168				hypothetical protein
+GEFBOJOP_00197	gene	1113	mrdB			
+GEFBOJOP_00197	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+GEFBOJOP_00198	gene	2898	mrdA			
+GEFBOJOP_00198	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+GEFBOJOP_00199	gene	405				
+GEFBOJOP_00199	CDS	405				hypothetical protein
+GEFBOJOP_00200	gene	1719				
+GEFBOJOP_00200	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+GEFBOJOP_00201	gene	1743	msbA			
+GEFBOJOP_00201	CDS	1743	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+GEFBOJOP_00202	gene	588				
+GEFBOJOP_00202	CDS	588				hypothetical protein
+GEFBOJOP_00203	gene	450	metN			
+GEFBOJOP_00203	CDS	450	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+GEFBOJOP_00204	gene	882				
+GEFBOJOP_00204	CDS	882			COG1702	PhoH-like protein
+GEFBOJOP_00205	gene	462	ybeY			
+GEFBOJOP_00205	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+GEFBOJOP_00206	gene	897				
+GEFBOJOP_00206	CDS	897				hypothetical protein
+GEFBOJOP_00207	gene	903	era			
+GEFBOJOP_00207	CDS	903	era			GTPase Era
+GEFBOJOP_00208	gene	1377				
+GEFBOJOP_00208	CDS	1377			COG2239	Magnesium transporter MgtE
+GEFBOJOP_00209	gene	600	fbpC			
+GEFBOJOP_00209	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+GEFBOJOP_00210	gene	672	cmpB			
+GEFBOJOP_00210	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+GEFBOJOP_00211	gene	993				
+GEFBOJOP_00211	CDS	993				hypothetical protein
+GEFBOJOP_00212	gene	681	tgnD			
+GEFBOJOP_00212	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+GEFBOJOP_00213	gene	996	btuD			
+GEFBOJOP_00213	CDS	996	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GEFBOJOP_00214	gene	534				
+GEFBOJOP_00214	CDS	534				hypothetical protein
+GEFBOJOP_00215	gene	987				
+GEFBOJOP_00215	CDS	987				hypothetical protein
+GEFBOJOP_00216	gene	2199	ziaA			
+GEFBOJOP_00216	CDS	2199	ziaA	7.2.2.12		Zinc-transporting ATPase
+GEFBOJOP_00217	gene	384	ziaR			
+GEFBOJOP_00217	CDS	384	ziaR			Transcriptional repressor SmtB 
+GEFBOJOP_00218	gene	357				
+GEFBOJOP_00218	CDS	357				hypothetical protein
+GEFBOJOP_00219	gene	177				
+GEFBOJOP_00219	CDS	177				hypothetical protein
+GEFBOJOP_00220	gene	939	ugtP_1			
+GEFBOJOP_00220	CDS	939	ugtP_1	2.4.1.315		Processive diacylglycerol beta-glucosyltransferase
+GEFBOJOP_00221	gene	168				
+GEFBOJOP_00221	CDS	168				hypothetical protein
+GEFBOJOP_00222	gene	276				
+GEFBOJOP_00222	CDS	276				hypothetical protein
+GEFBOJOP_00223	gene	600	recR			
+GEFBOJOP_00223	CDS	600	recR		COG0353	Recombination protein RecR
+GEFBOJOP_00224	gene	345				
+GEFBOJOP_00224	CDS	345			COG0718	Nucleoid-associated protein
+GEFBOJOP_00225	gene	1683	ruvB_1			
+GEFBOJOP_00225	CDS	1683	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+GEFBOJOP_00226	gene	375				
+GEFBOJOP_00226	CDS	375				hypothetical protein
+GEFBOJOP_00227	gene	939				
+GEFBOJOP_00227	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+GEFBOJOP_00228	gene	225	acpP_1			
+GEFBOJOP_00228	CDS	225	acpP_1		COG0236	Acyl carrier protein
+GEFBOJOP_00229	gene	1017	fabH			
+GEFBOJOP_00229	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GEFBOJOP_00230	gene	480				
+GEFBOJOP_00230	CDS	480				hypothetical protein
+GEFBOJOP_00231	gene	744	accA			
+GEFBOJOP_00231	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+GEFBOJOP_00232	gene	858	accD			
+GEFBOJOP_00232	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+GEFBOJOP_00233	gene	498	accC			
+GEFBOJOP_00233	CDS	498	accC	6.3.4.14	COG0439	Biotin carboxylase
+GEFBOJOP_00234	gene	2481				
+GEFBOJOP_00234	CDS	2481				hypothetical protein
+GEFBOJOP_00235	gene	708	ytrE			
+GEFBOJOP_00235	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+GEFBOJOP_00236	gene	282				
+GEFBOJOP_00236	CDS	282				hypothetical protein
+GEFBOJOP_00237	gene	675	glpK			
+GEFBOJOP_00237	CDS	675	glpK	2.7.1.30	COG0554	Glycerol kinase
+GEFBOJOP_00238	gene	2748	mfd			
+GEFBOJOP_00238	CDS	2748	mfd	3.6.4.-		Transcription-repair-coupling factor
+GEFBOJOP_00239	gene	1062	prsA			
+GEFBOJOP_00239	CDS	1062	prsA	5.2.1.8		Foldase protein PrsA
+GEFBOJOP_00240	gene	720				
+GEFBOJOP_00240	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+GEFBOJOP_00241	gene	1218				
+GEFBOJOP_00241	CDS	1218		6.3.1.12		D-aspartate ligase
+GEFBOJOP_00242	gene	303				
+GEFBOJOP_00242	CDS	303				hypothetical protein
+GEFBOJOP_00243	gene	792				
+GEFBOJOP_00243	CDS	792				hypothetical protein
+GEFBOJOP_00244	gene	465	bcp			
+GEFBOJOP_00244	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GEFBOJOP_00245	gene	636	opuCD			
+GEFBOJOP_00245	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+GEFBOJOP_00246	gene	1662				
+GEFBOJOP_00246	CDS	1662				hypothetical protein
+GEFBOJOP_00247	gene	912	cmpR			
+GEFBOJOP_00247	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+GEFBOJOP_00248	gene	201				
+GEFBOJOP_00248	CDS	201				hypothetical protein
+GEFBOJOP_00249	gene	1404	lysN			
+GEFBOJOP_00249	CDS	1404	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+GEFBOJOP_00250	gene	1014	ccpA			
+GEFBOJOP_00250	CDS	1014	ccpA		COG1609	Catabolite control protein A
+GEFBOJOP_00251	gene	228	acpP_2			
+GEFBOJOP_00251	CDS	228	acpP_2			Acyl carrier protein
+GEFBOJOP_00252	gene	549				
+GEFBOJOP_00252	CDS	549				hypothetical protein
+GEFBOJOP_00253	gene	1269				
+GEFBOJOP_00253	CDS	1269				hypothetical protein
+GEFBOJOP_00254	gene	495	sigM			
+GEFBOJOP_00254	CDS	495	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+GEFBOJOP_00255	gene	1083				
+GEFBOJOP_00255	CDS	1083				hypothetical protein
+GEFBOJOP_00256	gene	450				
+GEFBOJOP_00256	CDS	450				hypothetical protein
+GEFBOJOP_00257	gene	831				
+GEFBOJOP_00257	CDS	831				hypothetical protein
+GEFBOJOP_00258	gene	1527	gpmI			
+GEFBOJOP_00258	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GEFBOJOP_00259	gene	741	tpiA			
+GEFBOJOP_00259	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+GEFBOJOP_00260	gene	1200	pgk			
+GEFBOJOP_00260	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GEFBOJOP_00261	gene	462	zur			
+GEFBOJOP_00261	CDS	462	zur		COG0735	Zinc uptake regulation protein
+GEFBOJOP_00262	gene	162				
+GEFBOJOP_00262	CDS	162				Rubredoxin
+GEFBOJOP_00263	gene	801	yycJ			
+GEFBOJOP_00263	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+GEFBOJOP_00264	gene	483	rlmH			
+GEFBOJOP_00264	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+GEFBOJOP_00265	gene	1050				
+GEFBOJOP_00265	CDS	1050				hypothetical protein
+GEFBOJOP_00266	gene	990	dnaA_1			
+GEFBOJOP_00266	CDS	990	dnaA_1			Chromosomal replication initiator protein DnaA
+GEFBOJOP_00267	gene	135				
+GEFBOJOP_00267	CDS	135				hypothetical protein
+GEFBOJOP_00268	gene	351	ssrA			
+GEFBOJOP_00268	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+GEFBOJOP_00269	gene	696	rspR_1			
+GEFBOJOP_00269	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+GEFBOJOP_00270	gene	1245	fldA_2			
+GEFBOJOP_00270	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+GEFBOJOP_00271	gene	1236	fldB			
+GEFBOJOP_00271	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+GEFBOJOP_00272	gene	507	atpF			
+GEFBOJOP_00272	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+GEFBOJOP_00273	gene	543	atpH			
+GEFBOJOP_00273	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+GEFBOJOP_00274	gene	1503	atpA			
+GEFBOJOP_00274	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+GEFBOJOP_00275	gene	999	atpG			
+GEFBOJOP_00275	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+GEFBOJOP_00276	gene	639	pspA_1			
+GEFBOJOP_00276	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GEFBOJOP_00277	gene	771	cobS			
+GEFBOJOP_00277	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+GEFBOJOP_00278	gene	588	cobU			
+GEFBOJOP_00278	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+GEFBOJOP_00279	gene	1083	cobT			
+GEFBOJOP_00279	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+GEFBOJOP_00280	gene	171				
+GEFBOJOP_00280	CDS	171				hypothetical protein
+GEFBOJOP_00281	gene	702				
+GEFBOJOP_00281	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+GEFBOJOP_00282	gene	3336	rpoC			
+GEFBOJOP_00282	CDS	3336	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+GEFBOJOP_00283	gene	411	dnaK			
+GEFBOJOP_00283	CDS	411	dnaK		COG0443	Chaperone protein DnaK
+GEFBOJOP_00284	gene	1155	dnaJ			
+GEFBOJOP_00284	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+GEFBOJOP_00285	gene	717				
+GEFBOJOP_00285	CDS	717				hypothetical protein
+GEFBOJOP_00286	gene	867	comEC			
+GEFBOJOP_00286	CDS	867	comEC		COG0658	ComE operon protein 3
+GEFBOJOP_00287	gene	906				
+GEFBOJOP_00287	CDS	906				hypothetical protein
+GEFBOJOP_00288	gene	240	ispA			
+GEFBOJOP_00288	CDS	240	ispA	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+GEFBOJOP_00289	gene	432				
+GEFBOJOP_00289	CDS	432				hypothetical protein
+GEFBOJOP_00290	gene	1947	dxs			
+GEFBOJOP_00290	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+GEFBOJOP_00291	gene	843	tlyA			
+GEFBOJOP_00291	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+GEFBOJOP_00292	gene	582	thiG			
+GEFBOJOP_00292	CDS	582	thiG	2.8.1.10	COG2022	Thiazole synthase
+GEFBOJOP_00293	gene	1176	thiH			
+GEFBOJOP_00293	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+GEFBOJOP_00294	gene	1176	tadA			
+GEFBOJOP_00294	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+GEFBOJOP_00295	gene	1635				
+GEFBOJOP_00295	CDS	1635				hypothetical protein
+GEFBOJOP_00296	gene	444	rnmV			
+GEFBOJOP_00296	CDS	444	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+GEFBOJOP_00297	gene	879	rsmA			
+GEFBOJOP_00297	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+GEFBOJOP_00298	gene	870				
+GEFBOJOP_00298	CDS	870				hypothetical protein
+GEFBOJOP_00299	gene	1362	murC			
+GEFBOJOP_00299	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+GEFBOJOP_00300	gene	378	cbiD			
+GEFBOJOP_00300	CDS	378	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+GEFBOJOP_00301	gene	714	cbiE			
+GEFBOJOP_00301	CDS	714	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+GEFBOJOP_00302	gene	567	cbiT			
+GEFBOJOP_00302	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+GEFBOJOP_00303	gene	759	cbiF			
+GEFBOJOP_00303	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+GEFBOJOP_00304	gene	1200	cbiG			
+GEFBOJOP_00304	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+GEFBOJOP_00305	gene	726	cbiH			
+GEFBOJOP_00305	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+GEFBOJOP_00306	gene	954				
+GEFBOJOP_00306	CDS	954				hypothetical protein
+GEFBOJOP_00307	gene	651				
+GEFBOJOP_00307	CDS	651				hypothetical protein
+GEFBOJOP_00308	gene	486				
+GEFBOJOP_00308	CDS	486				hypothetical protein
+GEFBOJOP_00309	gene	1557				
+GEFBOJOP_00309	CDS	1557				hypothetical protein
+GEFBOJOP_00310	gene	168				
+GEFBOJOP_00310	CDS	168				hypothetical protein
+GEFBOJOP_00311	gene	387				
+GEFBOJOP_00311	CDS	387				hypothetical protein
+GEFBOJOP_00312	gene	1083	yknX			
+GEFBOJOP_00312	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+GEFBOJOP_00313	gene	675	yknY			
+GEFBOJOP_00313	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+GEFBOJOP_00314	gene	1245	macB			
+GEFBOJOP_00314	CDS	1245	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+GEFBOJOP_00315	gene	1275	pyrC			
+GEFBOJOP_00315	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+GEFBOJOP_00316	gene	339				
+GEFBOJOP_00316	CDS	339				hypothetical protein
+GEFBOJOP_00317	gene	786				
+GEFBOJOP_00317	CDS	786				hypothetical protein
+GEFBOJOP_00318	gene	708				
+GEFBOJOP_00318	CDS	708				hypothetical protein
+GEFBOJOP_00319	gene	555				
+GEFBOJOP_00319	CDS	555		3.1.3.-	COG5663	Nucleotidase
+GEFBOJOP_00320	gene	252				
+GEFBOJOP_00320	CDS	252				hypothetical protein
+GEFBOJOP_00321	gene	561	nfrA1			
+GEFBOJOP_00321	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+GEFBOJOP_00322	gene	1239				
+GEFBOJOP_00322	CDS	1239				hypothetical protein
+GEFBOJOP_00323	gene	225				
+GEFBOJOP_00323	CDS	225				hypothetical protein
+GEFBOJOP_00324	gene	228				
+GEFBOJOP_00324	CDS	228				hypothetical protein
+GEFBOJOP_00325	gene	147				
+GEFBOJOP_00325	CDS	147				hypothetical protein
+GEFBOJOP_00326	gene	1473				
+GEFBOJOP_00326	CDS	1473				hypothetical protein
+GEFBOJOP_00327	gene	828	hmo_2			
+GEFBOJOP_00327	CDS	828	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+GEFBOJOP_00328	gene	1311				
+GEFBOJOP_00328	CDS	1311				hypothetical protein
+GEFBOJOP_00329	gene	1326	pepC			
+GEFBOJOP_00329	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+GEFBOJOP_00330	gene	474	htrA			
+GEFBOJOP_00330	CDS	474	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+GEFBOJOP_00331	gene	1533	purH			
+GEFBOJOP_00331	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+GEFBOJOP_00332	gene	1269	purD			
+GEFBOJOP_00332	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GEFBOJOP_00333	gene	549	ypfD			
+GEFBOJOP_00333	CDS	549	ypfD		COG0539	30S ribosomal protein S1 
+GEFBOJOP_00334	gene	1422				
+GEFBOJOP_00334	CDS	1422				hypothetical protein
+GEFBOJOP_00335	gene	486				
+GEFBOJOP_00335	CDS	486				hypothetical protein
+GEFBOJOP_00336	gene	846	cvfB			
+GEFBOJOP_00336	CDS	846	cvfB		COG2996	Conserved virulence factor B
+GEFBOJOP_00337	gene	462	cdd			
+GEFBOJOP_00337	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+GEFBOJOP_00338	gene	1023	lnpD			
+GEFBOJOP_00338	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+GEFBOJOP_00339	gene	177				
+GEFBOJOP_00339	CDS	177				hypothetical protein
+GEFBOJOP_00340	gene	1980				
+GEFBOJOP_00340	CDS	1980				hypothetical protein
+GEFBOJOP_00341	gene	336				
+GEFBOJOP_00341	CDS	336				hypothetical protein
+GEFBOJOP_00342	gene	1284	tig			
+GEFBOJOP_00342	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+GEFBOJOP_00343	gene	474				
+GEFBOJOP_00343	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+GEFBOJOP_00344	gene	1461	rph			
+GEFBOJOP_00344	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+GEFBOJOP_00345	gene	222	ligA			
+GEFBOJOP_00345	CDS	222	ligA	6.5.1.2		DNA ligase
+GEFBOJOP_00346	gene	282	groS			
+GEFBOJOP_00346	CDS	282	groS		COG0234	10 kDa chaperonin
+GEFBOJOP_00347	gene	1482	clsA			
+GEFBOJOP_00347	CDS	1482	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+GEFBOJOP_00348	gene	876				
+GEFBOJOP_00348	CDS	876				hypothetical protein
+GEFBOJOP_00349	gene	831				
+GEFBOJOP_00349	CDS	831				hypothetical protein
+GEFBOJOP_00350	gene	1425				
+GEFBOJOP_00350	CDS	1425				hypothetical protein
+GEFBOJOP_00351	gene	765	sufC			
+GEFBOJOP_00351	CDS	765	sufC		COG0396	Vegetative protein 296
+GEFBOJOP_00352	gene	549	lytC_1			
+GEFBOJOP_00352	CDS	549	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GEFBOJOP_00353	gene	2109	nrdE			
+GEFBOJOP_00353	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+GEFBOJOP_00354	gene	2151				
+GEFBOJOP_00354	CDS	2151				hypothetical protein
+GEFBOJOP_00355	gene	1347	pgi			
+GEFBOJOP_00355	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+GEFBOJOP_00356	gene	1614				
+GEFBOJOP_00356	CDS	1614				hypothetical protein
+GEFBOJOP_00357	gene	375				
+GEFBOJOP_00357	CDS	375				hypothetical protein
+GEFBOJOP_00358	gene	309				
+GEFBOJOP_00358	CDS	309				hypothetical protein
+GEFBOJOP_00359	gene	675				
+GEFBOJOP_00359	CDS	675				hypothetical protein
+GEFBOJOP_00360	gene	678				
+GEFBOJOP_00360	CDS	678				hypothetical protein
+GEFBOJOP_00361	gene	654				
+GEFBOJOP_00361	CDS	654				hypothetical protein
+GEFBOJOP_00362	gene	1188	norV			
+GEFBOJOP_00362	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+GEFBOJOP_00363	gene	1365	dnaA_2			
+GEFBOJOP_00363	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+GEFBOJOP_00364	gene	135	rpmH			
+GEFBOJOP_00364	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+GEFBOJOP_00365	gene	378	rnpA			
+GEFBOJOP_00365	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+GEFBOJOP_00366	gene	702	yidC2			
+GEFBOJOP_00366	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+GEFBOJOP_00367	gene	684	thiN			
+GEFBOJOP_00367	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+GEFBOJOP_00368	gene	657	rpe			
+GEFBOJOP_00368	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+GEFBOJOP_00369	gene	900	rsgA			
+GEFBOJOP_00369	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+GEFBOJOP_00370	gene	735	fabG_1			
+GEFBOJOP_00370	CDS	735	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GEFBOJOP_00371	gene	1095				
+GEFBOJOP_00371	CDS	1095				hypothetical protein
+GEFBOJOP_00372	gene	903				
+GEFBOJOP_00372	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+GEFBOJOP_00373	gene	426				
+GEFBOJOP_00373	CDS	426			COG0716	Flavodoxin
+GEFBOJOP_00374	gene	585				
+GEFBOJOP_00374	CDS	585				hypothetical protein
+GEFBOJOP_00375	gene	609	glyS			
+GEFBOJOP_00375	CDS	609	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+GEFBOJOP_00376	gene	540	pgsA			
+GEFBOJOP_00376	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GEFBOJOP_00377	gene	1323	rimO			
+GEFBOJOP_00377	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+GEFBOJOP_00378	gene	1683	spoIIIE			
+GEFBOJOP_00378	CDS	1683	spoIIIE		COG1674	DNA translocase SpoIIIE
+GEFBOJOP_00379	gene	324				
+GEFBOJOP_00379	CDS	324				hypothetical protein
+GEFBOJOP_00380	gene	897	lacC			
+GEFBOJOP_00380	CDS	897	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+GEFBOJOP_00381	gene	1875	fruA			
+GEFBOJOP_00381	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+GEFBOJOP_00382	gene	246				
+GEFBOJOP_00382	CDS	246				hypothetical protein
+GEFBOJOP_00383	gene	897				
+GEFBOJOP_00383	CDS	897				hypothetical protein
+GEFBOJOP_00384	gene	939				
+GEFBOJOP_00384	CDS	939				hypothetical protein
+GEFBOJOP_00385	gene	702	tmk			
+GEFBOJOP_00385	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+GEFBOJOP_00386	gene	780	speA			
+GEFBOJOP_00386	CDS	780	speA	4.1.1.19	COG1982	Arginine decarboxylase
+GEFBOJOP_00387	gene	141				
+GEFBOJOP_00387	CDS	141				hypothetical protein
+GEFBOJOP_00388	gene	636	fchA			
+GEFBOJOP_00388	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+GEFBOJOP_00389	gene	858	folD			
+GEFBOJOP_00389	CDS	858	folD			Bifunctional protein FolD protein
+GEFBOJOP_00390	gene	1284	clcA			
+GEFBOJOP_00390	CDS	1284	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+GEFBOJOP_00391	gene	780	tuaG			
+GEFBOJOP_00391	CDS	780	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+GEFBOJOP_00392	gene	813				
+GEFBOJOP_00392	CDS	813				hypothetical protein
+GEFBOJOP_00393	gene	1188	tagF			
+GEFBOJOP_00393	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+GEFBOJOP_00394	gene	1122				
+GEFBOJOP_00394	CDS	1122				hypothetical protein
+GEFBOJOP_00395	gene	795				
+GEFBOJOP_00395	CDS	795		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+GEFBOJOP_00396	gene	135				
+GEFBOJOP_00396	CDS	135				hypothetical protein
+GEFBOJOP_00397	gene	1404	bioB_2			
+GEFBOJOP_00397	CDS	1404	bioB_2	2.8.1.6		Biotin synthase
+GEFBOJOP_00398	gene	1200	mnmE			
+GEFBOJOP_00398	CDS	1200	mnmE	3.6.-.-		tRNA modification GTPase MnmE
+GEFBOJOP_00399	gene	825	aroF			
+GEFBOJOP_00399	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+GEFBOJOP_00400	gene	1815	aroB			
+GEFBOJOP_00400	CDS	1815	aroB	4.2.3.4		3-dehydroquinate synthase
+GEFBOJOP_00401	gene	339				
+GEFBOJOP_00401	CDS	339				hypothetical protein
+GEFBOJOP_00402	gene	1236	baiN			
+GEFBOJOP_00402	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+GEFBOJOP_00403	gene	795				
+GEFBOJOP_00403	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+GEFBOJOP_00404	gene	531	hpt_2			
+GEFBOJOP_00404	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+GEFBOJOP_00405	gene	387	asnA			
+GEFBOJOP_00405	CDS	387	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+GEFBOJOP_00406	gene	594	nadD			
+GEFBOJOP_00406	CDS	594	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+GEFBOJOP_00407	gene	576				
+GEFBOJOP_00407	CDS	576				hypothetical protein
+GEFBOJOP_00408	gene	351	rsfS			
+GEFBOJOP_00408	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+GEFBOJOP_00409	gene	489				
+GEFBOJOP_00409	CDS	489				hypothetical protein
+GEFBOJOP_00410	gene	696				
+GEFBOJOP_00410	CDS	696				hypothetical protein
+GEFBOJOP_00411	gene	1224	pepT			
+GEFBOJOP_00411	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+GEFBOJOP_00412	gene	75				
+GEFBOJOP_00412	tRNA	75				tRNA-Arg(tcg)
+GEFBOJOP_00413	gene	402				
+GEFBOJOP_00413	CDS	402				hypothetical protein
+GEFBOJOP_00414	gene	1467				
+GEFBOJOP_00414	CDS	1467				hypothetical protein
+GEFBOJOP_00415	gene	777	yjjP			
+GEFBOJOP_00415	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+GEFBOJOP_00416	gene	411				
+GEFBOJOP_00416	CDS	411				hypothetical protein
+GEFBOJOP_00417	gene	222				
+GEFBOJOP_00417	CDS	222				hypothetical protein
+GEFBOJOP_00418	gene	180				
+GEFBOJOP_00418	CDS	180				hypothetical protein
+GEFBOJOP_00419	gene	858				
+GEFBOJOP_00419	CDS	858				hypothetical protein
+GEFBOJOP_00420	gene	1371	ntpJ			
+GEFBOJOP_00420	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+GEFBOJOP_00421	gene	675	ktrA			
+GEFBOJOP_00421	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+GEFBOJOP_00422	gene	771	aviRb			
+GEFBOJOP_00422	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+GEFBOJOP_00423	gene	447	rplI			
+GEFBOJOP_00423	CDS	447	rplI			50S ribosomal protein L9
+GEFBOJOP_00424	gene	2016	gdpP			
+GEFBOJOP_00424	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+GEFBOJOP_00425	gene	318				
+GEFBOJOP_00425	CDS	318				hypothetical protein
+GEFBOJOP_00426	gene	1944	gyrA			
+GEFBOJOP_00426	CDS	1944	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+GEFBOJOP_00427	gene	318	rsbV			
+GEFBOJOP_00427	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+GEFBOJOP_00428	gene	408	rsbW			
+GEFBOJOP_00428	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+GEFBOJOP_00429	gene	774	sigB			
+GEFBOJOP_00429	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+GEFBOJOP_00430	gene	543				
+GEFBOJOP_00430	CDS	543				hypothetical protein
+GEFBOJOP_00431	gene	828	panB			
+GEFBOJOP_00431	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+GEFBOJOP_00432	gene	849	panC			
+GEFBOJOP_00432	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+GEFBOJOP_00433	gene	723				
+GEFBOJOP_00433	CDS	723				hypothetical protein
+GEFBOJOP_00434	gene	1368	mepA_1			
+GEFBOJOP_00434	CDS	1368	mepA_1			Multidrug export protein MepA
+GEFBOJOP_00435	gene	705				
+GEFBOJOP_00435	CDS	705				hypothetical protein
+GEFBOJOP_00436	gene	456	smpB			
+GEFBOJOP_00436	CDS	456	smpB		COG0691	SsrA-binding protein
+GEFBOJOP_00437	gene	2244	rnr			
+GEFBOJOP_00437	CDS	2244	rnr	3.1.13.1	COG0557	Ribonuclease R
+GEFBOJOP_00438	gene	231				
+GEFBOJOP_00438	CDS	231				hypothetical protein
+GEFBOJOP_00439	gene	147				
+GEFBOJOP_00439	CDS	147				hypothetical protein
+GEFBOJOP_00440	gene	1788	pepF1			
+GEFBOJOP_00440	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+GEFBOJOP_00441	gene	528				
+GEFBOJOP_00441	CDS	528				hypothetical protein
+GEFBOJOP_00442	gene	909	ppaC			
+GEFBOJOP_00442	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+GEFBOJOP_00443	gene	525				
+GEFBOJOP_00443	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+GEFBOJOP_00444	gene	1428	apeB			
+GEFBOJOP_00444	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+GEFBOJOP_00445	gene	270				
+GEFBOJOP_00445	CDS	270				hypothetical protein
+GEFBOJOP_00446	gene	684				
+GEFBOJOP_00446	CDS	684				hypothetical protein
+GEFBOJOP_00447	gene	771	nirC			
+GEFBOJOP_00447	CDS	771	nirC		COG2116	Nitrite transporter NirC
+GEFBOJOP_00448	gene	324				
+GEFBOJOP_00448	CDS	324				hypothetical protein
+GEFBOJOP_00449	gene	546				
+GEFBOJOP_00449	CDS	546				hypothetical protein
+GEFBOJOP_00450	gene	402				
+GEFBOJOP_00450	CDS	402				hypothetical protein
+GEFBOJOP_00451	gene	522	dcd			
+GEFBOJOP_00451	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+GEFBOJOP_00452	gene	576				
+GEFBOJOP_00452	CDS	576				hypothetical protein
+GEFBOJOP_00453	gene	1281	uvrB			
+GEFBOJOP_00453	CDS	1281	uvrB			UvrABC system protein B
+GEFBOJOP_00454	gene	801	asrB			
+GEFBOJOP_00454	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+GEFBOJOP_00455	gene	1011	asrA			
+GEFBOJOP_00455	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+GEFBOJOP_00456	gene	687	glxR			
+GEFBOJOP_00456	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+GEFBOJOP_00457	gene	129	ribH			
+GEFBOJOP_00457	CDS	129	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+GEFBOJOP_00458	gene	693				
+GEFBOJOP_00458	CDS	693				hypothetical protein
+GEFBOJOP_00459	gene	1056	epsF			
+GEFBOJOP_00459	CDS	1056	epsF		COG1459	Type II secretion system protein F
+GEFBOJOP_00460	gene	390				
+GEFBOJOP_00460	CDS	390				hypothetical protein
+GEFBOJOP_00461	gene	234				
+GEFBOJOP_00461	CDS	234				hypothetical protein
+GEFBOJOP_00462	gene	219				
+GEFBOJOP_00462	CDS	219				hypothetical protein
+GEFBOJOP_00463	gene	657				
+GEFBOJOP_00463	CDS	657				hypothetical protein
+GEFBOJOP_00464	gene	126				
+GEFBOJOP_00464	CDS	126		1.4.1.2		NAD-specific glutamate dehydrogenase
+GEFBOJOP_00465	gene	891				
+GEFBOJOP_00465	CDS	891				hypothetical protein
+GEFBOJOP_00466	gene	186				
+GEFBOJOP_00466	CDS	186				hypothetical protein
+GEFBOJOP_00467	gene	609				
+GEFBOJOP_00467	CDS	609				hypothetical protein
+GEFBOJOP_00468	gene	540				
+GEFBOJOP_00468	CDS	540				hypothetical protein
+GEFBOJOP_00469	gene	1827	glmS			
+GEFBOJOP_00469	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GEFBOJOP_00470	gene	786				
+GEFBOJOP_00470	CDS	786				hypothetical protein
+GEFBOJOP_00471	gene	1053				
+GEFBOJOP_00471	CDS	1053				hypothetical protein
+GEFBOJOP_00472	gene	708	mtnN			
+GEFBOJOP_00472	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+GEFBOJOP_00473	gene	1347	lepA			
+GEFBOJOP_00473	CDS	1347	lepA	3.6.5.-	COG0481	Elongation factor 4
+GEFBOJOP_00474	gene	1317	cca			
+GEFBOJOP_00474	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+GEFBOJOP_00475	gene	291	rpmA			
+GEFBOJOP_00475	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+GEFBOJOP_00476	gene	318				
+GEFBOJOP_00476	CDS	318				hypothetical protein
+GEFBOJOP_00477	gene	309	rplU			
+GEFBOJOP_00477	CDS	309	rplU		COG0261	50S ribosomal protein L21
+GEFBOJOP_00478	gene	915	yijE			
+GEFBOJOP_00478	CDS	915	yijE			putative cystine transporter YijE
+GEFBOJOP_00479	gene	1032	thiI			
+GEFBOJOP_00479	CDS	1032	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+GEFBOJOP_00480	gene	966				
+GEFBOJOP_00480	CDS	966				hypothetical protein
+GEFBOJOP_00481	gene	855				
+GEFBOJOP_00481	CDS	855				hypothetical protein
+GEFBOJOP_00482	gene	1011	lytC_2			
+GEFBOJOP_00482	CDS	1011	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GEFBOJOP_00483	gene	516				
+GEFBOJOP_00483	CDS	516				hypothetical protein
+GEFBOJOP_00484	gene	2610				
+GEFBOJOP_00484	CDS	2610				hypothetical protein
+GEFBOJOP_00485	gene	1560	murJ			
+GEFBOJOP_00485	CDS	1560	murJ		COG0728	putative lipid II flippase MurJ
+GEFBOJOP_00486	gene	1446	fcl			
+GEFBOJOP_00486	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+GEFBOJOP_00487	gene	2001	leuC			
+GEFBOJOP_00487	CDS	2001	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+GEFBOJOP_00488	gene	1893	lytC_3			
+GEFBOJOP_00488	CDS	1893	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GEFBOJOP_00489	gene	1071				
+GEFBOJOP_00489	CDS	1071				hypothetical protein
+GEFBOJOP_00490	gene	534	rnc			
+GEFBOJOP_00490	CDS	534	rnc	3.1.26.3	COG0571	Ribonuclease 3
+GEFBOJOP_00491	gene	1206	lysC			
+GEFBOJOP_00491	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+GEFBOJOP_00492	gene	984	asd			
+GEFBOJOP_00492	CDS	984	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+GEFBOJOP_00493	gene	426	fabZ			
+GEFBOJOP_00493	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+GEFBOJOP_00494	gene	1236	fabF			
+GEFBOJOP_00494	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+GEFBOJOP_00495	gene	600	fabG_2			
+GEFBOJOP_00495	CDS	600	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GEFBOJOP_00496	gene	462	regX3_2			
+GEFBOJOP_00496	CDS	462	regX3_2		COG0745	Sensory transduction protein regX3
+GEFBOJOP_00497	gene	495				
+GEFBOJOP_00497	CDS	495				hypothetical protein
+GEFBOJOP_00498	gene	894	phoR			
+GEFBOJOP_00498	CDS	894	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+GEFBOJOP_00499	gene	426				
+GEFBOJOP_00499	CDS	426				hypothetical protein
+GEFBOJOP_00500	gene	900				
+GEFBOJOP_00500	CDS	900		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+GEFBOJOP_00501	gene	1329				
+GEFBOJOP_00501	CDS	1329				hypothetical protein
+GEFBOJOP_00502	gene	762				
+GEFBOJOP_00502	CDS	762				hypothetical protein
+GEFBOJOP_00503	gene	447	trmD			
+GEFBOJOP_00503	CDS	447	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+GEFBOJOP_00504	gene	1158				
+GEFBOJOP_00504	CDS	1158				hypothetical protein
+GEFBOJOP_00505	gene	1224	tyrS			
+GEFBOJOP_00505	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+GEFBOJOP_00506	gene	807	queH			
+GEFBOJOP_00506	CDS	807	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+GEFBOJOP_00507	gene	810	ecsA			
+GEFBOJOP_00507	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+GEFBOJOP_00508	gene	894	bglK			
+GEFBOJOP_00508	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+GEFBOJOP_00509	gene	993	malR			
+GEFBOJOP_00509	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+GEFBOJOP_00510	gene	543	hicd			
+GEFBOJOP_00510	CDS	543	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+GEFBOJOP_00511	gene	888	nadK			
+GEFBOJOP_00511	CDS	888	nadK	2.7.1.23		NAD kinase
+GEFBOJOP_00512	gene	933	rluD_2			
+GEFBOJOP_00512	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+GEFBOJOP_00513	gene	285				
+GEFBOJOP_00513	CDS	285				hypothetical protein
+GEFBOJOP_00514	gene	723				
+GEFBOJOP_00514	CDS	723			COG0217	putative transcriptional regulatory protein
+GEFBOJOP_00515	gene	759	nadE			
+GEFBOJOP_00515	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+GEFBOJOP_00516	gene	642	yigZ			
+GEFBOJOP_00516	CDS	642	yigZ		COG1739	IMPACT family member YigZ
+GEFBOJOP_00517	gene	123	addA			
+GEFBOJOP_00517	CDS	123	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+GEFBOJOP_00518	gene	1224	cpdA			
+GEFBOJOP_00518	CDS	1224	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GEFBOJOP_00519	gene	822	nnrD			
+GEFBOJOP_00519	CDS	822	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+GEFBOJOP_00520	gene	453				
+GEFBOJOP_00520	CDS	453				hypothetical protein
+GEFBOJOP_00521	gene	1005				
+GEFBOJOP_00521	CDS	1005			COG0330	putative protein
+GEFBOJOP_00522	gene	369				
+GEFBOJOP_00522	CDS	369				hypothetical protein
+GEFBOJOP_00523	gene	771	dapA			
+GEFBOJOP_00523	CDS	771	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+GEFBOJOP_00524	gene	732	dapB			
+GEFBOJOP_00524	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+GEFBOJOP_00525	gene	720	dapH			
+GEFBOJOP_00525	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+GEFBOJOP_00526	gene	777	codY			
+GEFBOJOP_00526	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+GEFBOJOP_00527	gene	1257	topA			
+GEFBOJOP_00527	CDS	1257	topA	5.6.2.1		DNA topoisomerase 1
+GEFBOJOP_00528	gene	822				
+GEFBOJOP_00528	CDS	822				hypothetical protein
+GEFBOJOP_00529	gene	345				
+GEFBOJOP_00529	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+GEFBOJOP_00530	gene	324				
+GEFBOJOP_00530	CDS	324				hypothetical protein
+GEFBOJOP_00531	gene	657	mtaB			
+GEFBOJOP_00531	CDS	657	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+GEFBOJOP_00532	gene	354				
+GEFBOJOP_00532	CDS	354				hypothetical protein
+GEFBOJOP_00533	gene	1359	ffh			
+GEFBOJOP_00533	CDS	1359	ffh		COG0541	Signal recognition particle protein
+GEFBOJOP_00534	gene	273	rpsP			
+GEFBOJOP_00534	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+GEFBOJOP_00535	gene	234				
+GEFBOJOP_00535	CDS	234				hypothetical protein
+GEFBOJOP_00536	gene	519	rimM			
+GEFBOJOP_00536	CDS	519	rimM			Ribosome maturation factor RimM
+GEFBOJOP_00537	gene	393				
+GEFBOJOP_00537	CDS	393				hypothetical protein
+GEFBOJOP_00538	gene	609				
+GEFBOJOP_00538	CDS	609				hypothetical protein
+GEFBOJOP_00539	gene	885	glyQ			
+GEFBOJOP_00539	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+GEFBOJOP_00540	gene	162				
+GEFBOJOP_00540	CDS	162				hypothetical protein
+GEFBOJOP_00541	gene	870	sigF			
+GEFBOJOP_00541	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+GEFBOJOP_00542	gene	531				
+GEFBOJOP_00542	CDS	531				hypothetical protein
+GEFBOJOP_00543	gene	1374	mepA_2			
+GEFBOJOP_00543	CDS	1374	mepA_2			Multidrug export protein MepA
+GEFBOJOP_00544	gene	474	slyA			
+GEFBOJOP_00544	CDS	474	slyA			Transcriptional regulator SlyA
+GEFBOJOP_00545	gene	972	pfkA			
+GEFBOJOP_00545	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+GEFBOJOP_00546	gene	924				
+GEFBOJOP_00546	CDS	924				hypothetical protein
+GEFBOJOP_00547	gene	417				
+GEFBOJOP_00547	CDS	417				hypothetical protein
+GEFBOJOP_00548	gene	177	ispE			
+GEFBOJOP_00548	CDS	177	ispE	2.7.1.148		Putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GEFBOJOP_00549	gene	678	rspR_2			
+GEFBOJOP_00549	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+GEFBOJOP_00550	gene	813	murI			
+GEFBOJOP_00550	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+GEFBOJOP_00551	gene	414				
+GEFBOJOP_00551	CDS	414				hypothetical protein
+GEFBOJOP_00552	gene	972	pta			
+GEFBOJOP_00552	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+GEFBOJOP_00553	gene	477				
+GEFBOJOP_00553	CDS	477				hypothetical protein
+GEFBOJOP_00554	gene	315	csoR			
+GEFBOJOP_00554	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+GEFBOJOP_00555	gene	672				
+GEFBOJOP_00555	CDS	672				hypothetical protein
+GEFBOJOP_00556	gene	600				
+GEFBOJOP_00556	CDS	600				hypothetical protein
+GEFBOJOP_00557	gene	1395				
+GEFBOJOP_00557	CDS	1395				hypothetical protein
+GEFBOJOP_00558	gene	222	uppP			
+GEFBOJOP_00558	CDS	222	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+GEFBOJOP_00559	gene	1782				
+GEFBOJOP_00559	CDS	1782				hypothetical protein
+GEFBOJOP_00560	gene	405	rny			
+GEFBOJOP_00560	CDS	405	rny	3.1.-.-	COG1418	Ribonuclease Y
+GEFBOJOP_00561	gene	642	queA			
+GEFBOJOP_00561	CDS	642	queA	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+GEFBOJOP_00562	gene	1119	tgt			
+GEFBOJOP_00562	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+GEFBOJOP_00563	gene	321	yajC			
+GEFBOJOP_00563	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+GEFBOJOP_00564	gene	144				
+GEFBOJOP_00564	CDS	144				hypothetical protein
+GEFBOJOP_00565	gene	243	fldC			
+GEFBOJOP_00565	CDS	243	fldC	4.2.1.-		(R)-phenyllactyl-CoA dehydratase beta subunit
+GEFBOJOP_00566	gene	1134	carC_2			
+GEFBOJOP_00566	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+GEFBOJOP_00567	gene	792	carD_2			
+GEFBOJOP_00567	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+GEFBOJOP_00568	gene	630				
+GEFBOJOP_00568	CDS	630				hypothetical protein
+GEFBOJOP_00569	gene	1227	dltD			
+GEFBOJOP_00569	CDS	1227	dltD		COG3966	Protein DltD
+GEFBOJOP_00570	gene	126				
+GEFBOJOP_00570	CDS	126				hypothetical protein
+GEFBOJOP_00571	gene	669	mntB			
+GEFBOJOP_00571	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+GEFBOJOP_00572	gene	786	znuB			
+GEFBOJOP_00572	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+GEFBOJOP_00573	gene	753				
+GEFBOJOP_00573	CDS	753				hypothetical protein
+GEFBOJOP_00574	gene	216				
+GEFBOJOP_00574	CDS	216				hypothetical protein
+GEFBOJOP_00575	gene	1221	yheS			
+GEFBOJOP_00575	CDS	1221	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+GEFBOJOP_00576	gene	636	rex1			
+GEFBOJOP_00576	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+GEFBOJOP_00577	gene	168				
+GEFBOJOP_00577	CDS	168			COG1145	Ferredoxin
+GEFBOJOP_00578	gene	1449	pepD			
+GEFBOJOP_00578	CDS	1449	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+GEFBOJOP_00579	gene	498	ruvC			
+GEFBOJOP_00579	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+GEFBOJOP_00580	gene	612	ruvA			
+GEFBOJOP_00580	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+GEFBOJOP_00581	gene	1014	ruvB_2			
+GEFBOJOP_00581	CDS	1014	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+GEFBOJOP_00582	gene	1020	gap			
+GEFBOJOP_00582	CDS	1020	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+GEFBOJOP_00583	gene	927				
+GEFBOJOP_00583	CDS	927				hypothetical protein
+GEFBOJOP_00584	gene	1233				
+GEFBOJOP_00584	CDS	1233				hypothetical protein
+GEFBOJOP_00585	gene	1656				
+GEFBOJOP_00585	CDS	1656		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+GEFBOJOP_00586	gene	474	ispF			
+GEFBOJOP_00586	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+GEFBOJOP_00587	gene	693	ispD			
+GEFBOJOP_00587	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+GEFBOJOP_00588	gene	513	rhaR			
+GEFBOJOP_00588	CDS	513	rhaR			HTH-type transcriptional activator RhaR
+GEFBOJOP_00589	gene	126				
+GEFBOJOP_00589	CDS	126				hypothetical protein
+GEFBOJOP_00590	gene	405				
+GEFBOJOP_00590	CDS	405				hypothetical protein
+GEFBOJOP_00591	gene	693				
+GEFBOJOP_00591	CDS	693				hypothetical protein
+GEFBOJOP_00592	gene	984	birA			
+GEFBOJOP_00592	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GEFBOJOP_00593	gene	624	recX			
+GEFBOJOP_00593	CDS	624	recX			Regulatory protein RecX
+GEFBOJOP_00594	gene	228	crcB_1			
+GEFBOJOP_00594	CDS	228	crcB_1			Putative fluoride ion transporter CrcB
+GEFBOJOP_00595	gene	462	crcB_2			
+GEFBOJOP_00595	CDS	462	crcB_2			Putative fluoride ion transporter CrcB
+GEFBOJOP_00596	gene	645				
+GEFBOJOP_00596	CDS	645				hypothetical protein
+GEFBOJOP_00597	gene	258				
+GEFBOJOP_00597	CDS	258				hypothetical protein
+GEFBOJOP_00598	gene	810	apbC			
+GEFBOJOP_00598	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+GEFBOJOP_00599	gene	837	add			
+GEFBOJOP_00599	CDS	837	add	3.5.4.4	COG1816	Adenosine deaminase
+GEFBOJOP_00600	gene	612				
+GEFBOJOP_00600	CDS	612				hypothetical protein
+GEFBOJOP_00601	gene	1098	ychF			
+GEFBOJOP_00601	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+GEFBOJOP_00602	gene	456				
+GEFBOJOP_00602	CDS	456				hypothetical protein
+GEFBOJOP_00603	gene	1152	fbp			
+GEFBOJOP_00603	CDS	1152	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+GEFBOJOP_00604	gene	342				
+GEFBOJOP_00604	CDS	342				putative protein
+GEFBOJOP_00605	gene	495	nusB			
+GEFBOJOP_00605	CDS	495	nusB			Transcription antitermination protein NusB
+GEFBOJOP_00606	gene	654	gpsB			
+GEFBOJOP_00606	CDS	654	gpsB			Cell cycle protein GpsB
+GEFBOJOP_00607	gene	309				
+GEFBOJOP_00607	CDS	309				hypothetical protein
+GEFBOJOP_00608	gene	216				
+GEFBOJOP_00608	CDS	216				hypothetical protein
+GEFBOJOP_00609	gene	699				
+GEFBOJOP_00609	CDS	699				hypothetical protein
+GEFBOJOP_00610	gene	561	pth			
+GEFBOJOP_00610	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+GEFBOJOP_00611	gene	651				
+GEFBOJOP_00611	CDS	651				hypothetical protein
+GEFBOJOP_00612	gene	819	yggR			
+GEFBOJOP_00612	CDS	819	yggR		COG2805	putative protein YggR
+GEFBOJOP_00613	gene	1608	dnaG			
+GEFBOJOP_00613	CDS	1608	dnaG	2.7.7.-		DNA primase
+GEFBOJOP_00614	gene	402				
+GEFBOJOP_00614	CDS	402				hypothetical protein
+GEFBOJOP_00615	gene	1062				
+GEFBOJOP_00615	CDS	1062				hypothetical protein
+GEFBOJOP_00616	gene	597				
+GEFBOJOP_00616	CDS	597				hypothetical protein
+GEFBOJOP_00617	gene	1980				
+GEFBOJOP_00617	CDS	1980				hypothetical protein
+GEFBOJOP_00618	gene	282				
+GEFBOJOP_00618	CDS	282				hypothetical protein
+GEFBOJOP_00619	gene	954	msrAB			
+GEFBOJOP_00619	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+GEFBOJOP_00620	gene	579				
+GEFBOJOP_00620	CDS	579			COG1464	Membrane lipoprotein TpN32
+GEFBOJOP_00621	gene	471				
+GEFBOJOP_00621	CDS	471				hypothetical protein
+GEFBOJOP_00622	gene	1059				
+GEFBOJOP_00622	CDS	1059				hypothetical protein
+GEFBOJOP_00623	gene	375				
+GEFBOJOP_00623	CDS	375				hypothetical protein
+GEFBOJOP_00624	gene	675	ung			
+GEFBOJOP_00624	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+GEFBOJOP_00625	gene	606				
+GEFBOJOP_00625	CDS	606				hypothetical protein
+GEFBOJOP_00626	gene	1188	uctC			
+GEFBOJOP_00626	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+GEFBOJOP_00627	gene	810	alsT			
+GEFBOJOP_00627	CDS	810	alsT		COG1115	Amino-acid carrier protein AlsT
+GEFBOJOP_00628	gene	195				
+GEFBOJOP_00628	CDS	195				hypothetical protein
+GEFBOJOP_00629	gene	474				
+GEFBOJOP_00629	CDS	474				hypothetical protein
+GEFBOJOP_00630	gene	1158	murD			
+GEFBOJOP_00630	CDS	1158	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GEFBOJOP_00631	gene	1098	murG			
+GEFBOJOP_00631	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GEFBOJOP_00632	gene	819				
+GEFBOJOP_00632	CDS	819				hypothetical protein
+GEFBOJOP_00633	gene	1374	moaA_1			
+GEFBOJOP_00633	CDS	1374	moaA_1			GTP 3',8-cyclase
+GEFBOJOP_00634	gene	654	rsmG			
+GEFBOJOP_00634	CDS	654	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+GEFBOJOP_00635	gene	1326				
+GEFBOJOP_00635	CDS	1326				hypothetical protein
+GEFBOJOP_00636	gene	645	artM			
+GEFBOJOP_00636	CDS	645	artM		COG1126	Arginine transport ATP-binding protein ArtM
+GEFBOJOP_00637	gene	618	artQ			
+GEFBOJOP_00637	CDS	618	artQ		COG0765	Arginine transport system permease protein ArtQ
+GEFBOJOP_00638	gene	294	artJ			
+GEFBOJOP_00638	CDS	294	artJ		COG0834	ABC transporter arginine-binding protein 1
+GEFBOJOP_00639	gene	957	mnmA			
+GEFBOJOP_00639	CDS	957	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+GEFBOJOP_00640	gene	234				
+GEFBOJOP_00640	CDS	234				hypothetical protein
+GEFBOJOP_00641	gene	525	moaA_2			
+GEFBOJOP_00641	CDS	525	moaA_2			GTP 3',8-cyclase
+GEFBOJOP_00642	gene	1629				
+GEFBOJOP_00642	CDS	1629				hypothetical protein
+GEFBOJOP_00643	gene	1116				
+GEFBOJOP_00643	CDS	1116				hypothetical protein
+GEFBOJOP_00644	gene	396	panD			
+GEFBOJOP_00644	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+GEFBOJOP_00645	gene	210				
+GEFBOJOP_00645	CDS	210				hypothetical protein
+GEFBOJOP_00646	gene	582	ybjI			
+GEFBOJOP_00646	CDS	582	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+GEFBOJOP_00647	gene	1128				
+GEFBOJOP_00647	CDS	1128				hypothetical protein
+GEFBOJOP_00648	gene	264	ptsH			
+GEFBOJOP_00648	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+GEFBOJOP_00649	gene	1209	gltX			
+GEFBOJOP_00649	CDS	1209	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GEFBOJOP_00650	gene	582				
+GEFBOJOP_00650	CDS	582				hypothetical protein
+GEFBOJOP_00651	gene	1227				
+GEFBOJOP_00651	CDS	1227		3.4.11.-		Aminopeptidase 2
+GEFBOJOP_00652	gene	279				
+GEFBOJOP_00652	CDS	279				hypothetical protein
+GEFBOJOP_00653	gene	927	relA			
+GEFBOJOP_00653	CDS	927	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+GEFBOJOP_00654	gene	450	dtd			
+GEFBOJOP_00654	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+GEFBOJOP_00655	gene	627	gloC			
+GEFBOJOP_00655	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+GEFBOJOP_00656	gene	1347	rpoN			
+GEFBOJOP_00656	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+GEFBOJOP_00657	gene	516				
+GEFBOJOP_00657	CDS	516				hypothetical protein
+GEFBOJOP_00658	gene	252	atpD			
+GEFBOJOP_00658	CDS	252	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+GEFBOJOP_00659	gene	270	atpC			
+GEFBOJOP_00659	CDS	270	atpC			ATP synthase epsilon chain
+GEFBOJOP_00660	gene	576				
+GEFBOJOP_00660	CDS	576				hypothetical protein
+GEFBOJOP_00661	gene	939				
+GEFBOJOP_00661	CDS	939				hypothetical protein
+GEFBOJOP_00662	gene	774				
+GEFBOJOP_00662	CDS	774				hypothetical protein
+GEFBOJOP_00663	gene	675	ecfT			
+GEFBOJOP_00663	CDS	675	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+GEFBOJOP_00664	gene	954	miaA			
+GEFBOJOP_00664	CDS	954	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+GEFBOJOP_00665	gene	174	mutL			
+GEFBOJOP_00665	CDS	174	mutL		COG0323	DNA mismatch repair protein MutL
+GEFBOJOP_00666	gene	726	gamA			
+GEFBOJOP_00666	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+GEFBOJOP_00667	gene	1260	ppdK			
+GEFBOJOP_00667	CDS	1260	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+GEFBOJOP_00668	gene	1365	rlmCD			
+GEFBOJOP_00668	CDS	1365	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+GEFBOJOP_00669	gene	159				
+GEFBOJOP_00669	CDS	159				hypothetical protein
+GEFBOJOP_00670	gene	285				
+GEFBOJOP_00670	CDS	285				hypothetical protein
+GEFBOJOP_00671	gene	651	pspA_2			
+GEFBOJOP_00671	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GEFBOJOP_00672	gene	942	hexR			
+GEFBOJOP_00672	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+GEFBOJOP_00673	gene	549	rluB			
+GEFBOJOP_00673	CDS	549	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+GEFBOJOP_00674	gene	843	recD2			
+GEFBOJOP_00674	CDS	843	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+GEFBOJOP_00675	gene	771				
+GEFBOJOP_00675	CDS	771				hypothetical protein
+GEFBOJOP_00676	gene	1017				
+GEFBOJOP_00676	CDS	1017				hypothetical protein
+GEFBOJOP_00677	gene	408	gpsA			
+GEFBOJOP_00677	CDS	408	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+GEFBOJOP_00678	gene	702				
+GEFBOJOP_00678	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+GEFBOJOP_00679	gene	495	sepF			
+GEFBOJOP_00679	CDS	495	sepF			Cell division protein SepF
+GEFBOJOP_00680	gene	258				
+GEFBOJOP_00680	CDS	258				hypothetical protein
+GEFBOJOP_00681	gene	1137	rho			
+GEFBOJOP_00681	CDS	1137	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+GEFBOJOP_00682	gene	201	rpmE			
+GEFBOJOP_00682	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+GEFBOJOP_00683	gene	327				
+GEFBOJOP_00683	CDS	327				hypothetical protein
+GEFBOJOP_00684	gene	219				
+GEFBOJOP_00684	CDS	219				hypothetical protein
+GEFBOJOP_00685	gene	561	efp			
+GEFBOJOP_00685	CDS	561	efp		COG0231	Elongation factor P
+GEFBOJOP_00686	gene	1518	pgcA			
+GEFBOJOP_00686	CDS	1518	pgcA	5.4.2.2		Phosphoglucomutase
+GEFBOJOP_00687	gene	705				
+GEFBOJOP_00687	CDS	705				hypothetical protein
+GEFBOJOP_00688	gene	1254	typA			
+GEFBOJOP_00688	CDS	1254	typA		COG1217	GTP-binding protein TypA/BipA
+GEFBOJOP_00689	gene	1911	epmA			
+GEFBOJOP_00689	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+GEFBOJOP_00690	gene	306				
+GEFBOJOP_00690	CDS	306				hypothetical protein
+GEFBOJOP_00691	gene	210				
+GEFBOJOP_00691	CDS	210				hypothetical protein
+GEFBOJOP_00692	gene	576	zapA			
+GEFBOJOP_00692	CDS	576	zapA			Cell division protein ZapA
+GEFBOJOP_00693	gene	816				
+GEFBOJOP_00693	CDS	816				hypothetical protein
+GEFBOJOP_00694	gene	1200				
+GEFBOJOP_00694	CDS	1200				hypothetical protein
+GEFBOJOP_00695	gene	1095	adeC			
+GEFBOJOP_00695	CDS	1095	adeC	3.5.4.2		Adenine deaminase
+GEFBOJOP_00696	gene	189	rpmB			
+GEFBOJOP_00696	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+GEFBOJOP_00697	gene	351				
+GEFBOJOP_00697	CDS	351				putative protein
+GEFBOJOP_00698	gene	1119	ribD			
+GEFBOJOP_00698	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+GEFBOJOP_00699	gene	444				
+GEFBOJOP_00699	CDS	444				hypothetical protein
+GEFBOJOP_00700	gene	279				
+GEFBOJOP_00700	CDS	279				hypothetical protein
+GEFBOJOP_00701	gene	726	tauB			
+GEFBOJOP_00701	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+GEFBOJOP_00702	gene	699				
+GEFBOJOP_00702	CDS	699				hypothetical protein
+GEFBOJOP_00703	gene	819				
+GEFBOJOP_00703	CDS	819				hypothetical protein
+GEFBOJOP_00704	gene	846				
+GEFBOJOP_00704	CDS	846				hypothetical protein
+GEFBOJOP_00705	gene	795				
+GEFBOJOP_00705	CDS	795				hypothetical protein
+GEFBOJOP_00706	gene	219				
+GEFBOJOP_00706	CDS	219				hypothetical protein
+GEFBOJOP_00707	gene	1044	mtgA_2			
+GEFBOJOP_00707	CDS	1044	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+GEFBOJOP_00708	gene	519	polC_1			
+GEFBOJOP_00708	CDS	519	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+GEFBOJOP_00709	gene	693	cugP			
+GEFBOJOP_00709	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GEFBOJOP_00710	gene	1176	bdhA			
+GEFBOJOP_00710	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+GEFBOJOP_00711	gene	1173	glgC			
+GEFBOJOP_00711	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+GEFBOJOP_00712	gene	504	glgB			
+GEFBOJOP_00712	CDS	504	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+GEFBOJOP_00713	gene	888				
+GEFBOJOP_00713	CDS	888				hypothetical protein
+GEFBOJOP_00714	gene	1128	purA			
+GEFBOJOP_00714	CDS	1128	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GEFBOJOP_00715	gene	255	frr			
+GEFBOJOP_00715	CDS	255	frr		COG0233	Ribosome-recycling factor
+GEFBOJOP_00716	gene	732	uppS			
+GEFBOJOP_00716	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+GEFBOJOP_00717	gene	780				
+GEFBOJOP_00717	CDS	780				hypothetical protein
+GEFBOJOP_00718	gene	966	mraY			
+GEFBOJOP_00718	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GEFBOJOP_00719	gene	282	murF_1			
+GEFBOJOP_00719	CDS	282	murF_1	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GEFBOJOP_00720	gene	624	murF_2			
+GEFBOJOP_00720	CDS	624	murF_2	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GEFBOJOP_00721	gene	852	thiE			
+GEFBOJOP_00721	CDS	852	thiE	2.5.1.3		Thiamine-phosphate synthase
+GEFBOJOP_00722	gene	1203	secA1			
+GEFBOJOP_00722	CDS	1203	secA1			Protein translocase subunit SecA 1
+GEFBOJOP_00723	gene	597	glgA			
+GEFBOJOP_00723	CDS	597	glgA	2.4.1.21	COG0297	Glycogen synthase
+GEFBOJOP_00724	gene	549	tlyC			
+GEFBOJOP_00724	CDS	549	tlyC		COG1253	Hemolysin C
+GEFBOJOP_00725	gene	711				
+GEFBOJOP_00725	CDS	711				hypothetical protein
+GEFBOJOP_00726	gene	582				
+GEFBOJOP_00726	CDS	582				hypothetical protein
+GEFBOJOP_00727	gene	390				
+GEFBOJOP_00727	CDS	390				hypothetical protein
+GEFBOJOP_00728	gene	468	rimP			
+GEFBOJOP_00728	CDS	468	rimP			Ribosome maturation factor RimP
+GEFBOJOP_00729	gene	468				
+GEFBOJOP_00729	CDS	468				hypothetical protein
+GEFBOJOP_00730	gene	1194	mutS2			
+GEFBOJOP_00730	CDS	1194	mutS2	3.1.-.-		Endonuclease MutS2
+GEFBOJOP_00731	gene	612	yvcJ			
+GEFBOJOP_00731	CDS	612	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+GEFBOJOP_00732	gene	1203				
+GEFBOJOP_00732	CDS	1203				Gluconeogenesis factor
+GEFBOJOP_00733	gene	597				
+GEFBOJOP_00733	CDS	597				hypothetical protein
+GEFBOJOP_00734	gene	441				
+GEFBOJOP_00734	CDS	441				hypothetical protein
+GEFBOJOP_00735	gene	1203	roo			
+GEFBOJOP_00735	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+GEFBOJOP_00736	gene	462	dut			
+GEFBOJOP_00736	CDS	462	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GEFBOJOP_00737	gene	1122				
+GEFBOJOP_00737	CDS	1122				hypothetical protein
+GEFBOJOP_00738	gene	375	recN			
+GEFBOJOP_00738	CDS	375	recN		COG0497	DNA repair protein RecN
+GEFBOJOP_00739	gene	462	aroK			
+GEFBOJOP_00739	CDS	462	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+GEFBOJOP_00740	gene	705	pgl			
+GEFBOJOP_00740	CDS	705	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+GEFBOJOP_00741	gene	741				
+GEFBOJOP_00741	CDS	741				hypothetical protein
+GEFBOJOP_00742	gene	729	lnrL_2			
+GEFBOJOP_00742	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+GEFBOJOP_00743	gene	369	ytrA			
+GEFBOJOP_00743	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+GEFBOJOP_00744	gene	72				
+GEFBOJOP_00744	tRNA	72				tRNA-Cys(gca)
+GEFBOJOP_00745	gene	75				
+GEFBOJOP_00745	tRNA	75				tRNA-Lys(ctt)
+GEFBOJOP_00746	gene	75				
+GEFBOJOP_00746	tRNA	75				tRNA-Gln(ctg)
+GEFBOJOP_00747	gene	77				
+GEFBOJOP_00747	tRNA	77				tRNA-Pyl(cta)
+GEFBOJOP_00748	gene	75				
+GEFBOJOP_00748	tRNA	75				tRNA-Gly(gcc)
+GEFBOJOP_00749	gene	84				
+GEFBOJOP_00749	tRNA	84				tRNA-Leu(tag)
+GEFBOJOP_00750	gene	828	trkA			
+GEFBOJOP_00750	CDS	828	trkA		COG0569	Trk system potassium uptake protein TrkA
+GEFBOJOP_00751	gene	450	fur			
+GEFBOJOP_00751	CDS	450	fur		COG0735	Ferric uptake regulation protein
+GEFBOJOP_00752	gene	417	yrrK			
+GEFBOJOP_00752	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+GEFBOJOP_00753	gene	903				
+GEFBOJOP_00753	CDS	903				hypothetical protein
+GEFBOJOP_00754	gene	1020	tsaD			
+GEFBOJOP_00754	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+GEFBOJOP_00755	gene	321	rimI			
+GEFBOJOP_00755	CDS	321	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+GEFBOJOP_00756	gene	414				
+GEFBOJOP_00756	CDS	414				hypothetical protein
+GEFBOJOP_00757	gene	1029	ispG			
+GEFBOJOP_00757	CDS	1029	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+GEFBOJOP_00758	gene	351	rasP			
+GEFBOJOP_00758	CDS	351	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+GEFBOJOP_00759	gene	582	srtD			
+GEFBOJOP_00759	CDS	582	srtD	3.4.22.-	COG3764	Sortase D
+GEFBOJOP_00760	gene	792	patB			
+GEFBOJOP_00760	CDS	792	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+GEFBOJOP_00761	gene	744	aroD			
+GEFBOJOP_00761	CDS	744	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+GEFBOJOP_00762	gene	591	ogt			
+GEFBOJOP_00762	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+GEFBOJOP_00763	gene	693				
+GEFBOJOP_00763	CDS	693				hypothetical protein
+GEFBOJOP_00764	gene	750	lgt			
+GEFBOJOP_00764	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+GEFBOJOP_00765	gene	1137	hemZ			
+GEFBOJOP_00765	CDS	1137	hemZ	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+GEFBOJOP_00766	gene	315				
+GEFBOJOP_00766	CDS	315				hypothetical protein
+GEFBOJOP_00767	gene	435				
+GEFBOJOP_00767	CDS	435				hypothetical protein
+GEFBOJOP_00768	gene	1218	tdcB			
+GEFBOJOP_00768	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+GEFBOJOP_00769	gene	390				
+GEFBOJOP_00769	CDS	390				hypothetical protein
+GEFBOJOP_00770	gene	123				
+GEFBOJOP_00770	CDS	123				hypothetical protein
+GEFBOJOP_00771	gene	933	hprK			
+GEFBOJOP_00771	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+GEFBOJOP_00772	gene	549	rlmL_2			
+GEFBOJOP_00772	CDS	549	rlmL_2		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+GEFBOJOP_00773	gene	183				
+GEFBOJOP_00773	CDS	183				hypothetical protein
+GEFBOJOP_00774	gene	1416	pheT			
+GEFBOJOP_00774	CDS	1416	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+GEFBOJOP_00775	gene	282	hup			
+GEFBOJOP_00775	CDS	282	hup			DNA-binding protein HU
+GEFBOJOP_00776	gene	240				
+GEFBOJOP_00776	CDS	240			COG1188	putative protein
+GEFBOJOP_00777	gene	894	gtaB			
+GEFBOJOP_00777	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+GEFBOJOP_00778	gene	108				
+GEFBOJOP_00778	CDS	108				hypothetical protein
+GEFBOJOP_00779	gene	831	artP			
+GEFBOJOP_00779	CDS	831	artP		COG0834	Arginine-binding extracellular protein ArtP
+GEFBOJOP_00780	gene	1260				
+GEFBOJOP_00780	CDS	1260				hypothetical protein
+GEFBOJOP_00781	gene	159				
+GEFBOJOP_00781	CDS	159				hypothetical protein
+GEFBOJOP_00782	gene	957	prs			
+GEFBOJOP_00782	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GEFBOJOP_00783	gene	1077	alr1_2			
+GEFBOJOP_00783	CDS	1077	alr1_2	5.1.1.1	COG0787	Alanine racemase 1
+GEFBOJOP_00784	gene	330				
+GEFBOJOP_00784	CDS	330				hypothetical protein
+GEFBOJOP_00785	gene	1008	yoaB			
+GEFBOJOP_00785	CDS	1008	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+GEFBOJOP_00786	gene	885	ugtP_2			
+GEFBOJOP_00786	CDS	885	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+GEFBOJOP_00787	gene	690				
+GEFBOJOP_00787	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+GEFBOJOP_00788	gene	1047	prfB			
+GEFBOJOP_00788	CDS	1047	prfB			Peptide chain release factor 2
+GEFBOJOP_00789	gene	141				
+GEFBOJOP_00789	CDS	141				hypothetical protein
+GEFBOJOP_00790	gene	939				
+GEFBOJOP_00790	CDS	939				hypothetical protein
+GEFBOJOP_00791	gene	1503	mutS			
+GEFBOJOP_00791	CDS	1503	mutS			DNA mismatch repair protein MutS
+GEFBOJOP_00792	gene	219				
+GEFBOJOP_00792	CDS	219				hypothetical protein
+GEFBOJOP_00793	gene	795				
+GEFBOJOP_00793	CDS	795				hypothetical protein
+GEFBOJOP_00794	gene	627	alaS			
+GEFBOJOP_00794	CDS	627	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GEFBOJOP_00795	gene	549	lytC_4			
+GEFBOJOP_00795	CDS	549	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GEFBOJOP_00796	gene	885				
+GEFBOJOP_00796	CDS	885				hypothetical protein
+GEFBOJOP_00797	gene	261	polC_2			
+GEFBOJOP_00797	CDS	261	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+GEFBOJOP_00798	gene	375				
+GEFBOJOP_00798	CDS	375				hypothetical protein
+GEFBOJOP_00799	gene	780	lytC_5			
+GEFBOJOP_00799	CDS	780	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+GEFBOJOP_00800	gene	1140	xerD			
+GEFBOJOP_00800	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+GEFBOJOP_00801	gene	168	lexA			
+GEFBOJOP_00801	CDS	168	lexA	3.4.21.88	COG1974	LexA repressor
+GEFBOJOP_00802	gene	303	purF			
+GEFBOJOP_00802	CDS	303	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+GEFBOJOP_00803	gene	1149	srfAB			
+GEFBOJOP_00803	CDS	1149	srfAB			Surfactin synthase subunit 2
+GEFBOJOP_00804	gene	546	ddl			
+GEFBOJOP_00804	CDS	546	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+GEFBOJOP_00805	gene	402	dnaN			
+GEFBOJOP_00805	CDS	402	dnaN			Beta sliding clamp
+GEFBOJOP_00806	gene	210				
+GEFBOJOP_00806	CDS	210				hypothetical protein
+GEFBOJOP_00807	gene	414	glpE			
+GEFBOJOP_00807	CDS	414	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+GEFBOJOP_00808	gene	675				
+GEFBOJOP_00808	CDS	675				hypothetical protein
+GEFBOJOP_00809	gene	219				
+GEFBOJOP_00809	CDS	219				hypothetical protein
+GEFBOJOP_00810	gene	762				
+GEFBOJOP_00810	CDS	762				hypothetical protein
+GEFBOJOP_00811	gene	222	trxB			
+GEFBOJOP_00811	CDS	222	trxB	1.8.1.9		Thioredoxin reductase
+GEFBOJOP_00812	gene	1266	cinA			
+GEFBOJOP_00812	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+GEFBOJOP_00813	gene	1059				
+GEFBOJOP_00813	CDS	1059			COG2081	putative protein
+GEFBOJOP_00814	gene	1143				
+GEFBOJOP_00814	CDS	1143				hypothetical protein
+GEFBOJOP_00815	gene	852	cdaA			
+GEFBOJOP_00815	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+GEFBOJOP_00816	gene	636	ccpN			
+GEFBOJOP_00816	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+GEFBOJOP_00817	gene	840	yqfL			
+GEFBOJOP_00817	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+GEFBOJOP_00818	gene	1200	gerN			
+GEFBOJOP_00818	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+GEFBOJOP_00819	gene	75				
+GEFBOJOP_00819	tRNA	75				tRNA-Arg(cct)
+GEFBOJOP_00820	gene	297				
+GEFBOJOP_00820	CDS	297				hypothetical protein
+GEFBOJOP_00821	gene	837				
+GEFBOJOP_00821	CDS	837				hypothetical protein
+GEFBOJOP_00822	gene	105				
+GEFBOJOP_00822	CDS	105				hypothetical protein
+GEFBOJOP_00823	gene	372				
+GEFBOJOP_00823	CDS	372				hypothetical protein
+GEFBOJOP_00824	gene	453				
+GEFBOJOP_00824	CDS	453				hypothetical protein
+GEFBOJOP_00825	gene	201	cspA			
+GEFBOJOP_00825	CDS	201	cspA		COG1278	Cold shock protein CspA
+GEFBOJOP_00826	gene	603				
+GEFBOJOP_00826	CDS	603				hypothetical protein
+GEFBOJOP_00827	gene	1305	der			
+GEFBOJOP_00827	CDS	1305	der		COG1160	GTPase Der
+GEFBOJOP_00828	gene	708	adeQ			
+GEFBOJOP_00828	CDS	708	adeQ		COG2252	Adenine permease AdeQ
+GEFBOJOP_00829	gene	849	ftsZ			
+GEFBOJOP_00829	CDS	849	ftsZ		COG0206	Cell division protein FtsZ
+GEFBOJOP_00830	gene	516	nrdR			
+GEFBOJOP_00830	CDS	516	nrdR		COG1327	Transcriptional repressor NrdR
+GEFBOJOP_00831	gene	1218	dnaE2			
+GEFBOJOP_00831	CDS	1218	dnaE2	2.7.7.7		Error-prone DNA polymerase
+GEFBOJOP_00832	gene	957				
+GEFBOJOP_00832	CDS	957				hypothetical protein
+GEFBOJOP_00833	gene	270				
+GEFBOJOP_00833	CDS	270				hypothetical protein
+GEFBOJOP_00834	gene	858				
+GEFBOJOP_00834	CDS	858				hypothetical protein
+GEFBOJOP_00835	gene	438				
+GEFBOJOP_00835	CDS	438				hypothetical protein
+GEFBOJOP_00836	gene	822	punA			
+GEFBOJOP_00836	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+GEFBOJOP_00837	gene	438				
+GEFBOJOP_00837	CDS	438				hypothetical protein
+GEFBOJOP_00838	gene	192				
+GEFBOJOP_00838	CDS	192				hypothetical protein
+GEFBOJOP_00839	gene	831				
+GEFBOJOP_00839	CDS	831				hypothetical protein
+GEFBOJOP_00840	gene	264	veg			
+GEFBOJOP_00840	CDS	264	veg		COG4466	Protein Veg
+GEFBOJOP_00841	gene	495				
+GEFBOJOP_00841	CDS	495				hypothetical protein
+GEFBOJOP_00842	gene	378				
+GEFBOJOP_00842	CDS	378				hypothetical protein
+GEFBOJOP_00843	gene	1113	nhaP2			
+GEFBOJOP_00843	CDS	1113	nhaP2			K(+)/H(+) antiporter NhaP2
+GEFBOJOP_00844	gene	1149	rnjA			
+GEFBOJOP_00844	CDS	1149	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+GEFBOJOP_00845	gene	510				
+GEFBOJOP_00845	CDS	510				hypothetical protein
+GEFBOJOP_00846	gene	1329	hcp			
+GEFBOJOP_00846	CDS	1329	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+GEFBOJOP_00847	gene	723				
+GEFBOJOP_00847	CDS	723				hypothetical protein
+GEFBOJOP_00848	gene	762				
+GEFBOJOP_00848	CDS	762				hypothetical protein
+GEFBOJOP_00849	gene	1296	norR			
+GEFBOJOP_00849	CDS	1296	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+GEFBOJOP_00850	gene	951	mltG			
+GEFBOJOP_00850	CDS	951	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+GEFBOJOP_00851	gene	1203	eis			
+GEFBOJOP_00851	CDS	1203	eis	2.3.1.-		N-acetyltransferase Eis
+GEFBOJOP_00852	gene	567				
+GEFBOJOP_00852	CDS	567				hypothetical protein
+GEFBOJOP_00853	gene	963				
+GEFBOJOP_00853	CDS	963				hypothetical protein
+GEFBOJOP_00854	gene	372				
+GEFBOJOP_00854	CDS	372				hypothetical protein
+GEFBOJOP_00855	gene	522	niaR			
+GEFBOJOP_00855	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+GEFBOJOP_00856	gene	159				
+GEFBOJOP_00856	CDS	159				hypothetical protein

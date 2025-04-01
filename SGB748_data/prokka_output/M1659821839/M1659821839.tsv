@@ -1,0 +1,2051 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OOLAICBM_00001	gene	1422				
+OOLAICBM_00001	CDS	1422				hypothetical protein
+OOLAICBM_00002	gene	486				
+OOLAICBM_00002	CDS	486				hypothetical protein
+OOLAICBM_00003	gene	846	cvfB			
+OOLAICBM_00003	CDS	846	cvfB		COG2996	Conserved virulence factor B
+OOLAICBM_00004	gene	462	cdd			
+OOLAICBM_00004	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+OOLAICBM_00005	gene	738				
+OOLAICBM_00005	CDS	738				hypothetical protein
+OOLAICBM_00006	gene	1320				
+OOLAICBM_00006	CDS	1320				hypothetical protein
+OOLAICBM_00007	gene	2358	secA_1			
+OOLAICBM_00007	CDS	2358	secA_1		COG0653	Protein translocase subunit SecA
+OOLAICBM_00008	gene	1365				
+OOLAICBM_00008	CDS	1365				hypothetical protein
+OOLAICBM_00009	gene	1305				
+OOLAICBM_00009	CDS	1305				hypothetical protein
+OOLAICBM_00010	gene	1893	lytC_1			
+OOLAICBM_00010	CDS	1893	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+OOLAICBM_00011	gene	1107				
+OOLAICBM_00011	CDS	1107				hypothetical protein
+OOLAICBM_00012	gene	663	wecA			
+OOLAICBM_00012	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+OOLAICBM_00013	gene	780	tuaG_1			
+OOLAICBM_00013	CDS	780	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+OOLAICBM_00014	gene	813				
+OOLAICBM_00014	CDS	813				hypothetical protein
+OOLAICBM_00015	gene	1188	tagF			
+OOLAICBM_00015	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+OOLAICBM_00016	gene	1122				
+OOLAICBM_00016	CDS	1122				hypothetical protein
+OOLAICBM_00017	gene	765	tuaG_2			
+OOLAICBM_00017	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+OOLAICBM_00018	gene	1101	mshA			
+OOLAICBM_00018	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OOLAICBM_00019	gene	1446	fcl			
+OOLAICBM_00019	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+OOLAICBM_00020	gene	1560	murJ			
+OOLAICBM_00020	CDS	1560	murJ		COG0728	putative lipid II flippase MurJ
+OOLAICBM_00021	gene	1230				
+OOLAICBM_00021	CDS	1230				hypothetical protein
+OOLAICBM_00022	gene	2145				
+OOLAICBM_00022	CDS	2145				hypothetical protein
+OOLAICBM_00023	gene	1350	alsT			
+OOLAICBM_00023	CDS	1350	alsT		COG1115	Amino-acid carrier protein AlsT
+OOLAICBM_00024	gene	786	tagU_1			
+OOLAICBM_00024	CDS	786	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+OOLAICBM_00025	gene	1041	tagU_2			
+OOLAICBM_00025	CDS	1041	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+OOLAICBM_00026	gene	789	ybiV			
+OOLAICBM_00026	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+OOLAICBM_00027	gene	1128				
+OOLAICBM_00027	CDS	1128				hypothetical protein
+OOLAICBM_00028	gene	264	ptsH			
+OOLAICBM_00028	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+OOLAICBM_00029	gene	1716	ptsI			
+OOLAICBM_00029	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+OOLAICBM_00030	gene	654				
+OOLAICBM_00030	CDS	654				hypothetical protein
+OOLAICBM_00031	gene	900				
+OOLAICBM_00031	CDS	900				hypothetical protein
+OOLAICBM_00032	gene	546				
+OOLAICBM_00032	CDS	546				hypothetical protein
+OOLAICBM_00033	gene	888				
+OOLAICBM_00033	CDS	888				hypothetical protein
+OOLAICBM_00034	gene	975				
+OOLAICBM_00034	CDS	975				hypothetical protein
+OOLAICBM_00035	gene	1374	moaA_1			
+OOLAICBM_00035	CDS	1374	moaA_1			GTP 3',8-cyclase
+OOLAICBM_00036	gene	1668	ubiB			
+OOLAICBM_00036	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+OOLAICBM_00037	gene	2484				
+OOLAICBM_00037	CDS	2484				hypothetical protein
+OOLAICBM_00038	gene	522	apt			
+OOLAICBM_00038	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+OOLAICBM_00039	gene	2226	relA			
+OOLAICBM_00039	CDS	2226	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+OOLAICBM_00040	gene	450	dtd			
+OOLAICBM_00040	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+OOLAICBM_00041	gene	627	gloC			
+OOLAICBM_00041	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+OOLAICBM_00042	gene	1560				
+OOLAICBM_00042	CDS	1560				hypothetical protein
+OOLAICBM_00043	gene	1263	hisS			
+OOLAICBM_00043	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+OOLAICBM_00044	gene	1791	aspS			
+OOLAICBM_00044	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+OOLAICBM_00045	gene	315	csoR			
+OOLAICBM_00045	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+OOLAICBM_00046	gene	477				
+OOLAICBM_00046	CDS	477				hypothetical protein
+OOLAICBM_00047	gene	972	pta			
+OOLAICBM_00047	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+OOLAICBM_00048	gene	1200	sstT_1			
+OOLAICBM_00048	CDS	1200	sstT_1			Serine/threonine transporter SstT
+OOLAICBM_00049	gene	678				
+OOLAICBM_00049	CDS	678				hypothetical protein
+OOLAICBM_00050	gene	777				
+OOLAICBM_00050	CDS	777				hypothetical protein
+OOLAICBM_00051	gene	1467				
+OOLAICBM_00051	CDS	1467				hypothetical protein
+OOLAICBM_00052	gene	540	puuR			
+OOLAICBM_00052	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+OOLAICBM_00053	gene	1044	potA			
+OOLAICBM_00053	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+OOLAICBM_00054	gene	867	potB			
+OOLAICBM_00054	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+OOLAICBM_00055	gene	807				
+OOLAICBM_00055	CDS	807				hypothetical protein
+OOLAICBM_00056	gene	1086	potD			
+OOLAICBM_00056	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+OOLAICBM_00057	gene	1479	malQ			
+OOLAICBM_00057	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+OOLAICBM_00058	gene	1944				
+OOLAICBM_00058	CDS	1944				hypothetical protein
+OOLAICBM_00059	gene	1866	glgB			
+OOLAICBM_00059	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+OOLAICBM_00060	gene	1173	glgC			
+OOLAICBM_00060	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+OOLAICBM_00061	gene	1107	glgD			
+OOLAICBM_00061	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+OOLAICBM_00062	gene	1425	glgA			
+OOLAICBM_00062	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+OOLAICBM_00063	gene	2391	glgP			
+OOLAICBM_00063	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+OOLAICBM_00064	gene	2445				
+OOLAICBM_00064	CDS	2445				hypothetical protein
+OOLAICBM_00065	gene	1365				
+OOLAICBM_00065	CDS	1365				hypothetical protein
+OOLAICBM_00066	gene	873	moaA_2			
+OOLAICBM_00066	CDS	873	moaA_2	4.1.99.22		GTP 3',8-cyclase
+OOLAICBM_00067	gene	1629				
+OOLAICBM_00067	CDS	1629				hypothetical protein
+OOLAICBM_00068	gene	1002	add			
+OOLAICBM_00068	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+OOLAICBM_00069	gene	810	apbC			
+OOLAICBM_00069	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+OOLAICBM_00070	gene	258				
+OOLAICBM_00070	CDS	258				hypothetical protein
+OOLAICBM_00071	gene	645				
+OOLAICBM_00071	CDS	645				hypothetical protein
+OOLAICBM_00072	gene	297				
+OOLAICBM_00072	CDS	297				hypothetical protein
+OOLAICBM_00073	gene	1275	pyrC			
+OOLAICBM_00073	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+OOLAICBM_00074	gene	1245	macB_1			
+OOLAICBM_00074	CDS	1245	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+OOLAICBM_00075	gene	675	yknY			
+OOLAICBM_00075	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OOLAICBM_00076	gene	1083	yknX			
+OOLAICBM_00076	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+OOLAICBM_00077	gene	651	tal			
+OOLAICBM_00077	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+OOLAICBM_00078	gene	1473	algC			
+OOLAICBM_00078	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+OOLAICBM_00079	gene	927				
+OOLAICBM_00079	CDS	927				hypothetical protein
+OOLAICBM_00080	gene	606	maf			
+OOLAICBM_00080	CDS	606	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+OOLAICBM_00081	gene	1182	fieF			
+OOLAICBM_00081	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+OOLAICBM_00082	gene	792				
+OOLAICBM_00082	CDS	792				hypothetical protein
+OOLAICBM_00083	gene	303				
+OOLAICBM_00083	CDS	303				hypothetical protein
+OOLAICBM_00084	gene	1218				
+OOLAICBM_00084	CDS	1218		6.3.1.12		D-aspartate ligase
+OOLAICBM_00085	gene	720				
+OOLAICBM_00085	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+OOLAICBM_00086	gene	1488	murE			
+OOLAICBM_00086	CDS	1488	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+OOLAICBM_00087	gene	1482				
+OOLAICBM_00087	CDS	1482				hypothetical protein
+OOLAICBM_00088	gene	513	sigM_1			
+OOLAICBM_00088	CDS	513	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+OOLAICBM_00089	gene	1098	ychF			
+OOLAICBM_00089	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+OOLAICBM_00090	gene	456				
+OOLAICBM_00090	CDS	456				hypothetical protein
+OOLAICBM_00091	gene	1260				
+OOLAICBM_00091	CDS	1260				hypothetical protein
+OOLAICBM_00092	gene	1293				
+OOLAICBM_00092	CDS	1293				hypothetical protein
+OOLAICBM_00093	gene	750	lgt			
+OOLAICBM_00093	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+OOLAICBM_00094	gene	936	rsmH			
+OOLAICBM_00094	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+OOLAICBM_00095	gene	1410	murF			
+OOLAICBM_00095	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+OOLAICBM_00096	gene	966	mraY			
+OOLAICBM_00096	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+OOLAICBM_00097	gene	1365	murD			
+OOLAICBM_00097	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+OOLAICBM_00098	gene	1098	murG			
+OOLAICBM_00098	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OOLAICBM_00099	gene	1161	ftsZ			
+OOLAICBM_00099	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+OOLAICBM_00100	gene	468	nrdR			
+OOLAICBM_00100	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+OOLAICBM_00101	gene	681	phoP			
+OOLAICBM_00101	CDS	681	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+OOLAICBM_00102	gene	1281	walK			
+OOLAICBM_00102	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+OOLAICBM_00103	gene	1329	der			
+OOLAICBM_00103	CDS	1329	der		COG1160	GTPase Der
+OOLAICBM_00104	gene	609	plsY			
+OOLAICBM_00104	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+OOLAICBM_00105	gene	1011	gpsA			
+OOLAICBM_00105	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+OOLAICBM_00106	gene	702				
+OOLAICBM_00106	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+OOLAICBM_00107	gene	495	sepF			
+OOLAICBM_00107	CDS	495	sepF			Cell division protein SepF
+OOLAICBM_00108	gene	258				
+OOLAICBM_00108	CDS	258				hypothetical protein
+OOLAICBM_00109	gene	786				
+OOLAICBM_00109	CDS	786				hypothetical protein
+OOLAICBM_00110	gene	654	gpsB			
+OOLAICBM_00110	CDS	654	gpsB			Cell cycle protein GpsB
+OOLAICBM_00111	gene	3123	mupA			
+OOLAICBM_00111	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+OOLAICBM_00112	gene	816				
+OOLAICBM_00112	CDS	816				hypothetical protein
+OOLAICBM_00113	gene	903				
+OOLAICBM_00113	CDS	903				hypothetical protein
+OOLAICBM_00114	gene	822				
+OOLAICBM_00114	CDS	822				hypothetical protein
+OOLAICBM_00115	gene	141				
+OOLAICBM_00115	CDS	141				hypothetical protein
+OOLAICBM_00116	gene	1884				
+OOLAICBM_00116	CDS	1884				hypothetical protein
+OOLAICBM_00117	gene	951				
+OOLAICBM_00117	CDS	951				hypothetical protein
+OOLAICBM_00118	gene	693	cugP			
+OOLAICBM_00118	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OOLAICBM_00119	gene	1176	bdhA			
+OOLAICBM_00119	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+OOLAICBM_00120	gene	762	rpsB			
+OOLAICBM_00120	CDS	762	rpsB			30S ribosomal protein S2
+OOLAICBM_00121	gene	909	tsf			
+OOLAICBM_00121	CDS	909	tsf		COG0264	Elongation factor Ts
+OOLAICBM_00122	gene	708	pyrH			
+OOLAICBM_00122	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+OOLAICBM_00123	gene	558	frr			
+OOLAICBM_00123	CDS	558	frr		COG0233	Ribosome-recycling factor
+OOLAICBM_00124	gene	732	uppS			
+OOLAICBM_00124	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+OOLAICBM_00125	gene	780				
+OOLAICBM_00125	CDS	780				hypothetical protein
+OOLAICBM_00126	gene	912				
+OOLAICBM_00126	CDS	912				hypothetical protein
+OOLAICBM_00127	gene	468	rimP			
+OOLAICBM_00127	CDS	468	rimP			Ribosome maturation factor RimP
+OOLAICBM_00128	gene	1272	nusA			
+OOLAICBM_00128	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+OOLAICBM_00129	gene	276				
+OOLAICBM_00129	CDS	276				hypothetical protein
+OOLAICBM_00130	gene	315	rplGA			
+OOLAICBM_00130	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+OOLAICBM_00131	gene	1944	infB			
+OOLAICBM_00131	CDS	1944	infB			Translation initiation factor IF-2
+OOLAICBM_00132	gene	348	rbfA			
+OOLAICBM_00132	CDS	348	rbfA			Ribosome-binding factor A
+OOLAICBM_00133	gene	804				
+OOLAICBM_00133	CDS	804				hypothetical protein
+OOLAICBM_00134	gene	4575				
+OOLAICBM_00134	CDS	4575				hypothetical protein
+OOLAICBM_00135	gene	582	srtD			
+OOLAICBM_00135	CDS	582	srtD	3.4.22.-	COG3764	Sortase D
+OOLAICBM_00136	gene	1038	nrnA			
+OOLAICBM_00136	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+OOLAICBM_00137	gene	903	truB			
+OOLAICBM_00137	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+OOLAICBM_00138	gene	972	ribF			
+OOLAICBM_00138	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+OOLAICBM_00139	gene	255	rpsO			
+OOLAICBM_00139	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+OOLAICBM_00140	gene	846				
+OOLAICBM_00140	CDS	846			COG1307	Fatty acid-binding protein
+OOLAICBM_00141	gene	2091	pnp			
+OOLAICBM_00141	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+OOLAICBM_00142	gene	2073				
+OOLAICBM_00142	CDS	2073				hypothetical protein
+OOLAICBM_00143	gene	1266				
+OOLAICBM_00143	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+OOLAICBM_00144	gene	2574				
+OOLAICBM_00144	CDS	2574				hypothetical protein
+OOLAICBM_00145	gene	1323	rimO			
+OOLAICBM_00145	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+OOLAICBM_00146	gene	540	pgsA			
+OOLAICBM_00146	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OOLAICBM_00147	gene	1050	recA			
+OOLAICBM_00147	CDS	1050	recA		COG0468	Protein RecA
+OOLAICBM_00148	gene	1500	guaB			
+OOLAICBM_00148	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+OOLAICBM_00149	gene	750				
+OOLAICBM_00149	CDS	750				hypothetical protein
+OOLAICBM_00150	gene	1671	rnjA			
+OOLAICBM_00150	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+OOLAICBM_00151	gene	633				
+OOLAICBM_00151	CDS	633				hypothetical protein
+OOLAICBM_00152	gene	762	scpA			
+OOLAICBM_00152	CDS	762	scpA		COG1354	Segregation and condensation protein A
+OOLAICBM_00153	gene	519	scpB			
+OOLAICBM_00153	CDS	519	scpB		COG1386	Segregation and condensation protein B
+OOLAICBM_00154	gene	750	cobB			
+OOLAICBM_00154	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+OOLAICBM_00155	gene	441				
+OOLAICBM_00155	CDS	441				hypothetical protein
+OOLAICBM_00156	gene	1515				
+OOLAICBM_00156	CDS	1515				hypothetical protein
+OOLAICBM_00157	gene	1761				
+OOLAICBM_00157	CDS	1761				hypothetical protein
+OOLAICBM_00158	gene	555				
+OOLAICBM_00158	CDS	555				hypothetical protein
+OOLAICBM_00159	gene	675	arlR			
+OOLAICBM_00159	CDS	675	arlR		COG0745	Response regulator ArlR
+OOLAICBM_00160	gene	1278	sasA_1			
+OOLAICBM_00160	CDS	1278	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+OOLAICBM_00161	gene	318				
+OOLAICBM_00161	CDS	318				hypothetical protein
+OOLAICBM_00162	gene	4719				
+OOLAICBM_00162	CDS	4719				hypothetical protein
+OOLAICBM_00163	gene	3783				
+OOLAICBM_00163	CDS	3783				hypothetical protein
+OOLAICBM_00164	gene	510	folA			
+OOLAICBM_00164	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+OOLAICBM_00165	gene	834	thyA			
+OOLAICBM_00165	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+OOLAICBM_00166	gene	1860				
+OOLAICBM_00166	CDS	1860				hypothetical protein
+OOLAICBM_00167	gene	786				
+OOLAICBM_00167	CDS	786				hypothetical protein
+OOLAICBM_00168	gene	699				
+OOLAICBM_00168	CDS	699				hypothetical protein
+OOLAICBM_00169	gene	4311	polC_1			
+OOLAICBM_00169	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+OOLAICBM_00170	gene	885				
+OOLAICBM_00170	CDS	885				hypothetical protein
+OOLAICBM_00171	gene	852				
+OOLAICBM_00171	CDS	852				hypothetical protein
+OOLAICBM_00172	gene	1383	dinG			
+OOLAICBM_00172	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+OOLAICBM_00173	gene	1158				
+OOLAICBM_00173	CDS	1158				hypothetical protein
+OOLAICBM_00174	gene	741				
+OOLAICBM_00174	CDS	741				hypothetical protein
+OOLAICBM_00175	gene	339				
+OOLAICBM_00175	CDS	339				hypothetical protein
+OOLAICBM_00176	gene	1020	gap			
+OOLAICBM_00176	CDS	1020	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+OOLAICBM_00177	gene	4305				
+OOLAICBM_00177	CDS	4305				hypothetical protein
+OOLAICBM_00178	gene	1326				
+OOLAICBM_00178	CDS	1326				hypothetical protein
+OOLAICBM_00179	gene	801	artJ			
+OOLAICBM_00179	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+OOLAICBM_00180	gene	618	artQ_1			
+OOLAICBM_00180	CDS	618	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+OOLAICBM_00181	gene	645	tcyC			
+OOLAICBM_00181	CDS	645	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+OOLAICBM_00182	gene	1155				
+OOLAICBM_00182	CDS	1155				hypothetical protein
+OOLAICBM_00183	gene	1137				
+OOLAICBM_00183	CDS	1137				TelA-like protein
+OOLAICBM_00184	gene	1149	rlmL			
+OOLAICBM_00184	CDS	1149	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+OOLAICBM_00185	gene	1365				
+OOLAICBM_00185	CDS	1365				hypothetical protein
+OOLAICBM_00186	gene	696	walR_1			
+OOLAICBM_00186	CDS	696	walR_1		COG0745	Transcriptional regulatory protein WalR
+OOLAICBM_00187	gene	1437	rcsC			
+OOLAICBM_00187	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+OOLAICBM_00188	gene	1353	mepA_1			
+OOLAICBM_00188	CDS	1353	mepA_1		COG0534	Multidrug export protein MepA
+OOLAICBM_00189	gene	843				
+OOLAICBM_00189	CDS	843				hypothetical protein
+OOLAICBM_00190	gene	417				
+OOLAICBM_00190	CDS	417				hypothetical protein
+OOLAICBM_00191	gene	720				
+OOLAICBM_00191	CDS	720		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+OOLAICBM_00192	gene	795				
+OOLAICBM_00192	CDS	795				hypothetical protein
+OOLAICBM_00193	gene	906				
+OOLAICBM_00193	CDS	906				hypothetical protein
+OOLAICBM_00194	gene	1260				
+OOLAICBM_00194	CDS	1260				hypothetical protein
+OOLAICBM_00195	gene	1101				
+OOLAICBM_00195	CDS	1101				hypothetical protein
+OOLAICBM_00196	gene	1851				
+OOLAICBM_00196	CDS	1851				hypothetical protein
+OOLAICBM_00197	gene	936	corA			
+OOLAICBM_00197	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+OOLAICBM_00198	gene	705				
+OOLAICBM_00198	CDS	705				hypothetical protein
+OOLAICBM_00199	gene	1839	typA			
+OOLAICBM_00199	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+OOLAICBM_00200	gene	201				
+OOLAICBM_00200	CDS	201				hypothetical protein
+OOLAICBM_00201	gene	2268	copA			
+OOLAICBM_00201	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+OOLAICBM_00202	gene	297				
+OOLAICBM_00202	CDS	297				hypothetical protein
+OOLAICBM_00203	gene	684	czcR			
+OOLAICBM_00203	CDS	684	czcR			Transcriptional activator protein CzcR
+OOLAICBM_00204	gene	1374	adeP			
+OOLAICBM_00204	CDS	1374	adeP		COG2252	Adenine permease AdeP
+OOLAICBM_00205	gene	1620	ybiT			
+OOLAICBM_00205	CDS	1620	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+OOLAICBM_00206	gene	567	pinR			
+OOLAICBM_00206	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+OOLAICBM_00207	gene	2460				
+OOLAICBM_00207	CDS	2460				hypothetical protein
+OOLAICBM_00208	gene	681	lolD_1			
+OOLAICBM_00208	CDS	681	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+OOLAICBM_00209	gene	603	nudL			
+OOLAICBM_00209	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+OOLAICBM_00210	gene	291				
+OOLAICBM_00210	CDS	291				hypothetical protein
+OOLAICBM_00211	gene	762	ribX			
+OOLAICBM_00211	CDS	762	ribX			Riboflavin transport system permease protein RibX
+OOLAICBM_00212	gene	1023	thiY			
+OOLAICBM_00212	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+OOLAICBM_00213	gene	726	tauB			
+OOLAICBM_00213	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+OOLAICBM_00214	gene	2643	mutS			
+OOLAICBM_00214	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+OOLAICBM_00215	gene	2061	mutL			
+OOLAICBM_00215	CDS	2061	mutL			DNA mismatch repair protein MutL
+OOLAICBM_00216	gene	942	miaA			
+OOLAICBM_00216	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OOLAICBM_00217	gene	1275				
+OOLAICBM_00217	CDS	1275				hypothetical protein
+OOLAICBM_00218	gene	498	proX			
+OOLAICBM_00218	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+OOLAICBM_00219	gene	2121	nrdD			
+OOLAICBM_00219	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+OOLAICBM_00220	gene	504	nrdG			
+OOLAICBM_00220	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+OOLAICBM_00221	gene	318	erpA			
+OOLAICBM_00221	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+OOLAICBM_00222	gene	858	trmB			
+OOLAICBM_00222	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+OOLAICBM_00223	gene	819				
+OOLAICBM_00223	CDS	819				hypothetical protein
+OOLAICBM_00224	gene	849				
+OOLAICBM_00224	CDS	849				DegV domain-containing protein
+OOLAICBM_00225	gene	1356	prpC			
+OOLAICBM_00225	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+OOLAICBM_00226	gene	1053	ltaE			
+OOLAICBM_00226	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+OOLAICBM_00227	gene	1140	xerD			
+OOLAICBM_00227	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+OOLAICBM_00228	gene	636	lexA			
+OOLAICBM_00228	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+OOLAICBM_00229	gene	93				
+OOLAICBM_00229	CDS	93				hypothetical protein
+OOLAICBM_00230	gene	2127	nqrC			
+OOLAICBM_00230	CDS	2127	nqrC	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit C
+OOLAICBM_00231	gene	525				
+OOLAICBM_00231	CDS	525				hypothetical protein
+OOLAICBM_00232	gene	723				
+OOLAICBM_00232	CDS	723				hypothetical protein
+OOLAICBM_00233	gene	4011				
+OOLAICBM_00233	CDS	4011				hypothetical protein
+OOLAICBM_00234	gene	996				
+OOLAICBM_00234	CDS	996				hypothetical protein
+OOLAICBM_00235	gene	1365	rclA			
+OOLAICBM_00235	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+OOLAICBM_00236	gene	573				
+OOLAICBM_00236	CDS	573				hypothetical protein
+OOLAICBM_00237	gene	1476				
+OOLAICBM_00237	CDS	1476				hypothetical protein
+OOLAICBM_00238	gene	498				
+OOLAICBM_00238	CDS	498				hypothetical protein
+OOLAICBM_00239	gene	1044				
+OOLAICBM_00239	CDS	1044				hypothetical protein
+OOLAICBM_00240	gene	1188				
+OOLAICBM_00240	CDS	1188				hypothetical protein
+OOLAICBM_00241	gene	852				
+OOLAICBM_00241	CDS	852				hypothetical protein
+OOLAICBM_00242	gene	1071				
+OOLAICBM_00242	CDS	1071				hypothetical protein
+OOLAICBM_00243	gene	408				
+OOLAICBM_00243	CDS	408				hypothetical protein
+OOLAICBM_00244	gene	504				
+OOLAICBM_00244	CDS	504				hypothetical protein
+OOLAICBM_00245	gene	915				
+OOLAICBM_00245	CDS	915				hypothetical protein
+OOLAICBM_00246	gene	249				
+OOLAICBM_00246	CDS	249				hypothetical protein
+OOLAICBM_00247	gene	363				
+OOLAICBM_00247	CDS	363				hypothetical protein
+OOLAICBM_00248	gene	357				
+OOLAICBM_00248	CDS	357				hypothetical protein
+OOLAICBM_00249	gene	312				
+OOLAICBM_00249	CDS	312				IS200/IS605 family transposase IS1541B
+OOLAICBM_00250	gene	246				
+OOLAICBM_00250	CDS	246				hypothetical protein
+OOLAICBM_00251	gene	348				
+OOLAICBM_00251	CDS	348				hypothetical protein
+OOLAICBM_00252	gene	624				
+OOLAICBM_00252	CDS	624				hypothetical protein
+OOLAICBM_00253	gene	1362	rlmCD			
+OOLAICBM_00253	CDS	1362	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+OOLAICBM_00254	gene	1737	pyk			
+OOLAICBM_00254	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+OOLAICBM_00255	gene	972	pfkA			
+OOLAICBM_00255	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+OOLAICBM_00256	gene	180	rpsU			
+OOLAICBM_00256	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+OOLAICBM_00257	gene	441	yqeY			
+OOLAICBM_00257	CDS	441	yqeY		COG1610	putative protein YqeY
+OOLAICBM_00258	gene	861				
+OOLAICBM_00258	CDS	861				hypothetical protein
+OOLAICBM_00259	gene	606				
+OOLAICBM_00259	CDS	606				hypothetical protein
+OOLAICBM_00260	gene	675	ung			
+OOLAICBM_00260	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+OOLAICBM_00261	gene	375				
+OOLAICBM_00261	CDS	375				hypothetical protein
+OOLAICBM_00262	gene	1050	apbE			
+OOLAICBM_00262	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+OOLAICBM_00263	gene	2505				
+OOLAICBM_00263	CDS	2505				hypothetical protein
+OOLAICBM_00264	gene	672	lolD_2			
+OOLAICBM_00264	CDS	672	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+OOLAICBM_00265	gene	975	sasA_2			
+OOLAICBM_00265	CDS	975	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+OOLAICBM_00266	gene	672	regX3			
+OOLAICBM_00266	CDS	672	regX3		COG0745	Sensory transduction protein regX3
+OOLAICBM_00267	gene	495	nusB			
+OOLAICBM_00267	CDS	495	nusB			Transcription antitermination protein NusB
+OOLAICBM_00268	gene	342				
+OOLAICBM_00268	CDS	342				putative protein
+OOLAICBM_00269	gene	1977	fbp			
+OOLAICBM_00269	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+OOLAICBM_00270	gene	1017	plsX			
+OOLAICBM_00270	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+OOLAICBM_00271	gene	180	rpmF			
+OOLAICBM_00271	CDS	180	rpmF			50S ribosomal protein L32
+OOLAICBM_00272	gene	519				
+OOLAICBM_00272	CDS	519				hypothetical protein
+OOLAICBM_00273	gene	1200	ackA			
+OOLAICBM_00273	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+OOLAICBM_00274	gene	1311	tmcAL			
+OOLAICBM_00274	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+OOLAICBM_00275	gene	546				
+OOLAICBM_00275	CDS	546			COG3599	putative protein
+OOLAICBM_00276	gene	483	coaD			
+OOLAICBM_00276	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+OOLAICBM_00277	gene	561	rsmD			
+OOLAICBM_00277	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+OOLAICBM_00278	gene	2058	recG			
+OOLAICBM_00278	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+OOLAICBM_00279	gene	1665				
+OOLAICBM_00279	CDS	1665				putative protein
+OOLAICBM_00280	gene	351				
+OOLAICBM_00280	CDS	351				putative protein
+OOLAICBM_00281	gene	189	rpmB			
+OOLAICBM_00281	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+OOLAICBM_00282	gene	1728	ade			
+OOLAICBM_00282	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+OOLAICBM_00283	gene	1233				
+OOLAICBM_00283	CDS	1233				hypothetical protein
+OOLAICBM_00284	gene	1293				
+OOLAICBM_00284	CDS	1293				hypothetical protein
+OOLAICBM_00285	gene	1347	rpoN			
+OOLAICBM_00285	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+OOLAICBM_00286	gene	1044				
+OOLAICBM_00286	CDS	1044				hypothetical protein
+OOLAICBM_00287	gene	690				
+OOLAICBM_00287	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+OOLAICBM_00288	gene	1164	ugtP			
+OOLAICBM_00288	CDS	1164	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+OOLAICBM_00289	gene	987	nrdF			
+OOLAICBM_00289	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+OOLAICBM_00290	gene	2109	nrdE			
+OOLAICBM_00290	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+OOLAICBM_00291	gene	2403				
+OOLAICBM_00291	CDS	2403				hypothetical protein
+OOLAICBM_00292	gene	237	dltC			
+OOLAICBM_00292	CDS	237	dltC		COG0236	D-alanyl carrier protein
+OOLAICBM_00293	gene	1161				
+OOLAICBM_00293	CDS	1161				hypothetical protein
+OOLAICBM_00294	gene	1599	dltA			
+OOLAICBM_00294	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+OOLAICBM_00295	gene	126				
+OOLAICBM_00295	CDS	126				hypothetical protein
+OOLAICBM_00296	gene	1227	dltD			
+OOLAICBM_00296	CDS	1227	dltD		COG3966	Protein DltD
+OOLAICBM_00297	gene	1173				
+OOLAICBM_00297	CDS	1173				hypothetical protein
+OOLAICBM_00298	gene	300				
+OOLAICBM_00298	CDS	300				hypothetical protein
+OOLAICBM_00299	gene	1362	gabR			
+OOLAICBM_00299	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+OOLAICBM_00300	gene	858	pdxS			
+OOLAICBM_00300	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+OOLAICBM_00301	gene	885				
+OOLAICBM_00301	CDS	885				hypothetical protein
+OOLAICBM_00302	gene	1872	yjcD			
+OOLAICBM_00302	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+OOLAICBM_00303	gene	1587	clcA			
+OOLAICBM_00303	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+OOLAICBM_00304	gene	858	folD			
+OOLAICBM_00304	CDS	858	folD			Bifunctional protein FolD protein
+OOLAICBM_00305	gene	636	fchA			
+OOLAICBM_00305	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+OOLAICBM_00306	gene	141				
+OOLAICBM_00306	CDS	141				hypothetical protein
+OOLAICBM_00307	gene	1980	htpG			
+OOLAICBM_00307	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+OOLAICBM_00308	gene	1461				
+OOLAICBM_00308	CDS	1461				hypothetical protein
+OOLAICBM_00309	gene	765	fpuC			
+OOLAICBM_00309	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+OOLAICBM_00310	gene	1065	isdF			
+OOLAICBM_00310	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+OOLAICBM_00311	gene	918	isdE			
+OOLAICBM_00311	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+OOLAICBM_00312	gene	1125				
+OOLAICBM_00312	CDS	1125				hypothetical protein
+OOLAICBM_00313	gene	2019				
+OOLAICBM_00313	CDS	2019				hypothetical protein
+OOLAICBM_00314	gene	375				
+OOLAICBM_00314	CDS	375				hypothetical protein
+OOLAICBM_00315	gene	930				
+OOLAICBM_00315	CDS	930				hypothetical protein
+OOLAICBM_00316	gene	1425	purB			
+OOLAICBM_00316	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+OOLAICBM_00317	gene	1278	purA			
+OOLAICBM_00317	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OOLAICBM_00318	gene	1452	trkG			
+OOLAICBM_00318	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+OOLAICBM_00319	gene	1365	trkA			
+OOLAICBM_00319	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+OOLAICBM_00320	gene	762				
+OOLAICBM_00320	CDS	762				hypothetical protein
+OOLAICBM_00321	gene	927	trxB			
+OOLAICBM_00321	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+OOLAICBM_00322	gene	1374	zwf			
+OOLAICBM_00322	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+OOLAICBM_00323	gene	1440	gnd			
+OOLAICBM_00323	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+OOLAICBM_00324	gene	1251	dinB			
+OOLAICBM_00324	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+OOLAICBM_00325	gene	849	nadC			
+OOLAICBM_00325	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+OOLAICBM_00326	gene	1311	nadB			
+OOLAICBM_00326	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+OOLAICBM_00327	gene	909	nadA			
+OOLAICBM_00327	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+OOLAICBM_00328	gene	462	dut			
+OOLAICBM_00328	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OOLAICBM_00329	gene	1203	roo			
+OOLAICBM_00329	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+OOLAICBM_00330	gene	1062	lytC_2			
+OOLAICBM_00330	CDS	1062	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+OOLAICBM_00331	gene	420				
+OOLAICBM_00331	CDS	420				hypothetical protein
+OOLAICBM_00332	gene	600	fbpC			
+OOLAICBM_00332	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+OOLAICBM_00333	gene	672	cmpB			
+OOLAICBM_00333	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+OOLAICBM_00334	gene	993				
+OOLAICBM_00334	CDS	993				hypothetical protein
+OOLAICBM_00335	gene	504				
+OOLAICBM_00335	CDS	504				hypothetical protein
+OOLAICBM_00336	gene	681	tgnD			
+OOLAICBM_00336	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+OOLAICBM_00337	gene	996	btuD_1			
+OOLAICBM_00337	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OOLAICBM_00338	gene	696	ureG			
+OOLAICBM_00338	CDS	696	ureG			Urease accessory protein UreG
+OOLAICBM_00339	gene	1227				
+OOLAICBM_00339	CDS	1227				hypothetical protein
+OOLAICBM_00340	gene	1746				
+OOLAICBM_00340	CDS	1746				hypothetical protein
+OOLAICBM_00341	gene	810	ecsA_1			
+OOLAICBM_00341	CDS	810	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+OOLAICBM_00342	gene	1239	queH			
+OOLAICBM_00342	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+OOLAICBM_00343	gene	909	ppaC			
+OOLAICBM_00343	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+OOLAICBM_00344	gene	525				
+OOLAICBM_00344	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+OOLAICBM_00345	gene	1428	apeB			
+OOLAICBM_00345	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+OOLAICBM_00346	gene	2364	pcrA			
+OOLAICBM_00346	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+OOLAICBM_00347	gene	477	cysG_1			
+OOLAICBM_00347	CDS	477	cysG_1		COG0007	Siroheme synthase
+OOLAICBM_00348	gene	969	hemB			
+OOLAICBM_00348	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+OOLAICBM_00349	gene	1524	cysG_2			
+OOLAICBM_00349	CDS	1524	cysG_2	4.99.1.4		Siroheme synthase
+OOLAICBM_00350	gene	933	hemC			
+OOLAICBM_00350	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+OOLAICBM_00351	gene	969	bioB			
+OOLAICBM_00351	CDS	969	bioB	2.8.1.6		Biotin synthase
+OOLAICBM_00352	gene	522	dcd			
+OOLAICBM_00352	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+OOLAICBM_00353	gene	402				
+OOLAICBM_00353	CDS	402				hypothetical protein
+OOLAICBM_00354	gene	546				
+OOLAICBM_00354	CDS	546				hypothetical protein
+OOLAICBM_00355	gene	324				
+OOLAICBM_00355	CDS	324				hypothetical protein
+OOLAICBM_00356	gene	771	nirC			
+OOLAICBM_00356	CDS	771	nirC		COG2116	Nitrite transporter NirC
+OOLAICBM_00357	gene	972	asrC			
+OOLAICBM_00357	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+OOLAICBM_00358	gene	801	asrB			
+OOLAICBM_00358	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+OOLAICBM_00359	gene	1011	asrA			
+OOLAICBM_00359	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+OOLAICBM_00360	gene	687	glxR			
+OOLAICBM_00360	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+OOLAICBM_00361	gene	462	ribH			
+OOLAICBM_00361	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+OOLAICBM_00362	gene	1206	ribBA			
+OOLAICBM_00362	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+OOLAICBM_00363	gene	657	ribE			
+OOLAICBM_00363	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+OOLAICBM_00364	gene	1119	ribD			
+OOLAICBM_00364	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+OOLAICBM_00365	gene	867				
+OOLAICBM_00365	CDS	867				hypothetical protein
+OOLAICBM_00366	gene	936				
+OOLAICBM_00366	CDS	936				hypothetical protein
+OOLAICBM_00367	gene	858				
+OOLAICBM_00367	CDS	858				hypothetical protein
+OOLAICBM_00368	gene	918				
+OOLAICBM_00368	CDS	918				hypothetical protein
+OOLAICBM_00369	gene	1581				
+OOLAICBM_00369	CDS	1581				hypothetical protein
+OOLAICBM_00370	gene	2904				
+OOLAICBM_00370	CDS	2904				hypothetical protein
+OOLAICBM_00371	gene	2424				
+OOLAICBM_00371	CDS	2424				hypothetical protein
+OOLAICBM_00372	gene	273				
+OOLAICBM_00372	CDS	273				hypothetical protein
+OOLAICBM_00373	gene	855				
+OOLAICBM_00373	CDS	855				hypothetical protein
+OOLAICBM_00374	gene	2211	kdpB			
+OOLAICBM_00374	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+OOLAICBM_00375	gene	378				
+OOLAICBM_00375	CDS	378				hypothetical protein
+OOLAICBM_00376	gene	597				
+OOLAICBM_00376	CDS	597				hypothetical protein
+OOLAICBM_00377	gene	1119				
+OOLAICBM_00377	CDS	1119				hypothetical protein
+OOLAICBM_00378	gene	1125				
+OOLAICBM_00378	CDS	1125				hypothetical protein
+OOLAICBM_00379	gene	933	lnrL			
+OOLAICBM_00379	CDS	933	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+OOLAICBM_00380	gene	1128				
+OOLAICBM_00380	CDS	1128				hypothetical protein
+OOLAICBM_00381	gene	645	lnrK			
+OOLAICBM_00381	CDS	645	lnrK		COG2197	Transcriptional regulatory protein LnrK
+OOLAICBM_00382	gene	651				
+OOLAICBM_00382	CDS	651				hypothetical protein
+OOLAICBM_00383	gene	507	tpx			
+OOLAICBM_00383	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+OOLAICBM_00384	gene	462	mutX			
+OOLAICBM_00384	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+OOLAICBM_00385	gene	279	yjdJ			
+OOLAICBM_00385	CDS	279	yjdJ		COG2388	putative protein YjdJ
+OOLAICBM_00386	gene	825	ydjP			
+OOLAICBM_00386	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+OOLAICBM_00387	gene	1764	rqcH			
+OOLAICBM_00387	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+OOLAICBM_00388	gene	525	pyrR			
+OOLAICBM_00388	CDS	525	pyrR			Bifunctional protein PyrR
+OOLAICBM_00389	gene	933	rluD_1			
+OOLAICBM_00389	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OOLAICBM_00390	gene	480	lspA			
+OOLAICBM_00390	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+OOLAICBM_00391	gene	768				
+OOLAICBM_00391	CDS	768				hypothetical protein
+OOLAICBM_00392	gene	1008	trpS			
+OOLAICBM_00392	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+OOLAICBM_00393	gene	708	mtnN			
+OOLAICBM_00393	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+OOLAICBM_00394	gene	1053				
+OOLAICBM_00394	CDS	1053				hypothetical protein
+OOLAICBM_00395	gene	786				
+OOLAICBM_00395	CDS	786				hypothetical protein
+OOLAICBM_00396	gene	1959				
+OOLAICBM_00396	CDS	1959				hypothetical protein
+OOLAICBM_00397	gene	387	dfx			
+OOLAICBM_00397	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+OOLAICBM_00398	gene	372	perR			
+OOLAICBM_00398	CDS	372	perR		COG0735	Peroxide operon regulator
+OOLAICBM_00399	gene	549	rbr			
+OOLAICBM_00399	CDS	549	rbr		COG1592	Rubrerythrin
+OOLAICBM_00400	gene	519	hmpT			
+OOLAICBM_00400	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+OOLAICBM_00401	gene	1263	sstT_2			
+OOLAICBM_00401	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+OOLAICBM_00402	gene	2826	uvrA			
+OOLAICBM_00402	CDS	2826	uvrA			UvrABC system protein A
+OOLAICBM_00403	gene	576				
+OOLAICBM_00403	CDS	576				hypothetical protein
+OOLAICBM_00404	gene	1974	uvrB			
+OOLAICBM_00404	CDS	1974	uvrB			UvrABC system protein B
+OOLAICBM_00405	gene	396				
+OOLAICBM_00405	CDS	396				hypothetical protein
+OOLAICBM_00406	gene	1116				
+OOLAICBM_00406	CDS	1116				hypothetical protein
+OOLAICBM_00407	gene	396	panD			
+OOLAICBM_00407	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+OOLAICBM_00408	gene	879				
+OOLAICBM_00408	CDS	879				hypothetical protein
+OOLAICBM_00409	gene	1185	aspC			
+OOLAICBM_00409	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+OOLAICBM_00410	gene	1326	brnQ_1			
+OOLAICBM_00410	CDS	1326	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+OOLAICBM_00411	gene	993	hpr			
+OOLAICBM_00411	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+OOLAICBM_00412	gene	1008	carE_1			
+OOLAICBM_00412	CDS	1008	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+OOLAICBM_00413	gene	792	carD_1			
+OOLAICBM_00413	CDS	792	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+OOLAICBM_00414	gene	1134	carC_1			
+OOLAICBM_00414	CDS	1134	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+OOLAICBM_00415	gene	1119	hadC_1			
+OOLAICBM_00415	CDS	1119	hadC_1	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+OOLAICBM_00416	gene	1236	fldB			
+OOLAICBM_00416	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+OOLAICBM_00417	gene	1245	fldA_1			
+OOLAICBM_00417	CDS	1245	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+OOLAICBM_00418	gene	696	rspR			
+OOLAICBM_00418	CDS	696	rspR		COG1802	HTH-type transcriptional repressor RspR
+OOLAICBM_00419	gene	351	ssrA			
+OOLAICBM_00419	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+OOLAICBM_00420	gene	978	surA			
+OOLAICBM_00420	CDS	978	surA	5.2.1.8		Chaperone SurA
+OOLAICBM_00421	gene	2181				
+OOLAICBM_00421	CDS	2181				hypothetical protein
+OOLAICBM_00422	gene	3480				
+OOLAICBM_00422	CDS	3480				hypothetical protein
+OOLAICBM_00423	gene	483				
+OOLAICBM_00423	CDS	483				hypothetical protein
+OOLAICBM_00424	gene	2115				
+OOLAICBM_00424	CDS	2115				hypothetical protein
+OOLAICBM_00425	gene	1053				
+OOLAICBM_00425	CDS	1053				hypothetical protein
+OOLAICBM_00426	gene	378				
+OOLAICBM_00426	CDS	378				hypothetical protein
+OOLAICBM_00427	gene	513				
+OOLAICBM_00427	CDS	513				hypothetical protein
+OOLAICBM_00428	gene	804				
+OOLAICBM_00428	CDS	804				hypothetical protein
+OOLAICBM_00429	gene	138				
+OOLAICBM_00429	CDS	138				hypothetical protein
+OOLAICBM_00430	gene	1479	lsa(C)			
+OOLAICBM_00430	CDS	1479	lsa(C)			ABC-F type ribosomal protection protein Lsa(C)
+OOLAICBM_00431	gene	750				
+OOLAICBM_00431	CDS	750				hypothetical protein
+OOLAICBM_00432	gene	369				
+OOLAICBM_00432	CDS	369				hypothetical protein
+OOLAICBM_00433	gene	1683				
+OOLAICBM_00433	CDS	1683				hypothetical protein
+OOLAICBM_00434	gene	2253	rep			
+OOLAICBM_00434	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+OOLAICBM_00435	gene	684				
+OOLAICBM_00435	CDS	684				hypothetical protein
+OOLAICBM_00436	gene	3417	addB			
+OOLAICBM_00436	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+OOLAICBM_00437	gene	3933	addA			
+OOLAICBM_00437	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+OOLAICBM_00438	gene	1224	sbcD			
+OOLAICBM_00438	CDS	1224	sbcD		COG0420	Nuclease SbcCD subunit D
+OOLAICBM_00439	gene	3081	smc_1			
+OOLAICBM_00439	CDS	3081	smc_1			Chromosome partition protein Smc
+OOLAICBM_00440	gene	1329				
+OOLAICBM_00440	CDS	1329				hypothetical protein
+OOLAICBM_00441	gene	711				
+OOLAICBM_00441	CDS	711				hypothetical protein
+OOLAICBM_00442	gene	582				
+OOLAICBM_00442	CDS	582				hypothetical protein
+OOLAICBM_00443	gene	1332	mepA_2			
+OOLAICBM_00443	CDS	1332	mepA_2			Multidrug export protein MepA
+OOLAICBM_00444	gene	465	yfkJ			
+OOLAICBM_00444	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+OOLAICBM_00445	gene	894	bglK			
+OOLAICBM_00445	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+OOLAICBM_00446	gene	993	malR			
+OOLAICBM_00446	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+OOLAICBM_00447	gene	1287				
+OOLAICBM_00447	CDS	1287				hypothetical protein
+OOLAICBM_00448	gene	873	melD			
+OOLAICBM_00448	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+OOLAICBM_00449	gene	822	melC			
+OOLAICBM_00449	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+OOLAICBM_00450	gene	2289	malP			
+OOLAICBM_00450	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+OOLAICBM_00451	gene	1662	malL			
+OOLAICBM_00451	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+OOLAICBM_00452	gene	642	ycjU			
+OOLAICBM_00452	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+OOLAICBM_00453	gene	1128	msmX			
+OOLAICBM_00453	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+OOLAICBM_00454	gene	390				
+OOLAICBM_00454	CDS	390				hypothetical protein
+OOLAICBM_00455	gene	1380				
+OOLAICBM_00455	CDS	1380				hypothetical protein
+OOLAICBM_00456	gene	174				
+OOLAICBM_00456	CDS	174				hypothetical protein
+OOLAICBM_00457	gene	789				
+OOLAICBM_00457	CDS	789				hypothetical protein
+OOLAICBM_00458	gene	789				
+OOLAICBM_00458	CDS	789				hypothetical protein
+OOLAICBM_00459	gene	702				
+OOLAICBM_00459	CDS	702				hypothetical protein
+OOLAICBM_00460	gene	657	bcrA			
+OOLAICBM_00460	CDS	657	bcrA			Bacitracin transport ATP-binding protein BcrA
+OOLAICBM_00461	gene	495				
+OOLAICBM_00461	CDS	495				hypothetical protein
+OOLAICBM_00462	gene	516				
+OOLAICBM_00462	CDS	516				hypothetical protein
+OOLAICBM_00463	gene	414				
+OOLAICBM_00463	CDS	414				hypothetical protein
+OOLAICBM_00464	gene	2505				
+OOLAICBM_00464	CDS	2505				hypothetical protein
+OOLAICBM_00465	gene	678	macB_2			
+OOLAICBM_00465	CDS	678	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+OOLAICBM_00466	gene	828				
+OOLAICBM_00466	CDS	828				hypothetical protein
+OOLAICBM_00467	gene	615				
+OOLAICBM_00467	CDS	615				hypothetical protein
+OOLAICBM_00468	gene	597				
+OOLAICBM_00468	CDS	597				hypothetical protein
+OOLAICBM_00469	gene	705	ecfT_1			
+OOLAICBM_00469	CDS	705	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+OOLAICBM_00470	gene	1470	ykoD_1			
+OOLAICBM_00470	CDS	1470	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OOLAICBM_00471	gene	1755				
+OOLAICBM_00471	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+OOLAICBM_00472	gene	1755	msbA_1			
+OOLAICBM_00472	CDS	1755	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+OOLAICBM_00473	gene	585				
+OOLAICBM_00473	CDS	585				hypothetical protein
+OOLAICBM_00474	gene	1380	mepA_3			
+OOLAICBM_00474	CDS	1380	mepA_3			Multidrug export protein MepA
+OOLAICBM_00475	gene	1824	dap			
+OOLAICBM_00475	CDS	1824	dap	3.4.11.19		D-aminopeptidase
+OOLAICBM_00476	gene	501				
+OOLAICBM_00476	CDS	501			COG2826	IS30 family transposase ISSlu1
+OOLAICBM_00477	gene	1926	thrZ			
+OOLAICBM_00477	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+OOLAICBM_00478	gene	1005	hrcA			
+OOLAICBM_00478	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+OOLAICBM_00479	gene	624	grpE			
+OOLAICBM_00479	CDS	624	grpE			Protein GrpE
+OOLAICBM_00480	gene	1836	dnaK			
+OOLAICBM_00480	CDS	1836	dnaK		COG0443	Chaperone protein DnaK
+OOLAICBM_00481	gene	1155	dnaJ			
+OOLAICBM_00481	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+OOLAICBM_00482	gene	717	tcdA			
+OOLAICBM_00482	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+OOLAICBM_00483	gene	867	comEC_1			
+OOLAICBM_00483	CDS	867	comEC_1		COG0658	ComE operon protein 3
+OOLAICBM_00484	gene	906				
+OOLAICBM_00484	CDS	906				hypothetical protein
+OOLAICBM_00485	gene	1287	eis			
+OOLAICBM_00485	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+OOLAICBM_00486	gene	1236	comEC_2			
+OOLAICBM_00486	CDS	1236	comEC_2		COG0658	ComE operon protein 3
+OOLAICBM_00487	gene	1038	yqeN			
+OOLAICBM_00487	CDS	1038	yqeN		COG1466	putative protein YqeN
+OOLAICBM_00488	gene	687	graR			
+OOLAICBM_00488	CDS	687	graR		COG0745	Response regulator protein GraR
+OOLAICBM_00489	gene	990	graS			
+OOLAICBM_00489	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+OOLAICBM_00490	gene	1056				
+OOLAICBM_00490	CDS	1056				hypothetical protein
+OOLAICBM_00491	gene	447				
+OOLAICBM_00491	CDS	447				hypothetical protein
+OOLAICBM_00492	gene	990	iolS			
+OOLAICBM_00492	CDS	990	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+OOLAICBM_00493	gene	843				
+OOLAICBM_00493	CDS	843				hypothetical protein
+OOLAICBM_00494	gene	486				
+OOLAICBM_00494	CDS	486				hypothetical protein
+OOLAICBM_00495	gene	840				
+OOLAICBM_00495	CDS	840		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+OOLAICBM_00496	gene	726				
+OOLAICBM_00496	CDS	726				hypothetical protein
+OOLAICBM_00497	gene	1071				
+OOLAICBM_00497	CDS	1071				hypothetical protein
+OOLAICBM_00498	gene	888				
+OOLAICBM_00498	CDS	888		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+OOLAICBM_00499	gene	891	hdfR			
+OOLAICBM_00499	CDS	891	hdfR			HTH-type transcriptional regulator HdfR
+OOLAICBM_00500	gene	573				
+OOLAICBM_00500	CDS	573				hypothetical protein
+OOLAICBM_00501	gene	225				
+OOLAICBM_00501	CDS	225				hypothetical protein
+OOLAICBM_00502	gene	489				
+OOLAICBM_00502	CDS	489				hypothetical protein
+OOLAICBM_00503	gene	1896	ftsH4			
+OOLAICBM_00503	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+OOLAICBM_00504	gene	831	ispH			
+OOLAICBM_00504	CDS	831	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+OOLAICBM_00505	gene	615	plsC			
+OOLAICBM_00505	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+OOLAICBM_00506	gene	660	cmk			
+OOLAICBM_00506	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+OOLAICBM_00507	gene	1257				
+OOLAICBM_00507	CDS	1257			COG2081	putative protein
+OOLAICBM_00508	gene	651	pspA			
+OOLAICBM_00508	CDS	651	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+OOLAICBM_00509	gene	942	hexR			
+OOLAICBM_00509	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+OOLAICBM_00510	gene	732	rluB			
+OOLAICBM_00510	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+OOLAICBM_00511	gene	705				
+OOLAICBM_00511	CDS	705				hypothetical protein
+OOLAICBM_00512	gene	1389	gltD			
+OOLAICBM_00512	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+OOLAICBM_00513	gene	894				
+OOLAICBM_00513	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+OOLAICBM_00514	gene	855	sseB			
+OOLAICBM_00514	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+OOLAICBM_00515	gene	1035	mtgA			
+OOLAICBM_00515	CDS	1035	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+OOLAICBM_00516	gene	519	polC_2			
+OOLAICBM_00516	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+OOLAICBM_00517	gene	891	ttcA			
+OOLAICBM_00517	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+OOLAICBM_00518	gene	2283	topB			
+OOLAICBM_00518	CDS	2283	topB	5.6.2.1		DNA topoisomerase 3
+OOLAICBM_00519	gene	1422	purF			
+OOLAICBM_00519	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OOLAICBM_00520	gene	1647	gltX			
+OOLAICBM_00520	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+OOLAICBM_00521	gene	1452				
+OOLAICBM_00521	CDS	1452				hypothetical protein
+OOLAICBM_00522	gene	684				
+OOLAICBM_00522	CDS	684				hypothetical protein
+OOLAICBM_00523	gene	336				
+OOLAICBM_00523	CDS	336				hypothetical protein
+OOLAICBM_00524	gene	771				
+OOLAICBM_00524	CDS	771				hypothetical protein
+OOLAICBM_00525	gene	594				
+OOLAICBM_00525	CDS	594				hypothetical protein
+OOLAICBM_00526	gene	576				
+OOLAICBM_00526	CDS	576				hypothetical protein
+OOLAICBM_00527	gene	1023				
+OOLAICBM_00527	CDS	1023				hypothetical protein
+OOLAICBM_00528	gene	567				
+OOLAICBM_00528	CDS	567				hypothetical protein
+OOLAICBM_00529	gene	804	ywpJ			
+OOLAICBM_00529	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+OOLAICBM_00530	gene	1266	cinA			
+OOLAICBM_00530	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+OOLAICBM_00531	gene	897	ddl			
+OOLAICBM_00531	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+OOLAICBM_00532	gene	2205	srfAB			
+OOLAICBM_00532	CDS	2205	srfAB			Surfactin synthase subunit 2
+OOLAICBM_00533	gene	894				
+OOLAICBM_00533	CDS	894				hypothetical protein
+OOLAICBM_00534	gene	1401	asnS			
+OOLAICBM_00534	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+OOLAICBM_00535	gene	1572				
+OOLAICBM_00535	CDS	1572				hypothetical protein
+OOLAICBM_00536	gene	1860	asnB			
+OOLAICBM_00536	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+OOLAICBM_00537	gene	780	aroK			
+OOLAICBM_00537	CDS	780	aroK	2.7.1.71		Shikimate kinase
+OOLAICBM_00538	gene	1077	aroC			
+OOLAICBM_00538	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+OOLAICBM_00539	gene	1461	aroA			
+OOLAICBM_00539	CDS	1461	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OOLAICBM_00540	gene	219				
+OOLAICBM_00540	CDS	219				hypothetical protein
+OOLAICBM_00541	gene	681				
+OOLAICBM_00541	CDS	681				hypothetical protein
+OOLAICBM_00542	gene	2154	ptsG			
+OOLAICBM_00542	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+OOLAICBM_00543	gene	882	licT			
+OOLAICBM_00543	CDS	882	licT		COG3711	Transcription antiterminator LicT
+OOLAICBM_00544	gene	3534				
+OOLAICBM_00544	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+OOLAICBM_00545	gene	1764				
+OOLAICBM_00545	CDS	1764				hypothetical protein
+OOLAICBM_00546	gene	465				
+OOLAICBM_00546	CDS	465				hypothetical protein
+OOLAICBM_00547	gene	1236	baiN			
+OOLAICBM_00547	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+OOLAICBM_00548	gene	795				
+OOLAICBM_00548	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+OOLAICBM_00549	gene	531	hpt			
+OOLAICBM_00549	CDS	531	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+OOLAICBM_00550	gene	1005	asnA			
+OOLAICBM_00550	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+OOLAICBM_00551	gene	1230				
+OOLAICBM_00551	CDS	1230				hypothetical protein
+OOLAICBM_00552	gene	1104				
+OOLAICBM_00552	CDS	1104				hypothetical protein
+OOLAICBM_00553	gene	1023	lnpD			
+OOLAICBM_00553	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+OOLAICBM_00554	gene	177				
+OOLAICBM_00554	CDS	177				hypothetical protein
+OOLAICBM_00555	gene	1980				
+OOLAICBM_00555	CDS	1980				hypothetical protein
+OOLAICBM_00556	gene	2844				
+OOLAICBM_00556	CDS	2844				hypothetical protein
+OOLAICBM_00557	gene	738				
+OOLAICBM_00557	CDS	738				hypothetical protein
+OOLAICBM_00558	gene	1059				
+OOLAICBM_00558	CDS	1059				hypothetical protein
+OOLAICBM_00559	gene	471				
+OOLAICBM_00559	CDS	471				hypothetical protein
+OOLAICBM_00560	gene	825	metQ			
+OOLAICBM_00560	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+OOLAICBM_00561	gene	654	metP			
+OOLAICBM_00561	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+OOLAICBM_00562	gene	969	metN			
+OOLAICBM_00562	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+OOLAICBM_00563	gene	354				
+OOLAICBM_00563	CDS	354				hypothetical protein
+OOLAICBM_00564	gene	1296	brnQ_2			
+OOLAICBM_00564	CDS	1296	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+OOLAICBM_00565	gene	2589	clpB			
+OOLAICBM_00565	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+OOLAICBM_00566	gene	642				
+OOLAICBM_00566	CDS	642				hypothetical protein
+OOLAICBM_00567	gene	411				
+OOLAICBM_00567	CDS	411				hypothetical protein
+OOLAICBM_00568	gene	1188	dxr			
+OOLAICBM_00568	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+OOLAICBM_00569	gene	1011	mmpA			
+OOLAICBM_00569	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+OOLAICBM_00570	gene	1056	ispG			
+OOLAICBM_00570	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+OOLAICBM_00571	gene	528				
+OOLAICBM_00571	CDS	528				hypothetical protein
+OOLAICBM_00572	gene	477				
+OOLAICBM_00572	CDS	477				hypothetical protein
+OOLAICBM_00573	gene	708				
+OOLAICBM_00573	CDS	708				hypothetical protein
+OOLAICBM_00574	gene	471				
+OOLAICBM_00574	CDS	471				hypothetical protein
+OOLAICBM_00575	gene	1233				
+OOLAICBM_00575	CDS	1233				hypothetical protein
+OOLAICBM_00576	gene	645	trmR			
+OOLAICBM_00576	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+OOLAICBM_00577	gene	1203	mltG			
+OOLAICBM_00577	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+OOLAICBM_00578	gene	822	punA			
+OOLAICBM_00578	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+OOLAICBM_00579	gene	1074				
+OOLAICBM_00579	CDS	1074				hypothetical protein
+OOLAICBM_00580	gene	831				
+OOLAICBM_00580	CDS	831				hypothetical protein
+OOLAICBM_00581	gene	687	arnC			
+OOLAICBM_00581	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OOLAICBM_00582	gene	864				
+OOLAICBM_00582	CDS	864				hypothetical protein
+OOLAICBM_00583	gene	1122				
+OOLAICBM_00583	CDS	1122				hypothetical protein
+OOLAICBM_00584	gene	1683	recN			
+OOLAICBM_00584	CDS	1683	recN		COG0497	DNA repair protein RecN
+OOLAICBM_00585	gene	843	tlyA			
+OOLAICBM_00585	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+OOLAICBM_00586	gene	1947	dxs			
+OOLAICBM_00586	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+OOLAICBM_00587	gene	432				
+OOLAICBM_00587	CDS	432				hypothetical protein
+OOLAICBM_00588	gene	885				
+OOLAICBM_00588	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+OOLAICBM_00589	gene	246	xseB			
+OOLAICBM_00589	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+OOLAICBM_00590	gene	1206	xseA			
+OOLAICBM_00590	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+OOLAICBM_00591	gene	1107				
+OOLAICBM_00591	CDS	1107				hypothetical protein
+OOLAICBM_00592	gene	582				
+OOLAICBM_00592	CDS	582				hypothetical protein
+OOLAICBM_00593	gene	318				
+OOLAICBM_00593	CDS	318				hypothetical protein
+OOLAICBM_00594	gene	1395	alaS_1			
+OOLAICBM_00594	CDS	1395	alaS_1	6.1.1.7		Alanine--tRNA ligase
+OOLAICBM_00595	gene	954	msrAB			
+OOLAICBM_00595	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+OOLAICBM_00596	gene	678				
+OOLAICBM_00596	CDS	678				hypothetical protein
+OOLAICBM_00597	gene	1221				
+OOLAICBM_00597	CDS	1221				hypothetical protein
+OOLAICBM_00598	gene	1878				
+OOLAICBM_00598	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+OOLAICBM_00599	gene	2175	btuD_2			
+OOLAICBM_00599	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OOLAICBM_00600	gene	768	prsA			
+OOLAICBM_00600	CDS	768	prsA	5.2.1.8		Foldase protein PrsA
+OOLAICBM_00601	gene	444				
+OOLAICBM_00601	CDS	444				hypothetical protein
+OOLAICBM_00602	gene	465				
+OOLAICBM_00602	CDS	465				hypothetical protein
+OOLAICBM_00603	gene	453				
+OOLAICBM_00603	CDS	453				hypothetical protein
+OOLAICBM_00604	gene	201	cspA			
+OOLAICBM_00604	CDS	201	cspA		COG1278	Cold shock protein CspA
+OOLAICBM_00605	gene	825	pdxY			
+OOLAICBM_00605	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+OOLAICBM_00606	gene	1902				
+OOLAICBM_00606	CDS	1902				hypothetical protein
+OOLAICBM_00607	gene	957	galT			
+OOLAICBM_00607	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+OOLAICBM_00608	gene	1200				
+OOLAICBM_00608	CDS	1200		2.6.1.1		Aspartate aminotransferase
+OOLAICBM_00609	gene	813	uppP			
+OOLAICBM_00609	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+OOLAICBM_00610	gene	1782				
+OOLAICBM_00610	CDS	1782				hypothetical protein
+OOLAICBM_00611	gene	1548	rny			
+OOLAICBM_00611	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+OOLAICBM_00612	gene	1626				
+OOLAICBM_00612	CDS	1626				hypothetical protein
+OOLAICBM_00613	gene	1083				
+OOLAICBM_00613	CDS	1083				hypothetical protein
+OOLAICBM_00614	gene	450	fur			
+OOLAICBM_00614	CDS	450	fur		COG0735	Ferric uptake regulation protein
+OOLAICBM_00615	gene	417	yrrK			
+OOLAICBM_00615	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+OOLAICBM_00616	gene	2280				
+OOLAICBM_00616	CDS	2280				hypothetical protein
+OOLAICBM_00617	gene	261				
+OOLAICBM_00617	CDS	261				hypothetical protein
+OOLAICBM_00618	gene	2637	alaS_2			
+OOLAICBM_00618	CDS	2637	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+OOLAICBM_00619	gene	285				
+OOLAICBM_00619	CDS	285				hypothetical protein
+OOLAICBM_00620	gene	627				
+OOLAICBM_00620	CDS	627			COG2826	IS30 family transposase ISLjo1
+OOLAICBM_00621	gene	222				
+OOLAICBM_00621	CDS	222				hypothetical protein
+OOLAICBM_00622	gene	1524				
+OOLAICBM_00622	CDS	1524				hypothetical protein
+OOLAICBM_00623	gene	1500	ftsH			
+OOLAICBM_00623	CDS	1500	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OOLAICBM_00624	gene	681				
+OOLAICBM_00624	CDS	681				hypothetical protein
+OOLAICBM_00625	gene	684				
+OOLAICBM_00625	CDS	684				hypothetical protein
+OOLAICBM_00626	gene	177				
+OOLAICBM_00626	CDS	177				hypothetical protein
+OOLAICBM_00627	gene	978				
+OOLAICBM_00627	CDS	978				hypothetical protein
+OOLAICBM_00628	gene	849				
+OOLAICBM_00628	CDS	849				hypothetical protein
+OOLAICBM_00629	gene	438				
+OOLAICBM_00629	CDS	438				hypothetical protein
+OOLAICBM_00630	gene	657				
+OOLAICBM_00630	CDS	657				hypothetical protein
+OOLAICBM_00631	gene	477				
+OOLAICBM_00631	CDS	477				hypothetical protein
+OOLAICBM_00632	gene	1194	sdaB			
+OOLAICBM_00632	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+OOLAICBM_00633	gene	885	dapA			
+OOLAICBM_00633	CDS	885	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+OOLAICBM_00634	gene	606	rpsD			
+OOLAICBM_00634	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+OOLAICBM_00635	gene	744	artM			
+OOLAICBM_00635	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+OOLAICBM_00636	gene	675	artQ_2			
+OOLAICBM_00636	CDS	675	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+OOLAICBM_00637	gene	846	artP			
+OOLAICBM_00637	CDS	846	artP		COG0834	Arginine-binding extracellular protein ArtP
+OOLAICBM_00638	gene	282				
+OOLAICBM_00638	CDS	282				hypothetical protein
+OOLAICBM_00639	gene	2190				
+OOLAICBM_00639	CDS	2190				hypothetical protein
+OOLAICBM_00640	gene	549				
+OOLAICBM_00640	CDS	549				hypothetical protein
+OOLAICBM_00641	gene	1269				
+OOLAICBM_00641	CDS	1269				hypothetical protein
+OOLAICBM_00642	gene	495	sigM_2			
+OOLAICBM_00642	CDS	495	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+OOLAICBM_00643	gene	1083				
+OOLAICBM_00643	CDS	1083				hypothetical protein
+OOLAICBM_00644	gene	450				
+OOLAICBM_00644	CDS	450				hypothetical protein
+OOLAICBM_00645	gene	354				
+OOLAICBM_00645	CDS	354				hypothetical protein
+OOLAICBM_00646	gene	672				
+OOLAICBM_00646	CDS	672				hypothetical protein
+OOLAICBM_00647	gene	600				
+OOLAICBM_00647	CDS	600				hypothetical protein
+OOLAICBM_00648	gene	1740				
+OOLAICBM_00648	CDS	1740				hypothetical protein
+OOLAICBM_00649	gene	1719				
+OOLAICBM_00649	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+OOLAICBM_00650	gene	1743	msbA_2			
+OOLAICBM_00650	CDS	1743	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+OOLAICBM_00651	gene	588				
+OOLAICBM_00651	CDS	588				hypothetical protein
+OOLAICBM_00652	gene	1413	ykoD_2			
+OOLAICBM_00652	CDS	1413	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OOLAICBM_00653	gene	675				
+OOLAICBM_00653	CDS	675				hypothetical protein
+OOLAICBM_00654	gene	774				
+OOLAICBM_00654	CDS	774				hypothetical protein
+OOLAICBM_00655	gene	582	pyrE			
+OOLAICBM_00655	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OOLAICBM_00656	gene	903	pyrD			
+OOLAICBM_00656	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+OOLAICBM_00657	gene	690	pyrK			
+OOLAICBM_00657	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OOLAICBM_00658	gene	912	pyrB			
+OOLAICBM_00658	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+OOLAICBM_00659	gene	1218	dctA			
+OOLAICBM_00659	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+OOLAICBM_00660	gene	732				
+OOLAICBM_00660	CDS	732				hypothetical protein
+OOLAICBM_00661	gene	834				
+OOLAICBM_00661	CDS	834				hypothetical protein
+OOLAICBM_00662	gene	1032				
+OOLAICBM_00662	CDS	1032				hypothetical protein
+OOLAICBM_00663	gene	1608				
+OOLAICBM_00663	CDS	1608				hypothetical protein
+OOLAICBM_00664	gene	1260	sasA_3			
+OOLAICBM_00664	CDS	1260	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+OOLAICBM_00665	gene	684	tcrA			
+OOLAICBM_00665	CDS	684	tcrA		COG0745	Transcriptional regulatory protein TcrA
+OOLAICBM_00666	gene	321				
+OOLAICBM_00666	CDS	321				hypothetical protein
+OOLAICBM_00667	gene	657				
+OOLAICBM_00667	CDS	657				hypothetical protein
+OOLAICBM_00668	gene	1077				
+OOLAICBM_00668	CDS	1077				hypothetical protein
+OOLAICBM_00669	gene	1074				
+OOLAICBM_00669	CDS	1074				hypothetical protein
+OOLAICBM_00670	gene	585				
+OOLAICBM_00670	CDS	585				hypothetical protein
+OOLAICBM_00671	gene	4161				
+OOLAICBM_00671	CDS	4161				hypothetical protein
+OOLAICBM_00672	gene	1311				
+OOLAICBM_00672	CDS	1311				hypothetical protein
+OOLAICBM_00673	gene	618				
+OOLAICBM_00673	CDS	618				hypothetical protein
+OOLAICBM_00674	gene	723				
+OOLAICBM_00674	CDS	723				hypothetical protein
+OOLAICBM_00675	gene	495				
+OOLAICBM_00675	CDS	495				hypothetical protein
+OOLAICBM_00676	gene	1134				
+OOLAICBM_00676	CDS	1134				hypothetical protein
+OOLAICBM_00677	gene	633				
+OOLAICBM_00677	CDS	633				hypothetical protein
+OOLAICBM_00678	gene	357				
+OOLAICBM_00678	CDS	357				hypothetical protein
+OOLAICBM_00679	gene	363				
+OOLAICBM_00679	CDS	363				hypothetical protein
+OOLAICBM_00680	gene	405				
+OOLAICBM_00680	CDS	405				hypothetical protein
+OOLAICBM_00681	gene	507				
+OOLAICBM_00681	CDS	507				hypothetical protein
+OOLAICBM_00682	gene	1173				
+OOLAICBM_00682	CDS	1173				hypothetical protein
+OOLAICBM_00683	gene	441	ywnA			
+OOLAICBM_00683	CDS	441	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+OOLAICBM_00684	gene	771				
+OOLAICBM_00684	CDS	771				hypothetical protein
+OOLAICBM_00685	gene	705				
+OOLAICBM_00685	CDS	705				hypothetical protein
+OOLAICBM_00686	gene	3603	dnaE			
+OOLAICBM_00686	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+OOLAICBM_00687	gene	966	whiA			
+OOLAICBM_00687	CDS	966	whiA		COG1481	putative cell division protein WhiA
+OOLAICBM_00688	gene	417	ndx1			
+OOLAICBM_00688	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+OOLAICBM_00689	gene	1140				
+OOLAICBM_00689	CDS	1140			COG0391	Gluconeogenesis factor
+OOLAICBM_00690	gene	864	yvcJ			
+OOLAICBM_00690	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+OOLAICBM_00691	gene	738	polX			
+OOLAICBM_00691	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+OOLAICBM_00692	gene	921	murB			
+OOLAICBM_00692	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+OOLAICBM_00693	gene	933	hprK			
+OOLAICBM_00693	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+OOLAICBM_00694	gene	1818	uvrC			
+OOLAICBM_00694	CDS	1818	uvrC		COG0322	UvrABC system protein C
+OOLAICBM_00695	gene	957	rhaR_1			
+OOLAICBM_00695	CDS	957	rhaR_1			HTH-type transcriptional activator RhaR
+OOLAICBM_00696	gene	1770	msbA_3			
+OOLAICBM_00696	CDS	1770	msbA_3	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+OOLAICBM_00697	gene	1719				
+OOLAICBM_00697	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+OOLAICBM_00698	gene	609				
+OOLAICBM_00698	CDS	609				hypothetical protein
+OOLAICBM_00699	gene	705				
+OOLAICBM_00699	CDS	705				hypothetical protein
+OOLAICBM_00700	gene	1557	ykoD_3			
+OOLAICBM_00700	CDS	1557	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OOLAICBM_00701	gene	2391	pheT			
+OOLAICBM_00701	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+OOLAICBM_00702	gene	1032	pheS			
+OOLAICBM_00702	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+OOLAICBM_00703	gene	822				
+OOLAICBM_00703	CDS	822				hypothetical protein
+OOLAICBM_00704	gene	345				
+OOLAICBM_00704	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+OOLAICBM_00705	gene	324				
+OOLAICBM_00705	CDS	324				hypothetical protein
+OOLAICBM_00706	gene	1296	mtaB			
+OOLAICBM_00706	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+OOLAICBM_00707	gene	777	rsmE			
+OOLAICBM_00707	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+OOLAICBM_00708	gene	951	prmA			
+OOLAICBM_00708	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+OOLAICBM_00709	gene	2961				
+OOLAICBM_00709	CDS	2961				hypothetical protein
+OOLAICBM_00710	gene	378	yabJ			
+OOLAICBM_00710	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+OOLAICBM_00711	gene	1218	tdcB			
+OOLAICBM_00711	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+OOLAICBM_00712	gene	390				
+OOLAICBM_00712	CDS	390				hypothetical protein
+OOLAICBM_00713	gene	1281	obg			
+OOLAICBM_00713	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+OOLAICBM_00714	gene	291	rpmA			
+OOLAICBM_00714	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+OOLAICBM_00715	gene	318				
+OOLAICBM_00715	CDS	318				hypothetical protein
+OOLAICBM_00716	gene	309	rplU			
+OOLAICBM_00716	CDS	309	rplU		COG0261	50S ribosomal protein L21
+OOLAICBM_00717	gene	915	yijE			
+OOLAICBM_00717	CDS	915	yijE			putative cystine transporter YijE
+OOLAICBM_00718	gene	2421	leuS			
+OOLAICBM_00718	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+OOLAICBM_00719	gene	351	rsfS			
+OOLAICBM_00719	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+OOLAICBM_00720	gene	561				
+OOLAICBM_00720	CDS	561				hypothetical protein
+OOLAICBM_00721	gene	696	nadD			
+OOLAICBM_00721	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+OOLAICBM_00722	gene	624	recX			
+OOLAICBM_00722	CDS	624	recX			Regulatory protein RecX
+OOLAICBM_00723	gene	348	crcB_1			
+OOLAICBM_00723	CDS	348	crcB_1			Putative fluoride ion transporter CrcB
+OOLAICBM_00724	gene	462	crcB_2			
+OOLAICBM_00724	CDS	462	crcB_2			Putative fluoride ion transporter CrcB
+OOLAICBM_00725	gene	921	rbn			
+OOLAICBM_00725	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+OOLAICBM_00726	gene	1401	rne			
+OOLAICBM_00726	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+OOLAICBM_00727	gene	699				
+OOLAICBM_00727	CDS	699				hypothetical protein
+OOLAICBM_00728	gene	1860				
+OOLAICBM_00728	CDS	1860				hypothetical protein
+OOLAICBM_00729	gene	1113	mrdB			
+OOLAICBM_00729	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+OOLAICBM_00730	gene	2898	mrdA			
+OOLAICBM_00730	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+OOLAICBM_00731	gene	486				
+OOLAICBM_00731	CDS	486				hypothetical protein
+OOLAICBM_00732	gene	882				
+OOLAICBM_00732	CDS	882				hypothetical protein
+OOLAICBM_00733	gene	1050	mreB_1			
+OOLAICBM_00733	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+OOLAICBM_00734	gene	687				
+OOLAICBM_00734	CDS	687				hypothetical protein
+OOLAICBM_00735	gene	76				
+OOLAICBM_00735	tRNA	76				tRNA-Val(tac)
+OOLAICBM_00736	gene	77				
+OOLAICBM_00736	tRNA	77				tRNA-Asp(gtc)
+OOLAICBM_00737	gene	75				
+OOLAICBM_00737	tRNA	75				tRNA-Gly(gcc)
+OOLAICBM_00738	gene	76				
+OOLAICBM_00738	tRNA	76				tRNA-Pyl(cta)
+OOLAICBM_00739	gene	852	cdaA			
+OOLAICBM_00739	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+OOLAICBM_00740	gene	915	cdaR			
+OOLAICBM_00740	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+OOLAICBM_00741	gene	1083	buk2			
+OOLAICBM_00741	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+OOLAICBM_00742	gene	678				
+OOLAICBM_00742	CDS	678				hypothetical protein
+OOLAICBM_00743	gene	216	rsxB			
+OOLAICBM_00743	CDS	216	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+OOLAICBM_00744	gene	1065	padG			
+OOLAICBM_00744	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+OOLAICBM_00745	gene	780	korB			
+OOLAICBM_00745	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+OOLAICBM_00746	gene	555				
+OOLAICBM_00746	CDS	555				hypothetical protein
+OOLAICBM_00747	gene	1368	glmM			
+OOLAICBM_00747	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+OOLAICBM_00748	gene	177				
+OOLAICBM_00748	CDS	177				hypothetical protein
+OOLAICBM_00749	gene	1254	murAA			
+OOLAICBM_00749	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+OOLAICBM_00750	gene	1011	mreB_2			
+OOLAICBM_00750	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+OOLAICBM_00751	gene	1185	metK			
+OOLAICBM_00751	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+OOLAICBM_00752	gene	2220	recD2			
+OOLAICBM_00752	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+OOLAICBM_00753	gene	771				
+OOLAICBM_00753	CDS	771				hypothetical protein
+OOLAICBM_00754	gene	540	folT			
+OOLAICBM_00754	CDS	540	folT			Folate transporter FolT
+OOLAICBM_00755	gene	2691	secA_2			
+OOLAICBM_00755	CDS	2691	secA_2			Protein translocase subunit SecA
+OOLAICBM_00756	gene	1671	norR			
+OOLAICBM_00756	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+OOLAICBM_00757	gene	1182				
+OOLAICBM_00757	CDS	1182				hypothetical protein
+OOLAICBM_00758	gene	1212	fldA_2			
+OOLAICBM_00758	CDS	1212	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+OOLAICBM_00759	gene	1233	hadB			
+OOLAICBM_00759	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+OOLAICBM_00760	gene	1125	hadC_2			
+OOLAICBM_00760	CDS	1125	hadC_2	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+OOLAICBM_00761	gene	1143	carC_2			
+OOLAICBM_00761	CDS	1143	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+OOLAICBM_00762	gene	786	carD_2			
+OOLAICBM_00762	CDS	786	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+OOLAICBM_00763	gene	1011	carE_2			
+OOLAICBM_00763	CDS	1011	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+OOLAICBM_00764	gene	999				
+OOLAICBM_00764	CDS	999		1.1.1.28		D-lactate dehydrogenase
+OOLAICBM_00765	gene	1047	prfB			
+OOLAICBM_00765	CDS	1047	prfB			Peptide chain release factor 2
+OOLAICBM_00766	gene	2163	yhgF			
+OOLAICBM_00766	CDS	2163	yhgF		COG2183	Protein YhgF
+OOLAICBM_00767	gene	621	ribU			
+OOLAICBM_00767	CDS	621	ribU			Riboflavin transporter RibU
+OOLAICBM_00768	gene	795	fldI			
+OOLAICBM_00768	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+OOLAICBM_00769	gene	921				
+OOLAICBM_00769	CDS	921				hypothetical protein
+OOLAICBM_00770	gene	459	tsaE			
+OOLAICBM_00770	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+OOLAICBM_00771	gene	720	tsaB			
+OOLAICBM_00771	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+OOLAICBM_00772	gene	450	rimI			
+OOLAICBM_00772	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+OOLAICBM_00773	gene	1020	tsaD			
+OOLAICBM_00773	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+OOLAICBM_00774	gene	1932	yheS			
+OOLAICBM_00774	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+OOLAICBM_00775	gene	636	rex1			
+OOLAICBM_00775	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+OOLAICBM_00776	gene	168				
+OOLAICBM_00776	CDS	168			COG1145	Ferredoxin
+OOLAICBM_00777	gene	1254				
+OOLAICBM_00777	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+OOLAICBM_00778	gene	657				
+OOLAICBM_00778	CDS	657				hypothetical protein
+OOLAICBM_00779	gene	219				
+OOLAICBM_00779	CDS	219				hypothetical protein
+OOLAICBM_00780	gene	234				
+OOLAICBM_00780	CDS	234				hypothetical protein
+OOLAICBM_00781	gene	2151	feoB			
+OOLAICBM_00781	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+OOLAICBM_00782	gene	168				
+OOLAICBM_00782	CDS	168				hypothetical protein
+OOLAICBM_00783	gene	1557				
+OOLAICBM_00783	CDS	1557				hypothetical protein
+OOLAICBM_00784	gene	486				
+OOLAICBM_00784	CDS	486				hypothetical protein
+OOLAICBM_00785	gene	651				
+OOLAICBM_00785	CDS	651				hypothetical protein
+OOLAICBM_00786	gene	954				
+OOLAICBM_00786	CDS	954				hypothetical protein
+OOLAICBM_00787	gene	930	xerC			
+OOLAICBM_00787	CDS	930	xerC			Tyrosine recombinase XerC
+OOLAICBM_00788	gene	4233				
+OOLAICBM_00788	CDS	4233				hypothetical protein
+OOLAICBM_00789	gene	1266				
+OOLAICBM_00789	CDS	1266				hypothetical protein
+OOLAICBM_00790	gene	2574				
+OOLAICBM_00790	CDS	2574				hypothetical protein
+OOLAICBM_00791	gene	1296	ftsY			
+OOLAICBM_00791	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+OOLAICBM_00792	gene	3552	smc_2			
+OOLAICBM_00792	CDS	3552	smc_2		COG1196	Chromosome partition protein Smc
+OOLAICBM_00793	gene	1101				
+OOLAICBM_00793	CDS	1101				hypothetical protein
+OOLAICBM_00794	gene	708	rnc			
+OOLAICBM_00794	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+OOLAICBM_00795	gene	561	efp			
+OOLAICBM_00795	CDS	561	efp		COG0231	Elongation factor P
+OOLAICBM_00796	gene	1695	pgcA			
+OOLAICBM_00796	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+OOLAICBM_00797	gene	726	gamA			
+OOLAICBM_00797	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+OOLAICBM_00798	gene	801				
+OOLAICBM_00798	CDS	801				IS3 family transposase ISEfa10
+OOLAICBM_00799	gene	417				
+OOLAICBM_00799	CDS	417				hypothetical protein
+OOLAICBM_00800	gene	1653	btuD_3			
+OOLAICBM_00800	CDS	1653	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OOLAICBM_00801	gene	1239				
+OOLAICBM_00801	CDS	1239				hypothetical protein
+OOLAICBM_00802	gene	855	yxlF			
+OOLAICBM_00802	CDS	855	yxlF	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+OOLAICBM_00803	gene	210				
+OOLAICBM_00803	CDS	210				hypothetical protein
+OOLAICBM_00804	gene	1185	moaA_3			
+OOLAICBM_00804	CDS	1185	moaA_3			GTP 3',8-cyclase
+OOLAICBM_00805	gene	171				
+OOLAICBM_00805	CDS	171				hypothetical protein
+OOLAICBM_00806	gene	1104	sasA_4			
+OOLAICBM_00806	CDS	1104	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+OOLAICBM_00807	gene	684	walR_2			
+OOLAICBM_00807	CDS	684	walR_2		COG0745	Transcriptional regulatory protein WalR
+OOLAICBM_00808	gene	375				
+OOLAICBM_00808	CDS	375				hypothetical protein
+OOLAICBM_00809	gene	1425	ykoD_4			
+OOLAICBM_00809	CDS	1425	ykoD_4	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OOLAICBM_00810	gene	669	ecfT_2			
+OOLAICBM_00810	CDS	669	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+OOLAICBM_00811	gene	612				
+OOLAICBM_00811	CDS	612				hypothetical protein
+OOLAICBM_00812	gene	624				
+OOLAICBM_00812	CDS	624				hypothetical protein
+OOLAICBM_00813	gene	2646	ppdK			
+OOLAICBM_00813	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+OOLAICBM_00814	gene	840	yqfL			
+OOLAICBM_00814	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+OOLAICBM_00815	gene	606	ccpN			
+OOLAICBM_00815	CDS	606	ccpN		COG0517	Transcriptional repressor CcpN
+OOLAICBM_00816	gene	771	aviRb			
+OOLAICBM_00816	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+OOLAICBM_00817	gene	675	ktrA			
+OOLAICBM_00817	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+OOLAICBM_00818	gene	1371	ntpJ			
+OOLAICBM_00818	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+OOLAICBM_00819	gene	1992				
+OOLAICBM_00819	CDS	1992				hypothetical protein
+OOLAICBM_00820	gene	954	lytC_3			
+OOLAICBM_00820	CDS	954	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+OOLAICBM_00821	gene	144				
+OOLAICBM_00821	CDS	144				hypothetical protein
+OOLAICBM_00822	gene	321	yajC			
+OOLAICBM_00822	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+OOLAICBM_00823	gene	1119	tgt			
+OOLAICBM_00823	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+OOLAICBM_00824	gene	1026	queA			
+OOLAICBM_00824	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OOLAICBM_00825	gene	1014	ruvB			
+OOLAICBM_00825	CDS	1014	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+OOLAICBM_00826	gene	612	ruvA			
+OOLAICBM_00826	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+OOLAICBM_00827	gene	498	ruvC			
+OOLAICBM_00827	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+OOLAICBM_00828	gene	567				
+OOLAICBM_00828	CDS	567				hypothetical protein
+OOLAICBM_00829	gene	642				
+OOLAICBM_00829	CDS	642				hypothetical protein
+OOLAICBM_00830	gene	342				
+OOLAICBM_00830	CDS	342				hypothetical protein
+OOLAICBM_00831	gene	357	rplT			
+OOLAICBM_00831	CDS	357	rplT			50S ribosomal protein L20
+OOLAICBM_00832	gene	198	rpmI			
+OOLAICBM_00832	CDS	198	rpmI			50S ribosomal protein L35
+OOLAICBM_00833	gene	459	infC			
+OOLAICBM_00833	CDS	459	infC			Translation initiation factor IF-3
+OOLAICBM_00834	gene	864	map			
+OOLAICBM_00834	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+OOLAICBM_00835	gene	603				
+OOLAICBM_00835	CDS	603				hypothetical protein
+OOLAICBM_00836	gene	444	rhaS			
+OOLAICBM_00836	CDS	444	rhaS			HTH-type transcriptional activator RhaS
+OOLAICBM_00837	gene	375				
+OOLAICBM_00837	CDS	375				hypothetical protein
+OOLAICBM_00838	gene	315				
+OOLAICBM_00838	CDS	315				hypothetical protein
+OOLAICBM_00839	gene	609				
+OOLAICBM_00839	CDS	609				hypothetical protein
+OOLAICBM_00840	gene	183				
+OOLAICBM_00840	CDS	183				hypothetical protein
+OOLAICBM_00841	gene	297				
+OOLAICBM_00841	CDS	297				hypothetical protein
+OOLAICBM_00842	gene	969	mftC			
+OOLAICBM_00842	CDS	969	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+OOLAICBM_00843	gene	630				
+OOLAICBM_00843	CDS	630				hypothetical protein
+OOLAICBM_00844	gene	858	btuD_4			
+OOLAICBM_00844	CDS	858	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OOLAICBM_00845	gene	384	ytrA			
+OOLAICBM_00845	CDS	384	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+OOLAICBM_00846	gene	477				
+OOLAICBM_00846	CDS	477				hypothetical protein
+OOLAICBM_00847	gene	210				
+OOLAICBM_00847	CDS	210				hypothetical protein
+OOLAICBM_00848	gene	2688				
+OOLAICBM_00848	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+OOLAICBM_00849	gene	1062				
+OOLAICBM_00849	CDS	1062				hypothetical protein
+OOLAICBM_00850	gene	597				
+OOLAICBM_00850	CDS	597				hypothetical protein
+OOLAICBM_00851	gene	603				
+OOLAICBM_00851	CDS	603				hypothetical protein
+OOLAICBM_00852	gene	1077	lytC_4			
+OOLAICBM_00852	CDS	1077	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+OOLAICBM_00853	gene	243				
+OOLAICBM_00853	CDS	243				hypothetical protein
+OOLAICBM_00854	gene	1338				
+OOLAICBM_00854	CDS	1338		1.6.99.3		putative NADH oxidase
+OOLAICBM_00855	gene	411				
+OOLAICBM_00855	CDS	411				hypothetical protein
+OOLAICBM_00856	gene	1284	brnQ_3			
+OOLAICBM_00856	CDS	1284	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+OOLAICBM_00857	gene	1968				
+OOLAICBM_00857	CDS	1968				hypothetical protein
+OOLAICBM_00858	gene	426				
+OOLAICBM_00858	CDS	426				hypothetical protein
+OOLAICBM_00859	gene	1740				
+OOLAICBM_00859	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+OOLAICBM_00860	gene	774	dtd3			
+OOLAICBM_00860	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+OOLAICBM_00861	gene	522	niaR			
+OOLAICBM_00861	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+OOLAICBM_00862	gene	1821				
+OOLAICBM_00862	CDS	1821				hypothetical protein
+OOLAICBM_00863	gene	912				
+OOLAICBM_00863	CDS	912				hypothetical protein
+OOLAICBM_00864	gene	1473				
+OOLAICBM_00864	CDS	1473				hypothetical protein
+OOLAICBM_00865	gene	147				
+OOLAICBM_00865	CDS	147				hypothetical protein
+OOLAICBM_00866	gene	228				
+OOLAICBM_00866	CDS	228				hypothetical protein
+OOLAICBM_00867	gene	225				
+OOLAICBM_00867	CDS	225				hypothetical protein
+OOLAICBM_00868	gene	1239				
+OOLAICBM_00868	CDS	1239				hypothetical protein
+OOLAICBM_00869	gene	1677	fhs			
+OOLAICBM_00869	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+OOLAICBM_00870	gene	1143				
+OOLAICBM_00870	CDS	1143				hypothetical protein
+OOLAICBM_00871	gene	1074				
+OOLAICBM_00871	CDS	1074				hypothetical protein
+OOLAICBM_00872	gene	2244				
+OOLAICBM_00872	CDS	2244				hypothetical protein
+OOLAICBM_00873	gene	459				
+OOLAICBM_00873	CDS	459				hypothetical protein
+OOLAICBM_00874	gene	468				
+OOLAICBM_00874	CDS	468				hypothetical protein
+OOLAICBM_00875	gene	1053	mnmA			
+OOLAICBM_00875	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+OOLAICBM_00876	gene	465	cymR			
+OOLAICBM_00876	CDS	465	cymR			HTH-type transcriptional regulator CymR
+OOLAICBM_00877	gene	1272	rarA			
+OOLAICBM_00877	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+OOLAICBM_00878	gene	777	codY			
+OOLAICBM_00878	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+OOLAICBM_00879	gene	2082	topA			
+OOLAICBM_00879	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+OOLAICBM_00880	gene	1257				
+OOLAICBM_00880	CDS	1257				hypothetical protein
+OOLAICBM_00881	gene	1617	comM			
+OOLAICBM_00881	CDS	1617	comM		COG0606	Competence protein ComM
+OOLAICBM_00882	gene	363				
+OOLAICBM_00882	CDS	363				hypothetical protein
+OOLAICBM_00883	gene	1017	hmo			
+OOLAICBM_00883	CDS	1017	hmo	1.1.3.46		4-hydroxymandelate oxidase
+OOLAICBM_00884	gene	792	rnhB			
+OOLAICBM_00884	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+OOLAICBM_00885	gene	1164	alr1			
+OOLAICBM_00885	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+OOLAICBM_00886	gene	885	rbgA			
+OOLAICBM_00886	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+OOLAICBM_00887	gene	357	rplS			
+OOLAICBM_00887	CDS	357	rplS		COG0335	50S ribosomal protein L19
+OOLAICBM_00888	gene	1224	tyrS			
+OOLAICBM_00888	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+OOLAICBM_00889	gene	1158				
+OOLAICBM_00889	CDS	1158				hypothetical protein
+OOLAICBM_00890	gene	741	trmD			
+OOLAICBM_00890	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+OOLAICBM_00891	gene	519	rimM			
+OOLAICBM_00891	CDS	519	rimM			Ribosome maturation factor RimM
+OOLAICBM_00892	gene	234				
+OOLAICBM_00892	CDS	234				hypothetical protein
+OOLAICBM_00893	gene	273	rpsP			
+OOLAICBM_00893	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+OOLAICBM_00894	gene	1359	ffh			
+OOLAICBM_00894	CDS	1359	ffh		COG0541	Signal recognition particle protein
+OOLAICBM_00895	gene	354				
+OOLAICBM_00895	CDS	354				hypothetical protein
+OOLAICBM_00896	gene	1734	aspT			
+OOLAICBM_00896	CDS	1734	aspT			Aspartate/alanine antiporter
+OOLAICBM_00897	gene	1599	asD			
+OOLAICBM_00897	CDS	1599	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+OOLAICBM_00898	gene	198				
+OOLAICBM_00898	CDS	198				IS200/IS605 family transposase ISSsu4
+OOLAICBM_00899	gene	972				
+OOLAICBM_00899	CDS	972				hypothetical protein
+OOLAICBM_00900	gene	1035				
+OOLAICBM_00900	CDS	1035				hypothetical protein
+OOLAICBM_00901	gene	651				
+OOLAICBM_00901	CDS	651				hypothetical protein
+OOLAICBM_00902	gene	846				
+OOLAICBM_00902	CDS	846				hypothetical protein
+OOLAICBM_00903	gene	153				
+OOLAICBM_00903	CDS	153				hypothetical protein
+OOLAICBM_00904	gene	711				
+OOLAICBM_00904	CDS	711				hypothetical protein
+OOLAICBM_00905	gene	399				
+OOLAICBM_00905	CDS	399				hypothetical protein
+OOLAICBM_00906	gene	432				
+OOLAICBM_00906	CDS	432				hypothetical protein
+OOLAICBM_00907	gene	330				
+OOLAICBM_00907	CDS	330				hypothetical protein
+OOLAICBM_00908	gene	1077	cshE			
+OOLAICBM_00908	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+OOLAICBM_00909	gene	1977	leuC			
+OOLAICBM_00909	CDS	1977	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+OOLAICBM_00910	gene	1035	icd			
+OOLAICBM_00910	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+OOLAICBM_00911	gene	846	nadK			
+OOLAICBM_00911	CDS	846	nadK	2.7.1.23		NAD kinase
+OOLAICBM_00912	gene	933	rluD_2			
+OOLAICBM_00912	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OOLAICBM_00913	gene	1011				
+OOLAICBM_00913	CDS	1011				hypothetical protein
+OOLAICBM_00914	gene	228	acpP			
+OOLAICBM_00914	CDS	228	acpP			Acyl carrier protein
+OOLAICBM_00915	gene	1020	ccpA			
+OOLAICBM_00915	CDS	1020	ccpA		COG1609	Catabolite control protein A
+OOLAICBM_00916	gene	234				
+OOLAICBM_00916	CDS	234				hypothetical protein
+OOLAICBM_00917	gene	1404	lysN			
+OOLAICBM_00917	CDS	1404	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+OOLAICBM_00918	gene	201				
+OOLAICBM_00918	CDS	201				hypothetical protein
+OOLAICBM_00919	gene	912	cmpR			
+OOLAICBM_00919	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+OOLAICBM_00920	gene	85				
+OOLAICBM_00920	tRNA	85				tRNA-Leu(caa)
+OOLAICBM_00921	gene	2643	polA			
+OOLAICBM_00921	CDS	2643	polA	2.7.7.7		DNA polymerase I
+OOLAICBM_00922	gene	606	coaE			
+OOLAICBM_00922	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+OOLAICBM_00923	gene	561	mltC			
+OOLAICBM_00923	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+OOLAICBM_00924	gene	213				
+OOLAICBM_00924	CDS	213				hypothetical protein
+OOLAICBM_00925	gene	1827	glmS			
+OOLAICBM_00925	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OOLAICBM_00926	gene	762	truA			
+OOLAICBM_00926	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+OOLAICBM_00927	gene	1071				
+OOLAICBM_00927	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+OOLAICBM_00928	gene	918				
+OOLAICBM_00928	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+OOLAICBM_00929	gene	1254				
+OOLAICBM_00929	CDS	1254				hypothetical protein
+OOLAICBM_00930	gene	429	rplM			
+OOLAICBM_00930	CDS	429	rplM		COG0102	50S ribosomal protein L13
+OOLAICBM_00931	gene	393	rpsI			
+OOLAICBM_00931	CDS	393	rpsI			30S ribosomal protein S9
+OOLAICBM_00932	gene	552	rpoE			
+OOLAICBM_00932	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+OOLAICBM_00933	gene	1299				
+OOLAICBM_00933	CDS	1299				hypothetical protein
+OOLAICBM_00934	gene	258				
+OOLAICBM_00934	CDS	258				hypothetical protein
+OOLAICBM_00935	gene	351				
+OOLAICBM_00935	CDS	351				hypothetical protein
+OOLAICBM_00936	gene	2487				
+OOLAICBM_00936	CDS	2487				hypothetical protein
+OOLAICBM_00937	gene	486	greA			
+OOLAICBM_00937	CDS	486	greA		COG0782	Transcription elongation factor GreA
+OOLAICBM_00938	gene	1911	epmA			
+OOLAICBM_00938	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+OOLAICBM_00939	gene	720				
+OOLAICBM_00939	CDS	720				hypothetical protein
+OOLAICBM_00940	gene	1095				
+OOLAICBM_00940	CDS	1095				hypothetical protein
+OOLAICBM_00941	gene	1182				
+OOLAICBM_00941	CDS	1182		2.6.1.1		Aspartate aminotransferase
+OOLAICBM_00942	gene	756	yxdL			
+OOLAICBM_00942	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+OOLAICBM_00943	gene	1875	yxdM			
+OOLAICBM_00943	CDS	1875	yxdM			ABC transporter permease protein YxdM
+OOLAICBM_00944	gene	267	rpsT			
+OOLAICBM_00944	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+OOLAICBM_00945	gene	1806	lepA			
+OOLAICBM_00945	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+OOLAICBM_00946	gene	1317	cca			
+OOLAICBM_00946	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+OOLAICBM_00947	gene	861				
+OOLAICBM_00947	CDS	861				hypothetical protein
+OOLAICBM_00948	gene	1149	hemW			
+OOLAICBM_00948	CDS	1149	hemW		COG0635	Heme chaperone HemW
+OOLAICBM_00949	gene	576	zapA			
+OOLAICBM_00949	CDS	576	zapA			Cell division protein ZapA
+OOLAICBM_00950	gene	2439				
+OOLAICBM_00950	CDS	2439				hypothetical protein
+OOLAICBM_00951	gene	1614	nnr			
+OOLAICBM_00951	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+OOLAICBM_00952	gene	453				
+OOLAICBM_00952	CDS	453				hypothetical protein
+OOLAICBM_00953	gene	1005				
+OOLAICBM_00953	CDS	1005			COG0330	putative protein
+OOLAICBM_00954	gene	369				
+OOLAICBM_00954	CDS	369				hypothetical protein
+OOLAICBM_00955	gene	1494				
+OOLAICBM_00955	CDS	1494				hypothetical protein
+OOLAICBM_00956	gene	666				
+OOLAICBM_00956	CDS	666				hypothetical protein
+OOLAICBM_00957	gene	552	trpP			
+OOLAICBM_00957	CDS	552	trpP			putative tryptophan transport protein
+OOLAICBM_00958	gene	2415				
+OOLAICBM_00958	CDS	2415				hypothetical protein
+OOLAICBM_00959	gene	651				
+OOLAICBM_00959	CDS	651				hypothetical protein
+OOLAICBM_00960	gene	735				
+OOLAICBM_00960	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+OOLAICBM_00961	gene	213				
+OOLAICBM_00961	CDS	213				hypothetical protein
+OOLAICBM_00962	gene	804				
+OOLAICBM_00962	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+OOLAICBM_00963	gene	777	trmK			
+OOLAICBM_00963	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+OOLAICBM_00964	gene	1155	sigA			
+OOLAICBM_00964	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+OOLAICBM_00965	gene	1824	dnaG			
+OOLAICBM_00965	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+OOLAICBM_00966	gene	957				
+OOLAICBM_00966	CDS	957				hypothetical protein
+OOLAICBM_00967	gene	867				
+OOLAICBM_00967	CDS	867				hypothetical protein
+OOLAICBM_00968	gene	507				
+OOLAICBM_00968	CDS	507				hypothetical protein
+OOLAICBM_00969	gene	951				
+OOLAICBM_00969	CDS	951				hypothetical protein
+OOLAICBM_00970	gene	561				
+OOLAICBM_00970	CDS	561				hypothetical protein
+OOLAICBM_00971	gene	549				
+OOLAICBM_00971	CDS	549				hypothetical protein
+OOLAICBM_00972	gene	189				
+OOLAICBM_00972	CDS	189				Rubredoxin
+OOLAICBM_00973	gene	1101	dhaD			
+OOLAICBM_00973	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+OOLAICBM_00974	gene	1191				
+OOLAICBM_00974	CDS	1191				hypothetical protein
+OOLAICBM_00975	gene	750				
+OOLAICBM_00975	CDS	750				hypothetical protein
+OOLAICBM_00976	gene	411				
+OOLAICBM_00976	CDS	411				hypothetical protein
+OOLAICBM_00977	gene	243				
+OOLAICBM_00977	CDS	243				hypothetical protein
+OOLAICBM_00978	gene	705				
+OOLAICBM_00978	CDS	705				hypothetical protein
+OOLAICBM_00979	gene	1368	mepA_4			
+OOLAICBM_00979	CDS	1368	mepA_4			Multidrug export protein MepA
+OOLAICBM_00980	gene	2472				
+OOLAICBM_00980	CDS	2472				hypothetical protein
+OOLAICBM_00981	gene	432				
+OOLAICBM_00981	CDS	432				hypothetical protein
+OOLAICBM_00982	gene	639				
+OOLAICBM_00982	CDS	639				hypothetical protein
+OOLAICBM_00983	gene	1626	mleA			
+OOLAICBM_00983	CDS	1626	mleA	4.1.1.101	COG0281	Malolactic enzyme
+OOLAICBM_00984	gene	735	rsuA			
+OOLAICBM_00984	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+OOLAICBM_00985	gene	876	hslO			
+OOLAICBM_00985	CDS	876	hslO		COG1281	33 kDa chaperonin
+OOLAICBM_00986	gene	795	COQ5			
+OOLAICBM_00986	CDS	795	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OOLAICBM_00987	gene	1371	ykoD_5			
+OOLAICBM_00987	CDS	1371	ykoD_5	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OOLAICBM_00988	gene	690	ecfT_3			
+OOLAICBM_00988	CDS	690	ecfT_3			Energy-coupling factor transporter transmembrane protein EcfT
+OOLAICBM_00989	gene	588				
+OOLAICBM_00989	CDS	588				hypothetical protein
+OOLAICBM_00990	gene	1725				
+OOLAICBM_00990	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+OOLAICBM_00991	gene	1758	hepA			
+OOLAICBM_00991	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+OOLAICBM_00992	gene	933	rhaR_2			
+OOLAICBM_00992	CDS	933	rhaR_2			HTH-type transcriptional activator RhaR
+OOLAICBM_00993	gene	627				
+OOLAICBM_00993	CDS	627			COG2826	IS30 family transposase ISLga1
+OOLAICBM_00994	gene	369				
+OOLAICBM_00994	CDS	369			COG2826	IS30 family transposase ISLga1
+OOLAICBM_00995	gene	1239	rps1			
+OOLAICBM_00995	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+OOLAICBM_00996	gene	354				
+OOLAICBM_00996	CDS	354				hypothetical protein
+OOLAICBM_00997	gene	213				
+OOLAICBM_00997	CDS	213				hypothetical protein
+OOLAICBM_00998	gene	1560				
+OOLAICBM_00998	CDS	1560				hypothetical protein
+OOLAICBM_00999	gene	729	ecsA_2			
+OOLAICBM_00999	CDS	729	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+OOLAICBM_01000	gene	618	slmA			
+OOLAICBM_01000	CDS	618	slmA			Nucleoid occlusion factor SlmA
+OOLAICBM_01001	gene	1659	glnS			
+OOLAICBM_01001	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+OOLAICBM_01002	gene	558				
+OOLAICBM_01002	CDS	558				hypothetical protein
+OOLAICBM_01003	gene	1440	miaB			
+OOLAICBM_01003	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OOLAICBM_01004	gene	198				
+OOLAICBM_01004	CDS	198				hypothetical protein
+OOLAICBM_01005	gene	366				
+OOLAICBM_01005	CDS	366				hypothetical protein
+OOLAICBM_01006	gene	969				
+OOLAICBM_01006	CDS	969		2.7.7.-		Cyclic dipyrimidine nucleotide synthase
+OOLAICBM_01007	gene	555				
+OOLAICBM_01007	CDS	555				hypothetical protein
+OOLAICBM_01008	gene	510				
+OOLAICBM_01008	CDS	510				hypothetical protein
+OOLAICBM_01009	gene	453				
+OOLAICBM_01009	CDS	453				hypothetical protein
+OOLAICBM_01010	gene	396				
+OOLAICBM_01010	CDS	396				hypothetical protein
+OOLAICBM_01011	gene	777				
+OOLAICBM_01011	CDS	777				hypothetical protein
+OOLAICBM_01012	gene	213				
+OOLAICBM_01012	CDS	213				hypothetical protein
+OOLAICBM_01013	gene	834				
+OOLAICBM_01013	CDS	834				hypothetical protein
+OOLAICBM_01014	gene	5994				
+OOLAICBM_01014	CDS	5994				hypothetical protein
+OOLAICBM_01015	gene	89				
+OOLAICBM_01015	rRNA	89				5S ribosomal RNA (partial)
+OOLAICBM_01016	gene	417				
+OOLAICBM_01016	CDS	417				hypothetical protein
+OOLAICBM_01017	gene	147				
+OOLAICBM_01017	CDS	147				hypothetical protein
+OOLAICBM_01018	gene	1767				
+OOLAICBM_01018	CDS	1767				hypothetical protein
+OOLAICBM_01019	gene	453				
+OOLAICBM_01019	CDS	453				hypothetical protein
+OOLAICBM_01020	gene	894				
+OOLAICBM_01020	CDS	894				hypothetical protein
+OOLAICBM_01021	gene	1023				
+OOLAICBM_01021	CDS	1023				hypothetical protein
+OOLAICBM_01022	gene	516				
+OOLAICBM_01022	CDS	516				hypothetical protein
+OOLAICBM_01023	gene	107				
+OOLAICBM_01023	rRNA	107				5S ribosomal RNA
+OOLAICBM_01024	gene	3441	pycA			
+OOLAICBM_01024	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+OOLAICBM_01025	gene	1401				
+OOLAICBM_01025	CDS	1401				hypothetical protein

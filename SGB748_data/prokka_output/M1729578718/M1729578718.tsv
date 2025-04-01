@@ -1,0 +1,2483 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KJPHKLPM_00001	gene	645				
+KJPHKLPM_00001	CDS	645				hypothetical protein
+KJPHKLPM_00002	gene	504				
+KJPHKLPM_00002	CDS	504				hypothetical protein
+KJPHKLPM_00003	gene	1140	pgl			
+KJPHKLPM_00003	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+KJPHKLPM_00004	gene	369	rplL			
+KJPHKLPM_00004	CDS	369	rplL			50S ribosomal protein L7/L12
+KJPHKLPM_00005	gene	522	rplJ			
+KJPHKLPM_00005	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+KJPHKLPM_00006	gene	699	rplA			
+KJPHKLPM_00006	CDS	699	rplA			50S ribosomal protein L1
+KJPHKLPM_00007	gene	426	rplK			
+KJPHKLPM_00007	CDS	426	rplK		COG0080	50S ribosomal protein L11
+KJPHKLPM_00008	gene	543	nusG			
+KJPHKLPM_00008	CDS	543	nusG			Transcription termination/antitermination protein NusG
+KJPHKLPM_00009	gene	207	secE			
+KJPHKLPM_00009	CDS	207	secE			Protein translocase subunit SecE
+KJPHKLPM_00010	gene	150	rpmG2			
+KJPHKLPM_00010	CDS	150	rpmG2			50S ribosomal protein L33 2
+KJPHKLPM_00011	gene	489	queT			
+KJPHKLPM_00011	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+KJPHKLPM_00012	gene	696				
+KJPHKLPM_00012	CDS	696				hypothetical protein
+KJPHKLPM_00013	gene	1224	pepT			
+KJPHKLPM_00013	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+KJPHKLPM_00014	gene	75				
+KJPHKLPM_00014	tRNA	75				tRNA-Arg(tcg)
+KJPHKLPM_00015	gene	402				
+KJPHKLPM_00015	CDS	402				hypothetical protein
+KJPHKLPM_00016	gene	75				
+KJPHKLPM_00016	tRNA	75				tRNA-Arg(cct)
+KJPHKLPM_00017	gene	1200	gerN			
+KJPHKLPM_00017	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+KJPHKLPM_00018	gene	447				
+KJPHKLPM_00018	CDS	447				hypothetical protein
+KJPHKLPM_00019	gene	702				
+KJPHKLPM_00019	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+KJPHKLPM_00020	gene	3555	rpoC			
+KJPHKLPM_00020	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+KJPHKLPM_00021	gene	96				
+KJPHKLPM_00021	CDS	96				hypothetical protein
+KJPHKLPM_00022	gene	3747	rpoB			
+KJPHKLPM_00022	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+KJPHKLPM_00023	gene	1056				
+KJPHKLPM_00023	CDS	1056				hypothetical protein
+KJPHKLPM_00024	gene	927				
+KJPHKLPM_00024	CDS	927				hypothetical protein
+KJPHKLPM_00025	gene	1698				
+KJPHKLPM_00025	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+KJPHKLPM_00026	gene	1764				
+KJPHKLPM_00026	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+KJPHKLPM_00027	gene	1782				
+KJPHKLPM_00027	CDS	1782				hypothetical protein
+KJPHKLPM_00028	gene	618				
+KJPHKLPM_00028	CDS	618				hypothetical protein
+KJPHKLPM_00029	gene	540	clcA			
+KJPHKLPM_00029	CDS	540	clcA			H(+)/Cl(-) exchange transporter ClcA
+KJPHKLPM_00030	gene	1872	yjcD			
+KJPHKLPM_00030	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+KJPHKLPM_00031	gene	885				
+KJPHKLPM_00031	CDS	885				hypothetical protein
+KJPHKLPM_00032	gene	858	pdxS			
+KJPHKLPM_00032	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+KJPHKLPM_00033	gene	1362	gabR			
+KJPHKLPM_00033	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+KJPHKLPM_00034	gene	300				
+KJPHKLPM_00034	CDS	300				hypothetical protein
+KJPHKLPM_00035	gene	1173				
+KJPHKLPM_00035	CDS	1173				hypothetical protein
+KJPHKLPM_00036	gene	1227	dltD			
+KJPHKLPM_00036	CDS	1227	dltD		COG3966	Protein DltD
+KJPHKLPM_00037	gene	126				
+KJPHKLPM_00037	CDS	126				hypothetical protein
+KJPHKLPM_00038	gene	1599	dltA			
+KJPHKLPM_00038	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+KJPHKLPM_00039	gene	1161				
+KJPHKLPM_00039	CDS	1161				hypothetical protein
+KJPHKLPM_00040	gene	237	dltC			
+KJPHKLPM_00040	CDS	237	dltC		COG0236	D-alanyl carrier protein
+KJPHKLPM_00041	gene	2403				
+KJPHKLPM_00041	CDS	2403				hypothetical protein
+KJPHKLPM_00042	gene	2109	nrdE			
+KJPHKLPM_00042	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+KJPHKLPM_00043	gene	987	nrdF			
+KJPHKLPM_00043	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+KJPHKLPM_00044	gene	525				
+KJPHKLPM_00044	CDS	525				hypothetical protein
+KJPHKLPM_00045	gene	651				
+KJPHKLPM_00045	CDS	651				hypothetical protein
+KJPHKLPM_00046	gene	465				
+KJPHKLPM_00046	CDS	465				hypothetical protein
+KJPHKLPM_00047	gene	1164	ugtP_1			
+KJPHKLPM_00047	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+KJPHKLPM_00048	gene	690				
+KJPHKLPM_00048	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+KJPHKLPM_00049	gene	1044				
+KJPHKLPM_00049	CDS	1044				hypothetical protein
+KJPHKLPM_00050	gene	1503	cobQ			
+KJPHKLPM_00050	CDS	1503	cobQ			Cobyric acid synthase
+KJPHKLPM_00051	gene	639	pspA_1			
+KJPHKLPM_00051	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+KJPHKLPM_00052	gene	771	cobS			
+KJPHKLPM_00052	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+KJPHKLPM_00053	gene	588	cobU			
+KJPHKLPM_00053	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+KJPHKLPM_00054	gene	1083	cobT			
+KJPHKLPM_00054	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+KJPHKLPM_00055	gene	1173	ctpB			
+KJPHKLPM_00055	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+KJPHKLPM_00056	gene	936	aptB			
+KJPHKLPM_00056	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+KJPHKLPM_00057	gene	813	aptA			
+KJPHKLPM_00057	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+KJPHKLPM_00058	gene	372	acpS			
+KJPHKLPM_00058	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+KJPHKLPM_00059	gene	1320	sasA_1			
+KJPHKLPM_00059	CDS	1320	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+KJPHKLPM_00060	gene	654	qseB			
+KJPHKLPM_00060	CDS	654	qseB			Transcriptional regulatory protein QseB
+KJPHKLPM_00061	gene	1377				
+KJPHKLPM_00061	CDS	1377				hypothetical protein
+KJPHKLPM_00062	gene	645				
+KJPHKLPM_00062	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+KJPHKLPM_00063	gene	1278				
+KJPHKLPM_00063	CDS	1278				hypothetical protein
+KJPHKLPM_00064	gene	891				
+KJPHKLPM_00064	CDS	891				hypothetical protein
+KJPHKLPM_00065	gene	153				
+KJPHKLPM_00065	CDS	153				hypothetical protein
+KJPHKLPM_00066	gene	1161	resA			
+KJPHKLPM_00066	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+KJPHKLPM_00067	gene	1023				
+KJPHKLPM_00067	CDS	1023		2.4.2.-		Protein ADP-ribosyltransferase
+KJPHKLPM_00068	gene	807				
+KJPHKLPM_00068	CDS	807		3.2.1.-		Protein-ADP-ribose hydrolase
+KJPHKLPM_00069	gene	441	ywnA			
+KJPHKLPM_00069	CDS	441	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+KJPHKLPM_00070	gene	771				
+KJPHKLPM_00070	CDS	771				hypothetical protein
+KJPHKLPM_00071	gene	864	gloB_1			
+KJPHKLPM_00071	CDS	864	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+KJPHKLPM_00072	gene	231				
+KJPHKLPM_00072	CDS	231				hypothetical protein
+KJPHKLPM_00073	gene	1167	patB			
+KJPHKLPM_00073	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+KJPHKLPM_00074	gene	759	aroD			
+KJPHKLPM_00074	CDS	759	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+KJPHKLPM_00075	gene	1401				
+KJPHKLPM_00075	CDS	1401				hypothetical protein
+KJPHKLPM_00076	gene	1827	glmS			
+KJPHKLPM_00076	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+KJPHKLPM_00077	gene	762	truA			
+KJPHKLPM_00077	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+KJPHKLPM_00078	gene	1071				
+KJPHKLPM_00078	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+KJPHKLPM_00079	gene	918				
+KJPHKLPM_00079	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+KJPHKLPM_00080	gene	1254				
+KJPHKLPM_00080	CDS	1254				hypothetical protein
+KJPHKLPM_00081	gene	429	rplM			
+KJPHKLPM_00081	CDS	429	rplM		COG0102	50S ribosomal protein L13
+KJPHKLPM_00082	gene	393	rpsI			
+KJPHKLPM_00082	CDS	393	rpsI			30S ribosomal protein S9
+KJPHKLPM_00083	gene	102				
+KJPHKLPM_00083	CDS	102				hypothetical protein
+KJPHKLPM_00084	gene	552	rpoE			
+KJPHKLPM_00084	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+KJPHKLPM_00085	gene	1299				
+KJPHKLPM_00085	CDS	1299				hypothetical protein
+KJPHKLPM_00086	gene	258				
+KJPHKLPM_00086	CDS	258				hypothetical protein
+KJPHKLPM_00087	gene	351				
+KJPHKLPM_00087	CDS	351				hypothetical protein
+KJPHKLPM_00088	gene	2487				
+KJPHKLPM_00088	CDS	2487				hypothetical protein
+KJPHKLPM_00089	gene	486	greA			
+KJPHKLPM_00089	CDS	486	greA		COG0782	Transcription elongation factor GreA
+KJPHKLPM_00090	gene	204				
+KJPHKLPM_00090	CDS	204				hypothetical protein
+KJPHKLPM_00091	gene	180				
+KJPHKLPM_00091	CDS	180				hypothetical protein
+KJPHKLPM_00092	gene	594				
+KJPHKLPM_00092	CDS	594				hypothetical protein
+KJPHKLPM_00093	gene	189				
+KJPHKLPM_00093	CDS	189				hypothetical protein
+KJPHKLPM_00094	gene	522				
+KJPHKLPM_00094	CDS	522				hypothetical protein
+KJPHKLPM_00095	gene	639				
+KJPHKLPM_00095	CDS	639				hypothetical protein
+KJPHKLPM_00096	gene	168				
+KJPHKLPM_00096	CDS	168				hypothetical protein
+KJPHKLPM_00097	gene	933				
+KJPHKLPM_00097	CDS	933				hypothetical protein
+KJPHKLPM_00098	gene	687	dnaA_1			
+KJPHKLPM_00098	CDS	687	dnaA_1			Chromosomal replication initiator protein DnaA
+KJPHKLPM_00099	gene	408				
+KJPHKLPM_00099	CDS	408				hypothetical protein
+KJPHKLPM_00100	gene	207				
+KJPHKLPM_00100	CDS	207				hypothetical protein
+KJPHKLPM_00101	gene	258				
+KJPHKLPM_00101	CDS	258				hypothetical protein
+KJPHKLPM_00102	gene	753				
+KJPHKLPM_00102	CDS	753				hypothetical protein
+KJPHKLPM_00103	gene	960	hhaIM			
+KJPHKLPM_00103	CDS	960	hhaIM	2.1.1.37		Modification methylase HhaI
+KJPHKLPM_00104	gene	138				
+KJPHKLPM_00104	CDS	138				hypothetical protein
+KJPHKLPM_00105	gene	402	ssb			
+KJPHKLPM_00105	CDS	402	ssb		COG0629	Single-stranded DNA-binding protein
+KJPHKLPM_00106	gene	1383				
+KJPHKLPM_00106	CDS	1383				hypothetical protein
+KJPHKLPM_00107	gene	963				
+KJPHKLPM_00107	CDS	963				hypothetical protein
+KJPHKLPM_00108	gene	309				
+KJPHKLPM_00108	CDS	309				hypothetical protein
+KJPHKLPM_00109	gene	690				
+KJPHKLPM_00109	CDS	690				hypothetical protein
+KJPHKLPM_00110	gene	423				
+KJPHKLPM_00110	CDS	423				hypothetical protein
+KJPHKLPM_00111	gene	570				
+KJPHKLPM_00111	CDS	570				hypothetical protein
+KJPHKLPM_00112	gene	471				
+KJPHKLPM_00112	CDS	471				hypothetical protein
+KJPHKLPM_00113	gene	1386				
+KJPHKLPM_00113	CDS	1386				hypothetical protein
+KJPHKLPM_00114	gene	1458				
+KJPHKLPM_00114	CDS	1458				hypothetical protein
+KJPHKLPM_00115	gene	1626				
+KJPHKLPM_00115	CDS	1626				hypothetical protein
+KJPHKLPM_00116	gene	258				
+KJPHKLPM_00116	CDS	258				hypothetical protein
+KJPHKLPM_00117	gene	552				
+KJPHKLPM_00117	CDS	552				hypothetical protein
+KJPHKLPM_00118	gene	432	lysA			
+KJPHKLPM_00118	CDS	432	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+KJPHKLPM_00119	gene	228				
+KJPHKLPM_00119	CDS	228				IS200/IS605 family transposase ISDha13
+KJPHKLPM_00120	gene	1086				
+KJPHKLPM_00120	CDS	1086				hypothetical protein
+KJPHKLPM_00121	gene	1281	serS			
+KJPHKLPM_00121	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+KJPHKLPM_00122	gene	1377	alsT			
+KJPHKLPM_00122	CDS	1377	alsT		COG1115	Amino-acid carrier protein AlsT
+KJPHKLPM_00123	gene	195				
+KJPHKLPM_00123	CDS	195				hypothetical protein
+KJPHKLPM_00124	gene	729				
+KJPHKLPM_00124	CDS	729				hypothetical protein
+KJPHKLPM_00125	gene	768	thiG			
+KJPHKLPM_00125	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+KJPHKLPM_00126	gene	1176	thiH			
+KJPHKLPM_00126	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+KJPHKLPM_00127	gene	1176	tadA			
+KJPHKLPM_00127	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+KJPHKLPM_00128	gene	1635				
+KJPHKLPM_00128	CDS	1635				hypothetical protein
+KJPHKLPM_00129	gene	90				
+KJPHKLPM_00129	tRNA	90				tRNA-Ser(gga)
+KJPHKLPM_00130	gene	2460				
+KJPHKLPM_00130	CDS	2460				hypothetical protein
+KJPHKLPM_00131	gene	675	bceA			
+KJPHKLPM_00131	CDS	675	bceA		COG1136	Bacitracin export ATP-binding protein BceA
+KJPHKLPM_00132	gene	387	hlyB			
+KJPHKLPM_00132	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+KJPHKLPM_00133	gene	285				
+KJPHKLPM_00133	CDS	285				hypothetical protein
+KJPHKLPM_00134	gene	897	ispE			
+KJPHKLPM_00134	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+KJPHKLPM_00135	gene	678	rspR_1			
+KJPHKLPM_00135	CDS	678	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+KJPHKLPM_00136	gene	813	murI			
+KJPHKLPM_00136	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+KJPHKLPM_00137	gene	414				
+KJPHKLPM_00137	CDS	414				hypothetical protein
+KJPHKLPM_00138	gene	1380	tilS			
+KJPHKLPM_00138	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+KJPHKLPM_00139	gene	2043	ftsH			
+KJPHKLPM_00139	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+KJPHKLPM_00140	gene	405				
+KJPHKLPM_00140	CDS	405				hypothetical protein
+KJPHKLPM_00141	gene	756				
+KJPHKLPM_00141	CDS	756				hypothetical protein
+KJPHKLPM_00142	gene	984	birA			
+KJPHKLPM_00142	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+KJPHKLPM_00143	gene	768	coaX			
+KJPHKLPM_00143	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+KJPHKLPM_00144	gene	960	dusB			
+KJPHKLPM_00144	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+KJPHKLPM_00145	gene	1548	carA_1			
+KJPHKLPM_00145	CDS	1548	carA_1	2.8.3.23	COG4670	Caffeate CoA-transferase
+KJPHKLPM_00146	gene	1014	gloB_2			
+KJPHKLPM_00146	CDS	1014	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+KJPHKLPM_00147	gene	828	COQ3			
+KJPHKLPM_00147	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+KJPHKLPM_00148	gene	1221	ask			
+KJPHKLPM_00148	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+KJPHKLPM_00149	gene	909	thrB			
+KJPHKLPM_00149	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+KJPHKLPM_00150	gene	675	thrC			
+KJPHKLPM_00150	CDS	675	thrC	4.2.3.1	COG0498	Threonine synthase
+KJPHKLPM_00151	gene	462	dut			
+KJPHKLPM_00151	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+KJPHKLPM_00152	gene	1203	roo			
+KJPHKLPM_00152	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+KJPHKLPM_00153	gene	1062	lytC_1			
+KJPHKLPM_00153	CDS	1062	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+KJPHKLPM_00154	gene	600	cysA			
+KJPHKLPM_00154	CDS	600	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+KJPHKLPM_00155	gene	672	cmpB			
+KJPHKLPM_00155	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+KJPHKLPM_00156	gene	993				
+KJPHKLPM_00156	CDS	993				hypothetical protein
+KJPHKLPM_00157	gene	498				
+KJPHKLPM_00157	CDS	498				hypothetical protein
+KJPHKLPM_00158	gene	681	tgnD			
+KJPHKLPM_00158	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+KJPHKLPM_00159	gene	996	btuD			
+KJPHKLPM_00159	CDS	996	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+KJPHKLPM_00160	gene	696	ureG			
+KJPHKLPM_00160	CDS	696	ureG			Urease accessory protein UreG
+KJPHKLPM_00161	gene	1227				
+KJPHKLPM_00161	CDS	1227				hypothetical protein
+KJPHKLPM_00162	gene	1746				
+KJPHKLPM_00162	CDS	1746				hypothetical protein
+KJPHKLPM_00163	gene	810	ecsA			
+KJPHKLPM_00163	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+KJPHKLPM_00164	gene	1239	queH			
+KJPHKLPM_00164	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+KJPHKLPM_00165	gene	909	ppaC			
+KJPHKLPM_00165	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+KJPHKLPM_00166	gene	525				
+KJPHKLPM_00166	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+KJPHKLPM_00167	gene	1362	apeB			
+KJPHKLPM_00167	CDS	1362	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+KJPHKLPM_00168	gene	3405	mfd			
+KJPHKLPM_00168	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+KJPHKLPM_00169	gene	561	pth			
+KJPHKLPM_00169	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+KJPHKLPM_00170	gene	651				
+KJPHKLPM_00170	CDS	651				hypothetical protein
+KJPHKLPM_00171	gene	1065				
+KJPHKLPM_00171	CDS	1065				hypothetical protein
+KJPHKLPM_00172	gene	957	prs			
+KJPHKLPM_00172	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+KJPHKLPM_00173	gene	1392	glmU			
+KJPHKLPM_00173	CDS	1392	glmU			Bifunctional protein GlmU
+KJPHKLPM_00174	gene	651				
+KJPHKLPM_00174	CDS	651				hypothetical protein
+KJPHKLPM_00175	gene	834	purR			
+KJPHKLPM_00175	CDS	834	purR		COG0503	Pur operon repressor
+KJPHKLPM_00176	gene	1362	murC			
+KJPHKLPM_00176	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+KJPHKLPM_00177	gene	870				
+KJPHKLPM_00177	CDS	870				hypothetical protein
+KJPHKLPM_00178	gene	879	rsmA			
+KJPHKLPM_00178	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+KJPHKLPM_00179	gene	555	rnmV			
+KJPHKLPM_00179	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+KJPHKLPM_00180	gene	549				
+KJPHKLPM_00180	CDS	549				hypothetical protein
+KJPHKLPM_00181	gene	651				
+KJPHKLPM_00181	CDS	651				hypothetical protein
+KJPHKLPM_00182	gene	1170	deaD			
+KJPHKLPM_00182	CDS	1170	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+KJPHKLPM_00183	gene	2766	mtgA			
+KJPHKLPM_00183	CDS	2766	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+KJPHKLPM_00184	gene	1551	ybiT_1			
+KJPHKLPM_00184	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+KJPHKLPM_00185	gene	1551	rsxB			
+KJPHKLPM_00185	CDS	1551	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+KJPHKLPM_00186	gene	2652	valS			
+KJPHKLPM_00186	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+KJPHKLPM_00187	gene	507				
+KJPHKLPM_00187	CDS	507				hypothetical protein
+KJPHKLPM_00188	gene	690				
+KJPHKLPM_00188	CDS	690				hypothetical protein
+KJPHKLPM_00189	gene	873				
+KJPHKLPM_00189	CDS	873				hypothetical protein
+KJPHKLPM_00190	gene	1059				
+KJPHKLPM_00190	CDS	1059				hypothetical protein
+KJPHKLPM_00191	gene	678	purC			
+KJPHKLPM_00191	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+KJPHKLPM_00192	gene	201	pepD_1			
+KJPHKLPM_00192	CDS	201	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+KJPHKLPM_00193	gene	351	ssrA			
+KJPHKLPM_00193	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+KJPHKLPM_00194	gene	696	rspR_2			
+KJPHKLPM_00194	CDS	696	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+KJPHKLPM_00195	gene	1245	fldA			
+KJPHKLPM_00195	CDS	1245	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+KJPHKLPM_00196	gene	1236	fldB			
+KJPHKLPM_00196	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+KJPHKLPM_00197	gene	1119	hadC			
+KJPHKLPM_00197	CDS	1119	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+KJPHKLPM_00198	gene	1134	carC			
+KJPHKLPM_00198	CDS	1134	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+KJPHKLPM_00199	gene	792	carD			
+KJPHKLPM_00199	CDS	792	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+KJPHKLPM_00200	gene	1008	carE_1			
+KJPHKLPM_00200	CDS	1008	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+KJPHKLPM_00201	gene	993	hpr			
+KJPHKLPM_00201	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+KJPHKLPM_00202	gene	1326	brnQ_1			
+KJPHKLPM_00202	CDS	1326	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+KJPHKLPM_00203	gene	1185	aspC			
+KJPHKLPM_00203	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+KJPHKLPM_00204	gene	879				
+KJPHKLPM_00204	CDS	879				hypothetical protein
+KJPHKLPM_00205	gene	396	panD			
+KJPHKLPM_00205	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+KJPHKLPM_00206	gene	1017				
+KJPHKLPM_00206	CDS	1017			COG0628	Putative transport protein
+KJPHKLPM_00207	gene	528				
+KJPHKLPM_00207	CDS	528				hypothetical protein
+KJPHKLPM_00208	gene	1083	hhoB			
+KJPHKLPM_00208	CDS	1083	hhoB			Putative serine protease HhoB
+KJPHKLPM_00209	gene	1326	pepC			
+KJPHKLPM_00209	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+KJPHKLPM_00210	gene	1311				
+KJPHKLPM_00210	CDS	1311				hypothetical protein
+KJPHKLPM_00211	gene	945	hmo_1			
+KJPHKLPM_00211	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+KJPHKLPM_00212	gene	939				
+KJPHKLPM_00212	CDS	939				hypothetical protein
+KJPHKLPM_00213	gene	576				
+KJPHKLPM_00213	CDS	576				hypothetical protein
+KJPHKLPM_00214	gene	270	atpC			
+KJPHKLPM_00214	CDS	270	atpC			ATP synthase epsilon chain
+KJPHKLPM_00215	gene	1401	atpD			
+KJPHKLPM_00215	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+KJPHKLPM_00216	gene	999	atpG			
+KJPHKLPM_00216	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+KJPHKLPM_00217	gene	1503	atpA			
+KJPHKLPM_00217	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+KJPHKLPM_00218	gene	543	atpH			
+KJPHKLPM_00218	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+KJPHKLPM_00219	gene	507	atpF			
+KJPHKLPM_00219	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+KJPHKLPM_00220	gene	942				
+KJPHKLPM_00220	CDS	942				hypothetical protein
+KJPHKLPM_00221	gene	1527	gpmI			
+KJPHKLPM_00221	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+KJPHKLPM_00222	gene	741	tpiA			
+KJPHKLPM_00222	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+KJPHKLPM_00223	gene	1200	pgk			
+KJPHKLPM_00223	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+KJPHKLPM_00224	gene	1008	gap_1			
+KJPHKLPM_00224	CDS	1008	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+KJPHKLPM_00225	gene	1026	cggR			
+KJPHKLPM_00225	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+KJPHKLPM_00226	gene	786				
+KJPHKLPM_00226	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+KJPHKLPM_00227	gene	474	slyA			
+KJPHKLPM_00227	CDS	474	slyA			Transcriptional regulator SlyA
+KJPHKLPM_00228	gene	1374	mepA_1			
+KJPHKLPM_00228	CDS	1374	mepA_1			Multidrug export protein MepA
+KJPHKLPM_00229	gene	2358	sasA_2			
+KJPHKLPM_00229	CDS	2358	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+KJPHKLPM_00230	gene	714	phoP			
+KJPHKLPM_00230	CDS	714	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+KJPHKLPM_00231	gene	684	thiN			
+KJPHKLPM_00231	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+KJPHKLPM_00232	gene	267	rpe			
+KJPHKLPM_00232	CDS	267	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+KJPHKLPM_00233	gene	1221				
+KJPHKLPM_00233	CDS	1221				hypothetical protein
+KJPHKLPM_00234	gene	735				
+KJPHKLPM_00234	CDS	735		3.1.3.-	COG0560	putative phosphatase
+KJPHKLPM_00235	gene	291				
+KJPHKLPM_00235	CDS	291				hypothetical protein
+KJPHKLPM_00236	gene	627				
+KJPHKLPM_00236	CDS	627				hypothetical protein
+KJPHKLPM_00237	gene	408				
+KJPHKLPM_00237	CDS	408				hypothetical protein
+KJPHKLPM_00238	gene	438	sufU			
+KJPHKLPM_00238	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+KJPHKLPM_00239	gene	1236	csd			
+KJPHKLPM_00239	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+KJPHKLPM_00240	gene	831				
+KJPHKLPM_00240	CDS	831				hypothetical protein
+KJPHKLPM_00241	gene	1425				
+KJPHKLPM_00241	CDS	1425				hypothetical protein
+KJPHKLPM_00242	gene	765	sufC			
+KJPHKLPM_00242	CDS	765	sufC		COG0396	Vegetative protein 296
+KJPHKLPM_00243	gene	2274				
+KJPHKLPM_00243	CDS	2274				hypothetical protein
+KJPHKLPM_00244	gene	1266	clpX			
+KJPHKLPM_00244	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+KJPHKLPM_00245	gene	585	clpP			
+KJPHKLPM_00245	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+KJPHKLPM_00246	gene	1833				
+KJPHKLPM_00246	CDS	1833				hypothetical protein
+KJPHKLPM_00247	gene	1581				
+KJPHKLPM_00247	CDS	1581				hypothetical protein
+KJPHKLPM_00248	gene	918				
+KJPHKLPM_00248	CDS	918				hypothetical protein
+KJPHKLPM_00249	gene	858				
+KJPHKLPM_00249	CDS	858				hypothetical protein
+KJPHKLPM_00250	gene	936				
+KJPHKLPM_00250	CDS	936				hypothetical protein
+KJPHKLPM_00251	gene	867				
+KJPHKLPM_00251	CDS	867				hypothetical protein
+KJPHKLPM_00252	gene	1119	ribD			
+KJPHKLPM_00252	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+KJPHKLPM_00253	gene	657	ribE			
+KJPHKLPM_00253	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+KJPHKLPM_00254	gene	1206	ribBA			
+KJPHKLPM_00254	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+KJPHKLPM_00255	gene	462	ribH			
+KJPHKLPM_00255	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+KJPHKLPM_00256	gene	687	glxR			
+KJPHKLPM_00256	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+KJPHKLPM_00257	gene	1881	mnmG			
+KJPHKLPM_00257	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+KJPHKLPM_00258	gene	1380	mnmE_1			
+KJPHKLPM_00258	CDS	1380	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+KJPHKLPM_00259	gene	75				
+KJPHKLPM_00259	tRNA	75				tRNA-Arg(acg)
+KJPHKLPM_00260	gene	1317	cpdA_1			
+KJPHKLPM_00260	CDS	1317	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+KJPHKLPM_00261	gene	186				
+KJPHKLPM_00261	CDS	186				hypothetical protein
+KJPHKLPM_00262	gene	609				
+KJPHKLPM_00262	CDS	609				hypothetical protein
+KJPHKLPM_00263	gene	540				
+KJPHKLPM_00263	CDS	540				hypothetical protein
+KJPHKLPM_00264	gene	1170				
+KJPHKLPM_00264	CDS	1170				hypothetical protein
+KJPHKLPM_00265	gene	1227				
+KJPHKLPM_00265	CDS	1227		3.4.11.-		Aminopeptidase 2
+KJPHKLPM_00266	gene	585				
+KJPHKLPM_00266	CDS	585				hypothetical protein
+KJPHKLPM_00267	gene	552				
+KJPHKLPM_00267	CDS	552				hypothetical protein
+KJPHKLPM_00268	gene	1185	metK			
+KJPHKLPM_00268	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+KJPHKLPM_00269	gene	2220	recD2			
+KJPHKLPM_00269	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+KJPHKLPM_00270	gene	771				
+KJPHKLPM_00270	CDS	771				hypothetical protein
+KJPHKLPM_00271	gene	540	folT			
+KJPHKLPM_00271	CDS	540	folT			Folate transporter FolT
+KJPHKLPM_00272	gene	2691	secA_1			
+KJPHKLPM_00272	CDS	2691	secA_1			Protein translocase subunit SecA
+KJPHKLPM_00273	gene	1671	norR			
+KJPHKLPM_00273	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+KJPHKLPM_00274	gene	267				
+KJPHKLPM_00274	CDS	267				hypothetical protein
+KJPHKLPM_00275	gene	1926	fusA			
+KJPHKLPM_00275	CDS	1926	fusA		COG0480	Elongation factor G
+KJPHKLPM_00276	gene	366				
+KJPHKLPM_00276	CDS	366				hypothetical protein
+KJPHKLPM_00277	gene	1041				
+KJPHKLPM_00277	CDS	1041				hypothetical protein
+KJPHKLPM_00278	gene	2016	gdpP			
+KJPHKLPM_00278	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+KJPHKLPM_00279	gene	447	rplI			
+KJPHKLPM_00279	CDS	447	rplI			50S ribosomal protein L9
+KJPHKLPM_00280	gene	1338	dnaC			
+KJPHKLPM_00280	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+KJPHKLPM_00281	gene	990	dnaA_2			
+KJPHKLPM_00281	CDS	990	dnaA_2			Chromosomal replication initiator protein DnaA
+KJPHKLPM_00282	gene	1050				
+KJPHKLPM_00282	CDS	1050				hypothetical protein
+KJPHKLPM_00283	gene	483	rlmH			
+KJPHKLPM_00283	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+KJPHKLPM_00284	gene	801	yycJ			
+KJPHKLPM_00284	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+KJPHKLPM_00285	gene	255	veg			
+KJPHKLPM_00285	CDS	255	veg		COG4466	Protein Veg
+KJPHKLPM_00286	gene	495				
+KJPHKLPM_00286	CDS	495				hypothetical protein
+KJPHKLPM_00287	gene	711				
+KJPHKLPM_00287	CDS	711				hypothetical protein
+KJPHKLPM_00288	gene	681	rluC			
+KJPHKLPM_00288	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+KJPHKLPM_00289	gene	870	rlmL_1			
+KJPHKLPM_00289	CDS	870	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+KJPHKLPM_00290	gene	1422	pqqE			
+KJPHKLPM_00290	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+KJPHKLPM_00291	gene	510	ftnA			
+KJPHKLPM_00291	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+KJPHKLPM_00292	gene	471				
+KJPHKLPM_00292	CDS	471				hypothetical protein
+KJPHKLPM_00293	gene	564				
+KJPHKLPM_00293	CDS	564				hypothetical protein
+KJPHKLPM_00294	gene	888	cysK			
+KJPHKLPM_00294	CDS	888	cysK	2.5.1.47		Cysteine synthase
+KJPHKLPM_00295	gene	597	cysE			
+KJPHKLPM_00295	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+KJPHKLPM_00296	gene	234				
+KJPHKLPM_00296	CDS	234				hypothetical protein
+KJPHKLPM_00297	gene	738				
+KJPHKLPM_00297	CDS	738				hypothetical protein
+KJPHKLPM_00298	gene	1596	mutS2			
+KJPHKLPM_00298	CDS	1596	mutS2	3.1.-.-		Endonuclease MutS2
+KJPHKLPM_00299	gene	468				
+KJPHKLPM_00299	CDS	468				hypothetical protein
+KJPHKLPM_00300	gene	1701	argS			
+KJPHKLPM_00300	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+KJPHKLPM_00301	gene	1455				
+KJPHKLPM_00301	CDS	1455				hypothetical protein
+KJPHKLPM_00302	gene	240				
+KJPHKLPM_00302	CDS	240				hypothetical protein
+KJPHKLPM_00303	gene	522				
+KJPHKLPM_00303	CDS	522				hypothetical protein
+KJPHKLPM_00304	gene	468				
+KJPHKLPM_00304	CDS	468				hypothetical protein
+KJPHKLPM_00305	gene	2424	lon1			
+KJPHKLPM_00305	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+KJPHKLPM_00306	gene	723	engB			
+KJPHKLPM_00306	CDS	723	engB			GTP-binding protein EngB
+KJPHKLPM_00307	gene	216	hpt_1			
+KJPHKLPM_00307	CDS	216	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+KJPHKLPM_00308	gene	750				
+KJPHKLPM_00308	CDS	750				hypothetical protein
+KJPHKLPM_00309	gene	1446	proS			
+KJPHKLPM_00309	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+KJPHKLPM_00310	gene	1092	yacL			
+KJPHKLPM_00310	CDS	1092	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+KJPHKLPM_00311	gene	1077	disA			
+KJPHKLPM_00311	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+KJPHKLPM_00312	gene	1380	radA			
+KJPHKLPM_00312	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+KJPHKLPM_00313	gene	219				
+KJPHKLPM_00313	CDS	219				hypothetical protein
+KJPHKLPM_00314	gene	1245				
+KJPHKLPM_00314	CDS	1245				hypothetical protein
+KJPHKLPM_00315	gene	957				
+KJPHKLPM_00315	CDS	957				hypothetical protein
+KJPHKLPM_00316	gene	1824	dnaG			
+KJPHKLPM_00316	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+KJPHKLPM_00317	gene	1155	sigA			
+KJPHKLPM_00317	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+KJPHKLPM_00318	gene	777	trmK			
+KJPHKLPM_00318	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+KJPHKLPM_00319	gene	804				
+KJPHKLPM_00319	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+KJPHKLPM_00320	gene	213				
+KJPHKLPM_00320	CDS	213				hypothetical protein
+KJPHKLPM_00321	gene	735				
+KJPHKLPM_00321	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+KJPHKLPM_00322	gene	651				
+KJPHKLPM_00322	CDS	651				hypothetical protein
+KJPHKLPM_00323	gene	2415				
+KJPHKLPM_00323	CDS	2415				hypothetical protein
+KJPHKLPM_00324	gene	417	trpP			
+KJPHKLPM_00324	CDS	417	trpP			putative tryptophan transport protein
+KJPHKLPM_00325	gene	3216	carB			
+KJPHKLPM_00325	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+KJPHKLPM_00326	gene	1050	carA_2			
+KJPHKLPM_00326	CDS	1050	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+KJPHKLPM_00327	gene	723	pyrF			
+KJPHKLPM_00327	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+KJPHKLPM_00328	gene	1140				
+KJPHKLPM_00328	CDS	1140				hypothetical protein
+KJPHKLPM_00329	gene	1128				
+KJPHKLPM_00329	CDS	1128				hypothetical protein
+KJPHKLPM_00330	gene	297				
+KJPHKLPM_00330	CDS	297				hypothetical protein
+KJPHKLPM_00331	gene	339				
+KJPHKLPM_00331	CDS	339				hypothetical protein
+KJPHKLPM_00332	gene	549				
+KJPHKLPM_00332	CDS	549				hypothetical protein
+KJPHKLPM_00333	gene	318				
+KJPHKLPM_00333	CDS	318				hypothetical protein
+KJPHKLPM_00334	gene	390				
+KJPHKLPM_00334	CDS	390				hypothetical protein
+KJPHKLPM_00335	gene	1128	msmX			
+KJPHKLPM_00335	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+KJPHKLPM_00336	gene	642	ycjU			
+KJPHKLPM_00336	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+KJPHKLPM_00337	gene	1662	malL			
+KJPHKLPM_00337	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+KJPHKLPM_00338	gene	2289	malP			
+KJPHKLPM_00338	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+KJPHKLPM_00339	gene	822	melC			
+KJPHKLPM_00339	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+KJPHKLPM_00340	gene	873	melD			
+KJPHKLPM_00340	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+KJPHKLPM_00341	gene	1287				
+KJPHKLPM_00341	CDS	1287				hypothetical protein
+KJPHKLPM_00342	gene	297				
+KJPHKLPM_00342	CDS	297				hypothetical protein
+KJPHKLPM_00343	gene	747				
+KJPHKLPM_00343	CDS	747				hypothetical protein
+KJPHKLPM_00344	gene	834				
+KJPHKLPM_00344	CDS	834				hypothetical protein
+KJPHKLPM_00345	gene	732				
+KJPHKLPM_00345	CDS	732				hypothetical protein
+KJPHKLPM_00346	gene	1218	dctA			
+KJPHKLPM_00346	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+KJPHKLPM_00347	gene	912	pyrB			
+KJPHKLPM_00347	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+KJPHKLPM_00348	gene	690	pyrK			
+KJPHKLPM_00348	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+KJPHKLPM_00349	gene	903	pyrD			
+KJPHKLPM_00349	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+KJPHKLPM_00350	gene	582	pyrE			
+KJPHKLPM_00350	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+KJPHKLPM_00351	gene	774				
+KJPHKLPM_00351	CDS	774				hypothetical protein
+KJPHKLPM_00352	gene	675	ecfT			
+KJPHKLPM_00352	CDS	675	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+KJPHKLPM_00353	gene	858	accD			
+KJPHKLPM_00353	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+KJPHKLPM_00354	gene	1425	accC			
+KJPHKLPM_00354	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+KJPHKLPM_00355	gene	531				
+KJPHKLPM_00355	CDS	531				hypothetical protein
+KJPHKLPM_00356	gene	870	sigF			
+KJPHKLPM_00356	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+KJPHKLPM_00357	gene	492	ycdZ			
+KJPHKLPM_00357	CDS	492	ycdZ			Inner membrane protein YcdZ
+KJPHKLPM_00358	gene	1200	mnmE_2			
+KJPHKLPM_00358	CDS	1200	mnmE_2	3.6.-.-		tRNA modification GTPase MnmE
+KJPHKLPM_00359	gene	1404	bioB_1			
+KJPHKLPM_00359	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+KJPHKLPM_00360	gene	135				
+KJPHKLPM_00360	CDS	135				hypothetical protein
+KJPHKLPM_00361	gene	1053				
+KJPHKLPM_00361	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+KJPHKLPM_00362	gene	246				
+KJPHKLPM_00362	CDS	246				hypothetical protein
+KJPHKLPM_00363	gene	579	fruA			
+KJPHKLPM_00363	CDS	579	fruA		COG1299	PTS system fructose-specific EIIABC component
+KJPHKLPM_00364	gene	246				
+KJPHKLPM_00364	CDS	246				hypothetical protein
+KJPHKLPM_00365	gene	930	gloB_3			
+KJPHKLPM_00365	CDS	930	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+KJPHKLPM_00366	gene	786				
+KJPHKLPM_00366	CDS	786				hypothetical protein
+KJPHKLPM_00367	gene	708				
+KJPHKLPM_00367	CDS	708				hypothetical protein
+KJPHKLPM_00368	gene	555				
+KJPHKLPM_00368	CDS	555		3.1.3.-	COG5663	Nucleotidase
+KJPHKLPM_00369	gene	252				
+KJPHKLPM_00369	CDS	252				hypothetical protein
+KJPHKLPM_00370	gene	561	nfrA1			
+KJPHKLPM_00370	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+KJPHKLPM_00371	gene	1866	nhaP2			
+KJPHKLPM_00371	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+KJPHKLPM_00372	gene	1236				
+KJPHKLPM_00372	CDS	1236				hypothetical protein
+KJPHKLPM_00373	gene	1056	epsF			
+KJPHKLPM_00373	CDS	1056	epsF		COG1459	Type II secretion system protein F
+KJPHKLPM_00374	gene	390				
+KJPHKLPM_00374	CDS	390				hypothetical protein
+KJPHKLPM_00375	gene	813	rluD_1			
+KJPHKLPM_00375	CDS	813	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+KJPHKLPM_00376	gene	525	pyrR			
+KJPHKLPM_00376	CDS	525	pyrR			Bifunctional protein PyrR
+KJPHKLPM_00377	gene	1764	rqcH			
+KJPHKLPM_00377	CDS	1764	rqcH			Rqc2 RqcH
+KJPHKLPM_00378	gene	825	ydjP			
+KJPHKLPM_00378	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+KJPHKLPM_00379	gene	279	yjdJ			
+KJPHKLPM_00379	CDS	279	yjdJ		COG2388	putative protein YjdJ
+KJPHKLPM_00380	gene	462	mutX			
+KJPHKLPM_00380	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+KJPHKLPM_00381	gene	507	tpx			
+KJPHKLPM_00381	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+KJPHKLPM_00382	gene	645				
+KJPHKLPM_00382	CDS	645				hypothetical protein
+KJPHKLPM_00383	gene	780				
+KJPHKLPM_00383	CDS	780				hypothetical protein
+KJPHKLPM_00384	gene	693				
+KJPHKLPM_00384	CDS	693				hypothetical protein
+KJPHKLPM_00385	gene	237				
+KJPHKLPM_00385	CDS	237				hypothetical protein
+KJPHKLPM_00386	gene	465	bcp			
+KJPHKLPM_00386	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+KJPHKLPM_00387	gene	636	opuCD			
+KJPHKLPM_00387	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+KJPHKLPM_00388	gene	1662				
+KJPHKLPM_00388	CDS	1662				hypothetical protein
+KJPHKLPM_00389	gene	1170	opuCA			
+KJPHKLPM_00389	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+KJPHKLPM_00390	gene	1188	uctC			
+KJPHKLPM_00390	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+KJPHKLPM_00391	gene	285				
+KJPHKLPM_00391	CDS	285				hypothetical protein
+KJPHKLPM_00392	gene	723				
+KJPHKLPM_00392	CDS	723			COG0217	putative transcriptional regulatory protein
+KJPHKLPM_00393	gene	759	nadE			
+KJPHKLPM_00393	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+KJPHKLPM_00394	gene	642	yigZ			
+KJPHKLPM_00394	CDS	642	yigZ		COG1739	IMPACT family member YigZ
+KJPHKLPM_00395	gene	642				
+KJPHKLPM_00395	CDS	642				hypothetical protein
+KJPHKLPM_00396	gene	411				
+KJPHKLPM_00396	CDS	411				hypothetical protein
+KJPHKLPM_00397	gene	1188	dxr			
+KJPHKLPM_00397	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+KJPHKLPM_00398	gene	1011	mmpA			
+KJPHKLPM_00398	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+KJPHKLPM_00399	gene	1029	ispG			
+KJPHKLPM_00399	CDS	1029	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+KJPHKLPM_00400	gene	528				
+KJPHKLPM_00400	CDS	528				hypothetical protein
+KJPHKLPM_00401	gene	477				
+KJPHKLPM_00401	CDS	477				hypothetical protein
+KJPHKLPM_00402	gene	708				
+KJPHKLPM_00402	CDS	708				hypothetical protein
+KJPHKLPM_00403	gene	471				
+KJPHKLPM_00403	CDS	471				hypothetical protein
+KJPHKLPM_00404	gene	990				
+KJPHKLPM_00404	CDS	990				hypothetical protein
+KJPHKLPM_00405	gene	516				
+KJPHKLPM_00405	CDS	516				hypothetical protein
+KJPHKLPM_00406	gene	1011	lytC_2			
+KJPHKLPM_00406	CDS	1011	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+KJPHKLPM_00407	gene	765				
+KJPHKLPM_00407	CDS	765				hypothetical protein
+KJPHKLPM_00408	gene	435				
+KJPHKLPM_00408	CDS	435				hypothetical protein
+KJPHKLPM_00409	gene	837				
+KJPHKLPM_00409	CDS	837				hypothetical protein
+KJPHKLPM_00410	gene	297				
+KJPHKLPM_00410	CDS	297				hypothetical protein
+KJPHKLPM_00411	gene	636				
+KJPHKLPM_00411	CDS	636				hypothetical protein
+KJPHKLPM_00412	gene	675				
+KJPHKLPM_00412	CDS	675				hypothetical protein
+KJPHKLPM_00413	gene	678				
+KJPHKLPM_00413	CDS	678				hypothetical protein
+KJPHKLPM_00414	gene	654				
+KJPHKLPM_00414	CDS	654				hypothetical protein
+KJPHKLPM_00415	gene	405				
+KJPHKLPM_00415	CDS	405				hypothetical protein
+KJPHKLPM_00416	gene	540				
+KJPHKLPM_00416	CDS	540				hypothetical protein
+KJPHKLPM_00417	gene	435				
+KJPHKLPM_00417	CDS	435				hypothetical protein
+KJPHKLPM_00418	gene	564				
+KJPHKLPM_00418	CDS	564				hypothetical protein
+KJPHKLPM_00419	gene	1059				
+KJPHKLPM_00419	CDS	1059				hypothetical protein
+KJPHKLPM_00420	gene	426				
+KJPHKLPM_00420	CDS	426				hypothetical protein
+KJPHKLPM_00421	gene	270				
+KJPHKLPM_00421	CDS	270				hypothetical protein
+KJPHKLPM_00422	gene	2034				
+KJPHKLPM_00422	CDS	2034				hypothetical protein
+KJPHKLPM_00423	gene	735				
+KJPHKLPM_00423	CDS	735				hypothetical protein
+KJPHKLPM_00424	gene	2142				
+KJPHKLPM_00424	CDS	2142				hypothetical protein
+KJPHKLPM_00425	gene	276				
+KJPHKLPM_00425	CDS	276				hypothetical protein
+KJPHKLPM_00426	gene	120	nusB			
+KJPHKLPM_00426	CDS	120	nusB			Transcription antitermination protein NusB
+KJPHKLPM_00427	gene	1050	apbE			
+KJPHKLPM_00427	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+KJPHKLPM_00428	gene	375				
+KJPHKLPM_00428	CDS	375				hypothetical protein
+KJPHKLPM_00429	gene	675	ung			
+KJPHKLPM_00429	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+KJPHKLPM_00430	gene	606				
+KJPHKLPM_00430	CDS	606				hypothetical protein
+KJPHKLPM_00431	gene	861				
+KJPHKLPM_00431	CDS	861				hypothetical protein
+KJPHKLPM_00432	gene	441	yqeY			
+KJPHKLPM_00432	CDS	441	yqeY		COG1610	putative protein YqeY
+KJPHKLPM_00433	gene	180	rpsU			
+KJPHKLPM_00433	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+KJPHKLPM_00434	gene	972	pfkA			
+KJPHKLPM_00434	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+KJPHKLPM_00435	gene	1737	pyk			
+KJPHKLPM_00435	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+KJPHKLPM_00436	gene	267				
+KJPHKLPM_00436	CDS	267				hypothetical protein
+KJPHKLPM_00437	gene	675	artQ_1			
+KJPHKLPM_00437	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+KJPHKLPM_00438	gene	744	artM			
+KJPHKLPM_00438	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+KJPHKLPM_00439	gene	606	rpsD			
+KJPHKLPM_00439	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+KJPHKLPM_00440	gene	885	dapA_1			
+KJPHKLPM_00440	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+KJPHKLPM_00441	gene	1194	sdaB			
+KJPHKLPM_00441	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+KJPHKLPM_00442	gene	477				
+KJPHKLPM_00442	CDS	477				hypothetical protein
+KJPHKLPM_00443	gene	657				
+KJPHKLPM_00443	CDS	657				hypothetical protein
+KJPHKLPM_00444	gene	438				
+KJPHKLPM_00444	CDS	438				hypothetical protein
+KJPHKLPM_00445	gene	849				
+KJPHKLPM_00445	CDS	849				hypothetical protein
+KJPHKLPM_00446	gene	477	rhaR_1			
+KJPHKLPM_00446	CDS	477	rhaR_1			HTH-type transcriptional activator RhaR
+KJPHKLPM_00447	gene	741	fabH			
+KJPHKLPM_00447	CDS	741	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+KJPHKLPM_00448	gene	225	acpP_1			
+KJPHKLPM_00448	CDS	225	acpP_1		COG0236	Acyl carrier protein
+KJPHKLPM_00449	gene	939				
+KJPHKLPM_00449	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+KJPHKLPM_00450	gene	939	fabD			
+KJPHKLPM_00450	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+KJPHKLPM_00451	gene	747	fabG_1			
+KJPHKLPM_00451	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KJPHKLPM_00452	gene	1236	fabF			
+KJPHKLPM_00452	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+KJPHKLPM_00453	gene	426	fabZ			
+KJPHKLPM_00453	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+KJPHKLPM_00454	gene	1338				
+KJPHKLPM_00454	CDS	1338				Nucleobase transporter PlUacP
+KJPHKLPM_00455	gene	456	lrpC			
+KJPHKLPM_00455	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+KJPHKLPM_00456	gene	1941	metG			
+KJPHKLPM_00456	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+KJPHKLPM_00457	gene	771	ycfH			
+KJPHKLPM_00457	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+KJPHKLPM_00458	gene	2547				
+KJPHKLPM_00458	CDS	2547				hypothetical protein
+KJPHKLPM_00459	gene	678	ytrE_1			
+KJPHKLPM_00459	CDS	678	ytrE_1		COG1136	ABC transporter ATP-binding protein YtrE
+KJPHKLPM_00460	gene	135	rpmH			
+KJPHKLPM_00460	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+KJPHKLPM_00461	gene	378	rnpA			
+KJPHKLPM_00461	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+KJPHKLPM_00462	gene	702	yidC2			
+KJPHKLPM_00462	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+KJPHKLPM_00463	gene	771				
+KJPHKLPM_00463	CDS	771				hypothetical protein
+KJPHKLPM_00464	gene	615	sodA1			
+KJPHKLPM_00464	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+KJPHKLPM_00465	gene	885				
+KJPHKLPM_00465	CDS	885				hypothetical protein
+KJPHKLPM_00466	gene	828	panB			
+KJPHKLPM_00466	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+KJPHKLPM_00467	gene	849	panC			
+KJPHKLPM_00467	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+KJPHKLPM_00468	gene	201	rpmE			
+KJPHKLPM_00468	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+KJPHKLPM_00469	gene	327				
+KJPHKLPM_00469	CDS	327				hypothetical protein
+KJPHKLPM_00470	gene	720				
+KJPHKLPM_00470	CDS	720				hypothetical protein
+KJPHKLPM_00471	gene	915	prmC			
+KJPHKLPM_00471	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+KJPHKLPM_00472	gene	1065	prfA			
+KJPHKLPM_00472	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+KJPHKLPM_00473	gene	1038	ywlC			
+KJPHKLPM_00473	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+KJPHKLPM_00474	gene	447	ywlF			
+KJPHKLPM_00474	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+KJPHKLPM_00475	gene	630	upp			
+KJPHKLPM_00475	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+KJPHKLPM_00476	gene	240				
+KJPHKLPM_00476	CDS	240				hypothetical protein
+KJPHKLPM_00477	gene	402				
+KJPHKLPM_00477	CDS	402				hypothetical protein
+KJPHKLPM_00478	gene	705	atpB			
+KJPHKLPM_00478	CDS	705	atpB		COG0356	ATP synthase subunit a
+KJPHKLPM_00479	gene	624	cna			
+KJPHKLPM_00479	CDS	624	cna			Collagen adhesin
+KJPHKLPM_00480	gene	705	srtD			
+KJPHKLPM_00480	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+KJPHKLPM_00481	gene	1017	nrnA			
+KJPHKLPM_00481	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+KJPHKLPM_00482	gene	951	truB			
+KJPHKLPM_00482	CDS	951	truB	5.4.99.25		tRNA pseudouridine synthase B
+KJPHKLPM_00483	gene	972	ribF			
+KJPHKLPM_00483	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+KJPHKLPM_00484	gene	255	rpsO			
+KJPHKLPM_00484	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+KJPHKLPM_00485	gene	846				
+KJPHKLPM_00485	CDS	846			COG1307	Fatty acid-binding protein
+KJPHKLPM_00486	gene	357				
+KJPHKLPM_00486	CDS	357				hypothetical protein
+KJPHKLPM_00487	gene	384	ziaR			
+KJPHKLPM_00487	CDS	384	ziaR			Transcriptional repressor SmtB 
+KJPHKLPM_00488	gene	2211	ziaA			
+KJPHKLPM_00488	CDS	2211	ziaA	7.2.2.12		Zinc-transporting ATPase
+KJPHKLPM_00489	gene	927				
+KJPHKLPM_00489	CDS	927				hypothetical protein
+KJPHKLPM_00490	gene	822	thiD			
+KJPHKLPM_00490	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+KJPHKLPM_00491	gene	1455	thiM			
+KJPHKLPM_00491	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+KJPHKLPM_00492	gene	3534				
+KJPHKLPM_00492	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+KJPHKLPM_00493	gene	1764				
+KJPHKLPM_00493	CDS	1764				hypothetical protein
+KJPHKLPM_00494	gene	465				
+KJPHKLPM_00494	CDS	465				hypothetical protein
+KJPHKLPM_00495	gene	399	baiN			
+KJPHKLPM_00495	CDS	399	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+KJPHKLPM_00496	gene	1365	dnaA_3			
+KJPHKLPM_00496	CDS	1365	dnaA_3		COG0593	Chromosomal replication initiator protein DnaA
+KJPHKLPM_00497	gene	1104	dnaN			
+KJPHKLPM_00497	CDS	1104	dnaN		COG0592	Beta sliding clamp
+KJPHKLPM_00498	gene	210				
+KJPHKLPM_00498	CDS	210				hypothetical protein
+KJPHKLPM_00499	gene	1116	recF			
+KJPHKLPM_00499	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+KJPHKLPM_00500	gene	1908	gyrB			
+KJPHKLPM_00500	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+KJPHKLPM_00501	gene	720	rsuA			
+KJPHKLPM_00501	CDS	720	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+KJPHKLPM_00502	gene	1635				
+KJPHKLPM_00502	CDS	1635		2.1.1.-	COG2265	putative RNA methyltransferase
+KJPHKLPM_00503	gene	282				
+KJPHKLPM_00503	CDS	282				hypothetical protein
+KJPHKLPM_00504	gene	1608				
+KJPHKLPM_00504	CDS	1608				hypothetical protein
+KJPHKLPM_00505	gene	771				
+KJPHKLPM_00505	CDS	771				hypothetical protein
+KJPHKLPM_00506	gene	852	dnaA_4			
+KJPHKLPM_00506	CDS	852	dnaA_4			Chromosomal replication initiator protein DnaA
+KJPHKLPM_00507	gene	486				
+KJPHKLPM_00507	CDS	486				hypothetical protein
+KJPHKLPM_00508	gene	339				
+KJPHKLPM_00508	CDS	339				hypothetical protein
+KJPHKLPM_00509	gene	1200				
+KJPHKLPM_00509	CDS	1200		2.6.1.1		Aspartate aminotransferase
+KJPHKLPM_00510	gene	957	galT			
+KJPHKLPM_00510	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+KJPHKLPM_00511	gene	1902				
+KJPHKLPM_00511	CDS	1902				hypothetical protein
+KJPHKLPM_00512	gene	825	pdxY			
+KJPHKLPM_00512	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+KJPHKLPM_00513	gene	201	cspA			
+KJPHKLPM_00513	CDS	201	cspA		COG1278	Cold shock protein CspA
+KJPHKLPM_00514	gene	465	yfkJ			
+KJPHKLPM_00514	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+KJPHKLPM_00515	gene	1332	mepA_2			
+KJPHKLPM_00515	CDS	1332	mepA_2			Multidrug export protein MepA
+KJPHKLPM_00516	gene	582				
+KJPHKLPM_00516	CDS	582				hypothetical protein
+KJPHKLPM_00517	gene	711				
+KJPHKLPM_00517	CDS	711				hypothetical protein
+KJPHKLPM_00518	gene	1329				
+KJPHKLPM_00518	CDS	1329				hypothetical protein
+KJPHKLPM_00519	gene	2256				
+KJPHKLPM_00519	CDS	2256				hypothetical protein
+KJPHKLPM_00520	gene	198				
+KJPHKLPM_00520	CDS	198				IS200/IS605 family transposase ISSsu4
+KJPHKLPM_00521	gene	180				
+KJPHKLPM_00521	CDS	180				hypothetical protein
+KJPHKLPM_00522	gene	1590	asD			
+KJPHKLPM_00522	CDS	1590	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+KJPHKLPM_00523	gene	1734	aspT			
+KJPHKLPM_00523	CDS	1734	aspT			Aspartate/alanine antiporter
+KJPHKLPM_00524	gene	354				
+KJPHKLPM_00524	CDS	354				hypothetical protein
+KJPHKLPM_00525	gene	1359	ffh			
+KJPHKLPM_00525	CDS	1359	ffh		COG0541	Signal recognition particle protein
+KJPHKLPM_00526	gene	273	rpsP			
+KJPHKLPM_00526	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+KJPHKLPM_00527	gene	234				
+KJPHKLPM_00527	CDS	234				hypothetical protein
+KJPHKLPM_00528	gene	180				
+KJPHKLPM_00528	CDS	180				hypothetical protein
+KJPHKLPM_00529	gene	543	yajL			
+KJPHKLPM_00529	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+KJPHKLPM_00530	gene	522	bcrC			
+KJPHKLPM_00530	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+KJPHKLPM_00531	gene	1077				
+KJPHKLPM_00531	CDS	1077				hypothetical protein
+KJPHKLPM_00532	gene	900				
+KJPHKLPM_00532	CDS	900				hypothetical protein
+KJPHKLPM_00533	gene	618				
+KJPHKLPM_00533	CDS	618				hypothetical protein
+KJPHKLPM_00534	gene	180				
+KJPHKLPM_00534	CDS	180				hypothetical protein
+KJPHKLPM_00535	gene	1197	lysN_1			
+KJPHKLPM_00535	CDS	1197	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+KJPHKLPM_00536	gene	291	rpsF			
+KJPHKLPM_00536	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+KJPHKLPM_00537	gene	432				
+KJPHKLPM_00537	CDS	432				hypothetical protein
+KJPHKLPM_00538	gene	756				
+KJPHKLPM_00538	CDS	756				hypothetical protein
+KJPHKLPM_00539	gene	1584				
+KJPHKLPM_00539	CDS	1584				hypothetical protein
+KJPHKLPM_00540	gene	1188				
+KJPHKLPM_00540	CDS	1188				hypothetical protein
+KJPHKLPM_00541	gene	822	mscS			
+KJPHKLPM_00541	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+KJPHKLPM_00542	gene	129				
+KJPHKLPM_00542	CDS	129				hypothetical protein
+KJPHKLPM_00543	gene	552	bioY			
+KJPHKLPM_00543	CDS	552	bioY		COG1268	Biotin transporter BioY
+KJPHKLPM_00544	gene	825	aroF			
+KJPHKLPM_00544	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+KJPHKLPM_00545	gene	1824	aroB			
+KJPHKLPM_00545	CDS	1824	aroB	4.2.3.4		3-dehydroquinate synthase
+KJPHKLPM_00546	gene	852				
+KJPHKLPM_00546	CDS	852				hypothetical protein
+KJPHKLPM_00547	gene	1353	mepA_3			
+KJPHKLPM_00547	CDS	1353	mepA_3		COG0534	Multidrug export protein MepA
+KJPHKLPM_00548	gene	678	srtA			
+KJPHKLPM_00548	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+KJPHKLPM_00549	gene	150				
+KJPHKLPM_00549	CDS	150				hypothetical protein
+KJPHKLPM_00550	gene	942	hexR			
+KJPHKLPM_00550	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+KJPHKLPM_00551	gene	651	pspA_2			
+KJPHKLPM_00551	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+KJPHKLPM_00552	gene	1257				
+KJPHKLPM_00552	CDS	1257			COG2081	putative protein
+KJPHKLPM_00553	gene	660	cmk			
+KJPHKLPM_00553	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+KJPHKLPM_00554	gene	615	plsC			
+KJPHKLPM_00554	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KJPHKLPM_00555	gene	888	ispH			
+KJPHKLPM_00555	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+KJPHKLPM_00556	gene	696				
+KJPHKLPM_00556	CDS	696				hypothetical protein
+KJPHKLPM_00557	gene	1251	dinB			
+KJPHKLPM_00557	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+KJPHKLPM_00558	gene	1440	gnd			
+KJPHKLPM_00558	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+KJPHKLPM_00559	gene	1374	zwf			
+KJPHKLPM_00559	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+KJPHKLPM_00560	gene	927	trxB			
+KJPHKLPM_00560	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+KJPHKLPM_00561	gene	762				
+KJPHKLPM_00561	CDS	762				hypothetical protein
+KJPHKLPM_00562	gene	579	rne			
+KJPHKLPM_00562	CDS	579	rne	3.1.26.12		Ribonuclease E
+KJPHKLPM_00563	gene	921	rbn			
+KJPHKLPM_00563	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+KJPHKLPM_00564	gene	462	crcB_1			
+KJPHKLPM_00564	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+KJPHKLPM_00565	gene	348	crcB_2			
+KJPHKLPM_00565	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+KJPHKLPM_00566	gene	624	recX			
+KJPHKLPM_00566	CDS	624	recX			Regulatory protein RecX
+KJPHKLPM_00567	gene	696	nadD			
+KJPHKLPM_00567	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+KJPHKLPM_00568	gene	576				
+KJPHKLPM_00568	CDS	576				hypothetical protein
+KJPHKLPM_00569	gene	351	rsfS			
+KJPHKLPM_00569	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+KJPHKLPM_00570	gene	1167	cbiD			
+KJPHKLPM_00570	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+KJPHKLPM_00571	gene	639	cbiC			
+KJPHKLPM_00571	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+KJPHKLPM_00572	gene	885	pduX			
+KJPHKLPM_00572	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+KJPHKLPM_00573	gene	1092	cobD_1			
+KJPHKLPM_00573	CDS	1092	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+KJPHKLPM_00574	gene	1041	cobD_2			
+KJPHKLPM_00574	CDS	1041	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+KJPHKLPM_00575	gene	1185	cbiA			
+KJPHKLPM_00575	CDS	1185	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+KJPHKLPM_00576	gene	810	lysC			
+KJPHKLPM_00576	CDS	810	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+KJPHKLPM_00577	gene	984	asd_1			
+KJPHKLPM_00577	CDS	984	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+KJPHKLPM_00578	gene	900	dapA_2			
+KJPHKLPM_00578	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+KJPHKLPM_00579	gene	732	dapB			
+KJPHKLPM_00579	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+KJPHKLPM_00580	gene	720	dapH			
+KJPHKLPM_00580	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+KJPHKLPM_00581	gene	1152	scmP			
+KJPHKLPM_00581	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+KJPHKLPM_00582	gene	927				
+KJPHKLPM_00582	CDS	927				hypothetical protein
+KJPHKLPM_00583	gene	1233				
+KJPHKLPM_00583	CDS	1233				hypothetical protein
+KJPHKLPM_00584	gene	1728	ade			
+KJPHKLPM_00584	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+KJPHKLPM_00585	gene	189	rpmB			
+KJPHKLPM_00585	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+KJPHKLPM_00586	gene	351				
+KJPHKLPM_00586	CDS	351				putative protein
+KJPHKLPM_00587	gene	1665				
+KJPHKLPM_00587	CDS	1665				putative protein
+KJPHKLPM_00588	gene	750				
+KJPHKLPM_00588	CDS	750				hypothetical protein
+KJPHKLPM_00589	gene	1500	guaB			
+KJPHKLPM_00589	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+KJPHKLPM_00590	gene	1050	recA			
+KJPHKLPM_00590	CDS	1050	recA		COG0468	Protein RecA
+KJPHKLPM_00591	gene	540	pgsA			
+KJPHKLPM_00591	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+KJPHKLPM_00592	gene	1323	rimO			
+KJPHKLPM_00592	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+KJPHKLPM_00593	gene	780				
+KJPHKLPM_00593	CDS	780				hypothetical protein
+KJPHKLPM_00594	gene	687	ppm1			
+KJPHKLPM_00594	CDS	687	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+KJPHKLPM_00595	gene	831				
+KJPHKLPM_00595	CDS	831				hypothetical protein
+KJPHKLPM_00596	gene	1074				
+KJPHKLPM_00596	CDS	1074				hypothetical protein
+KJPHKLPM_00597	gene	822	punA			
+KJPHKLPM_00597	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+KJPHKLPM_00598	gene	1203	mltG			
+KJPHKLPM_00598	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+KJPHKLPM_00599	gene	645	trmR			
+KJPHKLPM_00599	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+KJPHKLPM_00600	gene	1656	udk			
+KJPHKLPM_00600	CDS	1656	udk	2.7.1.48		Uridine kinase
+KJPHKLPM_00601	gene	639	pdg			
+KJPHKLPM_00601	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+KJPHKLPM_00602	gene	471	trmL			
+KJPHKLPM_00602	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+KJPHKLPM_00603	gene	876				
+KJPHKLPM_00603	CDS	876			COG1307	Fatty acid-binding protein
+KJPHKLPM_00604	gene	1449	pepD_2			
+KJPHKLPM_00604	CDS	1449	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+KJPHKLPM_00605	gene	864	yvcJ			
+KJPHKLPM_00605	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+KJPHKLPM_00606	gene	1140				
+KJPHKLPM_00606	CDS	1140			COG0391	Gluconeogenesis factor
+KJPHKLPM_00607	gene	417	ndx1			
+KJPHKLPM_00607	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+KJPHKLPM_00608	gene	966	whiA			
+KJPHKLPM_00608	CDS	966	whiA		COG1481	putative cell division protein WhiA
+KJPHKLPM_00609	gene	876				
+KJPHKLPM_00609	CDS	876				hypothetical protein
+KJPHKLPM_00610	gene	384				
+KJPHKLPM_00610	CDS	384			COG1302	Alkaline shock protein 23
+KJPHKLPM_00611	gene	495				
+KJPHKLPM_00611	CDS	495				hypothetical protein
+KJPHKLPM_00612	gene	726				
+KJPHKLPM_00612	CDS	726				hypothetical protein
+KJPHKLPM_00613	gene	1431				
+KJPHKLPM_00613	CDS	1431				hypothetical protein
+KJPHKLPM_00614	gene	387				
+KJPHKLPM_00614	CDS	387				hypothetical protein
+KJPHKLPM_00615	gene	879				
+KJPHKLPM_00615	CDS	879		2.7.1.-	COG1597	Putative lipid kinase
+KJPHKLPM_00616	gene	1305	leuC			
+KJPHKLPM_00616	CDS	1305	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+KJPHKLPM_00617	gene	1035	icd			
+KJPHKLPM_00617	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+KJPHKLPM_00618	gene	888	nadK			
+KJPHKLPM_00618	CDS	888	nadK	2.7.1.23		NAD kinase
+KJPHKLPM_00619	gene	933	rluD_2			
+KJPHKLPM_00619	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+KJPHKLPM_00620	gene	1011				
+KJPHKLPM_00620	CDS	1011				hypothetical protein
+KJPHKLPM_00621	gene	228	acpP_2			
+KJPHKLPM_00621	CDS	228	acpP_2			Acyl carrier protein
+KJPHKLPM_00622	gene	957	rhaR_2			
+KJPHKLPM_00622	CDS	957	rhaR_2			HTH-type transcriptional activator RhaR
+KJPHKLPM_00623	gene	1818	uvrC			
+KJPHKLPM_00623	CDS	1818	uvrC		COG0322	UvrABC system protein C
+KJPHKLPM_00624	gene	933	hprK			
+KJPHKLPM_00624	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+KJPHKLPM_00625	gene	921	murB			
+KJPHKLPM_00625	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+KJPHKLPM_00626	gene	900	rsgA			
+KJPHKLPM_00626	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+KJPHKLPM_00627	gene	735	fabG_2			
+KJPHKLPM_00627	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KJPHKLPM_00628	gene	1881	prkC			
+KJPHKLPM_00628	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+KJPHKLPM_00629	gene	750	stp			
+KJPHKLPM_00629	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+KJPHKLPM_00630	gene	1038	rlmN			
+KJPHKLPM_00630	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+KJPHKLPM_00631	gene	243	rsmF_1			
+KJPHKLPM_00631	CDS	243	rsmF_1	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+KJPHKLPM_00632	gene	408	aroA_1			
+KJPHKLPM_00632	CDS	408	aroA_1	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+KJPHKLPM_00633	gene	981	aroA_2			
+KJPHKLPM_00633	CDS	981	aroA_2	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+KJPHKLPM_00634	gene	1077	aroC			
+KJPHKLPM_00634	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+KJPHKLPM_00635	gene	780	aroK			
+KJPHKLPM_00635	CDS	780	aroK	2.7.1.71		Shikimate kinase
+KJPHKLPM_00636	gene	1860	asnB			
+KJPHKLPM_00636	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+KJPHKLPM_00637	gene	1017	plsX			
+KJPHKLPM_00637	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+KJPHKLPM_00638	gene	180	rpmF			
+KJPHKLPM_00638	CDS	180	rpmF			50S ribosomal protein L32
+KJPHKLPM_00639	gene	519				
+KJPHKLPM_00639	CDS	519				hypothetical protein
+KJPHKLPM_00640	gene	1200	ackA			
+KJPHKLPM_00640	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+KJPHKLPM_00641	gene	915	tmcAL			
+KJPHKLPM_00641	CDS	915	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+KJPHKLPM_00642	gene	1683				
+KJPHKLPM_00642	CDS	1683				hypothetical protein
+KJPHKLPM_00643	gene	2253	rep			
+KJPHKLPM_00643	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+KJPHKLPM_00644	gene	684				
+KJPHKLPM_00644	CDS	684				hypothetical protein
+KJPHKLPM_00645	gene	342	prsA_1			
+KJPHKLPM_00645	CDS	342	prsA_1	5.2.1.8		Foldase protein PrsA
+KJPHKLPM_00646	gene	1623	murJ_1			
+KJPHKLPM_00646	CDS	1623	murJ_1		COG2244	Lipid II flippase MurJ
+KJPHKLPM_00647	gene	1014				
+KJPHKLPM_00647	CDS	1014				hypothetical protein
+KJPHKLPM_00648	gene	282	hup			
+KJPHKLPM_00648	CDS	282	hup			DNA-binding protein HU
+KJPHKLPM_00649	gene	240				
+KJPHKLPM_00649	CDS	240			COG1188	putative protein
+KJPHKLPM_00650	gene	894	gtaB			
+KJPHKLPM_00650	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+KJPHKLPM_00651	gene	858	trkG			
+KJPHKLPM_00651	CDS	858	trkG		COG0168	Trk system potassium uptake protein TrkG
+KJPHKLPM_00652	gene	1278	purA			
+KJPHKLPM_00652	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+KJPHKLPM_00653	gene	1425	purB			
+KJPHKLPM_00653	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+KJPHKLPM_00654	gene	930				
+KJPHKLPM_00654	CDS	930				hypothetical protein
+KJPHKLPM_00655	gene	375				
+KJPHKLPM_00655	CDS	375				hypothetical protein
+KJPHKLPM_00656	gene	675				
+KJPHKLPM_00656	CDS	675			COG1132	putative ABC transporter ATP-binding protein
+KJPHKLPM_00657	gene	609				
+KJPHKLPM_00657	CDS	609				hypothetical protein
+KJPHKLPM_00658	gene	705				
+KJPHKLPM_00658	CDS	705				hypothetical protein
+KJPHKLPM_00659	gene	1557	ykoD			
+KJPHKLPM_00659	CDS	1557	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+KJPHKLPM_00660	gene	2040	pheT			
+KJPHKLPM_00660	CDS	2040	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+KJPHKLPM_00661	gene	4020				
+KJPHKLPM_00661	CDS	4020				hypothetical protein
+KJPHKLPM_00662	gene	1146				
+KJPHKLPM_00662	CDS	1146				hypothetical protein
+KJPHKLPM_00663	gene	933	lnrL_1			
+KJPHKLPM_00663	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+KJPHKLPM_00664	gene	1119				
+KJPHKLPM_00664	CDS	1119				hypothetical protein
+KJPHKLPM_00665	gene	1113				
+KJPHKLPM_00665	CDS	1113				hypothetical protein
+KJPHKLPM_00666	gene	2646	ppdK			
+KJPHKLPM_00666	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+KJPHKLPM_00667	gene	840	yqfL			
+KJPHKLPM_00667	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+KJPHKLPM_00668	gene	636	ccpN			
+KJPHKLPM_00668	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+KJPHKLPM_00669	gene	771	aviRb			
+KJPHKLPM_00669	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+KJPHKLPM_00670	gene	180				
+KJPHKLPM_00670	CDS	180				hypothetical protein
+KJPHKLPM_00671	gene	351				
+KJPHKLPM_00671	CDS	351				hypothetical protein
+KJPHKLPM_00672	gene	1545				
+KJPHKLPM_00672	CDS	1545				hypothetical protein
+KJPHKLPM_00673	gene	765	cbiJ			
+KJPHKLPM_00673	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+KJPHKLPM_00674	gene	726	cbiH			
+KJPHKLPM_00674	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+KJPHKLPM_00675	gene	1200	cbiG			
+KJPHKLPM_00675	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+KJPHKLPM_00676	gene	588	cbiF			
+KJPHKLPM_00676	CDS	588	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+KJPHKLPM_00677	gene	231				
+KJPHKLPM_00677	CDS	231				hypothetical protein
+KJPHKLPM_00678	gene	2220	rnr			
+KJPHKLPM_00678	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+KJPHKLPM_00679	gene	456	smpB			
+KJPHKLPM_00679	CDS	456	smpB		COG0691	SsrA-binding protein
+KJPHKLPM_00680	gene	831	artP			
+KJPHKLPM_00680	CDS	831	artP		COG0834	Arginine-binding extracellular protein ArtP
+KJPHKLPM_00681	gene	708	mtnN			
+KJPHKLPM_00681	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+KJPHKLPM_00682	gene	1053				
+KJPHKLPM_00682	CDS	1053				hypothetical protein
+KJPHKLPM_00683	gene	786				
+KJPHKLPM_00683	CDS	786				hypothetical protein
+KJPHKLPM_00684	gene	1959				
+KJPHKLPM_00684	CDS	1959				hypothetical protein
+KJPHKLPM_00685	gene	594	purN			
+KJPHKLPM_00685	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+KJPHKLPM_00686	gene	1077	purM			
+KJPHKLPM_00686	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+KJPHKLPM_00687	gene	477	purE			
+KJPHKLPM_00687	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+KJPHKLPM_00688	gene	1242				
+KJPHKLPM_00688	CDS	1242				hypothetical protein
+KJPHKLPM_00689	gene	2163	yhgF			
+KJPHKLPM_00689	CDS	2163	yhgF		COG2183	Protein YhgF
+KJPHKLPM_00690	gene	1047	prfB			
+KJPHKLPM_00690	CDS	1047	prfB			Peptide chain release factor 2
+KJPHKLPM_00691	gene	999				
+KJPHKLPM_00691	CDS	999		1.1.1.28		D-lactate dehydrogenase
+KJPHKLPM_00692	gene	558	carE_2			
+KJPHKLPM_00692	CDS	558	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+KJPHKLPM_00693	gene	2898	mrdA			
+KJPHKLPM_00693	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+KJPHKLPM_00694	gene	486				
+KJPHKLPM_00694	CDS	486				hypothetical protein
+KJPHKLPM_00695	gene	882				
+KJPHKLPM_00695	CDS	882				hypothetical protein
+KJPHKLPM_00696	gene	1050	mreB			
+KJPHKLPM_00696	CDS	1050	mreB		COG1077	Cell shape-determining protein MreB
+KJPHKLPM_00697	gene	2826	uvrA			
+KJPHKLPM_00697	CDS	2826	uvrA			UvrABC system protein A
+KJPHKLPM_00698	gene	1263	sstT_1			
+KJPHKLPM_00698	CDS	1263	sstT_1		COG3633	Serine/threonine transporter SstT
+KJPHKLPM_00699	gene	519	hmpT			
+KJPHKLPM_00699	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+KJPHKLPM_00700	gene	930				
+KJPHKLPM_00700	CDS	930				hypothetical protein
+KJPHKLPM_00701	gene	1401	asnS			
+KJPHKLPM_00701	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+KJPHKLPM_00702	gene	894				
+KJPHKLPM_00702	CDS	894				hypothetical protein
+KJPHKLPM_00703	gene	627				
+KJPHKLPM_00703	CDS	627				hypothetical protein
+KJPHKLPM_00704	gene	1260	dacF			
+KJPHKLPM_00704	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+KJPHKLPM_00705	gene	531				
+KJPHKLPM_00705	CDS	531				hypothetical protein
+KJPHKLPM_00706	gene	1314	hflX			
+KJPHKLPM_00706	CDS	1314	hflX		COG2262	GTPase HflX
+KJPHKLPM_00707	gene	1182				
+KJPHKLPM_00707	CDS	1182		2.6.1.1		Aspartate aminotransferase
+KJPHKLPM_00708	gene	1095				
+KJPHKLPM_00708	CDS	1095				hypothetical protein
+KJPHKLPM_00709	gene	720				
+KJPHKLPM_00709	CDS	720				hypothetical protein
+KJPHKLPM_00710	gene	1236	epmA			
+KJPHKLPM_00710	CDS	1236	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+KJPHKLPM_00711	gene	486				
+KJPHKLPM_00711	CDS	486				hypothetical protein
+KJPHKLPM_00712	gene	192				
+KJPHKLPM_00712	CDS	192				hypothetical protein
+KJPHKLPM_00713	gene	126				
+KJPHKLPM_00713	CDS	126				hypothetical protein
+KJPHKLPM_00714	gene	3441	pycA			
+KJPHKLPM_00714	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+KJPHKLPM_00715	gene	90				
+KJPHKLPM_00715	rRNA	90				5S ribosomal RNA (partial)
+KJPHKLPM_00716	gene	276				
+KJPHKLPM_00716	CDS	276				hypothetical protein
+KJPHKLPM_00717	gene	852				
+KJPHKLPM_00717	CDS	852				hypothetical protein
+KJPHKLPM_00718	gene	1383	dinG			
+KJPHKLPM_00718	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+KJPHKLPM_00719	gene	1158				
+KJPHKLPM_00719	CDS	1158				hypothetical protein
+KJPHKLPM_00720	gene	741				
+KJPHKLPM_00720	CDS	741				hypothetical protein
+KJPHKLPM_00721	gene	339				
+KJPHKLPM_00721	CDS	339				hypothetical protein
+KJPHKLPM_00722	gene	684				
+KJPHKLPM_00722	CDS	684				hypothetical protein
+KJPHKLPM_00723	gene	90				
+KJPHKLPM_00723	rRNA	90				5S ribosomal RNA (partial)
+KJPHKLPM_00724	gene	228	rpsR			
+KJPHKLPM_00724	CDS	228	rpsR			30S ribosomal protein S18
+KJPHKLPM_00725	gene	216				
+KJPHKLPM_00725	CDS	216				hypothetical protein
+KJPHKLPM_00726	gene	756				
+KJPHKLPM_00726	CDS	756				hypothetical protein
+KJPHKLPM_00727	gene	786	znuB			
+KJPHKLPM_00727	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+KJPHKLPM_00728	gene	669	mntB			
+KJPHKLPM_00728	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+KJPHKLPM_00729	gene	981	znuA			
+KJPHKLPM_00729	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+KJPHKLPM_00730	gene	462	zur			
+KJPHKLPM_00730	CDS	462	zur		COG0735	Zinc uptake regulation protein
+KJPHKLPM_00731	gene	162				
+KJPHKLPM_00731	CDS	162				Rubredoxin
+KJPHKLPM_00732	gene	786	rnfC_1			
+KJPHKLPM_00732	CDS	786	rnfC_1	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+KJPHKLPM_00733	gene	249	rnfC_2			
+KJPHKLPM_00733	CDS	249	rnfC_2	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+KJPHKLPM_00734	gene	987	rnfD			
+KJPHKLPM_00734	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+KJPHKLPM_00735	gene	567	rnfG			
+KJPHKLPM_00735	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+KJPHKLPM_00736	gene	594	rnfE			
+KJPHKLPM_00736	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+KJPHKLPM_00737	gene	576	rnfA			
+KJPHKLPM_00737	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+KJPHKLPM_00738	gene	864	rnfB			
+KJPHKLPM_00738	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+KJPHKLPM_00739	gene	318				
+KJPHKLPM_00739	CDS	318				hypothetical protein
+KJPHKLPM_00740	gene	1395	alaS			
+KJPHKLPM_00740	CDS	1395	alaS	6.1.1.7		Alanine--tRNA ligase
+KJPHKLPM_00741	gene	954	msrAB			
+KJPHKLPM_00741	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+KJPHKLPM_00742	gene	678				
+KJPHKLPM_00742	CDS	678				hypothetical protein
+KJPHKLPM_00743	gene	1221				
+KJPHKLPM_00743	CDS	1221				hypothetical protein
+KJPHKLPM_00744	gene	303				
+KJPHKLPM_00744	CDS	303				hypothetical protein
+KJPHKLPM_00745	gene	402				
+KJPHKLPM_00745	CDS	402				hypothetical protein
+KJPHKLPM_00746	gene	522	dcd			
+KJPHKLPM_00746	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+KJPHKLPM_00747	gene	969	bioB_2			
+KJPHKLPM_00747	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+KJPHKLPM_00748	gene	933	hemC			
+KJPHKLPM_00748	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+KJPHKLPM_00749	gene	1269				
+KJPHKLPM_00749	CDS	1269				hypothetical protein
+KJPHKLPM_00750	gene	495	sigM_1			
+KJPHKLPM_00750	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+KJPHKLPM_00751	gene	1083				
+KJPHKLPM_00751	CDS	1083				hypothetical protein
+KJPHKLPM_00752	gene	450				
+KJPHKLPM_00752	CDS	450				hypothetical protein
+KJPHKLPM_00753	gene	354				
+KJPHKLPM_00753	CDS	354				hypothetical protein
+KJPHKLPM_00754	gene	672				
+KJPHKLPM_00754	CDS	672				hypothetical protein
+KJPHKLPM_00755	gene	558				
+KJPHKLPM_00755	CDS	558				hypothetical protein
+KJPHKLPM_00756	gene	1659	glnS			
+KJPHKLPM_00756	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+KJPHKLPM_00757	gene	738				
+KJPHKLPM_00757	CDS	738				hypothetical protein
+KJPHKLPM_00758	gene	2364				
+KJPHKLPM_00758	CDS	2364				hypothetical protein
+KJPHKLPM_00759	gene	1476				
+KJPHKLPM_00759	CDS	1476				hypothetical protein
+KJPHKLPM_00760	gene	474				
+KJPHKLPM_00760	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+KJPHKLPM_00761	gene	1461	rph			
+KJPHKLPM_00761	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+KJPHKLPM_00762	gene	1707	ligA			
+KJPHKLPM_00762	CDS	1707	ligA	6.5.1.2		DNA ligase
+KJPHKLPM_00763	gene	735				
+KJPHKLPM_00763	CDS	735				hypothetical protein
+KJPHKLPM_00764	gene	1719				
+KJPHKLPM_00764	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+KJPHKLPM_00765	gene	1743	msbA			
+KJPHKLPM_00765	CDS	1743	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+KJPHKLPM_00766	gene	243				
+KJPHKLPM_00766	CDS	243				hypothetical protein
+KJPHKLPM_00767	gene	1929				
+KJPHKLPM_00767	CDS	1929				hypothetical protein
+KJPHKLPM_00768	gene	846				
+KJPHKLPM_00768	CDS	846				hypothetical protein
+KJPHKLPM_00769	gene	585				
+KJPHKLPM_00769	CDS	585				hypothetical protein
+KJPHKLPM_00770	gene	1365	cls			
+KJPHKLPM_00770	CDS	1365	cls	2.7.8.-		Cardiolipin synthase
+KJPHKLPM_00771	gene	282	groS			
+KJPHKLPM_00771	CDS	282	groS		COG0234	10 kDa chaperonin
+KJPHKLPM_00772	gene	1623	groL			
+KJPHKLPM_00772	CDS	1623	groL		COG0459	60 kDa chaperonin
+KJPHKLPM_00773	gene	690				
+KJPHKLPM_00773	CDS	690				hypothetical protein
+KJPHKLPM_00774	gene	897				
+KJPHKLPM_00774	CDS	897				hypothetical protein
+KJPHKLPM_00775	gene	750	yfiC			
+KJPHKLPM_00775	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+KJPHKLPM_00776	gene	837	rsmI			
+KJPHKLPM_00776	CDS	837	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+KJPHKLPM_00777	gene	138	rnhB			
+KJPHKLPM_00777	CDS	138	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+KJPHKLPM_00778	gene	1017	hmo_2			
+KJPHKLPM_00778	CDS	1017	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+KJPHKLPM_00779	gene	363				
+KJPHKLPM_00779	CDS	363				hypothetical protein
+KJPHKLPM_00780	gene	1617	comM			
+KJPHKLPM_00780	CDS	1617	comM		COG0606	Competence protein ComM
+KJPHKLPM_00781	gene	1257				
+KJPHKLPM_00781	CDS	1257				hypothetical protein
+KJPHKLPM_00782	gene	741	mta			
+KJPHKLPM_00782	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+KJPHKLPM_00783	gene	1413	fpgS			
+KJPHKLPM_00783	CDS	1413	fpgS	6.3.2.17		Folylpolyglutamate synthase
+KJPHKLPM_00784	gene	450	rimI			
+KJPHKLPM_00784	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+KJPHKLPM_00785	gene	720	tsaB			
+KJPHKLPM_00785	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+KJPHKLPM_00786	gene	459	tsaE			
+KJPHKLPM_00786	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+KJPHKLPM_00787	gene	921				
+KJPHKLPM_00787	CDS	921				hypothetical protein
+KJPHKLPM_00788	gene	777	fldI			
+KJPHKLPM_00788	CDS	777	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+KJPHKLPM_00789	gene	1851				
+KJPHKLPM_00789	CDS	1851				hypothetical protein
+KJPHKLPM_00790	gene	1101				
+KJPHKLPM_00790	CDS	1101				hypothetical protein
+KJPHKLPM_00791	gene	1260				
+KJPHKLPM_00791	CDS	1260				hypothetical protein
+KJPHKLPM_00792	gene	345				
+KJPHKLPM_00792	CDS	345			COG0718	Nucleoid-associated protein
+KJPHKLPM_00793	gene	1683	ruvB			
+KJPHKLPM_00793	CDS	1683	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+KJPHKLPM_00794	gene	576				
+KJPHKLPM_00794	CDS	576				hypothetical protein
+KJPHKLPM_00795	gene	642	bcrA			
+KJPHKLPM_00795	CDS	642	bcrA			Bacitracin transport ATP-binding protein BcrA
+KJPHKLPM_00796	gene	657				
+KJPHKLPM_00796	CDS	657				hypothetical protein
+KJPHKLPM_00797	gene	177				
+KJPHKLPM_00797	CDS	177				hypothetical protein
+KJPHKLPM_00798	gene	1134				
+KJPHKLPM_00798	CDS	1134				hypothetical protein
+KJPHKLPM_00799	gene	495				
+KJPHKLPM_00799	CDS	495				hypothetical protein
+KJPHKLPM_00800	gene	723				
+KJPHKLPM_00800	CDS	723				hypothetical protein
+KJPHKLPM_00801	gene	2133	addA_1			
+KJPHKLPM_00801	CDS	2133	addA_1	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+KJPHKLPM_00802	gene	1836	addB			
+KJPHKLPM_00802	CDS	1836	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+KJPHKLPM_00803	gene	381	lytD			
+KJPHKLPM_00803	CDS	381	lytD	3.2.1.96	COG4193	Beta-N-acetylglucosaminidase
+KJPHKLPM_00804	gene	1761				
+KJPHKLPM_00804	CDS	1761				hypothetical protein
+KJPHKLPM_00805	gene	555				
+KJPHKLPM_00805	CDS	555				hypothetical protein
+KJPHKLPM_00806	gene	675	arlR			
+KJPHKLPM_00806	CDS	675	arlR		COG0745	Response regulator ArlR
+KJPHKLPM_00807	gene	921				
+KJPHKLPM_00807	CDS	921				hypothetical protein
+KJPHKLPM_00808	gene	2232				
+KJPHKLPM_00808	CDS	2232				hypothetical protein
+KJPHKLPM_00809	gene	144				
+KJPHKLPM_00809	CDS	144				hypothetical protein
+KJPHKLPM_00810	gene	954	lytC_3			
+KJPHKLPM_00810	CDS	954	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+KJPHKLPM_00811	gene	1992				
+KJPHKLPM_00811	CDS	1992				hypothetical protein
+KJPHKLPM_00812	gene	690				
+KJPHKLPM_00812	CDS	690				hypothetical protein
+KJPHKLPM_00813	gene	930	fmt			
+KJPHKLPM_00813	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+KJPHKLPM_00814	gene	456	def1			
+KJPHKLPM_00814	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+KJPHKLPM_00815	gene	2313	priA			
+KJPHKLPM_00815	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+KJPHKLPM_00816	gene	1410				
+KJPHKLPM_00816	CDS	1410				hypothetical protein
+KJPHKLPM_00817	gene	2376				
+KJPHKLPM_00817	CDS	2376				hypothetical protein
+KJPHKLPM_00818	gene	774	dtd3			
+KJPHKLPM_00818	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+KJPHKLPM_00819	gene	522	niaR			
+KJPHKLPM_00819	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+KJPHKLPM_00820	gene	1821				
+KJPHKLPM_00820	CDS	1821				hypothetical protein
+KJPHKLPM_00821	gene	390				
+KJPHKLPM_00821	CDS	390				hypothetical protein
+KJPHKLPM_00822	gene	1101	dhaD			
+KJPHKLPM_00822	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+KJPHKLPM_00823	gene	189				
+KJPHKLPM_00823	CDS	189				Rubredoxin
+KJPHKLPM_00824	gene	549	chrA1			
+KJPHKLPM_00824	CDS	549	chrA1			Chromate transport protein
+KJPHKLPM_00825	gene	561				
+KJPHKLPM_00825	CDS	561				hypothetical protein
+KJPHKLPM_00826	gene	603				
+KJPHKLPM_00826	CDS	603				hypothetical protein
+KJPHKLPM_00827	gene	1320	murJ_2			
+KJPHKLPM_00827	CDS	1320	murJ_2		COG0728	putative lipid II flippase MurJ
+KJPHKLPM_00828	gene	1230				
+KJPHKLPM_00828	CDS	1230				hypothetical protein
+KJPHKLPM_00829	gene	1086				
+KJPHKLPM_00829	CDS	1086				hypothetical protein
+KJPHKLPM_00830	gene	423				
+KJPHKLPM_00830	CDS	423				hypothetical protein
+KJPHKLPM_00831	gene	219				
+KJPHKLPM_00831	CDS	219				hypothetical protein
+KJPHKLPM_00832	gene	675				
+KJPHKLPM_00832	CDS	675				hypothetical protein
+KJPHKLPM_00833	gene	1731	cdr			
+KJPHKLPM_00833	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+KJPHKLPM_00834	gene	288	pagR			
+KJPHKLPM_00834	CDS	288	pagR			Transcriptional repressor PagR
+KJPHKLPM_00835	gene	534				
+KJPHKLPM_00835	CDS	534				hypothetical protein
+KJPHKLPM_00836	gene	375				
+KJPHKLPM_00836	CDS	375				hypothetical protein
+KJPHKLPM_00837	gene	1614				
+KJPHKLPM_00837	CDS	1614				hypothetical protein
+KJPHKLPM_00838	gene	1347	pgi			
+KJPHKLPM_00838	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+KJPHKLPM_00839	gene	432				
+KJPHKLPM_00839	CDS	432				hypothetical protein
+KJPHKLPM_00840	gene	885				
+KJPHKLPM_00840	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+KJPHKLPM_00841	gene	246	xseB			
+KJPHKLPM_00841	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+KJPHKLPM_00842	gene	786	xseA			
+KJPHKLPM_00842	CDS	786	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+KJPHKLPM_00843	gene	156				
+KJPHKLPM_00843	CDS	156				hypothetical protein
+KJPHKLPM_00844	gene	678				
+KJPHKLPM_00844	CDS	678				hypothetical protein
+KJPHKLPM_00845	gene	1200	sstT_2			
+KJPHKLPM_00845	CDS	1200	sstT_2			Serine/threonine transporter SstT
+KJPHKLPM_00846	gene	972	pta			
+KJPHKLPM_00846	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+KJPHKLPM_00847	gene	477				
+KJPHKLPM_00847	CDS	477				hypothetical protein
+KJPHKLPM_00848	gene	315	csoR			
+KJPHKLPM_00848	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+KJPHKLPM_00849	gene	546				
+KJPHKLPM_00849	CDS	546			COG3599	putative protein
+KJPHKLPM_00850	gene	483	coaD			
+KJPHKLPM_00850	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+KJPHKLPM_00851	gene	561	rsmD			
+KJPHKLPM_00851	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+KJPHKLPM_00852	gene	2058	recG			
+KJPHKLPM_00852	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+KJPHKLPM_00853	gene	2364	pcrA			
+KJPHKLPM_00853	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+KJPHKLPM_00854	gene	477	cysG			
+KJPHKLPM_00854	CDS	477	cysG		COG0007	Siroheme synthase
+KJPHKLPM_00855	gene	969	hemB			
+KJPHKLPM_00855	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+KJPHKLPM_00856	gene	3618	purL			
+KJPHKLPM_00856	CDS	3618	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+KJPHKLPM_00857	gene	177				
+KJPHKLPM_00857	CDS	177				hypothetical protein
+KJPHKLPM_00858	gene	1362	glmM			
+KJPHKLPM_00858	CDS	1362	glmM	5.4.2.10		Phosphoglucosamine mutase
+KJPHKLPM_00859	gene	555				
+KJPHKLPM_00859	CDS	555				hypothetical protein
+KJPHKLPM_00860	gene	780	korB			
+KJPHKLPM_00860	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+KJPHKLPM_00861	gene	1017	korA			
+KJPHKLPM_00861	CDS	1017	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+KJPHKLPM_00862	gene	267	rpsT			
+KJPHKLPM_00862	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+KJPHKLPM_00863	gene	120				
+KJPHKLPM_00863	CDS	120				hypothetical protein
+KJPHKLPM_00864	gene	1875	yxdM			
+KJPHKLPM_00864	CDS	1875	yxdM			ABC transporter permease protein YxdM
+KJPHKLPM_00865	gene	756	yxdL			
+KJPHKLPM_00865	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+KJPHKLPM_00866	gene	486	xkdM			
+KJPHKLPM_00866	CDS	486	xkdM			Phage-like element PBSX protein XkdM
+KJPHKLPM_00867	gene	1338				
+KJPHKLPM_00867	CDS	1338				hypothetical protein
+KJPHKLPM_00868	gene	189				
+KJPHKLPM_00868	CDS	189				hypothetical protein
+KJPHKLPM_00869	gene	426				
+KJPHKLPM_00869	CDS	426				hypothetical protein
+KJPHKLPM_00870	gene	480				
+KJPHKLPM_00870	CDS	480				hypothetical protein
+KJPHKLPM_00871	gene	408				
+KJPHKLPM_00871	CDS	408				hypothetical protein
+KJPHKLPM_00872	gene	387				
+KJPHKLPM_00872	CDS	387				hypothetical protein
+KJPHKLPM_00873	gene	252				
+KJPHKLPM_00873	CDS	252				hypothetical protein
+KJPHKLPM_00874	gene	2070	glyS			
+KJPHKLPM_00874	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+KJPHKLPM_00875	gene	885	glyQ			
+KJPHKLPM_00875	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+KJPHKLPM_00876	gene	609				
+KJPHKLPM_00876	CDS	609				hypothetical protein
+KJPHKLPM_00877	gene	708	ytrE_2			
+KJPHKLPM_00877	CDS	708	ytrE_2		COG1136	ABC transporter ATP-binding protein YtrE
+KJPHKLPM_00878	gene	291				
+KJPHKLPM_00878	CDS	291				hypothetical protein
+KJPHKLPM_00879	gene	1506	glpK			
+KJPHKLPM_00879	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+KJPHKLPM_00880	gene	147				
+KJPHKLPM_00880	CDS	147				hypothetical protein
+KJPHKLPM_00881	gene	726	tauB			
+KJPHKLPM_00881	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+KJPHKLPM_00882	gene	1023	thiY			
+KJPHKLPM_00882	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+KJPHKLPM_00883	gene	762	ribX			
+KJPHKLPM_00883	CDS	762	ribX			Riboflavin transport system permease protein RibX
+KJPHKLPM_00884	gene	468				
+KJPHKLPM_00884	CDS	468				hypothetical protein
+KJPHKLPM_00885	gene	1404	cysS			
+KJPHKLPM_00885	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+KJPHKLPM_00886	gene	453	mrnC			
+KJPHKLPM_00886	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+KJPHKLPM_00887	gene	735				
+KJPHKLPM_00887	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+KJPHKLPM_00888	gene	564				
+KJPHKLPM_00888	CDS	564				hypothetical protein
+KJPHKLPM_00889	gene	171				
+KJPHKLPM_00889	CDS	171				hypothetical protein
+KJPHKLPM_00890	gene	669	lytC_4			
+KJPHKLPM_00890	CDS	669	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+KJPHKLPM_00891	gene	1461				
+KJPHKLPM_00891	CDS	1461				hypothetical protein
+KJPHKLPM_00892	gene	765	fpuC			
+KJPHKLPM_00892	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+KJPHKLPM_00893	gene	1065	isdF			
+KJPHKLPM_00893	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+KJPHKLPM_00894	gene	171	isdE			
+KJPHKLPM_00894	CDS	171	isdE			High-affinity heme uptake system protein IsdE
+KJPHKLPM_00895	gene	336				
+KJPHKLPM_00895	CDS	336				hypothetical protein
+KJPHKLPM_00896	gene	246				
+KJPHKLPM_00896	CDS	246				hypothetical protein
+KJPHKLPM_00897	gene	1047				
+KJPHKLPM_00897	CDS	1047				hypothetical protein
+KJPHKLPM_00898	gene	357				
+KJPHKLPM_00898	CDS	357				hypothetical protein
+KJPHKLPM_00899	gene	666				
+KJPHKLPM_00899	CDS	666				hypothetical protein
+KJPHKLPM_00900	gene	591				
+KJPHKLPM_00900	CDS	591				hypothetical protein
+KJPHKLPM_00901	gene	777				
+KJPHKLPM_00901	CDS	777				hypothetical protein
+KJPHKLPM_00902	gene	513				
+KJPHKLPM_00902	CDS	513				hypothetical protein
+KJPHKLPM_00903	gene	411				
+KJPHKLPM_00903	CDS	411				hypothetical protein
+KJPHKLPM_00904	gene	750				
+KJPHKLPM_00904	CDS	750				hypothetical protein
+KJPHKLPM_00905	gene	1242				
+KJPHKLPM_00905	CDS	1242				hypothetical protein
+KJPHKLPM_00906	gene	816				
+KJPHKLPM_00906	CDS	816				hypothetical protein
+KJPHKLPM_00907	gene	1224	ileS			
+KJPHKLPM_00907	CDS	1224	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+KJPHKLPM_00908	gene	534	regX3			
+KJPHKLPM_00908	CDS	534	regX3		COG0745	Sensory transduction protein regX3
+KJPHKLPM_00909	gene	1437	rcsC			
+KJPHKLPM_00909	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+KJPHKLPM_00910	gene	1353	mepA_4			
+KJPHKLPM_00910	CDS	1353	mepA_4		COG0534	Multidrug export protein MepA
+KJPHKLPM_00911	gene	1860				
+KJPHKLPM_00911	CDS	1860				hypothetical protein
+KJPHKLPM_00912	gene	834	thyA			
+KJPHKLPM_00912	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+KJPHKLPM_00913	gene	708	rnc			
+KJPHKLPM_00913	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+KJPHKLPM_00914	gene	561	efp			
+KJPHKLPM_00914	CDS	561	efp		COG0231	Elongation factor P
+KJPHKLPM_00915	gene	1695	pgcA			
+KJPHKLPM_00915	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+KJPHKLPM_00916	gene	345	hrcA			
+KJPHKLPM_00916	CDS	345	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+KJPHKLPM_00917	gene	624	grpE			
+KJPHKLPM_00917	CDS	624	grpE			Protein GrpE
+KJPHKLPM_00918	gene	1845	dnaK			
+KJPHKLPM_00918	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+KJPHKLPM_00919	gene	345				
+KJPHKLPM_00919	CDS	345				hypothetical protein
+KJPHKLPM_00920	gene	960				
+KJPHKLPM_00920	CDS	960				hypothetical protein
+KJPHKLPM_00921	gene	750				
+KJPHKLPM_00921	CDS	750				hypothetical protein
+KJPHKLPM_00922	gene	1371				
+KJPHKLPM_00922	CDS	1371				hypothetical protein
+KJPHKLPM_00923	gene	1365	murD			
+KJPHKLPM_00923	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+KJPHKLPM_00924	gene	966	mraY			
+KJPHKLPM_00924	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+KJPHKLPM_00925	gene	357	murF			
+KJPHKLPM_00925	CDS	357	murF	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KJPHKLPM_00926	gene	1374	moaA_1			
+KJPHKLPM_00926	CDS	1374	moaA_1			GTP 3',8-cyclase
+KJPHKLPM_00927	gene	975				
+KJPHKLPM_00927	CDS	975				hypothetical protein
+KJPHKLPM_00928	gene	222				
+KJPHKLPM_00928	CDS	222				hypothetical protein
+KJPHKLPM_00929	gene	411				
+KJPHKLPM_00929	CDS	411				hypothetical protein
+KJPHKLPM_00930	gene	450				
+KJPHKLPM_00930	CDS	450				hypothetical protein
+KJPHKLPM_00931	gene	705				
+KJPHKLPM_00931	CDS	705				hypothetical protein
+KJPHKLPM_00932	gene	1839	typA			
+KJPHKLPM_00932	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+KJPHKLPM_00933	gene	201				
+KJPHKLPM_00933	CDS	201				hypothetical protein
+KJPHKLPM_00934	gene	126				
+KJPHKLPM_00934	CDS	126				hypothetical protein
+KJPHKLPM_00935	gene	258				
+KJPHKLPM_00935	CDS	258				hypothetical protein
+KJPHKLPM_00936	gene	645				
+KJPHKLPM_00936	CDS	645				hypothetical protein
+KJPHKLPM_00937	gene	297				
+KJPHKLPM_00937	CDS	297				hypothetical protein
+KJPHKLPM_00938	gene	1275	pyrC			
+KJPHKLPM_00938	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+KJPHKLPM_00939	gene	654	macB			
+KJPHKLPM_00939	CDS	654	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+KJPHKLPM_00940	gene	672				
+KJPHKLPM_00940	CDS	672				hypothetical protein
+KJPHKLPM_00941	gene	933				
+KJPHKLPM_00941	CDS	933				hypothetical protein
+KJPHKLPM_00942	gene	336				
+KJPHKLPM_00942	CDS	336				hypothetical protein
+KJPHKLPM_00943	gene	1254				
+KJPHKLPM_00943	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+KJPHKLPM_00944	gene	168				
+KJPHKLPM_00944	CDS	168			COG1145	Ferredoxin
+KJPHKLPM_00945	gene	636	rex1			
+KJPHKLPM_00945	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+KJPHKLPM_00946	gene	345				
+KJPHKLPM_00946	CDS	345				hypothetical protein
+KJPHKLPM_00947	gene	1125				
+KJPHKLPM_00947	CDS	1125				hypothetical protein
+KJPHKLPM_00948	gene	1818				
+KJPHKLPM_00948	CDS	1818				hypothetical protein
+KJPHKLPM_00949	gene	681	trmD			
+KJPHKLPM_00949	CDS	681	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+KJPHKLPM_00950	gene	1158				
+KJPHKLPM_00950	CDS	1158				hypothetical protein
+KJPHKLPM_00951	gene	1224	tyrS			
+KJPHKLPM_00951	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+KJPHKLPM_00952	gene	234	dnaJ			
+KJPHKLPM_00952	CDS	234	dnaJ		COG0484	Chaperone protein DnaJ
+KJPHKLPM_00953	gene	717	tcdA			
+KJPHKLPM_00953	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+KJPHKLPM_00954	gene	867	comEC_1			
+KJPHKLPM_00954	CDS	867	comEC_1		COG0658	ComE operon protein 3
+KJPHKLPM_00955	gene	906				
+KJPHKLPM_00955	CDS	906				hypothetical protein
+KJPHKLPM_00956	gene	591	ogt			
+KJPHKLPM_00956	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+KJPHKLPM_00957	gene	306	asd2			
+KJPHKLPM_00957	CDS	306	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+KJPHKLPM_00958	gene	579	asd_2			
+KJPHKLPM_00958	CDS	579	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+KJPHKLPM_00959	gene	1338	hom			
+KJPHKLPM_00959	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+KJPHKLPM_00960	gene	1404	lysN_2			
+KJPHKLPM_00960	CDS	1404	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+KJPHKLPM_00961	gene	201				
+KJPHKLPM_00961	CDS	201				hypothetical protein
+KJPHKLPM_00962	gene	912	cmpR			
+KJPHKLPM_00962	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+KJPHKLPM_00963	gene	85				
+KJPHKLPM_00963	tRNA	85				tRNA-Leu(caa)
+KJPHKLPM_00964	gene	900				
+KJPHKLPM_00964	CDS	900		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+KJPHKLPM_00965	gene	426				
+KJPHKLPM_00965	CDS	426				hypothetical protein
+KJPHKLPM_00966	gene	1968				
+KJPHKLPM_00966	CDS	1968				hypothetical protein
+KJPHKLPM_00967	gene	603				
+KJPHKLPM_00967	CDS	603				hypothetical protein
+KJPHKLPM_00968	gene	597				
+KJPHKLPM_00968	CDS	597				hypothetical protein
+KJPHKLPM_00969	gene	1065				
+KJPHKLPM_00969	CDS	1065				hypothetical protein
+KJPHKLPM_00970	gene	1365				
+KJPHKLPM_00970	CDS	1365				hypothetical protein
+KJPHKLPM_00971	gene	873	moaA_2			
+KJPHKLPM_00971	CDS	873	moaA_2	4.1.99.22		GTP 3',8-cyclase
+KJPHKLPM_00972	gene	759				
+KJPHKLPM_00972	CDS	759				hypothetical protein
+KJPHKLPM_00973	gene	183				
+KJPHKLPM_00973	CDS	183				hypothetical protein
+KJPHKLPM_00974	gene	774	sigB			
+KJPHKLPM_00974	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+KJPHKLPM_00975	gene	408	rsbW			
+KJPHKLPM_00975	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+KJPHKLPM_00976	gene	318	rsbV			
+KJPHKLPM_00976	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+KJPHKLPM_00977	gene	921	gyrA			
+KJPHKLPM_00977	CDS	921	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+KJPHKLPM_00978	gene	522	apt			
+KJPHKLPM_00978	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+KJPHKLPM_00979	gene	2289				
+KJPHKLPM_00979	CDS	2289				hypothetical protein
+KJPHKLPM_00980	gene	1239				
+KJPHKLPM_00980	CDS	1239				hypothetical protein
+KJPHKLPM_00981	gene	1734	fhs			
+KJPHKLPM_00981	CDS	1734	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+KJPHKLPM_00982	gene	972				
+KJPHKLPM_00982	CDS	972			COG0330	putative protein
+KJPHKLPM_00983	gene	369				
+KJPHKLPM_00983	CDS	369				hypothetical protein
+KJPHKLPM_00984	gene	1494				
+KJPHKLPM_00984	CDS	1494				hypothetical protein
+KJPHKLPM_00985	gene	243				
+KJPHKLPM_00985	CDS	243				hypothetical protein
+KJPHKLPM_00986	gene	1278				
+KJPHKLPM_00986	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+KJPHKLPM_00987	gene	600	COQ5			
+KJPHKLPM_00987	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+KJPHKLPM_00988	gene	1284	brnQ_2			
+KJPHKLPM_00988	CDS	1284	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+KJPHKLPM_00989	gene	411				
+KJPHKLPM_00989	CDS	411				hypothetical protein
+KJPHKLPM_00990	gene	1008				
+KJPHKLPM_00990	CDS	1008				TelA-like protein
+KJPHKLPM_00991	gene	1149	rlmL_2			
+KJPHKLPM_00991	CDS	1149	rlmL_2		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+KJPHKLPM_00992	gene	627				
+KJPHKLPM_00992	CDS	627				hypothetical protein
+KJPHKLPM_00993	gene	813				
+KJPHKLPM_00993	CDS	813				hypothetical protein
+KJPHKLPM_00994	gene	1236	comEC_2			
+KJPHKLPM_00994	CDS	1236	comEC_2		COG0658	ComE operon protein 3
+KJPHKLPM_00995	gene	1038	yqeN			
+KJPHKLPM_00995	CDS	1038	yqeN		COG1466	putative protein YqeN
+KJPHKLPM_00996	gene	2463	polA			
+KJPHKLPM_00996	CDS	2463	polA	2.7.7.7		DNA polymerase I
+KJPHKLPM_00997	gene	606	coaE			
+KJPHKLPM_00997	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+KJPHKLPM_00998	gene	1974	uvrB			
+KJPHKLPM_00998	CDS	1974	uvrB			UvrABC system protein B
+KJPHKLPM_00999	gene	396				
+KJPHKLPM_00999	CDS	396				hypothetical protein
+KJPHKLPM_01000	gene	390				
+KJPHKLPM_01000	CDS	390				hypothetical protein
+KJPHKLPM_01001	gene	1683	recN			
+KJPHKLPM_01001	CDS	1683	recN		COG0497	DNA repair protein RecN
+KJPHKLPM_01002	gene	1122				
+KJPHKLPM_01002	CDS	1122				hypothetical protein
+KJPHKLPM_01003	gene	657	cvfB			
+KJPHKLPM_01003	CDS	657	cvfB		COG2996	Conserved virulence factor B
+KJPHKLPM_01004	gene	462	cdd			
+KJPHKLPM_01004	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+KJPHKLPM_01005	gene	738				
+KJPHKLPM_01005	CDS	738				hypothetical protein
+KJPHKLPM_01006	gene	822				
+KJPHKLPM_01006	CDS	822				hypothetical protein
+KJPHKLPM_01007	gene	198				
+KJPHKLPM_01007	CDS	198				hypothetical protein
+KJPHKLPM_01008	gene	417				
+KJPHKLPM_01008	CDS	417				hypothetical protein
+KJPHKLPM_01009	gene	720	ytrB			
+KJPHKLPM_01009	CDS	720	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+KJPHKLPM_01010	gene	795				
+KJPHKLPM_01010	CDS	795				hypothetical protein
+KJPHKLPM_01011	gene	1044	smc			
+KJPHKLPM_01011	CDS	1044	smc		COG1196	Chromosome partition protein Smc
+KJPHKLPM_01012	gene	1296	ftsY			
+KJPHKLPM_01012	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+KJPHKLPM_01013	gene	399				
+KJPHKLPM_01013	CDS	399				hypothetical protein
+KJPHKLPM_01014	gene	285				
+KJPHKLPM_01014	CDS	285				hypothetical protein
+KJPHKLPM_01015	gene	909	nadA			
+KJPHKLPM_01015	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+KJPHKLPM_01016	gene	1311	nadB			
+KJPHKLPM_01016	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+KJPHKLPM_01017	gene	849	nadC			
+KJPHKLPM_01017	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+KJPHKLPM_01018	gene	1473				
+KJPHKLPM_01018	CDS	1473				hypothetical protein
+KJPHKLPM_01019	gene	147				
+KJPHKLPM_01019	CDS	147				hypothetical protein
+KJPHKLPM_01020	gene	228				
+KJPHKLPM_01020	CDS	228				hypothetical protein
+KJPHKLPM_01021	gene	225				
+KJPHKLPM_01021	CDS	225				hypothetical protein
+KJPHKLPM_01022	gene	591				
+KJPHKLPM_01022	CDS	591				ISL3 family transposase ISL3
+KJPHKLPM_01023	gene	561				
+KJPHKLPM_01023	CDS	561				hypothetical protein
+KJPHKLPM_01024	gene	309	rplU			
+KJPHKLPM_01024	CDS	309	rplU		COG0261	50S ribosomal protein L21
+KJPHKLPM_01025	gene	318				
+KJPHKLPM_01025	CDS	318				hypothetical protein
+KJPHKLPM_01026	gene	291	rpmA			
+KJPHKLPM_01026	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+KJPHKLPM_01027	gene	1281	obg			
+KJPHKLPM_01027	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+KJPHKLPM_01028	gene	156				
+KJPHKLPM_01028	CDS	156				hypothetical protein
+KJPHKLPM_01029	gene	465				
+KJPHKLPM_01029	CDS	465				hypothetical protein
+KJPHKLPM_01030	gene	444				
+KJPHKLPM_01030	CDS	444				hypothetical protein
+KJPHKLPM_01031	gene	768	prsA_2			
+KJPHKLPM_01031	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+KJPHKLPM_01032	gene	378	yabJ			
+KJPHKLPM_01032	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+KJPHKLPM_01033	gene	636				
+KJPHKLPM_01033	CDS	636				hypothetical protein
+KJPHKLPM_01034	gene	381				
+KJPHKLPM_01034	CDS	381				hypothetical protein
+KJPHKLPM_01035	gene	411				
+KJPHKLPM_01035	CDS	411				hypothetical protein
+KJPHKLPM_01036	gene	1317	cca			
+KJPHKLPM_01036	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+KJPHKLPM_01037	gene	915	lepA			
+KJPHKLPM_01037	CDS	915	lepA	3.6.5.-	COG0481	Elongation factor 4
+KJPHKLPM_01038	gene	216				
+KJPHKLPM_01038	CDS	216				hypothetical protein
+KJPHKLPM_01039	gene	873				
+KJPHKLPM_01039	CDS	873				hypothetical protein
+KJPHKLPM_01040	gene	414				
+KJPHKLPM_01040	CDS	414				hypothetical protein
+KJPHKLPM_01041	gene	231				
+KJPHKLPM_01041	CDS	231				hypothetical protein
+KJPHKLPM_01042	gene	894				
+KJPHKLPM_01042	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+KJPHKLPM_01043	gene	855	sseB			
+KJPHKLPM_01043	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+KJPHKLPM_01044	gene	171				
+KJPHKLPM_01044	CDS	171				hypothetical protein
+KJPHKLPM_01045	gene	702				
+KJPHKLPM_01045	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+KJPHKLPM_01046	gene	1011	gpsA			
+KJPHKLPM_01046	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+KJPHKLPM_01047	gene	609	plsY			
+KJPHKLPM_01047	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+KJPHKLPM_01048	gene	387	der			
+KJPHKLPM_01048	CDS	387	der		COG1160	GTPase Der
+KJPHKLPM_01049	gene	1980	htpG			
+KJPHKLPM_01049	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+KJPHKLPM_01050	gene	141				
+KJPHKLPM_01050	CDS	141				hypothetical protein
+KJPHKLPM_01051	gene	636	fchA			
+KJPHKLPM_01051	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+KJPHKLPM_01052	gene	2358	secA_2			
+KJPHKLPM_01052	CDS	2358	secA_2		COG0653	Protein translocase subunit SecA
+KJPHKLPM_01053	gene	1224	cpdA_2			
+KJPHKLPM_01053	CDS	1224	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+KJPHKLPM_01054	gene	1089	addA_2			
+KJPHKLPM_01054	CDS	1089	addA_2	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+KJPHKLPM_01055	gene	555				
+KJPHKLPM_01055	CDS	555				hypothetical protein
+KJPHKLPM_01056	gene	1392	nhaC			
+KJPHKLPM_01056	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+KJPHKLPM_01057	gene	378				
+KJPHKLPM_01057	CDS	378				hypothetical protein
+KJPHKLPM_01058	gene	2211	kdpB			
+KJPHKLPM_01058	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+KJPHKLPM_01059	gene	1440				
+KJPHKLPM_01059	CDS	1440				hypothetical protein
+KJPHKLPM_01060	gene	1020	gap_2			
+KJPHKLPM_01060	CDS	1020	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+KJPHKLPM_01061	gene	285				
+KJPHKLPM_01061	CDS	285				hypothetical protein
+KJPHKLPM_01062	gene	1086	potD			
+KJPHKLPM_01062	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+KJPHKLPM_01063	gene	807				
+KJPHKLPM_01063	CDS	807				hypothetical protein
+KJPHKLPM_01064	gene	540	puuR			
+KJPHKLPM_01064	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+KJPHKLPM_01065	gene	1044	potA			
+KJPHKLPM_01065	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+KJPHKLPM_01066	gene	867	potB			
+KJPHKLPM_01066	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+KJPHKLPM_01067	gene	1110				
+KJPHKLPM_01067	CDS	1110				hypothetical protein
+KJPHKLPM_01068	gene	264	ptsH			
+KJPHKLPM_01068	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+KJPHKLPM_01069	gene	399				
+KJPHKLPM_01069	CDS	399				hypothetical protein
+KJPHKLPM_01070	gene	1299				
+KJPHKLPM_01070	CDS	1299				hypothetical protein
+KJPHKLPM_01071	gene	1149	hemW			
+KJPHKLPM_01071	CDS	1149	hemW		COG0635	Heme chaperone HemW
+KJPHKLPM_01072	gene	576	zapA			
+KJPHKLPM_01072	CDS	576	zapA			Cell division protein ZapA
+KJPHKLPM_01073	gene	234				
+KJPHKLPM_01073	CDS	234				hypothetical protein
+KJPHKLPM_01074	gene	219				
+KJPHKLPM_01074	CDS	219				hypothetical protein
+KJPHKLPM_01075	gene	657				
+KJPHKLPM_01075	CDS	657				hypothetical protein
+KJPHKLPM_01076	gene	89				
+KJPHKLPM_01076	rRNA	89				5S ribosomal RNA (partial)
+KJPHKLPM_01077	gene	1506	speA			
+KJPHKLPM_01077	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+KJPHKLPM_01078	gene	702	tmk			
+KJPHKLPM_01078	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+KJPHKLPM_01079	gene	1176	bdhA			
+KJPHKLPM_01079	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+KJPHKLPM_01080	gene	693	cugP			
+KJPHKLPM_01080	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+KJPHKLPM_01081	gene	648				
+KJPHKLPM_01081	CDS	648				hypothetical protein
+KJPHKLPM_01082	gene	1989	tkt			
+KJPHKLPM_01082	CDS	1989	tkt	2.2.1.1		Transketolase
+KJPHKLPM_01083	gene	360				
+KJPHKLPM_01083	CDS	360				hypothetical protein
+KJPHKLPM_01084	gene	897				
+KJPHKLPM_01084	CDS	897				hypothetical protein
+KJPHKLPM_01085	gene	462	ybeY			
+KJPHKLPM_01085	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+KJPHKLPM_01086	gene	624				
+KJPHKLPM_01086	CDS	624			COG1702	PhoH-like protein
+KJPHKLPM_01087	gene	1008	mtaB			
+KJPHKLPM_01087	CDS	1008	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+KJPHKLPM_01088	gene	324				
+KJPHKLPM_01088	CDS	324				hypothetical protein
+KJPHKLPM_01089	gene	345				
+KJPHKLPM_01089	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+KJPHKLPM_01090	gene	822				
+KJPHKLPM_01090	CDS	822				hypothetical protein
+KJPHKLPM_01091	gene	681				
+KJPHKLPM_01091	CDS	681				hypothetical protein
+KJPHKLPM_01092	gene	1485	glcB			
+KJPHKLPM_01092	CDS	1485	glcB		COG2190	PTS system glucoside-specific EIICBA component
+KJPHKLPM_01093	gene	582				
+KJPHKLPM_01093	CDS	582				hypothetical protein
+KJPHKLPM_01094	gene	642	gmk			
+KJPHKLPM_01094	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+KJPHKLPM_01095	gene	267	rpoZ			
+KJPHKLPM_01095	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+KJPHKLPM_01096	gene	924	fba			
+KJPHKLPM_01096	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+KJPHKLPM_01097	gene	552	hpf			
+KJPHKLPM_01097	CDS	552	hpf			Ribosome hibernation promotion factor
+KJPHKLPM_01098	gene	1299	lytC_5			
+KJPHKLPM_01098	CDS	1299	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+KJPHKLPM_01099	gene	1107				
+KJPHKLPM_01099	CDS	1107				hypothetical protein
+KJPHKLPM_01100	gene	1425	glgA			
+KJPHKLPM_01100	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+KJPHKLPM_01101	gene	666	glgC_1			
+KJPHKLPM_01101	CDS	666	glgC_1	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+KJPHKLPM_01102	gene	1305	apu			
+KJPHKLPM_01102	CDS	1305	apu		COG0366	Amylopullulanase
+KJPHKLPM_01103	gene	780				
+KJPHKLPM_01103	CDS	780				hypothetical protein
+KJPHKLPM_01104	gene	354				
+KJPHKLPM_01104	CDS	354				hypothetical protein
+KJPHKLPM_01105	gene	855	brnQ_3			
+KJPHKLPM_01105	CDS	855	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+KJPHKLPM_01106	gene	654	gpsB			
+KJPHKLPM_01106	CDS	654	gpsB			Cell cycle protein GpsB
+KJPHKLPM_01107	gene	1752	clpB			
+KJPHKLPM_01107	CDS	1752	clpB		COG0542	Chaperone protein ClpB
+KJPHKLPM_01108	gene	141				
+KJPHKLPM_01108	CDS	141				hypothetical protein
+KJPHKLPM_01109	gene	1884				
+KJPHKLPM_01109	CDS	1884				hypothetical protein
+KJPHKLPM_01110	gene	1431				
+KJPHKLPM_01110	CDS	1431				hypothetical protein
+KJPHKLPM_01111	gene	213				
+KJPHKLPM_01111	CDS	213				hypothetical protein
+KJPHKLPM_01112	gene	267	slt			
+KJPHKLPM_01112	CDS	267	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+KJPHKLPM_01113	gene	1698				
+KJPHKLPM_01113	CDS	1698				hypothetical protein
+KJPHKLPM_01114	gene	1536				
+KJPHKLPM_01114	CDS	1536				hypothetical protein
+KJPHKLPM_01115	gene	768				
+KJPHKLPM_01115	CDS	768				hypothetical protein
+KJPHKLPM_01116	gene	936				
+KJPHKLPM_01116	CDS	936				hypothetical protein
+KJPHKLPM_01117	gene	531	hpt_2			
+KJPHKLPM_01117	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+KJPHKLPM_01118	gene	1005	asnA			
+KJPHKLPM_01118	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+KJPHKLPM_01119	gene	858				
+KJPHKLPM_01119	CDS	858				hypothetical protein
+KJPHKLPM_01120	gene	729	lnrL_2			
+KJPHKLPM_01120	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+KJPHKLPM_01121	gene	369	ytrA			
+KJPHKLPM_01121	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+KJPHKLPM_01122	gene	72				
+KJPHKLPM_01122	tRNA	72				tRNA-Cys(gca)
+KJPHKLPM_01123	gene	456				
+KJPHKLPM_01123	CDS	456				hypothetical protein
+KJPHKLPM_01124	gene	303				
+KJPHKLPM_01124	CDS	303				hypothetical protein
+KJPHKLPM_01125	gene	792				
+KJPHKLPM_01125	CDS	792				hypothetical protein
+KJPHKLPM_01126	gene	255				
+KJPHKLPM_01126	CDS	255				hypothetical protein
+KJPHKLPM_01127	gene	732	uppS			
+KJPHKLPM_01127	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+KJPHKLPM_01128	gene	780				
+KJPHKLPM_01128	CDS	780				hypothetical protein
+KJPHKLPM_01129	gene	1446	fcl			
+KJPHKLPM_01129	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+KJPHKLPM_01130	gene	591	mshA			
+KJPHKLPM_01130	CDS	591	mshA	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+KJPHKLPM_01131	gene	507				
+KJPHKLPM_01131	CDS	507				hypothetical protein
+KJPHKLPM_01132	gene	951				
+KJPHKLPM_01132	CDS	951				hypothetical protein
+KJPHKLPM_01133	gene	939				
+KJPHKLPM_01133	CDS	939				hypothetical protein
+KJPHKLPM_01134	gene	750	lgt			
+KJPHKLPM_01134	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+KJPHKLPM_01135	gene	867	ybiT_2			
+KJPHKLPM_01135	CDS	867	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+KJPHKLPM_01136	gene	567	pinR			
+KJPHKLPM_01136	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+KJPHKLPM_01137	gene	489				
+KJPHKLPM_01137	CDS	489				hypothetical protein
+KJPHKLPM_01138	gene	549				
+KJPHKLPM_01138	CDS	549				hypothetical protein
+KJPHKLPM_01139	gene	801	artJ			
+KJPHKLPM_01139	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+KJPHKLPM_01140	gene	618	artQ_2			
+KJPHKLPM_01140	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+KJPHKLPM_01141	gene	540	tcyC			
+KJPHKLPM_01141	CDS	540	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+KJPHKLPM_01142	gene	699				
+KJPHKLPM_01142	CDS	699				hypothetical protein
+KJPHKLPM_01143	gene	1188	thiI			
+KJPHKLPM_01143	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+KJPHKLPM_01144	gene	342	iscS			
+KJPHKLPM_01144	CDS	342	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+KJPHKLPM_01145	gene	705				
+KJPHKLPM_01145	CDS	705				hypothetical protein
+KJPHKLPM_01146	gene	597	sfrB			
+KJPHKLPM_01146	CDS	597	sfrB	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+KJPHKLPM_01147	gene	495	miaA			
+KJPHKLPM_01147	CDS	495	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+KJPHKLPM_01148	gene	1275				
+KJPHKLPM_01148	CDS	1275				hypothetical protein
+KJPHKLPM_01149	gene	318	recR			
+KJPHKLPM_01149	CDS	318	recR		COG0353	Recombination protein RecR
+KJPHKLPM_01150	gene	276				
+KJPHKLPM_01150	CDS	276				hypothetical protein
+KJPHKLPM_01151	gene	168				
+KJPHKLPM_01151	CDS	168				hypothetical protein
+KJPHKLPM_01152	gene	1164	ugtP_2			
+KJPHKLPM_01152	CDS	1164	ugtP_2	2.4.1.315		Processive diacylglycerol beta-glucosyltransferase
+KJPHKLPM_01153	gene	897				
+KJPHKLPM_01153	CDS	897				hypothetical protein
+KJPHKLPM_01154	gene	618				
+KJPHKLPM_01154	CDS	618				hypothetical protein
+KJPHKLPM_01155	gene	954				
+KJPHKLPM_01155	CDS	954				hypothetical protein
+KJPHKLPM_01156	gene	456				
+KJPHKLPM_01156	CDS	456				hypothetical protein
+KJPHKLPM_01157	gene	504	ychF			
+KJPHKLPM_01157	CDS	504	ychF		COG0012	Ribosome-binding ATPase YchF
+KJPHKLPM_01158	gene	699				
+KJPHKLPM_01158	CDS	699				hypothetical protein
+KJPHKLPM_01159	gene	1185				
+KJPHKLPM_01159	CDS	1185				hypothetical protein
+KJPHKLPM_01160	gene	1377	rsmF_2			
+KJPHKLPM_01160	CDS	1377	rsmF_2	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+KJPHKLPM_01161	gene	954				
+KJPHKLPM_01161	CDS	954				hypothetical protein
+KJPHKLPM_01162	gene	651				
+KJPHKLPM_01162	CDS	651				hypothetical protein
+KJPHKLPM_01163	gene	756				
+KJPHKLPM_01163	CDS	756				hypothetical protein
+KJPHKLPM_01164	gene	468				
+KJPHKLPM_01164	CDS	468				hypothetical protein
+KJPHKLPM_01165	gene	441	asrC			
+KJPHKLPM_01165	CDS	441	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+KJPHKLPM_01166	gene	771	nirC			
+KJPHKLPM_01166	CDS	771	nirC		COG2116	Nitrite transporter NirC
+KJPHKLPM_01167	gene	324				
+KJPHKLPM_01167	CDS	324				hypothetical protein
+KJPHKLPM_01168	gene	1377				
+KJPHKLPM_01168	CDS	1377			COG2239	Magnesium transporter MgtE
+KJPHKLPM_01169	gene	816	prpC			
+KJPHKLPM_01169	CDS	816	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+KJPHKLPM_01170	gene	849				
+KJPHKLPM_01170	CDS	849				DegV domain-containing protein
+KJPHKLPM_01171	gene	825				
+KJPHKLPM_01171	CDS	825		6.3.1.12		D-aspartate ligase
+KJPHKLPM_01172	gene	720				
+KJPHKLPM_01172	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+KJPHKLPM_01173	gene	951	prmA			
+KJPHKLPM_01173	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+KJPHKLPM_01174	gene	441	trpS			
+KJPHKLPM_01174	CDS	441	trpS	6.1.1.2		Tryptophan--tRNA ligase
+KJPHKLPM_01175	gene	768				
+KJPHKLPM_01175	CDS	768				hypothetical protein
+KJPHKLPM_01176	gene	357	rplS			
+KJPHKLPM_01176	CDS	357	rplS		COG0335	50S ribosomal protein L19
+KJPHKLPM_01177	gene	885	rbgA			
+KJPHKLPM_01177	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+KJPHKLPM_01178	gene	1305	pbuG			
+KJPHKLPM_01178	CDS	1305	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+KJPHKLPM_01179	gene	897	ddl			
+KJPHKLPM_01179	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+KJPHKLPM_01180	gene	594	tycC			
+KJPHKLPM_01180	CDS	594	tycC			Tyrocidine synthase 3
+KJPHKLPM_01181	gene	711				
+KJPHKLPM_01181	CDS	711				hypothetical protein
+KJPHKLPM_01182	gene	1230				
+KJPHKLPM_01182	CDS	1230				hypothetical protein
+KJPHKLPM_01183	gene	1842	polC_1			
+KJPHKLPM_01183	CDS	1842	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+KJPHKLPM_01184	gene	108				
+KJPHKLPM_01184	CDS	108				hypothetical protein
+KJPHKLPM_01185	gene	567				
+KJPHKLPM_01185	CDS	567				hypothetical protein
+KJPHKLPM_01186	gene	954				
+KJPHKLPM_01186	CDS	954				hypothetical protein
+KJPHKLPM_01187	gene	435				
+KJPHKLPM_01187	CDS	435				hypothetical protein
+KJPHKLPM_01188	gene	1146				
+KJPHKLPM_01188	CDS	1146				hypothetical protein
+KJPHKLPM_01189	gene	435	mutS			
+KJPHKLPM_01189	CDS	435	mutS			DNA mismatch repair protein MutS
+KJPHKLPM_01190	gene	1083				
+KJPHKLPM_01190	CDS	1083				hypothetical protein
+KJPHKLPM_01191	gene	378				
+KJPHKLPM_01191	CDS	378				hypothetical protein
+KJPHKLPM_01192	gene	1083	yknX			
+KJPHKLPM_01192	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+KJPHKLPM_01193	gene	585				
+KJPHKLPM_01193	CDS	585				hypothetical protein
+KJPHKLPM_01194	gene	426				
+KJPHKLPM_01194	CDS	426			COG0716	Flavodoxin
+KJPHKLPM_01195	gene	567				
+KJPHKLPM_01195	CDS	567				hypothetical protein
+KJPHKLPM_01196	gene	498	ruvC			
+KJPHKLPM_01196	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+KJPHKLPM_01197	gene	435				
+KJPHKLPM_01197	CDS	435				hypothetical protein
+KJPHKLPM_01198	gene	450	dtd			
+KJPHKLPM_01198	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+KJPHKLPM_01199	gene	1026	relA			
+KJPHKLPM_01199	CDS	1026	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+KJPHKLPM_01200	gene	1809	nrdD			
+KJPHKLPM_01200	CDS	1809	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+KJPHKLPM_01201	gene	222	gloC			
+KJPHKLPM_01201	CDS	222	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+KJPHKLPM_01202	gene	1560				
+KJPHKLPM_01202	CDS	1560				hypothetical protein
+KJPHKLPM_01203	gene	645	srrB			
+KJPHKLPM_01203	CDS	645	srrB	2.7.13.3		Sensor protein SrrB
+KJPHKLPM_01204	gene	318				
+KJPHKLPM_01204	CDS	318				hypothetical protein
+KJPHKLPM_01205	gene	504	nrdG			
+KJPHKLPM_01205	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+KJPHKLPM_01206	gene	318	erpA			
+KJPHKLPM_01206	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+KJPHKLPM_01207	gene	210				
+KJPHKLPM_01207	CDS	210				hypothetical protein
+KJPHKLPM_01208	gene	1200				
+KJPHKLPM_01208	CDS	1200				hypothetical protein
+KJPHKLPM_01209	gene	321	yajC			
+KJPHKLPM_01209	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+KJPHKLPM_01210	gene	1119	tgt			
+KJPHKLPM_01210	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+KJPHKLPM_01211	gene	273	queA			
+KJPHKLPM_01211	CDS	273	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+KJPHKLPM_01212	gene	1107				
+KJPHKLPM_01212	CDS	1107				hypothetical protein
+KJPHKLPM_01213	gene	1071	topA			
+KJPHKLPM_01213	CDS	1071	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+KJPHKLPM_01214	gene	1374	argH			
+KJPHKLPM_01214	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+KJPHKLPM_01215	gene	1134	walK			
+KJPHKLPM_01215	CDS	1134	walK	2.7.13.3		Sensor histidine kinase WalK
+KJPHKLPM_01216	gene	573	asrA			
+KJPHKLPM_01216	CDS	573	asrA		COG1145	Anaerobic sulfite reductase subunit A
+KJPHKLPM_01217	gene	801	asrB			
+KJPHKLPM_01217	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+KJPHKLPM_01218	gene	591				
+KJPHKLPM_01218	CDS	591				hypothetical protein
+KJPHKLPM_01219	gene	798	pdp			
+KJPHKLPM_01219	CDS	798	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+KJPHKLPM_01220	gene	1317	leuS			
+KJPHKLPM_01220	CDS	1317	leuS	6.1.1.4		Leucine--tRNA ligase
+KJPHKLPM_01221	gene	519	polC_2			
+KJPHKLPM_01221	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+KJPHKLPM_01222	gene	513	sigM_2			
+KJPHKLPM_01222	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+KJPHKLPM_01223	gene	174	maf			
+KJPHKLPM_01223	CDS	174	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+KJPHKLPM_01224	gene	1245	algC			
+KJPHKLPM_01224	CDS	1245	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+KJPHKLPM_01225	gene	1119	cinA			
+KJPHKLPM_01225	CDS	1119	cinA		COG1058	Putative competence-damage inducible protein
+KJPHKLPM_01226	gene	282				
+KJPHKLPM_01226	CDS	282				hypothetical protein
+KJPHKLPM_01227	gene	288				
+KJPHKLPM_01227	CDS	288				hypothetical protein
+KJPHKLPM_01228	gene	1521				
+KJPHKLPM_01228	CDS	1521			COG1132	putative ABC transporter ATP-binding protein
+KJPHKLPM_01229	gene	966	trkA			
+KJPHKLPM_01229	CDS	966	trkA		COG0569	Trk system potassium uptake protein TrkA
+KJPHKLPM_01230	gene	1155				
+KJPHKLPM_01230	CDS	1155				hypothetical protein
+KJPHKLPM_01231	gene	1032	pheS			
+KJPHKLPM_01231	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+KJPHKLPM_01232	gene	693	ispD			
+KJPHKLPM_01232	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+KJPHKLPM_01233	gene	474	ispF			
+KJPHKLPM_01233	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+KJPHKLPM_01234	gene	1173	glgC_2			
+KJPHKLPM_01234	CDS	1173	glgC_2	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+KJPHKLPM_01235	gene	540				
+KJPHKLPM_01235	CDS	540				hypothetical protein
+KJPHKLPM_01236	gene	417	yrrK			
+KJPHKLPM_01236	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+KJPHKLPM_01237	gene	921	mrdB			
+KJPHKLPM_01237	CDS	921	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+KJPHKLPM_01238	gene	285				
+KJPHKLPM_01238	CDS	285				hypothetical protein
+KJPHKLPM_01239	gene	333				
+KJPHKLPM_01239	CDS	333				hypothetical protein
+KJPHKLPM_01240	gene	252				
+KJPHKLPM_01240	CDS	252				hypothetical protein
+KJPHKLPM_01241	gene	756	alr			
+KJPHKLPM_01241	CDS	756	alr	5.1.1.1		Alanine racemase

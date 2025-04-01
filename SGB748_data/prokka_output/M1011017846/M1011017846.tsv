@@ -1,0 +1,2231 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FEEIKOBK_00001	gene	849	panC			
+FEEIKOBK_00001	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+FEEIKOBK_00002	gene	828	panB			
+FEEIKOBK_00002	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+FEEIKOBK_00003	gene	885				
+FEEIKOBK_00003	CDS	885				hypothetical protein
+FEEIKOBK_00004	gene	201				
+FEEIKOBK_00004	CDS	201				hypothetical protein
+FEEIKOBK_00005	gene	615	sodA1			
+FEEIKOBK_00005	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+FEEIKOBK_00006	gene	771				
+FEEIKOBK_00006	CDS	771				hypothetical protein
+FEEIKOBK_00007	gene	702	yidC2			
+FEEIKOBK_00007	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+FEEIKOBK_00008	gene	378	rnpA			
+FEEIKOBK_00008	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+FEEIKOBK_00009	gene	135	rpmH			
+FEEIKOBK_00009	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+FEEIKOBK_00010	gene	1365	dnaA_1			
+FEEIKOBK_00010	CDS	1365	dnaA_1			Chromosomal replication initiator protein DnaA
+FEEIKOBK_00011	gene	1104	dnaN			
+FEEIKOBK_00011	CDS	1104	dnaN		COG0592	Beta sliding clamp
+FEEIKOBK_00012	gene	210				
+FEEIKOBK_00012	CDS	210				hypothetical protein
+FEEIKOBK_00013	gene	1116	recF			
+FEEIKOBK_00013	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+FEEIKOBK_00014	gene	1908	gyrB			
+FEEIKOBK_00014	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+FEEIKOBK_00015	gene	2439	gyrA			
+FEEIKOBK_00015	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+FEEIKOBK_00016	gene	318	rsbV			
+FEEIKOBK_00016	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+FEEIKOBK_00017	gene	408	rsbW			
+FEEIKOBK_00017	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+FEEIKOBK_00018	gene	774	sigB			
+FEEIKOBK_00018	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+FEEIKOBK_00019	gene	183				
+FEEIKOBK_00019	CDS	183				hypothetical protein
+FEEIKOBK_00020	gene	771	bphF			
+FEEIKOBK_00020	CDS	771	bphF	4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+FEEIKOBK_00021	gene	822	mscS			
+FEEIKOBK_00021	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+FEEIKOBK_00022	gene	1188				
+FEEIKOBK_00022	CDS	1188				hypothetical protein
+FEEIKOBK_00023	gene	1584				
+FEEIKOBK_00023	CDS	1584				hypothetical protein
+FEEIKOBK_00024	gene	756				
+FEEIKOBK_00024	CDS	756				hypothetical protein
+FEEIKOBK_00025	gene	2514				
+FEEIKOBK_00025	CDS	2514				hypothetical protein
+FEEIKOBK_00026	gene	603	rpoN			
+FEEIKOBK_00026	CDS	603	rpoN		COG1508	RNA polymerase sigma-54 factor
+FEEIKOBK_00027	gene	1293				
+FEEIKOBK_00027	CDS	1293				hypothetical protein
+FEEIKOBK_00028	gene	1233				
+FEEIKOBK_00028	CDS	1233				hypothetical protein
+FEEIKOBK_00029	gene	1728	ade			
+FEEIKOBK_00029	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+FEEIKOBK_00030	gene	189	rpmB			
+FEEIKOBK_00030	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+FEEIKOBK_00031	gene	351				
+FEEIKOBK_00031	CDS	351				putative protein
+FEEIKOBK_00032	gene	1665				
+FEEIKOBK_00032	CDS	1665				putative protein
+FEEIKOBK_00033	gene	2058	recG			
+FEEIKOBK_00033	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+FEEIKOBK_00034	gene	561	rsmD			
+FEEIKOBK_00034	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+FEEIKOBK_00035	gene	483	coaD			
+FEEIKOBK_00035	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+FEEIKOBK_00036	gene	546				
+FEEIKOBK_00036	CDS	546			COG3599	putative protein
+FEEIKOBK_00037	gene	1311	tmcAL			
+FEEIKOBK_00037	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+FEEIKOBK_00038	gene	1200	ackA			
+FEEIKOBK_00038	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+FEEIKOBK_00039	gene	519				
+FEEIKOBK_00039	CDS	519				hypothetical protein
+FEEIKOBK_00040	gene	180	rpmF			
+FEEIKOBK_00040	CDS	180	rpmF			50S ribosomal protein L32
+FEEIKOBK_00041	gene	1017	plsX			
+FEEIKOBK_00041	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+FEEIKOBK_00042	gene	1977	fbp			
+FEEIKOBK_00042	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+FEEIKOBK_00043	gene	342				
+FEEIKOBK_00043	CDS	342				putative protein
+FEEIKOBK_00044	gene	495	nusB			
+FEEIKOBK_00044	CDS	495	nusB			Transcription antitermination protein NusB
+FEEIKOBK_00045	gene	129				
+FEEIKOBK_00045	CDS	129				hypothetical protein
+FEEIKOBK_00046	gene	1656				
+FEEIKOBK_00046	CDS	1656				hypothetical protein
+FEEIKOBK_00047	gene	1968				
+FEEIKOBK_00047	CDS	1968				hypothetical protein
+FEEIKOBK_00048	gene	786				
+FEEIKOBK_00048	CDS	786				hypothetical protein
+FEEIKOBK_00049	gene	1053				
+FEEIKOBK_00049	CDS	1053				hypothetical protein
+FEEIKOBK_00050	gene	708	mtnN			
+FEEIKOBK_00050	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+FEEIKOBK_00051	gene	1008	trpS			
+FEEIKOBK_00051	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+FEEIKOBK_00052	gene	768				
+FEEIKOBK_00052	CDS	768				hypothetical protein
+FEEIKOBK_00053	gene	480	lspA			
+FEEIKOBK_00053	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+FEEIKOBK_00054	gene	933	rluD			
+FEEIKOBK_00054	CDS	933	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FEEIKOBK_00055	gene	525	pyrR			
+FEEIKOBK_00055	CDS	525	pyrR			Bifunctional protein PyrR
+FEEIKOBK_00056	gene	1764	rqcH			
+FEEIKOBK_00056	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+FEEIKOBK_00057	gene	825	ydjP			
+FEEIKOBK_00057	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+FEEIKOBK_00058	gene	279	yjdJ			
+FEEIKOBK_00058	CDS	279	yjdJ		COG2388	putative protein YjdJ
+FEEIKOBK_00059	gene	462	mutX			
+FEEIKOBK_00059	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+FEEIKOBK_00060	gene	507	tpx			
+FEEIKOBK_00060	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+FEEIKOBK_00061	gene	651				
+FEEIKOBK_00061	CDS	651				hypothetical protein
+FEEIKOBK_00062	gene	768				
+FEEIKOBK_00062	CDS	768				hypothetical protein
+FEEIKOBK_00063	gene	1422	pqqE			
+FEEIKOBK_00063	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+FEEIKOBK_00064	gene	510	ftnA			
+FEEIKOBK_00064	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+FEEIKOBK_00065	gene	471				
+FEEIKOBK_00065	CDS	471				hypothetical protein
+FEEIKOBK_00066	gene	564				
+FEEIKOBK_00066	CDS	564				hypothetical protein
+FEEIKOBK_00067	gene	888	cysK			
+FEEIKOBK_00067	CDS	888	cysK	2.5.1.47		Cysteine synthase
+FEEIKOBK_00068	gene	597	cysE			
+FEEIKOBK_00068	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+FEEIKOBK_00069	gene	234				
+FEEIKOBK_00069	CDS	234				hypothetical protein
+FEEIKOBK_00070	gene	621				
+FEEIKOBK_00070	CDS	621				hypothetical protein
+FEEIKOBK_00071	gene	1035				
+FEEIKOBK_00071	CDS	1035				hypothetical protein
+FEEIKOBK_00072	gene	657				
+FEEIKOBK_00072	CDS	657				hypothetical protein
+FEEIKOBK_00073	gene	3216	carB			
+FEEIKOBK_00073	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+FEEIKOBK_00074	gene	1050	carA_1			
+FEEIKOBK_00074	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+FEEIKOBK_00075	gene	723	pyrF			
+FEEIKOBK_00075	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+FEEIKOBK_00076	gene	1140				
+FEEIKOBK_00076	CDS	1140				hypothetical protein
+FEEIKOBK_00077	gene	1128				
+FEEIKOBK_00077	CDS	1128				hypothetical protein
+FEEIKOBK_00078	gene	297				
+FEEIKOBK_00078	CDS	297				hypothetical protein
+FEEIKOBK_00079	gene	456	cof			
+FEEIKOBK_00079	CDS	456	cof	3.6.1.-		HMP-PP phosphatase
+FEEIKOBK_00080	gene	1026	cggR			
+FEEIKOBK_00080	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+FEEIKOBK_00081	gene	1008	gap			
+FEEIKOBK_00081	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+FEEIKOBK_00082	gene	1200	pgk			
+FEEIKOBK_00082	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+FEEIKOBK_00083	gene	741	tpiA			
+FEEIKOBK_00083	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+FEEIKOBK_00084	gene	1527	gpmI			
+FEEIKOBK_00084	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FEEIKOBK_00085	gene	1293	eno			
+FEEIKOBK_00085	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+FEEIKOBK_00086	gene	231				
+FEEIKOBK_00086	CDS	231				hypothetical protein
+FEEIKOBK_00087	gene	2220	rnr			
+FEEIKOBK_00087	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+FEEIKOBK_00088	gene	456	smpB			
+FEEIKOBK_00088	CDS	456	smpB		COG0691	SsrA-binding protein
+FEEIKOBK_00089	gene	831	artP			
+FEEIKOBK_00089	CDS	831	artP		COG0834	Arginine-binding extracellular protein ArtP
+FEEIKOBK_00090	gene	1275	argG			
+FEEIKOBK_00090	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+FEEIKOBK_00091	gene	1374	argH			
+FEEIKOBK_00091	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FEEIKOBK_00092	gene	453				
+FEEIKOBK_00092	CDS	453				hypothetical protein
+FEEIKOBK_00093	gene	972	asrC			
+FEEIKOBK_00093	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+FEEIKOBK_00094	gene	801	asrB			
+FEEIKOBK_00094	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+FEEIKOBK_00095	gene	1011	asrA			
+FEEIKOBK_00095	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+FEEIKOBK_00096	gene	687	glxR			
+FEEIKOBK_00096	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+FEEIKOBK_00097	gene	462	ribH			
+FEEIKOBK_00097	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+FEEIKOBK_00098	gene	1206	ribBA			
+FEEIKOBK_00098	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+FEEIKOBK_00099	gene	657	ribE			
+FEEIKOBK_00099	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+FEEIKOBK_00100	gene	1119	ribD			
+FEEIKOBK_00100	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+FEEIKOBK_00101	gene	273				
+FEEIKOBK_00101	CDS	273				hypothetical protein
+FEEIKOBK_00102	gene	855				
+FEEIKOBK_00102	CDS	855				hypothetical protein
+FEEIKOBK_00103	gene	2211	kdpB			
+FEEIKOBK_00103	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+FEEIKOBK_00104	gene	378				
+FEEIKOBK_00104	CDS	378				hypothetical protein
+FEEIKOBK_00105	gene	597				
+FEEIKOBK_00105	CDS	597				hypothetical protein
+FEEIKOBK_00106	gene	1113				
+FEEIKOBK_00106	CDS	1113				hypothetical protein
+FEEIKOBK_00107	gene	1119				
+FEEIKOBK_00107	CDS	1119				hypothetical protein
+FEEIKOBK_00108	gene	933	lnrL_1			
+FEEIKOBK_00108	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+FEEIKOBK_00109	gene	291				
+FEEIKOBK_00109	CDS	291				hypothetical protein
+FEEIKOBK_00110	gene	1878	fruA			
+FEEIKOBK_00110	CDS	1878	fruA		COG1299	PTS system fructose-specific EIIABC component
+FEEIKOBK_00111	gene	246				
+FEEIKOBK_00111	CDS	246				hypothetical protein
+FEEIKOBK_00112	gene	1053				
+FEEIKOBK_00112	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+FEEIKOBK_00113	gene	135				
+FEEIKOBK_00113	CDS	135				hypothetical protein
+FEEIKOBK_00114	gene	1404	bioB			
+FEEIKOBK_00114	CDS	1404	bioB	2.8.1.6		Biotin synthase
+FEEIKOBK_00115	gene	1200	mnmE_1			
+FEEIKOBK_00115	CDS	1200	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+FEEIKOBK_00116	gene	492	ycdZ			
+FEEIKOBK_00116	CDS	492	ycdZ			Inner membrane protein YcdZ
+FEEIKOBK_00117	gene	870	sigF			
+FEEIKOBK_00117	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+FEEIKOBK_00118	gene	531				
+FEEIKOBK_00118	CDS	531				hypothetical protein
+FEEIKOBK_00119	gene	1425	accC			
+FEEIKOBK_00119	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+FEEIKOBK_00120	gene	858	accD			
+FEEIKOBK_00120	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+FEEIKOBK_00121	gene	744	accA			
+FEEIKOBK_00121	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+FEEIKOBK_00122	gene	480				
+FEEIKOBK_00122	CDS	480				hypothetical protein
+FEEIKOBK_00123	gene	1017	fabH			
+FEEIKOBK_00123	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+FEEIKOBK_00124	gene	225	acpP_1			
+FEEIKOBK_00124	CDS	225	acpP_1		COG0236	Acyl carrier protein
+FEEIKOBK_00125	gene	939				
+FEEIKOBK_00125	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+FEEIKOBK_00126	gene	801	ispE			
+FEEIKOBK_00126	CDS	801	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+FEEIKOBK_00127	gene	678	rspR			
+FEEIKOBK_00127	CDS	678	rspR		COG1802	HTH-type transcriptional repressor RspR
+FEEIKOBK_00128	gene	813	murI			
+FEEIKOBK_00128	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+FEEIKOBK_00129	gene	414				
+FEEIKOBK_00129	CDS	414				hypothetical protein
+FEEIKOBK_00130	gene	1380	tilS			
+FEEIKOBK_00130	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+FEEIKOBK_00131	gene	2043	ftsH_1			
+FEEIKOBK_00131	CDS	2043	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+FEEIKOBK_00132	gene	405				
+FEEIKOBK_00132	CDS	405				hypothetical protein
+FEEIKOBK_00133	gene	756				
+FEEIKOBK_00133	CDS	756				hypothetical protein
+FEEIKOBK_00134	gene	984	birA			
+FEEIKOBK_00134	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+FEEIKOBK_00135	gene	768	coaX			
+FEEIKOBK_00135	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+FEEIKOBK_00136	gene	960	dusB			
+FEEIKOBK_00136	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+FEEIKOBK_00137	gene	1548	carA_2			
+FEEIKOBK_00137	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+FEEIKOBK_00138	gene	1014	gloB			
+FEEIKOBK_00138	CDS	1014	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+FEEIKOBK_00139	gene	693				
+FEEIKOBK_00139	CDS	693				hypothetical protein
+FEEIKOBK_00140	gene	1347	pgi			
+FEEIKOBK_00140	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+FEEIKOBK_00141	gene	438				
+FEEIKOBK_00141	CDS	438				hypothetical protein
+FEEIKOBK_00142	gene	1542				
+FEEIKOBK_00142	CDS	1542				hypothetical protein
+FEEIKOBK_00143	gene	729	yehX			
+FEEIKOBK_00143	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+FEEIKOBK_00144	gene	249				
+FEEIKOBK_00144	CDS	249				hypothetical protein
+FEEIKOBK_00145	gene	882				
+FEEIKOBK_00145	CDS	882				hypothetical protein
+FEEIKOBK_00146	gene	642	gmk			
+FEEIKOBK_00146	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+FEEIKOBK_00147	gene	267	rpoZ			
+FEEIKOBK_00147	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+FEEIKOBK_00148	gene	1212	undec1A			
+FEEIKOBK_00148	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+FEEIKOBK_00149	gene	2313	priA			
+FEEIKOBK_00149	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+FEEIKOBK_00150	gene	456	def1			
+FEEIKOBK_00150	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+FEEIKOBK_00151	gene	930	fmt			
+FEEIKOBK_00151	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+FEEIKOBK_00152	gene	690				
+FEEIKOBK_00152	CDS	690				hypothetical protein
+FEEIKOBK_00153	gene	147				
+FEEIKOBK_00153	CDS	147				hypothetical protein
+FEEIKOBK_00154	gene	1929				
+FEEIKOBK_00154	CDS	1929				hypothetical protein
+FEEIKOBK_00155	gene	903				
+FEEIKOBK_00155	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+FEEIKOBK_00156	gene	426				
+FEEIKOBK_00156	CDS	426			COG0716	Flavodoxin
+FEEIKOBK_00157	gene	585				
+FEEIKOBK_00157	CDS	585				hypothetical protein
+FEEIKOBK_00158	gene	2070	glyS			
+FEEIKOBK_00158	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+FEEIKOBK_00159	gene	885	glyQ			
+FEEIKOBK_00159	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+FEEIKOBK_00160	gene	609				
+FEEIKOBK_00160	CDS	609				hypothetical protein
+FEEIKOBK_00161	gene	747	recO			
+FEEIKOBK_00161	CDS	747	recO		COG1381	DNA repair protein RecO
+FEEIKOBK_00162	gene	1377				
+FEEIKOBK_00162	CDS	1377			COG2239	Magnesium transporter MgtE
+FEEIKOBK_00163	gene	903	era			
+FEEIKOBK_00163	CDS	903	era			GTPase Era
+FEEIKOBK_00164	gene	897				
+FEEIKOBK_00164	CDS	897				hypothetical protein
+FEEIKOBK_00165	gene	462	ybeY			
+FEEIKOBK_00165	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+FEEIKOBK_00166	gene	420				
+FEEIKOBK_00166	CDS	420				hypothetical protein
+FEEIKOBK_00167	gene	282	isdF			
+FEEIKOBK_00167	CDS	282	isdF			putative heme-iron transport system permease protein IsdF
+FEEIKOBK_00168	gene	765	fpuC			
+FEEIKOBK_00168	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+FEEIKOBK_00169	gene	1461				
+FEEIKOBK_00169	CDS	1461				hypothetical protein
+FEEIKOBK_00170	gene	1980	htpG			
+FEEIKOBK_00170	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+FEEIKOBK_00171	gene	141				
+FEEIKOBK_00171	CDS	141				hypothetical protein
+FEEIKOBK_00172	gene	636	fchA			
+FEEIKOBK_00172	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+FEEIKOBK_00173	gene	858	folD			
+FEEIKOBK_00173	CDS	858	folD			Bifunctional protein FolD protein
+FEEIKOBK_00174	gene	1587	clcA			
+FEEIKOBK_00174	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+FEEIKOBK_00175	gene	1872	yjcD			
+FEEIKOBK_00175	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+FEEIKOBK_00176	gene	885				
+FEEIKOBK_00176	CDS	885				hypothetical protein
+FEEIKOBK_00177	gene	858	pdxS			
+FEEIKOBK_00177	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+FEEIKOBK_00178	gene	1068				
+FEEIKOBK_00178	CDS	1068				hypothetical protein
+FEEIKOBK_00179	gene	3771				
+FEEIKOBK_00179	CDS	3771				hypothetical protein
+FEEIKOBK_00180	gene	1032				
+FEEIKOBK_00180	CDS	1032				hypothetical protein
+FEEIKOBK_00181	gene	834				
+FEEIKOBK_00181	CDS	834				hypothetical protein
+FEEIKOBK_00182	gene	732				
+FEEIKOBK_00182	CDS	732				hypothetical protein
+FEEIKOBK_00183	gene	1218	dctA			
+FEEIKOBK_00183	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+FEEIKOBK_00184	gene	912	pyrB			
+FEEIKOBK_00184	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+FEEIKOBK_00185	gene	690	pyrK			
+FEEIKOBK_00185	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+FEEIKOBK_00186	gene	903	pyrD			
+FEEIKOBK_00186	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+FEEIKOBK_00187	gene	954				
+FEEIKOBK_00187	CDS	954				hypothetical protein
+FEEIKOBK_00188	gene	651				
+FEEIKOBK_00188	CDS	651				hypothetical protein
+FEEIKOBK_00189	gene	486				
+FEEIKOBK_00189	CDS	486				hypothetical protein
+FEEIKOBK_00190	gene	1557				
+FEEIKOBK_00190	CDS	1557				hypothetical protein
+FEEIKOBK_00191	gene	168				
+FEEIKOBK_00191	CDS	168				hypothetical protein
+FEEIKOBK_00192	gene	2151	feoB			
+FEEIKOBK_00192	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+FEEIKOBK_00193	gene	234				
+FEEIKOBK_00193	CDS	234				hypothetical protein
+FEEIKOBK_00194	gene	219				
+FEEIKOBK_00194	CDS	219				hypothetical protein
+FEEIKOBK_00195	gene	657				
+FEEIKOBK_00195	CDS	657				hypothetical protein
+FEEIKOBK_00196	gene	1254				
+FEEIKOBK_00196	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+FEEIKOBK_00197	gene	168				
+FEEIKOBK_00197	CDS	168			COG1145	Ferredoxin
+FEEIKOBK_00198	gene	636	rex1			
+FEEIKOBK_00198	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+FEEIKOBK_00199	gene	1932	yheS			
+FEEIKOBK_00199	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+FEEIKOBK_00200	gene	1188	uctC			
+FEEIKOBK_00200	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+FEEIKOBK_00201	gene	285				
+FEEIKOBK_00201	CDS	285				hypothetical protein
+FEEIKOBK_00202	gene	723				
+FEEIKOBK_00202	CDS	723			COG0217	putative transcriptional regulatory protein
+FEEIKOBK_00203	gene	759	nadE			
+FEEIKOBK_00203	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FEEIKOBK_00204	gene	642	yigZ			
+FEEIKOBK_00204	CDS	642	yigZ		COG1739	IMPACT family member YigZ
+FEEIKOBK_00205	gene	678				
+FEEIKOBK_00205	CDS	678				hypothetical protein
+FEEIKOBK_00206	gene	423				
+FEEIKOBK_00206	CDS	423				hypothetical protein
+FEEIKOBK_00207	gene	219				
+FEEIKOBK_00207	CDS	219				hypothetical protein
+FEEIKOBK_00208	gene	675				
+FEEIKOBK_00208	CDS	675				hypothetical protein
+FEEIKOBK_00209	gene	1731	cdr			
+FEEIKOBK_00209	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+FEEIKOBK_00210	gene	288	pagR			
+FEEIKOBK_00210	CDS	288	pagR			Transcriptional repressor PagR
+FEEIKOBK_00211	gene	546	hpt_1			
+FEEIKOBK_00211	CDS	546	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+FEEIKOBK_00212	gene	336	engB_1			
+FEEIKOBK_00212	CDS	336	engB_1		COG0218	putative GTP-binding protein EngB
+FEEIKOBK_00213	gene	351	engB_2			
+FEEIKOBK_00213	CDS	351	engB_2			GTP-binding protein EngB
+FEEIKOBK_00214	gene	1560	lon1			
+FEEIKOBK_00214	CDS	1560	lon1	3.4.21.53	COG0466	Lon protease 1
+FEEIKOBK_00215	gene	813	uppP			
+FEEIKOBK_00215	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+FEEIKOBK_00216	gene	1200				
+FEEIKOBK_00216	CDS	1200		2.6.1.1		Aspartate aminotransferase
+FEEIKOBK_00217	gene	957	galT			
+FEEIKOBK_00217	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+FEEIKOBK_00218	gene	1902				
+FEEIKOBK_00218	CDS	1902				hypothetical protein
+FEEIKOBK_00219	gene	825	pdxY			
+FEEIKOBK_00219	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+FEEIKOBK_00220	gene	201	cspA			
+FEEIKOBK_00220	CDS	201	cspA		COG1278	Cold shock protein CspA
+FEEIKOBK_00221	gene	453				
+FEEIKOBK_00221	CDS	453				hypothetical protein
+FEEIKOBK_00222	gene	465				
+FEEIKOBK_00222	CDS	465				hypothetical protein
+FEEIKOBK_00223	gene	444				
+FEEIKOBK_00223	CDS	444				hypothetical protein
+FEEIKOBK_00224	gene	768	prsA_1			
+FEEIKOBK_00224	CDS	768	prsA_1	5.2.1.8		Foldase protein PrsA
+FEEIKOBK_00225	gene	684				
+FEEIKOBK_00225	CDS	684				hypothetical protein
+FEEIKOBK_00226	gene	786	carD_1			
+FEEIKOBK_00226	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+FEEIKOBK_00227	gene	1143	carC_1			
+FEEIKOBK_00227	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FEEIKOBK_00228	gene	1125	hadC			
+FEEIKOBK_00228	CDS	1125	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+FEEIKOBK_00229	gene	1233	hadB			
+FEEIKOBK_00229	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+FEEIKOBK_00230	gene	1212	fldA			
+FEEIKOBK_00230	CDS	1212	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+FEEIKOBK_00231	gene	1182				
+FEEIKOBK_00231	CDS	1182				hypothetical protein
+FEEIKOBK_00232	gene	1671	norR			
+FEEIKOBK_00232	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+FEEIKOBK_00233	gene	1320	secA_1			
+FEEIKOBK_00233	CDS	1320	secA_1			Protein translocase subunit SecA
+FEEIKOBK_00234	gene	999	atpG			
+FEEIKOBK_00234	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+FEEIKOBK_00235	gene	1401	atpD			
+FEEIKOBK_00235	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+FEEIKOBK_00236	gene	270	atpC			
+FEEIKOBK_00236	CDS	270	atpC			ATP synthase epsilon chain
+FEEIKOBK_00237	gene	576				
+FEEIKOBK_00237	CDS	576				hypothetical protein
+FEEIKOBK_00238	gene	939				
+FEEIKOBK_00238	CDS	939				hypothetical protein
+FEEIKOBK_00239	gene	945	hmo_1			
+FEEIKOBK_00239	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+FEEIKOBK_00240	gene	1311				
+FEEIKOBK_00240	CDS	1311				hypothetical protein
+FEEIKOBK_00241	gene	1326	pepC			
+FEEIKOBK_00241	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+FEEIKOBK_00242	gene	1083	hhoB			
+FEEIKOBK_00242	CDS	1083	hhoB			Putative serine protease HhoB
+FEEIKOBK_00243	gene	528				
+FEEIKOBK_00243	CDS	528				hypothetical protein
+FEEIKOBK_00244	gene	855				
+FEEIKOBK_00244	CDS	855				hypothetical protein
+FEEIKOBK_00245	gene	435				
+FEEIKOBK_00245	CDS	435				hypothetical protein
+FEEIKOBK_00246	gene	837				
+FEEIKOBK_00246	CDS	837				hypothetical protein
+FEEIKOBK_00247	gene	675				
+FEEIKOBK_00247	CDS	675				hypothetical protein
+FEEIKOBK_00248	gene	678				
+FEEIKOBK_00248	CDS	678				hypothetical protein
+FEEIKOBK_00249	gene	654				
+FEEIKOBK_00249	CDS	654				hypothetical protein
+FEEIKOBK_00250	gene	1188	norV			
+FEEIKOBK_00250	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+FEEIKOBK_00251	gene	552	bioY			
+FEEIKOBK_00251	CDS	552	bioY		COG1268	Biotin transporter BioY
+FEEIKOBK_00252	gene	825	aroF			
+FEEIKOBK_00252	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+FEEIKOBK_00253	gene	1824	aroB			
+FEEIKOBK_00253	CDS	1824	aroB	4.2.3.4		3-dehydroquinate synthase
+FEEIKOBK_00254	gene	1881	prkC			
+FEEIKOBK_00254	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+FEEIKOBK_00255	gene	735	fabG_1			
+FEEIKOBK_00255	CDS	735	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FEEIKOBK_00256	gene	900	rsgA			
+FEEIKOBK_00256	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+FEEIKOBK_00257	gene	657	rpe			
+FEEIKOBK_00257	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+FEEIKOBK_00258	gene	684	thiN			
+FEEIKOBK_00258	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+FEEIKOBK_00259	gene	714	phoP_1			
+FEEIKOBK_00259	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FEEIKOBK_00260	gene	2358	sasA			
+FEEIKOBK_00260	CDS	2358	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+FEEIKOBK_00261	gene	1374	mepA_1			
+FEEIKOBK_00261	CDS	1374	mepA_1			Multidrug export protein MepA
+FEEIKOBK_00262	gene	474	slyA			
+FEEIKOBK_00262	CDS	474	slyA			Transcriptional regulator SlyA
+FEEIKOBK_00263	gene	432	mntB			
+FEEIKOBK_00263	CDS	432	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+FEEIKOBK_00264	gene	786	znuB			
+FEEIKOBK_00264	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+FEEIKOBK_00265	gene	753				
+FEEIKOBK_00265	CDS	753				hypothetical protein
+FEEIKOBK_00266	gene	216				
+FEEIKOBK_00266	CDS	216				hypothetical protein
+FEEIKOBK_00267	gene	228	rpsR			
+FEEIKOBK_00267	CDS	228	rpsR			30S ribosomal protein S18
+FEEIKOBK_00268	gene	444	ssb			
+FEEIKOBK_00268	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+FEEIKOBK_00269	gene	291	rpsF			
+FEEIKOBK_00269	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+FEEIKOBK_00270	gene	1197	lysN_1			
+FEEIKOBK_00270	CDS	1197	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+FEEIKOBK_00271	gene	180				
+FEEIKOBK_00271	CDS	180				hypothetical protein
+FEEIKOBK_00272	gene	618				
+FEEIKOBK_00272	CDS	618				hypothetical protein
+FEEIKOBK_00273	gene	900				
+FEEIKOBK_00273	CDS	900				hypothetical protein
+FEEIKOBK_00274	gene	1077	lytC_1			
+FEEIKOBK_00274	CDS	1077	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FEEIKOBK_00275	gene	522	bcrC			
+FEEIKOBK_00275	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+FEEIKOBK_00276	gene	543	yajL			
+FEEIKOBK_00276	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+FEEIKOBK_00277	gene	180				
+FEEIKOBK_00277	CDS	180				hypothetical protein
+FEEIKOBK_00278	gene	1926	thrZ			
+FEEIKOBK_00278	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+FEEIKOBK_00279	gene	1038	hrcA			
+FEEIKOBK_00279	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+FEEIKOBK_00280	gene	624	grpE			
+FEEIKOBK_00280	CDS	624	grpE			Protein GrpE
+FEEIKOBK_00281	gene	1845	dnaK			
+FEEIKOBK_00281	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+FEEIKOBK_00282	gene	1155	dnaJ			
+FEEIKOBK_00282	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+FEEIKOBK_00283	gene	717	tcdA			
+FEEIKOBK_00283	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+FEEIKOBK_00284	gene	867	comEC			
+FEEIKOBK_00284	CDS	867	comEC		COG0658	ComE operon protein 3
+FEEIKOBK_00285	gene	948	rpoA			
+FEEIKOBK_00285	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+FEEIKOBK_00286	gene	342	rplQ			
+FEEIKOBK_00286	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+FEEIKOBK_00287	gene	1242				
+FEEIKOBK_00287	CDS	1242				hypothetical protein
+FEEIKOBK_00288	gene	1422				
+FEEIKOBK_00288	CDS	1422				hypothetical protein
+FEEIKOBK_00289	gene	441				
+FEEIKOBK_00289	CDS	441				hypothetical protein
+FEEIKOBK_00290	gene	342				
+FEEIKOBK_00290	CDS	342				hypothetical protein
+FEEIKOBK_00291	gene	933				
+FEEIKOBK_00291	CDS	933				hypothetical protein
+FEEIKOBK_00292	gene	672				
+FEEIKOBK_00292	CDS	672				hypothetical protein
+FEEIKOBK_00293	gene	837	ecfA1			
+FEEIKOBK_00293	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+FEEIKOBK_00294	gene	876	ecfA2			
+FEEIKOBK_00294	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+FEEIKOBK_00295	gene	810	ecfT_1			
+FEEIKOBK_00295	CDS	810	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+FEEIKOBK_00296	gene	1860				
+FEEIKOBK_00296	CDS	1860				hypothetical protein
+FEEIKOBK_00297	gene	786				
+FEEIKOBK_00297	CDS	786				hypothetical protein
+FEEIKOBK_00298	gene	699				
+FEEIKOBK_00298	CDS	699				hypothetical protein
+FEEIKOBK_00299	gene	4311	polC_1			
+FEEIKOBK_00299	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FEEIKOBK_00300	gene	525				
+FEEIKOBK_00300	CDS	525				hypothetical protein
+FEEIKOBK_00301	gene	1362	rlmCD			
+FEEIKOBK_00301	CDS	1362	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+FEEIKOBK_00302	gene	1737	pyk			
+FEEIKOBK_00302	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+FEEIKOBK_00303	gene	972	pfkA			
+FEEIKOBK_00303	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+FEEIKOBK_00304	gene	180	rpsU			
+FEEIKOBK_00304	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+FEEIKOBK_00305	gene	441	yqeY			
+FEEIKOBK_00305	CDS	441	yqeY		COG1610	putative protein YqeY
+FEEIKOBK_00306	gene	861				
+FEEIKOBK_00306	CDS	861				hypothetical protein
+FEEIKOBK_00307	gene	606				
+FEEIKOBK_00307	CDS	606				hypothetical protein
+FEEIKOBK_00308	gene	675	ung			
+FEEIKOBK_00308	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+FEEIKOBK_00309	gene	375				
+FEEIKOBK_00309	CDS	375				hypothetical protein
+FEEIKOBK_00310	gene	1590	clsA			
+FEEIKOBK_00310	CDS	1590	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+FEEIKOBK_00311	gene	267				
+FEEIKOBK_00311	CDS	267				hypothetical protein
+FEEIKOBK_00312	gene	1413	alsT			
+FEEIKOBK_00312	CDS	1413	alsT		COG1115	Amino-acid carrier protein AlsT
+FEEIKOBK_00313	gene	1314	hflX			
+FEEIKOBK_00313	CDS	1314	hflX		COG2262	GTPase HflX
+FEEIKOBK_00314	gene	531				
+FEEIKOBK_00314	CDS	531				hypothetical protein
+FEEIKOBK_00315	gene	1260	dacF			
+FEEIKOBK_00315	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+FEEIKOBK_00316	gene	627				
+FEEIKOBK_00316	CDS	627				hypothetical protein
+FEEIKOBK_00317	gene	450	hcp			
+FEEIKOBK_00317	CDS	450	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+FEEIKOBK_00318	gene	279				
+FEEIKOBK_00318	CDS	279				hypothetical protein
+FEEIKOBK_00319	gene	483				
+FEEIKOBK_00319	CDS	483				hypothetical protein
+FEEIKOBK_00320	gene	837	rsmI			
+FEEIKOBK_00320	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+FEEIKOBK_00321	gene	750	yfiC			
+FEEIKOBK_00321	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+FEEIKOBK_00322	gene	897				
+FEEIKOBK_00322	CDS	897				hypothetical protein
+FEEIKOBK_00323	gene	939				
+FEEIKOBK_00323	CDS	939				hypothetical protein
+FEEIKOBK_00324	gene	702	tmk			
+FEEIKOBK_00324	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+FEEIKOBK_00325	gene	444				
+FEEIKOBK_00325	CDS	444				hypothetical protein
+FEEIKOBK_00326	gene	390				
+FEEIKOBK_00326	CDS	390				hypothetical protein
+FEEIKOBK_00327	gene	1056	epsF			
+FEEIKOBK_00327	CDS	1056	epsF		COG1459	Type II secretion system protein F
+FEEIKOBK_00328	gene	1236				
+FEEIKOBK_00328	CDS	1236				hypothetical protein
+FEEIKOBK_00329	gene	1866	nhaP2			
+FEEIKOBK_00329	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+FEEIKOBK_00330	gene	561	nfrA1			
+FEEIKOBK_00330	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+FEEIKOBK_00331	gene	252				
+FEEIKOBK_00331	CDS	252				hypothetical protein
+FEEIKOBK_00332	gene	555				
+FEEIKOBK_00332	CDS	555		3.1.3.-	COG5663	Nucleotidase
+FEEIKOBK_00333	gene	174				
+FEEIKOBK_00333	CDS	174				hypothetical protein
+FEEIKOBK_00334	gene	456				
+FEEIKOBK_00334	CDS	456				hypothetical protein
+FEEIKOBK_00335	gene	498				
+FEEIKOBK_00335	CDS	498				hypothetical protein
+FEEIKOBK_00336	gene	555				
+FEEIKOBK_00336	CDS	555				hypothetical protein
+FEEIKOBK_00337	gene	780	korB			
+FEEIKOBK_00337	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+FEEIKOBK_00338	gene	1065	korA			
+FEEIKOBK_00338	CDS	1065	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+FEEIKOBK_00339	gene	216	rsxB			
+FEEIKOBK_00339	CDS	216	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+FEEIKOBK_00340	gene	678				
+FEEIKOBK_00340	CDS	678				hypothetical protein
+FEEIKOBK_00341	gene	1083	buk2			
+FEEIKOBK_00341	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+FEEIKOBK_00342	gene	915	cdaR			
+FEEIKOBK_00342	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+FEEIKOBK_00343	gene	852	cdaA			
+FEEIKOBK_00343	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+FEEIKOBK_00344	gene	75				
+FEEIKOBK_00344	tRNA	75				tRNA-Gly(gcc)
+FEEIKOBK_00345	gene	77				
+FEEIKOBK_00345	tRNA	77				tRNA-Asp(gtc)
+FEEIKOBK_00346	gene	76				
+FEEIKOBK_00346	tRNA	76				tRNA-Val(tac)
+FEEIKOBK_00347	gene	74				
+FEEIKOBK_00347	tRNA	74				tRNA-Glu(ttc)
+FEEIKOBK_00348	gene	76				
+FEEIKOBK_00348	tRNA	76				tRNA-Met(cat)
+FEEIKOBK_00349	gene	75				
+FEEIKOBK_00349	tRNA	75				tRNA-Asn(gtt)
+FEEIKOBK_00350	gene	1146	lytC_2			
+FEEIKOBK_00350	CDS	1146	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FEEIKOBK_00351	gene	1107				
+FEEIKOBK_00351	CDS	1107				hypothetical protein
+FEEIKOBK_00352	gene	663	wecA			
+FEEIKOBK_00352	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+FEEIKOBK_00353	gene	780	tuaG_1			
+FEEIKOBK_00353	CDS	780	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+FEEIKOBK_00354	gene	813				
+FEEIKOBK_00354	CDS	813				hypothetical protein
+FEEIKOBK_00355	gene	1188	tagF			
+FEEIKOBK_00355	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+FEEIKOBK_00356	gene	1122				
+FEEIKOBK_00356	CDS	1122				hypothetical protein
+FEEIKOBK_00357	gene	765	tuaG_2			
+FEEIKOBK_00357	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+FEEIKOBK_00358	gene	1548	rny			
+FEEIKOBK_00358	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+FEEIKOBK_00359	gene	1626				
+FEEIKOBK_00359	CDS	1626				hypothetical protein
+FEEIKOBK_00360	gene	1083				
+FEEIKOBK_00360	CDS	1083				hypothetical protein
+FEEIKOBK_00361	gene	450	fur			
+FEEIKOBK_00361	CDS	450	fur		COG0735	Ferric uptake regulation protein
+FEEIKOBK_00362	gene	417	yrrK			
+FEEIKOBK_00362	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+FEEIKOBK_00363	gene	480				
+FEEIKOBK_00363	CDS	480				hypothetical protein
+FEEIKOBK_00364	gene	498	murC			
+FEEIKOBK_00364	CDS	498	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+FEEIKOBK_00365	gene	870				
+FEEIKOBK_00365	CDS	870				hypothetical protein
+FEEIKOBK_00366	gene	879	rsmA			
+FEEIKOBK_00366	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+FEEIKOBK_00367	gene	555	rnmV			
+FEEIKOBK_00367	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+FEEIKOBK_00368	gene	549				
+FEEIKOBK_00368	CDS	549				hypothetical protein
+FEEIKOBK_00369	gene	651				
+FEEIKOBK_00369	CDS	651				hypothetical protein
+FEEIKOBK_00370	gene	804	proC			
+FEEIKOBK_00370	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+FEEIKOBK_00371	gene	1479				
+FEEIKOBK_00371	CDS	1479				hypothetical protein
+FEEIKOBK_00372	gene	195				
+FEEIKOBK_00372	CDS	195				hypothetical protein
+FEEIKOBK_00373	gene	591				
+FEEIKOBK_00373	CDS	591				hypothetical protein
+FEEIKOBK_00374	gene	264	hemZ			
+FEEIKOBK_00374	CDS	264	hemZ	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+FEEIKOBK_00375	gene	1263	hisS			
+FEEIKOBK_00375	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+FEEIKOBK_00376	gene	1791	aspS			
+FEEIKOBK_00376	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+FEEIKOBK_00377	gene	315	csoR			
+FEEIKOBK_00377	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+FEEIKOBK_00378	gene	477				
+FEEIKOBK_00378	CDS	477				hypothetical protein
+FEEIKOBK_00379	gene	972	pta			
+FEEIKOBK_00379	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+FEEIKOBK_00380	gene	1200	sstT_1			
+FEEIKOBK_00380	CDS	1200	sstT_1			Serine/threonine transporter SstT
+FEEIKOBK_00381	gene	678				
+FEEIKOBK_00381	CDS	678				hypothetical protein
+FEEIKOBK_00382	gene	561				
+FEEIKOBK_00382	CDS	561				hypothetical protein
+FEEIKOBK_00383	gene	387	dfx			
+FEEIKOBK_00383	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+FEEIKOBK_00384	gene	372	perR			
+FEEIKOBK_00384	CDS	372	perR		COG0735	Peroxide operon regulator
+FEEIKOBK_00385	gene	549	rbr			
+FEEIKOBK_00385	CDS	549	rbr		COG1592	Rubrerythrin
+FEEIKOBK_00386	gene	519	hmpT			
+FEEIKOBK_00386	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+FEEIKOBK_00387	gene	1263	sstT_2			
+FEEIKOBK_00387	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+FEEIKOBK_00388	gene	2826	uvrA			
+FEEIKOBK_00388	CDS	2826	uvrA			UvrABC system protein A
+FEEIKOBK_00389	gene	1326				
+FEEIKOBK_00389	CDS	1326				hypothetical protein
+FEEIKOBK_00390	gene	729	rsmG			
+FEEIKOBK_00390	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+FEEIKOBK_00391	gene	1881	mnmG			
+FEEIKOBK_00391	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+FEEIKOBK_00392	gene	1380	mnmE_2			
+FEEIKOBK_00392	CDS	1380	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+FEEIKOBK_00393	gene	75				
+FEEIKOBK_00393	tRNA	75				tRNA-Arg(acg)
+FEEIKOBK_00394	gene	594	rnfE			
+FEEIKOBK_00394	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+FEEIKOBK_00395	gene	576	rnfA			
+FEEIKOBK_00395	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+FEEIKOBK_00396	gene	864	rnfB			
+FEEIKOBK_00396	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+FEEIKOBK_00397	gene	687				
+FEEIKOBK_00397	CDS	687				hypothetical protein
+FEEIKOBK_00398	gene	1050	mreB_1			
+FEEIKOBK_00398	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+FEEIKOBK_00399	gene	882				
+FEEIKOBK_00399	CDS	882				hypothetical protein
+FEEIKOBK_00400	gene	486				
+FEEIKOBK_00400	CDS	486				hypothetical protein
+FEEIKOBK_00401	gene	642	cobS			
+FEEIKOBK_00401	CDS	642	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+FEEIKOBK_00402	gene	639	pspA_1			
+FEEIKOBK_00402	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+FEEIKOBK_00403	gene	1503	cobQ			
+FEEIKOBK_00403	CDS	1503	cobQ			Cobyric acid synthase
+FEEIKOBK_00404	gene	1395	cbiA			
+FEEIKOBK_00404	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+FEEIKOBK_00405	gene	1041	cbiB			
+FEEIKOBK_00405	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+FEEIKOBK_00406	gene	1092	cobD			
+FEEIKOBK_00406	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+FEEIKOBK_00407	gene	885	pduX			
+FEEIKOBK_00407	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+FEEIKOBK_00408	gene	3603	dnaE			
+FEEIKOBK_00408	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+FEEIKOBK_00409	gene	966	whiA			
+FEEIKOBK_00409	CDS	966	whiA		COG1481	putative cell division protein WhiA
+FEEIKOBK_00410	gene	417	ndx1			
+FEEIKOBK_00410	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+FEEIKOBK_00411	gene	1080				
+FEEIKOBK_00411	CDS	1080			COG0391	Gluconeogenesis factor
+FEEIKOBK_00412	gene	1158	iscS			
+FEEIKOBK_00412	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FEEIKOBK_00413	gene	1188	thiI			
+FEEIKOBK_00413	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+FEEIKOBK_00414	gene	963				
+FEEIKOBK_00414	CDS	963				hypothetical protein
+FEEIKOBK_00415	gene	1650				
+FEEIKOBK_00415	CDS	1650				hypothetical protein
+FEEIKOBK_00416	gene	294				
+FEEIKOBK_00416	CDS	294				hypothetical protein
+FEEIKOBK_00417	gene	1371	ntpJ			
+FEEIKOBK_00417	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+FEEIKOBK_00418	gene	675	ktrA			
+FEEIKOBK_00418	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+FEEIKOBK_00419	gene	771	aviRb			
+FEEIKOBK_00419	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+FEEIKOBK_00420	gene	636	ccpN			
+FEEIKOBK_00420	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+FEEIKOBK_00421	gene	840	yqfL			
+FEEIKOBK_00421	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+FEEIKOBK_00422	gene	2646	ppdK			
+FEEIKOBK_00422	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+FEEIKOBK_00423	gene	264				
+FEEIKOBK_00423	CDS	264				hypothetical protein
+FEEIKOBK_00424	gene	831				
+FEEIKOBK_00424	CDS	831				hypothetical protein
+FEEIKOBK_00425	gene	1236	csd			
+FEEIKOBK_00425	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+FEEIKOBK_00426	gene	438	sufU			
+FEEIKOBK_00426	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+FEEIKOBK_00427	gene	408				
+FEEIKOBK_00427	CDS	408				hypothetical protein
+FEEIKOBK_00428	gene	627				
+FEEIKOBK_00428	CDS	627				hypothetical protein
+FEEIKOBK_00429	gene	291				
+FEEIKOBK_00429	CDS	291				hypothetical protein
+FEEIKOBK_00430	gene	735				
+FEEIKOBK_00430	CDS	735		3.1.3.-	COG0560	putative phosphatase
+FEEIKOBK_00431	gene	1221				
+FEEIKOBK_00431	CDS	1221				hypothetical protein
+FEEIKOBK_00432	gene	660				
+FEEIKOBK_00432	CDS	660				hypothetical protein
+FEEIKOBK_00433	gene	822	melC			
+FEEIKOBK_00433	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+FEEIKOBK_00434	gene	873	melD			
+FEEIKOBK_00434	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+FEEIKOBK_00435	gene	1287				
+FEEIKOBK_00435	CDS	1287				hypothetical protein
+FEEIKOBK_00436	gene	993	malR			
+FEEIKOBK_00436	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+FEEIKOBK_00437	gene	894	bglK			
+FEEIKOBK_00437	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+FEEIKOBK_00438	gene	465	yfkJ			
+FEEIKOBK_00438	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+FEEIKOBK_00439	gene	213				
+FEEIKOBK_00439	CDS	213				hypothetical protein
+FEEIKOBK_00440	gene	1269	dnaC			
+FEEIKOBK_00440	CDS	1269	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+FEEIKOBK_00441	gene	990	dnaA_2			
+FEEIKOBK_00441	CDS	990	dnaA_2			Chromosomal replication initiator protein DnaA
+FEEIKOBK_00442	gene	1050				
+FEEIKOBK_00442	CDS	1050				hypothetical protein
+FEEIKOBK_00443	gene	483	rlmH			
+FEEIKOBK_00443	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+FEEIKOBK_00444	gene	801	yycJ			
+FEEIKOBK_00444	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+FEEIKOBK_00445	gene	162				
+FEEIKOBK_00445	CDS	162				Rubredoxin
+FEEIKOBK_00446	gene	462	zur			
+FEEIKOBK_00446	CDS	462	zur		COG0735	Zinc uptake regulation protein
+FEEIKOBK_00447	gene	981	znuA			
+FEEIKOBK_00447	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+FEEIKOBK_00448	gene	888	ispH			
+FEEIKOBK_00448	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+FEEIKOBK_00449	gene	615	plsC			
+FEEIKOBK_00449	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+FEEIKOBK_00450	gene	660	cmk			
+FEEIKOBK_00450	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+FEEIKOBK_00451	gene	1206				
+FEEIKOBK_00451	CDS	1206			COG2081	putative protein
+FEEIKOBK_00452	gene	651	pspA_2			
+FEEIKOBK_00452	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+FEEIKOBK_00453	gene	942	hexR			
+FEEIKOBK_00453	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+FEEIKOBK_00454	gene	732	rluB			
+FEEIKOBK_00454	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+FEEIKOBK_00455	gene	705				
+FEEIKOBK_00455	CDS	705				hypothetical protein
+FEEIKOBK_00456	gene	1266	clpX			
+FEEIKOBK_00456	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+FEEIKOBK_00457	gene	585	clpP			
+FEEIKOBK_00457	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+FEEIKOBK_00458	gene	1284	tig			
+FEEIKOBK_00458	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+FEEIKOBK_00459	gene	474				
+FEEIKOBK_00459	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+FEEIKOBK_00460	gene	717				
+FEEIKOBK_00460	CDS	717		3.6.1.66		dITP/XTP pyrophosphatase
+FEEIKOBK_00461	gene	396				
+FEEIKOBK_00461	CDS	396				hypothetical protein
+FEEIKOBK_00462	gene	918	isdE			
+FEEIKOBK_00462	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+FEEIKOBK_00463	gene	1125				
+FEEIKOBK_00463	CDS	1125				hypothetical protein
+FEEIKOBK_00464	gene	2019				
+FEEIKOBK_00464	CDS	2019				hypothetical protein
+FEEIKOBK_00465	gene	375				
+FEEIKOBK_00465	CDS	375				hypothetical protein
+FEEIKOBK_00466	gene	930				
+FEEIKOBK_00466	CDS	930				hypothetical protein
+FEEIKOBK_00467	gene	627				
+FEEIKOBK_00467	CDS	627				hypothetical protein
+FEEIKOBK_00468	gene	765	cbiJ			
+FEEIKOBK_00468	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+FEEIKOBK_00469	gene	726	cbiH			
+FEEIKOBK_00469	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+FEEIKOBK_00470	gene	1200	cbiG			
+FEEIKOBK_00470	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+FEEIKOBK_00471	gene	759	cbiF			
+FEEIKOBK_00471	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+FEEIKOBK_00472	gene	567	cbiT			
+FEEIKOBK_00472	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+FEEIKOBK_00473	gene	720	cbiE			
+FEEIKOBK_00473	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+FEEIKOBK_00474	gene	1167	cbiD			
+FEEIKOBK_00474	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+FEEIKOBK_00475	gene	396	cbiC			
+FEEIKOBK_00475	CDS	396	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+FEEIKOBK_00476	gene	1224	cpdA			
+FEEIKOBK_00476	CDS	1224	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FEEIKOBK_00477	gene	3933	addA			
+FEEIKOBK_00477	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+FEEIKOBK_00478	gene	1023	addB			
+FEEIKOBK_00478	CDS	1023	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+FEEIKOBK_00479	gene	1191	malP			
+FEEIKOBK_00479	CDS	1191	malP	2.4.1.8		Maltose phosphorylase
+FEEIKOBK_00480	gene	1662	malL			
+FEEIKOBK_00480	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+FEEIKOBK_00481	gene	642	ycjU			
+FEEIKOBK_00481	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+FEEIKOBK_00482	gene	1128	msmX			
+FEEIKOBK_00482	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+FEEIKOBK_00483	gene	390				
+FEEIKOBK_00483	CDS	390				hypothetical protein
+FEEIKOBK_00484	gene	1383				
+FEEIKOBK_00484	CDS	1383				hypothetical protein
+FEEIKOBK_00485	gene	453				
+FEEIKOBK_00485	CDS	453				hypothetical protein
+FEEIKOBK_00486	gene	1107				
+FEEIKOBK_00486	CDS	1107				hypothetical protein
+FEEIKOBK_00487	gene	582				
+FEEIKOBK_00487	CDS	582				hypothetical protein
+FEEIKOBK_00488	gene	318				
+FEEIKOBK_00488	CDS	318				hypothetical protein
+FEEIKOBK_00489	gene	1395	alaS			
+FEEIKOBK_00489	CDS	1395	alaS	6.1.1.7		Alanine--tRNA ligase
+FEEIKOBK_00490	gene	954	msrAB			
+FEEIKOBK_00490	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+FEEIKOBK_00491	gene	678				
+FEEIKOBK_00491	CDS	678				hypothetical protein
+FEEIKOBK_00492	gene	468				
+FEEIKOBK_00492	CDS	468				hypothetical protein
+FEEIKOBK_00493	gene	762				
+FEEIKOBK_00493	CDS	762				hypothetical protein
+FEEIKOBK_00494	gene	1701				
+FEEIKOBK_00494	CDS	1701				hypothetical protein
+FEEIKOBK_00495	gene	768				
+FEEIKOBK_00495	CDS	768				hypothetical protein
+FEEIKOBK_00496	gene	681				
+FEEIKOBK_00496	CDS	681				hypothetical protein
+FEEIKOBK_00497	gene	657				
+FEEIKOBK_00497	CDS	657				hypothetical protein
+FEEIKOBK_00498	gene	642	bcrA			
+FEEIKOBK_00498	CDS	642	bcrA			Bacitracin transport ATP-binding protein BcrA
+FEEIKOBK_00499	gene	576				
+FEEIKOBK_00499	CDS	576				hypothetical protein
+FEEIKOBK_00500	gene	1707				
+FEEIKOBK_00500	CDS	1707				hypothetical protein
+FEEIKOBK_00501	gene	477	purE			
+FEEIKOBK_00501	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+FEEIKOBK_00502	gene	1077	purM			
+FEEIKOBK_00502	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+FEEIKOBK_00503	gene	594	purN			
+FEEIKOBK_00503	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+FEEIKOBK_00504	gene	1533	purH			
+FEEIKOBK_00504	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+FEEIKOBK_00505	gene	1494	mfd			
+FEEIKOBK_00505	CDS	1494	mfd	3.6.4.-		Transcription-repair-coupling factor
+FEEIKOBK_00506	gene	1062	prsA_2			
+FEEIKOBK_00506	CDS	1062	prsA_2	5.2.1.8		Foldase protein PrsA
+FEEIKOBK_00507	gene	1623	murJ			
+FEEIKOBK_00507	CDS	1623	murJ		COG2244	Lipid II flippase MurJ
+FEEIKOBK_00508	gene	1014				
+FEEIKOBK_00508	CDS	1014				hypothetical protein
+FEEIKOBK_00509	gene	282	hup			
+FEEIKOBK_00509	CDS	282	hup			DNA-binding protein HU
+FEEIKOBK_00510	gene	240				
+FEEIKOBK_00510	CDS	240			COG1188	putative protein
+FEEIKOBK_00511	gene	849	scmP			
+FEEIKOBK_00511	CDS	849	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+FEEIKOBK_00512	gene	1089	alr			
+FEEIKOBK_00512	CDS	1089	alr	5.1.1.1		Alanine racemase
+FEEIKOBK_00513	gene	1296	lysA			
+FEEIKOBK_00513	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+FEEIKOBK_00514	gene	1281	serS			
+FEEIKOBK_00514	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+FEEIKOBK_00515	gene	1905				
+FEEIKOBK_00515	CDS	1905				hypothetical protein
+FEEIKOBK_00516	gene	1614	nnr			
+FEEIKOBK_00516	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FEEIKOBK_00517	gene	453				
+FEEIKOBK_00517	CDS	453				hypothetical protein
+FEEIKOBK_00518	gene	1005				
+FEEIKOBK_00518	CDS	1005			COG0330	putative protein
+FEEIKOBK_00519	gene	369				
+FEEIKOBK_00519	CDS	369				hypothetical protein
+FEEIKOBK_00520	gene	1269				
+FEEIKOBK_00520	CDS	1269				hypothetical protein
+FEEIKOBK_00521	gene	549				
+FEEIKOBK_00521	CDS	549				hypothetical protein
+FEEIKOBK_00522	gene	2190				
+FEEIKOBK_00522	CDS	2190				hypothetical protein
+FEEIKOBK_00523	gene	282				
+FEEIKOBK_00523	CDS	282				hypothetical protein
+FEEIKOBK_00524	gene	720	dapH			
+FEEIKOBK_00524	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FEEIKOBK_00525	gene	732	dapB			
+FEEIKOBK_00525	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+FEEIKOBK_00526	gene	900	dapA			
+FEEIKOBK_00526	CDS	900	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+FEEIKOBK_00527	gene	984	asd			
+FEEIKOBK_00527	CDS	984	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+FEEIKOBK_00528	gene	1206	lysC			
+FEEIKOBK_00528	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+FEEIKOBK_00529	gene	654				
+FEEIKOBK_00529	CDS	654				hypothetical protein
+FEEIKOBK_00530	gene	930				
+FEEIKOBK_00530	CDS	930				hypothetical protein
+FEEIKOBK_00531	gene	1374	moaA_1			
+FEEIKOBK_00531	CDS	1374	moaA_1			GTP 3',8-cyclase
+FEEIKOBK_00532	gene	1059	ubiB_1			
+FEEIKOBK_00532	CDS	1059	ubiB_1	2.7.-.-	COG0661	putative protein kinase UbiB
+FEEIKOBK_00533	gene	519	ubiB_2			
+FEEIKOBK_00533	CDS	519	ubiB_2	2.7.-.-		protein kinase UbiB
+FEEIKOBK_00534	gene	219				
+FEEIKOBK_00534	CDS	219				hypothetical protein
+FEEIKOBK_00535	gene	681				
+FEEIKOBK_00535	CDS	681				hypothetical protein
+FEEIKOBK_00536	gene	2154	ptsG			
+FEEIKOBK_00536	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+FEEIKOBK_00537	gene	882	licT			
+FEEIKOBK_00537	CDS	882	licT		COG3711	Transcription antiterminator LicT
+FEEIKOBK_00538	gene	126				
+FEEIKOBK_00538	CDS	126				hypothetical protein
+FEEIKOBK_00539	gene	1257	nrdE			
+FEEIKOBK_00539	CDS	1257	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+FEEIKOBK_00540	gene	987	nrdF			
+FEEIKOBK_00540	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+FEEIKOBK_00541	gene	525				
+FEEIKOBK_00541	CDS	525				hypothetical protein
+FEEIKOBK_00542	gene	651				
+FEEIKOBK_00542	CDS	651				hypothetical protein
+FEEIKOBK_00543	gene	465				
+FEEIKOBK_00543	CDS	465				hypothetical protein
+FEEIKOBK_00544	gene	1164	ugtP_1			
+FEEIKOBK_00544	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+FEEIKOBK_00545	gene	678	purC			
+FEEIKOBK_00545	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+FEEIKOBK_00546	gene	1431	pepD_1			
+FEEIKOBK_00546	CDS	1431	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+FEEIKOBK_00547	gene	1413	fpgS			
+FEEIKOBK_00547	CDS	1413	fpgS	6.3.2.17		Folylpolyglutamate synthase
+FEEIKOBK_00548	gene	741	mta			
+FEEIKOBK_00548	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+FEEIKOBK_00549	gene	1944	infB			
+FEEIKOBK_00549	CDS	1944	infB			Translation initiation factor IF-2
+FEEIKOBK_00550	gene	315	rplGA			
+FEEIKOBK_00550	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+FEEIKOBK_00551	gene	276				
+FEEIKOBK_00551	CDS	276				hypothetical protein
+FEEIKOBK_00552	gene	1272	nusA			
+FEEIKOBK_00552	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+FEEIKOBK_00553	gene	468	rimP			
+FEEIKOBK_00553	CDS	468	rimP			Ribosome maturation factor RimP
+FEEIKOBK_00554	gene	909				
+FEEIKOBK_00554	CDS	909				hypothetical protein
+FEEIKOBK_00555	gene	195				
+FEEIKOBK_00555	CDS	195				hypothetical protein
+FEEIKOBK_00556	gene	405				
+FEEIKOBK_00556	CDS	405				hypothetical protein
+FEEIKOBK_00557	gene	465				
+FEEIKOBK_00557	CDS	465				hypothetical protein
+FEEIKOBK_00558	gene	579				
+FEEIKOBK_00558	CDS	579				hypothetical protein
+FEEIKOBK_00559	gene	960				
+FEEIKOBK_00559	CDS	960				hypothetical protein
+FEEIKOBK_00560	gene	1989	tkt			
+FEEIKOBK_00560	CDS	1989	tkt	2.2.1.1		Transketolase
+FEEIKOBK_00561	gene	105				
+FEEIKOBK_00561	rRNA	105				5S ribosomal RNA
+FEEIKOBK_00562	gene	73				
+FEEIKOBK_00562	tRNA	73				tRNA-Asn(gtt)
+FEEIKOBK_00563	gene	74				
+FEEIKOBK_00563	tRNA	74				tRNA-Glu(ttc)
+FEEIKOBK_00564	gene	76				
+FEEIKOBK_00564	tRNA	76				tRNA-Val(tac)
+FEEIKOBK_00565	gene	1008	carC_2			
+FEEIKOBK_00565	CDS	1008	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FEEIKOBK_00566	gene	792	carD_2			
+FEEIKOBK_00566	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+FEEIKOBK_00567	gene	1008	carE			
+FEEIKOBK_00567	CDS	1008	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+FEEIKOBK_00568	gene	993	hpr			
+FEEIKOBK_00568	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+FEEIKOBK_00569	gene	1326	brnQ_1			
+FEEIKOBK_00569	CDS	1326	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FEEIKOBK_00570	gene	309	potA			
+FEEIKOBK_00570	CDS	309	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+FEEIKOBK_00571	gene	867	potB			
+FEEIKOBK_00571	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+FEEIKOBK_00572	gene	807				
+FEEIKOBK_00572	CDS	807				hypothetical protein
+FEEIKOBK_00573	gene	1086	potD			
+FEEIKOBK_00573	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+FEEIKOBK_00574	gene	1479	malQ			
+FEEIKOBK_00574	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+FEEIKOBK_00575	gene	453				
+FEEIKOBK_00575	CDS	453		3.2.1.54	COG0366	Cyclomaltodextrinase
+FEEIKOBK_00576	gene	600	apu			
+FEEIKOBK_00576	CDS	600	apu		COG0366	Amylopullulanase
+FEEIKOBK_00577	gene	2241				
+FEEIKOBK_00577	CDS	2241				hypothetical protein
+FEEIKOBK_00578	gene	921				
+FEEIKOBK_00578	CDS	921				hypothetical protein
+FEEIKOBK_00579	gene	678	srtA			
+FEEIKOBK_00579	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+FEEIKOBK_00580	gene	909	mepA_2			
+FEEIKOBK_00580	CDS	909	mepA_2		COG0534	Multidrug export protein MepA
+FEEIKOBK_00581	gene	615				
+FEEIKOBK_00581	CDS	615				hypothetical protein
+FEEIKOBK_00582	gene	432				
+FEEIKOBK_00582	CDS	432				hypothetical protein
+FEEIKOBK_00583	gene	2472				
+FEEIKOBK_00583	CDS	2472				hypothetical protein
+FEEIKOBK_00584	gene	1368	mepA_3			
+FEEIKOBK_00584	CDS	1368	mepA_3			Multidrug export protein MepA
+FEEIKOBK_00585	gene	450	rimI			
+FEEIKOBK_00585	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+FEEIKOBK_00586	gene	720	tsaB			
+FEEIKOBK_00586	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+FEEIKOBK_00587	gene	459	tsaE			
+FEEIKOBK_00587	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+FEEIKOBK_00588	gene	921				
+FEEIKOBK_00588	CDS	921				hypothetical protein
+FEEIKOBK_00589	gene	795	fldI			
+FEEIKOBK_00589	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+FEEIKOBK_00590	gene	621	ribU			
+FEEIKOBK_00590	CDS	621	ribU			Riboflavin transporter RibU
+FEEIKOBK_00591	gene	384	ziaR			
+FEEIKOBK_00591	CDS	384	ziaR			Transcriptional repressor SmtB 
+FEEIKOBK_00592	gene	357				
+FEEIKOBK_00592	CDS	357				hypothetical protein
+FEEIKOBK_00593	gene	858				
+FEEIKOBK_00593	CDS	858				hypothetical protein
+FEEIKOBK_00594	gene	729	lnrL_2			
+FEEIKOBK_00594	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+FEEIKOBK_00595	gene	369	ytrA			
+FEEIKOBK_00595	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+FEEIKOBK_00596	gene	72				
+FEEIKOBK_00596	tRNA	72				tRNA-Cys(gca)
+FEEIKOBK_00597	gene	75				
+FEEIKOBK_00597	tRNA	75				tRNA-Lys(ctt)
+FEEIKOBK_00598	gene	77				
+FEEIKOBK_00598	tRNA	77				tRNA-Met(cat)
+FEEIKOBK_00599	gene	76				
+FEEIKOBK_00599	tRNA	76				tRNA-Phe(gaa)
+FEEIKOBK_00600	gene	89				
+FEEIKOBK_00600	tRNA	89				tRNA-Ser(tga)
+FEEIKOBK_00601	gene	76				
+FEEIKOBK_00601	tRNA	76				tRNA-Gln(ttg)
+FEEIKOBK_00602	gene	1827	glmS			
+FEEIKOBK_00602	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FEEIKOBK_00603	gene	762	truA			
+FEEIKOBK_00603	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+FEEIKOBK_00604	gene	1071				
+FEEIKOBK_00604	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FEEIKOBK_00605	gene	834	purR			
+FEEIKOBK_00605	CDS	834	purR		COG0503	Pur operon repressor
+FEEIKOBK_00606	gene	651				
+FEEIKOBK_00606	CDS	651				hypothetical protein
+FEEIKOBK_00607	gene	1392	glmU			
+FEEIKOBK_00607	CDS	1392	glmU			Bifunctional protein GlmU
+FEEIKOBK_00608	gene	957	prs			
+FEEIKOBK_00608	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FEEIKOBK_00609	gene	543	atpH			
+FEEIKOBK_00609	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+FEEIKOBK_00610	gene	507	atpF			
+FEEIKOBK_00610	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+FEEIKOBK_00611	gene	264	atpE			
+FEEIKOBK_00611	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+FEEIKOBK_00612	gene	705	atpB			
+FEEIKOBK_00612	CDS	705	atpB		COG0356	ATP synthase subunit a
+FEEIKOBK_00613	gene	402				
+FEEIKOBK_00613	CDS	402				hypothetical protein
+FEEIKOBK_00614	gene	240				
+FEEIKOBK_00614	CDS	240				hypothetical protein
+FEEIKOBK_00615	gene	630	upp			
+FEEIKOBK_00615	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+FEEIKOBK_00616	gene	447	ywlF			
+FEEIKOBK_00616	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+FEEIKOBK_00617	gene	459	ywlC			
+FEEIKOBK_00617	CDS	459	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+FEEIKOBK_00618	gene	1305				
+FEEIKOBK_00618	CDS	1305				hypothetical protein
+FEEIKOBK_00619	gene	1365				
+FEEIKOBK_00619	CDS	1365				hypothetical protein
+FEEIKOBK_00620	gene	2103	secA_2			
+FEEIKOBK_00620	CDS	2103	secA_2		COG0653	Protein translocase subunit SecA
+FEEIKOBK_00621	gene	1245				
+FEEIKOBK_00621	CDS	1245				hypothetical protein
+FEEIKOBK_00622	gene	219				
+FEEIKOBK_00622	CDS	219				hypothetical protein
+FEEIKOBK_00623	gene	1380	radA			
+FEEIKOBK_00623	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+FEEIKOBK_00624	gene	1077	disA			
+FEEIKOBK_00624	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+FEEIKOBK_00625	gene	225	cadA			
+FEEIKOBK_00625	CDS	225	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+FEEIKOBK_00626	gene	927				
+FEEIKOBK_00626	CDS	927				hypothetical protein
+FEEIKOBK_00627	gene	822	thiD			
+FEEIKOBK_00627	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+FEEIKOBK_00628	gene	1455	thiM			
+FEEIKOBK_00628	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+FEEIKOBK_00629	gene	1305	thiC			
+FEEIKOBK_00629	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+FEEIKOBK_00630	gene	1296	brnQ_2			
+FEEIKOBK_00630	CDS	1296	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FEEIKOBK_00631	gene	354				
+FEEIKOBK_00631	CDS	354				hypothetical protein
+FEEIKOBK_00632	gene	969	metN			
+FEEIKOBK_00632	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+FEEIKOBK_00633	gene	654	metP			
+FEEIKOBK_00633	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+FEEIKOBK_00634	gene	825	metQ			
+FEEIKOBK_00634	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+FEEIKOBK_00635	gene	471				
+FEEIKOBK_00635	CDS	471				hypothetical protein
+FEEIKOBK_00636	gene	1821				
+FEEIKOBK_00636	CDS	1821				hypothetical protein
+FEEIKOBK_00637	gene	912				
+FEEIKOBK_00637	CDS	912				hypothetical protein
+FEEIKOBK_00638	gene	1473				
+FEEIKOBK_00638	CDS	1473				hypothetical protein
+FEEIKOBK_00639	gene	702				
+FEEIKOBK_00639	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+FEEIKOBK_00640	gene	3555	rpoC			
+FEEIKOBK_00640	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+FEEIKOBK_00641	gene	585	rpoB			
+FEEIKOBK_00641	CDS	585	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+FEEIKOBK_00642	gene	522				
+FEEIKOBK_00642	CDS	522				hypothetical protein
+FEEIKOBK_00643	gene	240				
+FEEIKOBK_00643	CDS	240				hypothetical protein
+FEEIKOBK_00644	gene	1455				
+FEEIKOBK_00644	CDS	1455				hypothetical protein
+FEEIKOBK_00645	gene	1701	argS			
+FEEIKOBK_00645	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+FEEIKOBK_00646	gene	468				
+FEEIKOBK_00646	CDS	468				hypothetical protein
+FEEIKOBK_00647	gene	786				
+FEEIKOBK_00647	CDS	786				hypothetical protein
+FEEIKOBK_00648	gene	1182	fieF			
+FEEIKOBK_00648	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+FEEIKOBK_00649	gene	603	maf			
+FEEIKOBK_00649	CDS	603	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+FEEIKOBK_00650	gene	1473	algC			
+FEEIKOBK_00650	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+FEEIKOBK_00651	gene	255	tal			
+FEEIKOBK_00651	CDS	255	tal	2.2.1.2	COG0176	Transaldolase
+FEEIKOBK_00652	gene	816	murG			
+FEEIKOBK_00652	CDS	816	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FEEIKOBK_00653	gene	1161	ftsZ			
+FEEIKOBK_00653	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+FEEIKOBK_00654	gene	516	nrdR			
+FEEIKOBK_00654	CDS	516	nrdR		COG1327	Transcriptional repressor NrdR
+FEEIKOBK_00655	gene	681	phoP_2			
+FEEIKOBK_00655	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FEEIKOBK_00656	gene	1281	walK			
+FEEIKOBK_00656	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+FEEIKOBK_00657	gene	459	tcyC			
+FEEIKOBK_00657	CDS	459	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+FEEIKOBK_00658	gene	1155				
+FEEIKOBK_00658	CDS	1155				hypothetical protein
+FEEIKOBK_00659	gene	1137				
+FEEIKOBK_00659	CDS	1137				TelA-like protein
+FEEIKOBK_00660	gene	1149	rlmL			
+FEEIKOBK_00660	CDS	1149	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+FEEIKOBK_00661	gene	90				
+FEEIKOBK_00661	tRNA	90				tRNA-Ser(gga)
+FEEIKOBK_00662	gene	1635				
+FEEIKOBK_00662	CDS	1635				hypothetical protein
+FEEIKOBK_00663	gene	1176	tadA			
+FEEIKOBK_00663	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+FEEIKOBK_00664	gene	1176	thiH			
+FEEIKOBK_00664	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+FEEIKOBK_00665	gene	390	thiG			
+FEEIKOBK_00665	CDS	390	thiG	2.8.1.10	COG2022	Thiazole synthase
+FEEIKOBK_00666	gene	957				
+FEEIKOBK_00666	CDS	957				hypothetical protein
+FEEIKOBK_00667	gene	867				
+FEEIKOBK_00667	CDS	867				hypothetical protein
+FEEIKOBK_00668	gene	507				
+FEEIKOBK_00668	CDS	507				hypothetical protein
+FEEIKOBK_00669	gene	951				
+FEEIKOBK_00669	CDS	951				hypothetical protein
+FEEIKOBK_00670	gene	1431				
+FEEIKOBK_00670	CDS	1431				hypothetical protein
+FEEIKOBK_00671	gene	1344	rnfC			
+FEEIKOBK_00671	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+FEEIKOBK_00672	gene	987	rnfD			
+FEEIKOBK_00672	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+FEEIKOBK_00673	gene	183	yacL			
+FEEIKOBK_00673	CDS	183	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+FEEIKOBK_00674	gene	1446	proS			
+FEEIKOBK_00674	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FEEIKOBK_00675	gene	750				
+FEEIKOBK_00675	CDS	750				hypothetical protein
+FEEIKOBK_00676	gene	384	obg			
+FEEIKOBK_00676	CDS	384	obg	3.6.5.-	COG0536	GTPase Obg
+FEEIKOBK_00677	gene	390				
+FEEIKOBK_00677	CDS	390				hypothetical protein
+FEEIKOBK_00678	gene	1218	tdcB			
+FEEIKOBK_00678	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+FEEIKOBK_00679	gene	378	yabJ			
+FEEIKOBK_00679	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+FEEIKOBK_00680	gene	570				
+FEEIKOBK_00680	CDS	570				hypothetical protein
+FEEIKOBK_00681	gene	480	nusG			
+FEEIKOBK_00681	CDS	480	nusG		COG0250	Transcription termination/antitermination protein NusG
+FEEIKOBK_00682	gene	207	secE			
+FEEIKOBK_00682	CDS	207	secE			Protein translocase subunit SecE
+FEEIKOBK_00683	gene	150	rpmG2			
+FEEIKOBK_00683	CDS	150	rpmG2			50S ribosomal protein L33 2
+FEEIKOBK_00684	gene	489	queT			
+FEEIKOBK_00684	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+FEEIKOBK_00685	gene	696				
+FEEIKOBK_00685	CDS	696				hypothetical protein
+FEEIKOBK_00686	gene	1224	pepT			
+FEEIKOBK_00686	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+FEEIKOBK_00687	gene	75				
+FEEIKOBK_00687	tRNA	75				tRNA-Arg(tcg)
+FEEIKOBK_00688	gene	402				
+FEEIKOBK_00688	CDS	402				hypothetical protein
+FEEIKOBK_00689	gene	75				
+FEEIKOBK_00689	tRNA	75				tRNA-Arg(cct)
+FEEIKOBK_00690	gene	474				
+FEEIKOBK_00690	CDS	474				hypothetical protein
+FEEIKOBK_00691	gene	1362				
+FEEIKOBK_00691	CDS	1362				hypothetical protein
+FEEIKOBK_00692	gene	1101				
+FEEIKOBK_00692	CDS	1101				hypothetical protein
+FEEIKOBK_00693	gene	1260				
+FEEIKOBK_00693	CDS	1260				hypothetical protein
+FEEIKOBK_00694	gene	558	frr			
+FEEIKOBK_00694	CDS	558	frr		COG0233	Ribosome-recycling factor
+FEEIKOBK_00695	gene	708	pyrH			
+FEEIKOBK_00695	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+FEEIKOBK_00696	gene	909	tsf			
+FEEIKOBK_00696	CDS	909	tsf		COG0264	Elongation factor Ts
+FEEIKOBK_00697	gene	762	rpsB			
+FEEIKOBK_00697	CDS	762	rpsB			30S ribosomal protein S2
+FEEIKOBK_00698	gene	1176	bdhA			
+FEEIKOBK_00698	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+FEEIKOBK_00699	gene	459	infC			
+FEEIKOBK_00699	CDS	459	infC			Translation initiation factor IF-3
+FEEIKOBK_00700	gene	864	map			
+FEEIKOBK_00700	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+FEEIKOBK_00701	gene	603				
+FEEIKOBK_00701	CDS	603				hypothetical protein
+FEEIKOBK_00702	gene	561				
+FEEIKOBK_00702	CDS	561				hypothetical protein
+FEEIKOBK_00703	gene	549	chrA1			
+FEEIKOBK_00703	CDS	549	chrA1			Chromate transport protein
+FEEIKOBK_00704	gene	189				
+FEEIKOBK_00704	CDS	189				Rubredoxin
+FEEIKOBK_00705	gene	711	dhaD			
+FEEIKOBK_00705	CDS	711	dhaD	1.1.1.6		Glycerol dehydrogenase
+FEEIKOBK_00706	gene	171				
+FEEIKOBK_00706	CDS	171				hypothetical protein
+FEEIKOBK_00707	gene	264	ptsH			
+FEEIKOBK_00707	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+FEEIKOBK_00708	gene	1716	ptsI			
+FEEIKOBK_00708	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+FEEIKOBK_00709	gene	654				
+FEEIKOBK_00709	CDS	654				hypothetical protein
+FEEIKOBK_00710	gene	900				
+FEEIKOBK_00710	CDS	900				hypothetical protein
+FEEIKOBK_00711	gene	795				
+FEEIKOBK_00711	CDS	795				hypothetical protein
+FEEIKOBK_00712	gene	720	ytrB			
+FEEIKOBK_00712	CDS	720	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+FEEIKOBK_00713	gene	417				
+FEEIKOBK_00713	CDS	417				hypothetical protein
+FEEIKOBK_00714	gene	843				
+FEEIKOBK_00714	CDS	843				hypothetical protein
+FEEIKOBK_00715	gene	1017	mepA_4			
+FEEIKOBK_00715	CDS	1017	mepA_4		COG0534	Multidrug export protein MepA
+FEEIKOBK_00716	gene	1437	pncB2			
+FEEIKOBK_00716	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+FEEIKOBK_00717	gene	456	lrpC			
+FEEIKOBK_00717	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+FEEIKOBK_00718	gene	1941	metG			
+FEEIKOBK_00718	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+FEEIKOBK_00719	gene	1230				
+FEEIKOBK_00719	CDS	1230				hypothetical protein
+FEEIKOBK_00720	gene	2145				
+FEEIKOBK_00720	CDS	2145				hypothetical protein
+FEEIKOBK_00721	gene	897	pepF1			
+FEEIKOBK_00721	CDS	897	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+FEEIKOBK_00722	gene	147				
+FEEIKOBK_00722	CDS	147				hypothetical protein
+FEEIKOBK_00723	gene	1506	glpK			
+FEEIKOBK_00723	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+FEEIKOBK_00724	gene	291				
+FEEIKOBK_00724	CDS	291				hypothetical protein
+FEEIKOBK_00725	gene	708	ytrE			
+FEEIKOBK_00725	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+FEEIKOBK_00726	gene	201				
+FEEIKOBK_00726	CDS	201				hypothetical protein
+FEEIKOBK_00727	gene	1404	lysN_2			
+FEEIKOBK_00727	CDS	1404	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+FEEIKOBK_00728	gene	234				
+FEEIKOBK_00728	CDS	234				hypothetical protein
+FEEIKOBK_00729	gene	1014	ccpA			
+FEEIKOBK_00729	CDS	1014	ccpA		COG1609	Catabolite control protein A
+FEEIKOBK_00730	gene	228	acpP_2			
+FEEIKOBK_00730	CDS	228	acpP_2			Acyl carrier protein
+FEEIKOBK_00731	gene	885				
+FEEIKOBK_00731	CDS	885				hypothetical protein
+FEEIKOBK_00732	gene	1011	mreB_2			
+FEEIKOBK_00732	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+FEEIKOBK_00733	gene	1254	murAA			
+FEEIKOBK_00733	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+FEEIKOBK_00734	gene	177				
+FEEIKOBK_00734	CDS	177				hypothetical protein
+FEEIKOBK_00735	gene	651	glmM			
+FEEIKOBK_00735	CDS	651	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+FEEIKOBK_00736	gene	1164	alr1			
+FEEIKOBK_00736	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+FEEIKOBK_00737	gene	885	rbgA			
+FEEIKOBK_00737	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+FEEIKOBK_00738	gene	357	rplS			
+FEEIKOBK_00738	CDS	357	rplS		COG0335	50S ribosomal protein L19
+FEEIKOBK_00739	gene	951	prmA			
+FEEIKOBK_00739	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+FEEIKOBK_00740	gene	777	rsmE			
+FEEIKOBK_00740	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+FEEIKOBK_00741	gene	1296	mtaB			
+FEEIKOBK_00741	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+FEEIKOBK_00742	gene	324				
+FEEIKOBK_00742	CDS	324				hypothetical protein
+FEEIKOBK_00743	gene	345				
+FEEIKOBK_00743	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+FEEIKOBK_00744	gene	1287	brnQ_3			
+FEEIKOBK_00744	CDS	1287	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FEEIKOBK_00745	gene	1278				
+FEEIKOBK_00745	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+FEEIKOBK_00746	gene	600	COQ5			
+FEEIKOBK_00746	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FEEIKOBK_00747	gene	198				
+FEEIKOBK_00747	CDS	198				hypothetical protein
+FEEIKOBK_00748	gene	1734	fhs			
+FEEIKOBK_00748	CDS	1734	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+FEEIKOBK_00749	gene	1239				
+FEEIKOBK_00749	CDS	1239				hypothetical protein
+FEEIKOBK_00750	gene	225				
+FEEIKOBK_00750	CDS	225				hypothetical protein
+FEEIKOBK_00751	gene	1194	sdaB			
+FEEIKOBK_00751	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+FEEIKOBK_00752	gene	477				
+FEEIKOBK_00752	CDS	477				hypothetical protein
+FEEIKOBK_00753	gene	657				
+FEEIKOBK_00753	CDS	657				hypothetical protein
+FEEIKOBK_00754	gene	438				
+FEEIKOBK_00754	CDS	438				hypothetical protein
+FEEIKOBK_00755	gene	315				
+FEEIKOBK_00755	CDS	315				hypothetical protein
+FEEIKOBK_00756	gene	1803				
+FEEIKOBK_00756	CDS	1803				hypothetical protein
+FEEIKOBK_00757	gene	699				
+FEEIKOBK_00757	CDS	699				hypothetical protein
+FEEIKOBK_00758	gene	1401	rne			
+FEEIKOBK_00758	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+FEEIKOBK_00759	gene	231	rbn			
+FEEIKOBK_00759	CDS	231	rbn	3.1.26.11		Ribonuclease BN
+FEEIKOBK_00760	gene	1245	macB			
+FEEIKOBK_00760	CDS	1245	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+FEEIKOBK_00761	gene	675	yknY			
+FEEIKOBK_00761	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FEEIKOBK_00762	gene	1083	yknX			
+FEEIKOBK_00762	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+FEEIKOBK_00763	gene	273				
+FEEIKOBK_00763	CDS	273			COG1132	putative ABC transporter ATP-binding/permease protein
+FEEIKOBK_00764	gene	927				
+FEEIKOBK_00764	CDS	927				hypothetical protein
+FEEIKOBK_00765	gene	780				
+FEEIKOBK_00765	CDS	780				hypothetical protein
+FEEIKOBK_00766	gene	261				
+FEEIKOBK_00766	CDS	261				hypothetical protein
+FEEIKOBK_00767	gene	1245				
+FEEIKOBK_00767	CDS	1245				hypothetical protein
+FEEIKOBK_00768	gene	1038	yqeN			
+FEEIKOBK_00768	CDS	1038	yqeN		COG1466	putative protein YqeN
+FEEIKOBK_00769	gene	687	graR			
+FEEIKOBK_00769	CDS	687	graR		COG0745	Response regulator protein GraR
+FEEIKOBK_00770	gene	990	graS			
+FEEIKOBK_00770	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+FEEIKOBK_00771	gene	126				
+FEEIKOBK_00771	CDS	126				hypothetical protein
+FEEIKOBK_00772	gene	879				
+FEEIKOBK_00772	CDS	879				hypothetical protein
+FEEIKOBK_00773	gene	396	panD			
+FEEIKOBK_00773	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+FEEIKOBK_00774	gene	1116				
+FEEIKOBK_00774	CDS	1116				hypothetical protein
+FEEIKOBK_00775	gene	396				
+FEEIKOBK_00775	CDS	396				hypothetical protein
+FEEIKOBK_00776	gene	522	purD			
+FEEIKOBK_00776	CDS	522	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FEEIKOBK_00777	gene	810				
+FEEIKOBK_00777	CDS	810				hypothetical protein
+FEEIKOBK_00778	gene	345				
+FEEIKOBK_00778	CDS	345			COG0718	Nucleoid-associated protein
+FEEIKOBK_00779	gene	600	recR			
+FEEIKOBK_00779	CDS	600	recR		COG0353	Recombination protein RecR
+FEEIKOBK_00780	gene	276				
+FEEIKOBK_00780	CDS	276				hypothetical protein
+FEEIKOBK_00781	gene	168				
+FEEIKOBK_00781	CDS	168				hypothetical protein
+FEEIKOBK_00782	gene	1314	ugtP_2			
+FEEIKOBK_00782	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+FEEIKOBK_00783	gene	72				
+FEEIKOBK_00783	tRNA	72				tRNA-Glu(ctc)
+FEEIKOBK_00784	gene	74				
+FEEIKOBK_00784	tRNA	74				tRNA-Gly(tcc)
+FEEIKOBK_00785	gene	522				
+FEEIKOBK_00785	CDS	522				hypothetical protein
+FEEIKOBK_00786	gene	513	sigM			
+FEEIKOBK_00786	CDS	513	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+FEEIKOBK_00787	gene	1482				
+FEEIKOBK_00787	CDS	1482				hypothetical protein
+FEEIKOBK_00788	gene	753	murE			
+FEEIKOBK_00788	CDS	753	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+FEEIKOBK_00789	gene	1407				
+FEEIKOBK_00789	CDS	1407				hypothetical protein
+FEEIKOBK_00790	gene	1725				
+FEEIKOBK_00790	CDS	1725				hypothetical protein
+FEEIKOBK_00791	gene	549				
+FEEIKOBK_00791	CDS	549				hypothetical protein
+FEEIKOBK_00792	gene	249				
+FEEIKOBK_00792	CDS	249				hypothetical protein
+FEEIKOBK_00793	gene	627	gloC			
+FEEIKOBK_00793	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+FEEIKOBK_00794	gene	450	dtd			
+FEEIKOBK_00794	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+FEEIKOBK_00795	gene	1773	relA			
+FEEIKOBK_00795	CDS	1773	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+FEEIKOBK_00796	gene	423	fabZ			
+FEEIKOBK_00796	CDS	423	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+FEEIKOBK_00797	gene	1236	fabF			
+FEEIKOBK_00797	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+FEEIKOBK_00798	gene	747	fabG_2			
+FEEIKOBK_00798	CDS	747	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FEEIKOBK_00799	gene	441	fabD			
+FEEIKOBK_00799	CDS	441	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+FEEIKOBK_00800	gene	576	zapA			
+FEEIKOBK_00800	CDS	576	zapA			Cell division protein ZapA
+FEEIKOBK_00801	gene	1149	hemW			
+FEEIKOBK_00801	CDS	1149	hemW		COG0635	Heme chaperone HemW
+FEEIKOBK_00802	gene	861				
+FEEIKOBK_00802	CDS	861				hypothetical protein
+FEEIKOBK_00803	gene	606				
+FEEIKOBK_00803	CDS	606				hypothetical protein
+FEEIKOBK_00804	gene	852				
+FEEIKOBK_00804	CDS	852				hypothetical protein
+FEEIKOBK_00805	gene	1383	dinG			
+FEEIKOBK_00805	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+FEEIKOBK_00806	gene	1158				
+FEEIKOBK_00806	CDS	1158				hypothetical protein
+FEEIKOBK_00807	gene	156				
+FEEIKOBK_00807	CDS	156				hypothetical protein
+FEEIKOBK_00808	gene	789	ybiV			
+FEEIKOBK_00808	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+FEEIKOBK_00809	gene	1041	tagU_1			
+FEEIKOBK_00809	CDS	1041	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FEEIKOBK_00810	gene	963	tagU_2			
+FEEIKOBK_00810	CDS	963	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FEEIKOBK_00811	gene	105				
+FEEIKOBK_00811	CDS	105				hypothetical protein
+FEEIKOBK_00812	gene	849	nadC			
+FEEIKOBK_00812	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FEEIKOBK_00813	gene	1311	nadB			
+FEEIKOBK_00813	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+FEEIKOBK_00814	gene	720	nadA			
+FEEIKOBK_00814	CDS	720	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+FEEIKOBK_00815	gene	1251	ileS			
+FEEIKOBK_00815	CDS	1251	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FEEIKOBK_00816	gene	816				
+FEEIKOBK_00816	CDS	816				hypothetical protein
+FEEIKOBK_00817	gene	825				
+FEEIKOBK_00817	CDS	825				hypothetical protein
+FEEIKOBK_00818	gene	1683				
+FEEIKOBK_00818	CDS	1683				hypothetical protein
+FEEIKOBK_00819	gene	774				
+FEEIKOBK_00819	CDS	774				hypothetical protein
+FEEIKOBK_00820	gene	675	ecfT_2			
+FEEIKOBK_00820	CDS	675	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+FEEIKOBK_00821	gene	1413	ykoD_1			
+FEEIKOBK_00821	CDS	1413	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FEEIKOBK_00822	gene	687				
+FEEIKOBK_00822	CDS	687				hypothetical protein
+FEEIKOBK_00823	gene	282	groS			
+FEEIKOBK_00823	CDS	282	groS		COG0234	10 kDa chaperonin
+FEEIKOBK_00824	gene	1623	groL			
+FEEIKOBK_00824	CDS	1623	groL		COG0459	60 kDa chaperonin
+FEEIKOBK_00825	gene	972	ispG			
+FEEIKOBK_00825	CDS	972	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+FEEIKOBK_00826	gene	528				
+FEEIKOBK_00826	CDS	528				hypothetical protein
+FEEIKOBK_00827	gene	477				
+FEEIKOBK_00827	CDS	477				hypothetical protein
+FEEIKOBK_00828	gene	708				
+FEEIKOBK_00828	CDS	708				hypothetical protein
+FEEIKOBK_00829	gene	471				
+FEEIKOBK_00829	CDS	471				hypothetical protein
+FEEIKOBK_00830	gene	2766	mtgA			
+FEEIKOBK_00830	CDS	2766	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+FEEIKOBK_00831	gene	651	cbiL			
+FEEIKOBK_00831	CDS	651	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+FEEIKOBK_00832	gene	1104				
+FEEIKOBK_00832	CDS	1104				hypothetical protein
+FEEIKOBK_00833	gene	906				
+FEEIKOBK_00833	CDS	906				hypothetical protein
+FEEIKOBK_00834	gene	126				
+FEEIKOBK_00834	CDS	126				hypothetical protein
+FEEIKOBK_00835	gene	1227	dltD			
+FEEIKOBK_00835	CDS	1227	dltD		COG3966	Protein DltD
+FEEIKOBK_00836	gene	1173				
+FEEIKOBK_00836	CDS	1173				hypothetical protein
+FEEIKOBK_00837	gene	300				
+FEEIKOBK_00837	CDS	300				hypothetical protein
+FEEIKOBK_00838	gene	243				
+FEEIKOBK_00838	CDS	243				hypothetical protein
+FEEIKOBK_00839	gene	411				
+FEEIKOBK_00839	CDS	411				hypothetical protein
+FEEIKOBK_00840	gene	750				
+FEEIKOBK_00840	CDS	750				hypothetical protein
+FEEIKOBK_00841	gene	1191				
+FEEIKOBK_00841	CDS	1191				hypothetical protein
+FEEIKOBK_00842	gene	2109	ligA			
+FEEIKOBK_00842	CDS	2109	ligA	6.5.1.2		DNA ligase
+FEEIKOBK_00843	gene	465	bcp			
+FEEIKOBK_00843	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FEEIKOBK_00844	gene	633				
+FEEIKOBK_00844	CDS	633				hypothetical protein
+FEEIKOBK_00845	gene	411				
+FEEIKOBK_00845	CDS	411				hypothetical protein
+FEEIKOBK_00846	gene	1188	dxr			
+FEEIKOBK_00846	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+FEEIKOBK_00847	gene	2421	leuS			
+FEEIKOBK_00847	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+FEEIKOBK_00848	gene	174	rsfS			
+FEEIKOBK_00848	CDS	174	rsfS		COG0799	Ribosomal silencing factor RsfS
+FEEIKOBK_00849	gene	2508	polA			
+FEEIKOBK_00849	CDS	2508	polA	2.7.7.7		DNA polymerase I
+FEEIKOBK_00850	gene	606	coaE			
+FEEIKOBK_00850	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+FEEIKOBK_00851	gene	561	mltC			
+FEEIKOBK_00851	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+FEEIKOBK_00852	gene	1080	glgB			
+FEEIKOBK_00852	CDS	1080	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+FEEIKOBK_00853	gene	1173	glgC			
+FEEIKOBK_00853	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+FEEIKOBK_00854	gene	1107	glgD			
+FEEIKOBK_00854	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+FEEIKOBK_00855	gene	1146	cysS			
+FEEIKOBK_00855	CDS	1146	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+FEEIKOBK_00856	gene	453	mrnC			
+FEEIKOBK_00856	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+FEEIKOBK_00857	gene	735				
+FEEIKOBK_00857	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+FEEIKOBK_00858	gene	564				
+FEEIKOBK_00858	CDS	564				hypothetical protein
+FEEIKOBK_00859	gene	648	sigH			
+FEEIKOBK_00859	CDS	648	sigH		COG1595	RNA polymerase sigma-H factor
+FEEIKOBK_00860	gene	2220	recD2			
+FEEIKOBK_00860	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+FEEIKOBK_00861	gene	771				
+FEEIKOBK_00861	CDS	771				hypothetical protein
+FEEIKOBK_00862	gene	882				
+FEEIKOBK_00862	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+FEEIKOBK_00863	gene	387				
+FEEIKOBK_00863	CDS	387				hypothetical protein
+FEEIKOBK_00864	gene	1431				
+FEEIKOBK_00864	CDS	1431				hypothetical protein
+FEEIKOBK_00865	gene	708	cshE			
+FEEIKOBK_00865	CDS	708	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+FEEIKOBK_00866	gene	330				
+FEEIKOBK_00866	CDS	330				hypothetical protein
+FEEIKOBK_00867	gene	2010	yoaB			
+FEEIKOBK_00867	CDS	2010	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+FEEIKOBK_00868	gene	654				
+FEEIKOBK_00868	CDS	654				hypothetical protein
+FEEIKOBK_00869	gene	687	arnC			
+FEEIKOBK_00869	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FEEIKOBK_00870	gene	831				
+FEEIKOBK_00870	CDS	831				hypothetical protein
+FEEIKOBK_00871	gene	1074				
+FEEIKOBK_00871	CDS	1074				hypothetical protein
+FEEIKOBK_00872	gene	315				
+FEEIKOBK_00872	CDS	315				hypothetical protein
+FEEIKOBK_00873	gene	435				
+FEEIKOBK_00873	CDS	435				hypothetical protein
+FEEIKOBK_00874	gene	1068				
+FEEIKOBK_00874	CDS	1068				hypothetical protein
+FEEIKOBK_00875	gene	375				
+FEEIKOBK_00875	CDS	375				hypothetical protein
+FEEIKOBK_00876	gene	2403				
+FEEIKOBK_00876	CDS	2403				hypothetical protein
+FEEIKOBK_00877	gene	1170	opuCA			
+FEEIKOBK_00877	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+FEEIKOBK_00878	gene	1662				
+FEEIKOBK_00878	CDS	1662				hypothetical protein
+FEEIKOBK_00879	gene	339	ftsH_2			
+FEEIKOBK_00879	CDS	339	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FEEIKOBK_00880	gene	489				
+FEEIKOBK_00880	CDS	489				hypothetical protein
+FEEIKOBK_00881	gene	636	lexA			
+FEEIKOBK_00881	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+FEEIKOBK_00882	gene	1140	xerD			
+FEEIKOBK_00882	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+FEEIKOBK_00883	gene	525				
+FEEIKOBK_00883	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FEEIKOBK_00884	gene	909	ppaC			
+FEEIKOBK_00884	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+FEEIKOBK_00885	gene	1239	queH			
+FEEIKOBK_00885	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+FEEIKOBK_00886	gene	1860	asnB			
+FEEIKOBK_00886	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+FEEIKOBK_00887	gene	780	aroK			
+FEEIKOBK_00887	CDS	780	aroK	2.7.1.71		Shikimate kinase
+FEEIKOBK_00888	gene	183				
+FEEIKOBK_00888	CDS	183				hypothetical protein
+FEEIKOBK_00889	gene	1158				
+FEEIKOBK_00889	CDS	1158				hypothetical protein
+FEEIKOBK_00890	gene	741	trmD			
+FEEIKOBK_00890	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+FEEIKOBK_00891	gene	519	rimM			
+FEEIKOBK_00891	CDS	519	rimM			Ribosome maturation factor RimM
+FEEIKOBK_00892	gene	234				
+FEEIKOBK_00892	CDS	234				hypothetical protein
+FEEIKOBK_00893	gene	246	rpsP			
+FEEIKOBK_00893	CDS	246	rpsP		COG0228	30S ribosomal protein S16
+FEEIKOBK_00894	gene	540	puuR			
+FEEIKOBK_00894	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+FEEIKOBK_00895	gene	1467				
+FEEIKOBK_00895	CDS	1467				hypothetical protein
+FEEIKOBK_00896	gene	1959	fusA			
+FEEIKOBK_00896	CDS	1959	fusA		COG0480	Elongation factor G
+FEEIKOBK_00897	gene	366				
+FEEIKOBK_00897	CDS	366				hypothetical protein
+FEEIKOBK_00898	gene	495				
+FEEIKOBK_00898	CDS	495				hypothetical protein
+FEEIKOBK_00899	gene	384				
+FEEIKOBK_00899	CDS	384			COG1302	Alkaline shock protein 23
+FEEIKOBK_00900	gene	876				
+FEEIKOBK_00900	CDS	876				hypothetical protein
+FEEIKOBK_00901	gene	684				
+FEEIKOBK_00901	CDS	684				hypothetical protein
+FEEIKOBK_00902	gene	1365	murD			
+FEEIKOBK_00902	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+FEEIKOBK_00903	gene	966	mraY			
+FEEIKOBK_00903	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FEEIKOBK_00904	gene	651	murF			
+FEEIKOBK_00904	CDS	651	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+FEEIKOBK_00905	gene	540				
+FEEIKOBK_00905	CDS	540				hypothetical protein
+FEEIKOBK_00906	gene	609				
+FEEIKOBK_00906	CDS	609				hypothetical protein
+FEEIKOBK_00907	gene	186				
+FEEIKOBK_00907	CDS	186				hypothetical protein
+FEEIKOBK_00908	gene	621				
+FEEIKOBK_00908	CDS	621				hypothetical protein
+FEEIKOBK_00909	gene	819				
+FEEIKOBK_00909	CDS	819				hypothetical protein
+FEEIKOBK_00910	gene	825				
+FEEIKOBK_00910	CDS	825				hypothetical protein
+FEEIKOBK_00911	gene	549	lytC_3			
+FEEIKOBK_00911	CDS	549	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FEEIKOBK_00912	gene	429	rplM			
+FEEIKOBK_00912	CDS	429	rplM		COG0102	50S ribosomal protein L13
+FEEIKOBK_00913	gene	1254				
+FEEIKOBK_00913	CDS	1254				hypothetical protein
+FEEIKOBK_00914	gene	648				
+FEEIKOBK_00914	CDS	648		1.1.1.81	COG0111	Hydroxypyruvate reductase
+FEEIKOBK_00915	gene	675	arlR			
+FEEIKOBK_00915	CDS	675	arlR		COG0745	Response regulator ArlR
+FEEIKOBK_00916	gene	555				
+FEEIKOBK_00916	CDS	555				hypothetical protein
+FEEIKOBK_00917	gene	240				
+FEEIKOBK_00917	CDS	240				hypothetical protein
+FEEIKOBK_00918	gene	690				
+FEEIKOBK_00918	CDS	690				hypothetical protein
+FEEIKOBK_00919	gene	1380	srfAB			
+FEEIKOBK_00919	CDS	1380	srfAB			Surfactin synthase subunit 2
+FEEIKOBK_00920	gene	897	ddl			
+FEEIKOBK_00920	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+FEEIKOBK_00921	gene	408	degV			
+FEEIKOBK_00921	CDS	408	degV		COG1307	Protein DegV
+FEEIKOBK_00922	gene	1449	pepD_2			
+FEEIKOBK_00922	CDS	1449	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+FEEIKOBK_00923	gene	477	cysG			
+FEEIKOBK_00923	CDS	477	cysG		COG0007	Siroheme synthase
+FEEIKOBK_00924	gene	969	hemB			
+FEEIKOBK_00924	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+FEEIKOBK_00925	gene	1041				
+FEEIKOBK_00925	CDS	1041				hypothetical protein
+FEEIKOBK_00926	gene	864	yvcJ			
+FEEIKOBK_00926	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+FEEIKOBK_00927	gene	738	polX			
+FEEIKOBK_00927	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+FEEIKOBK_00928	gene	921	murB			
+FEEIKOBK_00928	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+FEEIKOBK_00929	gene	171	hprK			
+FEEIKOBK_00929	CDS	171	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+FEEIKOBK_00930	gene	114				
+FEEIKOBK_00930	CDS	114				hypothetical protein
+FEEIKOBK_00931	gene	1329				
+FEEIKOBK_00931	CDS	1329				hypothetical protein
+FEEIKOBK_00932	gene	711				
+FEEIKOBK_00932	CDS	711				hypothetical protein
+FEEIKOBK_00933	gene	324				
+FEEIKOBK_00933	CDS	324				hypothetical protein
+FEEIKOBK_00934	gene	672	cmpB			
+FEEIKOBK_00934	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+FEEIKOBK_00935	gene	600	fbpC			
+FEEIKOBK_00935	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+FEEIKOBK_00936	gene	1062	lytC_4			
+FEEIKOBK_00936	CDS	1062	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FEEIKOBK_00937	gene	369	rplL			
+FEEIKOBK_00937	CDS	369	rplL			50S ribosomal protein L7/L12
+FEEIKOBK_00938	gene	522	rplJ			
+FEEIKOBK_00938	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+FEEIKOBK_00939	gene	699	rplA			
+FEEIKOBK_00939	CDS	699	rplA			50S ribosomal protein L1
+FEEIKOBK_00940	gene	426	rplK			
+FEEIKOBK_00940	CDS	426	rplK		COG0080	50S ribosomal protein L11
+FEEIKOBK_00941	gene	1281	ugd			
+FEEIKOBK_00941	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+FEEIKOBK_00942	gene	489	ispF			
+FEEIKOBK_00942	CDS	489	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+FEEIKOBK_00943	gene	546	ispD			
+FEEIKOBK_00943	CDS	546	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+FEEIKOBK_00944	gene	1758				
+FEEIKOBK_00944	CDS	1758			COG1132	putative ABC transporter ATP-binding protein
+FEEIKOBK_00945	gene	1440	msbA			
+FEEIKOBK_00945	CDS	1440	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FEEIKOBK_00946	gene	843	tlyA			
+FEEIKOBK_00946	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+FEEIKOBK_00947	gene	966	dxs			
+FEEIKOBK_00947	CDS	966	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+FEEIKOBK_00948	gene	540	ecsA			
+FEEIKOBK_00948	CDS	540	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+FEEIKOBK_00949	gene	1746				
+FEEIKOBK_00949	CDS	1746				hypothetical protein
+FEEIKOBK_00950	gene	777	trmK			
+FEEIKOBK_00950	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+FEEIKOBK_00951	gene	1155	sigA			
+FEEIKOBK_00951	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+FEEIKOBK_00952	gene	1080	patB			
+FEEIKOBK_00952	CDS	1080	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+FEEIKOBK_00953	gene	744	aroD			
+FEEIKOBK_00953	CDS	744	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+FEEIKOBK_00954	gene	378				
+FEEIKOBK_00954	CDS	378				hypothetical protein
+FEEIKOBK_00955	gene	216	glgA			
+FEEIKOBK_00955	CDS	216	glgA	2.4.1.21	COG0297	Glycogen synthase
+FEEIKOBK_00956	gene	561	pth			
+FEEIKOBK_00956	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+FEEIKOBK_00957	gene	459				
+FEEIKOBK_00957	CDS	459				hypothetical protein
+FEEIKOBK_00958	gene	738				
+FEEIKOBK_00958	CDS	738				hypothetical protein
+FEEIKOBK_00959	gene	1320				
+FEEIKOBK_00959	CDS	1320				hypothetical protein
+FEEIKOBK_00960	gene	1314	pdp			
+FEEIKOBK_00960	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+FEEIKOBK_00961	gene	591				
+FEEIKOBK_00961	CDS	591				hypothetical protein
+FEEIKOBK_00962	gene	513	gpsA			
+FEEIKOBK_00962	CDS	513	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+FEEIKOBK_00963	gene	702				
+FEEIKOBK_00963	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+FEEIKOBK_00964	gene	495	sepF			
+FEEIKOBK_00964	CDS	495	sepF			Cell division protein SepF
+FEEIKOBK_00965	gene	258				
+FEEIKOBK_00965	CDS	258				hypothetical protein
+FEEIKOBK_00966	gene	1353	comM			
+FEEIKOBK_00966	CDS	1353	comM		COG0606	Competence protein ComM
+FEEIKOBK_00967	gene	906				
+FEEIKOBK_00967	CDS	906				hypothetical protein
+FEEIKOBK_00968	gene	846				
+FEEIKOBK_00968	CDS	846		1.-.-.-		putative oxidoreductase
+FEEIKOBK_00969	gene	312	rpsJ			
+FEEIKOBK_00969	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+FEEIKOBK_00970	gene	354				
+FEEIKOBK_00970	CDS	354				hypothetical protein
+FEEIKOBK_00971	gene	450				
+FEEIKOBK_00971	CDS	450				hypothetical protein
+FEEIKOBK_00972	gene	1083				
+FEEIKOBK_00972	CDS	1083				hypothetical protein
+FEEIKOBK_00973	gene	261				
+FEEIKOBK_00973	CDS	261				hypothetical protein
+FEEIKOBK_00974	gene	1017	typA			
+FEEIKOBK_00974	CDS	1017	typA		COG1217	GTP-binding protein TypA/BipA 
+FEEIKOBK_00975	gene	705				
+FEEIKOBK_00975	CDS	705				hypothetical protein
+FEEIKOBK_00976	gene	423				
+FEEIKOBK_00976	CDS	423				hypothetical protein
+FEEIKOBK_00977	gene	2034	mutS			
+FEEIKOBK_00977	CDS	2034	mutS			DNA mismatch repair protein MutS
+FEEIKOBK_00978	gene	1359				
+FEEIKOBK_00978	CDS	1359				hypothetical protein
+FEEIKOBK_00979	gene	510	folA			
+FEEIKOBK_00979	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+FEEIKOBK_00980	gene	327	thyA			
+FEEIKOBK_00980	CDS	327	thyA	2.1.1.45	COG0207	Thymidylate synthase
+FEEIKOBK_00981	gene	630	mltG			
+FEEIKOBK_00981	CDS	630	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+FEEIKOBK_00982	gene	645	trmR			
+FEEIKOBK_00982	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+FEEIKOBK_00983	gene	384				
+FEEIKOBK_00983	CDS	384				hypothetical protein
+FEEIKOBK_00984	gene	873	moaA_2			
+FEEIKOBK_00984	CDS	873	moaA_2	4.1.99.22		GTP 3',8-cyclase
+FEEIKOBK_00985	gene	1026				
+FEEIKOBK_00985	CDS	1026				hypothetical protein
+FEEIKOBK_00986	gene	909	lytC_5			
+FEEIKOBK_00986	CDS	909	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FEEIKOBK_00987	gene	1047	prfB			
+FEEIKOBK_00987	CDS	1047	prfB			Peptide chain release factor 2
+FEEIKOBK_00988	gene	816				
+FEEIKOBK_00988	CDS	816		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FEEIKOBK_00989	gene	426				
+FEEIKOBK_00989	CDS	426				hypothetical protein
+FEEIKOBK_00990	gene	366	asnA			
+FEEIKOBK_00990	CDS	366	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+FEEIKOBK_00991	gene	531	hpt_2			
+FEEIKOBK_00991	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+FEEIKOBK_00992	gene	795				
+FEEIKOBK_00992	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FEEIKOBK_00993	gene	1806	lepA			
+FEEIKOBK_00993	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+FEEIKOBK_00994	gene	1041				
+FEEIKOBK_00994	CDS	1041				hypothetical protein
+FEEIKOBK_00995	gene	201				
+FEEIKOBK_00995	CDS	201				hypothetical protein
+FEEIKOBK_00996	gene	375				
+FEEIKOBK_00996	CDS	375				hypothetical protein
+FEEIKOBK_00997	gene	696	walR			
+FEEIKOBK_00997	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+FEEIKOBK_00998	gene	1437	rcsC			
+FEEIKOBK_00998	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+FEEIKOBK_00999	gene	846				
+FEEIKOBK_00999	CDS	846			COG1307	Fatty acid-binding protein
+FEEIKOBK_01000	gene	255	rpsO			
+FEEIKOBK_01000	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+FEEIKOBK_01001	gene	891	ribF			
+FEEIKOBK_01001	CDS	891	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+FEEIKOBK_01002	gene	576				
+FEEIKOBK_01002	CDS	576				hypothetical protein
+FEEIKOBK_01003	gene	696	nadD			
+FEEIKOBK_01003	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+FEEIKOBK_01004	gene	624	recX			
+FEEIKOBK_01004	CDS	624	recX			Regulatory protein RecX
+FEEIKOBK_01005	gene	471	trmL			
+FEEIKOBK_01005	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+FEEIKOBK_01006	gene	639	pdg			
+FEEIKOBK_01006	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+FEEIKOBK_01007	gene	876	udk			
+FEEIKOBK_01007	CDS	876	udk	2.7.1.48		Uridine kinase
+FEEIKOBK_01008	gene	246	xseB			
+FEEIKOBK_01008	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+FEEIKOBK_01009	gene	885				
+FEEIKOBK_01009	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+FEEIKOBK_01010	gene	432				
+FEEIKOBK_01010	CDS	432				hypothetical protein
+FEEIKOBK_01011	gene	855	dltA			
+FEEIKOBK_01011	CDS	855	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+FEEIKOBK_01012	gene	1161				
+FEEIKOBK_01012	CDS	1161				hypothetical protein
+FEEIKOBK_01013	gene	603				
+FEEIKOBK_01013	CDS	603				hypothetical protein
+FEEIKOBK_01014	gene	597				
+FEEIKOBK_01014	CDS	597				hypothetical protein
+FEEIKOBK_01015	gene	696	pheS			
+FEEIKOBK_01015	CDS	696	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+FEEIKOBK_01016	gene	1506	uvrC			
+FEEIKOBK_01016	CDS	1506	uvrC		COG0322	UvrABC system protein C
+FEEIKOBK_01017	gene	2175				
+FEEIKOBK_01017	CDS	2175				hypothetical protein
+FEEIKOBK_01018	gene	1338	hom			
+FEEIKOBK_01018	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+FEEIKOBK_01019	gene	228				
+FEEIKOBK_01019	CDS	228				hypothetical protein
+FEEIKOBK_01020	gene	309	rplU			
+FEEIKOBK_01020	CDS	309	rplU		COG0261	50S ribosomal protein L21
+FEEIKOBK_01021	gene	318				
+FEEIKOBK_01021	CDS	318				hypothetical protein
+FEEIKOBK_01022	gene	291	rpmA			
+FEEIKOBK_01022	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+FEEIKOBK_01023	gene	855	sseB			
+FEEIKOBK_01023	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+FEEIKOBK_01024	gene	1023	thiY			
+FEEIKOBK_01024	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+FEEIKOBK_01025	gene	762	ribX			
+FEEIKOBK_01025	CDS	762	ribX			Riboflavin transport system permease protein RibX
+FEEIKOBK_01026	gene	1227				
+FEEIKOBK_01026	CDS	1227		3.4.11.-		Aminopeptidase 2
+FEEIKOBK_01027	gene	573				
+FEEIKOBK_01027	CDS	573				hypothetical protein
+FEEIKOBK_01028	gene	1446	fcl			
+FEEIKOBK_01028	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+FEEIKOBK_01029	gene	399	mshA			
+FEEIKOBK_01029	CDS	399	mshA	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+FEEIKOBK_01030	gene	987	queA			
+FEEIKOBK_01030	CDS	987	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+FEEIKOBK_01031	gene	1119	tgt			
+FEEIKOBK_01031	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+FEEIKOBK_01032	gene	1818	topB			
+FEEIKOBK_01032	CDS	1818	topB	5.6.2.1		DNA topoisomerase 3
+FEEIKOBK_01033	gene	1014	trkA			
+FEEIKOBK_01033	CDS	1014	trkA		COG0569	Trk system potassium uptake protein TrkA
+FEEIKOBK_01034	gene	972				
+FEEIKOBK_01034	CDS	972				hypothetical protein
+FEEIKOBK_01035	gene	177				
+FEEIKOBK_01035	CDS	177				hypothetical protein
+FEEIKOBK_01036	gene	1023	lnpD			
+FEEIKOBK_01036	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+FEEIKOBK_01037	gene	729				
+FEEIKOBK_01037	CDS	729				hypothetical protein
+FEEIKOBK_01038	gene	195				
+FEEIKOBK_01038	CDS	195				hypothetical protein
+FEEIKOBK_01039	gene	768	acp			
+FEEIKOBK_01039	CDS	768	acp			Sodium/proton-dependent alanine carrier protein
+FEEIKOBK_01040	gene	762				
+FEEIKOBK_01040	CDS	762				hypothetical protein
+FEEIKOBK_01041	gene	696	ureG			
+FEEIKOBK_01041	CDS	696	ureG			Urease accessory protein UreG
+FEEIKOBK_01042	gene	450	ruvC			
+FEEIKOBK_01042	CDS	450	ruvC	3.1.22.4		Crossover junction endodeoxyribonuclease RuvC
+FEEIKOBK_01043	gene	612	ruvA			
+FEEIKOBK_01043	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+FEEIKOBK_01044	gene	1014	ruvB			
+FEEIKOBK_01044	CDS	1014	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+FEEIKOBK_01045	gene	507	rsmF			
+FEEIKOBK_01045	CDS	507	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+FEEIKOBK_01046	gene	1038	rlmN			
+FEEIKOBK_01046	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+FEEIKOBK_01047	gene	201	rpmE			
+FEEIKOBK_01047	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+FEEIKOBK_01048	gene	327				
+FEEIKOBK_01048	CDS	327				hypothetical protein
+FEEIKOBK_01049	gene	720				
+FEEIKOBK_01049	CDS	720				hypothetical protein
+FEEIKOBK_01050	gene	954	purA_1			
+FEEIKOBK_01050	CDS	954	purA_1	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FEEIKOBK_01051	gene	264	purA_2			
+FEEIKOBK_01051	CDS	264	purA_2	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FEEIKOBK_01052	gene	1134				
+FEEIKOBK_01052	CDS	1134				hypothetical protein
+FEEIKOBK_01053	gene	603	aptB			
+FEEIKOBK_01053	CDS	603	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+FEEIKOBK_01054	gene	813	aptA			
+FEEIKOBK_01054	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+FEEIKOBK_01055	gene	372	acpS			
+FEEIKOBK_01055	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+FEEIKOBK_01056	gene	306	prmC			
+FEEIKOBK_01056	CDS	306	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+FEEIKOBK_01057	gene	1065	prfA			
+FEEIKOBK_01057	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+FEEIKOBK_01058	gene	735	miaB			
+FEEIKOBK_01058	CDS	735	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FEEIKOBK_01059	gene	558				
+FEEIKOBK_01059	CDS	558				hypothetical protein
+FEEIKOBK_01060	gene	522	dcd			
+FEEIKOBK_01060	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+FEEIKOBK_01061	gene	402				
+FEEIKOBK_01061	CDS	402				hypothetical protein
+FEEIKOBK_01062	gene	393				
+FEEIKOBK_01062	CDS	393				hypothetical protein
+FEEIKOBK_01063	gene	618	artQ			
+FEEIKOBK_01063	CDS	618	artQ		COG0765	Arginine transport system permease protein ArtQ
+FEEIKOBK_01064	gene	801	artJ			
+FEEIKOBK_01064	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+FEEIKOBK_01065	gene	762	scpA			
+FEEIKOBK_01065	CDS	762	scpA		COG1354	Segregation and condensation protein A
+FEEIKOBK_01066	gene	519	scpB			
+FEEIKOBK_01066	CDS	519	scpB		COG1386	Segregation and condensation protein B
+FEEIKOBK_01067	gene	507	gtaB			
+FEEIKOBK_01067	CDS	507	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FEEIKOBK_01068	gene	1764				
+FEEIKOBK_01068	CDS	1764				hypothetical protein
+FEEIKOBK_01069	gene	1077				
+FEEIKOBK_01069	CDS	1077				hypothetical protein
+FEEIKOBK_01070	gene	750	lgt			
+FEEIKOBK_01070	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+FEEIKOBK_01071	gene	669	mrdA			
+FEEIKOBK_01071	CDS	669	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+FEEIKOBK_01072	gene	1113	mrdB			
+FEEIKOBK_01072	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+FEEIKOBK_01073	gene	85				
+FEEIKOBK_01073	tRNA	85				tRNA-Leu(caa)
+FEEIKOBK_01074	gene	912	cmpR			
+FEEIKOBK_01074	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+FEEIKOBK_01075	gene	408	apxIB			
+FEEIKOBK_01075	CDS	408	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+FEEIKOBK_01076	gene	210	fba			
+FEEIKOBK_01076	CDS	210	fba	4.1.2.13		Fructose-bisphosphate aldolase
+FEEIKOBK_01077	gene	552	hpf			
+FEEIKOBK_01077	CDS	552	hpf			Ribosome hibernation promotion factor
+FEEIKOBK_01078	gene	228	zwf			
+FEEIKOBK_01078	CDS	228	zwf	1.1.1.363		Glucose-6-phosphate 1-dehydrogenase
+FEEIKOBK_01079	gene	927	trxB			
+FEEIKOBK_01079	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FEEIKOBK_01080	gene	300				
+FEEIKOBK_01080	CDS	300				hypothetical protein
+FEEIKOBK_01081	gene	549	lytC_6			
+FEEIKOBK_01081	CDS	549	lytC_6	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FEEIKOBK_01082	gene	774	dtd3			
+FEEIKOBK_01082	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+FEEIKOBK_01083	gene	144				
+FEEIKOBK_01083	CDS	144				hypothetical protein
+FEEIKOBK_01084	gene	819				
+FEEIKOBK_01084	CDS	819				hypothetical protein
+FEEIKOBK_01085	gene	957	rhaR			
+FEEIKOBK_01085	CDS	957	rhaR			HTH-type transcriptional activator RhaR
+FEEIKOBK_01086	gene	540				
+FEEIKOBK_01086	CDS	540				hypothetical protein
+FEEIKOBK_01087	gene	882				
+FEEIKOBK_01087	CDS	882				hypothetical protein
+FEEIKOBK_01088	gene	567	adeQ			
+FEEIKOBK_01088	CDS	567	adeQ		COG2252	Adenine permease AdeQ
+FEEIKOBK_01089	gene	519	polC_2			
+FEEIKOBK_01089	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FEEIKOBK_01090	gene	744	artM			
+FEEIKOBK_01090	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+FEEIKOBK_01091	gene	390				
+FEEIKOBK_01091	CDS	390				hypothetical protein
+FEEIKOBK_01092	gene	888	nadK			
+FEEIKOBK_01092	CDS	888	nadK	2.7.1.23		NAD kinase
+FEEIKOBK_01093	gene	183				
+FEEIKOBK_01093	CDS	183				hypothetical protein
+FEEIKOBK_01094	gene	681	tgnD			
+FEEIKOBK_01094	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+FEEIKOBK_01095	gene	498				
+FEEIKOBK_01095	CDS	498				hypothetical protein
+FEEIKOBK_01096	gene	207				
+FEEIKOBK_01096	CDS	207				hypothetical protein
+FEEIKOBK_01097	gene	753	lacR			
+FEEIKOBK_01097	CDS	753	lacR			Lactose phosphotransferase system repressor
+FEEIKOBK_01098	gene	648	lnrK			
+FEEIKOBK_01098	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+FEEIKOBK_01099	gene	537				
+FEEIKOBK_01099	CDS	537				hypothetical protein
+FEEIKOBK_01100	gene	549				
+FEEIKOBK_01100	CDS	549				DegV domain-containing protein
+FEEIKOBK_01101	gene	762	prpC			
+FEEIKOBK_01101	CDS	762	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+FEEIKOBK_01102	gene	582	ykoD_2			
+FEEIKOBK_01102	CDS	582	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FEEIKOBK_01103	gene	696	pheT			
+FEEIKOBK_01103	CDS	696	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+FEEIKOBK_01104	gene	363				
+FEEIKOBK_01104	CDS	363				hypothetical protein
+FEEIKOBK_01105	gene	843	hmo_2			
+FEEIKOBK_01105	CDS	843	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+FEEIKOBK_01106	gene	612				
+FEEIKOBK_01106	CDS	612				hypothetical protein
+FEEIKOBK_01107	gene	107				
+FEEIKOBK_01107	rRNA	107				5S ribosomal RNA
+FEEIKOBK_01108	gene	1197				
+FEEIKOBK_01108	CDS	1197				hypothetical protein
+FEEIKOBK_01109	gene	1338				
+FEEIKOBK_01109	CDS	1338				hypothetical protein
+FEEIKOBK_01110	gene	462	cdd			
+FEEIKOBK_01110	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+FEEIKOBK_01111	gene	810	cvfB			
+FEEIKOBK_01111	CDS	810	cvfB		COG2996	Conserved virulence factor B
+FEEIKOBK_01112	gene	1275				
+FEEIKOBK_01112	CDS	1275				hypothetical protein
+FEEIKOBK_01113	gene	261				
+FEEIKOBK_01113	CDS	261				hypothetical protein
+FEEIKOBK_01114	gene	627	rnjA			
+FEEIKOBK_01114	CDS	627	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+FEEIKOBK_01115	gene	570				
+FEEIKOBK_01115	CDS	570				hypothetical protein

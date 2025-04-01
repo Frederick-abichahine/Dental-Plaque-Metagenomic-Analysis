@@ -1,0 +1,2557 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MANLFPEH_00001	gene	564				
+MANLFPEH_00001	CDS	564				hypothetical protein
+MANLFPEH_00002	gene	735				
+MANLFPEH_00002	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+MANLFPEH_00003	gene	453	mrnC			
+MANLFPEH_00003	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+MANLFPEH_00004	gene	1404	cysS			
+MANLFPEH_00004	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+MANLFPEH_00005	gene	2514				
+MANLFPEH_00005	CDS	2514				hypothetical protein
+MANLFPEH_00006	gene	756				
+MANLFPEH_00006	CDS	756				hypothetical protein
+MANLFPEH_00007	gene	1584				
+MANLFPEH_00007	CDS	1584				hypothetical protein
+MANLFPEH_00008	gene	1188				
+MANLFPEH_00008	CDS	1188				hypothetical protein
+MANLFPEH_00009	gene	822	mscS			
+MANLFPEH_00009	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+MANLFPEH_00010	gene	771	rhmA			
+MANLFPEH_00010	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+MANLFPEH_00011	gene	183				
+MANLFPEH_00011	CDS	183				hypothetical protein
+MANLFPEH_00012	gene	774	sigB			
+MANLFPEH_00012	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+MANLFPEH_00013	gene	408	rsbW			
+MANLFPEH_00013	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+MANLFPEH_00014	gene	318	rsbV			
+MANLFPEH_00014	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+MANLFPEH_00015	gene	2439	gyrA			
+MANLFPEH_00015	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+MANLFPEH_00016	gene	1908	gyrB			
+MANLFPEH_00016	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+MANLFPEH_00017	gene	1116	recF			
+MANLFPEH_00017	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+MANLFPEH_00018	gene	210				
+MANLFPEH_00018	CDS	210				hypothetical protein
+MANLFPEH_00019	gene	1104	dnaN			
+MANLFPEH_00019	CDS	1104	dnaN		COG0592	Beta sliding clamp
+MANLFPEH_00020	gene	1365	dnaA_1			
+MANLFPEH_00020	CDS	1365	dnaA_1		COG0593	Chromosomal replication initiator protein DnaA
+MANLFPEH_00021	gene	135	rpmH			
+MANLFPEH_00021	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+MANLFPEH_00022	gene	378	rnpA			
+MANLFPEH_00022	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+MANLFPEH_00023	gene	702	yidC2			
+MANLFPEH_00023	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+MANLFPEH_00024	gene	771				
+MANLFPEH_00024	CDS	771				hypothetical protein
+MANLFPEH_00025	gene	615	sodA1			
+MANLFPEH_00025	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+MANLFPEH_00026	gene	201				
+MANLFPEH_00026	CDS	201				hypothetical protein
+MANLFPEH_00027	gene	885				
+MANLFPEH_00027	CDS	885				hypothetical protein
+MANLFPEH_00028	gene	828	panB			
+MANLFPEH_00028	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+MANLFPEH_00029	gene	849	panC			
+MANLFPEH_00029	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+MANLFPEH_00030	gene	1287	brnQ_1			
+MANLFPEH_00030	CDS	1287	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MANLFPEH_00031	gene	1278				
+MANLFPEH_00031	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+MANLFPEH_00032	gene	576				
+MANLFPEH_00032	CDS	576				hypothetical protein
+MANLFPEH_00033	gene	270	atpC			
+MANLFPEH_00033	CDS	270	atpC			ATP synthase epsilon chain
+MANLFPEH_00034	gene	1401	atpD			
+MANLFPEH_00034	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+MANLFPEH_00035	gene	999	atpG			
+MANLFPEH_00035	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+MANLFPEH_00036	gene	1503	atpA			
+MANLFPEH_00036	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+MANLFPEH_00037	gene	543	atpH			
+MANLFPEH_00037	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+MANLFPEH_00038	gene	507	atpF			
+MANLFPEH_00038	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+MANLFPEH_00039	gene	264	atpE			
+MANLFPEH_00039	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+MANLFPEH_00040	gene	705	atpB			
+MANLFPEH_00040	CDS	705	atpB		COG0356	ATP synthase subunit a
+MANLFPEH_00041	gene	402				
+MANLFPEH_00041	CDS	402				hypothetical protein
+MANLFPEH_00042	gene	240				
+MANLFPEH_00042	CDS	240				hypothetical protein
+MANLFPEH_00043	gene	630	upp			
+MANLFPEH_00043	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+MANLFPEH_00044	gene	447	ywlF			
+MANLFPEH_00044	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+MANLFPEH_00045	gene	1038	ywlC			
+MANLFPEH_00045	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+MANLFPEH_00046	gene	1065	prfA			
+MANLFPEH_00046	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+MANLFPEH_00047	gene	915	prmC			
+MANLFPEH_00047	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+MANLFPEH_00048	gene	720				
+MANLFPEH_00048	CDS	720				hypothetical protein
+MANLFPEH_00049	gene	327				
+MANLFPEH_00049	CDS	327				hypothetical protein
+MANLFPEH_00050	gene	3249				
+MANLFPEH_00050	CDS	3249				hypothetical protein
+MANLFPEH_00051	gene	201	rpmE			
+MANLFPEH_00051	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+MANLFPEH_00052	gene	1443	rho			
+MANLFPEH_00052	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+MANLFPEH_00053	gene	108				
+MANLFPEH_00053	CDS	108				hypothetical protein
+MANLFPEH_00054	gene	894	gtaB			
+MANLFPEH_00054	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+MANLFPEH_00055	gene	240				
+MANLFPEH_00055	CDS	240			COG1188	putative protein
+MANLFPEH_00056	gene	282	hup			
+MANLFPEH_00056	CDS	282	hup			DNA-binding protein HU
+MANLFPEH_00057	gene	1014				
+MANLFPEH_00057	CDS	1014				hypothetical protein
+MANLFPEH_00058	gene	1623	spoVB			
+MANLFPEH_00058	CDS	1623	spoVB		COG2244	Stage V sporulation protein B
+MANLFPEH_00059	gene	1062	prsA_1			
+MANLFPEH_00059	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+MANLFPEH_00060	gene	3405	mfd			
+MANLFPEH_00060	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+MANLFPEH_00061	gene	561	pth			
+MANLFPEH_00061	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+MANLFPEH_00062	gene	1167	cbiD			
+MANLFPEH_00062	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+MANLFPEH_00063	gene	639	cbiC			
+MANLFPEH_00063	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+MANLFPEH_00064	gene	885	pduX			
+MANLFPEH_00064	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+MANLFPEH_00065	gene	1092	cobD_1			
+MANLFPEH_00065	CDS	1092	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+MANLFPEH_00066	gene	1041	cobD_2			
+MANLFPEH_00066	CDS	1041	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+MANLFPEH_00067	gene	1371	cbiA			
+MANLFPEH_00067	CDS	1371	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+MANLFPEH_00068	gene	1503	cobQ			
+MANLFPEH_00068	CDS	1503	cobQ			Cobyric acid synthase
+MANLFPEH_00069	gene	639	pspA_1			
+MANLFPEH_00069	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+MANLFPEH_00070	gene	771	cobS			
+MANLFPEH_00070	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+MANLFPEH_00071	gene	588	cobU			
+MANLFPEH_00071	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+MANLFPEH_00072	gene	1083	cobT			
+MANLFPEH_00072	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MANLFPEH_00073	gene	1173	ctpB			
+MANLFPEH_00073	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+MANLFPEH_00074	gene	936	aptB			
+MANLFPEH_00074	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+MANLFPEH_00075	gene	813	aptA			
+MANLFPEH_00075	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+MANLFPEH_00076	gene	372	acpS			
+MANLFPEH_00076	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+MANLFPEH_00077	gene	1320	sasA_1			
+MANLFPEH_00077	CDS	1320	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+MANLFPEH_00078	gene	654	qseB			
+MANLFPEH_00078	CDS	654	qseB			Transcriptional regulatory protein QseB
+MANLFPEH_00079	gene	1377				
+MANLFPEH_00079	CDS	1377				hypothetical protein
+MANLFPEH_00080	gene	645				
+MANLFPEH_00080	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+MANLFPEH_00081	gene	1278				
+MANLFPEH_00081	CDS	1278				hypothetical protein
+MANLFPEH_00082	gene	891				
+MANLFPEH_00082	CDS	891				hypothetical protein
+MANLFPEH_00083	gene	153				
+MANLFPEH_00083	CDS	153				hypothetical protein
+MANLFPEH_00084	gene	1161	resA			
+MANLFPEH_00084	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+MANLFPEH_00085	gene	1041	tagU			
+MANLFPEH_00085	CDS	1041	tagU	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MANLFPEH_00086	gene	789	ybiV			
+MANLFPEH_00086	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+MANLFPEH_00087	gene	1110				
+MANLFPEH_00087	CDS	1110				hypothetical protein
+MANLFPEH_00088	gene	264	ptsH			
+MANLFPEH_00088	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+MANLFPEH_00089	gene	1716	ptsI			
+MANLFPEH_00089	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+MANLFPEH_00090	gene	654				
+MANLFPEH_00090	CDS	654				hypothetical protein
+MANLFPEH_00091	gene	900				
+MANLFPEH_00091	CDS	900				hypothetical protein
+MANLFPEH_00092	gene	546				
+MANLFPEH_00092	CDS	546				hypothetical protein
+MANLFPEH_00093	gene	888				
+MANLFPEH_00093	CDS	888				hypothetical protein
+MANLFPEH_00094	gene	222				
+MANLFPEH_00094	CDS	222				hypothetical protein
+MANLFPEH_00095	gene	975				
+MANLFPEH_00095	CDS	975				hypothetical protein
+MANLFPEH_00096	gene	1374	moaA_1			
+MANLFPEH_00096	CDS	1374	moaA_1			GTP 3',8-cyclase
+MANLFPEH_00097	gene	1668	ubiB			
+MANLFPEH_00097	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+MANLFPEH_00098	gene	2484				
+MANLFPEH_00098	CDS	2484				hypothetical protein
+MANLFPEH_00099	gene	522	apt			
+MANLFPEH_00099	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+MANLFPEH_00100	gene	204				
+MANLFPEH_00100	CDS	204				hypothetical protein
+MANLFPEH_00101	gene	351	ssrA			
+MANLFPEH_00101	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+MANLFPEH_00102	gene	696	rspR_1			
+MANLFPEH_00102	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+MANLFPEH_00103	gene	1245	fldA_1			
+MANLFPEH_00103	CDS	1245	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+MANLFPEH_00104	gene	1236	fldB			
+MANLFPEH_00104	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+MANLFPEH_00105	gene	1119	hadC			
+MANLFPEH_00105	CDS	1119	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+MANLFPEH_00106	gene	1134	carC_1			
+MANLFPEH_00106	CDS	1134	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+MANLFPEH_00107	gene	792	carD_1			
+MANLFPEH_00107	CDS	792	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+MANLFPEH_00108	gene	1008	carE_1			
+MANLFPEH_00108	CDS	1008	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+MANLFPEH_00109	gene	993	hpr			
+MANLFPEH_00109	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+MANLFPEH_00110	gene	1326	brnQ_2			
+MANLFPEH_00110	CDS	1326	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MANLFPEH_00111	gene	1185	aspC			
+MANLFPEH_00111	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+MANLFPEH_00112	gene	879				
+MANLFPEH_00112	CDS	879				hypothetical protein
+MANLFPEH_00113	gene	3720	purL			
+MANLFPEH_00113	CDS	3720	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+MANLFPEH_00114	gene	1314	pdp			
+MANLFPEH_00114	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+MANLFPEH_00115	gene	591				
+MANLFPEH_00115	CDS	591				hypothetical protein
+MANLFPEH_00116	gene	1494	rsmF			
+MANLFPEH_00116	CDS	1494	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+MANLFPEH_00117	gene	606	sipT			
+MANLFPEH_00117	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+MANLFPEH_00118	gene	1656	udk			
+MANLFPEH_00118	CDS	1656	udk	2.7.1.48		Uridine kinase
+MANLFPEH_00119	gene	639	pdg			
+MANLFPEH_00119	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+MANLFPEH_00120	gene	471	trmL			
+MANLFPEH_00120	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+MANLFPEH_00121	gene	876				
+MANLFPEH_00121	CDS	876				DegV domain-containing protein
+MANLFPEH_00122	gene	1449	pepD_1			
+MANLFPEH_00122	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+MANLFPEH_00123	gene	1509	mutS2_1			
+MANLFPEH_00123	CDS	1509	mutS2_1	3.1.-.-		Endonuclease MutS2
+MANLFPEH_00124	gene	606	rpsD			
+MANLFPEH_00124	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+MANLFPEH_00125	gene	744	artM_1			
+MANLFPEH_00125	CDS	744	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+MANLFPEH_00126	gene	675	artQ_1			
+MANLFPEH_00126	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+MANLFPEH_00127	gene	846	artP_1			
+MANLFPEH_00127	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+MANLFPEH_00128	gene	282				
+MANLFPEH_00128	CDS	282				hypothetical protein
+MANLFPEH_00129	gene	2190				
+MANLFPEH_00129	CDS	2190				hypothetical protein
+MANLFPEH_00130	gene	549				
+MANLFPEH_00130	CDS	549				hypothetical protein
+MANLFPEH_00131	gene	1269				
+MANLFPEH_00131	CDS	1269				hypothetical protein
+MANLFPEH_00132	gene	495	sigM			
+MANLFPEH_00132	CDS	495	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+MANLFPEH_00133	gene	1083				
+MANLFPEH_00133	CDS	1083				hypothetical protein
+MANLFPEH_00134	gene	450				
+MANLFPEH_00134	CDS	450				hypothetical protein
+MANLFPEH_00135	gene	354				
+MANLFPEH_00135	CDS	354				hypothetical protein
+MANLFPEH_00136	gene	672				
+MANLFPEH_00136	CDS	672				hypothetical protein
+MANLFPEH_00137	gene	600				
+MANLFPEH_00137	CDS	600				hypothetical protein
+MANLFPEH_00138	gene	486				
+MANLFPEH_00138	CDS	486				hypothetical protein
+MANLFPEH_00139	gene	1548	rny			
+MANLFPEH_00139	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+MANLFPEH_00140	gene	1626				
+MANLFPEH_00140	CDS	1626				hypothetical protein
+MANLFPEH_00141	gene	1083				
+MANLFPEH_00141	CDS	1083				hypothetical protein
+MANLFPEH_00142	gene	450	fur			
+MANLFPEH_00142	CDS	450	fur		COG0735	Ferric uptake regulation protein
+MANLFPEH_00143	gene	417	yrrK			
+MANLFPEH_00143	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+MANLFPEH_00144	gene	2280				
+MANLFPEH_00144	CDS	2280				hypothetical protein
+MANLFPEH_00145	gene	261				
+MANLFPEH_00145	CDS	261				hypothetical protein
+MANLFPEH_00146	gene	2637	alaS_1			
+MANLFPEH_00146	CDS	2637	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+MANLFPEH_00147	gene	285				
+MANLFPEH_00147	CDS	285				hypothetical protein
+MANLFPEH_00148	gene	585				
+MANLFPEH_00148	CDS	585				hypothetical protein
+MANLFPEH_00149	gene	426				
+MANLFPEH_00149	CDS	426			COG0716	Flavodoxin
+MANLFPEH_00150	gene	903				
+MANLFPEH_00150	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+MANLFPEH_00151	gene	1929				
+MANLFPEH_00151	CDS	1929				hypothetical protein
+MANLFPEH_00152	gene	846				
+MANLFPEH_00152	CDS	846				hypothetical protein
+MANLFPEH_00153	gene	753	lacR			
+MANLFPEH_00153	CDS	753	lacR			Lactose phosphotransferase system repressor
+MANLFPEH_00154	gene	915	lacC			
+MANLFPEH_00154	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+MANLFPEH_00155	gene	1875	fruA			
+MANLFPEH_00155	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+MANLFPEH_00156	gene	246				
+MANLFPEH_00156	CDS	246				hypothetical protein
+MANLFPEH_00157	gene	1053				
+MANLFPEH_00157	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+MANLFPEH_00158	gene	135				
+MANLFPEH_00158	CDS	135				hypothetical protein
+MANLFPEH_00159	gene	1404	bioB_1			
+MANLFPEH_00159	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+MANLFPEH_00160	gene	804	bglK			
+MANLFPEH_00160	CDS	804	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+MANLFPEH_00161	gene	465	yfkJ			
+MANLFPEH_00161	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+MANLFPEH_00162	gene	1332	mepA_1			
+MANLFPEH_00162	CDS	1332	mepA_1			Multidrug export protein MepA
+MANLFPEH_00163	gene	582				
+MANLFPEH_00163	CDS	582				hypothetical protein
+MANLFPEH_00164	gene	711				
+MANLFPEH_00164	CDS	711				hypothetical protein
+MANLFPEH_00165	gene	1329				
+MANLFPEH_00165	CDS	1329				hypothetical protein
+MANLFPEH_00166	gene	3081	smc_1			
+MANLFPEH_00166	CDS	3081	smc_1			Chromosome partition protein Smc
+MANLFPEH_00167	gene	1224	cpdA			
+MANLFPEH_00167	CDS	1224	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MANLFPEH_00168	gene	2736	addA			
+MANLFPEH_00168	CDS	2736	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+MANLFPEH_00169	gene	531	dapB			
+MANLFPEH_00169	CDS	531	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+MANLFPEH_00170	gene	720	dapH			
+MANLFPEH_00170	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+MANLFPEH_00171	gene	1152	scmP			
+MANLFPEH_00171	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+MANLFPEH_00172	gene	1077	alr			
+MANLFPEH_00172	CDS	1077	alr	5.1.1.1		Alanine racemase
+MANLFPEH_00173	gene	1296	lysA			
+MANLFPEH_00173	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+MANLFPEH_00174	gene	228				
+MANLFPEH_00174	CDS	228				IS200/IS605 family transposase ISDha13
+MANLFPEH_00175	gene	1086				
+MANLFPEH_00175	CDS	1086				hypothetical protein
+MANLFPEH_00176	gene	396				
+MANLFPEH_00176	CDS	396				IS110 family transposase ISBth13
+MANLFPEH_00177	gene	1281	serS			
+MANLFPEH_00177	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+MANLFPEH_00178	gene	1377	alsT_1			
+MANLFPEH_00178	CDS	1377	alsT_1		COG1115	Amino-acid carrier protein AlsT
+MANLFPEH_00179	gene	195				
+MANLFPEH_00179	CDS	195				hypothetical protein
+MANLFPEH_00180	gene	207	glgC			
+MANLFPEH_00180	CDS	207	glgC	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+MANLFPEH_00181	gene	1425	glgA			
+MANLFPEH_00181	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+MANLFPEH_00182	gene	2391	glgP			
+MANLFPEH_00182	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+MANLFPEH_00183	gene	2412				
+MANLFPEH_00183	CDS	2412				hypothetical protein
+MANLFPEH_00184	gene	1365				
+MANLFPEH_00184	CDS	1365				hypothetical protein
+MANLFPEH_00185	gene	873	moaA_2			
+MANLFPEH_00185	CDS	873	moaA_2	4.1.99.22		GTP 3',8-cyclase
+MANLFPEH_00186	gene	1629				
+MANLFPEH_00186	CDS	1629				hypothetical protein
+MANLFPEH_00187	gene	1002	add			
+MANLFPEH_00187	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+MANLFPEH_00188	gene	1017	hmo			
+MANLFPEH_00188	CDS	1017	hmo	1.1.3.46		4-hydroxymandelate oxidase
+MANLFPEH_00189	gene	792	rnhB			
+MANLFPEH_00189	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MANLFPEH_00190	gene	1164	alr1			
+MANLFPEH_00190	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+MANLFPEH_00191	gene	885	rbgA			
+MANLFPEH_00191	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+MANLFPEH_00192	gene	357	rplS			
+MANLFPEH_00192	CDS	357	rplS		COG0335	50S ribosomal protein L19
+MANLFPEH_00193	gene	1224	tyrS			
+MANLFPEH_00193	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+MANLFPEH_00194	gene	1158				
+MANLFPEH_00194	CDS	1158				hypothetical protein
+MANLFPEH_00195	gene	726	trmD			
+MANLFPEH_00195	CDS	726	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+MANLFPEH_00196	gene	519	rimM			
+MANLFPEH_00196	CDS	519	rimM			Ribosome maturation factor RimM
+MANLFPEH_00197	gene	234				
+MANLFPEH_00197	CDS	234				hypothetical protein
+MANLFPEH_00198	gene	273	rpsP			
+MANLFPEH_00198	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+MANLFPEH_00199	gene	1359	ffh			
+MANLFPEH_00199	CDS	1359	ffh		COG0541	Signal recognition particle protein
+MANLFPEH_00200	gene	354				
+MANLFPEH_00200	CDS	354				hypothetical protein
+MANLFPEH_00201	gene	375	aspT			
+MANLFPEH_00201	CDS	375	aspT			Aspartate/alanine antiporter
+MANLFPEH_00202	gene	1338				
+MANLFPEH_00202	CDS	1338		1.6.99.3		putative NADH oxidase
+MANLFPEH_00203	gene	411				
+MANLFPEH_00203	CDS	411				hypothetical protein
+MANLFPEH_00204	gene	1284	brnQ_3			
+MANLFPEH_00204	CDS	1284	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MANLFPEH_00205	gene	1968				
+MANLFPEH_00205	CDS	1968				hypothetical protein
+MANLFPEH_00206	gene	426				
+MANLFPEH_00206	CDS	426				hypothetical protein
+MANLFPEH_00207	gene	1740				
+MANLFPEH_00207	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MANLFPEH_00208	gene	774	dtd3			
+MANLFPEH_00208	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+MANLFPEH_00209	gene	522	niaR			
+MANLFPEH_00209	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+MANLFPEH_00210	gene	1821				
+MANLFPEH_00210	CDS	1821				hypothetical protein
+MANLFPEH_00211	gene	1266	clpX			
+MANLFPEH_00211	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+MANLFPEH_00212	gene	585	clpP			
+MANLFPEH_00212	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+MANLFPEH_00213	gene	1284	tig			
+MANLFPEH_00213	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+MANLFPEH_00214	gene	474				
+MANLFPEH_00214	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+MANLFPEH_00215	gene	1461	rph			
+MANLFPEH_00215	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+MANLFPEH_00216	gene	2109	ligA			
+MANLFPEH_00216	CDS	2109	ligA	6.5.1.2		DNA ligase
+MANLFPEH_00217	gene	465	bcp			
+MANLFPEH_00217	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+MANLFPEH_00218	gene	636	opuCD			
+MANLFPEH_00218	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+MANLFPEH_00219	gene	1662				
+MANLFPEH_00219	CDS	1662				hypothetical protein
+MANLFPEH_00220	gene	357	opuCA			
+MANLFPEH_00220	CDS	357	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+MANLFPEH_00221	gene	342				
+MANLFPEH_00221	CDS	342				hypothetical protein
+MANLFPEH_00222	gene	642				
+MANLFPEH_00222	CDS	642				hypothetical protein
+MANLFPEH_00223	gene	567				
+MANLFPEH_00223	CDS	567				hypothetical protein
+MANLFPEH_00224	gene	498	ruvC			
+MANLFPEH_00224	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+MANLFPEH_00225	gene	612	ruvA			
+MANLFPEH_00225	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+MANLFPEH_00226	gene	1014	ruvB			
+MANLFPEH_00226	CDS	1014	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MANLFPEH_00227	gene	1026	queA			
+MANLFPEH_00227	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MANLFPEH_00228	gene	1119	tgt			
+MANLFPEH_00228	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+MANLFPEH_00229	gene	321	yajC			
+MANLFPEH_00229	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+MANLFPEH_00230	gene	144				
+MANLFPEH_00230	CDS	144				hypothetical protein
+MANLFPEH_00231	gene	954	lytC_1			
+MANLFPEH_00231	CDS	954	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MANLFPEH_00232	gene	1992				
+MANLFPEH_00232	CDS	1992				hypothetical protein
+MANLFPEH_00233	gene	243				
+MANLFPEH_00233	CDS	243				hypothetical protein
+MANLFPEH_00234	gene	483	coaD			
+MANLFPEH_00234	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+MANLFPEH_00235	gene	561	rsmD			
+MANLFPEH_00235	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+MANLFPEH_00236	gene	2058	recG			
+MANLFPEH_00236	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+MANLFPEH_00237	gene	1665				
+MANLFPEH_00237	CDS	1665				putative protein
+MANLFPEH_00238	gene	351				
+MANLFPEH_00238	CDS	351				putative protein
+MANLFPEH_00239	gene	189	rpmB			
+MANLFPEH_00239	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+MANLFPEH_00240	gene	1728	ade			
+MANLFPEH_00240	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+MANLFPEH_00241	gene	1233				
+MANLFPEH_00241	CDS	1233				hypothetical protein
+MANLFPEH_00242	gene	1293				
+MANLFPEH_00242	CDS	1293				hypothetical protein
+MANLFPEH_00243	gene	1347	rpoN			
+MANLFPEH_00243	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+MANLFPEH_00244	gene	369				
+MANLFPEH_00244	CDS	369				hypothetical protein
+MANLFPEH_00245	gene	657	rpe			
+MANLFPEH_00245	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+MANLFPEH_00246	gene	684	thiN			
+MANLFPEH_00246	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+MANLFPEH_00247	gene	714	phoP_1			
+MANLFPEH_00247	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+MANLFPEH_00248	gene	2358	sasA_2			
+MANLFPEH_00248	CDS	2358	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+MANLFPEH_00249	gene	1374	mepA_2			
+MANLFPEH_00249	CDS	1374	mepA_2			Multidrug export protein MepA
+MANLFPEH_00250	gene	474	slyA			
+MANLFPEH_00250	CDS	474	slyA			Transcriptional regulator SlyA
+MANLFPEH_00251	gene	786				
+MANLFPEH_00251	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MANLFPEH_00252	gene	1026	cggR			
+MANLFPEH_00252	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+MANLFPEH_00253	gene	1008	gap_1			
+MANLFPEH_00253	CDS	1008	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+MANLFPEH_00254	gene	1200	pgk			
+MANLFPEH_00254	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+MANLFPEH_00255	gene	468				
+MANLFPEH_00255	CDS	468				hypothetical protein
+MANLFPEH_00256	gene	1737				
+MANLFPEH_00256	CDS	1737				hypothetical protein
+MANLFPEH_00257	gene	549				
+MANLFPEH_00257	CDS	549				hypothetical protein
+MANLFPEH_00258	gene	339				
+MANLFPEH_00258	CDS	339				hypothetical protein
+MANLFPEH_00259	gene	297				
+MANLFPEH_00259	CDS	297				hypothetical protein
+MANLFPEH_00260	gene	1128				
+MANLFPEH_00260	CDS	1128				hypothetical protein
+MANLFPEH_00261	gene	1140				
+MANLFPEH_00261	CDS	1140				hypothetical protein
+MANLFPEH_00262	gene	723	pyrF			
+MANLFPEH_00262	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+MANLFPEH_00263	gene	1050	carA_1			
+MANLFPEH_00263	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+MANLFPEH_00264	gene	495	roo			
+MANLFPEH_00264	CDS	495	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+MANLFPEH_00265	gene	462	dut			
+MANLFPEH_00265	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MANLFPEH_00266	gene	909	nadA_1			
+MANLFPEH_00266	CDS	909	nadA_1	2.5.1.72	COG0379	Quinolinate synthase A
+MANLFPEH_00267	gene	1311	nadB_1			
+MANLFPEH_00267	CDS	1311	nadB_1	1.4.3.16	COG0029	L-aspartate oxidase
+MANLFPEH_00268	gene	849	nadC_1			
+MANLFPEH_00268	CDS	849	nadC_1	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MANLFPEH_00269	gene	1251	dinB			
+MANLFPEH_00269	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+MANLFPEH_00270	gene	1440	gnd			
+MANLFPEH_00270	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+MANLFPEH_00271	gene	1374	zwf			
+MANLFPEH_00271	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+MANLFPEH_00272	gene	927	trxB			
+MANLFPEH_00272	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+MANLFPEH_00273	gene	765				
+MANLFPEH_00273	CDS	765				hypothetical protein
+MANLFPEH_00274	gene	1701				
+MANLFPEH_00274	CDS	1701				hypothetical protein
+MANLFPEH_00275	gene	756				
+MANLFPEH_00275	CDS	756				hypothetical protein
+MANLFPEH_00276	gene	1329				
+MANLFPEH_00276	CDS	1329				hypothetical protein
+MANLFPEH_00277	gene	396				
+MANLFPEH_00277	CDS	396				hypothetical protein
+MANLFPEH_00278	gene	90				
+MANLFPEH_00278	tRNA	90				tRNA-Ser(gga)
+MANLFPEH_00279	gene	1635				
+MANLFPEH_00279	CDS	1635				hypothetical protein
+MANLFPEH_00280	gene	1176	tadA			
+MANLFPEH_00280	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+MANLFPEH_00281	gene	1176	thiH			
+MANLFPEH_00281	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+MANLFPEH_00282	gene	768	thiG			
+MANLFPEH_00282	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+MANLFPEH_00283	gene	225				
+MANLFPEH_00283	CDS	225				hypothetical protein
+MANLFPEH_00284	gene	921				
+MANLFPEH_00284	CDS	921				hypothetical protein
+MANLFPEH_00285	gene	543	yajL			
+MANLFPEH_00285	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+MANLFPEH_00286	gene	522	bcrC			
+MANLFPEH_00286	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+MANLFPEH_00287	gene	1077				
+MANLFPEH_00287	CDS	1077				hypothetical protein
+MANLFPEH_00288	gene	900				
+MANLFPEH_00288	CDS	900				hypothetical protein
+MANLFPEH_00289	gene	618				
+MANLFPEH_00289	CDS	618				hypothetical protein
+MANLFPEH_00290	gene	180				
+MANLFPEH_00290	CDS	180				hypothetical protein
+MANLFPEH_00291	gene	1197	lysN_1			
+MANLFPEH_00291	CDS	1197	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+MANLFPEH_00292	gene	291	rpsF			
+MANLFPEH_00292	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+MANLFPEH_00293	gene	444	ssb			
+MANLFPEH_00293	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+MANLFPEH_00294	gene	228	rpsR			
+MANLFPEH_00294	CDS	228	rpsR			30S ribosomal protein S18
+MANLFPEH_00295	gene	216				
+MANLFPEH_00295	CDS	216				hypothetical protein
+MANLFPEH_00296	gene	753				
+MANLFPEH_00296	CDS	753				hypothetical protein
+MANLFPEH_00297	gene	786	znuB			
+MANLFPEH_00297	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+MANLFPEH_00298	gene	432	mntB			
+MANLFPEH_00298	CDS	432	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+MANLFPEH_00299	gene	489	pgi			
+MANLFPEH_00299	CDS	489	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MANLFPEH_00300	gene	438				
+MANLFPEH_00300	CDS	438				hypothetical protein
+MANLFPEH_00301	gene	1542				
+MANLFPEH_00301	CDS	1542				hypothetical protein
+MANLFPEH_00302	gene	729	yehX			
+MANLFPEH_00302	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+MANLFPEH_00303	gene	249				
+MANLFPEH_00303	CDS	249				hypothetical protein
+MANLFPEH_00304	gene	882				
+MANLFPEH_00304	CDS	882				hypothetical protein
+MANLFPEH_00305	gene	642	gmk			
+MANLFPEH_00305	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+MANLFPEH_00306	gene	267	rpoZ			
+MANLFPEH_00306	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+MANLFPEH_00307	gene	1212	undec1A			
+MANLFPEH_00307	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+MANLFPEH_00308	gene	2313	priA			
+MANLFPEH_00308	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+MANLFPEH_00309	gene	456	def1			
+MANLFPEH_00309	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+MANLFPEH_00310	gene	930	fmt			
+MANLFPEH_00310	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+MANLFPEH_00311	gene	1527	gpmI			
+MANLFPEH_00311	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MANLFPEH_00312	gene	1293	eno			
+MANLFPEH_00312	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+MANLFPEH_00313	gene	231				
+MANLFPEH_00313	CDS	231				hypothetical protein
+MANLFPEH_00314	gene	2220	rnr			
+MANLFPEH_00314	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+MANLFPEH_00315	gene	456	smpB			
+MANLFPEH_00315	CDS	456	smpB		COG0691	SsrA-binding protein
+MANLFPEH_00316	gene	831	artP_2			
+MANLFPEH_00316	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+MANLFPEH_00317	gene	1275	argG			
+MANLFPEH_00317	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+MANLFPEH_00318	gene	1374	argH_1			
+MANLFPEH_00318	CDS	1374	argH_1	4.3.2.1	COG0165	Argininosuccinate lyase
+MANLFPEH_00319	gene	651				
+MANLFPEH_00319	CDS	651		1.4.1.2		NAD-specific glutamate dehydrogenase
+MANLFPEH_00320	gene	657				
+MANLFPEH_00320	CDS	657				hypothetical protein
+MANLFPEH_00321	gene	219				
+MANLFPEH_00321	CDS	219				hypothetical protein
+MANLFPEH_00322	gene	234				
+MANLFPEH_00322	CDS	234				hypothetical protein
+MANLFPEH_00323	gene	2151	feoB			
+MANLFPEH_00323	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+MANLFPEH_00324	gene	168				
+MANLFPEH_00324	CDS	168				hypothetical protein
+MANLFPEH_00325	gene	1557				
+MANLFPEH_00325	CDS	1557				hypothetical protein
+MANLFPEH_00326	gene	486				
+MANLFPEH_00326	CDS	486				hypothetical protein
+MANLFPEH_00327	gene	651				
+MANLFPEH_00327	CDS	651				hypothetical protein
+MANLFPEH_00328	gene	954				
+MANLFPEH_00328	CDS	954				hypothetical protein
+MANLFPEH_00329	gene	1233				
+MANLFPEH_00329	CDS	1233				IS256 family transposase ISCth4
+MANLFPEH_00330	gene	525				
+MANLFPEH_00330	CDS	525			COG3599	putative protein
+MANLFPEH_00331	gene	1311	tmcAL			
+MANLFPEH_00331	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+MANLFPEH_00332	gene	1200	ackA			
+MANLFPEH_00332	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+MANLFPEH_00333	gene	519				
+MANLFPEH_00333	CDS	519				hypothetical protein
+MANLFPEH_00334	gene	180	rpmF			
+MANLFPEH_00334	CDS	180	rpmF			50S ribosomal protein L32
+MANLFPEH_00335	gene	1017	plsX			
+MANLFPEH_00335	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+MANLFPEH_00336	gene	1977	fbp			
+MANLFPEH_00336	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+MANLFPEH_00337	gene	342				
+MANLFPEH_00337	CDS	342				putative protein
+MANLFPEH_00338	gene	519	nusB			
+MANLFPEH_00338	CDS	519	nusB			Transcription antitermination protein NusB
+MANLFPEH_00339	gene	672	regX3			
+MANLFPEH_00339	CDS	672	regX3		COG0745	Sensory transduction protein regX3
+MANLFPEH_00340	gene	975	sasA_3			
+MANLFPEH_00340	CDS	975	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+MANLFPEH_00341	gene	336				
+MANLFPEH_00341	CDS	336			COG2826	IS30 family transposase IS1470
+MANLFPEH_00342	gene	174				
+MANLFPEH_00342	CDS	174				hypothetical protein
+MANLFPEH_00343	gene	645				
+MANLFPEH_00343	CDS	645				hypothetical protein
+MANLFPEH_00344	gene	879	btuD_1			
+MANLFPEH_00344	CDS	879	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MANLFPEH_00345	gene	303				
+MANLFPEH_00345	CDS	303				hypothetical protein
+MANLFPEH_00346	gene	225				
+MANLFPEH_00346	CDS	225				hypothetical protein
+MANLFPEH_00347	gene	1719				
+MANLFPEH_00347	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+MANLFPEH_00348	gene	1743	msbA			
+MANLFPEH_00348	CDS	1743	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+MANLFPEH_00349	gene	588				
+MANLFPEH_00349	CDS	588				hypothetical protein
+MANLFPEH_00350	gene	1413	ykoD_1			
+MANLFPEH_00350	CDS	1413	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+MANLFPEH_00351	gene	675				
+MANLFPEH_00351	CDS	675				hypothetical protein
+MANLFPEH_00352	gene	642				
+MANLFPEH_00352	CDS	642				hypothetical protein
+MANLFPEH_00353	gene	2424				
+MANLFPEH_00353	CDS	2424				hypothetical protein
+MANLFPEH_00354	gene	1050	apbE			
+MANLFPEH_00354	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+MANLFPEH_00355	gene	375				
+MANLFPEH_00355	CDS	375				hypothetical protein
+MANLFPEH_00356	gene	675	ung			
+MANLFPEH_00356	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MANLFPEH_00357	gene	606				
+MANLFPEH_00357	CDS	606				hypothetical protein
+MANLFPEH_00358	gene	861				
+MANLFPEH_00358	CDS	861				hypothetical protein
+MANLFPEH_00359	gene	441	yqeY			
+MANLFPEH_00359	CDS	441	yqeY		COG1610	putative protein YqeY
+MANLFPEH_00360	gene	180	rpsU			
+MANLFPEH_00360	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+MANLFPEH_00361	gene	972	pfkA			
+MANLFPEH_00361	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+MANLFPEH_00362	gene	837				
+MANLFPEH_00362	CDS	837				hypothetical protein
+MANLFPEH_00363	gene	465				
+MANLFPEH_00363	CDS	465				hypothetical protein
+MANLFPEH_00364	gene	486				
+MANLFPEH_00364	CDS	486				hypothetical protein
+MANLFPEH_00365	gene	846	cvfB			
+MANLFPEH_00365	CDS	846	cvfB		COG2996	Conserved virulence factor B
+MANLFPEH_00366	gene	462	cdd			
+MANLFPEH_00366	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+MANLFPEH_00367	gene	738				
+MANLFPEH_00367	CDS	738				hypothetical protein
+MANLFPEH_00368	gene	1320				
+MANLFPEH_00368	CDS	1320				hypothetical protein
+MANLFPEH_00369	gene	2358	secA_1			
+MANLFPEH_00369	CDS	2358	secA_1		COG0653	Protein translocase subunit SecA
+MANLFPEH_00370	gene	1365				
+MANLFPEH_00370	CDS	1365				hypothetical protein
+MANLFPEH_00371	gene	1305				
+MANLFPEH_00371	CDS	1305				hypothetical protein
+MANLFPEH_00372	gene	1455	thiM			
+MANLFPEH_00372	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+MANLFPEH_00373	gene	822	thiD			
+MANLFPEH_00373	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+MANLFPEH_00374	gene	927				
+MANLFPEH_00374	CDS	927				hypothetical protein
+MANLFPEH_00375	gene	2205	ziaA			
+MANLFPEH_00375	CDS	2205	ziaA	7.2.2.12		Zinc-transporting ATPase
+MANLFPEH_00376	gene	384	ziaR			
+MANLFPEH_00376	CDS	384	ziaR			Transcriptional repressor SmtB 
+MANLFPEH_00377	gene	357				
+MANLFPEH_00377	CDS	357				hypothetical protein
+MANLFPEH_00378	gene	858				
+MANLFPEH_00378	CDS	858				hypothetical protein
+MANLFPEH_00379	gene	729	lnrL_1			
+MANLFPEH_00379	CDS	729	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MANLFPEH_00380	gene	369	ytrA			
+MANLFPEH_00380	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+MANLFPEH_00381	gene	72				
+MANLFPEH_00381	tRNA	72				tRNA-Cys(gca)
+MANLFPEH_00382	gene	75				
+MANLFPEH_00382	tRNA	75				tRNA-Lys(ctt)
+MANLFPEH_00383	gene	77				
+MANLFPEH_00383	tRNA	77				tRNA-Met(cat)
+MANLFPEH_00384	gene	76				
+MANLFPEH_00384	tRNA	76				tRNA-Phe(gaa)
+MANLFPEH_00385	gene	89				
+MANLFPEH_00385	tRNA	89				tRNA-Ser(tga)
+MANLFPEH_00386	gene	76				
+MANLFPEH_00386	tRNA	76				tRNA-Gln(ttg)
+MANLFPEH_00387	gene	84				
+MANLFPEH_00387	tRNA	84				tRNA-Leu(tag)
+MANLFPEH_00388	gene	168				
+MANLFPEH_00388	CDS	168			COG1145	Ferredoxin
+MANLFPEH_00389	gene	636	rex1			
+MANLFPEH_00389	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+MANLFPEH_00390	gene	1932	yheS			
+MANLFPEH_00390	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+MANLFPEH_00391	gene	1020	tsaD			
+MANLFPEH_00391	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+MANLFPEH_00392	gene	450	rimI			
+MANLFPEH_00392	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+MANLFPEH_00393	gene	720	tsaB			
+MANLFPEH_00393	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+MANLFPEH_00394	gene	459	tsaE			
+MANLFPEH_00394	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MANLFPEH_00395	gene	921				
+MANLFPEH_00395	CDS	921				hypothetical protein
+MANLFPEH_00396	gene	795	fldI			
+MANLFPEH_00396	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+MANLFPEH_00397	gene	567	ribU			
+MANLFPEH_00397	CDS	567	ribU			Riboflavin transporter RibU
+MANLFPEH_00398	gene	1077	cshE			
+MANLFPEH_00398	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+MANLFPEH_00399	gene	330				
+MANLFPEH_00399	CDS	330				hypothetical protein
+MANLFPEH_00400	gene	2688				
+MANLFPEH_00400	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+MANLFPEH_00401	gene	1062				
+MANLFPEH_00401	CDS	1062				hypothetical protein
+MANLFPEH_00402	gene	597				
+MANLFPEH_00402	CDS	597				hypothetical protein
+MANLFPEH_00403	gene	603				
+MANLFPEH_00403	CDS	603				hypothetical protein
+MANLFPEH_00404	gene	435	aroA			
+MANLFPEH_00404	CDS	435	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+MANLFPEH_00405	gene	1077	aroC			
+MANLFPEH_00405	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+MANLFPEH_00406	gene	780	aroK			
+MANLFPEH_00406	CDS	780	aroK	2.7.1.71		Shikimate kinase
+MANLFPEH_00407	gene	1860	asnB			
+MANLFPEH_00407	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+MANLFPEH_00408	gene	1572				
+MANLFPEH_00408	CDS	1572				hypothetical protein
+MANLFPEH_00409	gene	1401	asnS			
+MANLFPEH_00409	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+MANLFPEH_00410	gene	894				
+MANLFPEH_00410	CDS	894				hypothetical protein
+MANLFPEH_00411	gene	261				
+MANLFPEH_00411	CDS	261				hypothetical protein
+MANLFPEH_00412	gene	597	cysE			
+MANLFPEH_00412	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+MANLFPEH_00413	gene	888	cysK			
+MANLFPEH_00413	CDS	888	cysK	2.5.1.47		Cysteine synthase
+MANLFPEH_00414	gene	564				
+MANLFPEH_00414	CDS	564				hypothetical protein
+MANLFPEH_00415	gene	471				
+MANLFPEH_00415	CDS	471				hypothetical protein
+MANLFPEH_00416	gene	510	ftnA			
+MANLFPEH_00416	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+MANLFPEH_00417	gene	1422	pqqE			
+MANLFPEH_00417	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+MANLFPEH_00418	gene	870	rlmL_1			
+MANLFPEH_00418	CDS	870	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+MANLFPEH_00419	gene	681	rluC			
+MANLFPEH_00419	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+MANLFPEH_00420	gene	711				
+MANLFPEH_00420	CDS	711				hypothetical protein
+MANLFPEH_00421	gene	495				
+MANLFPEH_00421	CDS	495				hypothetical protein
+MANLFPEH_00422	gene	831				
+MANLFPEH_00422	CDS	831				hypothetical protein
+MANLFPEH_00423	gene	1236	csd			
+MANLFPEH_00423	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+MANLFPEH_00424	gene	438	sufU			
+MANLFPEH_00424	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+MANLFPEH_00425	gene	408				
+MANLFPEH_00425	CDS	408				hypothetical protein
+MANLFPEH_00426	gene	627				
+MANLFPEH_00426	CDS	627				hypothetical protein
+MANLFPEH_00427	gene	291				
+MANLFPEH_00427	CDS	291				hypothetical protein
+MANLFPEH_00428	gene	738				
+MANLFPEH_00428	CDS	738		3.1.3.-	COG0560	putative phosphatase
+MANLFPEH_00429	gene	1221				
+MANLFPEH_00429	CDS	1221				hypothetical protein
+MANLFPEH_00430	gene	660				
+MANLFPEH_00430	CDS	660				hypothetical protein
+MANLFPEH_00431	gene	246				
+MANLFPEH_00431	CDS	246				hypothetical protein
+MANLFPEH_00432	gene	930	gloB_1			
+MANLFPEH_00432	CDS	930	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+MANLFPEH_00433	gene	786				
+MANLFPEH_00433	CDS	786				hypothetical protein
+MANLFPEH_00434	gene	810	ecsA			
+MANLFPEH_00434	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+MANLFPEH_00435	gene	1239	queH			
+MANLFPEH_00435	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+MANLFPEH_00436	gene	909	ppaC			
+MANLFPEH_00436	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+MANLFPEH_00437	gene	525				
+MANLFPEH_00437	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MANLFPEH_00438	gene	1428	apeB			
+MANLFPEH_00438	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+MANLFPEH_00439	gene	2364	pcrA			
+MANLFPEH_00439	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+MANLFPEH_00440	gene	531				
+MANLFPEH_00440	CDS	531				hypothetical protein
+MANLFPEH_00441	gene	1119	ribD			
+MANLFPEH_00441	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+MANLFPEH_00442	gene	657	ribE			
+MANLFPEH_00442	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+MANLFPEH_00443	gene	1206	ribBA			
+MANLFPEH_00443	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+MANLFPEH_00444	gene	462	ribH			
+MANLFPEH_00444	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+MANLFPEH_00445	gene	693	glxR			
+MANLFPEH_00445	CDS	693	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+MANLFPEH_00446	gene	1011	asrA			
+MANLFPEH_00446	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+MANLFPEH_00447	gene	801	asrB			
+MANLFPEH_00447	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+MANLFPEH_00448	gene	972	asrC			
+MANLFPEH_00448	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+MANLFPEH_00449	gene	1128				
+MANLFPEH_00449	CDS	1128				hypothetical protein
+MANLFPEH_00450	gene	846				
+MANLFPEH_00450	CDS	846		1.-.-.-		putative oxidoreductase
+MANLFPEH_00451	gene	312	rpsJ			
+MANLFPEH_00451	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+MANLFPEH_00452	gene	630	rplC			
+MANLFPEH_00452	CDS	630	rplC		COG0087	50S ribosomal protein L3
+MANLFPEH_00453	gene	624	rplD			
+MANLFPEH_00453	CDS	624	rplD			50S ribosomal protein L4
+MANLFPEH_00454	gene	291	rplW			
+MANLFPEH_00454	CDS	291	rplW			50S ribosomal protein L23
+MANLFPEH_00455	gene	831	rplB			
+MANLFPEH_00455	CDS	831	rplB			50S ribosomal protein L2
+MANLFPEH_00456	gene	282	rpsS			
+MANLFPEH_00456	CDS	282	rpsS			30S ribosomal protein S19
+MANLFPEH_00457	gene	339	rplV			
+MANLFPEH_00457	CDS	339	rplV		COG0091	50S ribosomal protein L22
+MANLFPEH_00458	gene	795	rpsC			
+MANLFPEH_00458	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+MANLFPEH_00459	gene	429	rplP			
+MANLFPEH_00459	CDS	429	rplP		COG0197	50S ribosomal protein L16
+MANLFPEH_00460	gene	204	rpmC			
+MANLFPEH_00460	CDS	204	rpmC			50S ribosomal protein L29
+MANLFPEH_00461	gene	255	rpsQ			
+MANLFPEH_00461	CDS	255	rpsQ			30S ribosomal protein S17
+MANLFPEH_00462	gene	369	rplN			
+MANLFPEH_00462	CDS	369	rplN		COG0093	50S ribosomal protein L14
+MANLFPEH_00463	gene	309	rplX			
+MANLFPEH_00463	CDS	309	rplX		COG0198	50S ribosomal protein L24
+MANLFPEH_00464	gene	543	rplE			
+MANLFPEH_00464	CDS	543	rplE			50S ribosomal protein L5
+MANLFPEH_00465	gene	186	rpsZ			
+MANLFPEH_00465	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+MANLFPEH_00466	gene	882	sstT			
+MANLFPEH_00466	CDS	882	sstT		COG3633	Serine/threonine transporter SstT
+MANLFPEH_00467	gene	519	hmpT			
+MANLFPEH_00467	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+MANLFPEH_00468	gene	549	rbr			
+MANLFPEH_00468	CDS	549	rbr		COG1592	Rubrerythrin
+MANLFPEH_00469	gene	372	perR			
+MANLFPEH_00469	CDS	372	perR		COG0735	Peroxide operon regulator
+MANLFPEH_00470	gene	387	dfx			
+MANLFPEH_00470	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+MANLFPEH_00471	gene	1968				
+MANLFPEH_00471	CDS	1968				hypothetical protein
+MANLFPEH_00472	gene	786				
+MANLFPEH_00472	CDS	786				hypothetical protein
+MANLFPEH_00473	gene	1053				
+MANLFPEH_00473	CDS	1053				hypothetical protein
+MANLFPEH_00474	gene	708	mtnN			
+MANLFPEH_00474	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MANLFPEH_00475	gene	1068				
+MANLFPEH_00475	CDS	1068				hypothetical protein
+MANLFPEH_00476	gene	936	corA			
+MANLFPEH_00476	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+MANLFPEH_00477	gene	705				
+MANLFPEH_00477	CDS	705				hypothetical protein
+MANLFPEH_00478	gene	1839	typA			
+MANLFPEH_00478	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+MANLFPEH_00479	gene	201				
+MANLFPEH_00479	CDS	201				hypothetical protein
+MANLFPEH_00480	gene	2268	copA			
+MANLFPEH_00480	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+MANLFPEH_00481	gene	297				
+MANLFPEH_00481	CDS	297				hypothetical protein
+MANLFPEH_00482	gene	684	czcR			
+MANLFPEH_00482	CDS	684	czcR			Transcriptional activator protein CzcR
+MANLFPEH_00483	gene	756				
+MANLFPEH_00483	CDS	756				hypothetical protein
+MANLFPEH_00484	gene	1446	proS			
+MANLFPEH_00484	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MANLFPEH_00485	gene	1092	yacL			
+MANLFPEH_00485	CDS	1092	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+MANLFPEH_00486	gene	1077	disA			
+MANLFPEH_00486	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+MANLFPEH_00487	gene	1380	radA			
+MANLFPEH_00487	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+MANLFPEH_00488	gene	219				
+MANLFPEH_00488	CDS	219				hypothetical protein
+MANLFPEH_00489	gene	561	rpoA			
+MANLFPEH_00489	CDS	561	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+MANLFPEH_00490	gene	342	rplQ			
+MANLFPEH_00490	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+MANLFPEH_00491	gene	1242				
+MANLFPEH_00491	CDS	1242				hypothetical protein
+MANLFPEH_00492	gene	1422				
+MANLFPEH_00492	CDS	1422				hypothetical protein
+MANLFPEH_00493	gene	441				
+MANLFPEH_00493	CDS	441				hypothetical protein
+MANLFPEH_00494	gene	342				
+MANLFPEH_00494	CDS	342				hypothetical protein
+MANLFPEH_00495	gene	933				
+MANLFPEH_00495	CDS	933				hypothetical protein
+MANLFPEH_00496	gene	672				
+MANLFPEH_00496	CDS	672				hypothetical protein
+MANLFPEH_00497	gene	837	ecfA1			
+MANLFPEH_00497	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+MANLFPEH_00498	gene	876	ecfA2			
+MANLFPEH_00498	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+MANLFPEH_00499	gene	252				
+MANLFPEH_00499	CDS	252				hypothetical protein
+MANLFPEH_00500	gene	900				
+MANLFPEH_00500	CDS	900				hypothetical protein
+MANLFPEH_00501	gene	1227				
+MANLFPEH_00501	CDS	1227		3.4.11.-		Aminopeptidase 2
+MANLFPEH_00502	gene	582				
+MANLFPEH_00502	CDS	582				hypothetical protein
+MANLFPEH_00503	gene	552				
+MANLFPEH_00503	CDS	552				hypothetical protein
+MANLFPEH_00504	gene	765	rhaR_1			
+MANLFPEH_00504	CDS	765	rhaR_1			HTH-type transcriptional activator RhaR
+MANLFPEH_00505	gene	693	ispD			
+MANLFPEH_00505	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+MANLFPEH_00506	gene	474	ispF			
+MANLFPEH_00506	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+MANLFPEH_00507	gene	1281	ugd			
+MANLFPEH_00507	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+MANLFPEH_00508	gene	423	rpsL			
+MANLFPEH_00508	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+MANLFPEH_00509	gene	471	rpsG			
+MANLFPEH_00509	CDS	471	rpsG			30S ribosomal protein S7
+MANLFPEH_00510	gene	204				
+MANLFPEH_00510	CDS	204				hypothetical protein
+MANLFPEH_00511	gene	561				
+MANLFPEH_00511	CDS	561		1.6.5.11	COG2070	NADH:quinone reductase
+MANLFPEH_00512	gene	939	fabD			
+MANLFPEH_00512	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+MANLFPEH_00513	gene	747	fabG_1			
+MANLFPEH_00513	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MANLFPEH_00514	gene	1236	fabF			
+MANLFPEH_00514	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+MANLFPEH_00515	gene	426	fabZ			
+MANLFPEH_00515	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+MANLFPEH_00516	gene	1338				
+MANLFPEH_00516	CDS	1338				Nucleobase transporter PlUacP
+MANLFPEH_00517	gene	570	xpt			
+MANLFPEH_00517	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+MANLFPEH_00518	gene	882				
+MANLFPEH_00518	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+MANLFPEH_00519	gene	387				
+MANLFPEH_00519	CDS	387				hypothetical protein
+MANLFPEH_00520	gene	486	pheS			
+MANLFPEH_00520	CDS	486	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+MANLFPEH_00521	gene	2391	pheT			
+MANLFPEH_00521	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+MANLFPEH_00522	gene	1557	ykoD_2			
+MANLFPEH_00522	CDS	1557	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+MANLFPEH_00523	gene	705				
+MANLFPEH_00523	CDS	705				hypothetical protein
+MANLFPEH_00524	gene	609				
+MANLFPEH_00524	CDS	609				hypothetical protein
+MANLFPEH_00525	gene	1719				
+MANLFPEH_00525	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+MANLFPEH_00526	gene	1122	btuD_2			
+MANLFPEH_00526	CDS	1122	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MANLFPEH_00527	gene	147				
+MANLFPEH_00527	CDS	147				hypothetical protein
+MANLFPEH_00528	gene	228				
+MANLFPEH_00528	CDS	228				hypothetical protein
+MANLFPEH_00529	gene	225				
+MANLFPEH_00529	CDS	225				hypothetical protein
+MANLFPEH_00530	gene	1239				
+MANLFPEH_00530	CDS	1239				hypothetical protein
+MANLFPEH_00531	gene	1677	fhs			
+MANLFPEH_00531	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+MANLFPEH_00532	gene	1143				
+MANLFPEH_00532	CDS	1143				hypothetical protein
+MANLFPEH_00533	gene	1170				
+MANLFPEH_00533	CDS	1170				hypothetical protein
+MANLFPEH_00534	gene	867				
+MANLFPEH_00534	CDS	867				hypothetical protein
+MANLFPEH_00535	gene	1056				
+MANLFPEH_00535	CDS	1056				hypothetical protein
+MANLFPEH_00536	gene	927				
+MANLFPEH_00536	CDS	927				hypothetical protein
+MANLFPEH_00537	gene	1698				
+MANLFPEH_00537	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+MANLFPEH_00538	gene	1764				
+MANLFPEH_00538	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MANLFPEH_00539	gene	1782				
+MANLFPEH_00539	CDS	1782				hypothetical protein
+MANLFPEH_00540	gene	2415				
+MANLFPEH_00540	CDS	2415				hypothetical protein
+MANLFPEH_00541	gene	2109	nrdE			
+MANLFPEH_00541	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+MANLFPEH_00542	gene	987	nrdF			
+MANLFPEH_00542	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+MANLFPEH_00543	gene	1164	ugtP_1			
+MANLFPEH_00543	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+MANLFPEH_00544	gene	690				
+MANLFPEH_00544	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+MANLFPEH_00545	gene	1125	fusA_1			
+MANLFPEH_00545	CDS	1125	fusA_1		COG0480	Elongation factor G
+MANLFPEH_00546	gene	1194	tuf			
+MANLFPEH_00546	CDS	1194	tuf		COG0050	Elongation factor Tu
+MANLFPEH_00547	gene	828	exoA			
+MANLFPEH_00547	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+MANLFPEH_00548	gene	654				
+MANLFPEH_00548	CDS	654				hypothetical protein
+MANLFPEH_00549	gene	1206	lysC			
+MANLFPEH_00549	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+MANLFPEH_00550	gene	984	asd			
+MANLFPEH_00550	CDS	984	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+MANLFPEH_00551	gene	900	dapA_1			
+MANLFPEH_00551	CDS	900	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MANLFPEH_00552	gene	2547				
+MANLFPEH_00552	CDS	2547				hypothetical protein
+MANLFPEH_00553	gene	678	lolD_1			
+MANLFPEH_00553	CDS	678	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MANLFPEH_00554	gene	1653				
+MANLFPEH_00554	CDS	1653		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MANLFPEH_00555	gene	1479				
+MANLFPEH_00555	CDS	1479				hypothetical protein
+MANLFPEH_00556	gene	987	dnaJ			
+MANLFPEH_00556	CDS	987	dnaJ		COG0484	Chaperone protein DnaJ
+MANLFPEH_00557	gene	717				
+MANLFPEH_00557	CDS	717				hypothetical protein
+MANLFPEH_00558	gene	867	comEC			
+MANLFPEH_00558	CDS	867	comEC		COG0658	ComE operon protein 3
+MANLFPEH_00559	gene	906				
+MANLFPEH_00559	CDS	906				hypothetical protein
+MANLFPEH_00560	gene	1290	eis			
+MANLFPEH_00560	CDS	1290	eis	2.3.1.-		N-acetyltransferase Eis
+MANLFPEH_00561	gene	1236				
+MANLFPEH_00561	CDS	1236				hypothetical protein
+MANLFPEH_00562	gene	1038	yqeN			
+MANLFPEH_00562	CDS	1038	yqeN		COG1466	putative protein YqeN
+MANLFPEH_00563	gene	630				
+MANLFPEH_00563	CDS	630				hypothetical protein
+MANLFPEH_00564	gene	492	ycdZ			
+MANLFPEH_00564	CDS	492	ycdZ			Inner membrane protein YcdZ
+MANLFPEH_00565	gene	870	sigF			
+MANLFPEH_00565	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+MANLFPEH_00566	gene	531				
+MANLFPEH_00566	CDS	531				hypothetical protein
+MANLFPEH_00567	gene	1425	accC			
+MANLFPEH_00567	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+MANLFPEH_00568	gene	858	accD			
+MANLFPEH_00568	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+MANLFPEH_00569	gene	744	accA			
+MANLFPEH_00569	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+MANLFPEH_00570	gene	480				
+MANLFPEH_00570	CDS	480				hypothetical protein
+MANLFPEH_00571	gene	1017	fabH			
+MANLFPEH_00571	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+MANLFPEH_00572	gene	225	acpP_1			
+MANLFPEH_00572	CDS	225	acpP_1		COG0236	Acyl carrier protein
+MANLFPEH_00573	gene	699	rplA			
+MANLFPEH_00573	CDS	699	rplA			50S ribosomal protein L1
+MANLFPEH_00574	gene	426	rplK			
+MANLFPEH_00574	CDS	426	rplK		COG0080	50S ribosomal protein L11
+MANLFPEH_00575	gene	543	nusG			
+MANLFPEH_00575	CDS	543	nusG			Transcription termination/antitermination protein NusG
+MANLFPEH_00576	gene	207	secE			
+MANLFPEH_00576	CDS	207	secE			Protein translocase subunit SecE
+MANLFPEH_00577	gene	150	rpmG2			
+MANLFPEH_00577	CDS	150	rpmG2			50S ribosomal protein L33 2
+MANLFPEH_00578	gene	489	queT			
+MANLFPEH_00578	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+MANLFPEH_00579	gene	696				
+MANLFPEH_00579	CDS	696				hypothetical protein
+MANLFPEH_00580	gene	1224	pepT			
+MANLFPEH_00580	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+MANLFPEH_00581	gene	75				
+MANLFPEH_00581	tRNA	75				tRNA-Arg(tcg)
+MANLFPEH_00582	gene	402				
+MANLFPEH_00582	CDS	402				hypothetical protein
+MANLFPEH_00583	gene	75				
+MANLFPEH_00583	tRNA	75				tRNA-Arg(cct)
+MANLFPEH_00584	gene	1200	gerN			
+MANLFPEH_00584	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+MANLFPEH_00585	gene	108				
+MANLFPEH_00585	CDS	108				hypothetical protein
+MANLFPEH_00586	gene	1032				
+MANLFPEH_00586	CDS	1032				hypothetical protein
+MANLFPEH_00587	gene	834				
+MANLFPEH_00587	CDS	834				hypothetical protein
+MANLFPEH_00588	gene	732				
+MANLFPEH_00588	CDS	732				hypothetical protein
+MANLFPEH_00589	gene	1218	dctA			
+MANLFPEH_00589	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+MANLFPEH_00590	gene	912	pyrB			
+MANLFPEH_00590	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+MANLFPEH_00591	gene	690	pyrK			
+MANLFPEH_00591	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+MANLFPEH_00592	gene	903	pyrD			
+MANLFPEH_00592	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+MANLFPEH_00593	gene	582	pyrE			
+MANLFPEH_00593	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+MANLFPEH_00594	gene	708	mutS2_2			
+MANLFPEH_00594	CDS	708	mutS2_2	3.1.-.-		Endonuclease MutS2
+MANLFPEH_00595	gene	468				
+MANLFPEH_00595	CDS	468				hypothetical protein
+MANLFPEH_00596	gene	1701	argS			
+MANLFPEH_00596	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+MANLFPEH_00597	gene	1455				
+MANLFPEH_00597	CDS	1455				hypothetical protein
+MANLFPEH_00598	gene	240				
+MANLFPEH_00598	CDS	240				hypothetical protein
+MANLFPEH_00599	gene	513				
+MANLFPEH_00599	CDS	513				hypothetical protein
+MANLFPEH_00600	gene	468				
+MANLFPEH_00600	CDS	468				hypothetical protein
+MANLFPEH_00601	gene	633				
+MANLFPEH_00601	CDS	633				hypothetical protein
+MANLFPEH_00602	gene	1401	rne			
+MANLFPEH_00602	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+MANLFPEH_00603	gene	921	rbn			
+MANLFPEH_00603	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+MANLFPEH_00604	gene	462	crcB_1			
+MANLFPEH_00604	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+MANLFPEH_00605	gene	348	crcB_2			
+MANLFPEH_00605	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+MANLFPEH_00606	gene	624	recX			
+MANLFPEH_00606	CDS	624	recX			Regulatory protein RecX
+MANLFPEH_00607	gene	696	nadD			
+MANLFPEH_00607	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+MANLFPEH_00608	gene	576				
+MANLFPEH_00608	CDS	576				hypothetical protein
+MANLFPEH_00609	gene	351	rsfS			
+MANLFPEH_00609	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+MANLFPEH_00610	gene	393	rpsI			
+MANLFPEH_00610	CDS	393	rpsI			30S ribosomal protein S9
+MANLFPEH_00611	gene	429	rplM			
+MANLFPEH_00611	CDS	429	rplM		COG0102	50S ribosomal protein L13
+MANLFPEH_00612	gene	1254				
+MANLFPEH_00612	CDS	1254				hypothetical protein
+MANLFPEH_00613	gene	918				
+MANLFPEH_00613	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+MANLFPEH_00614	gene	1071				
+MANLFPEH_00614	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+MANLFPEH_00615	gene	762	truA			
+MANLFPEH_00615	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+MANLFPEH_00616	gene	852				
+MANLFPEH_00616	CDS	852				hypothetical protein
+MANLFPEH_00617	gene	885				
+MANLFPEH_00617	CDS	885				hypothetical protein
+MANLFPEH_00618	gene	4311	polC_1			
+MANLFPEH_00618	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+MANLFPEH_00619	gene	699				
+MANLFPEH_00619	CDS	699				hypothetical protein
+MANLFPEH_00620	gene	462				
+MANLFPEH_00620	CDS	462				hypothetical protein
+MANLFPEH_00621	gene	246				
+MANLFPEH_00621	CDS	246				hypothetical protein
+MANLFPEH_00622	gene	1056	epsF			
+MANLFPEH_00622	CDS	1056	epsF		COG1459	Type II secretion system protein F
+MANLFPEH_00623	gene	390				
+MANLFPEH_00623	CDS	390				hypothetical protein
+MANLFPEH_00624	gene	1401				
+MANLFPEH_00624	CDS	1401				hypothetical protein
+MANLFPEH_00625	gene	435				
+MANLFPEH_00625	CDS	435				hypothetical protein
+MANLFPEH_00626	gene	1068				
+MANLFPEH_00626	CDS	1068				hypothetical protein
+MANLFPEH_00627	gene	375				
+MANLFPEH_00627	CDS	375				hypothetical protein
+MANLFPEH_00628	gene	1614				
+MANLFPEH_00628	CDS	1614				hypothetical protein
+MANLFPEH_00629	gene	1362	murC			
+MANLFPEH_00629	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+MANLFPEH_00630	gene	834	purR			
+MANLFPEH_00630	CDS	834	purR		COG0503	Pur operon repressor
+MANLFPEH_00631	gene	651				
+MANLFPEH_00631	CDS	651				hypothetical protein
+MANLFPEH_00632	gene	1392	glmU_1			
+MANLFPEH_00632	CDS	1392	glmU_1			Bifunctional protein GlmU
+MANLFPEH_00633	gene	957	prs			
+MANLFPEH_00633	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MANLFPEH_00634	gene	1065	pilT			
+MANLFPEH_00634	CDS	1065	pilT		COG2805	Twitching mobility protein
+MANLFPEH_00635	gene	843	recD2			
+MANLFPEH_00635	CDS	843	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+MANLFPEH_00636	gene	771				
+MANLFPEH_00636	CDS	771				hypothetical protein
+MANLFPEH_00637	gene	540	folT			
+MANLFPEH_00637	CDS	540	folT			Folate transporter FolT
+MANLFPEH_00638	gene	2691	secA_2			
+MANLFPEH_00638	CDS	2691	secA_2			Protein translocase subunit SecA
+MANLFPEH_00639	gene	1671	norR			
+MANLFPEH_00639	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+MANLFPEH_00640	gene	651				
+MANLFPEH_00640	CDS	651				hypothetical protein
+MANLFPEH_00641	gene	507	tpx			
+MANLFPEH_00641	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+MANLFPEH_00642	gene	462	mutX			
+MANLFPEH_00642	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+MANLFPEH_00643	gene	279	yjdJ			
+MANLFPEH_00643	CDS	279	yjdJ		COG2388	putative protein YjdJ
+MANLFPEH_00644	gene	825	ydjP			
+MANLFPEH_00644	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+MANLFPEH_00645	gene	1764	rqcH			
+MANLFPEH_00645	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+MANLFPEH_00646	gene	525	pyrR			
+MANLFPEH_00646	CDS	525	pyrR			Bifunctional protein PyrR
+MANLFPEH_00647	gene	255				
+MANLFPEH_00647	CDS	255				hypothetical protein
+MANLFPEH_00648	gene	1188	norV			
+MANLFPEH_00648	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+MANLFPEH_00649	gene	654				
+MANLFPEH_00649	CDS	654				hypothetical protein
+MANLFPEH_00650	gene	678				
+MANLFPEH_00650	CDS	678				hypothetical protein
+MANLFPEH_00651	gene	675				
+MANLFPEH_00651	CDS	675				hypothetical protein
+MANLFPEH_00652	gene	636				
+MANLFPEH_00652	CDS	636				hypothetical protein
+MANLFPEH_00653	gene	297				
+MANLFPEH_00653	CDS	297				hypothetical protein
+MANLFPEH_00654	gene	837				
+MANLFPEH_00654	CDS	837				hypothetical protein
+MANLFPEH_00655	gene	435				
+MANLFPEH_00655	CDS	435				hypothetical protein
+MANLFPEH_00656	gene	855				
+MANLFPEH_00656	CDS	855				hypothetical protein
+MANLFPEH_00657	gene	3747	rpoB			
+MANLFPEH_00657	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+MANLFPEH_00658	gene	96				
+MANLFPEH_00658	CDS	96				hypothetical protein
+MANLFPEH_00659	gene	3555	rpoC			
+MANLFPEH_00659	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+MANLFPEH_00660	gene	2043	ftsH			
+MANLFPEH_00660	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+MANLFPEH_00661	gene	1380	tilS			
+MANLFPEH_00661	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+MANLFPEH_00662	gene	414				
+MANLFPEH_00662	CDS	414				hypothetical protein
+MANLFPEH_00663	gene	813	murI			
+MANLFPEH_00663	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+MANLFPEH_00664	gene	678	rspR_2			
+MANLFPEH_00664	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+MANLFPEH_00665	gene	897	ispE			
+MANLFPEH_00665	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MANLFPEH_00666	gene	783				
+MANLFPEH_00666	CDS	783				hypothetical protein
+MANLFPEH_00667	gene	684				
+MANLFPEH_00667	CDS	684				hypothetical protein
+MANLFPEH_00668	gene	768	prsA_2			
+MANLFPEH_00668	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+MANLFPEH_00669	gene	444				
+MANLFPEH_00669	CDS	444				hypothetical protein
+MANLFPEH_00670	gene	465				
+MANLFPEH_00670	CDS	465				hypothetical protein
+MANLFPEH_00671	gene	453				
+MANLFPEH_00671	CDS	453				hypothetical protein
+MANLFPEH_00672	gene	201	cspA			
+MANLFPEH_00672	CDS	201	cspA		COG1278	Cold shock protein CspA
+MANLFPEH_00673	gene	825	pdxY			
+MANLFPEH_00673	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+MANLFPEH_00674	gene	1326				
+MANLFPEH_00674	CDS	1326				hypothetical protein
+MANLFPEH_00675	gene	825	aroF			
+MANLFPEH_00675	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+MANLFPEH_00676	gene	1815	aroB			
+MANLFPEH_00676	CDS	1815	aroB	4.2.3.4		3-dehydroquinate synthase
+MANLFPEH_00677	gene	852				
+MANLFPEH_00677	CDS	852				hypothetical protein
+MANLFPEH_00678	gene	1353	mepA_3			
+MANLFPEH_00678	CDS	1353	mepA_3		COG0534	Multidrug export protein MepA
+MANLFPEH_00679	gene	678	srtA			
+MANLFPEH_00679	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+MANLFPEH_00680	gene	921				
+MANLFPEH_00680	CDS	921				hypothetical protein
+MANLFPEH_00681	gene	477	purE			
+MANLFPEH_00681	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MANLFPEH_00682	gene	2481				
+MANLFPEH_00682	CDS	2481				hypothetical protein
+MANLFPEH_00683	gene	708	ytrE			
+MANLFPEH_00683	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+MANLFPEH_00684	gene	279				
+MANLFPEH_00684	CDS	279				hypothetical protein
+MANLFPEH_00685	gene	1506	glpK			
+MANLFPEH_00685	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+MANLFPEH_00686	gene	696	ureG			
+MANLFPEH_00686	CDS	696	ureG			Urease accessory protein UreG
+MANLFPEH_00687	gene	996	btuD_3			
+MANLFPEH_00687	CDS	996	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MANLFPEH_00688	gene	681	tgnD			
+MANLFPEH_00688	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+MANLFPEH_00689	gene	498				
+MANLFPEH_00689	CDS	498				hypothetical protein
+MANLFPEH_00690	gene	993				
+MANLFPEH_00690	CDS	993				hypothetical protein
+MANLFPEH_00691	gene	672	cmpB			
+MANLFPEH_00691	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+MANLFPEH_00692	gene	600	fbpC			
+MANLFPEH_00692	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+MANLFPEH_00693	gene	1062	lytC_2			
+MANLFPEH_00693	CDS	1062	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MANLFPEH_00694	gene	912	cmpR			
+MANLFPEH_00694	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+MANLFPEH_00695	gene	201				
+MANLFPEH_00695	CDS	201				hypothetical protein
+MANLFPEH_00696	gene	1404	lysN_2			
+MANLFPEH_00696	CDS	1404	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+MANLFPEH_00697	gene	234				
+MANLFPEH_00697	CDS	234				hypothetical protein
+MANLFPEH_00698	gene	1014	ccpA			
+MANLFPEH_00698	CDS	1014	ccpA		COG1609	Catabolite control protein A
+MANLFPEH_00699	gene	228	acpP_2			
+MANLFPEH_00699	CDS	228	acpP_2			Acyl carrier protein
+MANLFPEH_00700	gene	672				
+MANLFPEH_00700	CDS	672				hypothetical protein
+MANLFPEH_00701	gene	1521				
+MANLFPEH_00701	CDS	1521				hypothetical protein
+MANLFPEH_00702	gene	510				
+MANLFPEH_00702	CDS	510				hypothetical protein
+MANLFPEH_00703	gene	453				
+MANLFPEH_00703	CDS	453				hypothetical protein
+MANLFPEH_00704	gene	396				
+MANLFPEH_00704	CDS	396				hypothetical protein
+MANLFPEH_00705	gene	231				
+MANLFPEH_00705	CDS	231				hypothetical protein
+MANLFPEH_00706	gene	213				
+MANLFPEH_00706	CDS	213				hypothetical protein
+MANLFPEH_00707	gene	852				
+MANLFPEH_00707	CDS	852				hypothetical protein
+MANLFPEH_00708	gene	3417				
+MANLFPEH_00708	CDS	3417				hypothetical protein
+MANLFPEH_00709	gene	885	dapA_2			
+MANLFPEH_00709	CDS	885	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MANLFPEH_00710	gene	1194	sdaB			
+MANLFPEH_00710	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+MANLFPEH_00711	gene	477				
+MANLFPEH_00711	CDS	477				hypothetical protein
+MANLFPEH_00712	gene	657				
+MANLFPEH_00712	CDS	657				hypothetical protein
+MANLFPEH_00713	gene	258				
+MANLFPEH_00713	CDS	258				hypothetical protein
+MANLFPEH_00714	gene	438				
+MANLFPEH_00714	CDS	438				hypothetical protein
+MANLFPEH_00715	gene	849				
+MANLFPEH_00715	CDS	849				hypothetical protein
+MANLFPEH_00716	gene	978				
+MANLFPEH_00716	CDS	978				hypothetical protein
+MANLFPEH_00717	gene	1296	ftsY			
+MANLFPEH_00717	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+MANLFPEH_00718	gene	3552	smc_2			
+MANLFPEH_00718	CDS	3552	smc_2		COG1196	Chromosome partition protein Smc
+MANLFPEH_00719	gene	1071				
+MANLFPEH_00719	CDS	1071				hypothetical protein
+MANLFPEH_00720	gene	708	rnc			
+MANLFPEH_00720	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+MANLFPEH_00721	gene	285	efp			
+MANLFPEH_00721	CDS	285	efp		COG0231	Elongation factor P
+MANLFPEH_00722	gene	1083	buk2			
+MANLFPEH_00722	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+MANLFPEH_00723	gene	678				
+MANLFPEH_00723	CDS	678				hypothetical protein
+MANLFPEH_00724	gene	216	rsxB_1			
+MANLFPEH_00724	CDS	216	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+MANLFPEH_00725	gene	1065	padG			
+MANLFPEH_00725	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+MANLFPEH_00726	gene	780	korB			
+MANLFPEH_00726	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+MANLFPEH_00727	gene	555				
+MANLFPEH_00727	CDS	555				hypothetical protein
+MANLFPEH_00728	gene	1368	glmM			
+MANLFPEH_00728	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+MANLFPEH_00729	gene	177				
+MANLFPEH_00729	CDS	177				hypothetical protein
+MANLFPEH_00730	gene	1788	pepF1			
+MANLFPEH_00730	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+MANLFPEH_00731	gene	528				
+MANLFPEH_00731	CDS	528				hypothetical protein
+MANLFPEH_00732	gene	1083	hhoB			
+MANLFPEH_00732	CDS	1083	hhoB			Putative serine protease HhoB
+MANLFPEH_00733	gene	1326	pepC			
+MANLFPEH_00733	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+MANLFPEH_00734	gene	1311				
+MANLFPEH_00734	CDS	1311				hypothetical protein
+MANLFPEH_00735	gene	1896	ftsH4			
+MANLFPEH_00735	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+MANLFPEH_00736	gene	888	ispH			
+MANLFPEH_00736	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+MANLFPEH_00737	gene	615	plsC			
+MANLFPEH_00737	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+MANLFPEH_00738	gene	660	cmk			
+MANLFPEH_00738	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+MANLFPEH_00739	gene	1257				
+MANLFPEH_00739	CDS	1257			COG2081	putative protein
+MANLFPEH_00740	gene	651	pspA_2			
+MANLFPEH_00740	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+MANLFPEH_00741	gene	591				
+MANLFPEH_00741	CDS	591				hypothetical protein
+MANLFPEH_00742	gene	1500	guaB			
+MANLFPEH_00742	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+MANLFPEH_00743	gene	750				
+MANLFPEH_00743	CDS	750				hypothetical protein
+MANLFPEH_00744	gene	1671	rnjA			
+MANLFPEH_00744	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+MANLFPEH_00745	gene	633				
+MANLFPEH_00745	CDS	633				hypothetical protein
+MANLFPEH_00746	gene	762	scpA			
+MANLFPEH_00746	CDS	762	scpA		COG1354	Segregation and condensation protein A
+MANLFPEH_00747	gene	519	scpB			
+MANLFPEH_00747	CDS	519	scpB		COG1386	Segregation and condensation protein B
+MANLFPEH_00748	gene	1284	algC			
+MANLFPEH_00748	CDS	1284	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+MANLFPEH_00749	gene	603	maf			
+MANLFPEH_00749	CDS	603	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+MANLFPEH_00750	gene	1182	fieF			
+MANLFPEH_00750	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+MANLFPEH_00751	gene	792				
+MANLFPEH_00751	CDS	792				hypothetical protein
+MANLFPEH_00752	gene	303				
+MANLFPEH_00752	CDS	303				hypothetical protein
+MANLFPEH_00753	gene	1218				
+MANLFPEH_00753	CDS	1218		6.3.1.12		D-aspartate ligase
+MANLFPEH_00754	gene	720				
+MANLFPEH_00754	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+MANLFPEH_00755	gene	210				
+MANLFPEH_00755	CDS	210				hypothetical protein
+MANLFPEH_00756	gene	1344	rsmB			
+MANLFPEH_00756	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+MANLFPEH_00757	gene	1038	rlmN			
+MANLFPEH_00757	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+MANLFPEH_00758	gene	750	stp			
+MANLFPEH_00758	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+MANLFPEH_00759	gene	1881	prkC_1			
+MANLFPEH_00759	CDS	1881	prkC_1	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+MANLFPEH_00760	gene	735	fabG_2			
+MANLFPEH_00760	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MANLFPEH_00761	gene	1326				
+MANLFPEH_00761	CDS	1326				IS1380 family transposase ISRgn3
+MANLFPEH_00762	gene	858	nadC_2			
+MANLFPEH_00762	CDS	858	nadC_2	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MANLFPEH_00763	gene	1302	nadB_2			
+MANLFPEH_00763	CDS	1302	nadB_2	1.4.3.16	COG0029	L-aspartate oxidase
+MANLFPEH_00764	gene	915	nadA_2			
+MANLFPEH_00764	CDS	915	nadA_2	2.5.1.72	COG0379	Quinolinate synthase A
+MANLFPEH_00765	gene	879				
+MANLFPEH_00765	CDS	879				hypothetical protein
+MANLFPEH_00766	gene	543				
+MANLFPEH_00766	CDS	543				hypothetical protein
+MANLFPEH_00767	gene	198				
+MANLFPEH_00767	CDS	198				hypothetical protein
+MANLFPEH_00768	gene	402				
+MANLFPEH_00768	CDS	402				hypothetical protein
+MANLFPEH_00769	gene	522	dcd			
+MANLFPEH_00769	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+MANLFPEH_00770	gene	969	bioB_2			
+MANLFPEH_00770	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+MANLFPEH_00771	gene	933	hemC			
+MANLFPEH_00771	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+MANLFPEH_00772	gene	1524	cysG			
+MANLFPEH_00772	CDS	1524	cysG	4.99.1.4		Siroheme synthase
+MANLFPEH_00773	gene	969	hemB			
+MANLFPEH_00773	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+MANLFPEH_00774	gene	1587	clcA			
+MANLFPEH_00774	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+MANLFPEH_00775	gene	858	folD			
+MANLFPEH_00775	CDS	858	folD			Bifunctional protein FolD protein
+MANLFPEH_00776	gene	636	fchA			
+MANLFPEH_00776	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+MANLFPEH_00777	gene	141				
+MANLFPEH_00777	CDS	141				hypothetical protein
+MANLFPEH_00778	gene	1980	htpG			
+MANLFPEH_00778	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+MANLFPEH_00779	gene	201				
+MANLFPEH_00779	CDS	201				hypothetical protein
+MANLFPEH_00780	gene	1056	ispG			
+MANLFPEH_00780	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+MANLFPEH_00781	gene	1011	mmpA			
+MANLFPEH_00781	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+MANLFPEH_00782	gene	1188	dxr			
+MANLFPEH_00782	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+MANLFPEH_00783	gene	411				
+MANLFPEH_00783	CDS	411				hypothetical protein
+MANLFPEH_00784	gene	642				
+MANLFPEH_00784	CDS	642				hypothetical protein
+MANLFPEH_00785	gene	1638	malP			
+MANLFPEH_00785	CDS	1638	malP	2.4.1.8		Maltose phosphorylase
+MANLFPEH_00786	gene	1662	malL			
+MANLFPEH_00786	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+MANLFPEH_00787	gene	642	ycjU			
+MANLFPEH_00787	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+MANLFPEH_00788	gene	1128	msmX			
+MANLFPEH_00788	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+MANLFPEH_00789	gene	177				
+MANLFPEH_00789	CDS	177				hypothetical protein
+MANLFPEH_00790	gene	1200	cbiG			
+MANLFPEH_00790	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+MANLFPEH_00791	gene	726	cbiH			
+MANLFPEH_00791	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+MANLFPEH_00792	gene	765	cbiJ			
+MANLFPEH_00792	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+MANLFPEH_00793	gene	1545				
+MANLFPEH_00793	CDS	1545				hypothetical protein
+MANLFPEH_00794	gene	1104				
+MANLFPEH_00794	CDS	1104				hypothetical protein
+MANLFPEH_00795	gene	675	coaX			
+MANLFPEH_00795	CDS	675	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+MANLFPEH_00796	gene	960	dusB			
+MANLFPEH_00796	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+MANLFPEH_00797	gene	1548	carA_2			
+MANLFPEH_00797	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+MANLFPEH_00798	gene	1014	gloB_2			
+MANLFPEH_00798	CDS	1014	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+MANLFPEH_00799	gene	828	COQ3			
+MANLFPEH_00799	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+MANLFPEH_00800	gene	1026				
+MANLFPEH_00800	CDS	1026		2.7.2.4	COG0527	Aspartate kinase
+MANLFPEH_00801	gene	2145				
+MANLFPEH_00801	CDS	2145				hypothetical protein
+MANLFPEH_00802	gene	1230				
+MANLFPEH_00802	CDS	1230				hypothetical protein
+MANLFPEH_00803	gene	1560	murJ			
+MANLFPEH_00803	CDS	1560	murJ		COG0728	putative lipid II flippase MurJ
+MANLFPEH_00804	gene	204				
+MANLFPEH_00804	CDS	204				hypothetical protein
+MANLFPEH_00805	gene	264	rlmH			
+MANLFPEH_00805	CDS	264	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+MANLFPEH_00806	gene	1050				
+MANLFPEH_00806	CDS	1050				hypothetical protein
+MANLFPEH_00807	gene	990	dnaA_2			
+MANLFPEH_00807	CDS	990	dnaA_2			Chromosomal replication initiator protein DnaA
+MANLFPEH_00808	gene	1338	dnaC			
+MANLFPEH_00808	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+MANLFPEH_00809	gene	447	rplI			
+MANLFPEH_00809	CDS	447	rplI			50S ribosomal protein L9
+MANLFPEH_00810	gene	1893	gdpP			
+MANLFPEH_00810	CDS	1893	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+MANLFPEH_00811	gene	1845	dnaK			
+MANLFPEH_00811	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+MANLFPEH_00812	gene	624	grpE			
+MANLFPEH_00812	CDS	624	grpE			Protein GrpE
+MANLFPEH_00813	gene	1038	hrcA			
+MANLFPEH_00813	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+MANLFPEH_00814	gene	1926	thrZ			
+MANLFPEH_00814	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+MANLFPEH_00815	gene	780				
+MANLFPEH_00815	CDS	780				hypothetical protein
+MANLFPEH_00816	gene	732	uppS			
+MANLFPEH_00816	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+MANLFPEH_00817	gene	558	frr			
+MANLFPEH_00817	CDS	558	frr		COG0233	Ribosome-recycling factor
+MANLFPEH_00818	gene	708	pyrH			
+MANLFPEH_00818	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+MANLFPEH_00819	gene	909	tsf			
+MANLFPEH_00819	CDS	909	tsf		COG0264	Elongation factor Ts
+MANLFPEH_00820	gene	762	rpsB			
+MANLFPEH_00820	CDS	762	rpsB			30S ribosomal protein S2
+MANLFPEH_00821	gene	741	bdhA			
+MANLFPEH_00821	CDS	741	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+MANLFPEH_00822	gene	1590	clsA			
+MANLFPEH_00822	CDS	1590	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+MANLFPEH_00823	gene	267				
+MANLFPEH_00823	CDS	267				hypothetical protein
+MANLFPEH_00824	gene	1413	alsT_2			
+MANLFPEH_00824	CDS	1413	alsT_2		COG1115	Amino-acid carrier protein AlsT
+MANLFPEH_00825	gene	2403	polA			
+MANLFPEH_00825	CDS	2403	polA	2.7.7.7		DNA polymerase I
+MANLFPEH_00826	gene	606	coaE			
+MANLFPEH_00826	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+MANLFPEH_00827	gene	561	mltC			
+MANLFPEH_00827	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+MANLFPEH_00828	gene	213				
+MANLFPEH_00828	CDS	213				hypothetical protein
+MANLFPEH_00829	gene	1431				
+MANLFPEH_00829	CDS	1431				hypothetical protein
+MANLFPEH_00830	gene	375				
+MANLFPEH_00830	CDS	375				hypothetical protein
+MANLFPEH_00831	gene	1551	ybiT_1			
+MANLFPEH_00831	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+MANLFPEH_00832	gene	915				
+MANLFPEH_00832	CDS	915				hypothetical protein
+MANLFPEH_00833	gene	1551	rsxB_2			
+MANLFPEH_00833	CDS	1551	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+MANLFPEH_00834	gene	1236	baiN			
+MANLFPEH_00834	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+MANLFPEH_00835	gene	795				
+MANLFPEH_00835	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MANLFPEH_00836	gene	531	hpt_1			
+MANLFPEH_00836	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+MANLFPEH_00837	gene	1005	asnA			
+MANLFPEH_00837	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+MANLFPEH_00838	gene	1230				
+MANLFPEH_00838	CDS	1230				hypothetical protein
+MANLFPEH_00839	gene	459				
+MANLFPEH_00839	CDS	459				hypothetical protein
+MANLFPEH_00840	gene	1059	speA			
+MANLFPEH_00840	CDS	1059	speA	4.1.1.19	COG1982	Arginine decarboxylase
+MANLFPEH_00841	gene	702	tmk			
+MANLFPEH_00841	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+MANLFPEH_00842	gene	939				
+MANLFPEH_00842	CDS	939				hypothetical protein
+MANLFPEH_00843	gene	897				
+MANLFPEH_00843	CDS	897				hypothetical protein
+MANLFPEH_00844	gene	750	yfiC			
+MANLFPEH_00844	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+MANLFPEH_00845	gene	837	rsmI			
+MANLFPEH_00845	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+MANLFPEH_00846	gene	819	rnfC			
+MANLFPEH_00846	CDS	819	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+MANLFPEH_00847	gene	987	rnfD			
+MANLFPEH_00847	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+MANLFPEH_00848	gene	567	rnfG			
+MANLFPEH_00848	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+MANLFPEH_00849	gene	594	rnfE			
+MANLFPEH_00849	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+MANLFPEH_00850	gene	576	rnfA			
+MANLFPEH_00850	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+MANLFPEH_00851	gene	864	rnfB			
+MANLFPEH_00851	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+MANLFPEH_00852	gene	687				
+MANLFPEH_00852	CDS	687				hypothetical protein
+MANLFPEH_00853	gene	567	pinR			
+MANLFPEH_00853	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+MANLFPEH_00854	gene	1620	ybiT_2			
+MANLFPEH_00854	CDS	1620	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+MANLFPEH_00855	gene	858	pbuO			
+MANLFPEH_00855	CDS	858	pbuO		COG2252	Guanine/hypoxanthine permease PbuO
+MANLFPEH_00856	gene	75				
+MANLFPEH_00856	tRNA	75				tRNA-Arg(acg)
+MANLFPEH_00857	gene	1380	mnmE			
+MANLFPEH_00857	CDS	1380	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+MANLFPEH_00858	gene	1881	mnmG			
+MANLFPEH_00858	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MANLFPEH_00859	gene	729	rsmG			
+MANLFPEH_00859	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+MANLFPEH_00860	gene	1431	pepD_2			
+MANLFPEH_00860	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+MANLFPEH_00861	gene	678	purC			
+MANLFPEH_00861	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MANLFPEH_00862	gene	2526	valS			
+MANLFPEH_00862	CDS	2526	valS	6.1.1.9		Valine--tRNA ligase
+MANLFPEH_00863	gene	1683	recN			
+MANLFPEH_00863	CDS	1683	recN		COG0497	DNA repair protein RecN
+MANLFPEH_00864	gene	843	tlyA			
+MANLFPEH_00864	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+MANLFPEH_00865	gene	1947	dxs			
+MANLFPEH_00865	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+MANLFPEH_00866	gene	297				
+MANLFPEH_00866	CDS	297				hypothetical protein
+MANLFPEH_00867	gene	588				
+MANLFPEH_00867	CDS	588				hypothetical protein
+MANLFPEH_00868	gene	690	ecfT_1			
+MANLFPEH_00868	CDS	690	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+MANLFPEH_00869	gene	1371	ykoD_3			
+MANLFPEH_00869	CDS	1371	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+MANLFPEH_00870	gene	795	COQ5			
+MANLFPEH_00870	CDS	795	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MANLFPEH_00871	gene	876	hslO			
+MANLFPEH_00871	CDS	876	hslO		COG1281	33 kDa chaperonin
+MANLFPEH_00872	gene	2070	glyS			
+MANLFPEH_00872	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+MANLFPEH_00873	gene	885	glyQ			
+MANLFPEH_00873	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+MANLFPEH_00874	gene	609				
+MANLFPEH_00874	CDS	609				hypothetical protein
+MANLFPEH_00875	gene	747	recO			
+MANLFPEH_00875	CDS	747	recO		COG1381	DNA repair protein RecO
+MANLFPEH_00876	gene	261				
+MANLFPEH_00876	CDS	261				hypothetical protein
+MANLFPEH_00877	gene	2046	relA			
+MANLFPEH_00877	CDS	2046	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+MANLFPEH_00878	gene	450	dtd			
+MANLFPEH_00878	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+MANLFPEH_00879	gene	627	gloC			
+MANLFPEH_00879	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+MANLFPEH_00880	gene	1560				
+MANLFPEH_00880	CDS	1560				hypothetical protein
+MANLFPEH_00881	gene	855	malQ			
+MANLFPEH_00881	CDS	855	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+MANLFPEH_00882	gene	1086	potD			
+MANLFPEH_00882	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+MANLFPEH_00883	gene	807				
+MANLFPEH_00883	CDS	807				hypothetical protein
+MANLFPEH_00884	gene	867	potB			
+MANLFPEH_00884	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+MANLFPEH_00885	gene	1044	potA			
+MANLFPEH_00885	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+MANLFPEH_00886	gene	438	puuR			
+MANLFPEH_00886	CDS	438	puuR			HTH-type transcriptional regulator PuuR
+MANLFPEH_00887	gene	837	lnrL_2			
+MANLFPEH_00887	CDS	837	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MANLFPEH_00888	gene	1119				
+MANLFPEH_00888	CDS	1119				hypothetical protein
+MANLFPEH_00889	gene	1116				
+MANLFPEH_00889	CDS	1116				hypothetical protein
+MANLFPEH_00890	gene	597				
+MANLFPEH_00890	CDS	597				hypothetical protein
+MANLFPEH_00891	gene	378				
+MANLFPEH_00891	CDS	378				hypothetical protein
+MANLFPEH_00892	gene	315				
+MANLFPEH_00892	CDS	315				hypothetical protein
+MANLFPEH_00893	gene	1065	dinG			
+MANLFPEH_00893	CDS	1065	dinG	3.1.-.-		3'-5' exonuclease DinG
+MANLFPEH_00894	gene	1158				
+MANLFPEH_00894	CDS	1158				hypothetical protein
+MANLFPEH_00895	gene	741				
+MANLFPEH_00895	CDS	741				hypothetical protein
+MANLFPEH_00896	gene	339				
+MANLFPEH_00896	CDS	339				hypothetical protein
+MANLFPEH_00897	gene	1020	gap_2			
+MANLFPEH_00897	CDS	1020	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+MANLFPEH_00898	gene	2439				
+MANLFPEH_00898	CDS	2439				hypothetical protein
+MANLFPEH_00899	gene	576	zapA			
+MANLFPEH_00899	CDS	576	zapA			Cell division protein ZapA
+MANLFPEH_00900	gene	870	hemW			
+MANLFPEH_00900	CDS	870	hemW		COG0635	Heme chaperone HemW
+MANLFPEH_00901	gene	1683				
+MANLFPEH_00901	CDS	1683				hypothetical protein
+MANLFPEH_00902	gene	2253	rep			
+MANLFPEH_00902	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+MANLFPEH_00903	gene	684				
+MANLFPEH_00903	CDS	684				hypothetical protein
+MANLFPEH_00904	gene	825	metQ			
+MANLFPEH_00904	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+MANLFPEH_00905	gene	654	metP			
+MANLFPEH_00905	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+MANLFPEH_00906	gene	969	metN			
+MANLFPEH_00906	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+MANLFPEH_00907	gene	354				
+MANLFPEH_00907	CDS	354				hypothetical protein
+MANLFPEH_00908	gene	1296	brnQ_4			
+MANLFPEH_00908	CDS	1296	brnQ_4		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MANLFPEH_00909	gene	1311				
+MANLFPEH_00909	CDS	1311				hypothetical protein
+MANLFPEH_00910	gene	618				
+MANLFPEH_00910	CDS	618				hypothetical protein
+MANLFPEH_00911	gene	1053	mnmA			
+MANLFPEH_00911	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+MANLFPEH_00912	gene	465	cymR			
+MANLFPEH_00912	CDS	465	cymR			HTH-type transcriptional regulator CymR
+MANLFPEH_00913	gene	1272	rarA			
+MANLFPEH_00913	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+MANLFPEH_00914	gene	777	codY			
+MANLFPEH_00914	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+MANLFPEH_00915	gene	1173				
+MANLFPEH_00915	CDS	1173				hypothetical protein
+MANLFPEH_00916	gene	300				
+MANLFPEH_00916	CDS	300				hypothetical protein
+MANLFPEH_00917	gene	1362	gabR			
+MANLFPEH_00917	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+MANLFPEH_00918	gene	1122				
+MANLFPEH_00918	CDS	1122				hypothetical protein
+MANLFPEH_00919	gene	1188	tagF			
+MANLFPEH_00919	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+MANLFPEH_00920	gene	813				
+MANLFPEH_00920	CDS	813				hypothetical protein
+MANLFPEH_00921	gene	780	tuaG			
+MANLFPEH_00921	CDS	780	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+MANLFPEH_00922	gene	501	wecA			
+MANLFPEH_00922	CDS	501	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+MANLFPEH_00923	gene	318				
+MANLFPEH_00923	CDS	318				hypothetical protein
+MANLFPEH_00924	gene	1395	alaS_2			
+MANLFPEH_00924	CDS	1395	alaS_2	6.1.1.7		Alanine--tRNA ligase
+MANLFPEH_00925	gene	954	msrAB			
+MANLFPEH_00925	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+MANLFPEH_00926	gene	678				
+MANLFPEH_00926	CDS	678				hypothetical protein
+MANLFPEH_00927	gene	816				
+MANLFPEH_00927	CDS	816				hypothetical protein
+MANLFPEH_00928	gene	786				
+MANLFPEH_00928	CDS	786				hypothetical protein
+MANLFPEH_00929	gene	258				
+MANLFPEH_00929	CDS	258				hypothetical protein
+MANLFPEH_00930	gene	495	sepF			
+MANLFPEH_00930	CDS	495	sepF			Cell division protein SepF
+MANLFPEH_00931	gene	702				
+MANLFPEH_00931	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+MANLFPEH_00932	gene	1011	gpsA			
+MANLFPEH_00932	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+MANLFPEH_00933	gene	609	plsY			
+MANLFPEH_00933	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+MANLFPEH_00934	gene	216	der			
+MANLFPEH_00934	CDS	216	der		COG1160	GTPase Der
+MANLFPEH_00935	gene	525				
+MANLFPEH_00935	CDS	525				hypothetical protein
+MANLFPEH_00936	gene	813	uppP			
+MANLFPEH_00936	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+MANLFPEH_00937	gene	1200				
+MANLFPEH_00937	CDS	1200		2.6.1.1		Aspartate aminotransferase
+MANLFPEH_00938	gene	957	galT			
+MANLFPEH_00938	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+MANLFPEH_00939	gene	1257				
+MANLFPEH_00939	CDS	1257				hypothetical protein
+MANLFPEH_00940	gene	1617	comM			
+MANLFPEH_00940	CDS	1617	comM		COG0606	Competence protein ComM
+MANLFPEH_00941	gene	771	ycfH			
+MANLFPEH_00941	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+MANLFPEH_00942	gene	1941	metG			
+MANLFPEH_00942	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+MANLFPEH_00943	gene	456	lrpC			
+MANLFPEH_00943	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+MANLFPEH_00944	gene	1062				
+MANLFPEH_00944	CDS	1062				hypothetical protein
+MANLFPEH_00945	gene	894	murE_1			
+MANLFPEH_00945	CDS	894	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MANLFPEH_00946	gene	741	mta			
+MANLFPEH_00946	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+MANLFPEH_00947	gene	1638	hcp			
+MANLFPEH_00947	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+MANLFPEH_00948	gene	594	ktrA			
+MANLFPEH_00948	CDS	594	ktrA		COG0569	Ktr system potassium uptake protein A
+MANLFPEH_00949	gene	771	aviRb			
+MANLFPEH_00949	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+MANLFPEH_00950	gene	636	ccpN			
+MANLFPEH_00950	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+MANLFPEH_00951	gene	840	yqfL			
+MANLFPEH_00951	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+MANLFPEH_00952	gene	645				
+MANLFPEH_00952	CDS	645				hypothetical protein
+MANLFPEH_00953	gene	741				
+MANLFPEH_00953	CDS	741				hypothetical protein
+MANLFPEH_00954	gene	1140	pgl			
+MANLFPEH_00954	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+MANLFPEH_00955	gene	369	rplL			
+MANLFPEH_00955	CDS	369	rplL			50S ribosomal protein L7/L12
+MANLFPEH_00956	gene	213				
+MANLFPEH_00956	CDS	213				hypothetical protein
+MANLFPEH_00957	gene	1647	gltX			
+MANLFPEH_00957	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+MANLFPEH_00958	gene	1452				
+MANLFPEH_00958	CDS	1452				hypothetical protein
+MANLFPEH_00959	gene	321				
+MANLFPEH_00959	CDS	321				hypothetical protein
+MANLFPEH_00960	gene	2373				
+MANLFPEH_00960	CDS	2373				hypothetical protein
+MANLFPEH_00961	gene	1224	mrdA			
+MANLFPEH_00961	CDS	1224	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+MANLFPEH_00962	gene	1113	mrdB			
+MANLFPEH_00962	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+MANLFPEH_00963	gene	1860				
+MANLFPEH_00963	CDS	1860				hypothetical protein
+MANLFPEH_00964	gene	1155				
+MANLFPEH_00964	CDS	1155				hypothetical protein
+MANLFPEH_00965	gene	1137				
+MANLFPEH_00965	CDS	1137				TelA-like protein
+MANLFPEH_00966	gene	1149	rlmL_2			
+MANLFPEH_00966	CDS	1149	rlmL_2		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+MANLFPEH_00967	gene	654	lon1			
+MANLFPEH_00967	CDS	654	lon1	3.4.21.53	COG0466	Lon protease 1
+MANLFPEH_00968	gene	723	engB			
+MANLFPEH_00968	CDS	723	engB			GTP-binding protein EngB
+MANLFPEH_00969	gene	546	hpt_2			
+MANLFPEH_00969	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+MANLFPEH_00970	gene	288	pagR			
+MANLFPEH_00970	CDS	288	pagR			Transcriptional repressor PagR
+MANLFPEH_00971	gene	1098	murG			
+MANLFPEH_00971	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MANLFPEH_00972	gene	1365	murD			
+MANLFPEH_00972	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MANLFPEH_00973	gene	966	mraY			
+MANLFPEH_00973	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MANLFPEH_00974	gene	2073				
+MANLFPEH_00974	CDS	2073				hypothetical protein
+MANLFPEH_00975	gene	1824	pnp			
+MANLFPEH_00975	CDS	1824	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+MANLFPEH_00976	gene	408				
+MANLFPEH_00976	CDS	408				hypothetical protein
+MANLFPEH_00977	gene	1287				
+MANLFPEH_00977	CDS	1287				hypothetical protein
+MANLFPEH_00978	gene	873	melD			
+MANLFPEH_00978	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+MANLFPEH_00979	gene	822	melC			
+MANLFPEH_00979	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+MANLFPEH_00980	gene	1332	ppdK			
+MANLFPEH_00980	CDS	1332	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+MANLFPEH_00981	gene	1233				
+MANLFPEH_00981	CDS	1233				IS256 family transposase ISCth4
+MANLFPEH_00982	gene	1011	lytC_3			
+MANLFPEH_00982	CDS	1011	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MANLFPEH_00983	gene	1818	uvrC			
+MANLFPEH_00983	CDS	1818	uvrC		COG0322	UvrABC system protein C
+MANLFPEH_00984	gene	957	rhaR_2			
+MANLFPEH_00984	CDS	957	rhaR_2			HTH-type transcriptional activator RhaR
+MANLFPEH_00985	gene	405	ecfT_2			
+MANLFPEH_00985	CDS	405	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+MANLFPEH_00986	gene	1140	patB			
+MANLFPEH_00986	CDS	1140	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+MANLFPEH_00987	gene	747	aroD			
+MANLFPEH_00987	CDS	747	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+MANLFPEH_00988	gene	1401				
+MANLFPEH_00988	CDS	1401				hypothetical protein
+MANLFPEH_00989	gene	156				
+MANLFPEH_00989	CDS	156				hypothetical protein
+MANLFPEH_00990	gene	966	whiA			
+MANLFPEH_00990	CDS	966	whiA		COG1481	putative cell division protein WhiA
+MANLFPEH_00991	gene	870				
+MANLFPEH_00991	CDS	870				hypothetical protein
+MANLFPEH_00992	gene	879	rsmA			
+MANLFPEH_00992	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+MANLFPEH_00993	gene	555	rnmV			
+MANLFPEH_00993	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+MANLFPEH_00994	gene	549				
+MANLFPEH_00994	CDS	549				hypothetical protein
+MANLFPEH_00995	gene	651				
+MANLFPEH_00995	CDS	651				hypothetical protein
+MANLFPEH_00996	gene	255				
+MANLFPEH_00996	CDS	255				hypothetical protein
+MANLFPEH_00997	gene	396				
+MANLFPEH_00997	CDS	396				hypothetical protein
+MANLFPEH_00998	gene	1974	uvrB			
+MANLFPEH_00998	CDS	1974	uvrB			UvrABC system protein B
+MANLFPEH_00999	gene	576				
+MANLFPEH_00999	CDS	576				hypothetical protein
+MANLFPEH_01000	gene	639	prpC			
+MANLFPEH_01000	CDS	639	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+MANLFPEH_01001	gene	849				
+MANLFPEH_01001	CDS	849				DegV domain-containing protein
+MANLFPEH_01002	gene	819				
+MANLFPEH_01002	CDS	819				hypothetical protein
+MANLFPEH_01003	gene	858	trmB			
+MANLFPEH_01003	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+MANLFPEH_01004	gene	510	folA			
+MANLFPEH_01004	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+MANLFPEH_01005	gene	834	thyA			
+MANLFPEH_01005	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+MANLFPEH_01006	gene	1860				
+MANLFPEH_01006	CDS	1860				hypothetical protein
+MANLFPEH_01007	gene	1233	hadB			
+MANLFPEH_01007	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+MANLFPEH_01008	gene	1212	fldA_2			
+MANLFPEH_01008	CDS	1212	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+MANLFPEH_01009	gene	2574				
+MANLFPEH_01009	CDS	2574				hypothetical protein
+MANLFPEH_01010	gene	1116				
+MANLFPEH_01010	CDS	1116		3.4.24.-	COG0612	putative zinc protease
+MANLFPEH_01011	gene	960				
+MANLFPEH_01011	CDS	960				hypothetical protein
+MANLFPEH_01012	gene	1989	tkt			
+MANLFPEH_01012	CDS	1989	tkt	2.2.1.1		Transketolase
+MANLFPEH_01013	gene	105				
+MANLFPEH_01013	rRNA	105				5S ribosomal RNA
+MANLFPEH_01014	gene	73				
+MANLFPEH_01014	tRNA	73				tRNA-Asn(gtt)
+MANLFPEH_01015	gene	74				
+MANLFPEH_01015	tRNA	74				tRNA-Glu(ttc)
+MANLFPEH_01016	gene	402	rpsK			
+MANLFPEH_01016	CDS	402	rpsK			30S ribosomal protein S11
+MANLFPEH_01017	gene	369	rpsM			
+MANLFPEH_01017	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+MANLFPEH_01018	gene	114	rpmJ			
+MANLFPEH_01018	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+MANLFPEH_01019	gene	219	infA			
+MANLFPEH_01019	CDS	219	infA		COG0361	Translation initiation factor IF-1
+MANLFPEH_01020	gene	270				
+MANLFPEH_01020	CDS	270				hypothetical protein
+MANLFPEH_01021	gene	642	adk			
+MANLFPEH_01021	CDS	642	adk	2.7.4.3		Adenylate kinase
+MANLFPEH_01022	gene	1131	secY			
+MANLFPEH_01022	CDS	1131	secY		COG0201	Protein translocase subunit SecY
+MANLFPEH_01023	gene	1143	carC_2			
+MANLFPEH_01023	CDS	1143	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+MANLFPEH_01024	gene	786	carD_2			
+MANLFPEH_01024	CDS	786	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+MANLFPEH_01025	gene	1011	carE_2			
+MANLFPEH_01025	CDS	1011	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+MANLFPEH_01026	gene	675	yknY			
+MANLFPEH_01026	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+MANLFPEH_01027	gene	1083	yknX			
+MANLFPEH_01027	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+MANLFPEH_01028	gene	1686	ileS			
+MANLFPEH_01028	CDS	1686	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+MANLFPEH_01029	gene	816				
+MANLFPEH_01029	CDS	816				hypothetical protein
+MANLFPEH_01030	gene	1494				
+MANLFPEH_01030	CDS	1494				hypothetical protein
+MANLFPEH_01031	gene	1368	mepA_4			
+MANLFPEH_01031	CDS	1368	mepA_4			Multidrug export protein MepA
+MANLFPEH_01032	gene	732				
+MANLFPEH_01032	CDS	732				hypothetical protein
+MANLFPEH_01033	gene	933	rluD			
+MANLFPEH_01033	CDS	933	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MANLFPEH_01034	gene	888	nadK			
+MANLFPEH_01034	CDS	888	nadK	2.7.1.23		NAD kinase
+MANLFPEH_01035	gene	1035	icd			
+MANLFPEH_01035	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+MANLFPEH_01036	gene	183				
+MANLFPEH_01036	CDS	183				hypothetical protein
+MANLFPEH_01037	gene	1695	pgcA			
+MANLFPEH_01037	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+MANLFPEH_01038	gene	726	gamA			
+MANLFPEH_01038	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+MANLFPEH_01039	gene	525				
+MANLFPEH_01039	CDS	525				hypothetical protein
+MANLFPEH_01040	gene	537				
+MANLFPEH_01040	CDS	537				hypothetical protein
+MANLFPEH_01041	gene	1101	dhaD			
+MANLFPEH_01041	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+MANLFPEH_01042	gene	189				
+MANLFPEH_01042	CDS	189				Rubredoxin
+MANLFPEH_01043	gene	549	chrA1			
+MANLFPEH_01043	CDS	549	chrA1			Chromate transport protein
+MANLFPEH_01044	gene	561				
+MANLFPEH_01044	CDS	561				hypothetical protein
+MANLFPEH_01045	gene	2061	mutL			
+MANLFPEH_01045	CDS	2061	mutL			DNA mismatch repair protein MutL
+MANLFPEH_01046	gene	1302	mutS			
+MANLFPEH_01046	CDS	1302	mutS			DNA mismatch repair protein MutS
+MANLFPEH_01047	gene	1800	infB			
+MANLFPEH_01047	CDS	1800	infB			Translation initiation factor IF-2
+MANLFPEH_01048	gene	348	rbfA			
+MANLFPEH_01048	CDS	348	rbfA			Ribosome-binding factor A
+MANLFPEH_01049	gene	804				
+MANLFPEH_01049	CDS	804				hypothetical protein
+MANLFPEH_01050	gene	741				
+MANLFPEH_01050	CDS	741				hypothetical protein
+MANLFPEH_01051	gene	801	artJ			
+MANLFPEH_01051	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+MANLFPEH_01052	gene	618	artQ_2			
+MANLFPEH_01052	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+MANLFPEH_01053	gene	645	artM_2			
+MANLFPEH_01053	CDS	645	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+MANLFPEH_01054	gene	777	yjjP			
+MANLFPEH_01054	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+MANLFPEH_01055	gene	678				
+MANLFPEH_01055	CDS	678				hypothetical protein
+MANLFPEH_01056	gene	216				
+MANLFPEH_01056	CDS	216				hypothetical protein
+MANLFPEH_01057	gene	74				
+MANLFPEH_01057	tRNA	74				tRNA-Gly(tcc)
+MANLFPEH_01058	gene	72				
+MANLFPEH_01058	tRNA	72				tRNA-Glu(ctc)
+MANLFPEH_01059	gene	1314	ugtP_2			
+MANLFPEH_01059	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+MANLFPEH_01060	gene	297				
+MANLFPEH_01060	CDS	297				hypothetical protein
+MANLFPEH_01061	gene	600	recR			
+MANLFPEH_01061	CDS	600	recR		COG0353	Recombination protein RecR
+MANLFPEH_01062	gene	345				
+MANLFPEH_01062	CDS	345			COG0718	Nucleoid-associated protein
+MANLFPEH_01063	gene	330				
+MANLFPEH_01063	CDS	330				hypothetical protein
+MANLFPEH_01064	gene	594	purN			
+MANLFPEH_01064	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+MANLFPEH_01065	gene	1533	purH			
+MANLFPEH_01065	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+MANLFPEH_01066	gene	1269	purD			
+MANLFPEH_01066	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MANLFPEH_01067	gene	1260	dacF			
+MANLFPEH_01067	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+MANLFPEH_01068	gene	531				
+MANLFPEH_01068	CDS	531				hypothetical protein
+MANLFPEH_01069	gene	1044	hflX			
+MANLFPEH_01069	CDS	1044	hflX		COG2262	GTPase HflX
+MANLFPEH_01070	gene	903	prkC_2			
+MANLFPEH_01070	CDS	903	prkC_2	2.7.11.1		Serine/threonine-protein kinase PrkC
+MANLFPEH_01071	gene	1206	xseA			
+MANLFPEH_01071	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+MANLFPEH_01072	gene	246	xseB			
+MANLFPEH_01072	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+MANLFPEH_01073	gene	885				
+MANLFPEH_01073	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+MANLFPEH_01074	gene	996	argH_2			
+MANLFPEH_01074	CDS	996	argH_2	4.3.2.1		Argininosuccinate lyase
+MANLFPEH_01075	gene	930				
+MANLFPEH_01075	CDS	930				hypothetical protein
+MANLFPEH_01076	gene	375				
+MANLFPEH_01076	CDS	375				hypothetical protein
+MANLFPEH_01077	gene	495				
+MANLFPEH_01077	CDS	495				hypothetical protein
+MANLFPEH_01078	gene	1134				
+MANLFPEH_01078	CDS	1134				hypothetical protein
+MANLFPEH_01079	gene	633				
+MANLFPEH_01079	CDS	633				hypothetical protein
+MANLFPEH_01080	gene	765	fpuC			
+MANLFPEH_01080	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+MANLFPEH_01081	gene	1065	isdF			
+MANLFPEH_01081	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+MANLFPEH_01082	gene	918	isdE			
+MANLFPEH_01082	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+MANLFPEH_01083	gene	684				
+MANLFPEH_01083	CDS	684				hypothetical protein
+MANLFPEH_01084	gene	366				
+MANLFPEH_01084	CDS	366				Iron-sulfur cluster carrier protein
+MANLFPEH_01085	gene	258				
+MANLFPEH_01085	CDS	258				hypothetical protein
+MANLFPEH_01086	gene	645				
+MANLFPEH_01086	CDS	645				hypothetical protein
+MANLFPEH_01087	gene	297				
+MANLFPEH_01087	CDS	297				hypothetical protein
+MANLFPEH_01088	gene	1275	pyrC			
+MANLFPEH_01088	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+MANLFPEH_01089	gene	1260	purF			
+MANLFPEH_01089	CDS	1260	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+MANLFPEH_01090	gene	2655	uvrA			
+MANLFPEH_01090	CDS	2655	uvrA			UvrABC system protein A
+MANLFPEH_01091	gene	801				
+MANLFPEH_01091	CDS	801				hypothetical protein
+MANLFPEH_01092	gene	486	greA			
+MANLFPEH_01092	CDS	486	greA		COG0782	Transcription elongation factor GreA
+MANLFPEH_01093	gene	492				
+MANLFPEH_01093	CDS	492				hypothetical protein
+MANLFPEH_01094	gene	981	znuA			
+MANLFPEH_01094	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+MANLFPEH_01095	gene	462	zur			
+MANLFPEH_01095	CDS	462	zur		COG0735	Zinc uptake regulation protein
+MANLFPEH_01096	gene	162				
+MANLFPEH_01096	CDS	162				Rubredoxin
+MANLFPEH_01097	gene	801	yycJ			
+MANLFPEH_01097	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+MANLFPEH_01098	gene	552	hpf			
+MANLFPEH_01098	CDS	552	hpf			Ribosome hibernation promotion factor
+MANLFPEH_01099	gene	924	fba			
+MANLFPEH_01099	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+MANLFPEH_01100	gene	750				
+MANLFPEH_01100	CDS	750				hypothetical protein
+MANLFPEH_01101	gene	411				
+MANLFPEH_01101	CDS	411				hypothetical protein
+MANLFPEH_01102	gene	243				
+MANLFPEH_01102	CDS	243				hypothetical protein
+MANLFPEH_01103	gene	777	yddE			
+MANLFPEH_01103	CDS	777	yddE	5.1.-.-	COG0384	putative isomerase YddE
+MANLFPEH_01104	gene	435	nrnA			
+MANLFPEH_01104	CDS	435	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+MANLFPEH_01105	gene	903	truB			
+MANLFPEH_01105	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+MANLFPEH_01106	gene	972	ribF			
+MANLFPEH_01106	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+MANLFPEH_01107	gene	255	rpsO			
+MANLFPEH_01107	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+MANLFPEH_01108	gene	963	srfAB			
+MANLFPEH_01108	CDS	963	srfAB			Surfactin synthase subunit 2
+MANLFPEH_01109	gene	897	ddl			
+MANLFPEH_01109	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+MANLFPEH_01110	gene	390				
+MANLFPEH_01110	CDS	390				hypothetical protein
+MANLFPEH_01111	gene	1281	obg			
+MANLFPEH_01111	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+MANLFPEH_01112	gene	291	rpmA			
+MANLFPEH_01112	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+MANLFPEH_01113	gene	264				
+MANLFPEH_01113	CDS	264				hypothetical protein
+MANLFPEH_01114	gene	3081	addB			
+MANLFPEH_01114	CDS	3081	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+MANLFPEH_01115	gene	1044	mtgA			
+MANLFPEH_01115	CDS	1044	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+MANLFPEH_01116	gene	519	polC_2			
+MANLFPEH_01116	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+MANLFPEH_01117	gene	891	ttcA			
+MANLFPEH_01117	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+MANLFPEH_01118	gene	549	lytC_4			
+MANLFPEH_01118	CDS	549	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MANLFPEH_01119	gene	765	sufC			
+MANLFPEH_01119	CDS	765	sufC		COG0396	Vegetative protein 296
+MANLFPEH_01120	gene	696	walR			
+MANLFPEH_01120	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+MANLFPEH_01121	gene	1437	rcsC			
+MANLFPEH_01121	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+MANLFPEH_01122	gene	795				
+MANLFPEH_01122	CDS	795				hypothetical protein
+MANLFPEH_01123	gene	999				
+MANLFPEH_01123	CDS	999				hypothetical protein
+MANLFPEH_01124	gene	486				
+MANLFPEH_01124	CDS	486				hypothetical protein
+MANLFPEH_01125	gene	882				
+MANLFPEH_01125	CDS	882				hypothetical protein
+MANLFPEH_01126	gene	393	mreB_1			
+MANLFPEH_01126	CDS	393	mreB_1		COG1077	Cell shape-determining protein MreB
+MANLFPEH_01127	gene	777	rsmE			
+MANLFPEH_01127	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+MANLFPEH_01128	gene	951	prmA			
+MANLFPEH_01128	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+MANLFPEH_01129	gene	1944				
+MANLFPEH_01129	CDS	1944				hypothetical protein
+MANLFPEH_01130	gene	73				
+MANLFPEH_01130	rRNA	73				5S ribosomal RNA (partial)
+MANLFPEH_01131	gene	405				
+MANLFPEH_01131	CDS	405				hypothetical protein
+MANLFPEH_01132	gene	756				
+MANLFPEH_01132	CDS	756				hypothetical protein
+MANLFPEH_01133	gene	984	birA			
+MANLFPEH_01133	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+MANLFPEH_01134	gene	1095				
+MANLFPEH_01134	CDS	1095				hypothetical protein
+MANLFPEH_01135	gene	1182				
+MANLFPEH_01135	CDS	1182		2.6.1.1		Aspartate aminotransferase
+MANLFPEH_01136	gene	1440	miaB			
+MANLFPEH_01136	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MANLFPEH_01137	gene	558				
+MANLFPEH_01137	CDS	558				hypothetical protein
+MANLFPEH_01138	gene	1011	mreB_2			
+MANLFPEH_01138	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+MANLFPEH_01139	gene	963	murAA			
+MANLFPEH_01139	CDS	963	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+MANLFPEH_01140	gene	903	era			
+MANLFPEH_01140	CDS	903	era			GTPase Era
+MANLFPEH_01141	gene	897				
+MANLFPEH_01141	CDS	897				hypothetical protein
+MANLFPEH_01142	gene	408	ybeY			
+MANLFPEH_01142	CDS	408	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+MANLFPEH_01143	gene	384				
+MANLFPEH_01143	CDS	384			COG1302	Alkaline shock protein 23
+MANLFPEH_01144	gene	495				
+MANLFPEH_01144	CDS	495				hypothetical protein
+MANLFPEH_01145	gene	747				
+MANLFPEH_01145	CDS	747				hypothetical protein
+MANLFPEH_01146	gene	837				
+MANLFPEH_01146	CDS	837				hypothetical protein
+MANLFPEH_01147	gene	681	phoP_2			
+MANLFPEH_01147	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+MANLFPEH_01148	gene	516	nrdR			
+MANLFPEH_01148	CDS	516	nrdR		COG1327	Transcriptional repressor NrdR
+MANLFPEH_01149	gene	486	ftsZ			
+MANLFPEH_01149	CDS	486	ftsZ		COG0206	Cell division protein FtsZ
+MANLFPEH_01150	gene	321	mtaB			
+MANLFPEH_01150	CDS	321	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+MANLFPEH_01151	gene	324				
+MANLFPEH_01151	CDS	324				hypothetical protein
+MANLFPEH_01152	gene	345				
+MANLFPEH_01152	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+MANLFPEH_01153	gene	822				
+MANLFPEH_01153	CDS	822				hypothetical protein
+MANLFPEH_01154	gene	1098	ychF			
+MANLFPEH_01154	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+MANLFPEH_01155	gene	456				
+MANLFPEH_01155	CDS	456				hypothetical protein
+MANLFPEH_01156	gene	1023	thiY			
+MANLFPEH_01156	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+MANLFPEH_01157	gene	762	ribX			
+MANLFPEH_01157	CDS	762	ribX			Riboflavin transport system permease protein RibX
+MANLFPEH_01158	gene	291				
+MANLFPEH_01158	CDS	291				hypothetical protein
+MANLFPEH_01159	gene	285				
+MANLFPEH_01159	CDS	285				hypothetical protein
+MANLFPEH_01160	gene	237	dltC			
+MANLFPEH_01160	CDS	237	dltC		COG0236	D-alanyl carrier protein
+MANLFPEH_01161	gene	1161				
+MANLFPEH_01161	CDS	1161				hypothetical protein
+MANLFPEH_01162	gene	1173	dltA			
+MANLFPEH_01162	CDS	1173	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+MANLFPEH_01163	gene	636	lexA			
+MANLFPEH_01163	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+MANLFPEH_01164	gene	1140	xerD			
+MANLFPEH_01164	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+MANLFPEH_01165	gene	954				
+MANLFPEH_01165	CDS	954				hypothetical protein
+MANLFPEH_01166	gene	576				
+MANLFPEH_01166	CDS	576				hypothetical protein
+MANLFPEH_01167	gene	594				
+MANLFPEH_01167	CDS	594				hypothetical protein
+MANLFPEH_01168	gene	861				
+MANLFPEH_01168	CDS	861				hypothetical protein
+MANLFPEH_01169	gene	1317	cca			
+MANLFPEH_01169	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+MANLFPEH_01170	gene	378	lepA			
+MANLFPEH_01170	CDS	378	lepA	3.6.5.-	COG0481	Elongation factor 4
+MANLFPEH_01171	gene	810	fusA_2			
+MANLFPEH_01171	CDS	810	fusA_2		COG0480	Elongation factor G
+MANLFPEH_01172	gene	366				
+MANLFPEH_01172	CDS	366				hypothetical protein
+MANLFPEH_01173	gene	1041				
+MANLFPEH_01173	CDS	1041				hypothetical protein
+MANLFPEH_01174	gene	1143	ctpC			
+MANLFPEH_01174	CDS	1143	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+MANLFPEH_01175	gene	855				
+MANLFPEH_01175	CDS	855				hypothetical protein
+MANLFPEH_01176	gene	273				
+MANLFPEH_01176	CDS	273				hypothetical protein
+MANLFPEH_01177	gene	1110	leuS			
+MANLFPEH_01177	CDS	1110	leuS	6.1.1.4		Leucine--tRNA ligase
+MANLFPEH_01178	gene	936	yijE			
+MANLFPEH_01178	CDS	936	yijE			putative cystine transporter YijE
+MANLFPEH_01179	gene	309	rplU			
+MANLFPEH_01179	CDS	309	rplU		COG0261	50S ribosomal protein L21
+MANLFPEH_01180	gene	141				
+MANLFPEH_01180	CDS	141				hypothetical protein
+MANLFPEH_01181	gene	963				
+MANLFPEH_01181	CDS	963				hypothetical protein
+MANLFPEH_01182	gene	333	thiI			
+MANLFPEH_01182	CDS	333	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+MANLFPEH_01183	gene	654				
+MANLFPEH_01183	CDS	654				hypothetical protein
+MANLFPEH_01184	gene	555				
+MANLFPEH_01184	CDS	555		3.1.3.-	COG5663	Nucleotidase
+MANLFPEH_01185	gene	252				
+MANLFPEH_01185	CDS	252				hypothetical protein
+MANLFPEH_01186	gene	561	nfrA1			
+MANLFPEH_01186	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+MANLFPEH_01187	gene	1101	mshA			
+MANLFPEH_01187	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MANLFPEH_01188	gene	396	proX			
+MANLFPEH_01188	CDS	396	proX		COG3760	Prolyl-tRNA editing protein ProX
+MANLFPEH_01189	gene	252	trpS			
+MANLFPEH_01189	CDS	252	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+MANLFPEH_01190	gene	768				
+MANLFPEH_01190	CDS	768				hypothetical protein
+MANLFPEH_01191	gene	480	lspA			
+MANLFPEH_01191	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+MANLFPEH_01192	gene	705	srtD			
+MANLFPEH_01192	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+MANLFPEH_01193	gene	1272	cna			
+MANLFPEH_01193	CDS	1272	cna			Collagen adhesin
+MANLFPEH_01194	gene	909	thrB			
+MANLFPEH_01194	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+MANLFPEH_01195	gene	1050	thrC			
+MANLFPEH_01195	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+MANLFPEH_01196	gene	456				
+MANLFPEH_01196	CDS	456				hypothetical protein
+MANLFPEH_01197	gene	855	sseB			
+MANLFPEH_01197	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+MANLFPEH_01198	gene	894				
+MANLFPEH_01198	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+MANLFPEH_01199	gene	423	nadE			
+MANLFPEH_01199	CDS	423	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+MANLFPEH_01200	gene	723				
+MANLFPEH_01200	CDS	723			COG0217	putative transcriptional regulatory protein
+MANLFPEH_01201	gene	282				
+MANLFPEH_01201	CDS	282				hypothetical protein
+MANLFPEH_01202	gene	540	uctC			
+MANLFPEH_01202	CDS	540	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+MANLFPEH_01203	gene	897				
+MANLFPEH_01203	CDS	897				hypothetical protein
+MANLFPEH_01204	gene	555				
+MANLFPEH_01204	CDS	555				hypothetical protein
+MANLFPEH_01205	gene	810	pyk			
+MANLFPEH_01205	CDS	810	pyk	2.7.1.40		Pyruvate kinase
+MANLFPEH_01206	gene	261				
+MANLFPEH_01206	CDS	261				hypothetical protein
+MANLFPEH_01207	gene	444	rplO			
+MANLFPEH_01207	CDS	444	rplO			50S ribosomal protein L15
+MANLFPEH_01208	gene	186	rpmD			
+MANLFPEH_01208	CDS	186	rpmD			50S ribosomal protein L30
+MANLFPEH_01209	gene	510	rpsE			
+MANLFPEH_01209	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+MANLFPEH_01210	gene	369	rplR			
+MANLFPEH_01210	CDS	369	rplR		COG0256	50S ribosomal protein L18
+MANLFPEH_01211	gene	543	rplF			
+MANLFPEH_01211	CDS	543	rplF			50S ribosomal protein L6
+MANLFPEH_01212	gene	1293				
+MANLFPEH_01212	CDS	1293				hypothetical protein
+MANLFPEH_01213	gene	750	lgt			
+MANLFPEH_01213	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+MANLFPEH_01214	gene	270				
+MANLFPEH_01214	CDS	270				hypothetical protein
+MANLFPEH_01215	gene	831				
+MANLFPEH_01215	CDS	831				hypothetical protein
+MANLFPEH_01216	gene	1074				
+MANLFPEH_01216	CDS	1074				hypothetical protein
+MANLFPEH_01217	gene	489				
+MANLFPEH_01217	CDS	489				hypothetical protein
+MANLFPEH_01218	gene	669				
+MANLFPEH_01218	CDS	669				hypothetical protein
+MANLFPEH_01219	gene	1248	murE_2			
+MANLFPEH_01219	CDS	1248	murE_2	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MANLFPEH_01220	gene	534	metK			
+MANLFPEH_01220	CDS	534	metK	2.5.1.6		S-adenosylmethionine synthase
+MANLFPEH_01221	gene	1059				
+MANLFPEH_01221	CDS	1059				hypothetical protein
+MANLFPEH_01222	gene	471				
+MANLFPEH_01222	CDS	471				hypothetical protein
+MANLFPEH_01223	gene	678	lolD_2			
+MANLFPEH_01223	CDS	678	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MANLFPEH_01224	gene	1218	glgB			
+MANLFPEH_01224	CDS	1218	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+MANLFPEH_01225	gene	990	rlhA			
+MANLFPEH_01225	CDS	990	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+MANLFPEH_01226	gene	471				
+MANLFPEH_01226	CDS	471				hypothetical protein
+MANLFPEH_01227	gene	957	rimO			
+MANLFPEH_01227	CDS	957	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+MANLFPEH_01228	gene	540	pgsA			
+MANLFPEH_01228	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+MANLFPEH_01229	gene	76				
+MANLFPEH_01229	tRNA	76				tRNA-Val(tac)
+MANLFPEH_01230	gene	77				
+MANLFPEH_01230	tRNA	77				tRNA-Asp(gtc)
+MANLFPEH_01231	gene	75				
+MANLFPEH_01231	tRNA	75				tRNA-Gly(gcc)
+MANLFPEH_01232	gene	76				
+MANLFPEH_01232	tRNA	76				tRNA-Pyl(cta)
+MANLFPEH_01233	gene	852	cdaA			
+MANLFPEH_01233	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+MANLFPEH_01234	gene	2043	yhgF			
+MANLFPEH_01234	CDS	2043	yhgF		COG2183	Protein YhgF
+MANLFPEH_01235	gene	1635	nhaP2			
+MANLFPEH_01235	CDS	1635	nhaP2			K(+)/H(+) antiporter NhaP2
+MANLFPEH_01236	gene	678				
+MANLFPEH_01236	CDS	678				hypothetical protein
+MANLFPEH_01237	gene	642				
+MANLFPEH_01237	CDS	642				hypothetical protein
+MANLFPEH_01238	gene	912				
+MANLFPEH_01238	CDS	912				hypothetical protein
+MANLFPEH_01239	gene	933				
+MANLFPEH_01239	CDS	933				hypothetical protein
+MANLFPEH_01240	gene	120				
+MANLFPEH_01240	CDS	120				hypothetical protein
+MANLFPEH_01241	gene	267	rpsT			
+MANLFPEH_01241	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+MANLFPEH_01242	gene	156				
+MANLFPEH_01242	CDS	156				hypothetical protein
+MANLFPEH_01243	gene	1665	glcB			
+MANLFPEH_01243	CDS	1665	glcB		COG2190	PTS system glucoside-specific EIICBA component
+MANLFPEH_01244	gene	330	hisS			
+MANLFPEH_01244	CDS	330	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+MANLFPEH_01245	gene	393				
+MANLFPEH_01245	CDS	393			COG1132	putative ABC transporter ATP-binding protein
+MANLFPEH_01246	gene	186				
+MANLFPEH_01246	CDS	186				hypothetical protein
+MANLFPEH_01247	gene	609				
+MANLFPEH_01247	CDS	609				hypothetical protein
+MANLFPEH_01248	gene	540				
+MANLFPEH_01248	CDS	540				hypothetical protein
+MANLFPEH_01249	gene	696	CARKD			
+MANLFPEH_01249	CDS	696	CARKD	4.2.1.136		ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+MANLFPEH_01250	gene	453				
+MANLFPEH_01250	CDS	453				hypothetical protein
+MANLFPEH_01251	gene	216				
+MANLFPEH_01251	CDS	216				hypothetical protein
+MANLFPEH_01252	gene	1452	trkG			
+MANLFPEH_01252	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+MANLFPEH_01253	gene	603	yjcD			
+MANLFPEH_01253	CDS	603	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+MANLFPEH_01254	gene	885				
+MANLFPEH_01254	CDS	885				hypothetical protein
+MANLFPEH_01255	gene	210	pdxS			
+MANLFPEH_01255	CDS	210	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+MANLFPEH_01256	gene	177				
+MANLFPEH_01256	CDS	177				hypothetical protein
+MANLFPEH_01257	gene	972				
+MANLFPEH_01257	CDS	972				hypothetical protein
+MANLFPEH_01258	gene	141				
+MANLFPEH_01258	CDS	141				hypothetical protein
+MANLFPEH_01259	gene	1437				
+MANLFPEH_01259	CDS	1437				hypothetical protein
+MANLFPEH_01260	gene	1098	iscS			
+MANLFPEH_01260	CDS	1098	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+MANLFPEH_01261	gene	1365	rlmCD			
+MANLFPEH_01261	CDS	1365	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+MANLFPEH_01262	gene	219				
+MANLFPEH_01262	CDS	219				hypothetical protein
+MANLFPEH_01263	gene	846				
+MANLFPEH_01263	CDS	846				hypothetical protein
+MANLFPEH_01264	gene	693	glmU_2			
+MANLFPEH_01264	CDS	693	glmU_2	2.7.7.23		Bifunctional protein GlmU
+MANLFPEH_01265	gene	405				
+MANLFPEH_01265	CDS	405				hypothetical protein
+MANLFPEH_01266	gene	591	ogt			
+MANLFPEH_01266	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+MANLFPEH_01267	gene	864	yvcJ			
+MANLFPEH_01267	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+MANLFPEH_01268	gene	237				
+MANLFPEH_01268	CDS	237				hypothetical protein
+MANLFPEH_01269	gene	270	hprK			
+MANLFPEH_01269	CDS	270	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+MANLFPEH_01270	gene	921	murB			
+MANLFPEH_01270	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+MANLFPEH_01271	gene	1635	lytC_5			
+MANLFPEH_01271	CDS	1635	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MANLFPEH_01272	gene	675				
+MANLFPEH_01272	CDS	675				hypothetical protein
+MANLFPEH_01273	gene	219				
+MANLFPEH_01273	CDS	219				hypothetical protein
+MANLFPEH_01274	gene	177				
+MANLFPEH_01274	CDS	177				hypothetical protein
+MANLFPEH_01275	gene	357				
+MANLFPEH_01275	CDS	357				hypothetical protein
+MANLFPEH_01276	gene	1305	thiC			
+MANLFPEH_01276	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+MANLFPEH_01277	gene	507				
+MANLFPEH_01277	CDS	507				hypothetical protein
+MANLFPEH_01278	gene	1278	purA			
+MANLFPEH_01278	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase

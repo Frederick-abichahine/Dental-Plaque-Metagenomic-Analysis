@@ -1,0 +1,3322 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IBIODCEP_00001	gene	522				
+IBIODCEP_00001	CDS	522			COG2826	IS30 family transposase ISHahy9
+IBIODCEP_00002	gene	2871				
+IBIODCEP_00002	CDS	2871				hypothetical protein
+IBIODCEP_00003	gene	1260				
+IBIODCEP_00003	CDS	1260				hypothetical protein
+IBIODCEP_00004	gene	2217				
+IBIODCEP_00004	CDS	2217				hypothetical protein
+IBIODCEP_00005	gene	1683	engB_1			
+IBIODCEP_00005	CDS	1683	engB_1			GTP-binding protein EngB
+IBIODCEP_00006	gene	156				
+IBIODCEP_00006	CDS	156				hypothetical protein
+IBIODCEP_00007	gene	177				
+IBIODCEP_00007	CDS	177				hypothetical protein
+IBIODCEP_00008	gene	513				
+IBIODCEP_00008	CDS	513				hypothetical protein
+IBIODCEP_00009	gene	531	ybdM			
+IBIODCEP_00009	CDS	531	ybdM		COG1475	putative protein YbdM
+IBIODCEP_00010	gene	1320				
+IBIODCEP_00010	CDS	1320				hypothetical protein
+IBIODCEP_00011	gene	1413				
+IBIODCEP_00011	CDS	1413				hypothetical protein
+IBIODCEP_00012	gene	312				
+IBIODCEP_00012	CDS	312				hypothetical protein
+IBIODCEP_00013	gene	1245				
+IBIODCEP_00013	CDS	1245				hypothetical protein
+IBIODCEP_00014	gene	360				
+IBIODCEP_00014	CDS	360				hypothetical protein
+IBIODCEP_00015	gene	1410				
+IBIODCEP_00015	CDS	1410				hypothetical protein
+IBIODCEP_00016	gene	264				
+IBIODCEP_00016	CDS	264				hypothetical protein
+IBIODCEP_00017	gene	279				
+IBIODCEP_00017	CDS	279				hypothetical protein
+IBIODCEP_00018	gene	285				
+IBIODCEP_00018	CDS	285				hypothetical protein
+IBIODCEP_00019	gene	378				
+IBIODCEP_00019	CDS	378				hypothetical protein
+IBIODCEP_00020	gene	1266				
+IBIODCEP_00020	CDS	1266				hypothetical protein
+IBIODCEP_00021	gene	915				
+IBIODCEP_00021	CDS	915				hypothetical protein
+IBIODCEP_00022	gene	645				
+IBIODCEP_00022	CDS	645				hypothetical protein
+IBIODCEP_00023	gene	1179				
+IBIODCEP_00023	CDS	1179				hypothetical protein
+IBIODCEP_00024	gene	462				
+IBIODCEP_00024	CDS	462				hypothetical protein
+IBIODCEP_00025	gene	345				
+IBIODCEP_00025	CDS	345				hypothetical protein
+IBIODCEP_00026	gene	960				
+IBIODCEP_00026	CDS	960				hypothetical protein
+IBIODCEP_00027	gene	750				
+IBIODCEP_00027	CDS	750				hypothetical protein
+IBIODCEP_00028	gene	3852				
+IBIODCEP_00028	CDS	3852				hypothetical protein
+IBIODCEP_00029	gene	474				
+IBIODCEP_00029	CDS	474				hypothetical protein
+IBIODCEP_00030	gene	435				
+IBIODCEP_00030	CDS	435				hypothetical protein
+IBIODCEP_00031	gene	1434				
+IBIODCEP_00031	CDS	1434				hypothetical protein
+IBIODCEP_00032	gene	216				
+IBIODCEP_00032	CDS	216				hypothetical protein
+IBIODCEP_00033	gene	873				
+IBIODCEP_00033	CDS	873				hypothetical protein
+IBIODCEP_00034	gene	414				
+IBIODCEP_00034	CDS	414				hypothetical protein
+IBIODCEP_00035	gene	384				
+IBIODCEP_00035	CDS	384				hypothetical protein
+IBIODCEP_00036	gene	336				
+IBIODCEP_00036	CDS	336				hypothetical protein
+IBIODCEP_00037	gene	252				
+IBIODCEP_00037	CDS	252				hypothetical protein
+IBIODCEP_00038	gene	1047				
+IBIODCEP_00038	CDS	1047				hypothetical protein
+IBIODCEP_00039	gene	357				
+IBIODCEP_00039	CDS	357				hypothetical protein
+IBIODCEP_00040	gene	666				
+IBIODCEP_00040	CDS	666				hypothetical protein
+IBIODCEP_00041	gene	315				
+IBIODCEP_00041	CDS	315				hypothetical protein
+IBIODCEP_00042	gene	120				
+IBIODCEP_00042	CDS	120				hypothetical protein
+IBIODCEP_00043	gene	1545				
+IBIODCEP_00043	CDS	1545				hypothetical protein
+IBIODCEP_00044	gene	1560				
+IBIODCEP_00044	CDS	1560				hypothetical protein
+IBIODCEP_00045	gene	1365				
+IBIODCEP_00045	CDS	1365				hypothetical protein
+IBIODCEP_00046	gene	903				
+IBIODCEP_00046	CDS	903				hypothetical protein
+IBIODCEP_00047	gene	171				
+IBIODCEP_00047	CDS	171				hypothetical protein
+IBIODCEP_00048	gene	189				
+IBIODCEP_00048	CDS	189				hypothetical protein
+IBIODCEP_00049	gene	1332				
+IBIODCEP_00049	CDS	1332				hypothetical protein
+IBIODCEP_00050	gene	390				
+IBIODCEP_00050	CDS	390				hypothetical protein
+IBIODCEP_00051	gene	333				
+IBIODCEP_00051	CDS	333				hypothetical protein
+IBIODCEP_00052	gene	834				
+IBIODCEP_00052	CDS	834				hypothetical protein
+IBIODCEP_00053	gene	417				
+IBIODCEP_00053	CDS	417				hypothetical protein
+IBIODCEP_00054	gene	684				
+IBIODCEP_00054	CDS	684				hypothetical protein
+IBIODCEP_00055	gene	909	dut_1			
+IBIODCEP_00055	CDS	909	dut_1	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IBIODCEP_00056	gene	549				
+IBIODCEP_00056	CDS	549				hypothetical protein
+IBIODCEP_00057	gene	1023				
+IBIODCEP_00057	CDS	1023				hypothetical protein
+IBIODCEP_00058	gene	1383				
+IBIODCEP_00058	CDS	1383				hypothetical protein
+IBIODCEP_00059	gene	399	ssb			
+IBIODCEP_00059	CDS	399	ssb		COG0629	Single-stranded DNA-binding protein
+IBIODCEP_00060	gene	258				
+IBIODCEP_00060	CDS	258				hypothetical protein
+IBIODCEP_00061	gene	465				
+IBIODCEP_00061	CDS	465				hypothetical protein
+IBIODCEP_00062	gene	363				
+IBIODCEP_00062	CDS	363				hypothetical protein
+IBIODCEP_00063	gene	174				
+IBIODCEP_00063	CDS	174				hypothetical protein
+IBIODCEP_00064	gene	255				
+IBIODCEP_00064	CDS	255				hypothetical protein
+IBIODCEP_00065	gene	483				
+IBIODCEP_00065	CDS	483				hypothetical protein
+IBIODCEP_00066	gene	198				
+IBIODCEP_00066	CDS	198				hypothetical protein
+IBIODCEP_00067	gene	753				
+IBIODCEP_00067	CDS	753				hypothetical protein
+IBIODCEP_00068	gene	168				
+IBIODCEP_00068	CDS	168				hypothetical protein
+IBIODCEP_00069	gene	219				
+IBIODCEP_00069	CDS	219				hypothetical protein
+IBIODCEP_00070	gene	282				
+IBIODCEP_00070	CDS	282				hypothetical protein
+IBIODCEP_00071	gene	1002				
+IBIODCEP_00071	CDS	1002				hypothetical protein
+IBIODCEP_00072	gene	702	dnaA_1			
+IBIODCEP_00072	CDS	702	dnaA_1			Chromosomal replication initiator protein DnaA
+IBIODCEP_00073	gene	882				
+IBIODCEP_00073	CDS	882				hypothetical protein
+IBIODCEP_00074	gene	150				
+IBIODCEP_00074	CDS	150				hypothetical protein
+IBIODCEP_00075	gene	717	yycJ_1			
+IBIODCEP_00075	CDS	717	yycJ_1	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+IBIODCEP_00076	gene	975				
+IBIODCEP_00076	CDS	975				hypothetical protein
+IBIODCEP_00077	gene	1965	smc_1			
+IBIODCEP_00077	CDS	1965	smc_1			Chromosome partition protein Smc
+IBIODCEP_00078	gene	525				
+IBIODCEP_00078	CDS	525				hypothetical protein
+IBIODCEP_00079	gene	234				
+IBIODCEP_00079	CDS	234				hypothetical protein
+IBIODCEP_00080	gene	462				
+IBIODCEP_00080	CDS	462				hypothetical protein
+IBIODCEP_00081	gene	192				
+IBIODCEP_00081	CDS	192				hypothetical protein
+IBIODCEP_00082	gene	441				
+IBIODCEP_00082	CDS	441				hypothetical protein
+IBIODCEP_00083	gene	255				
+IBIODCEP_00083	CDS	255				hypothetical protein
+IBIODCEP_00084	gene	204				
+IBIODCEP_00084	CDS	204				hypothetical protein
+IBIODCEP_00085	gene	357				
+IBIODCEP_00085	CDS	357				hypothetical protein
+IBIODCEP_00086	gene	537				
+IBIODCEP_00086	CDS	537				hypothetical protein
+IBIODCEP_00087	gene	945				
+IBIODCEP_00087	CDS	945				hypothetical protein
+IBIODCEP_00088	gene	522				
+IBIODCEP_00088	CDS	522				hypothetical protein
+IBIODCEP_00089	gene	1062	xerC_1			
+IBIODCEP_00089	CDS	1062	xerC_1			Tyrosine recombinase XerC
+IBIODCEP_00090	gene	1536	guaA			
+IBIODCEP_00090	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+IBIODCEP_00091	gene	1623	groL			
+IBIODCEP_00091	CDS	1623	groL		COG0459	60 kDa chaperonin
+IBIODCEP_00092	gene	282	groS			
+IBIODCEP_00092	CDS	282	groS		COG0234	10 kDa chaperonin
+IBIODCEP_00093	gene	1482	clsA_1			
+IBIODCEP_00093	CDS	1482	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+IBIODCEP_00094	gene	876				
+IBIODCEP_00094	CDS	876				hypothetical protein
+IBIODCEP_00095	gene	384				
+IBIODCEP_00095	CDS	384			COG1302	Alkaline shock protein 23
+IBIODCEP_00096	gene	495				
+IBIODCEP_00096	CDS	495				hypothetical protein
+IBIODCEP_00097	gene	846				
+IBIODCEP_00097	CDS	846				hypothetical protein
+IBIODCEP_00098	gene	1431				
+IBIODCEP_00098	CDS	1431				hypothetical protein
+IBIODCEP_00099	gene	387				
+IBIODCEP_00099	CDS	387				hypothetical protein
+IBIODCEP_00100	gene	882				
+IBIODCEP_00100	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+IBIODCEP_00101	gene	570	xpt			
+IBIODCEP_00101	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+IBIODCEP_00102	gene	1338				
+IBIODCEP_00102	CDS	1338				Nucleobase transporter PlUacP
+IBIODCEP_00103	gene	426	fabZ			
+IBIODCEP_00103	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IBIODCEP_00104	gene	1236	fabF			
+IBIODCEP_00104	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IBIODCEP_00105	gene	747	fabG_1			
+IBIODCEP_00105	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IBIODCEP_00106	gene	939	fabD			
+IBIODCEP_00106	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+IBIODCEP_00107	gene	939				
+IBIODCEP_00107	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+IBIODCEP_00108	gene	225	acpP_1			
+IBIODCEP_00108	CDS	225	acpP_1		COG0236	Acyl carrier protein
+IBIODCEP_00109	gene	1017	fabH			
+IBIODCEP_00109	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+IBIODCEP_00110	gene	480				
+IBIODCEP_00110	CDS	480				hypothetical protein
+IBIODCEP_00111	gene	744	accA			
+IBIODCEP_00111	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+IBIODCEP_00112	gene	858	accD			
+IBIODCEP_00112	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+IBIODCEP_00113	gene	1425	accC			
+IBIODCEP_00113	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+IBIODCEP_00114	gene	531				
+IBIODCEP_00114	CDS	531				hypothetical protein
+IBIODCEP_00115	gene	870	sigF			
+IBIODCEP_00115	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+IBIODCEP_00116	gene	492	ycdZ			
+IBIODCEP_00116	CDS	492	ycdZ			Inner membrane protein YcdZ
+IBIODCEP_00117	gene	1200	mnmE_1			
+IBIODCEP_00117	CDS	1200	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+IBIODCEP_00118	gene	1404	bioB_1			
+IBIODCEP_00118	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+IBIODCEP_00119	gene	135				
+IBIODCEP_00119	CDS	135				hypothetical protein
+IBIODCEP_00120	gene	1053				
+IBIODCEP_00120	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+IBIODCEP_00121	gene	246				
+IBIODCEP_00121	CDS	246				hypothetical protein
+IBIODCEP_00122	gene	1875	fruA			
+IBIODCEP_00122	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+IBIODCEP_00123	gene	915	lacC			
+IBIODCEP_00123	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+IBIODCEP_00124	gene	753	lacR			
+IBIODCEP_00124	CDS	753	lacR			Lactose phosphotransferase system repressor
+IBIODCEP_00125	gene	846				
+IBIODCEP_00125	CDS	846				hypothetical protein
+IBIODCEP_00126	gene	1929				
+IBIODCEP_00126	CDS	1929				hypothetical protein
+IBIODCEP_00127	gene	903				
+IBIODCEP_00127	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+IBIODCEP_00128	gene	426				
+IBIODCEP_00128	CDS	426			COG0716	Flavodoxin
+IBIODCEP_00129	gene	585				
+IBIODCEP_00129	CDS	585				hypothetical protein
+IBIODCEP_00130	gene	2070	glyS			
+IBIODCEP_00130	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+IBIODCEP_00131	gene	885	glyQ			
+IBIODCEP_00131	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+IBIODCEP_00132	gene	609				
+IBIODCEP_00132	CDS	609				hypothetical protein
+IBIODCEP_00133	gene	747	recO			
+IBIODCEP_00133	CDS	747	recO		COG1381	DNA repair protein RecO
+IBIODCEP_00134	gene	1377				
+IBIODCEP_00134	CDS	1377			COG2239	Magnesium transporter MgtE
+IBIODCEP_00135	gene	903	era			
+IBIODCEP_00135	CDS	903	era			GTPase Era
+IBIODCEP_00136	gene	897				
+IBIODCEP_00136	CDS	897				hypothetical protein
+IBIODCEP_00137	gene	462	ybeY			
+IBIODCEP_00137	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+IBIODCEP_00138	gene	1059				
+IBIODCEP_00138	CDS	1059			COG1702	PhoH-like protein
+IBIODCEP_00139	gene	552	hpf			
+IBIODCEP_00139	CDS	552	hpf			Ribosome hibernation promotion factor
+IBIODCEP_00140	gene	924	fba			
+IBIODCEP_00140	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+IBIODCEP_00141	gene	906				
+IBIODCEP_00141	CDS	906				hypothetical protein
+IBIODCEP_00142	gene	1104				
+IBIODCEP_00142	CDS	1104				hypothetical protein
+IBIODCEP_00143	gene	1545				
+IBIODCEP_00143	CDS	1545				hypothetical protein
+IBIODCEP_00144	gene	765	cbiJ			
+IBIODCEP_00144	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+IBIODCEP_00145	gene	726	cbiH			
+IBIODCEP_00145	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+IBIODCEP_00146	gene	1200	cbiG			
+IBIODCEP_00146	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+IBIODCEP_00147	gene	759	cbiF			
+IBIODCEP_00147	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+IBIODCEP_00148	gene	567	cbiT			
+IBIODCEP_00148	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+IBIODCEP_00149	gene	720	cbiE			
+IBIODCEP_00149	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+IBIODCEP_00150	gene	1167	cbiD			
+IBIODCEP_00150	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+IBIODCEP_00151	gene	639	cbiC			
+IBIODCEP_00151	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+IBIODCEP_00152	gene	885	pduX			
+IBIODCEP_00152	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+IBIODCEP_00153	gene	1092	cobD_1			
+IBIODCEP_00153	CDS	1092	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+IBIODCEP_00154	gene	1041	cobD_2			
+IBIODCEP_00154	CDS	1041	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+IBIODCEP_00155	gene	1395	cbiA			
+IBIODCEP_00155	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+IBIODCEP_00156	gene	1503	cobQ			
+IBIODCEP_00156	CDS	1503	cobQ			Cobyric acid synthase
+IBIODCEP_00157	gene	639	pspA_1			
+IBIODCEP_00157	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+IBIODCEP_00158	gene	771	cobS			
+IBIODCEP_00158	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+IBIODCEP_00159	gene	588	cobU			
+IBIODCEP_00159	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+IBIODCEP_00160	gene	1083	cobT			
+IBIODCEP_00160	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+IBIODCEP_00161	gene	1173	ctpB			
+IBIODCEP_00161	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+IBIODCEP_00162	gene	936	aptB			
+IBIODCEP_00162	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+IBIODCEP_00163	gene	813	aptA			
+IBIODCEP_00163	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+IBIODCEP_00164	gene	372	acpS			
+IBIODCEP_00164	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+IBIODCEP_00165	gene	1320	sasA_1			
+IBIODCEP_00165	CDS	1320	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+IBIODCEP_00166	gene	654	qseB_1			
+IBIODCEP_00166	CDS	654	qseB_1			Transcriptional regulatory protein QseB
+IBIODCEP_00167	gene	1377				
+IBIODCEP_00167	CDS	1377				hypothetical protein
+IBIODCEP_00168	gene	645				
+IBIODCEP_00168	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+IBIODCEP_00169	gene	1278				
+IBIODCEP_00169	CDS	1278				hypothetical protein
+IBIODCEP_00170	gene	891				
+IBIODCEP_00170	CDS	891				hypothetical protein
+IBIODCEP_00171	gene	1161	resA			
+IBIODCEP_00171	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+IBIODCEP_00172	gene	1440	miaB			
+IBIODCEP_00172	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+IBIODCEP_00173	gene	558				
+IBIODCEP_00173	CDS	558				hypothetical protein
+IBIODCEP_00174	gene	1659	glnS			
+IBIODCEP_00174	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+IBIODCEP_00175	gene	738				
+IBIODCEP_00175	CDS	738				hypothetical protein
+IBIODCEP_00176	gene	2844				
+IBIODCEP_00176	CDS	2844				hypothetical protein
+IBIODCEP_00177	gene	1980				
+IBIODCEP_00177	CDS	1980				hypothetical protein
+IBIODCEP_00178	gene	177				
+IBIODCEP_00178	CDS	177				hypothetical protein
+IBIODCEP_00179	gene	1023	lnpD			
+IBIODCEP_00179	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+IBIODCEP_00180	gene	1104				
+IBIODCEP_00180	CDS	1104				hypothetical protein
+IBIODCEP_00181	gene	1230				
+IBIODCEP_00181	CDS	1230				hypothetical protein
+IBIODCEP_00182	gene	1005	asnA			
+IBIODCEP_00182	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+IBIODCEP_00183	gene	531	hpt_1			
+IBIODCEP_00183	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+IBIODCEP_00184	gene	795				
+IBIODCEP_00184	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+IBIODCEP_00185	gene	1236	baiN			
+IBIODCEP_00185	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+IBIODCEP_00186	gene	465				
+IBIODCEP_00186	CDS	465				hypothetical protein
+IBIODCEP_00187	gene	1764				
+IBIODCEP_00187	CDS	1764				hypothetical protein
+IBIODCEP_00188	gene	3534				
+IBIODCEP_00188	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+IBIODCEP_00189	gene	4416				
+IBIODCEP_00189	CDS	4416				hypothetical protein
+IBIODCEP_00190	gene	882	licT			
+IBIODCEP_00190	CDS	882	licT		COG3711	Transcription antiterminator LicT
+IBIODCEP_00191	gene	2154	ptsG			
+IBIODCEP_00191	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+IBIODCEP_00192	gene	681				
+IBIODCEP_00192	CDS	681				hypothetical protein
+IBIODCEP_00193	gene	219				
+IBIODCEP_00193	CDS	219				hypothetical protein
+IBIODCEP_00194	gene	1416	aroA			
+IBIODCEP_00194	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+IBIODCEP_00195	gene	1077	aroC			
+IBIODCEP_00195	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+IBIODCEP_00196	gene	792	aroK			
+IBIODCEP_00196	CDS	792	aroK	2.7.1.71		Shikimate kinase
+IBIODCEP_00197	gene	1860	asnB			
+IBIODCEP_00197	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+IBIODCEP_00198	gene	1572				
+IBIODCEP_00198	CDS	1572				hypothetical protein
+IBIODCEP_00199	gene	1401	asnS			
+IBIODCEP_00199	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+IBIODCEP_00200	gene	894				
+IBIODCEP_00200	CDS	894				hypothetical protein
+IBIODCEP_00201	gene	528				
+IBIODCEP_00201	CDS	528				hypothetical protein
+IBIODCEP_00202	gene	1698	tycB			
+IBIODCEP_00202	CDS	1698	tycB			Tyrocidine synthase 2
+IBIODCEP_00203	gene	897	ddl			
+IBIODCEP_00203	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+IBIODCEP_00204	gene	1266	cinA			
+IBIODCEP_00204	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+IBIODCEP_00205	gene	804	ywpJ			
+IBIODCEP_00205	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+IBIODCEP_00206	gene	567				
+IBIODCEP_00206	CDS	567				hypothetical protein
+IBIODCEP_00207	gene	954				
+IBIODCEP_00207	CDS	954				hypothetical protein
+IBIODCEP_00208	gene	576				
+IBIODCEP_00208	CDS	576				hypothetical protein
+IBIODCEP_00209	gene	594				
+IBIODCEP_00209	CDS	594				hypothetical protein
+IBIODCEP_00210	gene	771				
+IBIODCEP_00210	CDS	771				hypothetical protein
+IBIODCEP_00211	gene	336				
+IBIODCEP_00211	CDS	336				hypothetical protein
+IBIODCEP_00212	gene	684				
+IBIODCEP_00212	CDS	684				hypothetical protein
+IBIODCEP_00213	gene	1452				
+IBIODCEP_00213	CDS	1452				hypothetical protein
+IBIODCEP_00214	gene	1647	gltX			
+IBIODCEP_00214	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+IBIODCEP_00215	gene	1422	purF			
+IBIODCEP_00215	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+IBIODCEP_00216	gene	2277	topB			
+IBIODCEP_00216	CDS	2277	topB	5.6.2.1		DNA topoisomerase 3
+IBIODCEP_00217	gene	891	ttcA			
+IBIODCEP_00217	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+IBIODCEP_00218	gene	519	polC_1			
+IBIODCEP_00218	CDS	519	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+IBIODCEP_00219	gene	1044	mtgA_1			
+IBIODCEP_00219	CDS	1044	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+IBIODCEP_00220	gene	855	sseB			
+IBIODCEP_00220	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+IBIODCEP_00221	gene	894				
+IBIODCEP_00221	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+IBIODCEP_00222	gene	1389	gltD			
+IBIODCEP_00222	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+IBIODCEP_00223	gene	705				
+IBIODCEP_00223	CDS	705				hypothetical protein
+IBIODCEP_00224	gene	732	rluB			
+IBIODCEP_00224	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+IBIODCEP_00225	gene	942	hexR			
+IBIODCEP_00225	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+IBIODCEP_00226	gene	651	pspA_2			
+IBIODCEP_00226	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+IBIODCEP_00227	gene	1257				
+IBIODCEP_00227	CDS	1257			COG2081	putative protein
+IBIODCEP_00228	gene	660	cmk			
+IBIODCEP_00228	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+IBIODCEP_00229	gene	615	plsC			
+IBIODCEP_00229	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IBIODCEP_00230	gene	831	ispH			
+IBIODCEP_00230	CDS	831	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+IBIODCEP_00231	gene	1896	ftsH4			
+IBIODCEP_00231	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+IBIODCEP_00232	gene	489				
+IBIODCEP_00232	CDS	489				hypothetical protein
+IBIODCEP_00233	gene	636	lexA			
+IBIODCEP_00233	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+IBIODCEP_00234	gene	1140	xerD			
+IBIODCEP_00234	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+IBIODCEP_00235	gene	1053	ltaE			
+IBIODCEP_00235	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+IBIODCEP_00236	gene	1356	prpC_1			
+IBIODCEP_00236	CDS	1356	prpC_1	2.3.3.5	COG0372	2-methylcitrate synthase
+IBIODCEP_00237	gene	849				
+IBIODCEP_00237	CDS	849				DegV domain-containing protein
+IBIODCEP_00238	gene	819				
+IBIODCEP_00238	CDS	819				hypothetical protein
+IBIODCEP_00239	gene	858	trmB			
+IBIODCEP_00239	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+IBIODCEP_00240	gene	1479	malQ			
+IBIODCEP_00240	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+IBIODCEP_00241	gene	1944				
+IBIODCEP_00241	CDS	1944				hypothetical protein
+IBIODCEP_00242	gene	1866	glgB			
+IBIODCEP_00242	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+IBIODCEP_00243	gene	1173	glgC			
+IBIODCEP_00243	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+IBIODCEP_00244	gene	1107	glgD			
+IBIODCEP_00244	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+IBIODCEP_00245	gene	1425	glgA			
+IBIODCEP_00245	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+IBIODCEP_00246	gene	2391	glgP			
+IBIODCEP_00246	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+IBIODCEP_00247	gene	2430				
+IBIODCEP_00247	CDS	2430				hypothetical protein
+IBIODCEP_00248	gene	1365				
+IBIODCEP_00248	CDS	1365				hypothetical protein
+IBIODCEP_00249	gene	873	moaA_1			
+IBIODCEP_00249	CDS	873	moaA_1	4.1.99.22		GTP 3',8-cyclase
+IBIODCEP_00250	gene	1629				
+IBIODCEP_00250	CDS	1629				hypothetical protein
+IBIODCEP_00251	gene	1002	add			
+IBIODCEP_00251	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+IBIODCEP_00252	gene	810	apbC			
+IBIODCEP_00252	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+IBIODCEP_00253	gene	258				
+IBIODCEP_00253	CDS	258				hypothetical protein
+IBIODCEP_00254	gene	645				
+IBIODCEP_00254	CDS	645				hypothetical protein
+IBIODCEP_00255	gene	297				
+IBIODCEP_00255	CDS	297				hypothetical protein
+IBIODCEP_00256	gene	1275	pyrC			
+IBIODCEP_00256	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+IBIODCEP_00257	gene	1245	macB_1			
+IBIODCEP_00257	CDS	1245	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+IBIODCEP_00258	gene	675	yknY_1			
+IBIODCEP_00258	CDS	675	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+IBIODCEP_00259	gene	1083	yknX			
+IBIODCEP_00259	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+IBIODCEP_00260	gene	651	tal			
+IBIODCEP_00260	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+IBIODCEP_00261	gene	1473	algC			
+IBIODCEP_00261	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+IBIODCEP_00262	gene	927				
+IBIODCEP_00262	CDS	927				hypothetical protein
+IBIODCEP_00263	gene	606	maf			
+IBIODCEP_00263	CDS	606	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+IBIODCEP_00264	gene	1182	fieF			
+IBIODCEP_00264	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+IBIODCEP_00265	gene	792				
+IBIODCEP_00265	CDS	792				hypothetical protein
+IBIODCEP_00266	gene	303				
+IBIODCEP_00266	CDS	303				hypothetical protein
+IBIODCEP_00267	gene	1218				
+IBIODCEP_00267	CDS	1218		6.3.1.12		D-aspartate ligase
+IBIODCEP_00268	gene	720				
+IBIODCEP_00268	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+IBIODCEP_00269	gene	1488	murE_1			
+IBIODCEP_00269	CDS	1488	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+IBIODCEP_00270	gene	1446				
+IBIODCEP_00270	CDS	1446				hypothetical protein
+IBIODCEP_00271	gene	510	sigM_1			
+IBIODCEP_00271	CDS	510	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+IBIODCEP_00272	gene	1098	ychF			
+IBIODCEP_00272	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+IBIODCEP_00273	gene	456				
+IBIODCEP_00273	CDS	456				hypothetical protein
+IBIODCEP_00274	gene	1260				
+IBIODCEP_00274	CDS	1260				hypothetical protein
+IBIODCEP_00275	gene	1293				
+IBIODCEP_00275	CDS	1293				hypothetical protein
+IBIODCEP_00276	gene	750	lgt			
+IBIODCEP_00276	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+IBIODCEP_00277	gene	936	rsmH			
+IBIODCEP_00277	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+IBIODCEP_00278	gene	1410	murF			
+IBIODCEP_00278	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IBIODCEP_00279	gene	966	mraY			
+IBIODCEP_00279	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IBIODCEP_00280	gene	1365	murD			
+IBIODCEP_00280	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+IBIODCEP_00281	gene	1098	murG			
+IBIODCEP_00281	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IBIODCEP_00282	gene	1161	ftsZ			
+IBIODCEP_00282	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+IBIODCEP_00283	gene	468	nrdR			
+IBIODCEP_00283	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+IBIODCEP_00284	gene	681	phoP_1			
+IBIODCEP_00284	CDS	681	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+IBIODCEP_00285	gene	1281	walK			
+IBIODCEP_00285	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+IBIODCEP_00286	gene	1329	der			
+IBIODCEP_00286	CDS	1329	der		COG1160	GTPase Der
+IBIODCEP_00287	gene	609	plsY			
+IBIODCEP_00287	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+IBIODCEP_00288	gene	1011	gpsA			
+IBIODCEP_00288	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+IBIODCEP_00289	gene	702				
+IBIODCEP_00289	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+IBIODCEP_00290	gene	495	sepF			
+IBIODCEP_00290	CDS	495	sepF			Cell division protein SepF
+IBIODCEP_00291	gene	258				
+IBIODCEP_00291	CDS	258				hypothetical protein
+IBIODCEP_00292	gene	786				
+IBIODCEP_00292	CDS	786				hypothetical protein
+IBIODCEP_00293	gene	654	gpsB			
+IBIODCEP_00293	CDS	654	gpsB			Cell cycle protein GpsB
+IBIODCEP_00294	gene	3123	mupA			
+IBIODCEP_00294	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+IBIODCEP_00295	gene	816				
+IBIODCEP_00295	CDS	816				hypothetical protein
+IBIODCEP_00296	gene	747				
+IBIODCEP_00296	CDS	747				hypothetical protein
+IBIODCEP_00297	gene	1884				
+IBIODCEP_00297	CDS	1884				hypothetical protein
+IBIODCEP_00298	gene	951				
+IBIODCEP_00298	CDS	951				hypothetical protein
+IBIODCEP_00299	gene	693	glmU_1			
+IBIODCEP_00299	CDS	693	glmU_1	2.7.7.23		Bifunctional protein GlmU
+IBIODCEP_00300	gene	1176	bdhA			
+IBIODCEP_00300	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+IBIODCEP_00301	gene	762	rpsB			
+IBIODCEP_00301	CDS	762	rpsB			30S ribosomal protein S2
+IBIODCEP_00302	gene	909	tsf			
+IBIODCEP_00302	CDS	909	tsf		COG0264	Elongation factor Ts
+IBIODCEP_00303	gene	708	pyrH			
+IBIODCEP_00303	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+IBIODCEP_00304	gene	558	frr			
+IBIODCEP_00304	CDS	558	frr		COG0233	Ribosome-recycling factor
+IBIODCEP_00305	gene	732	uppS			
+IBIODCEP_00305	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+IBIODCEP_00306	gene	780				
+IBIODCEP_00306	CDS	780				hypothetical protein
+IBIODCEP_00307	gene	120				
+IBIODCEP_00307	CDS	120				hypothetical protein
+IBIODCEP_00308	gene	666				
+IBIODCEP_00308	CDS	666				hypothetical protein
+IBIODCEP_00309	gene	651				
+IBIODCEP_00309	CDS	651				hypothetical protein
+IBIODCEP_00310	gene	648	lnrK			
+IBIODCEP_00310	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+IBIODCEP_00311	gene	1146				
+IBIODCEP_00311	CDS	1146				hypothetical protein
+IBIODCEP_00312	gene	933	lnrL_1			
+IBIODCEP_00312	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IBIODCEP_00313	gene	1119				
+IBIODCEP_00313	CDS	1119				hypothetical protein
+IBIODCEP_00314	gene	1113				
+IBIODCEP_00314	CDS	1113				hypothetical protein
+IBIODCEP_00315	gene	597				
+IBIODCEP_00315	CDS	597				hypothetical protein
+IBIODCEP_00316	gene	378				
+IBIODCEP_00316	CDS	378				hypothetical protein
+IBIODCEP_00317	gene	2211	kdpB			
+IBIODCEP_00317	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+IBIODCEP_00318	gene	855				
+IBIODCEP_00318	CDS	855				hypothetical protein
+IBIODCEP_00319	gene	273				
+IBIODCEP_00319	CDS	273				hypothetical protein
+IBIODCEP_00320	gene	1956				
+IBIODCEP_00320	CDS	1956				hypothetical protein
+IBIODCEP_00321	gene	417				
+IBIODCEP_00321	CDS	417				hypothetical protein
+IBIODCEP_00322	gene	2904				
+IBIODCEP_00322	CDS	2904				hypothetical protein
+IBIODCEP_00323	gene	1581				
+IBIODCEP_00323	CDS	1581				hypothetical protein
+IBIODCEP_00324	gene	918				
+IBIODCEP_00324	CDS	918				hypothetical protein
+IBIODCEP_00325	gene	858				
+IBIODCEP_00325	CDS	858				hypothetical protein
+IBIODCEP_00326	gene	936				
+IBIODCEP_00326	CDS	936				hypothetical protein
+IBIODCEP_00327	gene	867				
+IBIODCEP_00327	CDS	867				hypothetical protein
+IBIODCEP_00328	gene	1119	ribD			
+IBIODCEP_00328	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+IBIODCEP_00329	gene	657	ribE			
+IBIODCEP_00329	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+IBIODCEP_00330	gene	1206	ribBA			
+IBIODCEP_00330	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+IBIODCEP_00331	gene	462	ribH			
+IBIODCEP_00331	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+IBIODCEP_00332	gene	687	glxR			
+IBIODCEP_00332	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+IBIODCEP_00333	gene	1011	asrA			
+IBIODCEP_00333	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+IBIODCEP_00334	gene	801	asrB			
+IBIODCEP_00334	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+IBIODCEP_00335	gene	972	asrC			
+IBIODCEP_00335	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+IBIODCEP_00336	gene	771	nirC			
+IBIODCEP_00336	CDS	771	nirC		COG2116	Nitrite transporter NirC
+IBIODCEP_00337	gene	324				
+IBIODCEP_00337	CDS	324				hypothetical protein
+IBIODCEP_00338	gene	546				
+IBIODCEP_00338	CDS	546				hypothetical protein
+IBIODCEP_00339	gene	402				
+IBIODCEP_00339	CDS	402				hypothetical protein
+IBIODCEP_00340	gene	522	dcd			
+IBIODCEP_00340	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+IBIODCEP_00341	gene	969	bioB_2			
+IBIODCEP_00341	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+IBIODCEP_00342	gene	933	hemC			
+IBIODCEP_00342	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+IBIODCEP_00343	gene	1524	cysG_1			
+IBIODCEP_00343	CDS	1524	cysG_1	4.99.1.4		Siroheme synthase
+IBIODCEP_00344	gene	969	hemB			
+IBIODCEP_00344	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+IBIODCEP_00345	gene	477	cysG_2			
+IBIODCEP_00345	CDS	477	cysG_2		COG0007	Siroheme synthase
+IBIODCEP_00346	gene	2364	pcrA			
+IBIODCEP_00346	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+IBIODCEP_00347	gene	1428	apeB			
+IBIODCEP_00347	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+IBIODCEP_00348	gene	525				
+IBIODCEP_00348	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+IBIODCEP_00349	gene	909	ppaC			
+IBIODCEP_00349	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+IBIODCEP_00350	gene	1239	queH			
+IBIODCEP_00350	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+IBIODCEP_00351	gene	810	ecsA_1			
+IBIODCEP_00351	CDS	810	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+IBIODCEP_00352	gene	1746				
+IBIODCEP_00352	CDS	1746				hypothetical protein
+IBIODCEP_00353	gene	1227				
+IBIODCEP_00353	CDS	1227				hypothetical protein
+IBIODCEP_00354	gene	696	ureG			
+IBIODCEP_00354	CDS	696	ureG			Urease accessory protein UreG
+IBIODCEP_00355	gene	996	btuD_1			
+IBIODCEP_00355	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IBIODCEP_00356	gene	681	tgnD			
+IBIODCEP_00356	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+IBIODCEP_00357	gene	498				
+IBIODCEP_00357	CDS	498				hypothetical protein
+IBIODCEP_00358	gene	993				
+IBIODCEP_00358	CDS	993				hypothetical protein
+IBIODCEP_00359	gene	672	cmpB			
+IBIODCEP_00359	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+IBIODCEP_00360	gene	600	fbpC			
+IBIODCEP_00360	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+IBIODCEP_00361	gene	1062	lytC_1			
+IBIODCEP_00361	CDS	1062	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+IBIODCEP_00362	gene	1203	roo			
+IBIODCEP_00362	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+IBIODCEP_00363	gene	462	dut_2			
+IBIODCEP_00363	CDS	462	dut_2	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IBIODCEP_00364	gene	915	nadA			
+IBIODCEP_00364	CDS	915	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+IBIODCEP_00365	gene	1311	nadB			
+IBIODCEP_00365	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+IBIODCEP_00366	gene	849	nadC			
+IBIODCEP_00366	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+IBIODCEP_00367	gene	1251	dinB			
+IBIODCEP_00367	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+IBIODCEP_00368	gene	1440	gnd			
+IBIODCEP_00368	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+IBIODCEP_00369	gene	1374	zwf			
+IBIODCEP_00369	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+IBIODCEP_00370	gene	969	trxB			
+IBIODCEP_00370	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+IBIODCEP_00371	gene	762				
+IBIODCEP_00371	CDS	762				hypothetical protein
+IBIODCEP_00372	gene	1365	trkA			
+IBIODCEP_00372	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+IBIODCEP_00373	gene	1452	trkG			
+IBIODCEP_00373	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+IBIODCEP_00374	gene	1278	purA			
+IBIODCEP_00374	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+IBIODCEP_00375	gene	1425	purB			
+IBIODCEP_00375	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+IBIODCEP_00376	gene	930				
+IBIODCEP_00376	CDS	930				hypothetical protein
+IBIODCEP_00377	gene	5559				
+IBIODCEP_00377	CDS	5559				hypothetical protein
+IBIODCEP_00378	gene	453				
+IBIODCEP_00378	CDS	453				hypothetical protein
+IBIODCEP_00379	gene	1374	argH			
+IBIODCEP_00379	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+IBIODCEP_00380	gene	1275	argG			
+IBIODCEP_00380	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+IBIODCEP_00381	gene	831	artP_1			
+IBIODCEP_00381	CDS	831	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+IBIODCEP_00382	gene	456	smpB			
+IBIODCEP_00382	CDS	456	smpB		COG0691	SsrA-binding protein
+IBIODCEP_00383	gene	2220	rnr			
+IBIODCEP_00383	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+IBIODCEP_00384	gene	231				
+IBIODCEP_00384	CDS	231				hypothetical protein
+IBIODCEP_00385	gene	1785				
+IBIODCEP_00385	CDS	1785				hypothetical protein
+IBIODCEP_00386	gene	1032				
+IBIODCEP_00386	CDS	1032				hypothetical protein
+IBIODCEP_00387	gene	1293	eno			
+IBIODCEP_00387	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+IBIODCEP_00388	gene	1527	gpmI			
+IBIODCEP_00388	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+IBIODCEP_00389	gene	741	tpiA			
+IBIODCEP_00389	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+IBIODCEP_00390	gene	1200	pgk			
+IBIODCEP_00390	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+IBIODCEP_00391	gene	1008	gap_1			
+IBIODCEP_00391	CDS	1008	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+IBIODCEP_00392	gene	1026	cggR			
+IBIODCEP_00392	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+IBIODCEP_00393	gene	786				
+IBIODCEP_00393	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+IBIODCEP_00394	gene	474	slyA			
+IBIODCEP_00394	CDS	474	slyA			Transcriptional regulator SlyA
+IBIODCEP_00395	gene	1374	mepA_1			
+IBIODCEP_00395	CDS	1374	mepA_1			Multidrug export protein MepA
+IBIODCEP_00396	gene	2358	sasA_2			
+IBIODCEP_00396	CDS	2358	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+IBIODCEP_00397	gene	714	phoP_2			
+IBIODCEP_00397	CDS	714	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+IBIODCEP_00398	gene	684	thiN			
+IBIODCEP_00398	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+IBIODCEP_00399	gene	657	rpe			
+IBIODCEP_00399	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+IBIODCEP_00400	gene	900	rsgA			
+IBIODCEP_00400	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+IBIODCEP_00401	gene	735	fabG_2			
+IBIODCEP_00401	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IBIODCEP_00402	gene	1884	prkC			
+IBIODCEP_00402	CDS	1884	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+IBIODCEP_00403	gene	750	prpC_2			
+IBIODCEP_00403	CDS	750	prpC_2	3.1.3.16	COG0631	Protein phosphatase PrpC
+IBIODCEP_00404	gene	1038	rlmN			
+IBIODCEP_00404	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+IBIODCEP_00405	gene	1344	rsmB			
+IBIODCEP_00405	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+IBIODCEP_00406	gene	690				
+IBIODCEP_00406	CDS	690				hypothetical protein
+IBIODCEP_00407	gene	930	fmt			
+IBIODCEP_00407	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+IBIODCEP_00408	gene	456	def1			
+IBIODCEP_00408	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+IBIODCEP_00409	gene	2313	priA			
+IBIODCEP_00409	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+IBIODCEP_00410	gene	1212	undec1A			
+IBIODCEP_00410	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+IBIODCEP_00411	gene	267	rpoZ			
+IBIODCEP_00411	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+IBIODCEP_00412	gene	642	gmk			
+IBIODCEP_00412	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+IBIODCEP_00413	gene	882				
+IBIODCEP_00413	CDS	882				hypothetical protein
+IBIODCEP_00414	gene	249				
+IBIODCEP_00414	CDS	249				hypothetical protein
+IBIODCEP_00415	gene	729	yehX			
+IBIODCEP_00415	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+IBIODCEP_00416	gene	1542				
+IBIODCEP_00416	CDS	1542				hypothetical protein
+IBIODCEP_00417	gene	438				
+IBIODCEP_00417	CDS	438				hypothetical protein
+IBIODCEP_00418	gene	1347	pgi			
+IBIODCEP_00418	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+IBIODCEP_00419	gene	1614				
+IBIODCEP_00419	CDS	1614				hypothetical protein
+IBIODCEP_00420	gene	375				
+IBIODCEP_00420	CDS	375				hypothetical protein
+IBIODCEP_00421	gene	1068				
+IBIODCEP_00421	CDS	1068				hypothetical protein
+IBIODCEP_00422	gene	435				
+IBIODCEP_00422	CDS	435				hypothetical protein
+IBIODCEP_00423	gene	1401				
+IBIODCEP_00423	CDS	1401				hypothetical protein
+IBIODCEP_00424	gene	390				
+IBIODCEP_00424	CDS	390				hypothetical protein
+IBIODCEP_00425	gene	1056	epsF			
+IBIODCEP_00425	CDS	1056	epsF		COG1459	Type II secretion system protein F
+IBIODCEP_00426	gene	1236				
+IBIODCEP_00426	CDS	1236				hypothetical protein
+IBIODCEP_00427	gene	1866	nhaP2			
+IBIODCEP_00427	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+IBIODCEP_00428	gene	561	nfrA1			
+IBIODCEP_00428	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+IBIODCEP_00429	gene	252				
+IBIODCEP_00429	CDS	252				hypothetical protein
+IBIODCEP_00430	gene	555				
+IBIODCEP_00430	CDS	555		3.1.3.-	COG5663	Nucleotidase
+IBIODCEP_00431	gene	708				
+IBIODCEP_00431	CDS	708				hypothetical protein
+IBIODCEP_00432	gene	786				
+IBIODCEP_00432	CDS	786				hypothetical protein
+IBIODCEP_00433	gene	930	gloB_1			
+IBIODCEP_00433	CDS	930	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+IBIODCEP_00434	gene	246				
+IBIODCEP_00434	CDS	246				hypothetical protein
+IBIODCEP_00435	gene	660				
+IBIODCEP_00435	CDS	660				hypothetical protein
+IBIODCEP_00436	gene	1221				
+IBIODCEP_00436	CDS	1221				hypothetical protein
+IBIODCEP_00437	gene	735				
+IBIODCEP_00437	CDS	735		3.1.3.-	COG0560	putative phosphatase
+IBIODCEP_00438	gene	291				
+IBIODCEP_00438	CDS	291				hypothetical protein
+IBIODCEP_00439	gene	627				
+IBIODCEP_00439	CDS	627				hypothetical protein
+IBIODCEP_00440	gene	408				
+IBIODCEP_00440	CDS	408				hypothetical protein
+IBIODCEP_00441	gene	438	sufU			
+IBIODCEP_00441	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+IBIODCEP_00442	gene	1236	csd			
+IBIODCEP_00442	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+IBIODCEP_00443	gene	831				
+IBIODCEP_00443	CDS	831				hypothetical protein
+IBIODCEP_00444	gene	1425				
+IBIODCEP_00444	CDS	1425				hypothetical protein
+IBIODCEP_00445	gene	765	sufC			
+IBIODCEP_00445	CDS	765	sufC		COG0396	Vegetative protein 296
+IBIODCEP_00446	gene	843				
+IBIODCEP_00446	CDS	843				hypothetical protein
+IBIODCEP_00447	gene	1353	mepA_2			
+IBIODCEP_00447	CDS	1353	mepA_2		COG0534	Multidrug export protein MepA
+IBIODCEP_00448	gene	1437	rcsC			
+IBIODCEP_00448	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+IBIODCEP_00449	gene	696	walR			
+IBIODCEP_00449	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+IBIODCEP_00450	gene	1365				
+IBIODCEP_00450	CDS	1365				hypothetical protein
+IBIODCEP_00451	gene	1149	rlmL_1			
+IBIODCEP_00451	CDS	1149	rlmL_1		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+IBIODCEP_00452	gene	1137				
+IBIODCEP_00452	CDS	1137				TelA-like protein
+IBIODCEP_00453	gene	1155				
+IBIODCEP_00453	CDS	1155				hypothetical protein
+IBIODCEP_00454	gene	645	artM_1			
+IBIODCEP_00454	CDS	645	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+IBIODCEP_00455	gene	618	artQ_1			
+IBIODCEP_00455	CDS	618	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+IBIODCEP_00456	gene	801	artJ			
+IBIODCEP_00456	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+IBIODCEP_00457	gene	1326				
+IBIODCEP_00457	CDS	1326				hypothetical protein
+IBIODCEP_00458	gene	4305				
+IBIODCEP_00458	CDS	4305				hypothetical protein
+IBIODCEP_00459	gene	1020	gap_2			
+IBIODCEP_00459	CDS	1020	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+IBIODCEP_00460	gene	339				
+IBIODCEP_00460	CDS	339				hypothetical protein
+IBIODCEP_00461	gene	741				
+IBIODCEP_00461	CDS	741				hypothetical protein
+IBIODCEP_00462	gene	1158				
+IBIODCEP_00462	CDS	1158				hypothetical protein
+IBIODCEP_00463	gene	1383	dinG			
+IBIODCEP_00463	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+IBIODCEP_00464	gene	852				
+IBIODCEP_00464	CDS	852				hypothetical protein
+IBIODCEP_00465	gene	885				
+IBIODCEP_00465	CDS	885				hypothetical protein
+IBIODCEP_00466	gene	4311	polC_2			
+IBIODCEP_00466	CDS	4311	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+IBIODCEP_00467	gene	699				
+IBIODCEP_00467	CDS	699				hypothetical protein
+IBIODCEP_00468	gene	786				
+IBIODCEP_00468	CDS	786				hypothetical protein
+IBIODCEP_00469	gene	1860				
+IBIODCEP_00469	CDS	1860				hypothetical protein
+IBIODCEP_00470	gene	834	thyA			
+IBIODCEP_00470	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+IBIODCEP_00471	gene	510	folA			
+IBIODCEP_00471	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+IBIODCEP_00472	gene	3747				
+IBIODCEP_00472	CDS	3747				hypothetical protein
+IBIODCEP_00473	gene	4719				
+IBIODCEP_00473	CDS	4719				hypothetical protein
+IBIODCEP_00474	gene	318				
+IBIODCEP_00474	CDS	318				hypothetical protein
+IBIODCEP_00475	gene	1278	sasA_3			
+IBIODCEP_00475	CDS	1278	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+IBIODCEP_00476	gene	675	arlR			
+IBIODCEP_00476	CDS	675	arlR		COG0745	Response regulator ArlR
+IBIODCEP_00477	gene	555				
+IBIODCEP_00477	CDS	555				hypothetical protein
+IBIODCEP_00478	gene	1761				
+IBIODCEP_00478	CDS	1761				hypothetical protein
+IBIODCEP_00479	gene	1515				
+IBIODCEP_00479	CDS	1515				hypothetical protein
+IBIODCEP_00480	gene	441				
+IBIODCEP_00480	CDS	441				hypothetical protein
+IBIODCEP_00481	gene	750	cobB			
+IBIODCEP_00481	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+IBIODCEP_00482	gene	519	scpB			
+IBIODCEP_00482	CDS	519	scpB		COG1386	Segregation and condensation protein B
+IBIODCEP_00483	gene	762	scpA			
+IBIODCEP_00483	CDS	762	scpA		COG1354	Segregation and condensation protein A
+IBIODCEP_00484	gene	633				
+IBIODCEP_00484	CDS	633				hypothetical protein
+IBIODCEP_00485	gene	1671	rnjA			
+IBIODCEP_00485	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+IBIODCEP_00486	gene	750				
+IBIODCEP_00486	CDS	750				hypothetical protein
+IBIODCEP_00487	gene	1500	guaB			
+IBIODCEP_00487	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+IBIODCEP_00488	gene	1050	recA			
+IBIODCEP_00488	CDS	1050	recA		COG0468	Protein RecA
+IBIODCEP_00489	gene	540	pgsA			
+IBIODCEP_00489	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+IBIODCEP_00490	gene	1323	rimO			
+IBIODCEP_00490	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+IBIODCEP_00491	gene	2574				
+IBIODCEP_00491	CDS	2574				hypothetical protein
+IBIODCEP_00492	gene	1266				
+IBIODCEP_00492	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+IBIODCEP_00493	gene	2073				
+IBIODCEP_00493	CDS	2073				hypothetical protein
+IBIODCEP_00494	gene	2091	pnp			
+IBIODCEP_00494	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+IBIODCEP_00495	gene	846				
+IBIODCEP_00495	CDS	846			COG1307	Fatty acid-binding protein
+IBIODCEP_00496	gene	255	rpsO			
+IBIODCEP_00496	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+IBIODCEP_00497	gene	972	ribF			
+IBIODCEP_00497	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+IBIODCEP_00498	gene	903	truB			
+IBIODCEP_00498	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+IBIODCEP_00499	gene	1017	nrnA			
+IBIODCEP_00499	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+IBIODCEP_00500	gene	1926	thrZ			
+IBIODCEP_00500	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+IBIODCEP_00501	gene	642				
+IBIODCEP_00501	CDS	642				hypothetical protein
+IBIODCEP_00502	gene	1824	dap			
+IBIODCEP_00502	CDS	1824	dap	3.4.11.19		D-aminopeptidase
+IBIODCEP_00503	gene	1380	mepA_3			
+IBIODCEP_00503	CDS	1380	mepA_3			Multidrug export protein MepA
+IBIODCEP_00504	gene	585				
+IBIODCEP_00504	CDS	585				hypothetical protein
+IBIODCEP_00505	gene	1755	msbA_1			
+IBIODCEP_00505	CDS	1755	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+IBIODCEP_00506	gene	1755				
+IBIODCEP_00506	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+IBIODCEP_00507	gene	1458	ykoD_1			
+IBIODCEP_00507	CDS	1458	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+IBIODCEP_00508	gene	705	ecfT_1			
+IBIODCEP_00508	CDS	705	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+IBIODCEP_00509	gene	597				
+IBIODCEP_00509	CDS	597				hypothetical protein
+IBIODCEP_00510	gene	615				
+IBIODCEP_00510	CDS	615				hypothetical protein
+IBIODCEP_00511	gene	651				
+IBIODCEP_00511	CDS	651				hypothetical protein
+IBIODCEP_00512	gene	678	macB_2			
+IBIODCEP_00512	CDS	678	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+IBIODCEP_00513	gene	2505				
+IBIODCEP_00513	CDS	2505				hypothetical protein
+IBIODCEP_00514	gene	126				
+IBIODCEP_00514	CDS	126				hypothetical protein
+IBIODCEP_00515	gene	414				
+IBIODCEP_00515	CDS	414				hypothetical protein
+IBIODCEP_00516	gene	516				
+IBIODCEP_00516	CDS	516				hypothetical protein
+IBIODCEP_00517	gene	495				
+IBIODCEP_00517	CDS	495				hypothetical protein
+IBIODCEP_00518	gene	663	bcrA_1			
+IBIODCEP_00518	CDS	663	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+IBIODCEP_00519	gene	702				
+IBIODCEP_00519	CDS	702				hypothetical protein
+IBIODCEP_00520	gene	789				
+IBIODCEP_00520	CDS	789				hypothetical protein
+IBIODCEP_00521	gene	789				
+IBIODCEP_00521	CDS	789				hypothetical protein
+IBIODCEP_00522	gene	1383				
+IBIODCEP_00522	CDS	1383				hypothetical protein
+IBIODCEP_00523	gene	390				
+IBIODCEP_00523	CDS	390				hypothetical protein
+IBIODCEP_00524	gene	1128	msmX			
+IBIODCEP_00524	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+IBIODCEP_00525	gene	642	ycjU			
+IBIODCEP_00525	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+IBIODCEP_00526	gene	1662	malL			
+IBIODCEP_00526	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+IBIODCEP_00527	gene	2289	malP			
+IBIODCEP_00527	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+IBIODCEP_00528	gene	822	melC			
+IBIODCEP_00528	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+IBIODCEP_00529	gene	873	melD			
+IBIODCEP_00529	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+IBIODCEP_00530	gene	1287				
+IBIODCEP_00530	CDS	1287				hypothetical protein
+IBIODCEP_00531	gene	993	malR			
+IBIODCEP_00531	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+IBIODCEP_00532	gene	894	bglK			
+IBIODCEP_00532	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+IBIODCEP_00533	gene	465	yfkJ			
+IBIODCEP_00533	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+IBIODCEP_00534	gene	1332	mepA_4			
+IBIODCEP_00534	CDS	1332	mepA_4			Multidrug export protein MepA
+IBIODCEP_00535	gene	582				
+IBIODCEP_00535	CDS	582				hypothetical protein
+IBIODCEP_00536	gene	711				
+IBIODCEP_00536	CDS	711				hypothetical protein
+IBIODCEP_00537	gene	1329				
+IBIODCEP_00537	CDS	1329				hypothetical protein
+IBIODCEP_00538	gene	3081	smc_2			
+IBIODCEP_00538	CDS	3081	smc_2			Chromosome partition protein Smc
+IBIODCEP_00539	gene	1224	cpdA_1			
+IBIODCEP_00539	CDS	1224	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IBIODCEP_00540	gene	3933	addA			
+IBIODCEP_00540	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+IBIODCEP_00541	gene	3417	addB			
+IBIODCEP_00541	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+IBIODCEP_00542	gene	684				
+IBIODCEP_00542	CDS	684				hypothetical protein
+IBIODCEP_00543	gene	2253	rep			
+IBIODCEP_00543	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+IBIODCEP_00544	gene	1683				
+IBIODCEP_00544	CDS	1683				hypothetical protein
+IBIODCEP_00545	gene	369				
+IBIODCEP_00545	CDS	369				hypothetical protein
+IBIODCEP_00546	gene	750				
+IBIODCEP_00546	CDS	750				hypothetical protein
+IBIODCEP_00547	gene	1479	lsa(C)			
+IBIODCEP_00547	CDS	1479	lsa(C)			ABC-F type ribosomal protection protein Lsa(C)
+IBIODCEP_00548	gene	138				
+IBIODCEP_00548	CDS	138				hypothetical protein
+IBIODCEP_00549	gene	804				
+IBIODCEP_00549	CDS	804				hypothetical protein
+IBIODCEP_00550	gene	513				
+IBIODCEP_00550	CDS	513				hypothetical protein
+IBIODCEP_00551	gene	378				
+IBIODCEP_00551	CDS	378				hypothetical protein
+IBIODCEP_00552	gene	1053				
+IBIODCEP_00552	CDS	1053				hypothetical protein
+IBIODCEP_00553	gene	228				
+IBIODCEP_00553	CDS	228				hypothetical protein
+IBIODCEP_00554	gene	1266	clpX			
+IBIODCEP_00554	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+IBIODCEP_00555	gene	585	clpP			
+IBIODCEP_00555	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+IBIODCEP_00556	gene	1284	tig			
+IBIODCEP_00556	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+IBIODCEP_00557	gene	474				
+IBIODCEP_00557	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+IBIODCEP_00558	gene	1461	rph			
+IBIODCEP_00558	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+IBIODCEP_00559	gene	2109	ligA			
+IBIODCEP_00559	CDS	2109	ligA	6.5.1.2		DNA ligase
+IBIODCEP_00560	gene	465	bcp			
+IBIODCEP_00560	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+IBIODCEP_00561	gene	636	opuCD			
+IBIODCEP_00561	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+IBIODCEP_00562	gene	1662				
+IBIODCEP_00562	CDS	1662				hypothetical protein
+IBIODCEP_00563	gene	1170	opuCA			
+IBIODCEP_00563	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+IBIODCEP_00564	gene	1188	uctC			
+IBIODCEP_00564	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+IBIODCEP_00565	gene	285				
+IBIODCEP_00565	CDS	285				hypothetical protein
+IBIODCEP_00566	gene	723				
+IBIODCEP_00566	CDS	723			COG0217	putative transcriptional regulatory protein
+IBIODCEP_00567	gene	759	nadE			
+IBIODCEP_00567	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+IBIODCEP_00568	gene	642				
+IBIODCEP_00568	CDS	642				hypothetical protein
+IBIODCEP_00569	gene	678				
+IBIODCEP_00569	CDS	678				hypothetical protein
+IBIODCEP_00570	gene	423				
+IBIODCEP_00570	CDS	423				hypothetical protein
+IBIODCEP_00571	gene	219				
+IBIODCEP_00571	CDS	219				hypothetical protein
+IBIODCEP_00572	gene	675				
+IBIODCEP_00572	CDS	675				hypothetical protein
+IBIODCEP_00573	gene	1731	cdr			
+IBIODCEP_00573	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+IBIODCEP_00574	gene	288	pagR			
+IBIODCEP_00574	CDS	288	pagR			Transcriptional repressor PagR
+IBIODCEP_00575	gene	546	hpt_2			
+IBIODCEP_00575	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+IBIODCEP_00576	gene	723	engB_2			
+IBIODCEP_00576	CDS	723	engB_2			GTP-binding protein EngB
+IBIODCEP_00577	gene	2424	lon1			
+IBIODCEP_00577	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+IBIODCEP_00578	gene	468				
+IBIODCEP_00578	CDS	468				hypothetical protein
+IBIODCEP_00579	gene	534				
+IBIODCEP_00579	CDS	534				hypothetical protein
+IBIODCEP_00580	gene	240				
+IBIODCEP_00580	CDS	240				hypothetical protein
+IBIODCEP_00581	gene	1455				
+IBIODCEP_00581	CDS	1455				hypothetical protein
+IBIODCEP_00582	gene	1701	argS			
+IBIODCEP_00582	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+IBIODCEP_00583	gene	468				
+IBIODCEP_00583	CDS	468				hypothetical protein
+IBIODCEP_00584	gene	2424	mutS2			
+IBIODCEP_00584	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+IBIODCEP_00585	gene	1449	pepD_1			
+IBIODCEP_00585	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+IBIODCEP_00586	gene	876				
+IBIODCEP_00586	CDS	876				DegV domain-containing protein
+IBIODCEP_00587	gene	471	trmL			
+IBIODCEP_00587	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+IBIODCEP_00588	gene	639	pdg			
+IBIODCEP_00588	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+IBIODCEP_00589	gene	1656	udk			
+IBIODCEP_00589	CDS	1656	udk	2.7.1.48		Uridine kinase
+IBIODCEP_00590	gene	606	sipT			
+IBIODCEP_00590	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+IBIODCEP_00591	gene	1500	rsmF			
+IBIODCEP_00591	CDS	1500	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+IBIODCEP_00592	gene	591				
+IBIODCEP_00592	CDS	591				hypothetical protein
+IBIODCEP_00593	gene	1305	pdp			
+IBIODCEP_00593	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+IBIODCEP_00594	gene	3783	purL			
+IBIODCEP_00594	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+IBIODCEP_00595	gene	1269	purD			
+IBIODCEP_00595	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+IBIODCEP_00596	gene	1533	purH			
+IBIODCEP_00596	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+IBIODCEP_00597	gene	594	purN			
+IBIODCEP_00597	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+IBIODCEP_00598	gene	1077	purM			
+IBIODCEP_00598	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+IBIODCEP_00599	gene	477	purE			
+IBIODCEP_00599	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+IBIODCEP_00600	gene	2481				
+IBIODCEP_00600	CDS	2481				hypothetical protein
+IBIODCEP_00601	gene	708	ytrE_1			
+IBIODCEP_00601	CDS	708	ytrE_1		COG1136	ABC transporter ATP-binding protein YtrE
+IBIODCEP_00602	gene	279				
+IBIODCEP_00602	CDS	279				hypothetical protein
+IBIODCEP_00603	gene	1506	glpK			
+IBIODCEP_00603	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+IBIODCEP_00604	gene	147				
+IBIODCEP_00604	CDS	147				hypothetical protein
+IBIODCEP_00605	gene	1788	pepF1			
+IBIODCEP_00605	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+IBIODCEP_00606	gene	528				
+IBIODCEP_00606	CDS	528				hypothetical protein
+IBIODCEP_00607	gene	1083	hhoB			
+IBIODCEP_00607	CDS	1083	hhoB			Putative serine protease HhoB
+IBIODCEP_00608	gene	297				
+IBIODCEP_00608	CDS	297				hypothetical protein
+IBIODCEP_00609	gene	1281	obg			
+IBIODCEP_00609	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+IBIODCEP_00610	gene	291	rpmA			
+IBIODCEP_00610	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+IBIODCEP_00611	gene	318				
+IBIODCEP_00611	CDS	318				hypothetical protein
+IBIODCEP_00612	gene	309	rplU			
+IBIODCEP_00612	CDS	309	rplU		COG0261	50S ribosomal protein L21
+IBIODCEP_00613	gene	915	yijE			
+IBIODCEP_00613	CDS	915	yijE			putative cystine transporter YijE
+IBIODCEP_00614	gene	2421	leuS			
+IBIODCEP_00614	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+IBIODCEP_00615	gene	351	rsfS			
+IBIODCEP_00615	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+IBIODCEP_00616	gene	576				
+IBIODCEP_00616	CDS	576				hypothetical protein
+IBIODCEP_00617	gene	696	nadD			
+IBIODCEP_00617	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+IBIODCEP_00618	gene	624	recX			
+IBIODCEP_00618	CDS	624	recX			Regulatory protein RecX
+IBIODCEP_00619	gene	348	crcB_1			
+IBIODCEP_00619	CDS	348	crcB_1			Putative fluoride ion transporter CrcB
+IBIODCEP_00620	gene	462	crcB_2			
+IBIODCEP_00620	CDS	462	crcB_2			Putative fluoride ion transporter CrcB
+IBIODCEP_00621	gene	921	rbn			
+IBIODCEP_00621	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+IBIODCEP_00622	gene	1401	rne			
+IBIODCEP_00622	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+IBIODCEP_00623	gene	699				
+IBIODCEP_00623	CDS	699				hypothetical protein
+IBIODCEP_00624	gene	1860				
+IBIODCEP_00624	CDS	1860				hypothetical protein
+IBIODCEP_00625	gene	1113	mrdB			
+IBIODCEP_00625	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+IBIODCEP_00626	gene	2898	mrdA			
+IBIODCEP_00626	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+IBIODCEP_00627	gene	486				
+IBIODCEP_00627	CDS	486				hypothetical protein
+IBIODCEP_00628	gene	882				
+IBIODCEP_00628	CDS	882				hypothetical protein
+IBIODCEP_00629	gene	1050	mreB_1			
+IBIODCEP_00629	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+IBIODCEP_00630	gene	687				
+IBIODCEP_00630	CDS	687				hypothetical protein
+IBIODCEP_00631	gene	864	rnfB			
+IBIODCEP_00631	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+IBIODCEP_00632	gene	576	rnfA			
+IBIODCEP_00632	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+IBIODCEP_00633	gene	594	rnfE			
+IBIODCEP_00633	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+IBIODCEP_00634	gene	567	rnfG			
+IBIODCEP_00634	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+IBIODCEP_00635	gene	987	rnfD			
+IBIODCEP_00635	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+IBIODCEP_00636	gene	1344	rnfC			
+IBIODCEP_00636	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+IBIODCEP_00637	gene	1431				
+IBIODCEP_00637	CDS	1431				hypothetical protein
+IBIODCEP_00638	gene	213				
+IBIODCEP_00638	CDS	213				hypothetical protein
+IBIODCEP_00639	gene	561	mltC			
+IBIODCEP_00639	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+IBIODCEP_00640	gene	606	coaE			
+IBIODCEP_00640	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+IBIODCEP_00641	gene	2643	polA			
+IBIODCEP_00641	CDS	2643	polA	2.7.7.7		DNA polymerase I
+IBIODCEP_00642	gene	85				
+IBIODCEP_00642	tRNA	85				tRNA-Leu(caa)
+IBIODCEP_00643	gene	912	cmpR			
+IBIODCEP_00643	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+IBIODCEP_00644	gene	201				
+IBIODCEP_00644	CDS	201				hypothetical protein
+IBIODCEP_00645	gene	1404	lysN			
+IBIODCEP_00645	CDS	1404	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+IBIODCEP_00646	gene	234				
+IBIODCEP_00646	CDS	234				hypothetical protein
+IBIODCEP_00647	gene	1014	ccpA			
+IBIODCEP_00647	CDS	1014	ccpA		COG1609	Catabolite control protein A
+IBIODCEP_00648	gene	228	acpP_2			
+IBIODCEP_00648	CDS	228	acpP_2			Acyl carrier protein
+IBIODCEP_00649	gene	1011				
+IBIODCEP_00649	CDS	1011				hypothetical protein
+IBIODCEP_00650	gene	933	rluD_1			
+IBIODCEP_00650	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+IBIODCEP_00651	gene	846	nadK			
+IBIODCEP_00651	CDS	846	nadK	2.7.1.23		NAD kinase
+IBIODCEP_00652	gene	1035	icd			
+IBIODCEP_00652	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+IBIODCEP_00653	gene	1974	leuC			
+IBIODCEP_00653	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+IBIODCEP_00654	gene	1077	cshE			
+IBIODCEP_00654	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+IBIODCEP_00655	gene	330				
+IBIODCEP_00655	CDS	330				hypothetical protein
+IBIODCEP_00656	gene	2688				
+IBIODCEP_00656	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+IBIODCEP_00657	gene	1062				
+IBIODCEP_00657	CDS	1062				hypothetical protein
+IBIODCEP_00658	gene	597				
+IBIODCEP_00658	CDS	597				hypothetical protein
+IBIODCEP_00659	gene	603				
+IBIODCEP_00659	CDS	603				hypothetical protein
+IBIODCEP_00660	gene	1077	lytC_2			
+IBIODCEP_00660	CDS	1077	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+IBIODCEP_00661	gene	243				
+IBIODCEP_00661	CDS	243				hypothetical protein
+IBIODCEP_00662	gene	1338				
+IBIODCEP_00662	CDS	1338		1.6.99.3		putative NADH oxidase
+IBIODCEP_00663	gene	411				
+IBIODCEP_00663	CDS	411				hypothetical protein
+IBIODCEP_00664	gene	894	brnQ_1			
+IBIODCEP_00664	CDS	894	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+IBIODCEP_00665	gene	861				
+IBIODCEP_00665	CDS	861				hypothetical protein
+IBIODCEP_00666	gene	594				
+IBIODCEP_00666	CDS	594				hypothetical protein
+IBIODCEP_00667	gene	675	ung			
+IBIODCEP_00667	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+IBIODCEP_00668	gene	375				
+IBIODCEP_00668	CDS	375				hypothetical protein
+IBIODCEP_00669	gene	1050	apbE			
+IBIODCEP_00669	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+IBIODCEP_00670	gene	2505				
+IBIODCEP_00670	CDS	2505				hypothetical protein
+IBIODCEP_00671	gene	672	lolD_1			
+IBIODCEP_00671	CDS	672	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+IBIODCEP_00672	gene	975	sasA_4			
+IBIODCEP_00672	CDS	975	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+IBIODCEP_00673	gene	672	qseB_2			
+IBIODCEP_00673	CDS	672	qseB_2			Transcriptional regulatory protein QseB
+IBIODCEP_00674	gene	495	nusB			
+IBIODCEP_00674	CDS	495	nusB			Transcription antitermination protein NusB
+IBIODCEP_00675	gene	342				
+IBIODCEP_00675	CDS	342				putative protein
+IBIODCEP_00676	gene	1977	fbp			
+IBIODCEP_00676	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+IBIODCEP_00677	gene	1017	plsX			
+IBIODCEP_00677	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+IBIODCEP_00678	gene	180	rpmF			
+IBIODCEP_00678	CDS	180	rpmF			50S ribosomal protein L32
+IBIODCEP_00679	gene	519				
+IBIODCEP_00679	CDS	519				hypothetical protein
+IBIODCEP_00680	gene	1200	ackA			
+IBIODCEP_00680	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+IBIODCEP_00681	gene	1311	tmcAL			
+IBIODCEP_00681	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+IBIODCEP_00682	gene	546				
+IBIODCEP_00682	CDS	546			COG3599	putative protein
+IBIODCEP_00683	gene	483	coaD			
+IBIODCEP_00683	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+IBIODCEP_00684	gene	561	rsmD			
+IBIODCEP_00684	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+IBIODCEP_00685	gene	2058	recG			
+IBIODCEP_00685	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+IBIODCEP_00686	gene	1665				
+IBIODCEP_00686	CDS	1665				putative protein
+IBIODCEP_00687	gene	351				
+IBIODCEP_00687	CDS	351				putative protein
+IBIODCEP_00688	gene	189	rpmB			
+IBIODCEP_00688	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+IBIODCEP_00689	gene	1728	ade			
+IBIODCEP_00689	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+IBIODCEP_00690	gene	1233				
+IBIODCEP_00690	CDS	1233				hypothetical protein
+IBIODCEP_00691	gene	1293				
+IBIODCEP_00691	CDS	1293				hypothetical protein
+IBIODCEP_00692	gene	1347	rpoN			
+IBIODCEP_00692	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+IBIODCEP_00693	gene	1044				
+IBIODCEP_00693	CDS	1044				hypothetical protein
+IBIODCEP_00694	gene	690				
+IBIODCEP_00694	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+IBIODCEP_00695	gene	1164	ugtP_1			
+IBIODCEP_00695	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+IBIODCEP_00696	gene	465				
+IBIODCEP_00696	CDS	465				hypothetical protein
+IBIODCEP_00697	gene	651				
+IBIODCEP_00697	CDS	651				hypothetical protein
+IBIODCEP_00698	gene	525				
+IBIODCEP_00698	CDS	525				hypothetical protein
+IBIODCEP_00699	gene	987	nrdF			
+IBIODCEP_00699	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+IBIODCEP_00700	gene	2109	nrdE			
+IBIODCEP_00700	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+IBIODCEP_00701	gene	2403				
+IBIODCEP_00701	CDS	2403				hypothetical protein
+IBIODCEP_00702	gene	237	dltC			
+IBIODCEP_00702	CDS	237	dltC		COG0236	D-alanyl carrier protein
+IBIODCEP_00703	gene	1161				
+IBIODCEP_00703	CDS	1161				hypothetical protein
+IBIODCEP_00704	gene	1599	dltA			
+IBIODCEP_00704	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+IBIODCEP_00705	gene	126				
+IBIODCEP_00705	CDS	126				hypothetical protein
+IBIODCEP_00706	gene	1227	dltD			
+IBIODCEP_00706	CDS	1227	dltD		COG3966	Protein DltD
+IBIODCEP_00707	gene	1173				
+IBIODCEP_00707	CDS	1173				hypothetical protein
+IBIODCEP_00708	gene	300				
+IBIODCEP_00708	CDS	300				hypothetical protein
+IBIODCEP_00709	gene	1362	gabR			
+IBIODCEP_00709	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+IBIODCEP_00710	gene	858	pdxS			
+IBIODCEP_00710	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+IBIODCEP_00711	gene	885				
+IBIODCEP_00711	CDS	885				hypothetical protein
+IBIODCEP_00712	gene	1872	yjcD			
+IBIODCEP_00712	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+IBIODCEP_00713	gene	1587	clcA			
+IBIODCEP_00713	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+IBIODCEP_00714	gene	858	folD			
+IBIODCEP_00714	CDS	858	folD			Bifunctional protein FolD protein
+IBIODCEP_00715	gene	636	fchA			
+IBIODCEP_00715	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+IBIODCEP_00716	gene	141				
+IBIODCEP_00716	CDS	141				hypothetical protein
+IBIODCEP_00717	gene	1980	htpG			
+IBIODCEP_00717	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+IBIODCEP_00718	gene	76				
+IBIODCEP_00718	tRNA	76				tRNA-Val(tac)
+IBIODCEP_00719	gene	77				
+IBIODCEP_00719	tRNA	77				tRNA-Asp(gtc)
+IBIODCEP_00720	gene	75				
+IBIODCEP_00720	tRNA	75				tRNA-Gly(gcc)
+IBIODCEP_00721	gene	76				
+IBIODCEP_00721	tRNA	76				tRNA-Pyl(cta)
+IBIODCEP_00722	gene	852	cdaA			
+IBIODCEP_00722	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+IBIODCEP_00723	gene	915	cdaR			
+IBIODCEP_00723	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+IBIODCEP_00724	gene	1083	buk2			
+IBIODCEP_00724	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+IBIODCEP_00725	gene	678				
+IBIODCEP_00725	CDS	678				hypothetical protein
+IBIODCEP_00726	gene	216	rsxB_1			
+IBIODCEP_00726	CDS	216	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+IBIODCEP_00727	gene	1065	padG			
+IBIODCEP_00727	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+IBIODCEP_00728	gene	780	korB			
+IBIODCEP_00728	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+IBIODCEP_00729	gene	555				
+IBIODCEP_00729	CDS	555				hypothetical protein
+IBIODCEP_00730	gene	1368	glmM			
+IBIODCEP_00730	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+IBIODCEP_00731	gene	177				
+IBIODCEP_00731	CDS	177				hypothetical protein
+IBIODCEP_00732	gene	1254	murAA			
+IBIODCEP_00732	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+IBIODCEP_00733	gene	1011	mreB_2			
+IBIODCEP_00733	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+IBIODCEP_00734	gene	1185	metK			
+IBIODCEP_00734	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+IBIODCEP_00735	gene	2220	recD2			
+IBIODCEP_00735	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+IBIODCEP_00736	gene	771				
+IBIODCEP_00736	CDS	771				hypothetical protein
+IBIODCEP_00737	gene	540	folT			
+IBIODCEP_00737	CDS	540	folT			Folate transporter FolT
+IBIODCEP_00738	gene	2691	secA_1			
+IBIODCEP_00738	CDS	2691	secA_1			Protein translocase subunit SecA
+IBIODCEP_00739	gene	1671	norR			
+IBIODCEP_00739	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+IBIODCEP_00740	gene	1182				
+IBIODCEP_00740	CDS	1182				hypothetical protein
+IBIODCEP_00741	gene	1212	fldA_1			
+IBIODCEP_00741	CDS	1212	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+IBIODCEP_00742	gene	1233	hadB			
+IBIODCEP_00742	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+IBIODCEP_00743	gene	1125	hadC_1			
+IBIODCEP_00743	CDS	1125	hadC_1	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+IBIODCEP_00744	gene	1143	carC_1			
+IBIODCEP_00744	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+IBIODCEP_00745	gene	786	carD_1			
+IBIODCEP_00745	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+IBIODCEP_00746	gene	1011	carE_1			
+IBIODCEP_00746	CDS	1011	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+IBIODCEP_00747	gene	999				
+IBIODCEP_00747	CDS	999		1.1.1.28		D-lactate dehydrogenase
+IBIODCEP_00748	gene	1047	prfB			
+IBIODCEP_00748	CDS	1047	prfB			Peptide chain release factor 2
+IBIODCEP_00749	gene	2163	yhgF			
+IBIODCEP_00749	CDS	2163	yhgF		COG2183	Protein YhgF
+IBIODCEP_00750	gene	621	ribU			
+IBIODCEP_00750	CDS	621	ribU			Riboflavin transporter RibU
+IBIODCEP_00751	gene	795	fldI			
+IBIODCEP_00751	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+IBIODCEP_00752	gene	921				
+IBIODCEP_00752	CDS	921				hypothetical protein
+IBIODCEP_00753	gene	459	tsaE			
+IBIODCEP_00753	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+IBIODCEP_00754	gene	720	tsaB			
+IBIODCEP_00754	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+IBIODCEP_00755	gene	450	rimI			
+IBIODCEP_00755	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+IBIODCEP_00756	gene	1020	tsaD			
+IBIODCEP_00756	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+IBIODCEP_00757	gene	1932	yheS			
+IBIODCEP_00757	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+IBIODCEP_00758	gene	636	rex1			
+IBIODCEP_00758	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+IBIODCEP_00759	gene	168				
+IBIODCEP_00759	CDS	168			COG1145	Ferredoxin
+IBIODCEP_00760	gene	1254				
+IBIODCEP_00760	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+IBIODCEP_00761	gene	657				
+IBIODCEP_00761	CDS	657				hypothetical protein
+IBIODCEP_00762	gene	219				
+IBIODCEP_00762	CDS	219				hypothetical protein
+IBIODCEP_00763	gene	234				
+IBIODCEP_00763	CDS	234				hypothetical protein
+IBIODCEP_00764	gene	2151	feoB			
+IBIODCEP_00764	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+IBIODCEP_00765	gene	168				
+IBIODCEP_00765	CDS	168				hypothetical protein
+IBIODCEP_00766	gene	1557				
+IBIODCEP_00766	CDS	1557				hypothetical protein
+IBIODCEP_00767	gene	486				
+IBIODCEP_00767	CDS	486				hypothetical protein
+IBIODCEP_00768	gene	651				
+IBIODCEP_00768	CDS	651				hypothetical protein
+IBIODCEP_00769	gene	954				
+IBIODCEP_00769	CDS	954				hypothetical protein
+IBIODCEP_00770	gene	285				
+IBIODCEP_00770	CDS	285				hypothetical protein
+IBIODCEP_00771	gene	2637	alaS_1			
+IBIODCEP_00771	CDS	2637	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+IBIODCEP_00772	gene	261				
+IBIODCEP_00772	CDS	261				hypothetical protein
+IBIODCEP_00773	gene	2280				
+IBIODCEP_00773	CDS	2280				hypothetical protein
+IBIODCEP_00774	gene	417	yrrK			
+IBIODCEP_00774	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+IBIODCEP_00775	gene	450	fur			
+IBIODCEP_00775	CDS	450	fur		COG0735	Ferric uptake regulation protein
+IBIODCEP_00776	gene	1083				
+IBIODCEP_00776	CDS	1083				hypothetical protein
+IBIODCEP_00777	gene	1626				
+IBIODCEP_00777	CDS	1626				hypothetical protein
+IBIODCEP_00778	gene	1548	rny			
+IBIODCEP_00778	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+IBIODCEP_00779	gene	1782				
+IBIODCEP_00779	CDS	1782				hypothetical protein
+IBIODCEP_00780	gene	813	uppP			
+IBIODCEP_00780	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+IBIODCEP_00781	gene	1200				
+IBIODCEP_00781	CDS	1200		2.6.1.1		Aspartate aminotransferase
+IBIODCEP_00782	gene	957	galT			
+IBIODCEP_00782	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+IBIODCEP_00783	gene	1902				
+IBIODCEP_00783	CDS	1902				hypothetical protein
+IBIODCEP_00784	gene	825	pdxY			
+IBIODCEP_00784	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+IBIODCEP_00785	gene	201	cspA			
+IBIODCEP_00785	CDS	201	cspA		COG1278	Cold shock protein CspA
+IBIODCEP_00786	gene	453				
+IBIODCEP_00786	CDS	453				hypothetical protein
+IBIODCEP_00787	gene	465				
+IBIODCEP_00787	CDS	465				hypothetical protein
+IBIODCEP_00788	gene	444				
+IBIODCEP_00788	CDS	444				hypothetical protein
+IBIODCEP_00789	gene	768	prsA_1			
+IBIODCEP_00789	CDS	768	prsA_1	5.2.1.8		Foldase protein PrsA
+IBIODCEP_00790	gene	2175	btuD_2			
+IBIODCEP_00790	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IBIODCEP_00791	gene	1878				
+IBIODCEP_00791	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+IBIODCEP_00792	gene	1161				
+IBIODCEP_00792	CDS	1161				hypothetical protein
+IBIODCEP_00793	gene	678				
+IBIODCEP_00793	CDS	678				hypothetical protein
+IBIODCEP_00794	gene	954	msrAB			
+IBIODCEP_00794	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+IBIODCEP_00795	gene	1395	alaS_2			
+IBIODCEP_00795	CDS	1395	alaS_2	6.1.1.7		Alanine--tRNA ligase
+IBIODCEP_00796	gene	318				
+IBIODCEP_00796	CDS	318				hypothetical protein
+IBIODCEP_00797	gene	582				
+IBIODCEP_00797	CDS	582				hypothetical protein
+IBIODCEP_00798	gene	1107				
+IBIODCEP_00798	CDS	1107				hypothetical protein
+IBIODCEP_00799	gene	1206	xseA			
+IBIODCEP_00799	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+IBIODCEP_00800	gene	246	xseB			
+IBIODCEP_00800	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+IBIODCEP_00801	gene	885				
+IBIODCEP_00801	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+IBIODCEP_00802	gene	432				
+IBIODCEP_00802	CDS	432				hypothetical protein
+IBIODCEP_00803	gene	1947	dxs			
+IBIODCEP_00803	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+IBIODCEP_00804	gene	843	tlyA			
+IBIODCEP_00804	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+IBIODCEP_00805	gene	1683	recN			
+IBIODCEP_00805	CDS	1683	recN		COG0497	DNA repair protein RecN
+IBIODCEP_00806	gene	1122				
+IBIODCEP_00806	CDS	1122				hypothetical protein
+IBIODCEP_00807	gene	864				
+IBIODCEP_00807	CDS	864				hypothetical protein
+IBIODCEP_00808	gene	687	ppm1			
+IBIODCEP_00808	CDS	687	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+IBIODCEP_00809	gene	831				
+IBIODCEP_00809	CDS	831				hypothetical protein
+IBIODCEP_00810	gene	1074				
+IBIODCEP_00810	CDS	1074				hypothetical protein
+IBIODCEP_00811	gene	822	punA			
+IBIODCEP_00811	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+IBIODCEP_00812	gene	1203	mltG			
+IBIODCEP_00812	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+IBIODCEP_00813	gene	645	trmR			
+IBIODCEP_00813	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+IBIODCEP_00814	gene	1233				
+IBIODCEP_00814	CDS	1233				hypothetical protein
+IBIODCEP_00815	gene	471				
+IBIODCEP_00815	CDS	471				hypothetical protein
+IBIODCEP_00816	gene	708				
+IBIODCEP_00816	CDS	708				hypothetical protein
+IBIODCEP_00817	gene	477				
+IBIODCEP_00817	CDS	477				hypothetical protein
+IBIODCEP_00818	gene	528				
+IBIODCEP_00818	CDS	528				hypothetical protein
+IBIODCEP_00819	gene	1032				
+IBIODCEP_00819	CDS	1032				hypothetical protein
+IBIODCEP_00820	gene	834				
+IBIODCEP_00820	CDS	834				hypothetical protein
+IBIODCEP_00821	gene	732				
+IBIODCEP_00821	CDS	732				hypothetical protein
+IBIODCEP_00822	gene	1218	dctA			
+IBIODCEP_00822	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+IBIODCEP_00823	gene	912	pyrB			
+IBIODCEP_00823	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+IBIODCEP_00824	gene	690	pyrK			
+IBIODCEP_00824	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+IBIODCEP_00825	gene	903	pyrD			
+IBIODCEP_00825	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+IBIODCEP_00826	gene	582	pyrE			
+IBIODCEP_00826	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+IBIODCEP_00827	gene	774				
+IBIODCEP_00827	CDS	774				hypothetical protein
+IBIODCEP_00828	gene	675				
+IBIODCEP_00828	CDS	675				hypothetical protein
+IBIODCEP_00829	gene	1413	ykoD_2			
+IBIODCEP_00829	CDS	1413	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+IBIODCEP_00830	gene	588				
+IBIODCEP_00830	CDS	588				hypothetical protein
+IBIODCEP_00831	gene	1743	msbA_2			
+IBIODCEP_00831	CDS	1743	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+IBIODCEP_00832	gene	1719				
+IBIODCEP_00832	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+IBIODCEP_00833	gene	1740				
+IBIODCEP_00833	CDS	1740				hypothetical protein
+IBIODCEP_00834	gene	600				
+IBIODCEP_00834	CDS	600				hypothetical protein
+IBIODCEP_00835	gene	672				
+IBIODCEP_00835	CDS	672				hypothetical protein
+IBIODCEP_00836	gene	354				
+IBIODCEP_00836	CDS	354				hypothetical protein
+IBIODCEP_00837	gene	450				
+IBIODCEP_00837	CDS	450				hypothetical protein
+IBIODCEP_00838	gene	1083				
+IBIODCEP_00838	CDS	1083				hypothetical protein
+IBIODCEP_00839	gene	495	sigM_2			
+IBIODCEP_00839	CDS	495	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+IBIODCEP_00840	gene	1269				
+IBIODCEP_00840	CDS	1269				hypothetical protein
+IBIODCEP_00841	gene	549				
+IBIODCEP_00841	CDS	549				hypothetical protein
+IBIODCEP_00842	gene	1005				
+IBIODCEP_00842	CDS	1005				hypothetical protein
+IBIODCEP_00843	gene	657				
+IBIODCEP_00843	CDS	657				hypothetical protein
+IBIODCEP_00844	gene	246				
+IBIODCEP_00844	CDS	246				IS200/IS605 family transposase ISDha13
+IBIODCEP_00845	gene	132				
+IBIODCEP_00845	CDS	132				hypothetical protein
+IBIODCEP_00846	gene	2190				
+IBIODCEP_00846	CDS	2190				hypothetical protein
+IBIODCEP_00847	gene	282				
+IBIODCEP_00847	CDS	282				hypothetical protein
+IBIODCEP_00848	gene	846	artP_2			
+IBIODCEP_00848	CDS	846	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+IBIODCEP_00849	gene	675	artQ_2			
+IBIODCEP_00849	CDS	675	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+IBIODCEP_00850	gene	744	artM_2			
+IBIODCEP_00850	CDS	744	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+IBIODCEP_00851	gene	606	rpsD			
+IBIODCEP_00851	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+IBIODCEP_00852	gene	885	dapA_1			
+IBIODCEP_00852	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+IBIODCEP_00853	gene	1194	sdaB			
+IBIODCEP_00853	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+IBIODCEP_00854	gene	477				
+IBIODCEP_00854	CDS	477				hypothetical protein
+IBIODCEP_00855	gene	657				
+IBIODCEP_00855	CDS	657				hypothetical protein
+IBIODCEP_00856	gene	438				
+IBIODCEP_00856	CDS	438				hypothetical protein
+IBIODCEP_00857	gene	849				
+IBIODCEP_00857	CDS	849				hypothetical protein
+IBIODCEP_00858	gene	996	rhaR_1			
+IBIODCEP_00858	CDS	996	rhaR_1			HTH-type transcriptional activator RhaR
+IBIODCEP_00859	gene	1758	hepA			
+IBIODCEP_00859	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+IBIODCEP_00860	gene	1725				
+IBIODCEP_00860	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+IBIODCEP_00861	gene	588				
+IBIODCEP_00861	CDS	588				hypothetical protein
+IBIODCEP_00862	gene	690	ecfT_2			
+IBIODCEP_00862	CDS	690	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+IBIODCEP_00863	gene	1371	ykoD_3			
+IBIODCEP_00863	CDS	1371	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+IBIODCEP_00864	gene	795	COQ5			
+IBIODCEP_00864	CDS	795	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IBIODCEP_00865	gene	876	hslO			
+IBIODCEP_00865	CDS	876	hslO		COG1281	33 kDa chaperonin
+IBIODCEP_00866	gene	735	rsuA			
+IBIODCEP_00866	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+IBIODCEP_00867	gene	1365				
+IBIODCEP_00867	CDS	1365		2.1.1.-	COG2265	putative RNA methyltransferase
+IBIODCEP_00868	gene	162				
+IBIODCEP_00868	CDS	162				hypothetical protein
+IBIODCEP_00869	gene	288				
+IBIODCEP_00869	CDS	288				hypothetical protein
+IBIODCEP_00870	gene	963	tagU_1			
+IBIODCEP_00870	CDS	963	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+IBIODCEP_00871	gene	1041	tagU_2			
+IBIODCEP_00871	CDS	1041	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+IBIODCEP_00872	gene	789	ybiV			
+IBIODCEP_00872	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+IBIODCEP_00873	gene	1110				
+IBIODCEP_00873	CDS	1110				hypothetical protein
+IBIODCEP_00874	gene	264	ptsH			
+IBIODCEP_00874	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+IBIODCEP_00875	gene	1716	ptsI			
+IBIODCEP_00875	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+IBIODCEP_00876	gene	654				
+IBIODCEP_00876	CDS	654				hypothetical protein
+IBIODCEP_00877	gene	900				
+IBIODCEP_00877	CDS	900				hypothetical protein
+IBIODCEP_00878	gene	546				
+IBIODCEP_00878	CDS	546				hypothetical protein
+IBIODCEP_00879	gene	888				
+IBIODCEP_00879	CDS	888				hypothetical protein
+IBIODCEP_00880	gene	222				
+IBIODCEP_00880	CDS	222				hypothetical protein
+IBIODCEP_00881	gene	975				
+IBIODCEP_00881	CDS	975				hypothetical protein
+IBIODCEP_00882	gene	1374	moaA_2			
+IBIODCEP_00882	CDS	1374	moaA_2			GTP 3',8-cyclase
+IBIODCEP_00883	gene	1668	ubiB			
+IBIODCEP_00883	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+IBIODCEP_00884	gene	2484				
+IBIODCEP_00884	CDS	2484				hypothetical protein
+IBIODCEP_00885	gene	522	apt			
+IBIODCEP_00885	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+IBIODCEP_00886	gene	2226	relA			
+IBIODCEP_00886	CDS	2226	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+IBIODCEP_00887	gene	450	dtd			
+IBIODCEP_00887	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+IBIODCEP_00888	gene	627	gloC			
+IBIODCEP_00888	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+IBIODCEP_00889	gene	1560				
+IBIODCEP_00889	CDS	1560				hypothetical protein
+IBIODCEP_00890	gene	1263	hisS			
+IBIODCEP_00890	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+IBIODCEP_00891	gene	1791	aspS			
+IBIODCEP_00891	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+IBIODCEP_00892	gene	315	csoR			
+IBIODCEP_00892	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+IBIODCEP_00893	gene	477				
+IBIODCEP_00893	CDS	477				hypothetical protein
+IBIODCEP_00894	gene	972	pta			
+IBIODCEP_00894	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+IBIODCEP_00895	gene	1200	sstT_1			
+IBIODCEP_00895	CDS	1200	sstT_1			Serine/threonine transporter SstT
+IBIODCEP_00896	gene	678				
+IBIODCEP_00896	CDS	678				hypothetical protein
+IBIODCEP_00897	gene	777				
+IBIODCEP_00897	CDS	777				hypothetical protein
+IBIODCEP_00898	gene	1467				
+IBIODCEP_00898	CDS	1467				hypothetical protein
+IBIODCEP_00899	gene	540	puuR			
+IBIODCEP_00899	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+IBIODCEP_00900	gene	1044	potA			
+IBIODCEP_00900	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+IBIODCEP_00901	gene	867	potB			
+IBIODCEP_00901	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+IBIODCEP_00902	gene	807				
+IBIODCEP_00902	CDS	807				hypothetical protein
+IBIODCEP_00903	gene	1086	potD			
+IBIODCEP_00903	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+IBIODCEP_00904	gene	750	cas6			
+IBIODCEP_00904	CDS	750	cas6	3.1.-.-	COG5551	CRISPR-associated endoribonuclease Cas6
+IBIODCEP_00905	gene	2328				
+IBIODCEP_00905	CDS	2328		3.1.-.-	COG1353	CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A)
+IBIODCEP_00906	gene	468	csm2			
+IBIODCEP_00906	CDS	468	csm2			CRISPR system Cms protein Csm2
+IBIODCEP_00907	gene	654	csm3			
+IBIODCEP_00907	CDS	654	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+IBIODCEP_00908	gene	915	csm4			
+IBIODCEP_00908	CDS	915	csm4		COG1567	CRISPR system Cms protein Csm4
+IBIODCEP_00909	gene	1122	csm5			
+IBIODCEP_00909	CDS	1122	csm5		COG1332	CRISPR system Cms protein Csm5
+IBIODCEP_00910	gene	1005	cas1			
+IBIODCEP_00910	CDS	1005	cas1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+IBIODCEP_00911	gene	318	cas2			
+IBIODCEP_00911	CDS	318	cas2	3.1.-.-	COG1343	CRISPR-associated endoribonuclease Cas2
+IBIODCEP_00912	gene	1344	csm6			
+IBIODCEP_00912	CDS	1344	csm6	3.1.-.-		CRISPR system endoribonuclease Csm6
+	repeat_region	964				
+IBIODCEP_00913	gene	321				
+IBIODCEP_00913	CDS	321				hypothetical protein
+IBIODCEP_00914	gene	846	cvfB			
+IBIODCEP_00914	CDS	846	cvfB		COG2996	Conserved virulence factor B
+IBIODCEP_00915	gene	486				
+IBIODCEP_00915	CDS	486				hypothetical protein
+IBIODCEP_00916	gene	1422				
+IBIODCEP_00916	CDS	1422				hypothetical protein
+IBIODCEP_00917	gene	1239	rps1			
+IBIODCEP_00917	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+IBIODCEP_00918	gene	213				
+IBIODCEP_00918	CDS	213				hypothetical protein
+IBIODCEP_00919	gene	1560				
+IBIODCEP_00919	CDS	1560				hypothetical protein
+IBIODCEP_00920	gene	729	ecsA_2			
+IBIODCEP_00920	CDS	729	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+IBIODCEP_00921	gene	618	slmA			
+IBIODCEP_00921	CDS	618	slmA			Nucleoid occlusion factor SlmA
+IBIODCEP_00922	gene	978	surA			
+IBIODCEP_00922	CDS	978	surA	5.2.1.8		Chaperone SurA
+IBIODCEP_00923	gene	2190				
+IBIODCEP_00923	CDS	2190				hypothetical protein
+IBIODCEP_00924	gene	3471				
+IBIODCEP_00924	CDS	3471				hypothetical protein
+IBIODCEP_00925	gene	441				
+IBIODCEP_00925	CDS	441				hypothetical protein
+IBIODCEP_00926	gene	1494				
+IBIODCEP_00926	CDS	1494				hypothetical protein
+IBIODCEP_00927	gene	369				
+IBIODCEP_00927	CDS	369				hypothetical protein
+IBIODCEP_00928	gene	1005				
+IBIODCEP_00928	CDS	1005			COG0330	putative protein
+IBIODCEP_00929	gene	453				
+IBIODCEP_00929	CDS	453				hypothetical protein
+IBIODCEP_00930	gene	1614	nnr			
+IBIODCEP_00930	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+IBIODCEP_00931	gene	2439				
+IBIODCEP_00931	CDS	2439				hypothetical protein
+IBIODCEP_00932	gene	576	zapA			
+IBIODCEP_00932	CDS	576	zapA			Cell division protein ZapA
+IBIODCEP_00933	gene	1149	hemW			
+IBIODCEP_00933	CDS	1149	hemW		COG0635	Heme chaperone HemW
+IBIODCEP_00934	gene	861				
+IBIODCEP_00934	CDS	861				hypothetical protein
+IBIODCEP_00935	gene	1317	cca			
+IBIODCEP_00935	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+IBIODCEP_00936	gene	1806	lepA			
+IBIODCEP_00936	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+IBIODCEP_00937	gene	267	rpsT			
+IBIODCEP_00937	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+IBIODCEP_00938	gene	120				
+IBIODCEP_00938	CDS	120				hypothetical protein
+IBIODCEP_00939	gene	1875	yxdM			
+IBIODCEP_00939	CDS	1875	yxdM			ABC transporter permease protein YxdM
+IBIODCEP_00940	gene	756	yxdL			
+IBIODCEP_00940	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+IBIODCEP_00941	gene	990	graS			
+IBIODCEP_00941	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+IBIODCEP_00942	gene	687	graR			
+IBIODCEP_00942	CDS	687	graR		COG0745	Response regulator protein GraR
+IBIODCEP_00943	gene	1038	yqeN			
+IBIODCEP_00943	CDS	1038	yqeN		COG1466	putative protein YqeN
+IBIODCEP_00944	gene	1236				
+IBIODCEP_00944	CDS	1236				hypothetical protein
+IBIODCEP_00945	gene	1287	eis			
+IBIODCEP_00945	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+IBIODCEP_00946	gene	906				
+IBIODCEP_00946	CDS	906				hypothetical protein
+IBIODCEP_00947	gene	867	comEC			
+IBIODCEP_00947	CDS	867	comEC		COG0658	ComE operon protein 3
+IBIODCEP_00948	gene	717	tcdA			
+IBIODCEP_00948	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+IBIODCEP_00949	gene	1155	dnaJ			
+IBIODCEP_00949	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+IBIODCEP_00950	gene	1845	dnaK			
+IBIODCEP_00950	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+IBIODCEP_00951	gene	624	grpE			
+IBIODCEP_00951	CDS	624	grpE			Protein GrpE
+IBIODCEP_00952	gene	1005	hrcA			
+IBIODCEP_00952	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+IBIODCEP_00953	gene	126				
+IBIODCEP_00953	CDS	126				hypothetical protein
+IBIODCEP_00954	gene	486				
+IBIODCEP_00954	CDS	486				hypothetical protein
+IBIODCEP_00955	gene	1791				
+IBIODCEP_00955	CDS	1791				hypothetical protein
+IBIODCEP_00956	gene	846				
+IBIODCEP_00956	CDS	846		1.-.-.-		putative oxidoreductase
+IBIODCEP_00957	gene	312	rpsJ			
+IBIODCEP_00957	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+IBIODCEP_00958	gene	630	rplC			
+IBIODCEP_00958	CDS	630	rplC		COG0087	50S ribosomal protein L3
+IBIODCEP_00959	gene	624	rplD			
+IBIODCEP_00959	CDS	624	rplD			50S ribosomal protein L4
+IBIODCEP_00960	gene	291	rplW			
+IBIODCEP_00960	CDS	291	rplW			50S ribosomal protein L23
+IBIODCEP_00961	gene	831	rplB			
+IBIODCEP_00961	CDS	831	rplB			50S ribosomal protein L2
+IBIODCEP_00962	gene	282	rpsS			
+IBIODCEP_00962	CDS	282	rpsS			30S ribosomal protein S19
+IBIODCEP_00963	gene	339	rplV			
+IBIODCEP_00963	CDS	339	rplV		COG0091	50S ribosomal protein L22
+IBIODCEP_00964	gene	795	rpsC			
+IBIODCEP_00964	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+IBIODCEP_00965	gene	429	rplP			
+IBIODCEP_00965	CDS	429	rplP		COG0197	50S ribosomal protein L16
+IBIODCEP_00966	gene	204	rpmC			
+IBIODCEP_00966	CDS	204	rpmC			50S ribosomal protein L29
+IBIODCEP_00967	gene	255	rpsQ			
+IBIODCEP_00967	CDS	255	rpsQ			30S ribosomal protein S17
+IBIODCEP_00968	gene	369	rplN			
+IBIODCEP_00968	CDS	369	rplN		COG0093	50S ribosomal protein L14
+IBIODCEP_00969	gene	309	rplX			
+IBIODCEP_00969	CDS	309	rplX		COG0198	50S ribosomal protein L24
+IBIODCEP_00970	gene	543	rplE			
+IBIODCEP_00970	CDS	543	rplE			50S ribosomal protein L5
+IBIODCEP_00971	gene	186	rpsZ			
+IBIODCEP_00971	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+IBIODCEP_00972	gene	399	rpsH			
+IBIODCEP_00972	CDS	399	rpsH			30S ribosomal protein S8
+IBIODCEP_00973	gene	543	rplF			
+IBIODCEP_00973	CDS	543	rplF			50S ribosomal protein L6
+IBIODCEP_00974	gene	369	rplR			
+IBIODCEP_00974	CDS	369	rplR		COG0256	50S ribosomal protein L18
+IBIODCEP_00975	gene	510	rpsE			
+IBIODCEP_00975	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+IBIODCEP_00976	gene	186	rpmD			
+IBIODCEP_00976	CDS	186	rpmD			50S ribosomal protein L30
+IBIODCEP_00977	gene	444	rplO			
+IBIODCEP_00977	CDS	444	rplO			50S ribosomal protein L15
+IBIODCEP_00978	gene	1269	secY			
+IBIODCEP_00978	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+IBIODCEP_00979	gene	642	adk			
+IBIODCEP_00979	CDS	642	adk	2.7.4.3		Adenylate kinase
+IBIODCEP_00980	gene	270				
+IBIODCEP_00980	CDS	270				hypothetical protein
+IBIODCEP_00981	gene	219	infA			
+IBIODCEP_00981	CDS	219	infA		COG0361	Translation initiation factor IF-1
+IBIODCEP_00982	gene	114	rpmJ			
+IBIODCEP_00982	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+IBIODCEP_00983	gene	369	rpsM			
+IBIODCEP_00983	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+IBIODCEP_00984	gene	402	rpsK			
+IBIODCEP_00984	CDS	402	rpsK			30S ribosomal protein S11
+IBIODCEP_00985	gene	948	rpoA			
+IBIODCEP_00985	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+IBIODCEP_00986	gene	342	rplQ			
+IBIODCEP_00986	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+IBIODCEP_00987	gene	1227				
+IBIODCEP_00987	CDS	1227				hypothetical protein
+IBIODCEP_00988	gene	1422				
+IBIODCEP_00988	CDS	1422				hypothetical protein
+IBIODCEP_00989	gene	441				
+IBIODCEP_00989	CDS	441				hypothetical protein
+IBIODCEP_00990	gene	342				
+IBIODCEP_00990	CDS	342				hypothetical protein
+IBIODCEP_00991	gene	933				
+IBIODCEP_00991	CDS	933				hypothetical protein
+IBIODCEP_00992	gene	672				
+IBIODCEP_00992	CDS	672				hypothetical protein
+IBIODCEP_00993	gene	837	ecfA1			
+IBIODCEP_00993	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+IBIODCEP_00994	gene	876	ecfA2			
+IBIODCEP_00994	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+IBIODCEP_00995	gene	810	ecfT_3			
+IBIODCEP_00995	CDS	810	ecfT_3		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+IBIODCEP_00996	gene	1167	patB			
+IBIODCEP_00996	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+IBIODCEP_00997	gene	744	aroD			
+IBIODCEP_00997	CDS	744	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+IBIODCEP_00998	gene	378				
+IBIODCEP_00998	CDS	378				hypothetical protein
+IBIODCEP_00999	gene	666				
+IBIODCEP_00999	CDS	666				hypothetical protein
+IBIODCEP_01000	gene	552	trpP			
+IBIODCEP_01000	CDS	552	trpP			putative tryptophan transport protein
+IBIODCEP_01001	gene	2415				
+IBIODCEP_01001	CDS	2415				hypothetical protein
+IBIODCEP_01002	gene	651				
+IBIODCEP_01002	CDS	651				hypothetical protein
+IBIODCEP_01003	gene	735				
+IBIODCEP_01003	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+IBIODCEP_01004	gene	213				
+IBIODCEP_01004	CDS	213				hypothetical protein
+IBIODCEP_01005	gene	804				
+IBIODCEP_01005	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+IBIODCEP_01006	gene	777	trmK			
+IBIODCEP_01006	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+IBIODCEP_01007	gene	1155	sigA			
+IBIODCEP_01007	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+IBIODCEP_01008	gene	1824	dnaG			
+IBIODCEP_01008	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+IBIODCEP_01009	gene	957				
+IBIODCEP_01009	CDS	957				hypothetical protein
+IBIODCEP_01010	gene	867				
+IBIODCEP_01010	CDS	867				hypothetical protein
+IBIODCEP_01011	gene	507				
+IBIODCEP_01011	CDS	507				hypothetical protein
+IBIODCEP_01012	gene	76				
+IBIODCEP_01012	tRNA	76				tRNA-Val(tac)
+IBIODCEP_01013	gene	74				
+IBIODCEP_01013	tRNA	74				tRNA-Glu(ttc)
+IBIODCEP_01014	gene	73				
+IBIODCEP_01014	tRNA	73				tRNA-Asn(gtt)
+IBIODCEP_01015	gene	105				
+IBIODCEP_01015	rRNA	105				5S ribosomal RNA
+IBIODCEP_01016	gene	1989	tkt			
+IBIODCEP_01016	CDS	1989	tkt	2.2.1.1		Transketolase
+IBIODCEP_01017	gene	960				
+IBIODCEP_01017	CDS	960				hypothetical protein
+IBIODCEP_01018	gene	579				
+IBIODCEP_01018	CDS	579				hypothetical protein
+IBIODCEP_01019	gene	465				
+IBIODCEP_01019	CDS	465				hypothetical protein
+IBIODCEP_01020	gene	405				
+IBIODCEP_01020	CDS	405				hypothetical protein
+IBIODCEP_01021	gene	591	ogt			
+IBIODCEP_01021	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+IBIODCEP_01022	gene	990	asd_1			
+IBIODCEP_01022	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+IBIODCEP_01023	gene	1338	hom			
+IBIODCEP_01023	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+IBIODCEP_01024	gene	1050	thrC			
+IBIODCEP_01024	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+IBIODCEP_01025	gene	909	thrB			
+IBIODCEP_01025	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+IBIODCEP_01026	gene	1221	ask			
+IBIODCEP_01026	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+IBIODCEP_01027	gene	828	cmoM			
+IBIODCEP_01027	CDS	828	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+IBIODCEP_01028	gene	1014	gloB_2			
+IBIODCEP_01028	CDS	1014	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+IBIODCEP_01029	gene	1548	carA_1			
+IBIODCEP_01029	CDS	1548	carA_1	2.8.3.23	COG4670	Caffeate CoA-transferase
+IBIODCEP_01030	gene	960	dusB			
+IBIODCEP_01030	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+IBIODCEP_01031	gene	768	coaX			
+IBIODCEP_01031	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+IBIODCEP_01032	gene	984	birA			
+IBIODCEP_01032	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+IBIODCEP_01033	gene	756				
+IBIODCEP_01033	CDS	756				hypothetical protein
+IBIODCEP_01034	gene	405				
+IBIODCEP_01034	CDS	405				hypothetical protein
+IBIODCEP_01035	gene	2043	ftsH			
+IBIODCEP_01035	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+IBIODCEP_01036	gene	1380	tilS			
+IBIODCEP_01036	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+IBIODCEP_01037	gene	414				
+IBIODCEP_01037	CDS	414				hypothetical protein
+IBIODCEP_01038	gene	813	murI			
+IBIODCEP_01038	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+IBIODCEP_01039	gene	678	rspR_1			
+IBIODCEP_01039	CDS	678	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+IBIODCEP_01040	gene	897	ispE			
+IBIODCEP_01040	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+IBIODCEP_01041	gene	783				
+IBIODCEP_01041	CDS	783				hypothetical protein
+IBIODCEP_01042	gene	255	veg			
+IBIODCEP_01042	CDS	255	veg		COG4466	Protein Veg
+IBIODCEP_01043	gene	495				
+IBIODCEP_01043	CDS	495				hypothetical protein
+IBIODCEP_01044	gene	711				
+IBIODCEP_01044	CDS	711				hypothetical protein
+IBIODCEP_01045	gene	681	rluC			
+IBIODCEP_01045	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+IBIODCEP_01046	gene	870	rlmL_2			
+IBIODCEP_01046	CDS	870	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+IBIODCEP_01047	gene	1422	pqqE			
+IBIODCEP_01047	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+IBIODCEP_01048	gene	510	ftnA			
+IBIODCEP_01048	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+IBIODCEP_01049	gene	471				
+IBIODCEP_01049	CDS	471				hypothetical protein
+IBIODCEP_01050	gene	564				
+IBIODCEP_01050	CDS	564				hypothetical protein
+IBIODCEP_01051	gene	888	cysK			
+IBIODCEP_01051	CDS	888	cysK	2.5.1.47		Cysteine synthase
+IBIODCEP_01052	gene	597	cysE			
+IBIODCEP_01052	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+IBIODCEP_01053	gene	234				
+IBIODCEP_01053	CDS	234				hypothetical protein
+IBIODCEP_01054	gene	747				
+IBIODCEP_01054	CDS	747				hypothetical protein
+IBIODCEP_01055	gene	1035				
+IBIODCEP_01055	CDS	1035				hypothetical protein
+IBIODCEP_01056	gene	657				
+IBIODCEP_01056	CDS	657				hypothetical protein
+IBIODCEP_01057	gene	240				
+IBIODCEP_01057	CDS	240				hypothetical protein
+IBIODCEP_01058	gene	201				
+IBIODCEP_01058	CDS	201				hypothetical protein
+IBIODCEP_01059	gene	615	sodA1			
+IBIODCEP_01059	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+IBIODCEP_01060	gene	771				
+IBIODCEP_01060	CDS	771				hypothetical protein
+IBIODCEP_01061	gene	702	yidC2			
+IBIODCEP_01061	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+IBIODCEP_01062	gene	264	yidD			
+IBIODCEP_01062	CDS	264	yidD			Putative membrane protein insertion efficiency factor
+IBIODCEP_01063	gene	378	rnpA			
+IBIODCEP_01063	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+IBIODCEP_01064	gene	135	rpmH			
+IBIODCEP_01064	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+IBIODCEP_01065	gene	1365	dnaA_2			
+IBIODCEP_01065	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+IBIODCEP_01066	gene	1104	dnaN			
+IBIODCEP_01066	CDS	1104	dnaN		COG0592	Beta sliding clamp
+IBIODCEP_01067	gene	210				
+IBIODCEP_01067	CDS	210				hypothetical protein
+IBIODCEP_01068	gene	1116	recF			
+IBIODCEP_01068	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+IBIODCEP_01069	gene	1908	gyrB			
+IBIODCEP_01069	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+IBIODCEP_01070	gene	2439	gyrA			
+IBIODCEP_01070	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+IBIODCEP_01071	gene	318	rsbV			
+IBIODCEP_01071	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+IBIODCEP_01072	gene	408	rsbW			
+IBIODCEP_01072	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+IBIODCEP_01073	gene	774	sigB			
+IBIODCEP_01073	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+IBIODCEP_01074	gene	183				
+IBIODCEP_01074	CDS	183				hypothetical protein
+IBIODCEP_01075	gene	771	rhmA			
+IBIODCEP_01075	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+IBIODCEP_01076	gene	822	mscS			
+IBIODCEP_01076	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+IBIODCEP_01077	gene	1188				
+IBIODCEP_01077	CDS	1188				hypothetical protein
+IBIODCEP_01078	gene	1584				
+IBIODCEP_01078	CDS	1584				hypothetical protein
+IBIODCEP_01079	gene	756				
+IBIODCEP_01079	CDS	756				hypothetical protein
+IBIODCEP_01080	gene	2514				
+IBIODCEP_01080	CDS	2514				hypothetical protein
+IBIODCEP_01081	gene	1404	cysS			
+IBIODCEP_01081	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IBIODCEP_01082	gene	453	mrnC			
+IBIODCEP_01082	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+IBIODCEP_01083	gene	735				
+IBIODCEP_01083	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+IBIODCEP_01084	gene	564				
+IBIODCEP_01084	CDS	564				hypothetical protein
+IBIODCEP_01085	gene	660	sigH			
+IBIODCEP_01085	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+IBIODCEP_01086	gene	264				
+IBIODCEP_01086	CDS	264				hypothetical protein
+IBIODCEP_01087	gene	714	natR			
+IBIODCEP_01087	CDS	714	natR		COG3279	Transcriptional regulatory protein NatR
+IBIODCEP_01088	gene	1284				
+IBIODCEP_01088	CDS	1284				hypothetical protein
+IBIODCEP_01089	gene	1074	lytC_3			
+IBIODCEP_01089	CDS	1074	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+IBIODCEP_01090	gene	2433				
+IBIODCEP_01090	CDS	2433				hypothetical protein
+IBIODCEP_01091	gene	597				
+IBIODCEP_01091	CDS	597				hypothetical protein
+IBIODCEP_01092	gene	288				
+IBIODCEP_01092	CDS	288				IS200/IS605 family transposase ISStin10
+IBIODCEP_01093	gene	1590	asD			
+IBIODCEP_01093	CDS	1590	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+IBIODCEP_01094	gene	1734	aspT			
+IBIODCEP_01094	CDS	1734	aspT			Aspartate/alanine antiporter
+IBIODCEP_01095	gene	354				
+IBIODCEP_01095	CDS	354				hypothetical protein
+IBIODCEP_01096	gene	1359	ffh			
+IBIODCEP_01096	CDS	1359	ffh		COG0541	Signal recognition particle protein
+IBIODCEP_01097	gene	273	rpsP			
+IBIODCEP_01097	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+IBIODCEP_01098	gene	234				
+IBIODCEP_01098	CDS	234				hypothetical protein
+IBIODCEP_01099	gene	519	rimM			
+IBIODCEP_01099	CDS	519	rimM			Ribosome maturation factor RimM
+IBIODCEP_01100	gene	741	trmD			
+IBIODCEP_01100	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+IBIODCEP_01101	gene	1158				
+IBIODCEP_01101	CDS	1158				hypothetical protein
+IBIODCEP_01102	gene	1224	tyrS			
+IBIODCEP_01102	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+IBIODCEP_01103	gene	810				
+IBIODCEP_01103	CDS	810				hypothetical protein
+IBIODCEP_01104	gene	357	rplS			
+IBIODCEP_01104	CDS	357	rplS		COG0335	50S ribosomal protein L19
+IBIODCEP_01105	gene	885	rbgA			
+IBIODCEP_01105	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+IBIODCEP_01106	gene	1164	alr1			
+IBIODCEP_01106	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+IBIODCEP_01107	gene	792	rnhB			
+IBIODCEP_01107	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+IBIODCEP_01108	gene	1017	hmo_1			
+IBIODCEP_01108	CDS	1017	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+IBIODCEP_01109	gene	363				
+IBIODCEP_01109	CDS	363				hypothetical protein
+IBIODCEP_01110	gene	1629	comM			
+IBIODCEP_01110	CDS	1629	comM		COG0606	Competence protein ComM
+IBIODCEP_01111	gene	1257				
+IBIODCEP_01111	CDS	1257				hypothetical protein
+IBIODCEP_01112	gene	2082	topA			
+IBIODCEP_01112	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+IBIODCEP_01113	gene	777	codY			
+IBIODCEP_01113	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+IBIODCEP_01114	gene	1272	rarA			
+IBIODCEP_01114	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+IBIODCEP_01115	gene	465	cymR			
+IBIODCEP_01115	CDS	465	cymR			HTH-type transcriptional regulator CymR
+IBIODCEP_01116	gene	1053	mnmA			
+IBIODCEP_01116	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+IBIODCEP_01117	gene	132				
+IBIODCEP_01117	CDS	132				hypothetical protein
+IBIODCEP_01118	gene	234				
+IBIODCEP_01118	CDS	234				hypothetical protein
+IBIODCEP_01119	gene	918	bcrA_2			
+IBIODCEP_01119	CDS	918	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+IBIODCEP_01120	gene	735				
+IBIODCEP_01120	CDS	735				hypothetical protein
+IBIODCEP_01121	gene	723				
+IBIODCEP_01121	CDS	723				hypothetical protein
+IBIODCEP_01122	gene	738				
+IBIODCEP_01122	CDS	738				hypothetical protein
+IBIODCEP_01123	gene	1062	prsA_2			
+IBIODCEP_01123	CDS	1062	prsA_2	5.2.1.8		Foldase protein PrsA
+IBIODCEP_01124	gene	3405	mfd			
+IBIODCEP_01124	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+IBIODCEP_01125	gene	561	pth			
+IBIODCEP_01125	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+IBIODCEP_01126	gene	651				
+IBIODCEP_01126	CDS	651				hypothetical protein
+IBIODCEP_01127	gene	1065				
+IBIODCEP_01127	CDS	1065				hypothetical protein
+IBIODCEP_01128	gene	957	prs			
+IBIODCEP_01128	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+IBIODCEP_01129	gene	1392	glmU_2			
+IBIODCEP_01129	CDS	1392	glmU_2			Bifunctional protein GlmU
+IBIODCEP_01130	gene	651				
+IBIODCEP_01130	CDS	651				hypothetical protein
+IBIODCEP_01131	gene	834	purR			
+IBIODCEP_01131	CDS	834	purR		COG0503	Pur operon repressor
+IBIODCEP_01132	gene	1362	murC			
+IBIODCEP_01132	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+IBIODCEP_01133	gene	870				
+IBIODCEP_01133	CDS	870				hypothetical protein
+IBIODCEP_01134	gene	879	rsmA			
+IBIODCEP_01134	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+IBIODCEP_01135	gene	555	rnmV			
+IBIODCEP_01135	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+IBIODCEP_01136	gene	549				
+IBIODCEP_01136	CDS	549				hypothetical protein
+IBIODCEP_01137	gene	651				
+IBIODCEP_01137	CDS	651				hypothetical protein
+IBIODCEP_01138	gene	804	proC			
+IBIODCEP_01138	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+IBIODCEP_01139	gene	1479				
+IBIODCEP_01139	CDS	1479				hypothetical protein
+IBIODCEP_01140	gene	198				
+IBIODCEP_01140	CDS	198				hypothetical protein
+IBIODCEP_01141	gene	2493				
+IBIODCEP_01141	CDS	2493				hypothetical protein
+IBIODCEP_01142	gene	678	ytrE_2			
+IBIODCEP_01142	CDS	678	ytrE_2		COG1136	ABC transporter ATP-binding protein YtrE
+IBIODCEP_01143	gene	2547				
+IBIODCEP_01143	CDS	2547				hypothetical protein
+IBIODCEP_01144	gene	771	ycfH			
+IBIODCEP_01144	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+IBIODCEP_01145	gene	1941	metG			
+IBIODCEP_01145	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+IBIODCEP_01146	gene	456	lrpC			
+IBIODCEP_01146	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+IBIODCEP_01147	gene	1437	pncB2			
+IBIODCEP_01147	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+IBIODCEP_01148	gene	1623	spoVB			
+IBIODCEP_01148	CDS	1623	spoVB		COG2244	Stage V sporulation protein B
+IBIODCEP_01149	gene	1014				
+IBIODCEP_01149	CDS	1014				hypothetical protein
+IBIODCEP_01150	gene	282	hup			
+IBIODCEP_01150	CDS	282	hup			DNA-binding protein HU
+IBIODCEP_01151	gene	240				
+IBIODCEP_01151	CDS	240			COG1188	putative protein
+IBIODCEP_01152	gene	894	gtaB			
+IBIODCEP_01152	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+IBIODCEP_01153	gene	1443	rho			
+IBIODCEP_01153	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+IBIODCEP_01154	gene	201	rpmE			
+IBIODCEP_01154	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+IBIODCEP_01155	gene	3249				
+IBIODCEP_01155	CDS	3249				hypothetical protein
+IBIODCEP_01156	gene	327				
+IBIODCEP_01156	CDS	327				hypothetical protein
+IBIODCEP_01157	gene	720				
+IBIODCEP_01157	CDS	720				hypothetical protein
+IBIODCEP_01158	gene	918	prmC			
+IBIODCEP_01158	CDS	918	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+IBIODCEP_01159	gene	1065	prfA			
+IBIODCEP_01159	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+IBIODCEP_01160	gene	1038	ywlC			
+IBIODCEP_01160	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+IBIODCEP_01161	gene	447	ywlF			
+IBIODCEP_01161	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+IBIODCEP_01162	gene	630	upp			
+IBIODCEP_01162	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+IBIODCEP_01163	gene	240				
+IBIODCEP_01163	CDS	240				hypothetical protein
+IBIODCEP_01164	gene	402				
+IBIODCEP_01164	CDS	402				hypothetical protein
+IBIODCEP_01165	gene	705	atpB			
+IBIODCEP_01165	CDS	705	atpB		COG0356	ATP synthase subunit a
+IBIODCEP_01166	gene	264	atpE			
+IBIODCEP_01166	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+IBIODCEP_01167	gene	507	atpF			
+IBIODCEP_01167	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+IBIODCEP_01168	gene	543	atpH			
+IBIODCEP_01168	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+IBIODCEP_01169	gene	1503	atpA			
+IBIODCEP_01169	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+IBIODCEP_01170	gene	999	atpG			
+IBIODCEP_01170	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+IBIODCEP_01171	gene	1401	atpD			
+IBIODCEP_01171	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+IBIODCEP_01172	gene	270	atpC			
+IBIODCEP_01172	CDS	270	atpC			ATP synthase epsilon chain
+IBIODCEP_01173	gene	576				
+IBIODCEP_01173	CDS	576				hypothetical protein
+IBIODCEP_01174	gene	939				
+IBIODCEP_01174	CDS	939				hypothetical protein
+IBIODCEP_01175	gene	945	hmo_2			
+IBIODCEP_01175	CDS	945	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+IBIODCEP_01176	gene	1260				
+IBIODCEP_01176	CDS	1260				hypothetical protein
+IBIODCEP_01177	gene	108				
+IBIODCEP_01177	CDS	108				hypothetical protein
+IBIODCEP_01178	gene	699	rplA			
+IBIODCEP_01178	CDS	699	rplA			50S ribosomal protein L1
+IBIODCEP_01179	gene	426	rplK			
+IBIODCEP_01179	CDS	426	rplK		COG0080	50S ribosomal protein L11
+IBIODCEP_01180	gene	543	nusG			
+IBIODCEP_01180	CDS	543	nusG			Transcription termination/antitermination protein NusG
+IBIODCEP_01181	gene	207	secE			
+IBIODCEP_01181	CDS	207	secE			Protein translocase subunit SecE
+IBIODCEP_01182	gene	150	rpmG2			
+IBIODCEP_01182	CDS	150	rpmG2			50S ribosomal protein L33 2
+IBIODCEP_01183	gene	489				
+IBIODCEP_01183	CDS	489				hypothetical protein
+IBIODCEP_01184	gene	696				
+IBIODCEP_01184	CDS	696				hypothetical protein
+IBIODCEP_01185	gene	1224	pepT			
+IBIODCEP_01185	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+IBIODCEP_01186	gene	75				
+IBIODCEP_01186	tRNA	75				tRNA-Arg(tcg)
+IBIODCEP_01187	gene	402				
+IBIODCEP_01187	CDS	402				hypothetical protein
+IBIODCEP_01188	gene	75				
+IBIODCEP_01188	tRNA	75				tRNA-Arg(cct)
+IBIODCEP_01189	gene	198				
+IBIODCEP_01189	CDS	198				hypothetical protein
+IBIODCEP_01190	gene	684				
+IBIODCEP_01190	CDS	684				hypothetical protein
+IBIODCEP_01191	gene	432				
+IBIODCEP_01191	CDS	432				hypothetical protein
+IBIODCEP_01192	gene	1200	gerN			
+IBIODCEP_01192	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+IBIODCEP_01193	gene	447				
+IBIODCEP_01193	CDS	447				hypothetical protein
+IBIODCEP_01194	gene	702				
+IBIODCEP_01194	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+IBIODCEP_01195	gene	3555	rpoC			
+IBIODCEP_01195	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+IBIODCEP_01196	gene	96				
+IBIODCEP_01196	CDS	96				hypothetical protein
+IBIODCEP_01197	gene	3747	rpoB			
+IBIODCEP_01197	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+IBIODCEP_01198	gene	1056				
+IBIODCEP_01198	CDS	1056				hypothetical protein
+IBIODCEP_01199	gene	927				
+IBIODCEP_01199	CDS	927				hypothetical protein
+IBIODCEP_01200	gene	1698				
+IBIODCEP_01200	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+IBIODCEP_01201	gene	1764				
+IBIODCEP_01201	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+IBIODCEP_01202	gene	1782				
+IBIODCEP_01202	CDS	1782				hypothetical protein
+IBIODCEP_01203	gene	819				
+IBIODCEP_01203	CDS	819				hypothetical protein
+IBIODCEP_01204	gene	825				
+IBIODCEP_01204	CDS	825				hypothetical protein
+IBIODCEP_01205	gene	2412				
+IBIODCEP_01205	CDS	2412				hypothetical protein
+IBIODCEP_01206	gene	387	dfx			
+IBIODCEP_01206	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+IBIODCEP_01207	gene	372	perR			
+IBIODCEP_01207	CDS	372	perR		COG0735	Peroxide operon regulator
+IBIODCEP_01208	gene	549	rbr			
+IBIODCEP_01208	CDS	549	rbr		COG1592	Rubrerythrin
+IBIODCEP_01209	gene	519	hmpT			
+IBIODCEP_01209	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+IBIODCEP_01210	gene	1263	sstT_2			
+IBIODCEP_01210	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+IBIODCEP_01211	gene	2826	uvrA			
+IBIODCEP_01211	CDS	2826	uvrA			UvrABC system protein A
+IBIODCEP_01212	gene	576				
+IBIODCEP_01212	CDS	576				hypothetical protein
+IBIODCEP_01213	gene	1974	uvrB			
+IBIODCEP_01213	CDS	1974	uvrB			UvrABC system protein B
+IBIODCEP_01214	gene	396				
+IBIODCEP_01214	CDS	396				hypothetical protein
+IBIODCEP_01215	gene	1116				
+IBIODCEP_01215	CDS	1116				hypothetical protein
+IBIODCEP_01216	gene	396	panD			
+IBIODCEP_01216	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+IBIODCEP_01217	gene	879				
+IBIODCEP_01217	CDS	879				hypothetical protein
+IBIODCEP_01218	gene	1185	aspC			
+IBIODCEP_01218	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+IBIODCEP_01219	gene	1326	brnQ_2			
+IBIODCEP_01219	CDS	1326	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+IBIODCEP_01220	gene	993	hpr			
+IBIODCEP_01220	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+IBIODCEP_01221	gene	1008	carE_2			
+IBIODCEP_01221	CDS	1008	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+IBIODCEP_01222	gene	792	carD_2			
+IBIODCEP_01222	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+IBIODCEP_01223	gene	1134	carC_2			
+IBIODCEP_01223	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+IBIODCEP_01224	gene	1119	hadC_2			
+IBIODCEP_01224	CDS	1119	hadC_2	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+IBIODCEP_01225	gene	1236	fldB			
+IBIODCEP_01225	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+IBIODCEP_01226	gene	1245	fldA_2			
+IBIODCEP_01226	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+IBIODCEP_01227	gene	696	rspR_2			
+IBIODCEP_01227	CDS	696	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+IBIODCEP_01228	gene	351	ssrA			
+IBIODCEP_01228	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+IBIODCEP_01229	gene	1839	typA			
+IBIODCEP_01229	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+IBIODCEP_01230	gene	201				
+IBIODCEP_01230	CDS	201				hypothetical protein
+IBIODCEP_01231	gene	2268	copA			
+IBIODCEP_01231	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+IBIODCEP_01232	gene	297				
+IBIODCEP_01232	CDS	297				hypothetical protein
+IBIODCEP_01233	gene	684	czcR			
+IBIODCEP_01233	CDS	684	czcR			Transcriptional activator protein CzcR
+IBIODCEP_01234	gene	1374	adeP			
+IBIODCEP_01234	CDS	1374	adeP		COG2252	Adenine permease AdeP
+IBIODCEP_01235	gene	1620	ybiT_1			
+IBIODCEP_01235	CDS	1620	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+IBIODCEP_01236	gene	567	pinR			
+IBIODCEP_01236	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+IBIODCEP_01237	gene	2460				
+IBIODCEP_01237	CDS	2460				hypothetical protein
+IBIODCEP_01238	gene	681	lolD_2			
+IBIODCEP_01238	CDS	681	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+IBIODCEP_01239	gene	603	nudL			
+IBIODCEP_01239	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+IBIODCEP_01240	gene	291				
+IBIODCEP_01240	CDS	291				hypothetical protein
+IBIODCEP_01241	gene	762	ribX			
+IBIODCEP_01241	CDS	762	ribX			Riboflavin transport system permease protein RibX
+IBIODCEP_01242	gene	1023	thiY			
+IBIODCEP_01242	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+IBIODCEP_01243	gene	726	tauB			
+IBIODCEP_01243	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+IBIODCEP_01244	gene	2643	mutS			
+IBIODCEP_01244	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+IBIODCEP_01245	gene	2061	mutL			
+IBIODCEP_01245	CDS	2061	mutL			DNA mismatch repair protein MutL
+IBIODCEP_01246	gene	957	miaA			
+IBIODCEP_01246	CDS	957	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+IBIODCEP_01247	gene	1275				
+IBIODCEP_01247	CDS	1275				hypothetical protein
+IBIODCEP_01248	gene	498	proX			
+IBIODCEP_01248	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+IBIODCEP_01249	gene	2121	nrdD			
+IBIODCEP_01249	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+IBIODCEP_01250	gene	504	nrdG			
+IBIODCEP_01250	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+IBIODCEP_01251	gene	318	erpA			
+IBIODCEP_01251	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+IBIODCEP_01252	gene	780	lytC_4			
+IBIODCEP_01252	CDS	780	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+IBIODCEP_01253	gene	951	prmA			
+IBIODCEP_01253	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+IBIODCEP_01254	gene	777	rsmE			
+IBIODCEP_01254	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+IBIODCEP_01255	gene	1296	mtaB			
+IBIODCEP_01255	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+IBIODCEP_01256	gene	324				
+IBIODCEP_01256	CDS	324				hypothetical protein
+IBIODCEP_01257	gene	345				
+IBIODCEP_01257	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+IBIODCEP_01258	gene	822				
+IBIODCEP_01258	CDS	822				hypothetical protein
+IBIODCEP_01259	gene	1032	pheS			
+IBIODCEP_01259	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+IBIODCEP_01260	gene	2391	pheT			
+IBIODCEP_01260	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+IBIODCEP_01261	gene	1557	ykoD_4			
+IBIODCEP_01261	CDS	1557	ykoD_4	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+IBIODCEP_01262	gene	705				
+IBIODCEP_01262	CDS	705				hypothetical protein
+IBIODCEP_01263	gene	609				
+IBIODCEP_01263	CDS	609				hypothetical protein
+IBIODCEP_01264	gene	1719				
+IBIODCEP_01264	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+IBIODCEP_01265	gene	1770	msbA_3			
+IBIODCEP_01265	CDS	1770	msbA_3	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+IBIODCEP_01266	gene	957	rhaR_2			
+IBIODCEP_01266	CDS	957	rhaR_2			HTH-type transcriptional activator RhaR
+IBIODCEP_01267	gene	1818	uvrC			
+IBIODCEP_01267	CDS	1818	uvrC		COG0322	UvrABC system protein C
+IBIODCEP_01268	gene	933	hprK			
+IBIODCEP_01268	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+IBIODCEP_01269	gene	921	murB			
+IBIODCEP_01269	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+IBIODCEP_01270	gene	738	polX			
+IBIODCEP_01270	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+IBIODCEP_01271	gene	864	yvcJ			
+IBIODCEP_01271	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+IBIODCEP_01272	gene	1140				
+IBIODCEP_01272	CDS	1140			COG0391	Gluconeogenesis factor
+IBIODCEP_01273	gene	417	ndx1			
+IBIODCEP_01273	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+IBIODCEP_01274	gene	966	whiA			
+IBIODCEP_01274	CDS	966	whiA		COG1481	putative cell division protein WhiA
+IBIODCEP_01275	gene	3603	dnaE			
+IBIODCEP_01275	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+IBIODCEP_01276	gene	597				
+IBIODCEP_01276	CDS	597				hypothetical protein
+IBIODCEP_01277	gene	2472				
+IBIODCEP_01277	CDS	2472				hypothetical protein
+IBIODCEP_01278	gene	1368	mepA_5			
+IBIODCEP_01278	CDS	1368	mepA_5			Multidrug export protein MepA
+IBIODCEP_01279	gene	705				
+IBIODCEP_01279	CDS	705				hypothetical protein
+IBIODCEP_01280	gene	777	yddE			
+IBIODCEP_01280	CDS	777	yddE	5.1.-.-	COG0384	putative isomerase YddE
+IBIODCEP_01281	gene	243				
+IBIODCEP_01281	CDS	243				hypothetical protein
+IBIODCEP_01282	gene	411				
+IBIODCEP_01282	CDS	411				hypothetical protein
+IBIODCEP_01283	gene	750				
+IBIODCEP_01283	CDS	750				hypothetical protein
+IBIODCEP_01284	gene	1191				
+IBIODCEP_01284	CDS	1191				hypothetical protein
+IBIODCEP_01285	gene	1101	dhaD			
+IBIODCEP_01285	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+IBIODCEP_01286	gene	189				
+IBIODCEP_01286	CDS	189				Rubredoxin
+IBIODCEP_01287	gene	549	chrA1			
+IBIODCEP_01287	CDS	549	chrA1			Chromate transport protein
+IBIODCEP_01288	gene	561				
+IBIODCEP_01288	CDS	561				hypothetical protein
+IBIODCEP_01289	gene	603				
+IBIODCEP_01289	CDS	603				hypothetical protein
+IBIODCEP_01290	gene	864	map			
+IBIODCEP_01290	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+IBIODCEP_01291	gene	459	infC			
+IBIODCEP_01291	CDS	459	infC			Translation initiation factor IF-3
+IBIODCEP_01292	gene	198	rpmI			
+IBIODCEP_01292	CDS	198	rpmI			50S ribosomal protein L35
+IBIODCEP_01293	gene	357	rplT			
+IBIODCEP_01293	CDS	357	rplT			50S ribosomal protein L20
+IBIODCEP_01294	gene	342				
+IBIODCEP_01294	CDS	342				hypothetical protein
+IBIODCEP_01295	gene	642				
+IBIODCEP_01295	CDS	642				hypothetical protein
+IBIODCEP_01296	gene	567				
+IBIODCEP_01296	CDS	567				hypothetical protein
+IBIODCEP_01297	gene	498	ruvC			
+IBIODCEP_01297	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+IBIODCEP_01298	gene	612	ruvA			
+IBIODCEP_01298	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+IBIODCEP_01299	gene	1014	ruvB_1			
+IBIODCEP_01299	CDS	1014	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+IBIODCEP_01300	gene	1026	queA			
+IBIODCEP_01300	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+IBIODCEP_01301	gene	1119	tgt			
+IBIODCEP_01301	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+IBIODCEP_01302	gene	321	yajC			
+IBIODCEP_01302	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+IBIODCEP_01303	gene	144				
+IBIODCEP_01303	CDS	144				hypothetical protein
+IBIODCEP_01304	gene	954	lytC_5			
+IBIODCEP_01304	CDS	954	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+IBIODCEP_01305	gene	1992				
+IBIODCEP_01305	CDS	1992				hypothetical protein
+IBIODCEP_01306	gene	1371	ntpJ			
+IBIODCEP_01306	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+IBIODCEP_01307	gene	675	ktrA			
+IBIODCEP_01307	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+IBIODCEP_01308	gene	771	aviRb			
+IBIODCEP_01308	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+IBIODCEP_01309	gene	1350	alsT_1			
+IBIODCEP_01309	CDS	1350	alsT_1		COG1115	Amino-acid carrier protein AlsT
+IBIODCEP_01310	gene	2145				
+IBIODCEP_01310	CDS	2145				hypothetical protein
+IBIODCEP_01311	gene	1230				
+IBIODCEP_01311	CDS	1230				hypothetical protein
+IBIODCEP_01312	gene	1560	murJ			
+IBIODCEP_01312	CDS	1560	murJ		COG0728	putative lipid II flippase MurJ
+IBIODCEP_01313	gene	1446	fcl			
+IBIODCEP_01313	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+IBIODCEP_01314	gene	1101	mshA			
+IBIODCEP_01314	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IBIODCEP_01315	gene	765	tuaG_1			
+IBIODCEP_01315	CDS	765	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+IBIODCEP_01316	gene	1122				
+IBIODCEP_01316	CDS	1122				hypothetical protein
+IBIODCEP_01317	gene	1188	tagF			
+IBIODCEP_01317	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+IBIODCEP_01318	gene	813				
+IBIODCEP_01318	CDS	813				hypothetical protein
+IBIODCEP_01319	gene	780	tuaG_2			
+IBIODCEP_01319	CDS	780	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+IBIODCEP_01320	gene	663	wecA			
+IBIODCEP_01320	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+IBIODCEP_01321	gene	1107				
+IBIODCEP_01321	CDS	1107				hypothetical protein
+IBIODCEP_01322	gene	1893	lytC_6			
+IBIODCEP_01322	CDS	1893	lytC_6	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+IBIODCEP_01323	gene	1305				
+IBIODCEP_01323	CDS	1305				hypothetical protein
+IBIODCEP_01324	gene	1365				
+IBIODCEP_01324	CDS	1365				hypothetical protein
+IBIODCEP_01325	gene	2358	secA_2			
+IBIODCEP_01325	CDS	2358	secA_2		COG0653	Protein translocase subunit SecA
+IBIODCEP_01326	gene	1320				
+IBIODCEP_01326	CDS	1320				hypothetical protein
+IBIODCEP_01327	gene	738				
+IBIODCEP_01327	CDS	738				hypothetical protein
+IBIODCEP_01328	gene	462	cdd			
+IBIODCEP_01328	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+IBIODCEP_01329	gene	216				
+IBIODCEP_01329	CDS	216				hypothetical protein
+IBIODCEP_01330	gene	753				
+IBIODCEP_01330	CDS	753				hypothetical protein
+IBIODCEP_01331	gene	786	znuB			
+IBIODCEP_01331	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+IBIODCEP_01332	gene	669	mntB			
+IBIODCEP_01332	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+IBIODCEP_01333	gene	981	znuA			
+IBIODCEP_01333	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+IBIODCEP_01334	gene	462	zur			
+IBIODCEP_01334	CDS	462	zur		COG0735	Zinc uptake regulation protein
+IBIODCEP_01335	gene	162				
+IBIODCEP_01335	CDS	162				Rubredoxin
+IBIODCEP_01336	gene	801	yycJ_2			
+IBIODCEP_01336	CDS	801	yycJ_2	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+IBIODCEP_01337	gene	483	rlmH			
+IBIODCEP_01337	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+IBIODCEP_01338	gene	1050				
+IBIODCEP_01338	CDS	1050				hypothetical protein
+IBIODCEP_01339	gene	990	dnaA_3			
+IBIODCEP_01339	CDS	990	dnaA_3			Chromosomal replication initiator protein DnaA
+IBIODCEP_01340	gene	1338	dnaC			
+IBIODCEP_01340	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+IBIODCEP_01341	gene	447	rplI			
+IBIODCEP_01341	CDS	447	rplI			50S ribosomal protein L9
+IBIODCEP_01342	gene	2016	gdpP			
+IBIODCEP_01342	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+IBIODCEP_01343	gene	1041				
+IBIODCEP_01343	CDS	1041				hypothetical protein
+IBIODCEP_01344	gene	366				
+IBIODCEP_01344	CDS	366				hypothetical protein
+IBIODCEP_01345	gene	1926	fusA_1			
+IBIODCEP_01345	CDS	1926	fusA_1		COG0480	Elongation factor G
+IBIODCEP_01346	gene	999				
+IBIODCEP_01346	CDS	999				hypothetical protein
+IBIODCEP_01347	gene	1245				
+IBIODCEP_01347	CDS	1245				hypothetical protein
+IBIODCEP_01348	gene	219				
+IBIODCEP_01348	CDS	219				hypothetical protein
+IBIODCEP_01349	gene	1380	radA			
+IBIODCEP_01349	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+IBIODCEP_01350	gene	1077	disA			
+IBIODCEP_01350	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+IBIODCEP_01351	gene	1092				
+IBIODCEP_01351	CDS	1092				hypothetical protein
+IBIODCEP_01352	gene	1446	proS			
+IBIODCEP_01352	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+IBIODCEP_01353	gene	756				
+IBIODCEP_01353	CDS	756				hypothetical protein
+IBIODCEP_01354	gene	180				
+IBIODCEP_01354	CDS	180				hypothetical protein
+IBIODCEP_01355	gene	2127	rsxG			
+IBIODCEP_01355	CDS	2127	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+IBIODCEP_01356	gene	525				
+IBIODCEP_01356	CDS	525				hypothetical protein
+IBIODCEP_01357	gene	540				
+IBIODCEP_01357	CDS	540				hypothetical protein
+IBIODCEP_01358	gene	4044				
+IBIODCEP_01358	CDS	4044				hypothetical protein
+IBIODCEP_01359	gene	711				
+IBIODCEP_01359	CDS	711				hypothetical protein
+IBIODCEP_01360	gene	744				
+IBIODCEP_01360	CDS	744				hypothetical protein
+IBIODCEP_01361	gene	996				
+IBIODCEP_01361	CDS	996				hypothetical protein
+IBIODCEP_01362	gene	1365	rclA			
+IBIODCEP_01362	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+IBIODCEP_01363	gene	216				
+IBIODCEP_01363	CDS	216				hypothetical protein
+IBIODCEP_01364	gene	1494				
+IBIODCEP_01364	CDS	1494				hypothetical protein
+IBIODCEP_01365	gene	498				
+IBIODCEP_01365	CDS	498				hypothetical protein
+IBIODCEP_01366	gene	1044				
+IBIODCEP_01366	CDS	1044				hypothetical protein
+IBIODCEP_01367	gene	1188				
+IBIODCEP_01367	CDS	1188				hypothetical protein
+IBIODCEP_01368	gene	852				
+IBIODCEP_01368	CDS	852				hypothetical protein
+IBIODCEP_01369	gene	1071				
+IBIODCEP_01369	CDS	1071				hypothetical protein
+IBIODCEP_01370	gene	408				
+IBIODCEP_01370	CDS	408				hypothetical protein
+IBIODCEP_01371	gene	504				
+IBIODCEP_01371	CDS	504				hypothetical protein
+IBIODCEP_01372	gene	915				
+IBIODCEP_01372	CDS	915				hypothetical protein
+IBIODCEP_01373	gene	288				
+IBIODCEP_01373	CDS	288				IS200/IS605 family transposase ISStin10
+IBIODCEP_01374	gene	1338	sasA_5			
+IBIODCEP_01374	CDS	1338	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+IBIODCEP_01375	gene	669	srrA			
+IBIODCEP_01375	CDS	669	srrA		COG0745	Transcriptional regulatory protein SrrA
+IBIODCEP_01376	gene	729				
+IBIODCEP_01376	CDS	729				hypothetical protein
+IBIODCEP_01377	gene	74				
+IBIODCEP_01377	tRNA	74				tRNA-Gly(tcc)
+IBIODCEP_01378	gene	72				
+IBIODCEP_01378	tRNA	72				tRNA-Glu(ctc)
+IBIODCEP_01379	gene	1314	ugtP_2			
+IBIODCEP_01379	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+IBIODCEP_01380	gene	168				
+IBIODCEP_01380	CDS	168				hypothetical protein
+IBIODCEP_01381	gene	276				
+IBIODCEP_01381	CDS	276				hypothetical protein
+IBIODCEP_01382	gene	600	recR			
+IBIODCEP_01382	CDS	600	recR		COG0353	Recombination protein RecR
+IBIODCEP_01383	gene	345				
+IBIODCEP_01383	CDS	345			COG0718	Nucleoid-associated protein
+IBIODCEP_01384	gene	1683	ruvB_2			
+IBIODCEP_01384	CDS	1683	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+IBIODCEP_01385	gene	576				
+IBIODCEP_01385	CDS	576				hypothetical protein
+IBIODCEP_01386	gene	642	bcrA_3			
+IBIODCEP_01386	CDS	642	bcrA_3			Bacitracin transport ATP-binding protein BcrA
+IBIODCEP_01387	gene	657				
+IBIODCEP_01387	CDS	657				hypothetical protein
+IBIODCEP_01388	gene	681				
+IBIODCEP_01388	CDS	681				hypothetical protein
+IBIODCEP_01389	gene	768				
+IBIODCEP_01389	CDS	768				hypothetical protein
+IBIODCEP_01390	gene	1701				
+IBIODCEP_01390	CDS	1701				hypothetical protein
+IBIODCEP_01391	gene	762				
+IBIODCEP_01391	CDS	762				hypothetical protein
+IBIODCEP_01392	gene	1329				
+IBIODCEP_01392	CDS	1329				hypothetical protein
+IBIODCEP_01393	gene	1740				
+IBIODCEP_01393	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+IBIODCEP_01394	gene	675	yknY_2			
+IBIODCEP_01394	CDS	675	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+IBIODCEP_01395	gene	2460				
+IBIODCEP_01395	CDS	2460				hypothetical protein
+IBIODCEP_01396	gene	162				
+IBIODCEP_01396	CDS	162				hypothetical protein
+IBIODCEP_01397	gene	975				
+IBIODCEP_01397	CDS	975		1.8.98.-	COG0641	Anaerobic sulfatase-maturating enzyme
+IBIODCEP_01398	gene	1239	moaA_3			
+IBIODCEP_01398	CDS	1239	moaA_3			GTP 3',8-cyclase
+IBIODCEP_01399	gene	984				
+IBIODCEP_01399	CDS	984				hypothetical protein
+IBIODCEP_01400	gene	1194	tuf			
+IBIODCEP_01400	CDS	1194	tuf		COG0050	Elongation factor Tu
+IBIODCEP_01401	gene	2067	fusA_2			
+IBIODCEP_01401	CDS	2067	fusA_2		COG0480	Elongation factor G
+IBIODCEP_01402	gene	471	rpsG			
+IBIODCEP_01402	CDS	471	rpsG			30S ribosomal protein S7
+IBIODCEP_01403	gene	423	rpsL			
+IBIODCEP_01403	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+IBIODCEP_01404	gene	1281	ugd			
+IBIODCEP_01404	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+IBIODCEP_01405	gene	474	ispF			
+IBIODCEP_01405	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+IBIODCEP_01406	gene	696	ispD			
+IBIODCEP_01406	CDS	696	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+IBIODCEP_01407	gene	765	rhaR_3			
+IBIODCEP_01407	CDS	765	rhaR_3			HTH-type transcriptional activator RhaR
+IBIODCEP_01408	gene	552				
+IBIODCEP_01408	CDS	552				hypothetical protein
+IBIODCEP_01409	gene	582				
+IBIODCEP_01409	CDS	582				hypothetical protein
+IBIODCEP_01410	gene	1227				
+IBIODCEP_01410	CDS	1227		3.4.11.-		Aminopeptidase 2
+IBIODCEP_01411	gene	1170				
+IBIODCEP_01411	CDS	1170				hypothetical protein
+IBIODCEP_01412	gene	540				
+IBIODCEP_01412	CDS	540				hypothetical protein
+IBIODCEP_01413	gene	609				
+IBIODCEP_01413	CDS	609				hypothetical protein
+IBIODCEP_01414	gene	186				
+IBIODCEP_01414	CDS	186				hypothetical protein
+IBIODCEP_01415	gene	1317	cpdA_2			
+IBIODCEP_01415	CDS	1317	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IBIODCEP_01416	gene	75				
+IBIODCEP_01416	tRNA	75				tRNA-Arg(acg)
+IBIODCEP_01417	gene	1380	mnmE_2			
+IBIODCEP_01417	CDS	1380	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+IBIODCEP_01418	gene	1881	mnmG			
+IBIODCEP_01418	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IBIODCEP_01419	gene	729	rsmG			
+IBIODCEP_01419	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+IBIODCEP_01420	gene	1326				
+IBIODCEP_01420	CDS	1326				hypothetical protein
+IBIODCEP_01421	gene	1944	yjcS			
+IBIODCEP_01421	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+IBIODCEP_01422	gene	828	exoA			
+IBIODCEP_01422	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+IBIODCEP_01423	gene	654				
+IBIODCEP_01423	CDS	654				hypothetical protein
+IBIODCEP_01424	gene	1206	lysC			
+IBIODCEP_01424	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+IBIODCEP_01425	gene	984	asd_2			
+IBIODCEP_01425	CDS	984	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+IBIODCEP_01426	gene	900	dapA_2			
+IBIODCEP_01426	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+IBIODCEP_01427	gene	732	dapB			
+IBIODCEP_01427	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+IBIODCEP_01428	gene	720	dapH			
+IBIODCEP_01428	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IBIODCEP_01429	gene	1152	scmP			
+IBIODCEP_01429	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+IBIODCEP_01430	gene	1077	alr			
+IBIODCEP_01430	CDS	1077	alr	5.1.1.1		Alanine racemase
+IBIODCEP_01431	gene	1296	lysA			
+IBIODCEP_01431	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+IBIODCEP_01432	gene	636				
+IBIODCEP_01432	CDS	636				hypothetical protein
+IBIODCEP_01433	gene	153				
+IBIODCEP_01433	CDS	153				hypothetical protein
+IBIODCEP_01434	gene	1281	serS			
+IBIODCEP_01434	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+IBIODCEP_01435	gene	234				
+IBIODCEP_01435	CDS	234				hypothetical protein
+IBIODCEP_01436	gene	1377	alsT_2			
+IBIODCEP_01436	CDS	1377	alsT_2		COG1115	Amino-acid carrier protein AlsT
+IBIODCEP_01437	gene	195				
+IBIODCEP_01437	CDS	195				hypothetical protein
+IBIODCEP_01438	gene	729				
+IBIODCEP_01438	CDS	729				hypothetical protein
+IBIODCEP_01439	gene	768	thiG			
+IBIODCEP_01439	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+IBIODCEP_01440	gene	1176	thiH			
+IBIODCEP_01440	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+IBIODCEP_01441	gene	1176	tadA			
+IBIODCEP_01441	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+IBIODCEP_01442	gene	1635				
+IBIODCEP_01442	CDS	1635				hypothetical protein
+IBIODCEP_01443	gene	90				
+IBIODCEP_01443	tRNA	90				tRNA-Ser(gga)
+IBIODCEP_01444	gene	2861				
+IBIODCEP_01444	rRNA	2861				23S ribosomal RNA
+IBIODCEP_01445	gene	1520				
+IBIODCEP_01445	rRNA	1520				16S ribosomal RNA
+IBIODCEP_01446	gene	1182				
+IBIODCEP_01446	CDS	1182		2.6.1.1		Aspartate aminotransferase
+IBIODCEP_01447	gene	1095				
+IBIODCEP_01447	CDS	1095				hypothetical protein
+IBIODCEP_01448	gene	720				
+IBIODCEP_01448	CDS	720				hypothetical protein
+IBIODCEP_01449	gene	1911	epmA			
+IBIODCEP_01449	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+IBIODCEP_01450	gene	486	greA			
+IBIODCEP_01450	CDS	486	greA		COG0782	Transcription elongation factor GreA
+IBIODCEP_01451	gene	876				
+IBIODCEP_01451	CDS	876				hypothetical protein
+IBIODCEP_01452	gene	423				
+IBIODCEP_01452	CDS	423				hypothetical protein
+IBIODCEP_01453	gene	231				
+IBIODCEP_01453	CDS	231				IS200/IS605 family transposase ISDha13
+IBIODCEP_01454	gene	930	xerC_2			
+IBIODCEP_01454	CDS	930	xerC_2			Tyrosine recombinase XerC
+IBIODCEP_01455	gene	4272				
+IBIODCEP_01455	CDS	4272				hypothetical protein
+IBIODCEP_01456	gene	1170				
+IBIODCEP_01456	CDS	1170				hypothetical protein
+IBIODCEP_01457	gene	1143				
+IBIODCEP_01457	CDS	1143				hypothetical protein
+IBIODCEP_01458	gene	1677	fhs			
+IBIODCEP_01458	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+IBIODCEP_01459	gene	1239				
+IBIODCEP_01459	CDS	1239				hypothetical protein
+IBIODCEP_01460	gene	225				
+IBIODCEP_01460	CDS	225				hypothetical protein
+IBIODCEP_01461	gene	228				
+IBIODCEP_01461	CDS	228				hypothetical protein
+IBIODCEP_01462	gene	147				
+IBIODCEP_01462	CDS	147				hypothetical protein
+IBIODCEP_01463	gene	447				
+IBIODCEP_01463	CDS	447				hypothetical protein
+IBIODCEP_01464	gene	237				
+IBIODCEP_01464	CDS	237				hypothetical protein
+IBIODCEP_01465	gene	687				
+IBIODCEP_01465	CDS	687				hypothetical protein
+IBIODCEP_01466	gene	912				
+IBIODCEP_01466	CDS	912				hypothetical protein
+IBIODCEP_01467	gene	1821				
+IBIODCEP_01467	CDS	1821				hypothetical protein
+IBIODCEP_01468	gene	522	niaR			
+IBIODCEP_01468	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+IBIODCEP_01469	gene	774	dtd3			
+IBIODCEP_01469	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+IBIODCEP_01470	gene	1740				
+IBIODCEP_01470	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+IBIODCEP_01471	gene	426				
+IBIODCEP_01471	CDS	426				hypothetical protein
+IBIODCEP_01472	gene	1968				
+IBIODCEP_01472	CDS	1968				hypothetical protein
+IBIODCEP_01473	gene	435	brnQ_3			
+IBIODCEP_01473	CDS	435	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+IBIODCEP_01474	gene	4233				
+IBIODCEP_01474	CDS	4233				hypothetical protein
+IBIODCEP_01475	gene	1311				
+IBIODCEP_01475	CDS	1311				hypothetical protein
+IBIODCEP_01476	gene	618				
+IBIODCEP_01476	CDS	618				hypothetical protein
+IBIODCEP_01477	gene	723				
+IBIODCEP_01477	CDS	723				hypothetical protein
+IBIODCEP_01478	gene	495				
+IBIODCEP_01478	CDS	495				hypothetical protein
+IBIODCEP_01479	gene	192				
+IBIODCEP_01479	CDS	192				hypothetical protein
+IBIODCEP_01480	gene	1128				
+IBIODCEP_01480	CDS	1128				hypothetical protein
+IBIODCEP_01481	gene	1056				
+IBIODCEP_01481	CDS	1056				hypothetical protein
+IBIODCEP_01482	gene	828				
+IBIODCEP_01482	CDS	828				hypothetical protein
+IBIODCEP_01483	gene	900	mftC			
+IBIODCEP_01483	CDS	900	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+IBIODCEP_01484	gene	1728	cpdA_3			
+IBIODCEP_01484	CDS	1728	cpdA_3	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IBIODCEP_01485	gene	591				
+IBIODCEP_01485	CDS	591				hypothetical protein
+IBIODCEP_01486	gene	636				
+IBIODCEP_01486	CDS	636				hypothetical protein
+IBIODCEP_01487	gene	357				
+IBIODCEP_01487	CDS	357				hypothetical protein
+IBIODCEP_01488	gene	363				
+IBIODCEP_01488	CDS	363				hypothetical protein
+IBIODCEP_01489	gene	405				
+IBIODCEP_01489	CDS	405				hypothetical protein
+IBIODCEP_01490	gene	507	yfbM			
+IBIODCEP_01490	CDS	507	yfbM			Protein YfbM
+IBIODCEP_01491	gene	3216	carB			
+IBIODCEP_01491	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+IBIODCEP_01492	gene	1050	carA_2			
+IBIODCEP_01492	CDS	1050	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+IBIODCEP_01493	gene	723	pyrF			
+IBIODCEP_01493	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+IBIODCEP_01494	gene	1140				
+IBIODCEP_01494	CDS	1140				hypothetical protein
+IBIODCEP_01495	gene	1128				
+IBIODCEP_01495	CDS	1128				hypothetical protein
+IBIODCEP_01496	gene	297				
+IBIODCEP_01496	CDS	297				hypothetical protein
+IBIODCEP_01497	gene	339				
+IBIODCEP_01497	CDS	339				hypothetical protein
+IBIODCEP_01498	gene	549				
+IBIODCEP_01498	CDS	549				hypothetical protein
+IBIODCEP_01499	gene	1725				
+IBIODCEP_01499	CDS	1725				hypothetical protein
+IBIODCEP_01500	gene	1407				
+IBIODCEP_01500	CDS	1407				hypothetical protein
+IBIODCEP_01501	gene	645				
+IBIODCEP_01501	CDS	645				hypothetical protein
+IBIODCEP_01502	gene	741				
+IBIODCEP_01502	CDS	741				hypothetical protein
+IBIODCEP_01503	gene	1140	pgl			
+IBIODCEP_01503	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+IBIODCEP_01504	gene	369	rplL			
+IBIODCEP_01504	CDS	369	rplL			50S ribosomal protein L7/L12
+IBIODCEP_01505	gene	522	rplJ			
+IBIODCEP_01505	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+IBIODCEP_01506	gene	1983				
+IBIODCEP_01506	CDS	1983				hypothetical protein
+IBIODCEP_01507	gene	786				
+IBIODCEP_01507	CDS	786				hypothetical protein
+IBIODCEP_01508	gene	1053				
+IBIODCEP_01508	CDS	1053				hypothetical protein
+IBIODCEP_01509	gene	708	mtnN			
+IBIODCEP_01509	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IBIODCEP_01510	gene	1014	trpS			
+IBIODCEP_01510	CDS	1014	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+IBIODCEP_01511	gene	768				
+IBIODCEP_01511	CDS	768				hypothetical protein
+IBIODCEP_01512	gene	480	lspA			
+IBIODCEP_01512	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+IBIODCEP_01513	gene	933	rluD_2			
+IBIODCEP_01513	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+IBIODCEP_01514	gene	525	pyrR			
+IBIODCEP_01514	CDS	525	pyrR			Bifunctional protein PyrR
+IBIODCEP_01515	gene	1764	rqcH			
+IBIODCEP_01515	CDS	1764	rqcH			Rqc2 RqcH
+IBIODCEP_01516	gene	825	ydjP			
+IBIODCEP_01516	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+IBIODCEP_01517	gene	279	yjdJ			
+IBIODCEP_01517	CDS	279	yjdJ		COG2388	putative protein YjdJ
+IBIODCEP_01518	gene	462	mutX			
+IBIODCEP_01518	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+IBIODCEP_01519	gene	507	tpx			
+IBIODCEP_01519	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+IBIODCEP_01520	gene	645				
+IBIODCEP_01520	CDS	645				hypothetical protein
+IBIODCEP_01521	gene	780				
+IBIODCEP_01521	CDS	780				hypothetical protein
+IBIODCEP_01522	gene	693				
+IBIODCEP_01522	CDS	693				hypothetical protein
+IBIODCEP_01523	gene	1056	ispG			
+IBIODCEP_01523	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+IBIODCEP_01524	gene	1011	mmpA			
+IBIODCEP_01524	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+IBIODCEP_01525	gene	1188	dxr			
+IBIODCEP_01525	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+IBIODCEP_01526	gene	411				
+IBIODCEP_01526	CDS	411				hypothetical protein
+IBIODCEP_01527	gene	642				
+IBIODCEP_01527	CDS	642				hypothetical protein
+IBIODCEP_01528	gene	2589	clpB			
+IBIODCEP_01528	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+IBIODCEP_01529	gene	1296	brnQ_4			
+IBIODCEP_01529	CDS	1296	brnQ_4		COG1114	Branched-chain amino acid transport system 2 carrier protein
+IBIODCEP_01530	gene	354				
+IBIODCEP_01530	CDS	354				hypothetical protein
+IBIODCEP_01531	gene	969	metN			
+IBIODCEP_01531	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+IBIODCEP_01532	gene	654	metP			
+IBIODCEP_01532	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+IBIODCEP_01533	gene	825	metQ			
+IBIODCEP_01533	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+IBIODCEP_01534	gene	471				
+IBIODCEP_01534	CDS	471				hypothetical protein
+IBIODCEP_01535	gene	1059				
+IBIODCEP_01535	CDS	1059				hypothetical protein
+IBIODCEP_01536	gene	951				
+IBIODCEP_01536	CDS	951				hypothetical protein
+IBIODCEP_01537	gene	1347				
+IBIODCEP_01537	CDS	1347				hypothetical protein
+IBIODCEP_01538	gene	675				
+IBIODCEP_01538	CDS	675				hypothetical protein
+IBIODCEP_01539	gene	678				
+IBIODCEP_01539	CDS	678				hypothetical protein
+IBIODCEP_01540	gene	654				
+IBIODCEP_01540	CDS	654				hypothetical protein
+IBIODCEP_01541	gene	1188	norV			
+IBIODCEP_01541	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+IBIODCEP_01542	gene	552	bioY			
+IBIODCEP_01542	CDS	552	bioY		COG1268	Biotin transporter BioY
+IBIODCEP_01543	gene	825	aroF			
+IBIODCEP_01543	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+IBIODCEP_01544	gene	1842	aroB			
+IBIODCEP_01544	CDS	1842	aroB	4.2.3.4		3-dehydroquinate synthase
+IBIODCEP_01545	gene	852				
+IBIODCEP_01545	CDS	852				hypothetical protein
+IBIODCEP_01546	gene	1353	mepA_6			
+IBIODCEP_01546	CDS	1353	mepA_6		COG0534	Multidrug export protein MepA
+IBIODCEP_01547	gene	678	srtA			
+IBIODCEP_01547	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+IBIODCEP_01548	gene	2241				
+IBIODCEP_01548	CDS	2241				hypothetical protein
+IBIODCEP_01549	gene	714				
+IBIODCEP_01549	CDS	714				hypothetical protein
+IBIODCEP_01550	gene	864				
+IBIODCEP_01550	CDS	864				hypothetical protein
+IBIODCEP_01551	gene	891				
+IBIODCEP_01551	CDS	891				hypothetical protein
+IBIODCEP_01552	gene	1050				
+IBIODCEP_01552	CDS	1050			COG2826	IS30 family transposase ISHahy9
+IBIODCEP_01553	gene	642				
+IBIODCEP_01553	CDS	642				hypothetical protein
+IBIODCEP_01554	gene	1158	iscS			
+IBIODCEP_01554	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+IBIODCEP_01555	gene	1188	thiI			
+IBIODCEP_01555	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+IBIODCEP_01556	gene	966				
+IBIODCEP_01556	CDS	966				hypothetical protein
+IBIODCEP_01557	gene	1644				
+IBIODCEP_01557	CDS	1644				hypothetical protein
+IBIODCEP_01558	gene	2376				
+IBIODCEP_01558	CDS	2376				hypothetical protein
+IBIODCEP_01559	gene	510				
+IBIODCEP_01559	CDS	510				hypothetical protein
+IBIODCEP_01560	gene	702				
+IBIODCEP_01560	CDS	702				hypothetical protein
+IBIODCEP_01561	gene	1404				
+IBIODCEP_01561	CDS	1404				hypothetical protein
+IBIODCEP_01562	gene	873				
+IBIODCEP_01562	CDS	873				hypothetical protein
+IBIODCEP_01563	gene	1059				
+IBIODCEP_01563	CDS	1059				hypothetical protein
+IBIODCEP_01564	gene	678	purC			
+IBIODCEP_01564	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IBIODCEP_01565	gene	1431	pepD_2			
+IBIODCEP_01565	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+IBIODCEP_01566	gene	1362	murE_2			
+IBIODCEP_01566	CDS	1362	murE_2	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+IBIODCEP_01567	gene	741	mta			
+IBIODCEP_01567	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+IBIODCEP_01568	gene	1638	hcp			
+IBIODCEP_01568	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+IBIODCEP_01569	gene	627				
+IBIODCEP_01569	CDS	627				hypothetical protein
+IBIODCEP_01570	gene	198				
+IBIODCEP_01570	CDS	198				IS200/IS605 family transposase ISSsu4
+IBIODCEP_01571	gene	234				
+IBIODCEP_01571	CDS	234				hypothetical protein
+IBIODCEP_01572	gene	1617				
+IBIODCEP_01572	CDS	1617			COG1132	putative ABC transporter ATP-binding protein
+IBIODCEP_01573	gene	474				
+IBIODCEP_01573	CDS	474				hypothetical protein
+IBIODCEP_01574	gene	177				
+IBIODCEP_01574	CDS	177				hypothetical protein
+IBIODCEP_01575	gene	174				
+IBIODCEP_01575	CDS	174				hypothetical protein
+IBIODCEP_01576	gene	1281	moaA_4			
+IBIODCEP_01576	CDS	1281	moaA_4			GTP 3',8-cyclase
+IBIODCEP_01577	gene	465				
+IBIODCEP_01577	CDS	465				hypothetical protein
+IBIODCEP_01578	gene	429				
+IBIODCEP_01578	CDS	429			COG2826	IS30 family transposase ISSlu1
+IBIODCEP_01579	gene	456				
+IBIODCEP_01579	CDS	456			COG2826	IS30 family transposase ISSlu1
+IBIODCEP_01580	gene	123				
+IBIODCEP_01580	CDS	123				hypothetical protein
+IBIODCEP_01581	gene	1326	pepC			
+IBIODCEP_01581	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+IBIODCEP_01582	gene	1311				
+IBIODCEP_01582	CDS	1311				hypothetical protein
+IBIODCEP_01583	gene	282				
+IBIODCEP_01583	CDS	282				hypothetical protein
+IBIODCEP_01584	gene	5994				
+IBIODCEP_01584	CDS	5994				hypothetical protein
+IBIODCEP_01585	gene	852				
+IBIODCEP_01585	CDS	852				hypothetical protein
+IBIODCEP_01586	gene	408				
+IBIODCEP_01586	CDS	408				hypothetical protein
+IBIODCEP_01587	gene	405				
+IBIODCEP_01587	CDS	405				hypothetical protein
+IBIODCEP_01588	gene	396				
+IBIODCEP_01588	CDS	396				hypothetical protein
+IBIODCEP_01589	gene	453				
+IBIODCEP_01589	CDS	453				hypothetical protein
+IBIODCEP_01590	gene	510				
+IBIODCEP_01590	CDS	510				hypothetical protein
+IBIODCEP_01591	gene	381				
+IBIODCEP_01591	CDS	381				hypothetical protein
+IBIODCEP_01592	gene	1767				
+IBIODCEP_01592	CDS	1767				hypothetical protein
+IBIODCEP_01593	gene	453				
+IBIODCEP_01593	CDS	453				hypothetical protein
+IBIODCEP_01594	gene	894				
+IBIODCEP_01594	CDS	894				hypothetical protein
+IBIODCEP_01595	gene	1023				
+IBIODCEP_01595	CDS	1023				hypothetical protein
+IBIODCEP_01596	gene	516				
+IBIODCEP_01596	CDS	516				hypothetical protein
+IBIODCEP_01597	gene	1011	lytC_7			
+IBIODCEP_01597	CDS	1011	lytC_7	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+IBIODCEP_01598	gene	855				
+IBIODCEP_01598	CDS	855				hypothetical protein
+IBIODCEP_01599	gene	435				
+IBIODCEP_01599	CDS	435				hypothetical protein
+IBIODCEP_01600	gene	306				
+IBIODCEP_01600	CDS	306				hypothetical protein
+IBIODCEP_01601	gene	1371				
+IBIODCEP_01601	CDS	1371				hypothetical protein
+IBIODCEP_01602	gene	2766	mtgA_2			
+IBIODCEP_01602	CDS	2766	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+IBIODCEP_01603	gene	1551	ybiT_2			
+IBIODCEP_01603	CDS	1551	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+IBIODCEP_01604	gene	1551	rsxB_2			
+IBIODCEP_01604	CDS	1551	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+IBIODCEP_01605	gene	2652	valS			
+IBIODCEP_01605	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+IBIODCEP_01606	gene	705				
+IBIODCEP_01606	CDS	705				hypothetical protein
+IBIODCEP_01607	gene	936	corA			
+IBIODCEP_01607	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+IBIODCEP_01608	gene	1851				
+IBIODCEP_01608	CDS	1851				hypothetical protein
+IBIODCEP_01609	gene	1101				
+IBIODCEP_01609	CDS	1101				hypothetical protein
+IBIODCEP_01610	gene	1260				
+IBIODCEP_01610	CDS	1260				hypothetical protein
+IBIODCEP_01611	gene	906				
+IBIODCEP_01611	CDS	906				hypothetical protein
+IBIODCEP_01612	gene	795				
+IBIODCEP_01612	CDS	795				hypothetical protein
+IBIODCEP_01613	gene	720	lptB			
+IBIODCEP_01613	CDS	720	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+IBIODCEP_01614	gene	417				
+IBIODCEP_01614	CDS	417				hypothetical protein
+IBIODCEP_01615	gene	1260	dacF			
+IBIODCEP_01615	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+IBIODCEP_01616	gene	531				
+IBIODCEP_01616	CDS	531				hypothetical protein
+IBIODCEP_01617	gene	1314	hflX			
+IBIODCEP_01617	CDS	1314	hflX		COG2262	GTPase HflX
+IBIODCEP_01618	gene	1413	alsT_3			
+IBIODCEP_01618	CDS	1413	alsT_3		COG1115	Amino-acid carrier protein AlsT
+IBIODCEP_01619	gene	267				
+IBIODCEP_01619	CDS	267				hypothetical protein
+IBIODCEP_01620	gene	1590	clsA_2			
+IBIODCEP_01620	CDS	1590	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+IBIODCEP_01621	gene	555				
+IBIODCEP_01621	CDS	555				hypothetical protein
+IBIODCEP_01622	gene	180				
+IBIODCEP_01622	CDS	180				hypothetical protein
+IBIODCEP_01623	gene	375				
+IBIODCEP_01623	CDS	375				hypothetical protein
+IBIODCEP_01624	gene	2019				
+IBIODCEP_01624	CDS	2019				hypothetical protein
+IBIODCEP_01625	gene	1125				
+IBIODCEP_01625	CDS	1125				hypothetical protein
+IBIODCEP_01626	gene	918	isdE			
+IBIODCEP_01626	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+IBIODCEP_01627	gene	1065	isdF			
+IBIODCEP_01627	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+IBIODCEP_01628	gene	765	fpuC			
+IBIODCEP_01628	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+IBIODCEP_01629	gene	1461				
+IBIODCEP_01629	CDS	1461				hypothetical protein
+IBIODCEP_01630	gene	837	rsmI			
+IBIODCEP_01630	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+IBIODCEP_01631	gene	750	yfiC			
+IBIODCEP_01631	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+IBIODCEP_01632	gene	897				
+IBIODCEP_01632	CDS	897				hypothetical protein
+IBIODCEP_01633	gene	939				
+IBIODCEP_01633	CDS	939				hypothetical protein
+IBIODCEP_01634	gene	702	tmk			
+IBIODCEP_01634	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+IBIODCEP_01635	gene	1506	speA			
+IBIODCEP_01635	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+IBIODCEP_01636	gene	107				
+IBIODCEP_01636	rRNA	107				5S ribosomal RNA
+IBIODCEP_01637	gene	4923				
+IBIODCEP_01637	CDS	4923				hypothetical protein
+IBIODCEP_01638	gene	582	srtD			
+IBIODCEP_01638	CDS	582	srtD	3.4.22.-	COG3764	Sortase D
+IBIODCEP_01639	gene	468	rimP			
+IBIODCEP_01639	CDS	468	rimP			Ribosome maturation factor RimP
+IBIODCEP_01640	gene	1272	nusA			
+IBIODCEP_01640	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+IBIODCEP_01641	gene	276				
+IBIODCEP_01641	CDS	276				hypothetical protein
+IBIODCEP_01642	gene	315	rplGA			
+IBIODCEP_01642	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+IBIODCEP_01643	gene	1944	infB			
+IBIODCEP_01643	CDS	1944	infB			Translation initiation factor IF-2
+IBIODCEP_01644	gene	348	rbfA			
+IBIODCEP_01644	CDS	348	rbfA			Ribosome-binding factor A
+IBIODCEP_01645	gene	390				
+IBIODCEP_01645	CDS	390				hypothetical protein
+IBIODCEP_01646	gene	1218	tdcB			
+IBIODCEP_01646	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+IBIODCEP_01647	gene	378	yabJ			
+IBIODCEP_01647	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+IBIODCEP_01648	gene	570				
+IBIODCEP_01648	CDS	570				hypothetical protein
+IBIODCEP_01649	gene	357				
+IBIODCEP_01649	CDS	357				hypothetical protein
+IBIODCEP_01650	gene	858				
+IBIODCEP_01650	CDS	858				hypothetical protein
+IBIODCEP_01651	gene	729	lnrL_2			
+IBIODCEP_01651	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IBIODCEP_01652	gene	369	ytrA			
+IBIODCEP_01652	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+IBIODCEP_01653	gene	72				
+IBIODCEP_01653	tRNA	72				tRNA-Cys(gca)
+IBIODCEP_01654	gene	75				
+IBIODCEP_01654	tRNA	75				tRNA-Lys(ctt)
+IBIODCEP_01655	gene	77				
+IBIODCEP_01655	tRNA	77				tRNA-Met(cat)
+IBIODCEP_01656	gene	76				
+IBIODCEP_01656	tRNA	76				tRNA-Phe(gaa)
+IBIODCEP_01657	gene	89				
+IBIODCEP_01657	tRNA	89				tRNA-Ser(tga)
+IBIODCEP_01658	gene	76				
+IBIODCEP_01658	tRNA	76				tRNA-Gln(ttg)
+IBIODCEP_01659	gene	84				
+IBIODCEP_01659	tRNA	84				tRNA-Leu(tag)
+IBIODCEP_01660	gene	1617	deaD			
+IBIODCEP_01660	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD

@@ -1,0 +1,2005 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JCDIMBMJ_00001	gene	846				
+JCDIMBMJ_00001	CDS	846				hypothetical protein
+JCDIMBMJ_00002	gene	1431				
+JCDIMBMJ_00002	CDS	1431				hypothetical protein
+JCDIMBMJ_00003	gene	387				
+JCDIMBMJ_00003	CDS	387				hypothetical protein
+JCDIMBMJ_00004	gene	882				
+JCDIMBMJ_00004	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+JCDIMBMJ_00005	gene	570	xpt			
+JCDIMBMJ_00005	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+JCDIMBMJ_00006	gene	1338				
+JCDIMBMJ_00006	CDS	1338				Nucleobase transporter PlUacP
+JCDIMBMJ_00007	gene	426	fabZ			
+JCDIMBMJ_00007	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+JCDIMBMJ_00008	gene	1236	fabF			
+JCDIMBMJ_00008	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+JCDIMBMJ_00009	gene	747	fabG_1			
+JCDIMBMJ_00009	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JCDIMBMJ_00010	gene	939	fabD			
+JCDIMBMJ_00010	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+JCDIMBMJ_00011	gene	939				
+JCDIMBMJ_00011	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+JCDIMBMJ_00012	gene	225	acpP_1			
+JCDIMBMJ_00012	CDS	225	acpP_1		COG0236	Acyl carrier protein
+JCDIMBMJ_00013	gene	1017	fabH			
+JCDIMBMJ_00013	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+JCDIMBMJ_00014	gene	480				
+JCDIMBMJ_00014	CDS	480				hypothetical protein
+JCDIMBMJ_00015	gene	744	accA			
+JCDIMBMJ_00015	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+JCDIMBMJ_00016	gene	858	accD			
+JCDIMBMJ_00016	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+JCDIMBMJ_00017	gene	1425	accC			
+JCDIMBMJ_00017	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+JCDIMBMJ_00018	gene	531				
+JCDIMBMJ_00018	CDS	531				hypothetical protein
+JCDIMBMJ_00019	gene	1041				
+JCDIMBMJ_00019	CDS	1041				hypothetical protein
+JCDIMBMJ_00020	gene	2016	gdpP			
+JCDIMBMJ_00020	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+JCDIMBMJ_00021	gene	447	rplI			
+JCDIMBMJ_00021	CDS	447	rplI			50S ribosomal protein L9
+JCDIMBMJ_00022	gene	1338	dnaC			
+JCDIMBMJ_00022	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+JCDIMBMJ_00023	gene	990	dnaA_1			
+JCDIMBMJ_00023	CDS	990	dnaA_1			Chromosomal replication initiator protein DnaA
+JCDIMBMJ_00024	gene	1050				
+JCDIMBMJ_00024	CDS	1050				hypothetical protein
+JCDIMBMJ_00025	gene	483	rlmH			
+JCDIMBMJ_00025	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+JCDIMBMJ_00026	gene	801	yycJ			
+JCDIMBMJ_00026	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+JCDIMBMJ_00027	gene	162				
+JCDIMBMJ_00027	CDS	162				Rubredoxin
+JCDIMBMJ_00028	gene	462	zur			
+JCDIMBMJ_00028	CDS	462	zur		COG0735	Zinc uptake regulation protein
+JCDIMBMJ_00029	gene	981	znuA			
+JCDIMBMJ_00029	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+JCDIMBMJ_00030	gene	669	mntB			
+JCDIMBMJ_00030	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+JCDIMBMJ_00031	gene	786	znuB			
+JCDIMBMJ_00031	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+JCDIMBMJ_00032	gene	756				
+JCDIMBMJ_00032	CDS	756				hypothetical protein
+JCDIMBMJ_00033	gene	216				
+JCDIMBMJ_00033	CDS	216				hypothetical protein
+JCDIMBMJ_00034	gene	228	rpsR			
+JCDIMBMJ_00034	CDS	228	rpsR			30S ribosomal protein S18
+JCDIMBMJ_00035	gene	444	ssb			
+JCDIMBMJ_00035	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+JCDIMBMJ_00036	gene	291	rpsF			
+JCDIMBMJ_00036	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+JCDIMBMJ_00037	gene	942				
+JCDIMBMJ_00037	CDS	942				IS481 family transposase ISSsu8
+JCDIMBMJ_00038	gene	90				
+JCDIMBMJ_00038	CDS	90				hypothetical protein
+JCDIMBMJ_00039	gene	699	rplA			
+JCDIMBMJ_00039	CDS	699	rplA			50S ribosomal protein L1
+JCDIMBMJ_00040	gene	522	rplJ			
+JCDIMBMJ_00040	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+JCDIMBMJ_00041	gene	369	rplL			
+JCDIMBMJ_00041	CDS	369	rplL			50S ribosomal protein L7/L12
+JCDIMBMJ_00042	gene	1140	pgl			
+JCDIMBMJ_00042	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+JCDIMBMJ_00043	gene	741				
+JCDIMBMJ_00043	CDS	741				hypothetical protein
+JCDIMBMJ_00044	gene	645				
+JCDIMBMJ_00044	CDS	645				hypothetical protein
+JCDIMBMJ_00045	gene	1407	patA			
+JCDIMBMJ_00045	CDS	1407	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+JCDIMBMJ_00046	gene	1725				
+JCDIMBMJ_00046	CDS	1725				hypothetical protein
+JCDIMBMJ_00047	gene	549				
+JCDIMBMJ_00047	CDS	549				hypothetical protein
+JCDIMBMJ_00048	gene	339				
+JCDIMBMJ_00048	CDS	339				hypothetical protein
+JCDIMBMJ_00049	gene	297				
+JCDIMBMJ_00049	CDS	297				hypothetical protein
+JCDIMBMJ_00050	gene	1128				
+JCDIMBMJ_00050	CDS	1128				hypothetical protein
+JCDIMBMJ_00051	gene	1140				
+JCDIMBMJ_00051	CDS	1140				hypothetical protein
+JCDIMBMJ_00052	gene	723	pyrF			
+JCDIMBMJ_00052	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+JCDIMBMJ_00053	gene	1050	carA			
+JCDIMBMJ_00053	CDS	1050	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+JCDIMBMJ_00054	gene	255	veg			
+JCDIMBMJ_00054	CDS	255	veg		COG4466	Protein Veg
+JCDIMBMJ_00055	gene	783				
+JCDIMBMJ_00055	CDS	783				hypothetical protein
+JCDIMBMJ_00056	gene	897	ispE			
+JCDIMBMJ_00056	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+JCDIMBMJ_00057	gene	678	rspR_1			
+JCDIMBMJ_00057	CDS	678	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+JCDIMBMJ_00058	gene	813	murI			
+JCDIMBMJ_00058	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+JCDIMBMJ_00059	gene	414				
+JCDIMBMJ_00059	CDS	414				hypothetical protein
+JCDIMBMJ_00060	gene	1380	tilS			
+JCDIMBMJ_00060	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+JCDIMBMJ_00061	gene	2043	ftsH			
+JCDIMBMJ_00061	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+JCDIMBMJ_00062	gene	405				
+JCDIMBMJ_00062	CDS	405				hypothetical protein
+JCDIMBMJ_00063	gene	756				
+JCDIMBMJ_00063	CDS	756				hypothetical protein
+JCDIMBMJ_00064	gene	984	birA			
+JCDIMBMJ_00064	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+JCDIMBMJ_00065	gene	768	coaX			
+JCDIMBMJ_00065	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+JCDIMBMJ_00066	gene	960	dusB			
+JCDIMBMJ_00066	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+JCDIMBMJ_00067	gene	648	lnrK			
+JCDIMBMJ_00067	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+JCDIMBMJ_00068	gene	1146				
+JCDIMBMJ_00068	CDS	1146				hypothetical protein
+JCDIMBMJ_00069	gene	933	lnrL_1			
+JCDIMBMJ_00069	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+JCDIMBMJ_00070	gene	1119				
+JCDIMBMJ_00070	CDS	1119				hypothetical protein
+JCDIMBMJ_00071	gene	1113				
+JCDIMBMJ_00071	CDS	1113				hypothetical protein
+JCDIMBMJ_00072	gene	597				
+JCDIMBMJ_00072	CDS	597				hypothetical protein
+JCDIMBMJ_00073	gene	378				
+JCDIMBMJ_00073	CDS	378				hypothetical protein
+JCDIMBMJ_00074	gene	2211	kdpB			
+JCDIMBMJ_00074	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+JCDIMBMJ_00075	gene	855				
+JCDIMBMJ_00075	CDS	855				hypothetical protein
+JCDIMBMJ_00076	gene	273				
+JCDIMBMJ_00076	CDS	273				hypothetical protein
+JCDIMBMJ_00077	gene	1119	ribD			
+JCDIMBMJ_00077	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+JCDIMBMJ_00078	gene	657	ribE			
+JCDIMBMJ_00078	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+JCDIMBMJ_00079	gene	1533	purH			
+JCDIMBMJ_00079	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+JCDIMBMJ_00080	gene	594	purN			
+JCDIMBMJ_00080	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+JCDIMBMJ_00081	gene	1077	purM			
+JCDIMBMJ_00081	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+JCDIMBMJ_00082	gene	477	purE			
+JCDIMBMJ_00082	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+JCDIMBMJ_00083	gene	2481				
+JCDIMBMJ_00083	CDS	2481				hypothetical protein
+JCDIMBMJ_00084	gene	708	ytrE			
+JCDIMBMJ_00084	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+JCDIMBMJ_00085	gene	291				
+JCDIMBMJ_00085	CDS	291				hypothetical protein
+JCDIMBMJ_00086	gene	1506	glpK			
+JCDIMBMJ_00086	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+JCDIMBMJ_00087	gene	147				
+JCDIMBMJ_00087	CDS	147				hypothetical protein
+JCDIMBMJ_00088	gene	363	pepF1			
+JCDIMBMJ_00088	CDS	363	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+JCDIMBMJ_00089	gene	1152	scmP			
+JCDIMBMJ_00089	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+JCDIMBMJ_00090	gene	720	dapH			
+JCDIMBMJ_00090	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+JCDIMBMJ_00091	gene	732	dapB			
+JCDIMBMJ_00091	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+JCDIMBMJ_00092	gene	900	dapA_1			
+JCDIMBMJ_00092	CDS	900	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+JCDIMBMJ_00093	gene	984	asd_1			
+JCDIMBMJ_00093	CDS	984	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+JCDIMBMJ_00094	gene	1206	lysC			
+JCDIMBMJ_00094	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+JCDIMBMJ_00095	gene	654				
+JCDIMBMJ_00095	CDS	654				hypothetical protein
+JCDIMBMJ_00096	gene	828	exoA			
+JCDIMBMJ_00096	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+JCDIMBMJ_00097	gene	1194	tuf			
+JCDIMBMJ_00097	CDS	1194	tuf		COG0050	Elongation factor Tu
+JCDIMBMJ_00098	gene	873	fusA_1			
+JCDIMBMJ_00098	CDS	873	fusA_1		COG0480	Elongation factor G
+JCDIMBMJ_00099	gene	459				
+JCDIMBMJ_00099	CDS	459				hypothetical protein
+JCDIMBMJ_00100	gene	5607				
+JCDIMBMJ_00100	CDS	5607				hypothetical protein
+JCDIMBMJ_00101	gene	1437	pncB			
+JCDIMBMJ_00101	CDS	1437	pncB	6.3.4.21		Nicotinate phosphoribosyltransferase
+JCDIMBMJ_00102	gene	456	lrpC			
+JCDIMBMJ_00102	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+JCDIMBMJ_00103	gene	1941	metG			
+JCDIMBMJ_00103	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+JCDIMBMJ_00104	gene	1092	cobD_1			
+JCDIMBMJ_00104	CDS	1092	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+JCDIMBMJ_00105	gene	1041	cobD_2			
+JCDIMBMJ_00105	CDS	1041	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+JCDIMBMJ_00106	gene	1395	cbiA			
+JCDIMBMJ_00106	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+JCDIMBMJ_00107	gene	1503	cobQ			
+JCDIMBMJ_00107	CDS	1503	cobQ			Cobyric acid synthase
+JCDIMBMJ_00108	gene	639	pspA			
+JCDIMBMJ_00108	CDS	639	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+JCDIMBMJ_00109	gene	771	cobS			
+JCDIMBMJ_00109	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+JCDIMBMJ_00110	gene	588	cobU			
+JCDIMBMJ_00110	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+JCDIMBMJ_00111	gene	1083	cobT			
+JCDIMBMJ_00111	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+JCDIMBMJ_00112	gene	1173	ctpB			
+JCDIMBMJ_00112	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+JCDIMBMJ_00113	gene	663	aptB			
+JCDIMBMJ_00113	CDS	663	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+JCDIMBMJ_00114	gene	309				
+JCDIMBMJ_00114	CDS	309				hypothetical protein
+JCDIMBMJ_00115	gene	456	def1			
+JCDIMBMJ_00115	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+JCDIMBMJ_00116	gene	930	fmt			
+JCDIMBMJ_00116	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+JCDIMBMJ_00117	gene	690				
+JCDIMBMJ_00117	CDS	690				hypothetical protein
+JCDIMBMJ_00118	gene	1344	rsmB			
+JCDIMBMJ_00118	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+JCDIMBMJ_00119	gene	1038	rlmN			
+JCDIMBMJ_00119	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+JCDIMBMJ_00120	gene	750	stp			
+JCDIMBMJ_00120	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+JCDIMBMJ_00121	gene	1869	prkC			
+JCDIMBMJ_00121	CDS	1869	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+JCDIMBMJ_00122	gene	735	fabG_2			
+JCDIMBMJ_00122	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JCDIMBMJ_00123	gene	900	rsgA			
+JCDIMBMJ_00123	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+JCDIMBMJ_00124	gene	657	rpe			
+JCDIMBMJ_00124	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+JCDIMBMJ_00125	gene	969	serS			
+JCDIMBMJ_00125	CDS	969	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+JCDIMBMJ_00126	gene	1377	alsT_1			
+JCDIMBMJ_00126	CDS	1377	alsT_1		COG1115	Amino-acid carrier protein AlsT
+JCDIMBMJ_00127	gene	195				
+JCDIMBMJ_00127	CDS	195				hypothetical protein
+JCDIMBMJ_00128	gene	729				
+JCDIMBMJ_00128	CDS	729				hypothetical protein
+JCDIMBMJ_00129	gene	768	thiG			
+JCDIMBMJ_00129	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+JCDIMBMJ_00130	gene	1176	thiH			
+JCDIMBMJ_00130	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+JCDIMBMJ_00131	gene	1176	tadA			
+JCDIMBMJ_00131	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+JCDIMBMJ_00132	gene	1635				
+JCDIMBMJ_00132	CDS	1635				hypothetical protein
+JCDIMBMJ_00133	gene	90				
+JCDIMBMJ_00133	tRNA	90				tRNA-Ser(gga)
+JCDIMBMJ_00134	gene	2220	pcrA			
+JCDIMBMJ_00134	CDS	2220	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+JCDIMBMJ_00135	gene	1428	apeB			
+JCDIMBMJ_00135	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+JCDIMBMJ_00136	gene	525				
+JCDIMBMJ_00136	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JCDIMBMJ_00137	gene	909	ppaC			
+JCDIMBMJ_00137	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+JCDIMBMJ_00138	gene	1245	queH			
+JCDIMBMJ_00138	CDS	1245	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+JCDIMBMJ_00139	gene	810	ecsA			
+JCDIMBMJ_00139	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+JCDIMBMJ_00140	gene	1746				
+JCDIMBMJ_00140	CDS	1746				hypothetical protein
+JCDIMBMJ_00141	gene	252				
+JCDIMBMJ_00141	CDS	252				hypothetical protein
+JCDIMBMJ_00142	gene	1455				
+JCDIMBMJ_00142	CDS	1455				hypothetical protein
+JCDIMBMJ_00143	gene	1701	argS			
+JCDIMBMJ_00143	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+JCDIMBMJ_00144	gene	468				
+JCDIMBMJ_00144	CDS	468				hypothetical protein
+JCDIMBMJ_00145	gene	2424	mutS2			
+JCDIMBMJ_00145	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+JCDIMBMJ_00146	gene	1449	pepD_1			
+JCDIMBMJ_00146	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+JCDIMBMJ_00147	gene	876				
+JCDIMBMJ_00147	CDS	876				DegV domain-containing protein
+JCDIMBMJ_00148	gene	1731	cdr			
+JCDIMBMJ_00148	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+JCDIMBMJ_00149	gene	675				
+JCDIMBMJ_00149	CDS	675				hypothetical protein
+JCDIMBMJ_00150	gene	219				
+JCDIMBMJ_00150	CDS	219				hypothetical protein
+JCDIMBMJ_00151	gene	423				
+JCDIMBMJ_00151	CDS	423				hypothetical protein
+JCDIMBMJ_00152	gene	678				
+JCDIMBMJ_00152	CDS	678				hypothetical protein
+JCDIMBMJ_00153	gene	642				
+JCDIMBMJ_00153	CDS	642				hypothetical protein
+JCDIMBMJ_00154	gene	759	nadE			
+JCDIMBMJ_00154	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+JCDIMBMJ_00155	gene	732				
+JCDIMBMJ_00155	CDS	732			COG0217	putative transcriptional regulatory protein
+JCDIMBMJ_00156	gene	285				
+JCDIMBMJ_00156	CDS	285				hypothetical protein
+JCDIMBMJ_00157	gene	1188	uctC			
+JCDIMBMJ_00157	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+JCDIMBMJ_00158	gene	387				
+JCDIMBMJ_00158	CDS	387				hypothetical protein
+JCDIMBMJ_00159	gene	810	apbC			
+JCDIMBMJ_00159	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+JCDIMBMJ_00160	gene	1002	add			
+JCDIMBMJ_00160	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+JCDIMBMJ_00161	gene	1629				
+JCDIMBMJ_00161	CDS	1629				hypothetical protein
+JCDIMBMJ_00162	gene	417	moaA_1			
+JCDIMBMJ_00162	CDS	417	moaA_1			GTP 3',8-cyclase
+JCDIMBMJ_00163	gene	405	moaA2			
+JCDIMBMJ_00163	CDS	405	moaA2	4.1.99.22	COG2896	GTP 3',8-cyclase 2
+JCDIMBMJ_00164	gene	1365				
+JCDIMBMJ_00164	CDS	1365				hypothetical protein
+JCDIMBMJ_00165	gene	2433				
+JCDIMBMJ_00165	CDS	2433				hypothetical protein
+JCDIMBMJ_00166	gene	186	malP_1			
+JCDIMBMJ_00166	CDS	186	malP_1	2.4.1.1	COG0058	Maltodextrin phosphorylase
+JCDIMBMJ_00167	gene	882				
+JCDIMBMJ_00167	CDS	882			COG1702	PhoH-like protein
+JCDIMBMJ_00168	gene	462	ybeY			
+JCDIMBMJ_00168	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+JCDIMBMJ_00169	gene	897				
+JCDIMBMJ_00169	CDS	897				hypothetical protein
+JCDIMBMJ_00170	gene	903	era			
+JCDIMBMJ_00170	CDS	903	era			GTPase Era
+JCDIMBMJ_00171	gene	1377				
+JCDIMBMJ_00171	CDS	1377			COG2239	Magnesium transporter MgtE
+JCDIMBMJ_00172	gene	747	recO			
+JCDIMBMJ_00172	CDS	747	recO		COG1381	DNA repair protein RecO
+JCDIMBMJ_00173	gene	609				
+JCDIMBMJ_00173	CDS	609				hypothetical protein
+JCDIMBMJ_00174	gene	885	glyQ			
+JCDIMBMJ_00174	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+JCDIMBMJ_00175	gene	2070	glyS			
+JCDIMBMJ_00175	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+JCDIMBMJ_00176	gene	1119				
+JCDIMBMJ_00176	CDS	1119				hypothetical protein
+JCDIMBMJ_00177	gene	282				
+JCDIMBMJ_00177	CDS	282				hypothetical protein
+JCDIMBMJ_00178	gene	846	artP_1			
+JCDIMBMJ_00178	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+JCDIMBMJ_00179	gene	675	artQ_1			
+JCDIMBMJ_00179	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+JCDIMBMJ_00180	gene	744	artM			
+JCDIMBMJ_00180	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+JCDIMBMJ_00181	gene	606	rpsD			
+JCDIMBMJ_00181	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+JCDIMBMJ_00182	gene	885	dapA_2			
+JCDIMBMJ_00182	CDS	885	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+JCDIMBMJ_00183	gene	1194	sdaB			
+JCDIMBMJ_00183	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+JCDIMBMJ_00184	gene	477				
+JCDIMBMJ_00184	CDS	477				hypothetical protein
+JCDIMBMJ_00185	gene	654				
+JCDIMBMJ_00185	CDS	654				hypothetical protein
+JCDIMBMJ_00186	gene	1380	mnmE_1			
+JCDIMBMJ_00186	CDS	1380	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+JCDIMBMJ_00187	gene	75				
+JCDIMBMJ_00187	tRNA	75				tRNA-Arg(acg)
+JCDIMBMJ_00188	gene	1317	cpdA_1			
+JCDIMBMJ_00188	CDS	1317	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JCDIMBMJ_00189	gene	186				
+JCDIMBMJ_00189	CDS	186				hypothetical protein
+JCDIMBMJ_00190	gene	609				
+JCDIMBMJ_00190	CDS	609				hypothetical protein
+JCDIMBMJ_00191	gene	540				
+JCDIMBMJ_00191	CDS	540				hypothetical protein
+JCDIMBMJ_00192	gene	1170				
+JCDIMBMJ_00192	CDS	1170				hypothetical protein
+JCDIMBMJ_00193	gene	1227				
+JCDIMBMJ_00193	CDS	1227		3.4.11.-		Aminopeptidase 2
+JCDIMBMJ_00194	gene	486	secA_1			
+JCDIMBMJ_00194	CDS	486	secA_1			Protein translocase subunit SecA
+JCDIMBMJ_00195	gene	1365				
+JCDIMBMJ_00195	CDS	1365				hypothetical protein
+JCDIMBMJ_00196	gene	1305				
+JCDIMBMJ_00196	CDS	1305				hypothetical protein
+JCDIMBMJ_00197	gene	1893	lytC_1			
+JCDIMBMJ_00197	CDS	1893	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JCDIMBMJ_00198	gene	1107				
+JCDIMBMJ_00198	CDS	1107				hypothetical protein
+JCDIMBMJ_00199	gene	663	wecA			
+JCDIMBMJ_00199	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+JCDIMBMJ_00200	gene	780	tuaG			
+JCDIMBMJ_00200	CDS	780	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+JCDIMBMJ_00201	gene	1182				
+JCDIMBMJ_00201	CDS	1182				hypothetical protein
+JCDIMBMJ_00202	gene	168				
+JCDIMBMJ_00202	CDS	168				hypothetical protein
+JCDIMBMJ_00203	gene	2151	feoB			
+JCDIMBMJ_00203	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+JCDIMBMJ_00204	gene	234				
+JCDIMBMJ_00204	CDS	234				hypothetical protein
+JCDIMBMJ_00205	gene	219				
+JCDIMBMJ_00205	CDS	219				hypothetical protein
+JCDIMBMJ_00206	gene	657				
+JCDIMBMJ_00206	CDS	657				hypothetical protein
+JCDIMBMJ_00207	gene	1254				
+JCDIMBMJ_00207	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+JCDIMBMJ_00208	gene	168				
+JCDIMBMJ_00208	CDS	168			COG1145	Ferredoxin
+JCDIMBMJ_00209	gene	636	rex1			
+JCDIMBMJ_00209	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+JCDIMBMJ_00210	gene	657				
+JCDIMBMJ_00210	CDS	657			COG0488	putative ABC transporter ATP-binding protein
+JCDIMBMJ_00211	gene	228	acpP_2			
+JCDIMBMJ_00211	CDS	228	acpP_2			Acyl carrier protein
+JCDIMBMJ_00212	gene	1011				
+JCDIMBMJ_00212	CDS	1011				hypothetical protein
+JCDIMBMJ_00213	gene	933	rluD			
+JCDIMBMJ_00213	CDS	933	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+JCDIMBMJ_00214	gene	888	nadK			
+JCDIMBMJ_00214	CDS	888	nadK	2.7.1.23		NAD kinase
+JCDIMBMJ_00215	gene	1035	icd			
+JCDIMBMJ_00215	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+JCDIMBMJ_00216	gene	1974	leuC			
+JCDIMBMJ_00216	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+JCDIMBMJ_00217	gene	1242				
+JCDIMBMJ_00217	CDS	1242				hypothetical protein
+JCDIMBMJ_00218	gene	342	rplQ			
+JCDIMBMJ_00218	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+JCDIMBMJ_00219	gene	948	rpoA			
+JCDIMBMJ_00219	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+JCDIMBMJ_00220	gene	402	rpsK			
+JCDIMBMJ_00220	CDS	402	rpsK			30S ribosomal protein S11
+JCDIMBMJ_00221	gene	369	rpsM			
+JCDIMBMJ_00221	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+JCDIMBMJ_00222	gene	114	rpmJ			
+JCDIMBMJ_00222	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+JCDIMBMJ_00223	gene	219	infA			
+JCDIMBMJ_00223	CDS	219	infA		COG0361	Translation initiation factor IF-1
+JCDIMBMJ_00224	gene	270				
+JCDIMBMJ_00224	CDS	270				hypothetical protein
+JCDIMBMJ_00225	gene	642	adk			
+JCDIMBMJ_00225	CDS	642	adk	2.7.4.3		Adenylate kinase
+JCDIMBMJ_00226	gene	1269	secY			
+JCDIMBMJ_00226	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+JCDIMBMJ_00227	gene	444	rplO			
+JCDIMBMJ_00227	CDS	444	rplO			50S ribosomal protein L15
+JCDIMBMJ_00228	gene	186	rpmD			
+JCDIMBMJ_00228	CDS	186	rpmD			50S ribosomal protein L30
+JCDIMBMJ_00229	gene	1254				
+JCDIMBMJ_00229	CDS	1254				hypothetical protein
+JCDIMBMJ_00230	gene	918				
+JCDIMBMJ_00230	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+JCDIMBMJ_00231	gene	1071				
+JCDIMBMJ_00231	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+JCDIMBMJ_00232	gene	762	truA			
+JCDIMBMJ_00232	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+JCDIMBMJ_00233	gene	1827	glmS			
+JCDIMBMJ_00233	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+JCDIMBMJ_00234	gene	774	sigB			
+JCDIMBMJ_00234	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+JCDIMBMJ_00235	gene	408	rsbW			
+JCDIMBMJ_00235	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+JCDIMBMJ_00236	gene	318	rsbV			
+JCDIMBMJ_00236	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+JCDIMBMJ_00237	gene	2439	gyrA			
+JCDIMBMJ_00237	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+JCDIMBMJ_00238	gene	1908	gyrB			
+JCDIMBMJ_00238	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+JCDIMBMJ_00239	gene	1116	recF			
+JCDIMBMJ_00239	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+JCDIMBMJ_00240	gene	210				
+JCDIMBMJ_00240	CDS	210				hypothetical protein
+JCDIMBMJ_00241	gene	258	dnaN			
+JCDIMBMJ_00241	CDS	258	dnaN			Beta sliding clamp
+JCDIMBMJ_00242	gene	1293				
+JCDIMBMJ_00242	CDS	1293				hypothetical protein
+JCDIMBMJ_00243	gene	2253	rep			
+JCDIMBMJ_00243	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+JCDIMBMJ_00244	gene	684				
+JCDIMBMJ_00244	CDS	684				hypothetical protein
+JCDIMBMJ_00245	gene	3417	addB			
+JCDIMBMJ_00245	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+JCDIMBMJ_00246	gene	1794				
+JCDIMBMJ_00246	CDS	1794				hypothetical protein
+JCDIMBMJ_00247	gene	819				
+JCDIMBMJ_00247	CDS	819				hypothetical protein
+JCDIMBMJ_00248	gene	825				
+JCDIMBMJ_00248	CDS	825				hypothetical protein
+JCDIMBMJ_00249	gene	1773				
+JCDIMBMJ_00249	CDS	1773				hypothetical protein
+JCDIMBMJ_00250	gene	765	ugtP_1			
+JCDIMBMJ_00250	CDS	765	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+JCDIMBMJ_00251	gene	168				
+JCDIMBMJ_00251	CDS	168				hypothetical protein
+JCDIMBMJ_00252	gene	276				
+JCDIMBMJ_00252	CDS	276				hypothetical protein
+JCDIMBMJ_00253	gene	600	recR			
+JCDIMBMJ_00253	CDS	600	recR		COG0353	Recombination protein RecR
+JCDIMBMJ_00254	gene	345				
+JCDIMBMJ_00254	CDS	345			COG0718	Nucleoid-associated protein
+JCDIMBMJ_00255	gene	1683	ruvB			
+JCDIMBMJ_00255	CDS	1683	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+JCDIMBMJ_00256	gene	576				
+JCDIMBMJ_00256	CDS	576				hypothetical protein
+JCDIMBMJ_00257	gene	642	bcrA			
+JCDIMBMJ_00257	CDS	642	bcrA			Bacitracin transport ATP-binding protein BcrA
+JCDIMBMJ_00258	gene	657				
+JCDIMBMJ_00258	CDS	657				hypothetical protein
+JCDIMBMJ_00259	gene	681				
+JCDIMBMJ_00259	CDS	681				hypothetical protein
+JCDIMBMJ_00260	gene	258				
+JCDIMBMJ_00260	CDS	258				hypothetical protein
+JCDIMBMJ_00261	gene	756	yxdL			
+JCDIMBMJ_00261	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+JCDIMBMJ_00262	gene	990	graS			
+JCDIMBMJ_00262	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+JCDIMBMJ_00263	gene	687	graR			
+JCDIMBMJ_00263	CDS	687	graR		COG0745	Response regulator protein GraR
+JCDIMBMJ_00264	gene	1038	yqeN			
+JCDIMBMJ_00264	CDS	1038	yqeN		COG1466	putative protein YqeN
+JCDIMBMJ_00265	gene	237				
+JCDIMBMJ_00265	CDS	237				hypothetical protein
+JCDIMBMJ_00266	gene	954				
+JCDIMBMJ_00266	CDS	954				hypothetical protein
+JCDIMBMJ_00267	gene	1287	eis			
+JCDIMBMJ_00267	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+JCDIMBMJ_00268	gene	1218	dctA			
+JCDIMBMJ_00268	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+JCDIMBMJ_00269	gene	912	pyrB			
+JCDIMBMJ_00269	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+JCDIMBMJ_00270	gene	690	pyrK			
+JCDIMBMJ_00270	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+JCDIMBMJ_00271	gene	903	pyrD			
+JCDIMBMJ_00271	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+JCDIMBMJ_00272	gene	582	pyrE			
+JCDIMBMJ_00272	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+JCDIMBMJ_00273	gene	774				
+JCDIMBMJ_00273	CDS	774				hypothetical protein
+JCDIMBMJ_00274	gene	675				
+JCDIMBMJ_00274	CDS	675				hypothetical protein
+JCDIMBMJ_00275	gene	681	hprK			
+JCDIMBMJ_00275	CDS	681	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+JCDIMBMJ_00276	gene	921	murB			
+JCDIMBMJ_00276	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+JCDIMBMJ_00277	gene	738	polX			
+JCDIMBMJ_00277	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+JCDIMBMJ_00278	gene	864	yvcJ			
+JCDIMBMJ_00278	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+JCDIMBMJ_00279	gene	1140				
+JCDIMBMJ_00279	CDS	1140			COG0391	Gluconeogenesis factor
+JCDIMBMJ_00280	gene	417	ndx1			
+JCDIMBMJ_00280	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+JCDIMBMJ_00281	gene	966	whiA			
+JCDIMBMJ_00281	CDS	966	whiA		COG1481	putative cell division protein WhiA
+JCDIMBMJ_00282	gene	471	rpsG			
+JCDIMBMJ_00282	CDS	471	rpsG			30S ribosomal protein S7
+JCDIMBMJ_00283	gene	423	rpsL			
+JCDIMBMJ_00283	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+JCDIMBMJ_00284	gene	1281	ugd			
+JCDIMBMJ_00284	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+JCDIMBMJ_00285	gene	489	ispF			
+JCDIMBMJ_00285	CDS	489	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+JCDIMBMJ_00286	gene	693	ispD			
+JCDIMBMJ_00286	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+JCDIMBMJ_00287	gene	765	rhaR_1			
+JCDIMBMJ_00287	CDS	765	rhaR_1			HTH-type transcriptional activator RhaR
+JCDIMBMJ_00288	gene	552				
+JCDIMBMJ_00288	CDS	552				hypothetical protein
+JCDIMBMJ_00289	gene	135				
+JCDIMBMJ_00289	CDS	135				hypothetical protein
+JCDIMBMJ_00290	gene	474	slyA			
+JCDIMBMJ_00290	CDS	474	slyA			Transcriptional regulator SlyA
+JCDIMBMJ_00291	gene	786				
+JCDIMBMJ_00291	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JCDIMBMJ_00292	gene	1026	cggR			
+JCDIMBMJ_00292	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+JCDIMBMJ_00293	gene	1008	gap			
+JCDIMBMJ_00293	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+JCDIMBMJ_00294	gene	1200	pgk			
+JCDIMBMJ_00294	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+JCDIMBMJ_00295	gene	1608	secA_2			
+JCDIMBMJ_00295	CDS	1608	secA_2		COG0653	Protein translocase subunit SecA
+JCDIMBMJ_00296	gene	1671	norR			
+JCDIMBMJ_00296	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+JCDIMBMJ_00297	gene	1182				
+JCDIMBMJ_00297	CDS	1182				hypothetical protein
+JCDIMBMJ_00298	gene	1212	fldA_1			
+JCDIMBMJ_00298	CDS	1212	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+JCDIMBMJ_00299	gene	2898	mrdA			
+JCDIMBMJ_00299	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+JCDIMBMJ_00300	gene	1113	mrdB			
+JCDIMBMJ_00300	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+JCDIMBMJ_00301	gene	1860				
+JCDIMBMJ_00301	CDS	1860				hypothetical protein
+JCDIMBMJ_00302	gene	354				
+JCDIMBMJ_00302	CDS	354				hypothetical protein
+JCDIMBMJ_00303	gene	450				
+JCDIMBMJ_00303	CDS	450				hypothetical protein
+JCDIMBMJ_00304	gene	1083				
+JCDIMBMJ_00304	CDS	1083				hypothetical protein
+JCDIMBMJ_00305	gene	495	sigM_1			
+JCDIMBMJ_00305	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+JCDIMBMJ_00306	gene	1269				
+JCDIMBMJ_00306	CDS	1269				hypothetical protein
+JCDIMBMJ_00307	gene	549				
+JCDIMBMJ_00307	CDS	549				hypothetical protein
+JCDIMBMJ_00308	gene	408				
+JCDIMBMJ_00308	CDS	408				hypothetical protein
+JCDIMBMJ_00309	gene	3783	purL			
+JCDIMBMJ_00309	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+JCDIMBMJ_00310	gene	1305	pdp			
+JCDIMBMJ_00310	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+JCDIMBMJ_00311	gene	591				
+JCDIMBMJ_00311	CDS	591				hypothetical protein
+JCDIMBMJ_00312	gene	741	mta			
+JCDIMBMJ_00312	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+JCDIMBMJ_00313	gene	1413	fpgS			
+JCDIMBMJ_00313	CDS	1413	fpgS	6.3.2.17		Folylpolyglutamate synthase
+JCDIMBMJ_00314	gene	1431	pepD_2			
+JCDIMBMJ_00314	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+JCDIMBMJ_00315	gene	231				
+JCDIMBMJ_00315	CDS	231				hypothetical protein
+JCDIMBMJ_00316	gene	1821				
+JCDIMBMJ_00316	CDS	1821				hypothetical protein
+JCDIMBMJ_00317	gene	387	mscL			
+JCDIMBMJ_00317	CDS	387	mscL		COG1970	Large-conductance mechanosensitive channel
+JCDIMBMJ_00318	gene	522	niaR			
+JCDIMBMJ_00318	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+JCDIMBMJ_00319	gene	774	dtd3			
+JCDIMBMJ_00319	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+JCDIMBMJ_00320	gene	1740				
+JCDIMBMJ_00320	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JCDIMBMJ_00321	gene	1251	dinB			
+JCDIMBMJ_00321	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+JCDIMBMJ_00322	gene	849	nadC			
+JCDIMBMJ_00322	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+JCDIMBMJ_00323	gene	1311	nadB			
+JCDIMBMJ_00323	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+JCDIMBMJ_00324	gene	909	nadA			
+JCDIMBMJ_00324	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+JCDIMBMJ_00325	gene	474				
+JCDIMBMJ_00325	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+JCDIMBMJ_00326	gene	1461	rph			
+JCDIMBMJ_00326	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+JCDIMBMJ_00327	gene	2109	ligA			
+JCDIMBMJ_00327	CDS	2109	ligA	6.5.1.2		DNA ligase
+JCDIMBMJ_00328	gene	465	bcp			
+JCDIMBMJ_00328	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+JCDIMBMJ_00329	gene	1188	norV			
+JCDIMBMJ_00329	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+JCDIMBMJ_00330	gene	654				
+JCDIMBMJ_00330	CDS	654				hypothetical protein
+JCDIMBMJ_00331	gene	678				
+JCDIMBMJ_00331	CDS	678				hypothetical protein
+JCDIMBMJ_00332	gene	675				
+JCDIMBMJ_00332	CDS	675				hypothetical protein
+JCDIMBMJ_00333	gene	636				
+JCDIMBMJ_00333	CDS	636				hypothetical protein
+JCDIMBMJ_00334	gene	297				
+JCDIMBMJ_00334	CDS	297				hypothetical protein
+JCDIMBMJ_00335	gene	837				
+JCDIMBMJ_00335	CDS	837				hypothetical protein
+JCDIMBMJ_00336	gene	216				
+JCDIMBMJ_00336	CDS	216				hypothetical protein
+JCDIMBMJ_00337	gene	876				
+JCDIMBMJ_00337	CDS	876				hypothetical protein
+JCDIMBMJ_00338	gene	1074				
+JCDIMBMJ_00338	CDS	1074				hypothetical protein
+JCDIMBMJ_00339	gene	1143				
+JCDIMBMJ_00339	CDS	1143				hypothetical protein
+JCDIMBMJ_00340	gene	1677	fhs			
+JCDIMBMJ_00340	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+JCDIMBMJ_00341	gene	255				
+JCDIMBMJ_00341	CDS	255				hypothetical protein
+JCDIMBMJ_00342	gene	201				
+JCDIMBMJ_00342	CDS	201				hypothetical protein
+JCDIMBMJ_00343	gene	615	sodA1			
+JCDIMBMJ_00343	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+JCDIMBMJ_00344	gene	771				
+JCDIMBMJ_00344	CDS	771				hypothetical protein
+JCDIMBMJ_00345	gene	702	yidC2			
+JCDIMBMJ_00345	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+JCDIMBMJ_00346	gene	378	rnpA			
+JCDIMBMJ_00346	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+JCDIMBMJ_00347	gene	135	rpmH			
+JCDIMBMJ_00347	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+JCDIMBMJ_00348	gene	1365	dnaA_2			
+JCDIMBMJ_00348	CDS	1365	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+JCDIMBMJ_00349	gene	1200	mnmE_2			
+JCDIMBMJ_00349	CDS	1200	mnmE_2	3.6.-.-		tRNA modification GTPase MnmE
+JCDIMBMJ_00350	gene	1404	bioB_1			
+JCDIMBMJ_00350	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+JCDIMBMJ_00351	gene	135				
+JCDIMBMJ_00351	CDS	135				hypothetical protein
+JCDIMBMJ_00352	gene	1053				
+JCDIMBMJ_00352	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+JCDIMBMJ_00353	gene	246				
+JCDIMBMJ_00353	CDS	246				hypothetical protein
+JCDIMBMJ_00354	gene	1383	fruA			
+JCDIMBMJ_00354	CDS	1383	fruA		COG1299	PTS system fructose-specific EIIABC component
+JCDIMBMJ_00355	gene	255				
+JCDIMBMJ_00355	CDS	255				hypothetical protein
+JCDIMBMJ_00356	gene	1218	ask			
+JCDIMBMJ_00356	CDS	1218	ask	2.7.2.4	COG0527	Aspartokinase
+JCDIMBMJ_00357	gene	909	thrB			
+JCDIMBMJ_00357	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+JCDIMBMJ_00358	gene	1050	thrC			
+JCDIMBMJ_00358	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+JCDIMBMJ_00359	gene	1338	hom			
+JCDIMBMJ_00359	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+JCDIMBMJ_00360	gene	315	asd_2			
+JCDIMBMJ_00360	CDS	315	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+JCDIMBMJ_00361	gene	390				
+JCDIMBMJ_00361	CDS	390				hypothetical protein
+JCDIMBMJ_00362	gene	1056	epsF			
+JCDIMBMJ_00362	CDS	1056	epsF		COG1459	Type II secretion system protein F
+JCDIMBMJ_00363	gene	1236				
+JCDIMBMJ_00363	CDS	1236				hypothetical protein
+JCDIMBMJ_00364	gene	1866	nhaP2			
+JCDIMBMJ_00364	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+JCDIMBMJ_00365	gene	483				
+JCDIMBMJ_00365	CDS	483				hypothetical protein
+JCDIMBMJ_00366	gene	837	ecfA1			
+JCDIMBMJ_00366	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+JCDIMBMJ_00367	gene	876	ecfA2			
+JCDIMBMJ_00367	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+JCDIMBMJ_00368	gene	810	ecfT			
+JCDIMBMJ_00368	CDS	810	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+JCDIMBMJ_00369	gene	1167	patB			
+JCDIMBMJ_00369	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+JCDIMBMJ_00370	gene	747	aroD			
+JCDIMBMJ_00370	CDS	747	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+JCDIMBMJ_00371	gene	234				
+JCDIMBMJ_00371	CDS	234				hypothetical protein
+JCDIMBMJ_00372	gene	612				
+JCDIMBMJ_00372	CDS	612				hypothetical protein
+JCDIMBMJ_00373	gene	450	fur			
+JCDIMBMJ_00373	CDS	450	fur		COG0735	Ferric uptake regulation protein
+JCDIMBMJ_00374	gene	417	yrrK			
+JCDIMBMJ_00374	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+JCDIMBMJ_00375	gene	2280				
+JCDIMBMJ_00375	CDS	2280				hypothetical protein
+JCDIMBMJ_00376	gene	207				
+JCDIMBMJ_00376	CDS	207				hypothetical protein
+JCDIMBMJ_00377	gene	1425	alaS			
+JCDIMBMJ_00377	CDS	1425	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+JCDIMBMJ_00378	gene	1422	purF			
+JCDIMBMJ_00378	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+JCDIMBMJ_00379	gene	2277	topB			
+JCDIMBMJ_00379	CDS	2277	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+JCDIMBMJ_00380	gene	891	ttcA			
+JCDIMBMJ_00380	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+JCDIMBMJ_00381	gene	756				
+JCDIMBMJ_00381	CDS	756				hypothetical protein
+JCDIMBMJ_00382	gene	2514				
+JCDIMBMJ_00382	CDS	2514				hypothetical protein
+JCDIMBMJ_00383	gene	1404	cysS			
+JCDIMBMJ_00383	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+JCDIMBMJ_00384	gene	453	mrnC			
+JCDIMBMJ_00384	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+JCDIMBMJ_00385	gene	552	bioY			
+JCDIMBMJ_00385	CDS	552	bioY		COG1268	Biotin transporter BioY
+JCDIMBMJ_00386	gene	825	aroF			
+JCDIMBMJ_00386	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+JCDIMBMJ_00387	gene	1815	aroB			
+JCDIMBMJ_00387	CDS	1815	aroB	4.2.3.4		3-dehydroquinate synthase
+JCDIMBMJ_00388	gene	852				
+JCDIMBMJ_00388	CDS	852				hypothetical protein
+JCDIMBMJ_00389	gene	732	ftsZ			
+JCDIMBMJ_00389	CDS	732	ftsZ		COG0206	Cell division protein FtsZ
+JCDIMBMJ_00390	gene	516	nrdR			
+JCDIMBMJ_00390	CDS	516	nrdR		COG1327	Transcriptional repressor NrdR
+JCDIMBMJ_00391	gene	681	phoP_1			
+JCDIMBMJ_00391	CDS	681	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+JCDIMBMJ_00392	gene	1281	walK			
+JCDIMBMJ_00392	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+JCDIMBMJ_00393	gene	1329	der			
+JCDIMBMJ_00393	CDS	1329	der		COG1160	GTPase Der
+JCDIMBMJ_00394	gene	609	plsY			
+JCDIMBMJ_00394	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+JCDIMBMJ_00395	gene	2652	valS			
+JCDIMBMJ_00395	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+JCDIMBMJ_00396	gene	1551	rsxB_1			
+JCDIMBMJ_00396	CDS	1551	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+JCDIMBMJ_00397	gene	1347	rpoN			
+JCDIMBMJ_00397	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+JCDIMBMJ_00398	gene	1044				
+JCDIMBMJ_00398	CDS	1044				hypothetical protein
+JCDIMBMJ_00399	gene	690				
+JCDIMBMJ_00399	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+JCDIMBMJ_00400	gene	1164	ugtP_2			
+JCDIMBMJ_00400	CDS	1164	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+JCDIMBMJ_00401	gene	357	glcK			
+JCDIMBMJ_00401	CDS	357	glcK	2.7.1.2	COG1940	Glucokinase
+JCDIMBMJ_00402	gene	465	yfkJ			
+JCDIMBMJ_00402	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+JCDIMBMJ_00403	gene	1332	mepA_1			
+JCDIMBMJ_00403	CDS	1332	mepA_1			Multidrug export protein MepA
+JCDIMBMJ_00404	gene	321				
+JCDIMBMJ_00404	CDS	321				hypothetical protein
+JCDIMBMJ_00405	gene	249				
+JCDIMBMJ_00405	CDS	249				hypothetical protein
+JCDIMBMJ_00406	gene	711				
+JCDIMBMJ_00406	CDS	711				hypothetical protein
+JCDIMBMJ_00407	gene	1329				
+JCDIMBMJ_00407	CDS	1329				hypothetical protein
+JCDIMBMJ_00408	gene	114				
+JCDIMBMJ_00408	CDS	114				hypothetical protein
+JCDIMBMJ_00409	gene	951				
+JCDIMBMJ_00409	CDS	951				hypothetical protein
+JCDIMBMJ_00410	gene	1545				
+JCDIMBMJ_00410	CDS	1545				hypothetical protein
+JCDIMBMJ_00411	gene	765	cbiJ			
+JCDIMBMJ_00411	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+JCDIMBMJ_00412	gene	726	cbiH			
+JCDIMBMJ_00412	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+JCDIMBMJ_00413	gene	1002	cbiG			
+JCDIMBMJ_00413	CDS	1002	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+JCDIMBMJ_00414	gene	1245				
+JCDIMBMJ_00414	CDS	1245				hypothetical protein
+JCDIMBMJ_00415	gene	999				
+JCDIMBMJ_00415	CDS	999				hypothetical protein
+JCDIMBMJ_00416	gene	1926	fusA_2			
+JCDIMBMJ_00416	CDS	1926	fusA_2		COG0480	Elongation factor G
+JCDIMBMJ_00417	gene	366				
+JCDIMBMJ_00417	CDS	366				hypothetical protein
+JCDIMBMJ_00418	gene	4305				
+JCDIMBMJ_00418	CDS	4305				hypothetical protein
+JCDIMBMJ_00419	gene	357	gapA			
+JCDIMBMJ_00419	CDS	357	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+JCDIMBMJ_00420	gene	807				
+JCDIMBMJ_00420	CDS	807		1.1.1.28		D-lactate dehydrogenase
+JCDIMBMJ_00421	gene	1047	prfB			
+JCDIMBMJ_00421	CDS	1047	prfB			Peptide chain release factor 2
+JCDIMBMJ_00422	gene	2163	yhgF			
+JCDIMBMJ_00422	CDS	2163	yhgF		COG2183	Protein YhgF
+JCDIMBMJ_00423	gene	621	ribU			
+JCDIMBMJ_00423	CDS	621	ribU			Riboflavin transporter RibU
+JCDIMBMJ_00424	gene	351	lytB			
+JCDIMBMJ_00424	CDS	351	lytB		COG2247	Amidase enhancer
+JCDIMBMJ_00425	gene	351	ssrA			
+JCDIMBMJ_00425	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+JCDIMBMJ_00426	gene	696	rspR_2			
+JCDIMBMJ_00426	CDS	696	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+JCDIMBMJ_00427	gene	1245	fldA_2			
+JCDIMBMJ_00427	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+JCDIMBMJ_00428	gene	747				
+JCDIMBMJ_00428	CDS	747				hypothetical protein
+JCDIMBMJ_00429	gene	822	thiD			
+JCDIMBMJ_00429	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+JCDIMBMJ_00430	gene	1455	thiM			
+JCDIMBMJ_00430	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+JCDIMBMJ_00431	gene	1305	thiC			
+JCDIMBMJ_00431	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+JCDIMBMJ_00432	gene	1056				
+JCDIMBMJ_00432	CDS	1056				hypothetical protein
+JCDIMBMJ_00433	gene	927				
+JCDIMBMJ_00433	CDS	927				hypothetical protein
+JCDIMBMJ_00434	gene	465				
+JCDIMBMJ_00434	CDS	465				hypothetical protein
+JCDIMBMJ_00435	gene	579				
+JCDIMBMJ_00435	CDS	579				hypothetical protein
+JCDIMBMJ_00436	gene	960				
+JCDIMBMJ_00436	CDS	960				hypothetical protein
+JCDIMBMJ_00437	gene	1989	tkt			
+JCDIMBMJ_00437	CDS	1989	tkt	2.2.1.1		Transketolase
+JCDIMBMJ_00438	gene	105				
+JCDIMBMJ_00438	rRNA	105				5S ribosomal RNA
+JCDIMBMJ_00439	gene	585				
+JCDIMBMJ_00439	CDS	585				hypothetical protein
+JCDIMBMJ_00440	gene	426				
+JCDIMBMJ_00440	CDS	426			COG0716	Flavodoxin
+JCDIMBMJ_00441	gene	903				
+JCDIMBMJ_00441	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+JCDIMBMJ_00442	gene	1929				
+JCDIMBMJ_00442	CDS	1929				hypothetical protein
+JCDIMBMJ_00443	gene	2073				
+JCDIMBMJ_00443	CDS	2073				hypothetical protein
+JCDIMBMJ_00444	gene	2091	pnp			
+JCDIMBMJ_00444	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+JCDIMBMJ_00445	gene	228				
+JCDIMBMJ_00445	CDS	228				hypothetical protein
+JCDIMBMJ_00446	gene	1212	undec1A			
+JCDIMBMJ_00446	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+JCDIMBMJ_00447	gene	267	rpoZ			
+JCDIMBMJ_00447	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+JCDIMBMJ_00448	gene	642	gmk			
+JCDIMBMJ_00448	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+JCDIMBMJ_00449	gene	771				
+JCDIMBMJ_00449	CDS	771				hypothetical protein
+JCDIMBMJ_00450	gene	882	glmM			
+JCDIMBMJ_00450	CDS	882	glmM	5.4.2.10		Phosphoglucosamine mutase
+JCDIMBMJ_00451	gene	177				
+JCDIMBMJ_00451	CDS	177				hypothetical protein
+JCDIMBMJ_00452	gene	1254	murAA			
+JCDIMBMJ_00452	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+JCDIMBMJ_00453	gene	1011	mreB			
+JCDIMBMJ_00453	CDS	1011	mreB		COG1077	Cell shape-determining protein MreB
+JCDIMBMJ_00454	gene	993				
+JCDIMBMJ_00454	CDS	993				hypothetical protein
+JCDIMBMJ_00455	gene	498				
+JCDIMBMJ_00455	CDS	498				hypothetical protein
+JCDIMBMJ_00456	gene	681	tgnD			
+JCDIMBMJ_00456	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+JCDIMBMJ_00457	gene	996	btuD_1			
+JCDIMBMJ_00457	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JCDIMBMJ_00458	gene	696	ureG			
+JCDIMBMJ_00458	CDS	696	ureG			Urease accessory protein UreG
+JCDIMBMJ_00459	gene	531				
+JCDIMBMJ_00459	CDS	531				hypothetical protein
+JCDIMBMJ_00460	gene	540	clcA			
+JCDIMBMJ_00460	CDS	540	clcA			H(+)/Cl(-) exchange transporter ClcA
+JCDIMBMJ_00461	gene	1872	yjcD			
+JCDIMBMJ_00461	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+JCDIMBMJ_00462	gene	885				
+JCDIMBMJ_00462	CDS	885				hypothetical protein
+JCDIMBMJ_00463	gene	858	pdxS			
+JCDIMBMJ_00463	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+JCDIMBMJ_00464	gene	2001	cas9			
+JCDIMBMJ_00464	CDS	2001	cas9	3.1.-.-	COG3513	CRISPR-associated endonuclease Cas9
+JCDIMBMJ_00465	gene	1590	clsA_1			
+JCDIMBMJ_00465	CDS	1590	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+JCDIMBMJ_00466	gene	267				
+JCDIMBMJ_00466	CDS	267				hypothetical protein
+JCDIMBMJ_00467	gene	1278	purA			
+JCDIMBMJ_00467	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+JCDIMBMJ_00468	gene	1425	purB			
+JCDIMBMJ_00468	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+JCDIMBMJ_00469	gene	330				
+JCDIMBMJ_00469	CDS	330				hypothetical protein
+JCDIMBMJ_00470	gene	573				
+JCDIMBMJ_00470	CDS	573				hypothetical protein
+JCDIMBMJ_00471	gene	375				
+JCDIMBMJ_00471	CDS	375				hypothetical protein
+JCDIMBMJ_00472	gene	1224	cpdA_2			
+JCDIMBMJ_00472	CDS	1224	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JCDIMBMJ_00473	gene	735	addA			
+JCDIMBMJ_00473	CDS	735	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+JCDIMBMJ_00474	gene	1050	recA			
+JCDIMBMJ_00474	CDS	1050	recA		COG0468	Protein RecA
+JCDIMBMJ_00475	gene	1500	guaB			
+JCDIMBMJ_00475	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+JCDIMBMJ_00476	gene	750				
+JCDIMBMJ_00476	CDS	750				hypothetical protein
+JCDIMBMJ_00477	gene	639	pdg			
+JCDIMBMJ_00477	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+JCDIMBMJ_00478	gene	1656	udk			
+JCDIMBMJ_00478	CDS	1656	udk	2.7.1.48		Uridine kinase
+JCDIMBMJ_00479	gene	606	sipT			
+JCDIMBMJ_00479	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+JCDIMBMJ_00480	gene	1287	rsmF			
+JCDIMBMJ_00480	CDS	1287	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+JCDIMBMJ_00481	gene	1656				
+JCDIMBMJ_00481	CDS	1656				hypothetical protein
+JCDIMBMJ_00482	gene	486	greA			
+JCDIMBMJ_00482	CDS	486	greA		COG0782	Transcription elongation factor GreA
+JCDIMBMJ_00483	gene	1911	epmA			
+JCDIMBMJ_00483	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+JCDIMBMJ_00484	gene	618				
+JCDIMBMJ_00484	CDS	618				hypothetical protein
+JCDIMBMJ_00485	gene	723				
+JCDIMBMJ_00485	CDS	723				hypothetical protein
+JCDIMBMJ_00486	gene	495				
+JCDIMBMJ_00486	CDS	495				hypothetical protein
+JCDIMBMJ_00487	gene	1134				
+JCDIMBMJ_00487	CDS	1134				hypothetical protein
+JCDIMBMJ_00488	gene	2844	smc			
+JCDIMBMJ_00488	CDS	2844	smc			Chromosome partition protein Smc
+JCDIMBMJ_00489	gene	1311	ftsY			
+JCDIMBMJ_00489	CDS	1311	ftsY			Signal recognition particle receptor FtsY
+JCDIMBMJ_00490	gene	567	cbiT			
+JCDIMBMJ_00490	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+JCDIMBMJ_00491	gene	720	cbiE			
+JCDIMBMJ_00491	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+JCDIMBMJ_00492	gene	1167	cbiD			
+JCDIMBMJ_00492	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+JCDIMBMJ_00493	gene	639	cbiC			
+JCDIMBMJ_00493	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+JCDIMBMJ_00494	gene	753	pduX			
+JCDIMBMJ_00494	CDS	753	pduX	2.7.1.177	COG4542	L-threonine kinase
+JCDIMBMJ_00495	gene	357	rplS			
+JCDIMBMJ_00495	CDS	357	rplS		COG0335	50S ribosomal protein L19
+JCDIMBMJ_00496	gene	1224	tyrS			
+JCDIMBMJ_00496	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+JCDIMBMJ_00497	gene	1158				
+JCDIMBMJ_00497	CDS	1158				hypothetical protein
+JCDIMBMJ_00498	gene	726	trmD			
+JCDIMBMJ_00498	CDS	726	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+JCDIMBMJ_00499	gene	195				
+JCDIMBMJ_00499	CDS	195				hypothetical protein
+JCDIMBMJ_00500	gene	1371	rlmCD			
+JCDIMBMJ_00500	CDS	1371	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+JCDIMBMJ_00501	gene	1017	pyk			
+JCDIMBMJ_00501	CDS	1017	pyk	2.7.1.40		Pyruvate kinase
+JCDIMBMJ_00502	gene	1401	atpD			
+JCDIMBMJ_00502	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+JCDIMBMJ_00503	gene	999	atpG			
+JCDIMBMJ_00503	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+JCDIMBMJ_00504	gene	1503	atpA			
+JCDIMBMJ_00504	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+JCDIMBMJ_00505	gene	405	atpH			
+JCDIMBMJ_00505	CDS	405	atpH			ATP synthase subunit delta, sodium ion specific
+JCDIMBMJ_00506	gene	870				
+JCDIMBMJ_00506	CDS	870				hypothetical protein
+JCDIMBMJ_00507	gene	879	rsmA			
+JCDIMBMJ_00507	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+JCDIMBMJ_00508	gene	555	rnmV			
+JCDIMBMJ_00508	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+JCDIMBMJ_00509	gene	549				
+JCDIMBMJ_00509	CDS	549				hypothetical protein
+JCDIMBMJ_00510	gene	330	hisS			
+JCDIMBMJ_00510	CDS	330	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+JCDIMBMJ_00511	gene	1791	aspS			
+JCDIMBMJ_00511	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+JCDIMBMJ_00512	gene	315	csoR			
+JCDIMBMJ_00512	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+JCDIMBMJ_00513	gene	477				
+JCDIMBMJ_00513	CDS	477				hypothetical protein
+JCDIMBMJ_00514	gene	972	pta			
+JCDIMBMJ_00514	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+JCDIMBMJ_00515	gene	1392	glmU			
+JCDIMBMJ_00515	CDS	1392	glmU			Bifunctional protein GlmU
+JCDIMBMJ_00516	gene	651				
+JCDIMBMJ_00516	CDS	651				hypothetical protein
+JCDIMBMJ_00517	gene	834	purR			
+JCDIMBMJ_00517	CDS	834	purR		COG0503	Pur operon repressor
+JCDIMBMJ_00518	gene	1446	proS			
+JCDIMBMJ_00518	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+JCDIMBMJ_00519	gene	1092				
+JCDIMBMJ_00519	CDS	1092				hypothetical protein
+JCDIMBMJ_00520	gene	840	disA			
+JCDIMBMJ_00520	CDS	840	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+JCDIMBMJ_00521	gene	510	ftnA			
+JCDIMBMJ_00521	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+JCDIMBMJ_00522	gene	1422	pqqE			
+JCDIMBMJ_00522	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+JCDIMBMJ_00523	gene	870	rlmL			
+JCDIMBMJ_00523	CDS	870	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+JCDIMBMJ_00524	gene	753	htrB			
+JCDIMBMJ_00524	CDS	753	htrB	3.4.21.107	COG0265	Serine protease Do-like HtrB
+JCDIMBMJ_00525	gene	1326	pepC			
+JCDIMBMJ_00525	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+JCDIMBMJ_00526	gene	1311				
+JCDIMBMJ_00526	CDS	1311				hypothetical protein
+JCDIMBMJ_00527	gene	276	lldD			
+JCDIMBMJ_00527	CDS	276	lldD	1.1.-.-		L-lactate dehydrogenase
+JCDIMBMJ_00528	gene	2067	polC			
+JCDIMBMJ_00528	CDS	2067	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+JCDIMBMJ_00529	gene	885				
+JCDIMBMJ_00529	CDS	885				hypothetical protein
+JCDIMBMJ_00530	gene	852				
+JCDIMBMJ_00530	CDS	852				hypothetical protein
+JCDIMBMJ_00531	gene	840	yqfL			
+JCDIMBMJ_00531	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+JCDIMBMJ_00532	gene	2646	ppdK			
+JCDIMBMJ_00532	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+JCDIMBMJ_00533	gene	699				
+JCDIMBMJ_00533	CDS	699				hypothetical protein
+JCDIMBMJ_00534	gene	225				
+JCDIMBMJ_00534	CDS	225				hypothetical protein
+JCDIMBMJ_00535	gene	228				
+JCDIMBMJ_00535	CDS	228				hypothetical protein
+JCDIMBMJ_00536	gene	147				
+JCDIMBMJ_00536	CDS	147				hypothetical protein
+JCDIMBMJ_00537	gene	1473				
+JCDIMBMJ_00537	CDS	1473				hypothetical protein
+JCDIMBMJ_00538	gene	1467				
+JCDIMBMJ_00538	CDS	1467				hypothetical protein
+JCDIMBMJ_00539	gene	540	puuR			
+JCDIMBMJ_00539	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+JCDIMBMJ_00540	gene	1044	potA			
+JCDIMBMJ_00540	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+JCDIMBMJ_00541	gene	261				
+JCDIMBMJ_00541	CDS	261				hypothetical protein
+JCDIMBMJ_00542	gene	942				
+JCDIMBMJ_00542	CDS	942				IS481 family transposase ISSsu8
+JCDIMBMJ_00543	gene	1329				
+JCDIMBMJ_00543	CDS	1329				hypothetical protein
+JCDIMBMJ_00544	gene	936	rnjA			
+JCDIMBMJ_00544	CDS	936	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+JCDIMBMJ_00545	gene	633				
+JCDIMBMJ_00545	CDS	633				hypothetical protein
+JCDIMBMJ_00546	gene	762	scpA			
+JCDIMBMJ_00546	CDS	762	scpA		COG1354	Segregation and condensation protein A
+JCDIMBMJ_00547	gene	519	scpB			
+JCDIMBMJ_00547	CDS	519	scpB		COG1386	Segregation and condensation protein B
+JCDIMBMJ_00548	gene	750	cobB			
+JCDIMBMJ_00548	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+JCDIMBMJ_00549	gene	378	rasP			
+JCDIMBMJ_00549	CDS	378	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+JCDIMBMJ_00550	gene	1029	ispG			
+JCDIMBMJ_00550	CDS	1029	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+JCDIMBMJ_00551	gene	528				
+JCDIMBMJ_00551	CDS	528				hypothetical protein
+JCDIMBMJ_00552	gene	477				
+JCDIMBMJ_00552	CDS	477				hypothetical protein
+JCDIMBMJ_00553	gene	708				
+JCDIMBMJ_00553	CDS	708				hypothetical protein
+JCDIMBMJ_00554	gene	210				
+JCDIMBMJ_00554	CDS	210				hypothetical protein
+JCDIMBMJ_00555	gene	678				
+JCDIMBMJ_00555	CDS	678				hypothetical protein
+JCDIMBMJ_00556	gene	216	rsxB_2			
+JCDIMBMJ_00556	CDS	216	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+JCDIMBMJ_00557	gene	1065	padG			
+JCDIMBMJ_00557	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+JCDIMBMJ_00558	gene	780	korB			
+JCDIMBMJ_00558	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+JCDIMBMJ_00559	gene	555				
+JCDIMBMJ_00559	CDS	555				hypothetical protein
+JCDIMBMJ_00560	gene	1557				
+JCDIMBMJ_00560	CDS	1557				hypothetical protein
+JCDIMBMJ_00561	gene	1125				
+JCDIMBMJ_00561	CDS	1125				hypothetical protein
+JCDIMBMJ_00562	gene	918	isdE			
+JCDIMBMJ_00562	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+JCDIMBMJ_00563	gene	1047				
+JCDIMBMJ_00563	CDS	1047				hypothetical protein
+JCDIMBMJ_00564	gene	696	walR			
+JCDIMBMJ_00564	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+JCDIMBMJ_00565	gene	1437	rcsC			
+JCDIMBMJ_00565	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+JCDIMBMJ_00566	gene	447				
+JCDIMBMJ_00566	CDS	447				hypothetical protein
+JCDIMBMJ_00567	gene	702				
+JCDIMBMJ_00567	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+JCDIMBMJ_00568	gene	1041	rpoC			
+JCDIMBMJ_00568	CDS	1041	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+JCDIMBMJ_00569	gene	321	rsfS			
+JCDIMBMJ_00569	CDS	321	rsfS		COG0799	Ribosomal silencing factor RsfS
+JCDIMBMJ_00570	gene	2421	leuS			
+JCDIMBMJ_00570	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+JCDIMBMJ_00571	gene	957	rhaR_2			
+JCDIMBMJ_00571	CDS	957	rhaR_2			HTH-type transcriptional activator RhaR
+JCDIMBMJ_00572	gene	1818	uvrC			
+JCDIMBMJ_00572	CDS	1818	uvrC		COG0322	UvrABC system protein C
+JCDIMBMJ_00573	gene	939				
+JCDIMBMJ_00573	CDS	939				hypothetical protein
+JCDIMBMJ_00574	gene	702	tmk			
+JCDIMBMJ_00574	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+JCDIMBMJ_00575	gene	1506	speA			
+JCDIMBMJ_00575	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+JCDIMBMJ_00576	gene	90				
+JCDIMBMJ_00576	rRNA	90				5S ribosomal RNA (partial)
+JCDIMBMJ_00577	gene	1101				
+JCDIMBMJ_00577	CDS	1101				hypothetical protein
+JCDIMBMJ_00578	gene	1260				
+JCDIMBMJ_00578	CDS	1260				hypothetical protein
+JCDIMBMJ_00579	gene	906				
+JCDIMBMJ_00579	CDS	906				hypothetical protein
+JCDIMBMJ_00580	gene	168				
+JCDIMBMJ_00580	CDS	168				hypothetical protein
+JCDIMBMJ_00581	gene	561	pth			
+JCDIMBMJ_00581	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+JCDIMBMJ_00582	gene	459				
+JCDIMBMJ_00582	CDS	459				hypothetical protein
+JCDIMBMJ_00583	gene	384	ziaR			
+JCDIMBMJ_00583	CDS	384	ziaR			Transcriptional repressor SmtB 
+JCDIMBMJ_00584	gene	357				
+JCDIMBMJ_00584	CDS	357				hypothetical protein
+JCDIMBMJ_00585	gene	858				
+JCDIMBMJ_00585	CDS	858				hypothetical protein
+JCDIMBMJ_00586	gene	729	lnrL_2			
+JCDIMBMJ_00586	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+JCDIMBMJ_00587	gene	369	ytrA			
+JCDIMBMJ_00587	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+JCDIMBMJ_00588	gene	567				
+JCDIMBMJ_00588	CDS	567				hypothetical protein
+JCDIMBMJ_00589	gene	642				
+JCDIMBMJ_00589	CDS	642				hypothetical protein
+JCDIMBMJ_00590	gene	342				
+JCDIMBMJ_00590	CDS	342				hypothetical protein
+JCDIMBMJ_00591	gene	357	rplT			
+JCDIMBMJ_00591	CDS	357	rplT			50S ribosomal protein L20
+JCDIMBMJ_00592	gene	198	rpmI			
+JCDIMBMJ_00592	CDS	198	rpmI			50S ribosomal protein L35
+JCDIMBMJ_00593	gene	972	pfkA			
+JCDIMBMJ_00593	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+JCDIMBMJ_00594	gene	180	rpsU			
+JCDIMBMJ_00594	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+JCDIMBMJ_00595	gene	441	yqeY			
+JCDIMBMJ_00595	CDS	441	yqeY		COG1610	putative protein YqeY
+JCDIMBMJ_00596	gene	861				
+JCDIMBMJ_00596	CDS	861				hypothetical protein
+JCDIMBMJ_00597	gene	954	lytC_2			
+JCDIMBMJ_00597	CDS	954	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JCDIMBMJ_00598	gene	144				
+JCDIMBMJ_00598	CDS	144				hypothetical protein
+JCDIMBMJ_00599	gene	321	yajC			
+JCDIMBMJ_00599	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+JCDIMBMJ_00600	gene	1119	tgt			
+JCDIMBMJ_00600	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+JCDIMBMJ_00601	gene	339	queA			
+JCDIMBMJ_00601	CDS	339	queA	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+JCDIMBMJ_00602	gene	2106	ileS			
+JCDIMBMJ_00602	CDS	2106	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+JCDIMBMJ_00603	gene	816				
+JCDIMBMJ_00603	CDS	816				hypothetical protein
+JCDIMBMJ_00604	gene	420	ycfH			
+JCDIMBMJ_00604	CDS	420	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+JCDIMBMJ_00605	gene	993	lytC_3			
+JCDIMBMJ_00605	CDS	993	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JCDIMBMJ_00606	gene	900				
+JCDIMBMJ_00606	CDS	900				hypothetical protein
+JCDIMBMJ_00607	gene	618				
+JCDIMBMJ_00607	CDS	618				hypothetical protein
+JCDIMBMJ_00608	gene	180				
+JCDIMBMJ_00608	CDS	180				hypothetical protein
+JCDIMBMJ_00609	gene	1404	lysN			
+JCDIMBMJ_00609	CDS	1404	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+JCDIMBMJ_00610	gene	201				
+JCDIMBMJ_00610	CDS	201				hypothetical protein
+JCDIMBMJ_00611	gene	912	cmpR			
+JCDIMBMJ_00611	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+JCDIMBMJ_00612	gene	85				
+JCDIMBMJ_00612	tRNA	85				tRNA-Leu(caa)
+JCDIMBMJ_00613	gene	2289	malP_2			
+JCDIMBMJ_00613	CDS	2289	malP_2	2.4.1.8		Maltose phosphorylase
+JCDIMBMJ_00614	gene	1293	eno			
+JCDIMBMJ_00614	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+JCDIMBMJ_00615	gene	1527	gpmI			
+JCDIMBMJ_00615	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+JCDIMBMJ_00616	gene	330	tpiA			
+JCDIMBMJ_00616	CDS	330	tpiA	5.3.1.1		Triosephosphate isomerase
+JCDIMBMJ_00617	gene	1626	mleA			
+JCDIMBMJ_00617	CDS	1626	mleA	4.1.1.101	COG0281	Malolactic enzyme
+JCDIMBMJ_00618	gene	639				
+JCDIMBMJ_00618	CDS	639				hypothetical protein
+JCDIMBMJ_00619	gene	546				
+JCDIMBMJ_00619	CDS	546				hypothetical protein
+JCDIMBMJ_00620	gene	888	cysK			
+JCDIMBMJ_00620	CDS	888	cysK	2.5.1.47		Cysteine synthase
+JCDIMBMJ_00621	gene	597	cysE			
+JCDIMBMJ_00621	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+JCDIMBMJ_00622	gene	657				
+JCDIMBMJ_00622	CDS	657				hypothetical protein
+JCDIMBMJ_00623	gene	1134	groL			
+JCDIMBMJ_00623	CDS	1134	groL		COG0459	60 kDa chaperonin
+JCDIMBMJ_00624	gene	1536	guaA			
+JCDIMBMJ_00624	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+JCDIMBMJ_00625	gene	222				
+JCDIMBMJ_00625	CDS	222				hypothetical protein
+JCDIMBMJ_00626	gene	858	folD			
+JCDIMBMJ_00626	CDS	858	folD			Bifunctional protein FolD protein
+JCDIMBMJ_00627	gene	636	fchA			
+JCDIMBMJ_00627	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+JCDIMBMJ_00628	gene	141				
+JCDIMBMJ_00628	CDS	141				hypothetical protein
+JCDIMBMJ_00629	gene	735				
+JCDIMBMJ_00629	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+JCDIMBMJ_00630	gene	213				
+JCDIMBMJ_00630	CDS	213				hypothetical protein
+JCDIMBMJ_00631	gene	804				
+JCDIMBMJ_00631	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+JCDIMBMJ_00632	gene	777	trmK			
+JCDIMBMJ_00632	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+JCDIMBMJ_00633	gene	474	sigA			
+JCDIMBMJ_00633	CDS	474	sigA		COG0568	RNA polymerase sigma factor SigA
+JCDIMBMJ_00634	gene	681				
+JCDIMBMJ_00634	CDS	681				hypothetical protein
+JCDIMBMJ_00635	gene	435				
+JCDIMBMJ_00635	CDS	435				hypothetical protein
+JCDIMBMJ_00636	gene	1068				
+JCDIMBMJ_00636	CDS	1068				hypothetical protein
+JCDIMBMJ_00637	gene	375				
+JCDIMBMJ_00637	CDS	375				hypothetical protein
+JCDIMBMJ_00638	gene	480	lspA			
+JCDIMBMJ_00638	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+JCDIMBMJ_00639	gene	768				
+JCDIMBMJ_00639	CDS	768				hypothetical protein
+JCDIMBMJ_00640	gene	1008	trpS			
+JCDIMBMJ_00640	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+JCDIMBMJ_00641	gene	474	mtnN			
+JCDIMBMJ_00641	CDS	474	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+JCDIMBMJ_00642	gene	1155	dnaJ			
+JCDIMBMJ_00642	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+JCDIMBMJ_00643	gene	1527	dnaK			
+JCDIMBMJ_00643	CDS	1527	dnaK		COG0443	Chaperone protein DnaK
+JCDIMBMJ_00644	gene	1236	csd			
+JCDIMBMJ_00644	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+JCDIMBMJ_00645	gene	438	sufU			
+JCDIMBMJ_00645	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+JCDIMBMJ_00646	gene	408				
+JCDIMBMJ_00646	CDS	408				hypothetical protein
+JCDIMBMJ_00647	gene	627				
+JCDIMBMJ_00647	CDS	627				hypothetical protein
+JCDIMBMJ_00648	gene	291				
+JCDIMBMJ_00648	CDS	291				hypothetical protein
+JCDIMBMJ_00649	gene	1374	moaA_2			
+JCDIMBMJ_00649	CDS	1374	moaA_2			GTP 3',8-cyclase
+JCDIMBMJ_00650	gene	975				
+JCDIMBMJ_00650	CDS	975				hypothetical protein
+JCDIMBMJ_00651	gene	222				
+JCDIMBMJ_00651	CDS	222				hypothetical protein
+JCDIMBMJ_00652	gene	411				
+JCDIMBMJ_00652	CDS	411				hypothetical protein
+JCDIMBMJ_00653	gene	750				
+JCDIMBMJ_00653	CDS	750				hypothetical protein
+JCDIMBMJ_00654	gene	927	trxB			
+JCDIMBMJ_00654	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+JCDIMBMJ_00655	gene	387	zwf			
+JCDIMBMJ_00655	CDS	387	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+JCDIMBMJ_00656	gene	894				
+JCDIMBMJ_00656	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+JCDIMBMJ_00657	gene	855	sseB			
+JCDIMBMJ_00657	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+JCDIMBMJ_00658	gene	333	mrcA			
+JCDIMBMJ_00658	CDS	333	mrcA		COG5009	Penicillin-binding protein 1A
+JCDIMBMJ_00659	gene	795	fldI			
+JCDIMBMJ_00659	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+JCDIMBMJ_00660	gene	921				
+JCDIMBMJ_00660	CDS	921				hypothetical protein
+JCDIMBMJ_00661	gene	459	tsaE			
+JCDIMBMJ_00661	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+JCDIMBMJ_00662	gene	804	ywpJ			
+JCDIMBMJ_00662	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+JCDIMBMJ_00663	gene	567				
+JCDIMBMJ_00663	CDS	567				hypothetical protein
+JCDIMBMJ_00664	gene	954				
+JCDIMBMJ_00664	CDS	954				hypothetical protein
+JCDIMBMJ_00665	gene	576				
+JCDIMBMJ_00665	CDS	576				hypothetical protein
+JCDIMBMJ_00666	gene	540	folT			
+JCDIMBMJ_00666	CDS	540	folT			Folate transporter FolT
+JCDIMBMJ_00667	gene	771				
+JCDIMBMJ_00667	CDS	771				hypothetical protein
+JCDIMBMJ_00668	gene	591	metN			
+JCDIMBMJ_00668	CDS	591	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+JCDIMBMJ_00669	gene	654	metP			
+JCDIMBMJ_00669	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+JCDIMBMJ_00670	gene	825	metQ			
+JCDIMBMJ_00670	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+JCDIMBMJ_00671	gene	471				
+JCDIMBMJ_00671	CDS	471				hypothetical protein
+JCDIMBMJ_00672	gene	750	mltG			
+JCDIMBMJ_00672	CDS	750	mltG	4.2.2.-		Endolytic murein transglycosylase
+JCDIMBMJ_00673	gene	645	trmR			
+JCDIMBMJ_00673	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+JCDIMBMJ_00674	gene	1233				
+JCDIMBMJ_00674	CDS	1233				hypothetical protein
+JCDIMBMJ_00675	gene	258	prsA3			
+JCDIMBMJ_00675	CDS	258	prsA3	5.2.1.8	COG0760	Foldase protein PrsA 3
+JCDIMBMJ_00676	gene	2175	btuD_2			
+JCDIMBMJ_00676	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JCDIMBMJ_00677	gene	906				
+JCDIMBMJ_00677	CDS	906				hypothetical protein
+JCDIMBMJ_00678	gene	1728	ade			
+JCDIMBMJ_00678	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+JCDIMBMJ_00679	gene	189	rpmB			
+JCDIMBMJ_00679	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+JCDIMBMJ_00680	gene	936	corA			
+JCDIMBMJ_00680	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+JCDIMBMJ_00681	gene	1428				
+JCDIMBMJ_00681	CDS	1428				hypothetical protein
+JCDIMBMJ_00682	gene	339	gpsA			
+JCDIMBMJ_00682	CDS	339	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+JCDIMBMJ_00683	gene	702				
+JCDIMBMJ_00683	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+JCDIMBMJ_00684	gene	495	sepF			
+JCDIMBMJ_00684	CDS	495	sepF			Cell division protein SepF
+JCDIMBMJ_00685	gene	258				
+JCDIMBMJ_00685	CDS	258				hypothetical protein
+JCDIMBMJ_00686	gene	786				
+JCDIMBMJ_00686	CDS	786				hypothetical protein
+JCDIMBMJ_00687	gene	201	cspA			
+JCDIMBMJ_00687	CDS	201	cspA		COG1278	Cold shock protein CspA
+JCDIMBMJ_00688	gene	453				
+JCDIMBMJ_00688	CDS	453				hypothetical protein
+JCDIMBMJ_00689	gene	465				
+JCDIMBMJ_00689	CDS	465				hypothetical protein
+JCDIMBMJ_00690	gene	444				
+JCDIMBMJ_00690	CDS	444				hypothetical protein
+JCDIMBMJ_00691	gene	444	prsA			
+JCDIMBMJ_00691	CDS	444	prsA	5.2.1.8		Foldase protein PrsA
+JCDIMBMJ_00692	gene	1623	spoVB			
+JCDIMBMJ_00692	CDS	1623	spoVB		COG2244	Stage V sporulation protein B
+JCDIMBMJ_00693	gene	1020				
+JCDIMBMJ_00693	CDS	1020				hypothetical protein
+JCDIMBMJ_00694	gene	741				
+JCDIMBMJ_00694	CDS	741				hypothetical protein
+JCDIMBMJ_00695	gene	339				
+JCDIMBMJ_00695	CDS	339				hypothetical protein
+JCDIMBMJ_00696	gene	1476				
+JCDIMBMJ_00696	CDS	1476				hypothetical protein
+JCDIMBMJ_00697	gene	804	proC			
+JCDIMBMJ_00697	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+JCDIMBMJ_00698	gene	954				
+JCDIMBMJ_00698	CDS	954				hypothetical protein
+JCDIMBMJ_00699	gene	651				
+JCDIMBMJ_00699	CDS	651				hypothetical protein
+JCDIMBMJ_00700	gene	486				
+JCDIMBMJ_00700	CDS	486				hypothetical protein
+JCDIMBMJ_00701	gene	426				
+JCDIMBMJ_00701	CDS	426				hypothetical protein
+JCDIMBMJ_00702	gene	825				
+JCDIMBMJ_00702	CDS	825				hypothetical protein
+JCDIMBMJ_00703	gene	828	panB			
+JCDIMBMJ_00703	CDS	828	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+JCDIMBMJ_00704	gene	849	panC			
+JCDIMBMJ_00704	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+JCDIMBMJ_00705	gene	831	artP_2			
+JCDIMBMJ_00705	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+JCDIMBMJ_00706	gene	1275	argG			
+JCDIMBMJ_00706	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+JCDIMBMJ_00707	gene	894				
+JCDIMBMJ_00707	CDS	894				hypothetical protein
+JCDIMBMJ_00708	gene	747	asnS			
+JCDIMBMJ_00708	CDS	747	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+JCDIMBMJ_00709	gene	447	ywlF			
+JCDIMBMJ_00709	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+JCDIMBMJ_00710	gene	1038	ywlC			
+JCDIMBMJ_00710	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+JCDIMBMJ_00711	gene	1065	prfA			
+JCDIMBMJ_00711	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+JCDIMBMJ_00712	gene	2130				
+JCDIMBMJ_00712	CDS	2130				hypothetical protein
+JCDIMBMJ_00713	gene	1851	clpB			
+JCDIMBMJ_00713	CDS	1851	clpB		COG0542	Chaperone protein ClpB
+JCDIMBMJ_00714	gene	522	apt			
+JCDIMBMJ_00714	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+JCDIMBMJ_00715	gene	1791				
+JCDIMBMJ_00715	CDS	1791				hypothetical protein
+JCDIMBMJ_00716	gene	2322	yoaB			
+JCDIMBMJ_00716	CDS	2322	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+JCDIMBMJ_00717	gene	507	tpx			
+JCDIMBMJ_00717	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+JCDIMBMJ_00718	gene	462	mutX			
+JCDIMBMJ_00718	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+JCDIMBMJ_00719	gene	279	yjdJ			
+JCDIMBMJ_00719	CDS	279	yjdJ		COG2388	putative protein YjdJ
+JCDIMBMJ_00720	gene	825	ydjP			
+JCDIMBMJ_00720	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+JCDIMBMJ_00721	gene	234	rqcH			
+JCDIMBMJ_00721	CDS	234	rqcH			Rqc2 RqcH
+JCDIMBMJ_00722	gene	1461				
+JCDIMBMJ_00722	CDS	1461				hypothetical protein
+JCDIMBMJ_00723	gene	993	htpG			
+JCDIMBMJ_00723	CDS	993	htpG		COG0326	Chaperone protein HtpG
+JCDIMBMJ_00724	gene	2385	polA			
+JCDIMBMJ_00724	CDS	2385	polA	2.7.7.7		DNA polymerase I
+JCDIMBMJ_00725	gene	342	cdaA			
+JCDIMBMJ_00725	CDS	342	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+JCDIMBMJ_00726	gene	915	cdaR			
+JCDIMBMJ_00726	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+JCDIMBMJ_00727	gene	462	crcB_1			
+JCDIMBMJ_00727	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+JCDIMBMJ_00728	gene	348	crcB_2			
+JCDIMBMJ_00728	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+JCDIMBMJ_00729	gene	333				
+JCDIMBMJ_00729	CDS	333				hypothetical protein
+JCDIMBMJ_00730	gene	969	bioB_2			
+JCDIMBMJ_00730	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+JCDIMBMJ_00731	gene	522	dcd			
+JCDIMBMJ_00731	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+JCDIMBMJ_00732	gene	297	flK			
+JCDIMBMJ_00732	CDS	297	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+JCDIMBMJ_00733	gene	600	COQ5			
+JCDIMBMJ_00733	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JCDIMBMJ_00734	gene	921				
+JCDIMBMJ_00734	CDS	921				hypothetical protein
+JCDIMBMJ_00735	gene	543	yajL			
+JCDIMBMJ_00735	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+JCDIMBMJ_00736	gene	267				
+JCDIMBMJ_00736	CDS	267				hypothetical protein
+JCDIMBMJ_00737	gene	1182				
+JCDIMBMJ_00737	CDS	1182		2.6.1.1		Aspartate aminotransferase
+JCDIMBMJ_00738	gene	396	panD			
+JCDIMBMJ_00738	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+JCDIMBMJ_00739	gene	1116				
+JCDIMBMJ_00739	CDS	1116				hypothetical protein
+JCDIMBMJ_00740	gene	396				
+JCDIMBMJ_00740	CDS	396				hypothetical protein
+JCDIMBMJ_00741	gene	993				
+JCDIMBMJ_00741	CDS	993				hypothetical protein
+JCDIMBMJ_00742	gene	600				
+JCDIMBMJ_00742	CDS	600				hypothetical protein
+JCDIMBMJ_00743	gene	672				
+JCDIMBMJ_00743	CDS	672				hypothetical protein
+JCDIMBMJ_00744	gene	558				
+JCDIMBMJ_00744	CDS	558				hypothetical protein
+JCDIMBMJ_00745	gene	1110	miaB_1			
+JCDIMBMJ_00745	CDS	1110	miaB_1	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+JCDIMBMJ_00746	gene	321	miaB_2			
+JCDIMBMJ_00746	CDS	321	miaB_2	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+JCDIMBMJ_00747	gene	1002	hssS			
+JCDIMBMJ_00747	CDS	1002	hssS	2.7.13.3		Heme sensor protein HssS
+JCDIMBMJ_00748	gene	372	acpS			
+JCDIMBMJ_00748	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+JCDIMBMJ_00749	gene	813	aptA			
+JCDIMBMJ_00749	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+JCDIMBMJ_00750	gene	1278				
+JCDIMBMJ_00750	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+JCDIMBMJ_00751	gene	1287	brnQ			
+JCDIMBMJ_00751	CDS	1287	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+JCDIMBMJ_00752	gene	228				
+JCDIMBMJ_00752	CDS	228				hypothetical protein
+JCDIMBMJ_00753	gene	561				
+JCDIMBMJ_00753	CDS	561				hypothetical protein
+JCDIMBMJ_00754	gene	549	chrA1			
+JCDIMBMJ_00754	CDS	549	chrA1			Chromate transport protein
+JCDIMBMJ_00755	gene	189				
+JCDIMBMJ_00755	CDS	189				Rubredoxin
+JCDIMBMJ_00756	gene	813	dhaD			
+JCDIMBMJ_00756	CDS	813	dhaD	1.1.1.6		Glycerol dehydrogenase
+JCDIMBMJ_00757	gene	396				
+JCDIMBMJ_00757	CDS	396				hypothetical protein
+JCDIMBMJ_00758	gene	801	artJ			
+JCDIMBMJ_00758	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+JCDIMBMJ_00759	gene	618	artQ_2			
+JCDIMBMJ_00759	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+JCDIMBMJ_00760	gene	693				
+JCDIMBMJ_00760	CDS	693				hypothetical protein
+JCDIMBMJ_00761	gene	708				
+JCDIMBMJ_00761	CDS	708				hypothetical protein
+JCDIMBMJ_00762	gene	555				
+JCDIMBMJ_00762	CDS	555		3.1.3.-	COG5663	Nucleotidase
+JCDIMBMJ_00763	gene	252				
+JCDIMBMJ_00763	CDS	252				hypothetical protein
+JCDIMBMJ_00764	gene	107				
+JCDIMBMJ_00764	rRNA	107				5S ribosomal RNA
+JCDIMBMJ_00765	gene	2061	mutL			
+JCDIMBMJ_00765	CDS	2061	mutL			DNA mismatch repair protein MutL
+JCDIMBMJ_00766	gene	405	nrdE_1			
+JCDIMBMJ_00766	CDS	405	nrdE_1	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+JCDIMBMJ_00767	gene	1620	nrdE_2			
+JCDIMBMJ_00767	CDS	1620	nrdE_2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+JCDIMBMJ_00768	gene	270				
+JCDIMBMJ_00768	CDS	270				hypothetical protein
+JCDIMBMJ_00769	gene	1482	clsA_2			
+JCDIMBMJ_00769	CDS	1482	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+JCDIMBMJ_00770	gene	282	groS			
+JCDIMBMJ_00770	CDS	282	groS		COG0234	10 kDa chaperonin
+JCDIMBMJ_00771	gene	495	nusB			
+JCDIMBMJ_00771	CDS	495	nusB			Transcription antitermination protein NusB
+JCDIMBMJ_00772	gene	342				
+JCDIMBMJ_00772	CDS	342				putative protein
+JCDIMBMJ_00773	gene	1221	fbp			
+JCDIMBMJ_00773	CDS	1221	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+JCDIMBMJ_00774	gene	1317	pgcA			
+JCDIMBMJ_00774	CDS	1317	pgcA	5.4.2.2		Phosphoglucomutase
+JCDIMBMJ_00775	gene	561	efp			
+JCDIMBMJ_00775	CDS	561	efp		COG0231	Elongation factor P
+JCDIMBMJ_00776	gene	933				
+JCDIMBMJ_00776	CDS	933				hypothetical protein
+JCDIMBMJ_00777	gene	342				
+JCDIMBMJ_00777	CDS	342				hypothetical protein
+JCDIMBMJ_00778	gene	441				
+JCDIMBMJ_00778	CDS	441				hypothetical protein
+JCDIMBMJ_00779	gene	435				
+JCDIMBMJ_00779	CDS	435				hypothetical protein
+JCDIMBMJ_00780	gene	216	mnmG			
+JCDIMBMJ_00780	CDS	216	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+JCDIMBMJ_00781	gene	729	rsmG			
+JCDIMBMJ_00781	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+JCDIMBMJ_00782	gene	1839	typA			
+JCDIMBMJ_00782	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+JCDIMBMJ_00783	gene	201				
+JCDIMBMJ_00783	CDS	201				hypothetical protein
+JCDIMBMJ_00784	gene	1599	dltA			
+JCDIMBMJ_00784	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+JCDIMBMJ_00785	gene	126				
+JCDIMBMJ_00785	CDS	126				hypothetical protein
+JCDIMBMJ_00786	gene	402				
+JCDIMBMJ_00786	CDS	402				hypothetical protein
+JCDIMBMJ_00787	gene	240				
+JCDIMBMJ_00787	CDS	240				hypothetical protein
+JCDIMBMJ_00788	gene	1200	ackA			
+JCDIMBMJ_00788	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+JCDIMBMJ_00789	gene	519				
+JCDIMBMJ_00789	CDS	519				hypothetical protein
+JCDIMBMJ_00790	gene	180	rpmF			
+JCDIMBMJ_00790	CDS	180	rpmF			50S ribosomal protein L32
+JCDIMBMJ_00791	gene	528				
+JCDIMBMJ_00791	CDS	528				hypothetical protein
+JCDIMBMJ_00792	gene	273	asrC			
+JCDIMBMJ_00792	CDS	273	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+JCDIMBMJ_00793	gene	771	nirC			
+JCDIMBMJ_00793	CDS	771	nirC		COG2116	Nitrite transporter NirC
+JCDIMBMJ_00794	gene	324				
+JCDIMBMJ_00794	CDS	324				hypothetical protein
+JCDIMBMJ_00795	gene	546				
+JCDIMBMJ_00795	CDS	546				hypothetical protein
+JCDIMBMJ_00796	gene	1947	dxs			
+JCDIMBMJ_00796	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+JCDIMBMJ_00797	gene	531				
+JCDIMBMJ_00797	CDS	531				hypothetical protein
+JCDIMBMJ_00798	gene	846	hflX			
+JCDIMBMJ_00798	CDS	846	hflX		COG2262	GTPase HflX
+JCDIMBMJ_00799	gene	1431				
+JCDIMBMJ_00799	CDS	1431				hypothetical protein
+JCDIMBMJ_00800	gene	1062				
+JCDIMBMJ_00800	CDS	1062				hypothetical protein
+JCDIMBMJ_00801	gene	597				
+JCDIMBMJ_00801	CDS	597				hypothetical protein
+JCDIMBMJ_00802	gene	471	macB			
+JCDIMBMJ_00802	CDS	471	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+JCDIMBMJ_00803	gene	1275	pyrC			
+JCDIMBMJ_00803	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+JCDIMBMJ_00804	gene	297				
+JCDIMBMJ_00804	CDS	297				hypothetical protein
+JCDIMBMJ_00805	gene	192				
+JCDIMBMJ_00805	CDS	192				hypothetical protein
+JCDIMBMJ_00806	gene	510				
+JCDIMBMJ_00806	CDS	510				hypothetical protein
+JCDIMBMJ_00807	gene	105				
+JCDIMBMJ_00807	CDS	105				hypothetical protein
+JCDIMBMJ_00808	gene	540	pgsA			
+JCDIMBMJ_00808	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+JCDIMBMJ_00809	gene	1323	rimO			
+JCDIMBMJ_00809	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+JCDIMBMJ_00810	gene	567	spoIIIE			
+JCDIMBMJ_00810	CDS	567	spoIIIE		COG1674	DNA translocase SpoIIIE
+JCDIMBMJ_00811	gene	264	miaA			
+JCDIMBMJ_00811	CDS	264	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+JCDIMBMJ_00812	gene	1275				
+JCDIMBMJ_00812	CDS	1275				hypothetical protein
+JCDIMBMJ_00813	gene	546	ispH			
+JCDIMBMJ_00813	CDS	546	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+JCDIMBMJ_00814	gene	696				
+JCDIMBMJ_00814	CDS	696				hypothetical protein
+JCDIMBMJ_00815	gene	684				
+JCDIMBMJ_00815	CDS	684				hypothetical protein
+JCDIMBMJ_00816	gene	546	opuCA			
+JCDIMBMJ_00816	CDS	546	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+JCDIMBMJ_00817	gene	1662				
+JCDIMBMJ_00817	CDS	1662				hypothetical protein
+JCDIMBMJ_00818	gene	309	rplU			
+JCDIMBMJ_00818	CDS	309	rplU		COG0261	50S ribosomal protein L21
+JCDIMBMJ_00819	gene	318				
+JCDIMBMJ_00819	CDS	318				hypothetical protein
+JCDIMBMJ_00820	gene	291	rpmA			
+JCDIMBMJ_00820	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+JCDIMBMJ_00821	gene	1281	obg			
+JCDIMBMJ_00821	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+JCDIMBMJ_00822	gene	1005				
+JCDIMBMJ_00822	CDS	1005				hypothetical protein
+JCDIMBMJ_00823	gene	1230				
+JCDIMBMJ_00823	CDS	1230				hypothetical protein
+JCDIMBMJ_00824	gene	315	rplGA			
+JCDIMBMJ_00824	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+JCDIMBMJ_00825	gene	276				
+JCDIMBMJ_00825	CDS	276				hypothetical protein
+JCDIMBMJ_00826	gene	894	nusA			
+JCDIMBMJ_00826	CDS	894	nusA			Transcription termination/antitermination protein NusA
+JCDIMBMJ_00827	gene	396				
+JCDIMBMJ_00827	CDS	396				hypothetical protein
+JCDIMBMJ_00828	gene	822	mscS			
+JCDIMBMJ_00828	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+JCDIMBMJ_00829	gene	771	rhmA			
+JCDIMBMJ_00829	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+JCDIMBMJ_00830	gene	183				
+JCDIMBMJ_00830	CDS	183				hypothetical protein
+JCDIMBMJ_00831	gene	267	rpsT			
+JCDIMBMJ_00831	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+JCDIMBMJ_00832	gene	1035				
+JCDIMBMJ_00832	CDS	1035				hypothetical protein
+JCDIMBMJ_00833	gene	300				
+JCDIMBMJ_00833	CDS	300				hypothetical protein
+JCDIMBMJ_00834	gene	1137	gabR			
+JCDIMBMJ_00834	CDS	1137	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+JCDIMBMJ_00835	gene	156				
+JCDIMBMJ_00835	CDS	156				hypothetical protein
+JCDIMBMJ_00836	gene	1137				
+JCDIMBMJ_00836	CDS	1137				TelA-like protein
+JCDIMBMJ_00837	gene	507				
+JCDIMBMJ_00837	CDS	507				hypothetical protein
+JCDIMBMJ_00838	gene	1425				
+JCDIMBMJ_00838	CDS	1425				hypothetical protein
+JCDIMBMJ_00839	gene	369	sufC			
+JCDIMBMJ_00839	CDS	369	sufC		COG0396	putative ATP-dependent transporter SufC
+JCDIMBMJ_00840	gene	1173	glgC			
+JCDIMBMJ_00840	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+JCDIMBMJ_00841	gene	228	glgB			
+JCDIMBMJ_00841	CDS	228	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+JCDIMBMJ_00842	gene	1425	glgA			
+JCDIMBMJ_00842	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+JCDIMBMJ_00843	gene	138				
+JCDIMBMJ_00843	CDS	138				hypothetical protein
+JCDIMBMJ_00844	gene	720				
+JCDIMBMJ_00844	CDS	720		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+JCDIMBMJ_00845	gene	417				
+JCDIMBMJ_00845	CDS	417				hypothetical protein
+JCDIMBMJ_00846	gene	549				
+JCDIMBMJ_00846	CDS	549				hypothetical protein
+JCDIMBMJ_00847	gene	675	arlR			
+JCDIMBMJ_00847	CDS	675	arlR		COG0745	Response regulator ArlR
+JCDIMBMJ_00848	gene	510				
+JCDIMBMJ_00848	CDS	510				hypothetical protein
+JCDIMBMJ_00849	gene	1368	mepA_2			
+JCDIMBMJ_00849	CDS	1368	mepA_2			Multidrug export protein MepA
+JCDIMBMJ_00850	gene	306				
+JCDIMBMJ_00850	CDS	306				hypothetical protein
+JCDIMBMJ_00851	gene	282	hup			
+JCDIMBMJ_00851	CDS	282	hup			DNA-binding protein HU
+JCDIMBMJ_00852	gene	240				
+JCDIMBMJ_00852	CDS	240			COG1188	putative protein
+JCDIMBMJ_00853	gene	894	gtaB			
+JCDIMBMJ_00853	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+JCDIMBMJ_00854	gene	312	rpsJ			
+JCDIMBMJ_00854	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+JCDIMBMJ_00855	gene	834				
+JCDIMBMJ_00855	CDS	834		1.-.-.-		putative oxidoreductase
+JCDIMBMJ_00856	gene	219				
+JCDIMBMJ_00856	CDS	219				hypothetical protein
+JCDIMBMJ_00857	gene	363				
+JCDIMBMJ_00857	CDS	363				hypothetical protein
+JCDIMBMJ_00858	gene	1017	hmo			
+JCDIMBMJ_00858	CDS	1017	hmo	1.1.3.46		4-hydroxymandelate oxidase
+JCDIMBMJ_00859	gene	624				
+JCDIMBMJ_00859	CDS	624				hypothetical protein
+JCDIMBMJ_00860	gene	1350	alsT_2			
+JCDIMBMJ_00860	CDS	1350	alsT_2		COG1115	Amino-acid carrier protein AlsT
+JCDIMBMJ_00861	gene	684				
+JCDIMBMJ_00861	CDS	684				hypothetical protein
+JCDIMBMJ_00862	gene	909				
+JCDIMBMJ_00862	CDS	909				hypothetical protein
+JCDIMBMJ_00863	gene	720				
+JCDIMBMJ_00863	CDS	720				hypothetical protein
+JCDIMBMJ_00864	gene	327				
+JCDIMBMJ_00864	CDS	327				hypothetical protein
+JCDIMBMJ_00865	gene	201	rpmE			
+JCDIMBMJ_00865	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+JCDIMBMJ_00866	gene	444				
+JCDIMBMJ_00866	CDS	444				hypothetical protein
+JCDIMBMJ_00867	gene	546				
+JCDIMBMJ_00867	CDS	546			COG3599	putative protein
+JCDIMBMJ_00868	gene	483	coaD			
+JCDIMBMJ_00868	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+JCDIMBMJ_00869	gene	561	rsmD			
+JCDIMBMJ_00869	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+JCDIMBMJ_00870	gene	267				
+JCDIMBMJ_00870	CDS	267				hypothetical protein
+JCDIMBMJ_00871	gene	1260	srfAB			
+JCDIMBMJ_00871	CDS	1260	srfAB			Surfactin synthase subunit 2
+JCDIMBMJ_00872	gene	897	ddl			
+JCDIMBMJ_00872	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+JCDIMBMJ_00873	gene	966	mraY			
+JCDIMBMJ_00873	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+JCDIMBMJ_00874	gene	1038	murF			
+JCDIMBMJ_00874	CDS	1038	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+JCDIMBMJ_00875	gene	1740	pycA			
+JCDIMBMJ_00875	CDS	1740	pycA	6.4.1.1		Pyruvate carboxylase
+JCDIMBMJ_00876	gene	537	grpE			
+JCDIMBMJ_00876	CDS	537	grpE		COG0576	Protein GrpE
+JCDIMBMJ_00877	gene	1038	hrcA			
+JCDIMBMJ_00877	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+JCDIMBMJ_00878	gene	1617	deaD			
+JCDIMBMJ_00878	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+JCDIMBMJ_00879	gene	573				
+JCDIMBMJ_00879	CDS	573				hypothetical protein
+JCDIMBMJ_00880	gene	228				
+JCDIMBMJ_00880	CDS	228				hypothetical protein
+JCDIMBMJ_00881	gene	1203	roo			
+JCDIMBMJ_00881	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+JCDIMBMJ_00882	gene	1296	lysA			
+JCDIMBMJ_00882	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+JCDIMBMJ_00883	gene	846	licT			
+JCDIMBMJ_00883	CDS	846	licT		COG3711	Transcription antiterminator LicT
+JCDIMBMJ_00884	gene	90				
+JCDIMBMJ_00884	rRNA	90				5S ribosomal RNA (partial)
+JCDIMBMJ_00885	gene	513	sigM_2			
+JCDIMBMJ_00885	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+JCDIMBMJ_00886	gene	231				
+JCDIMBMJ_00886	CDS	231				hypothetical protein
+JCDIMBMJ_00887	gene	510				
+JCDIMBMJ_00887	CDS	510				hypothetical protein
+JCDIMBMJ_00888	gene	1221				
+JCDIMBMJ_00888	CDS	1221				hypothetical protein
+JCDIMBMJ_00889	gene	504	ktrA			
+JCDIMBMJ_00889	CDS	504	ktrA		COG0569	Ktr system potassium uptake protein A
+JCDIMBMJ_00890	gene	771	aviRb			
+JCDIMBMJ_00890	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+JCDIMBMJ_00891	gene	444				
+JCDIMBMJ_00891	CDS	444				hypothetical protein
+JCDIMBMJ_00892	gene	462	cdd			
+JCDIMBMJ_00892	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+JCDIMBMJ_00893	gene	846	cvfB			
+JCDIMBMJ_00893	CDS	846	cvfB		COG2996	Conserved virulence factor B
+JCDIMBMJ_00894	gene	1317	cca			
+JCDIMBMJ_00894	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+JCDIMBMJ_00895	gene	648	lepA			
+JCDIMBMJ_00895	CDS	648	lepA	3.6.5.-	COG0481	Elongation factor 4
+JCDIMBMJ_00896	gene	1128				
+JCDIMBMJ_00896	CDS	1128				hypothetical protein
+JCDIMBMJ_00897	gene	885				
+JCDIMBMJ_00897	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+JCDIMBMJ_00898	gene	246	xseB			
+JCDIMBMJ_00898	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+JCDIMBMJ_00899	gene	636	xseA			
+JCDIMBMJ_00899	CDS	636	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+JCDIMBMJ_00900	gene	858	trmB			
+JCDIMBMJ_00900	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+JCDIMBMJ_00901	gene	318	erpA			
+JCDIMBMJ_00901	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+JCDIMBMJ_00902	gene	504	nrdG			
+JCDIMBMJ_00902	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+JCDIMBMJ_00903	gene	444	ychF			
+JCDIMBMJ_00903	CDS	444	ychF		COG0012	Ribosome-binding ATPase YchF
+JCDIMBMJ_00904	gene	456				
+JCDIMBMJ_00904	CDS	456				hypothetical protein
+JCDIMBMJ_00905	gene	1968				
+JCDIMBMJ_00905	CDS	1968				hypothetical protein
+JCDIMBMJ_00906	gene	945	murD			
+JCDIMBMJ_00906	CDS	945	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+JCDIMBMJ_00907	gene	237				
+JCDIMBMJ_00907	CDS	237				hypothetical protein
+JCDIMBMJ_00908	gene	1701				
+JCDIMBMJ_00908	CDS	1701				hypothetical protein
+JCDIMBMJ_00909	gene	279				
+JCDIMBMJ_00909	CDS	279				hypothetical protein
+JCDIMBMJ_00910	gene	1683	recN			
+JCDIMBMJ_00910	CDS	1683	recN		COG0497	DNA repair protein RecN
+JCDIMBMJ_00911	gene	849				
+JCDIMBMJ_00911	CDS	849				DegV domain-containing protein
+JCDIMBMJ_00912	gene	1053	citZ			
+JCDIMBMJ_00912	CDS	1053	citZ	2.3.3.16	COG0372	Citrate synthase 2
+JCDIMBMJ_00913	gene	1587	sasA_1			
+JCDIMBMJ_00913	CDS	1587	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+JCDIMBMJ_00914	gene	390				
+JCDIMBMJ_00914	CDS	390				hypothetical protein
+JCDIMBMJ_00915	gene	1362				
+JCDIMBMJ_00915	CDS	1362		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JCDIMBMJ_00916	gene	1677	uvrB			
+JCDIMBMJ_00916	CDS	1677	uvrB			UvrABC system protein B
+JCDIMBMJ_00917	gene	600				
+JCDIMBMJ_00917	CDS	600				hypothetical protein
+JCDIMBMJ_00918	gene	762	yfiC			
+JCDIMBMJ_00918	CDS	762	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+JCDIMBMJ_00919	gene	384	hemC			
+JCDIMBMJ_00919	CDS	384	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+JCDIMBMJ_00920	gene	1260	sasA_2			
+JCDIMBMJ_00920	CDS	1260	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+JCDIMBMJ_00921	gene	369				
+JCDIMBMJ_00921	CDS	369				hypothetical protein
+JCDIMBMJ_00922	gene	1206				
+JCDIMBMJ_00922	CDS	1206		1.6.99.3		putative NADH oxidase
+JCDIMBMJ_00923	gene	243				
+JCDIMBMJ_00923	CDS	243				hypothetical protein
+JCDIMBMJ_00924	gene	801	asrB			
+JCDIMBMJ_00924	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+JCDIMBMJ_00925	gene	573	asrA			
+JCDIMBMJ_00925	CDS	573	asrA		COG1145	Anaerobic sulfite reductase subunit A
+JCDIMBMJ_00926	gene	714	phoP_2			
+JCDIMBMJ_00926	CDS	714	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+JCDIMBMJ_00927	gene	519	thiN			
+JCDIMBMJ_00927	CDS	519	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+JCDIMBMJ_00928	gene	384	cof			
+JCDIMBMJ_00928	CDS	384	cof	3.6.1.-		HMP-PP phosphatase
+JCDIMBMJ_00929	gene	1128				
+JCDIMBMJ_00929	CDS	1128				hypothetical protein
+JCDIMBMJ_00930	gene	1380	radA			
+JCDIMBMJ_00930	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+JCDIMBMJ_00931	gene	291				
+JCDIMBMJ_00931	CDS	291				hypothetical protein
+JCDIMBMJ_00932	gene	705	atpB			
+JCDIMBMJ_00932	CDS	705	atpB		COG0356	ATP synthase subunit a
+JCDIMBMJ_00933	gene	264	atpE			
+JCDIMBMJ_00933	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+JCDIMBMJ_00934	gene	507	atpF			
+JCDIMBMJ_00934	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+JCDIMBMJ_00935	gene	1017	plsX			
+JCDIMBMJ_00935	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+JCDIMBMJ_00936	gene	735	rsuA			
+JCDIMBMJ_00936	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+JCDIMBMJ_00937	gene	876	hslO			
+JCDIMBMJ_00937	CDS	876	hslO		COG1281	33 kDa chaperonin
+JCDIMBMJ_00938	gene	951	prmA			
+JCDIMBMJ_00938	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+JCDIMBMJ_00939	gene	1296	mtaB			
+JCDIMBMJ_00939	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+JCDIMBMJ_00940	gene	324				
+JCDIMBMJ_00940	CDS	324				hypothetical protein
+JCDIMBMJ_00941	gene	237	dltC			
+JCDIMBMJ_00941	CDS	237	dltC		COG0236	D-alanyl carrier protein
+JCDIMBMJ_00942	gene	711				
+JCDIMBMJ_00942	CDS	711				hypothetical protein
+JCDIMBMJ_00943	gene	1608	dnaG			
+JCDIMBMJ_00943	CDS	1608	dnaG	2.7.7.-		DNA primase
+JCDIMBMJ_00944	gene	525				
+JCDIMBMJ_00944	CDS	525				hypothetical protein
+JCDIMBMJ_00945	gene	1077	aroC			
+JCDIMBMJ_00945	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+JCDIMBMJ_00946	gene	498	aroA			
+JCDIMBMJ_00946	CDS	498	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+JCDIMBMJ_00947	gene	141				
+JCDIMBMJ_00947	CDS	141				hypothetical protein
+JCDIMBMJ_00948	gene	870	tagU			
+JCDIMBMJ_00948	CDS	870	tagU	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+JCDIMBMJ_00949	gene	768	sstT			
+JCDIMBMJ_00949	CDS	768	sstT			Serine/threonine transporter SstT
+JCDIMBMJ_00950	gene	678				
+JCDIMBMJ_00950	CDS	678				hypothetical protein
+JCDIMBMJ_00951	gene	249				
+JCDIMBMJ_00951	CDS	249				hypothetical protein
+JCDIMBMJ_00952	gene	1257				
+JCDIMBMJ_00952	CDS	1257				hypothetical protein
+JCDIMBMJ_00953	gene	981	ltaE			
+JCDIMBMJ_00953	CDS	981	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+JCDIMBMJ_00954	gene	591	ogt			
+JCDIMBMJ_00954	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+JCDIMBMJ_00955	gene	534	apbE			
+JCDIMBMJ_00955	CDS	534	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+JCDIMBMJ_00956	gene	954				
+JCDIMBMJ_00956	CDS	954				hypothetical protein
+JCDIMBMJ_00957	gene	1326	murC			
+JCDIMBMJ_00957	CDS	1326	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+JCDIMBMJ_00958	gene	1023				
+JCDIMBMJ_00958	CDS	1023				hypothetical protein
+JCDIMBMJ_00959	gene	1425	ziaA			
+JCDIMBMJ_00959	CDS	1425	ziaA	7.2.2.12		Zinc-transporting ATPase
+JCDIMBMJ_00960	gene	1653	relA			
+JCDIMBMJ_00960	CDS	1653	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+JCDIMBMJ_00961	gene	903	truB			
+JCDIMBMJ_00961	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+JCDIMBMJ_00962	gene	579	nrnA			
+JCDIMBMJ_00962	CDS	579	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+JCDIMBMJ_00963	gene	1215	ykoD			
+JCDIMBMJ_00963	CDS	1215	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+JCDIMBMJ_00964	gene	639				
+JCDIMBMJ_00964	CDS	639				hypothetical protein
+JCDIMBMJ_00965	gene	450	comEA			
+JCDIMBMJ_00965	CDS	450	comEA		COG1555	ComE operon protein 1
+JCDIMBMJ_00966	gene	900	murJ			
+JCDIMBMJ_00966	CDS	900	murJ		COG0728	putative lipid II flippase MurJ
+JCDIMBMJ_00967	gene	768				
+JCDIMBMJ_00967	CDS	768				hypothetical protein
+JCDIMBMJ_00968	gene	687	arnC			
+JCDIMBMJ_00968	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+JCDIMBMJ_00969	gene	768				
+JCDIMBMJ_00969	CDS	768				hypothetical protein
+JCDIMBMJ_00970	gene	510				
+JCDIMBMJ_00970	CDS	510				hypothetical protein
+JCDIMBMJ_00971	gene	390				
+JCDIMBMJ_00971	CDS	390				hypothetical protein
+JCDIMBMJ_00972	gene	1167	ubiB			
+JCDIMBMJ_00972	CDS	1167	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+JCDIMBMJ_00973	gene	189				
+JCDIMBMJ_00973	CDS	189				hypothetical protein
+JCDIMBMJ_00974	gene	636	lexA			
+JCDIMBMJ_00974	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+JCDIMBMJ_00975	gene	441	xerC			
+JCDIMBMJ_00975	CDS	441	xerC			Tyrosine recombinase XerC
+JCDIMBMJ_00976	gene	1089				
+JCDIMBMJ_00976	CDS	1089				hypothetical protein
+JCDIMBMJ_00977	gene	600	fbpC			
+JCDIMBMJ_00977	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+JCDIMBMJ_00978	gene	468				
+JCDIMBMJ_00978	CDS	468				hypothetical protein
+JCDIMBMJ_00979	gene	813	uppP			
+JCDIMBMJ_00979	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+JCDIMBMJ_00980	gene	504				
+JCDIMBMJ_00980	CDS	504				hypothetical protein
+JCDIMBMJ_00981	gene	1188	tagF			
+JCDIMBMJ_00981	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+JCDIMBMJ_00982	gene	864	map			
+JCDIMBMJ_00982	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+JCDIMBMJ_00983	gene	627				
+JCDIMBMJ_00983	CDS	627				hypothetical protein
+JCDIMBMJ_00984	gene	249	hcp			
+JCDIMBMJ_00984	CDS	249	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+JCDIMBMJ_00985	gene	255				
+JCDIMBMJ_00985	CDS	255			COG1132	putative ABC transporter ATP-binding protein
+JCDIMBMJ_00986	gene	576				
+JCDIMBMJ_00986	CDS	576				hypothetical protein
+JCDIMBMJ_00987	gene	1023	thiY			
+JCDIMBMJ_00987	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+JCDIMBMJ_00988	gene	183				
+JCDIMBMJ_00988	CDS	183				hypothetical protein
+JCDIMBMJ_00989	gene	306				
+JCDIMBMJ_00989	CDS	306				hypothetical protein
+JCDIMBMJ_00990	gene	396	ribR			
+JCDIMBMJ_00990	CDS	396	ribR	2.7.1.26	COG0196	RNA-binding riboflavin kinase RibR
+JCDIMBMJ_00991	gene	255	rpsO			
+JCDIMBMJ_00991	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+JCDIMBMJ_00992	gene	765	fpuC			
+JCDIMBMJ_00992	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+JCDIMBMJ_00993	gene	756	fpuB			
+JCDIMBMJ_00993	CDS	756	fpuB		COG0609	Petrobactin import system permease protein FpuB
+JCDIMBMJ_00994	gene	546	recX			
+JCDIMBMJ_00994	CDS	546	recX			Regulatory protein RecX
+JCDIMBMJ_00995	gene	696	nadD			
+JCDIMBMJ_00995	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+JCDIMBMJ_00996	gene	507				
+JCDIMBMJ_00996	CDS	507				hypothetical protein
+JCDIMBMJ_00997	gene	771	hexR			
+JCDIMBMJ_00997	CDS	771	hexR		COG1737	HTH-type transcriptional regulator HexR
+JCDIMBMJ_00998	gene	177				
+JCDIMBMJ_00998	CDS	177				hypothetical protein
+JCDIMBMJ_00999	gene	822				
+JCDIMBMJ_00999	CDS	822				hypothetical protein
+JCDIMBMJ_01000	gene	699				
+JCDIMBMJ_01000	CDS	699				hypothetical protein
+JCDIMBMJ_01001	gene	582				
+JCDIMBMJ_01001	CDS	582				hypothetical protein
+JCDIMBMJ_01002	gene	990				
+JCDIMBMJ_01002	CDS	990				hypothetical protein

@@ -1,0 +1,1625 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JNKBDPAB_00001	gene	1392	pncB2			
+JNKBDPAB_00001	CDS	1392	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+JNKBDPAB_00002	gene	456	lrpC			
+JNKBDPAB_00002	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+JNKBDPAB_00003	gene	1941	metG			
+JNKBDPAB_00003	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+JNKBDPAB_00004	gene	771	ycfH			
+JNKBDPAB_00004	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+JNKBDPAB_00005	gene	168				
+JNKBDPAB_00005	CDS	168			COG1145	Ferredoxin
+JNKBDPAB_00006	gene	1254				
+JNKBDPAB_00006	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+JNKBDPAB_00007	gene	657				
+JNKBDPAB_00007	CDS	657				hypothetical protein
+JNKBDPAB_00008	gene	219				
+JNKBDPAB_00008	CDS	219				hypothetical protein
+JNKBDPAB_00009	gene	234				
+JNKBDPAB_00009	CDS	234				hypothetical protein
+JNKBDPAB_00010	gene	2151	feoB			
+JNKBDPAB_00010	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+JNKBDPAB_00011	gene	168				
+JNKBDPAB_00011	CDS	168				hypothetical protein
+JNKBDPAB_00012	gene	1557				
+JNKBDPAB_00012	CDS	1557				hypothetical protein
+JNKBDPAB_00013	gene	267				
+JNKBDPAB_00013	CDS	267				hypothetical protein
+JNKBDPAB_00014	gene	870	rlmL			
+JNKBDPAB_00014	CDS	870	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+JNKBDPAB_00015	gene	1422	pqqE			
+JNKBDPAB_00015	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+JNKBDPAB_00016	gene	510	ftnA			
+JNKBDPAB_00016	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+JNKBDPAB_00017	gene	471				
+JNKBDPAB_00017	CDS	471				hypothetical protein
+JNKBDPAB_00018	gene	564				
+JNKBDPAB_00018	CDS	564				hypothetical protein
+JNKBDPAB_00019	gene	888	cysK			
+JNKBDPAB_00019	CDS	888	cysK	2.5.1.47		Cysteine synthase
+JNKBDPAB_00020	gene	597	cysE			
+JNKBDPAB_00020	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+JNKBDPAB_00021	gene	234				
+JNKBDPAB_00021	CDS	234				hypothetical protein
+JNKBDPAB_00022	gene	684	sstT			
+JNKBDPAB_00022	CDS	684	sstT		COG3633	Serine/threonine transporter SstT
+JNKBDPAB_00023	gene	519	hmpT			
+JNKBDPAB_00023	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+JNKBDPAB_00024	gene	549	rbr			
+JNKBDPAB_00024	CDS	549	rbr		COG1592	Rubrerythrin
+JNKBDPAB_00025	gene	372	perR			
+JNKBDPAB_00025	CDS	372	perR		COG0735	Peroxide operon regulator
+JNKBDPAB_00026	gene	387	dfx			
+JNKBDPAB_00026	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+JNKBDPAB_00027	gene	1974				
+JNKBDPAB_00027	CDS	1974				hypothetical protein
+JNKBDPAB_00028	gene	786				
+JNKBDPAB_00028	CDS	786				hypothetical protein
+JNKBDPAB_00029	gene	639				
+JNKBDPAB_00029	CDS	639				hypothetical protein
+JNKBDPAB_00030	gene	1041	cobD			
+JNKBDPAB_00030	CDS	1041	cobD		COG1270	Cobalamin biosynthesis protein CobD
+JNKBDPAB_00031	gene	1395	cbiA			
+JNKBDPAB_00031	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+JNKBDPAB_00032	gene	1503	cobQ			
+JNKBDPAB_00032	CDS	1503	cobQ			Cobyric acid synthase
+JNKBDPAB_00033	gene	639	pspA			
+JNKBDPAB_00033	CDS	639	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+JNKBDPAB_00034	gene	771	cobS			
+JNKBDPAB_00034	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+JNKBDPAB_00035	gene	588	cobU			
+JNKBDPAB_00035	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+JNKBDPAB_00036	gene	672	cobT			
+JNKBDPAB_00036	CDS	672	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+JNKBDPAB_00037	gene	672	regX3_1			
+JNKBDPAB_00037	CDS	672	regX3_1		COG0745	Sensory transduction protein regX3
+JNKBDPAB_00038	gene	975	sasA			
+JNKBDPAB_00038	CDS	975	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+JNKBDPAB_00039	gene	672	lolD			
+JNKBDPAB_00039	CDS	672	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+JNKBDPAB_00040	gene	2505				
+JNKBDPAB_00040	CDS	2505				hypothetical protein
+JNKBDPAB_00041	gene	1050	apbE			
+JNKBDPAB_00041	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+JNKBDPAB_00042	gene	375				
+JNKBDPAB_00042	CDS	375				hypothetical protein
+JNKBDPAB_00043	gene	1332	cysG_1			
+JNKBDPAB_00043	CDS	1332	cysG_1	4.99.1.4		Siroheme synthase
+JNKBDPAB_00044	gene	969	hemB			
+JNKBDPAB_00044	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+JNKBDPAB_00045	gene	426	cysG_2			
+JNKBDPAB_00045	CDS	426	cysG_2		COG0007	Siroheme synthase
+JNKBDPAB_00046	gene	2364	pcrA			
+JNKBDPAB_00046	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+JNKBDPAB_00047	gene	885	glyQ			
+JNKBDPAB_00047	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+JNKBDPAB_00048	gene	609				
+JNKBDPAB_00048	CDS	609				hypothetical protein
+JNKBDPAB_00049	gene	747	recO			
+JNKBDPAB_00049	CDS	747	recO		COG1381	DNA repair protein RecO
+JNKBDPAB_00050	gene	1377				
+JNKBDPAB_00050	CDS	1377			COG2239	Magnesium transporter MgtE
+JNKBDPAB_00051	gene	903	era			
+JNKBDPAB_00051	CDS	903	era			GTPase Era
+JNKBDPAB_00052	gene	897				
+JNKBDPAB_00052	CDS	897				hypothetical protein
+JNKBDPAB_00053	gene	462	ybeY			
+JNKBDPAB_00053	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+JNKBDPAB_00054	gene	906				
+JNKBDPAB_00054	CDS	906				hypothetical protein
+JNKBDPAB_00055	gene	1104				
+JNKBDPAB_00055	CDS	1104				hypothetical protein
+JNKBDPAB_00056	gene	1545				
+JNKBDPAB_00056	CDS	1545				hypothetical protein
+JNKBDPAB_00057	gene	765	cbiJ			
+JNKBDPAB_00057	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+JNKBDPAB_00058	gene	726	cbiH			
+JNKBDPAB_00058	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+JNKBDPAB_00059	gene	303	cbiG			
+JNKBDPAB_00059	CDS	303	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+JNKBDPAB_00060	gene	1665				
+JNKBDPAB_00060	CDS	1665				hypothetical protein
+JNKBDPAB_00061	gene	963				
+JNKBDPAB_00061	CDS	963				hypothetical protein
+JNKBDPAB_00062	gene	1188	thiI			
+JNKBDPAB_00062	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+JNKBDPAB_00063	gene	342	iscS			
+JNKBDPAB_00063	CDS	342	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+JNKBDPAB_00064	gene	387				
+JNKBDPAB_00064	CDS	387				hypothetical protein
+JNKBDPAB_00065	gene	1227				
+JNKBDPAB_00065	CDS	1227		3.4.11.-		Aminopeptidase 2
+JNKBDPAB_00066	gene	582				
+JNKBDPAB_00066	CDS	582				hypothetical protein
+JNKBDPAB_00067	gene	552				
+JNKBDPAB_00067	CDS	552				hypothetical protein
+JNKBDPAB_00068	gene	765	rhaR			
+JNKBDPAB_00068	CDS	765	rhaR			HTH-type transcriptional activator RhaR
+JNKBDPAB_00069	gene	693	ispD			
+JNKBDPAB_00069	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+JNKBDPAB_00070	gene	474	ispF			
+JNKBDPAB_00070	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+JNKBDPAB_00071	gene	1392	glmU			
+JNKBDPAB_00071	CDS	1392	glmU			Bifunctional protein GlmU
+JNKBDPAB_00072	gene	651				
+JNKBDPAB_00072	CDS	651				hypothetical protein
+JNKBDPAB_00073	gene	834	purR			
+JNKBDPAB_00073	CDS	834	purR		COG0503	Pur operon repressor
+JNKBDPAB_00074	gene	1362	murC			
+JNKBDPAB_00074	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+JNKBDPAB_00075	gene	369				
+JNKBDPAB_00075	CDS	369				hypothetical protein
+JNKBDPAB_00076	gene	1326	pepC			
+JNKBDPAB_00076	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+JNKBDPAB_00077	gene	1311				
+JNKBDPAB_00077	CDS	1311				hypothetical protein
+JNKBDPAB_00078	gene	945	hmo_1			
+JNKBDPAB_00078	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+JNKBDPAB_00079	gene	939				
+JNKBDPAB_00079	CDS	939				hypothetical protein
+JNKBDPAB_00080	gene	576				
+JNKBDPAB_00080	CDS	576				hypothetical protein
+JNKBDPAB_00081	gene	270	atpC			
+JNKBDPAB_00081	CDS	270	atpC			ATP synthase epsilon chain
+JNKBDPAB_00082	gene	435				
+JNKBDPAB_00082	CDS	435				hypothetical protein
+JNKBDPAB_00083	gene	1401				
+JNKBDPAB_00083	CDS	1401				hypothetical protein
+JNKBDPAB_00084	gene	390				
+JNKBDPAB_00084	CDS	390				hypothetical protein
+JNKBDPAB_00085	gene	1056	epsF			
+JNKBDPAB_00085	CDS	1056	epsF		COG1459	Type II secretion system protein F
+JNKBDPAB_00086	gene	1236				
+JNKBDPAB_00086	CDS	1236				hypothetical protein
+JNKBDPAB_00087	gene	270				
+JNKBDPAB_00087	CDS	270				hypothetical protein
+JNKBDPAB_00088	gene	471	glgA			
+JNKBDPAB_00088	CDS	471	glgA	2.4.1.21	COG0297	Glycogen synthase
+JNKBDPAB_00089	gene	2391	glgP			
+JNKBDPAB_00089	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+JNKBDPAB_00090	gene	2430				
+JNKBDPAB_00090	CDS	2430				hypothetical protein
+JNKBDPAB_00091	gene	1494	rsmF			
+JNKBDPAB_00091	CDS	1494	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+JNKBDPAB_00092	gene	591				
+JNKBDPAB_00092	CDS	591				hypothetical protein
+JNKBDPAB_00093	gene	1314	pdp			
+JNKBDPAB_00093	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+JNKBDPAB_00094	gene	1419	purL			
+JNKBDPAB_00094	CDS	1419	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+JNKBDPAB_00095	gene	2481				
+JNKBDPAB_00095	CDS	2481				hypothetical protein
+JNKBDPAB_00096	gene	477	purE			
+JNKBDPAB_00096	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+JNKBDPAB_00097	gene	1077	purM			
+JNKBDPAB_00097	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+JNKBDPAB_00098	gene	594	purN			
+JNKBDPAB_00098	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+JNKBDPAB_00099	gene	2493				
+JNKBDPAB_00099	CDS	2493				hypothetical protein
+JNKBDPAB_00100	gene	198				
+JNKBDPAB_00100	CDS	198				hypothetical protein
+JNKBDPAB_00101	gene	1476				
+JNKBDPAB_00101	CDS	1476				hypothetical protein
+JNKBDPAB_00102	gene	804	proC			
+JNKBDPAB_00102	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+JNKBDPAB_00103	gene	231				
+JNKBDPAB_00103	CDS	231				hypothetical protein
+JNKBDPAB_00104	gene	1293	eno			
+JNKBDPAB_00104	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+JNKBDPAB_00105	gene	1527	gpmI			
+JNKBDPAB_00105	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+JNKBDPAB_00106	gene	1074	glmS			
+JNKBDPAB_00106	CDS	1074	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+JNKBDPAB_00107	gene	1401				
+JNKBDPAB_00107	CDS	1401				hypothetical protein
+JNKBDPAB_00108	gene	747	aroD			
+JNKBDPAB_00108	CDS	747	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+JNKBDPAB_00109	gene	1167	patB			
+JNKBDPAB_00109	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+JNKBDPAB_00110	gene	474	ecfT			
+JNKBDPAB_00110	CDS	474	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+JNKBDPAB_00111	gene	1158				
+JNKBDPAB_00111	CDS	1158				hypothetical protein
+JNKBDPAB_00112	gene	1383	dinG			
+JNKBDPAB_00112	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+JNKBDPAB_00113	gene	852				
+JNKBDPAB_00113	CDS	852				hypothetical protein
+JNKBDPAB_00114	gene	885				
+JNKBDPAB_00114	CDS	885				hypothetical protein
+JNKBDPAB_00115	gene	921	mrdA			
+JNKBDPAB_00115	CDS	921	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+JNKBDPAB_00116	gene	1113	mrdB			
+JNKBDPAB_00116	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+JNKBDPAB_00117	gene	1860				
+JNKBDPAB_00117	CDS	1860				hypothetical protein
+JNKBDPAB_00118	gene	699				
+JNKBDPAB_00118	CDS	699				hypothetical protein
+JNKBDPAB_00119	gene	240				
+JNKBDPAB_00119	CDS	240				hypothetical protein
+JNKBDPAB_00120	gene	402				
+JNKBDPAB_00120	CDS	402				hypothetical protein
+JNKBDPAB_00121	gene	240				
+JNKBDPAB_00121	CDS	240				hypothetical protein
+JNKBDPAB_00122	gene	630	upp			
+JNKBDPAB_00122	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+JNKBDPAB_00123	gene	447	ywlF			
+JNKBDPAB_00123	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+JNKBDPAB_00124	gene	1038	ywlC			
+JNKBDPAB_00124	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+JNKBDPAB_00125	gene	1065	prfA			
+JNKBDPAB_00125	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+JNKBDPAB_00126	gene	219	prmC			
+JNKBDPAB_00126	CDS	219	prmC	2.1.1.297		Release factor glutamine methyltransferase
+JNKBDPAB_00127	gene	3018	mupA			
+JNKBDPAB_00127	CDS	3018	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+JNKBDPAB_00128	gene	816				
+JNKBDPAB_00128	CDS	816				hypothetical protein
+JNKBDPAB_00129	gene	165				
+JNKBDPAB_00129	CDS	165				hypothetical protein
+JNKBDPAB_00130	gene	468	rimP			
+JNKBDPAB_00130	CDS	468	rimP			Ribosome maturation factor RimP
+JNKBDPAB_00131	gene	1272	nusA			
+JNKBDPAB_00131	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+JNKBDPAB_00132	gene	276				
+JNKBDPAB_00132	CDS	276				hypothetical protein
+JNKBDPAB_00133	gene	315	rplGA			
+JNKBDPAB_00133	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+JNKBDPAB_00134	gene	1944	infB			
+JNKBDPAB_00134	CDS	1944	infB			Translation initiation factor IF-2
+JNKBDPAB_00135	gene	1170	opuCA			
+JNKBDPAB_00135	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+JNKBDPAB_00136	gene	1188	uctC			
+JNKBDPAB_00136	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+JNKBDPAB_00137	gene	285				
+JNKBDPAB_00137	CDS	285				hypothetical protein
+JNKBDPAB_00138	gene	276				
+JNKBDPAB_00138	CDS	276			COG0217	putative transcriptional regulatory protein
+JNKBDPAB_00139	gene	894				
+JNKBDPAB_00139	CDS	894				hypothetical protein
+JNKBDPAB_00140	gene	696	ureG			
+JNKBDPAB_00140	CDS	696	ureG			Urease accessory protein UreG
+JNKBDPAB_00141	gene	996	btuD_1			
+JNKBDPAB_00141	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JNKBDPAB_00142	gene	681	tgnD			
+JNKBDPAB_00142	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+JNKBDPAB_00143	gene	993				
+JNKBDPAB_00143	CDS	993				hypothetical protein
+JNKBDPAB_00144	gene	741	mta			
+JNKBDPAB_00144	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+JNKBDPAB_00145	gene	1416	fpgS			
+JNKBDPAB_00145	CDS	1416	fpgS	6.3.2.17		Folylpolyglutamate synthase
+JNKBDPAB_00146	gene	1206	ribBA			
+JNKBDPAB_00146	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+JNKBDPAB_00147	gene	657	ribE			
+JNKBDPAB_00147	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+JNKBDPAB_00148	gene	1119	ribD			
+JNKBDPAB_00148	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+JNKBDPAB_00149	gene	867				
+JNKBDPAB_00149	CDS	867				hypothetical protein
+JNKBDPAB_00150	gene	480				
+JNKBDPAB_00150	CDS	480		1.14.14.51		Limonene hydroxylase
+JNKBDPAB_00151	gene	1182				
+JNKBDPAB_00151	CDS	1182				hypothetical protein
+JNKBDPAB_00152	gene	1212	fldA			
+JNKBDPAB_00152	CDS	1212	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+JNKBDPAB_00153	gene	957	galT			
+JNKBDPAB_00153	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+JNKBDPAB_00154	gene	1200				
+JNKBDPAB_00154	CDS	1200		2.6.1.1		Aspartate aminotransferase
+JNKBDPAB_00155	gene	813	uppP			
+JNKBDPAB_00155	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+JNKBDPAB_00156	gene	525				
+JNKBDPAB_00156	CDS	525				hypothetical protein
+JNKBDPAB_00157	gene	396	regX3_2			
+JNKBDPAB_00157	CDS	396	regX3_2		COG0745	Sensory transduction protein regX3
+JNKBDPAB_00158	gene	1437	rcsC			
+JNKBDPAB_00158	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+JNKBDPAB_00159	gene	1353	mepA_1			
+JNKBDPAB_00159	CDS	1353	mepA_1		COG0534	Multidrug export protein MepA
+JNKBDPAB_00160	gene	843				
+JNKBDPAB_00160	CDS	843				hypothetical protein
+JNKBDPAB_00161	gene	1323	rimO			
+JNKBDPAB_00161	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+JNKBDPAB_00162	gene	2583				
+JNKBDPAB_00162	CDS	2583				hypothetical protein
+JNKBDPAB_00163	gene	231				
+JNKBDPAB_00163	CDS	231				hypothetical protein
+JNKBDPAB_00164	gene	468				
+JNKBDPAB_00164	CDS	468				hypothetical protein
+JNKBDPAB_00165	gene	561				
+JNKBDPAB_00165	CDS	561				hypothetical protein
+JNKBDPAB_00166	gene	603				
+JNKBDPAB_00166	CDS	603				hypothetical protein
+JNKBDPAB_00167	gene	864	map			
+JNKBDPAB_00167	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+JNKBDPAB_00168	gene	459	infC			
+JNKBDPAB_00168	CDS	459	infC			Translation initiation factor IF-3
+JNKBDPAB_00169	gene	198	rpmI			
+JNKBDPAB_00169	CDS	198	rpmI			50S ribosomal protein L35
+JNKBDPAB_00170	gene	357	rplT			
+JNKBDPAB_00170	CDS	357	rplT			50S ribosomal protein L20
+JNKBDPAB_00171	gene	228				
+JNKBDPAB_00171	CDS	228				hypothetical protein
+JNKBDPAB_00172	gene	1344	rsmB			
+JNKBDPAB_00172	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+JNKBDPAB_00173	gene	690				
+JNKBDPAB_00173	CDS	690				hypothetical protein
+JNKBDPAB_00174	gene	930	fmt			
+JNKBDPAB_00174	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+JNKBDPAB_00175	gene	456	def1			
+JNKBDPAB_00175	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+JNKBDPAB_00176	gene	309				
+JNKBDPAB_00176	CDS	309				hypothetical protein
+JNKBDPAB_00177	gene	1656				
+JNKBDPAB_00177	CDS	1656				hypothetical protein
+JNKBDPAB_00178	gene	486	greA			
+JNKBDPAB_00178	CDS	486	greA		COG0782	Transcription elongation factor GreA
+JNKBDPAB_00179	gene	1911	epmA			
+JNKBDPAB_00179	CDS	1911	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+JNKBDPAB_00180	gene	657	mtaB			
+JNKBDPAB_00180	CDS	657	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+JNKBDPAB_00181	gene	324				
+JNKBDPAB_00181	CDS	324				hypothetical protein
+JNKBDPAB_00182	gene	345				
+JNKBDPAB_00182	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+JNKBDPAB_00183	gene	822				
+JNKBDPAB_00183	CDS	822				hypothetical protein
+JNKBDPAB_00184	gene	1032	pheS			
+JNKBDPAB_00184	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+JNKBDPAB_00185	gene	156				
+JNKBDPAB_00185	CDS	156				hypothetical protein
+JNKBDPAB_00186	gene	1038	hrcA			
+JNKBDPAB_00186	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+JNKBDPAB_00187	gene	624	grpE			
+JNKBDPAB_00187	CDS	624	grpE			Protein GrpE
+JNKBDPAB_00188	gene	1845	dnaK			
+JNKBDPAB_00188	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+JNKBDPAB_00189	gene	441	yqeY			
+JNKBDPAB_00189	CDS	441	yqeY		COG1610	putative protein YqeY
+JNKBDPAB_00190	gene	180	rpsU			
+JNKBDPAB_00190	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+JNKBDPAB_00191	gene	972	pfkA			
+JNKBDPAB_00191	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+JNKBDPAB_00192	gene	1737	pyk			
+JNKBDPAB_00192	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+JNKBDPAB_00193	gene	555				
+JNKBDPAB_00193	CDS	555				hypothetical protein
+JNKBDPAB_00194	gene	780	korB			
+JNKBDPAB_00194	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+JNKBDPAB_00195	gene	1065	padG			
+JNKBDPAB_00195	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+JNKBDPAB_00196	gene	216	rsxB			
+JNKBDPAB_00196	CDS	216	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+JNKBDPAB_00197	gene	594				
+JNKBDPAB_00197	CDS	594				hypothetical protein
+JNKBDPAB_00198	gene	873	purH			
+JNKBDPAB_00198	CDS	873	purH			Bifunctional purine biosynthesis protein PurH
+JNKBDPAB_00199	gene	1269	purD			
+JNKBDPAB_00199	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+JNKBDPAB_00200	gene	858	pdxS			
+JNKBDPAB_00200	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+JNKBDPAB_00201	gene	885				
+JNKBDPAB_00201	CDS	885				hypothetical protein
+JNKBDPAB_00202	gene	1428	yjcD			
+JNKBDPAB_00202	CDS	1428	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+JNKBDPAB_00203	gene	1233				
+JNKBDPAB_00203	CDS	1233				hypothetical protein
+JNKBDPAB_00204	gene	1293				
+JNKBDPAB_00204	CDS	1293				hypothetical protein
+JNKBDPAB_00205	gene	576	rpoN			
+JNKBDPAB_00205	CDS	576	rpoN		COG1508	RNA polymerase sigma-54 factor
+JNKBDPAB_00206	gene	75				
+JNKBDPAB_00206	tRNA	75				tRNA-Arg(tcg)
+JNKBDPAB_00207	gene	402				
+JNKBDPAB_00207	CDS	402				hypothetical protein
+JNKBDPAB_00208	gene	75				
+JNKBDPAB_00208	tRNA	75				tRNA-Arg(cct)
+JNKBDPAB_00209	gene	1200	gerN			
+JNKBDPAB_00209	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+JNKBDPAB_00210	gene	447				
+JNKBDPAB_00210	CDS	447				hypothetical protein
+JNKBDPAB_00211	gene	603				
+JNKBDPAB_00211	CDS	603		1.11.1.15	COG0450	Peroxiredoxin
+JNKBDPAB_00212	gene	258				
+JNKBDPAB_00212	CDS	258				hypothetical protein
+JNKBDPAB_00213	gene	645				
+JNKBDPAB_00213	CDS	645				hypothetical protein
+JNKBDPAB_00214	gene	297				
+JNKBDPAB_00214	CDS	297				hypothetical protein
+JNKBDPAB_00215	gene	1275	pyrC			
+JNKBDPAB_00215	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+JNKBDPAB_00216	gene	1245	macB			
+JNKBDPAB_00216	CDS	1245	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+JNKBDPAB_00217	gene	264	yknY			
+JNKBDPAB_00217	CDS	264	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+JNKBDPAB_00218	gene	396				
+JNKBDPAB_00218	CDS	396				hypothetical protein
+JNKBDPAB_00219	gene	918	isdE			
+JNKBDPAB_00219	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+JNKBDPAB_00220	gene	336	btuC			
+JNKBDPAB_00220	CDS	336	btuC			Vitamin B12 import system permease protein BtuC
+JNKBDPAB_00221	gene	624	yfhA			
+JNKBDPAB_00221	CDS	624	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+JNKBDPAB_00222	gene	765	fpuC			
+JNKBDPAB_00222	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+JNKBDPAB_00223	gene	2424	mutS2			
+JNKBDPAB_00223	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+JNKBDPAB_00224	gene	1449	pepD_1			
+JNKBDPAB_00224	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+JNKBDPAB_00225	gene	792	rnhB			
+JNKBDPAB_00225	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+JNKBDPAB_00226	gene	1017	hmo_2			
+JNKBDPAB_00226	CDS	1017	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+JNKBDPAB_00227	gene	363				
+JNKBDPAB_00227	CDS	363				hypothetical protein
+JNKBDPAB_00228	gene	1632	comM			
+JNKBDPAB_00228	CDS	1632	comM		COG0606	Competence protein ComM
+JNKBDPAB_00229	gene	753				
+JNKBDPAB_00229	CDS	753				hypothetical protein
+JNKBDPAB_00230	gene	216				
+JNKBDPAB_00230	CDS	216				hypothetical protein
+JNKBDPAB_00231	gene	93				
+JNKBDPAB_00231	CDS	93				hypothetical protein
+JNKBDPAB_00232	gene	228	rpsR			
+JNKBDPAB_00232	CDS	228	rpsR			30S ribosomal protein S18
+JNKBDPAB_00233	gene	444	ssb			
+JNKBDPAB_00233	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+JNKBDPAB_00234	gene	291	rpsF			
+JNKBDPAB_00234	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+JNKBDPAB_00235	gene	1197	lysN_1			
+JNKBDPAB_00235	CDS	1197	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+JNKBDPAB_00236	gene	180				
+JNKBDPAB_00236	CDS	180				hypothetical protein
+JNKBDPAB_00237	gene	738				
+JNKBDPAB_00237	CDS	738				hypothetical protein
+JNKBDPAB_00238	gene	1659	glnS			
+JNKBDPAB_00238	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+JNKBDPAB_00239	gene	549				
+JNKBDPAB_00239	CDS	549				Nucleobase transporter PlUacP
+JNKBDPAB_00240	gene	570	xpt			
+JNKBDPAB_00240	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+JNKBDPAB_00241	gene	879				
+JNKBDPAB_00241	CDS	879		2.7.1.-	COG1597	Putative lipid kinase
+JNKBDPAB_00242	gene	387				
+JNKBDPAB_00242	CDS	387				hypothetical protein
+JNKBDPAB_00243	gene	1431				
+JNKBDPAB_00243	CDS	1431				hypothetical protein
+JNKBDPAB_00244	gene	261				
+JNKBDPAB_00244	CDS	261				hypothetical protein
+JNKBDPAB_00245	gene	2637	alaS			
+JNKBDPAB_00245	CDS	2637	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+JNKBDPAB_00246	gene	549	lytC_1			
+JNKBDPAB_00246	CDS	549	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JNKBDPAB_00247	gene	804				
+JNKBDPAB_00247	CDS	804				hypothetical protein
+JNKBDPAB_00248	gene	711				
+JNKBDPAB_00248	CDS	711				hypothetical protein
+JNKBDPAB_00249	gene	582				
+JNKBDPAB_00249	CDS	582				hypothetical protein
+JNKBDPAB_00250	gene	1332	mepA_2			
+JNKBDPAB_00250	CDS	1332	mepA_2			Multidrug export protein MepA
+JNKBDPAB_00251	gene	261	yfkJ			
+JNKBDPAB_00251	CDS	261	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+JNKBDPAB_00252	gene	1128				
+JNKBDPAB_00252	CDS	1128				hypothetical protein
+JNKBDPAB_00253	gene	1140				
+JNKBDPAB_00253	CDS	1140				hypothetical protein
+JNKBDPAB_00254	gene	723	pyrF			
+JNKBDPAB_00254	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+JNKBDPAB_00255	gene	579	ddl			
+JNKBDPAB_00255	CDS	579	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+JNKBDPAB_00256	gene	2205	srfAB			
+JNKBDPAB_00256	CDS	2205	srfAB			Surfactin synthase subunit 2
+JNKBDPAB_00257	gene	894				
+JNKBDPAB_00257	CDS	894				hypothetical protein
+JNKBDPAB_00258	gene	1788	pepF1			
+JNKBDPAB_00258	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+JNKBDPAB_00259	gene	147				
+JNKBDPAB_00259	CDS	147				hypothetical protein
+JNKBDPAB_00260	gene	1506	glpK			
+JNKBDPAB_00260	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+JNKBDPAB_00261	gene	615	gnd			
+JNKBDPAB_00261	CDS	615	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+JNKBDPAB_00262	gene	1374	zwf			
+JNKBDPAB_00262	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+JNKBDPAB_00263	gene	927	trxB			
+JNKBDPAB_00263	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+JNKBDPAB_00264	gene	765				
+JNKBDPAB_00264	CDS	765				hypothetical protein
+JNKBDPAB_00265	gene	678				
+JNKBDPAB_00265	CDS	678				hypothetical protein
+JNKBDPAB_00266	gene	777				
+JNKBDPAB_00266	CDS	777				hypothetical protein
+JNKBDPAB_00267	gene	1467				
+JNKBDPAB_00267	CDS	1467				hypothetical protein
+JNKBDPAB_00268	gene	540	puuR			
+JNKBDPAB_00268	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+JNKBDPAB_00269	gene	2526	valS			
+JNKBDPAB_00269	CDS	2526	valS	6.1.1.9		Valine--tRNA ligase
+JNKBDPAB_00270	gene	678	purC			
+JNKBDPAB_00270	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+JNKBDPAB_00271	gene	297	pepD_2			
+JNKBDPAB_00271	CDS	297	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+JNKBDPAB_00272	gene	735	fabG			
+JNKBDPAB_00272	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JNKBDPAB_00273	gene	1881	prkC			
+JNKBDPAB_00273	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+JNKBDPAB_00274	gene	750	stp			
+JNKBDPAB_00274	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+JNKBDPAB_00275	gene	996				
+JNKBDPAB_00275	CDS	996				hypothetical protein
+JNKBDPAB_00276	gene	1365	rclA			
+JNKBDPAB_00276	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+JNKBDPAB_00277	gene	573				
+JNKBDPAB_00277	CDS	573				hypothetical protein
+JNKBDPAB_00278	gene	228				
+JNKBDPAB_00278	CDS	228				hypothetical protein
+JNKBDPAB_00279	gene	225	recF			
+JNKBDPAB_00279	CDS	225	recF			DNA replication and repair protein RecF
+JNKBDPAB_00280	gene	1908	gyrB			
+JNKBDPAB_00280	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+JNKBDPAB_00281	gene	1698				
+JNKBDPAB_00281	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+JNKBDPAB_00282	gene	1764				
+JNKBDPAB_00282	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JNKBDPAB_00283	gene	468				
+JNKBDPAB_00283	CDS	468				hypothetical protein
+JNKBDPAB_00284	gene	522				
+JNKBDPAB_00284	CDS	522				hypothetical protein
+JNKBDPAB_00285	gene	240				
+JNKBDPAB_00285	CDS	240				hypothetical protein
+JNKBDPAB_00286	gene	414				
+JNKBDPAB_00286	CDS	414				hypothetical protein
+JNKBDPAB_00287	gene	612	sufC			
+JNKBDPAB_00287	CDS	612	sufC		COG0396	Vegetative protein 296
+JNKBDPAB_00288	gene	1425				
+JNKBDPAB_00288	CDS	1425				hypothetical protein
+JNKBDPAB_00289	gene	831				
+JNKBDPAB_00289	CDS	831				hypothetical protein
+JNKBDPAB_00290	gene	1260	dacF			
+JNKBDPAB_00290	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+JNKBDPAB_00291	gene	531				
+JNKBDPAB_00291	CDS	531				hypothetical protein
+JNKBDPAB_00292	gene	1314	hflX			
+JNKBDPAB_00292	CDS	1314	hflX		COG2262	GTPase HflX
+JNKBDPAB_00293	gene	1323	cshA			
+JNKBDPAB_00293	CDS	1323	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+JNKBDPAB_00294	gene	2544	mtgA			
+JNKBDPAB_00294	CDS	2544	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+JNKBDPAB_00295	gene	1140				
+JNKBDPAB_00295	CDS	1140			COG0391	Gluconeogenesis factor
+JNKBDPAB_00296	gene	864	yvcJ			
+JNKBDPAB_00296	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+JNKBDPAB_00297	gene	738	polX			
+JNKBDPAB_00297	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+JNKBDPAB_00298	gene	921	murB			
+JNKBDPAB_00298	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+JNKBDPAB_00299	gene	906				
+JNKBDPAB_00299	CDS	906				hypothetical protein
+JNKBDPAB_00300	gene	867	comEC			
+JNKBDPAB_00300	CDS	867	comEC		COG0658	ComE operon protein 3
+JNKBDPAB_00301	gene	717	tcdA			
+JNKBDPAB_00301	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+JNKBDPAB_00302	gene	594	dnaJ			
+JNKBDPAB_00302	CDS	594	dnaJ		COG0484	Chaperone protein DnaJ
+JNKBDPAB_00303	gene	846				
+JNKBDPAB_00303	CDS	846				hypothetical protein
+JNKBDPAB_00304	gene	753	lacR			
+JNKBDPAB_00304	CDS	753	lacR			Lactose phosphotransferase system repressor
+JNKBDPAB_00305	gene	915	lacC			
+JNKBDPAB_00305	CDS	915	lacC	2.7.1.144		Tagatose-6-phosphate kinase
+JNKBDPAB_00306	gene	1413	ykoD			
+JNKBDPAB_00306	CDS	1413	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+JNKBDPAB_00307	gene	588				
+JNKBDPAB_00307	CDS	588				hypothetical protein
+JNKBDPAB_00308	gene	279				
+JNKBDPAB_00308	CDS	279				hypothetical protein
+JNKBDPAB_00309	gene	387	hlyB			
+JNKBDPAB_00309	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+JNKBDPAB_00310	gene	90				
+JNKBDPAB_00310	tRNA	90				tRNA-Ser(gga)
+JNKBDPAB_00311	gene	1635				
+JNKBDPAB_00311	CDS	1635				hypothetical protein
+JNKBDPAB_00312	gene	570	tadA			
+JNKBDPAB_00312	CDS	570	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+JNKBDPAB_00313	gene	1011	apu			
+JNKBDPAB_00313	CDS	1011	apu		COG0366	Amylopullulanase
+JNKBDPAB_00314	gene	1479	malQ			
+JNKBDPAB_00314	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+JNKBDPAB_00315	gene	198				
+JNKBDPAB_00315	CDS	198				hypothetical protein
+JNKBDPAB_00316	gene	1542				
+JNKBDPAB_00316	CDS	1542				hypothetical protein
+JNKBDPAB_00317	gene	438				
+JNKBDPAB_00317	CDS	438				hypothetical protein
+JNKBDPAB_00318	gene	1305	pgi			
+JNKBDPAB_00318	CDS	1305	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+JNKBDPAB_00319	gene	558				
+JNKBDPAB_00319	CDS	558				hypothetical protein
+JNKBDPAB_00320	gene	681				
+JNKBDPAB_00320	CDS	681				hypothetical protein
+JNKBDPAB_00321	gene	219				
+JNKBDPAB_00321	CDS	219				hypothetical protein
+JNKBDPAB_00322	gene	1416	aroA			
+JNKBDPAB_00322	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+JNKBDPAB_00323	gene	657	rpe			
+JNKBDPAB_00323	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+JNKBDPAB_00324	gene	684	thiN			
+JNKBDPAB_00324	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+JNKBDPAB_00325	gene	714	phoP			
+JNKBDPAB_00325	CDS	714	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+JNKBDPAB_00326	gene	156				
+JNKBDPAB_00326	CDS	156				hypothetical protein
+JNKBDPAB_00327	gene	2457	polA			
+JNKBDPAB_00327	CDS	2457	polA	2.7.7.7		DNA polymerase I
+JNKBDPAB_00328	gene	85				
+JNKBDPAB_00328	tRNA	85				tRNA-Leu(caa)
+JNKBDPAB_00329	gene	642				
+JNKBDPAB_00329	CDS	642				hypothetical protein
+JNKBDPAB_00330	gene	567				
+JNKBDPAB_00330	CDS	567				hypothetical protein
+JNKBDPAB_00331	gene	498	ruvC			
+JNKBDPAB_00331	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+JNKBDPAB_00332	gene	612	ruvA			
+JNKBDPAB_00332	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+JNKBDPAB_00333	gene	1188				
+JNKBDPAB_00333	CDS	1188				hypothetical protein
+JNKBDPAB_00334	gene	1584				
+JNKBDPAB_00334	CDS	1584				hypothetical protein
+JNKBDPAB_00335	gene	135	rpmH			
+JNKBDPAB_00335	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+JNKBDPAB_00336	gene	1365	dnaA			
+JNKBDPAB_00336	CDS	1365	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+JNKBDPAB_00337	gene	1104	dnaN			
+JNKBDPAB_00337	CDS	1104	dnaN		COG0592	Beta sliding clamp
+JNKBDPAB_00338	gene	1920	topB			
+JNKBDPAB_00338	CDS	1920	topB	5.6.2.1		DNA topoisomerase 3
+JNKBDPAB_00339	gene	891	ttcA			
+JNKBDPAB_00339	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+JNKBDPAB_00340	gene	519	polC			
+JNKBDPAB_00340	CDS	519	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+JNKBDPAB_00341	gene	486				
+JNKBDPAB_00341	CDS	486				hypothetical protein
+JNKBDPAB_00342	gene	1074				
+JNKBDPAB_00342	CDS	1074				hypothetical protein
+JNKBDPAB_00343	gene	822	punA			
+JNKBDPAB_00343	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+JNKBDPAB_00344	gene	1203	mltG			
+JNKBDPAB_00344	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+JNKBDPAB_00345	gene	1656	udk			
+JNKBDPAB_00345	CDS	1656	udk	2.7.1.48		Uridine kinase
+JNKBDPAB_00346	gene	639	pdg			
+JNKBDPAB_00346	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+JNKBDPAB_00347	gene	471	trmL			
+JNKBDPAB_00347	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+JNKBDPAB_00348	gene	897	addB			
+JNKBDPAB_00348	CDS	897	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+JNKBDPAB_00349	gene	579				
+JNKBDPAB_00349	CDS	579		6.3.1.12		D-aspartate ligase
+JNKBDPAB_00350	gene	720				
+JNKBDPAB_00350	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+JNKBDPAB_00351	gene	795	murE_1			
+JNKBDPAB_00351	CDS	795	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+JNKBDPAB_00352	gene	561	murE_2			
+JNKBDPAB_00352	CDS	561	murE_2	6.3.2.37	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--LD-lysine ligase
+JNKBDPAB_00353	gene	669				
+JNKBDPAB_00353	CDS	669				hypothetical protein
+JNKBDPAB_00354	gene	1581				
+JNKBDPAB_00354	CDS	1581				hypothetical protein
+JNKBDPAB_00355	gene	774				
+JNKBDPAB_00355	CDS	774				hypothetical protein
+JNKBDPAB_00356	gene	999				
+JNKBDPAB_00356	CDS	999				hypothetical protein
+JNKBDPAB_00357	gene	1245				
+JNKBDPAB_00357	CDS	1245				hypothetical protein
+JNKBDPAB_00358	gene	219				
+JNKBDPAB_00358	CDS	219				hypothetical protein
+JNKBDPAB_00359	gene	771	rhmA			
+JNKBDPAB_00359	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+JNKBDPAB_00360	gene	183				
+JNKBDPAB_00360	CDS	183				hypothetical protein
+JNKBDPAB_00361	gene	774	sigB			
+JNKBDPAB_00361	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+JNKBDPAB_00362	gene	408	rsbW			
+JNKBDPAB_00362	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+JNKBDPAB_00363	gene	318	rsbV			
+JNKBDPAB_00363	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+JNKBDPAB_00364	gene	333	gyrA			
+JNKBDPAB_00364	CDS	333	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+JNKBDPAB_00365	gene	1011	mreB_1			
+JNKBDPAB_00365	CDS	1011	mreB_1		COG1077	Cell shape-determining protein MreB
+JNKBDPAB_00366	gene	1086	murAA			
+JNKBDPAB_00366	CDS	1086	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+JNKBDPAB_00367	gene	207				
+JNKBDPAB_00367	CDS	207				hypothetical protein
+JNKBDPAB_00368	gene	327				
+JNKBDPAB_00368	CDS	327				hypothetical protein
+JNKBDPAB_00369	gene	201	rpmE			
+JNKBDPAB_00369	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+JNKBDPAB_00370	gene	1443	rho			
+JNKBDPAB_00370	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+JNKBDPAB_00371	gene	108				
+JNKBDPAB_00371	CDS	108				hypothetical protein
+JNKBDPAB_00372	gene	894	gtaB			
+JNKBDPAB_00372	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+JNKBDPAB_00373	gene	369				
+JNKBDPAB_00373	CDS	369				hypothetical protein
+JNKBDPAB_00374	gene	693	cugP			
+JNKBDPAB_00374	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+JNKBDPAB_00375	gene	1176	bdhA			
+JNKBDPAB_00375	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+JNKBDPAB_00376	gene	762	rpsB			
+JNKBDPAB_00376	CDS	762	rpsB			30S ribosomal protein S2
+JNKBDPAB_00377	gene	2088				
+JNKBDPAB_00377	CDS	2088				hypothetical protein
+JNKBDPAB_00378	gene	240	ktrA_1			
+JNKBDPAB_00378	CDS	240	ktrA_1		COG0569	Ktr system potassium uptake protein A
+JNKBDPAB_00379	gene	432	ktrA_2			
+JNKBDPAB_00379	CDS	432	ktrA_2		COG0569	Ktr system potassium uptake protein A
+JNKBDPAB_00380	gene	771	aviRb			
+JNKBDPAB_00380	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+JNKBDPAB_00381	gene	636	ccpN			
+JNKBDPAB_00381	CDS	636	ccpN		COG0517	Transcriptional repressor CcpN
+JNKBDPAB_00382	gene	840	yqfL			
+JNKBDPAB_00382	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+JNKBDPAB_00383	gene	312				
+JNKBDPAB_00383	CDS	312				hypothetical protein
+JNKBDPAB_00384	gene	597				
+JNKBDPAB_00384	CDS	597				hypothetical protein
+JNKBDPAB_00385	gene	378				
+JNKBDPAB_00385	CDS	378				hypothetical protein
+JNKBDPAB_00386	gene	315				
+JNKBDPAB_00386	CDS	315				hypothetical protein
+JNKBDPAB_00387	gene	942	queA			
+JNKBDPAB_00387	CDS	942	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+JNKBDPAB_00388	gene	1176	tgt			
+JNKBDPAB_00388	CDS	1176	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+JNKBDPAB_00389	gene	321	yajC			
+JNKBDPAB_00389	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+JNKBDPAB_00390	gene	144				
+JNKBDPAB_00390	CDS	144				hypothetical protein
+JNKBDPAB_00391	gene	1854	yoaB			
+JNKBDPAB_00391	CDS	1854	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+JNKBDPAB_00392	gene	330				
+JNKBDPAB_00392	CDS	330				hypothetical protein
+JNKBDPAB_00393	gene	708	cshE			
+JNKBDPAB_00393	CDS	708	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+JNKBDPAB_00394	gene	246				
+JNKBDPAB_00394	CDS	246				hypothetical protein
+JNKBDPAB_00395	gene	1500	guaB			
+JNKBDPAB_00395	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+JNKBDPAB_00396	gene	750				
+JNKBDPAB_00396	CDS	750				hypothetical protein
+JNKBDPAB_00397	gene	363	fabH			
+JNKBDPAB_00397	CDS	363	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+JNKBDPAB_00398	gene	225	acpP_1			
+JNKBDPAB_00398	CDS	225	acpP_1		COG0236	Acyl carrier protein
+JNKBDPAB_00399	gene	939				
+JNKBDPAB_00399	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+JNKBDPAB_00400	gene	939	fabD			
+JNKBDPAB_00400	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+JNKBDPAB_00401	gene	225				
+JNKBDPAB_00401	CDS	225				hypothetical protein
+JNKBDPAB_00402	gene	1035	icd			
+JNKBDPAB_00402	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+JNKBDPAB_00403	gene	888	nadK			
+JNKBDPAB_00403	CDS	888	nadK	2.7.1.23		NAD kinase
+JNKBDPAB_00404	gene	933	rluD			
+JNKBDPAB_00404	CDS	933	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+JNKBDPAB_00405	gene	978	fruA			
+JNKBDPAB_00405	CDS	978	fruA		COG1299	PTS system fructose-specific EIIABC component
+JNKBDPAB_00406	gene	246				
+JNKBDPAB_00406	CDS	246				hypothetical protein
+JNKBDPAB_00407	gene	1053				
+JNKBDPAB_00407	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+JNKBDPAB_00408	gene	135				
+JNKBDPAB_00408	CDS	135				hypothetical protein
+JNKBDPAB_00409	gene	1092				
+JNKBDPAB_00409	CDS	1092				hypothetical protein
+JNKBDPAB_00410	gene	1077	disA			
+JNKBDPAB_00410	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+JNKBDPAB_00411	gene	1119	radA			
+JNKBDPAB_00411	CDS	1119	radA	3.6.4.-	COG1066	DNA repair protein RadA
+JNKBDPAB_00412	gene	510	asD			
+JNKBDPAB_00412	CDS	510	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+JNKBDPAB_00413	gene	1734	aspT			
+JNKBDPAB_00413	CDS	1734	aspT			Aspartate/alanine antiporter
+JNKBDPAB_00414	gene	354				
+JNKBDPAB_00414	CDS	354				hypothetical protein
+JNKBDPAB_00415	gene	1338	hom			
+JNKBDPAB_00415	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+JNKBDPAB_00416	gene	990	asd			
+JNKBDPAB_00416	CDS	990	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+JNKBDPAB_00417	gene	1188	dxr			
+JNKBDPAB_00417	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+JNKBDPAB_00418	gene	411				
+JNKBDPAB_00418	CDS	411				hypothetical protein
+JNKBDPAB_00419	gene	633				
+JNKBDPAB_00419	CDS	633				hypothetical protein
+JNKBDPAB_00420	gene	915				
+JNKBDPAB_00420	CDS	915				hypothetical protein
+JNKBDPAB_00421	gene	441				
+JNKBDPAB_00421	CDS	441				hypothetical protein
+JNKBDPAB_00422	gene	336				
+JNKBDPAB_00422	CDS	336				hypothetical protein
+JNKBDPAB_00423	gene	933				
+JNKBDPAB_00423	CDS	933				hypothetical protein
+JNKBDPAB_00424	gene	366				
+JNKBDPAB_00424	CDS	366				hypothetical protein
+JNKBDPAB_00425	gene	2421	leuS			
+JNKBDPAB_00425	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+JNKBDPAB_00426	gene	351	rsfS			
+JNKBDPAB_00426	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+JNKBDPAB_00427	gene	492				
+JNKBDPAB_00427	CDS	492		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+JNKBDPAB_00428	gene	600	COQ5			
+JNKBDPAB_00428	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JNKBDPAB_00429	gene	921				
+JNKBDPAB_00429	CDS	921				hypothetical protein
+JNKBDPAB_00430	gene	543	yajL			
+JNKBDPAB_00430	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+JNKBDPAB_00431	gene	2145				
+JNKBDPAB_00431	CDS	2145				hypothetical protein
+JNKBDPAB_00432	gene	513	bcrA			
+JNKBDPAB_00432	CDS	513	bcrA			Bacitracin transport ATP-binding protein BcrA
+JNKBDPAB_00433	gene	576				
+JNKBDPAB_00433	CDS	576				hypothetical protein
+JNKBDPAB_00434	gene	753	miaA			
+JNKBDPAB_00434	CDS	753	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+JNKBDPAB_00435	gene	1275				
+JNKBDPAB_00435	CDS	1275				hypothetical protein
+JNKBDPAB_00436	gene	498	proX			
+JNKBDPAB_00436	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+JNKBDPAB_00437	gene	1020	gap			
+JNKBDPAB_00437	CDS	1020	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+JNKBDPAB_00438	gene	1236	queH			
+JNKBDPAB_00438	CDS	1236	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+JNKBDPAB_00439	gene	909	ppaC			
+JNKBDPAB_00439	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+JNKBDPAB_00440	gene	525				
+JNKBDPAB_00440	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JNKBDPAB_00441	gene	2907	smc			
+JNKBDPAB_00441	CDS	2907	smc			Chromosome partition protein Smc
+JNKBDPAB_00442	gene	546	hpt_1			
+JNKBDPAB_00442	CDS	546	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+JNKBDPAB_00443	gene	288	pagR			
+JNKBDPAB_00443	CDS	288	pagR			Transcriptional repressor PagR
+JNKBDPAB_00444	gene	1731	cdr			
+JNKBDPAB_00444	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+JNKBDPAB_00445	gene	954				
+JNKBDPAB_00445	CDS	954				hypothetical protein
+JNKBDPAB_00446	gene	1620				
+JNKBDPAB_00446	CDS	1620				hypothetical protein
+JNKBDPAB_00447	gene	1116				
+JNKBDPAB_00447	CDS	1116				hypothetical protein
+JNKBDPAB_00448	gene	396	panD			
+JNKBDPAB_00448	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+JNKBDPAB_00449	gene	879				
+JNKBDPAB_00449	CDS	879				hypothetical protein
+JNKBDPAB_00450	gene	237	dltC			
+JNKBDPAB_00450	CDS	237	dltC		COG0236	D-alanyl carrier protein
+JNKBDPAB_00451	gene	948				
+JNKBDPAB_00451	CDS	948				hypothetical protein
+JNKBDPAB_00452	gene	1536	guaA			
+JNKBDPAB_00452	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+JNKBDPAB_00453	gene	768	groL			
+JNKBDPAB_00453	CDS	768	groL		COG0459	60 kDa chaperonin
+JNKBDPAB_00454	gene	399				
+JNKBDPAB_00454	CDS	399				hypothetical protein
+JNKBDPAB_00455	gene	660				
+JNKBDPAB_00455	CDS	660				hypothetical protein
+JNKBDPAB_00456	gene	246				
+JNKBDPAB_00456	CDS	246				hypothetical protein
+JNKBDPAB_00457	gene	930	gloB			
+JNKBDPAB_00457	CDS	930	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+JNKBDPAB_00458	gene	702				
+JNKBDPAB_00458	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+JNKBDPAB_00459	gene	1011	gpsA			
+JNKBDPAB_00459	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+JNKBDPAB_00460	gene	609	plsY			
+JNKBDPAB_00460	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+JNKBDPAB_00461	gene	471	rpsG			
+JNKBDPAB_00461	CDS	471	rpsG			30S ribosomal protein S7
+JNKBDPAB_00462	gene	423	rpsL			
+JNKBDPAB_00462	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+JNKBDPAB_00463	gene	2505				
+JNKBDPAB_00463	CDS	2505				hypothetical protein
+JNKBDPAB_00464	gene	1407				
+JNKBDPAB_00464	CDS	1407				hypothetical protein
+JNKBDPAB_00465	gene	525				
+JNKBDPAB_00465	CDS	525				hypothetical protein
+JNKBDPAB_00466	gene	1056	rlhA			
+JNKBDPAB_00466	CDS	1056	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+JNKBDPAB_00467	gene	471				
+JNKBDPAB_00467	CDS	471				hypothetical protein
+JNKBDPAB_00468	gene	708				
+JNKBDPAB_00468	CDS	708				hypothetical protein
+JNKBDPAB_00469	gene	315				
+JNKBDPAB_00469	CDS	315				hypothetical protein
+JNKBDPAB_00470	gene	576				
+JNKBDPAB_00470	CDS	576				hypothetical protein
+JNKBDPAB_00471	gene	795				
+JNKBDPAB_00471	CDS	795				hypothetical protein
+JNKBDPAB_00472	gene	621	ytrB			
+JNKBDPAB_00472	CDS	621	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+JNKBDPAB_00473	gene	1062	lytC_2			
+JNKBDPAB_00473	CDS	1062	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JNKBDPAB_00474	gene	600	fbpC			
+JNKBDPAB_00474	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+JNKBDPAB_00475	gene	468				
+JNKBDPAB_00475	CDS	468				hypothetical protein
+JNKBDPAB_00476	gene	690	pyrK			
+JNKBDPAB_00476	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+JNKBDPAB_00477	gene	903	pyrD			
+JNKBDPAB_00477	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+JNKBDPAB_00478	gene	582	pyrE			
+JNKBDPAB_00478	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+JNKBDPAB_00479	gene	324				
+JNKBDPAB_00479	CDS	324				hypothetical protein
+JNKBDPAB_00480	gene	594	potH			
+JNKBDPAB_00480	CDS	594	potH		COG1176	Putrescine transport system permease protein PotH
+JNKBDPAB_00481	gene	807				
+JNKBDPAB_00481	CDS	807				hypothetical protein
+JNKBDPAB_00482	gene	1086	potD			
+JNKBDPAB_00482	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+JNKBDPAB_00483	gene	1977	pnp			
+JNKBDPAB_00483	CDS	1977	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+JNKBDPAB_00484	gene	735				
+JNKBDPAB_00484	CDS	735		3.1.3.-	COG0560	putative phosphatase
+JNKBDPAB_00485	gene	291				
+JNKBDPAB_00485	CDS	291				hypothetical protein
+JNKBDPAB_00486	gene	627				
+JNKBDPAB_00486	CDS	627				hypothetical protein
+JNKBDPAB_00487	gene	408				
+JNKBDPAB_00487	CDS	408				hypothetical protein
+JNKBDPAB_00488	gene	378	sufU			
+JNKBDPAB_00488	CDS	378	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+JNKBDPAB_00489	gene	1977	fbp			
+JNKBDPAB_00489	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+JNKBDPAB_00490	gene	342				
+JNKBDPAB_00490	CDS	342				putative protein
+JNKBDPAB_00491	gene	1608	aroB			
+JNKBDPAB_00491	CDS	1608	aroB	4.2.3.4		3-dehydroquinate synthase
+JNKBDPAB_00492	gene	852				
+JNKBDPAB_00492	CDS	852				hypothetical protein
+JNKBDPAB_00493	gene	855	sseB			
+JNKBDPAB_00493	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+JNKBDPAB_00494	gene	894				
+JNKBDPAB_00494	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+JNKBDPAB_00495	gene	1806				
+JNKBDPAB_00495	CDS	1806			COG1132	putative ABC transporter ATP-binding protein
+JNKBDPAB_00496	gene	669	dusB			
+JNKBDPAB_00496	CDS	669	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+JNKBDPAB_00497	gene	1548	carA			
+JNKBDPAB_00497	CDS	1548	carA	2.8.3.23	COG4670	Caffeate CoA-transferase
+JNKBDPAB_00498	gene	702	tmk			
+JNKBDPAB_00498	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+JNKBDPAB_00499	gene	1506	speA			
+JNKBDPAB_00499	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+JNKBDPAB_00500	gene	90				
+JNKBDPAB_00500	rRNA	90				5S ribosomal RNA (partial)
+JNKBDPAB_00501	gene	615				
+JNKBDPAB_00501	CDS	615				hypothetical protein
+JNKBDPAB_00502	gene	1137				
+JNKBDPAB_00502	CDS	1137				TelA-like protein
+JNKBDPAB_00503	gene	507				
+JNKBDPAB_00503	CDS	507				hypothetical protein
+JNKBDPAB_00504	gene	915				
+JNKBDPAB_00504	CDS	915				hypothetical protein
+JNKBDPAB_00505	gene	837	rarA			
+JNKBDPAB_00505	CDS	837	rarA		COG2256	Replication-associated recombination protein A
+JNKBDPAB_00506	gene	465	cymR			
+JNKBDPAB_00506	CDS	465	cymR			HTH-type transcriptional regulator CymR
+JNKBDPAB_00507	gene	1053	mnmA			
+JNKBDPAB_00507	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+JNKBDPAB_00508	gene	486				
+JNKBDPAB_00508	CDS	486				hypothetical protein
+JNKBDPAB_00509	gene	882				
+JNKBDPAB_00509	CDS	882				hypothetical protein
+JNKBDPAB_00510	gene	1050	mreB_2			
+JNKBDPAB_00510	CDS	1050	mreB_2		COG1077	Cell shape-determining protein MreB
+JNKBDPAB_00511	gene	162				
+JNKBDPAB_00511	CDS	162				hypothetical protein
+JNKBDPAB_00512	gene	516	yhgF_1			
+JNKBDPAB_00512	CDS	516	yhgF_1		COG2183	Protein YhgF
+JNKBDPAB_00513	gene	1581	yhgF_2			
+JNKBDPAB_00513	CDS	1581	yhgF_2		COG2183	Protein YhgF
+JNKBDPAB_00514	gene	351				
+JNKBDPAB_00514	CDS	351				putative protein
+JNKBDPAB_00515	gene	189	rpmB			
+JNKBDPAB_00515	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+JNKBDPAB_00516	gene	546	ade			
+JNKBDPAB_00516	CDS	546	ade	3.5.4.2	COG1001	Adenine deaminase
+JNKBDPAB_00517	gene	642				
+JNKBDPAB_00517	CDS	642				hypothetical protein
+JNKBDPAB_00518	gene	759	nadE			
+JNKBDPAB_00518	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+JNKBDPAB_00519	gene	888				
+JNKBDPAB_00519	CDS	888				hypothetical protein
+JNKBDPAB_00520	gene	1101	dhaD			
+JNKBDPAB_00520	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+JNKBDPAB_00521	gene	111				
+JNKBDPAB_00521	CDS	111				hypothetical protein
+JNKBDPAB_00522	gene	663	pgcA			
+JNKBDPAB_00522	CDS	663	pgcA	5.4.2.2		Phosphoglucomutase
+JNKBDPAB_00523	gene	561	efp			
+JNKBDPAB_00523	CDS	561	efp		COG0231	Elongation factor P
+JNKBDPAB_00524	gene	708	rnc			
+JNKBDPAB_00524	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+JNKBDPAB_00525	gene	501	cbiE			
+JNKBDPAB_00525	CDS	501	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+JNKBDPAB_00526	gene	567	cbiT			
+JNKBDPAB_00526	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+JNKBDPAB_00527	gene	759	cbiF			
+JNKBDPAB_00527	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+JNKBDPAB_00528	gene	1122				
+JNKBDPAB_00528	CDS	1122				hypothetical protein
+JNKBDPAB_00529	gene	765	tuaG			
+JNKBDPAB_00529	CDS	765	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+JNKBDPAB_00530	gene	1455	thiM			
+JNKBDPAB_00530	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+JNKBDPAB_00531	gene	525	thiD			
+JNKBDPAB_00531	CDS	525	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+JNKBDPAB_00532	gene	426				
+JNKBDPAB_00532	CDS	426				hypothetical protein
+JNKBDPAB_00533	gene	1968				
+JNKBDPAB_00533	CDS	1968				hypothetical protein
+JNKBDPAB_00534	gene	2349	ppdK			
+JNKBDPAB_00534	CDS	2349	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+JNKBDPAB_00535	gene	1062	prsA			
+JNKBDPAB_00535	CDS	1062	prsA	5.2.1.8		Foldase protein PrsA
+JNKBDPAB_00536	gene	615	mfd			
+JNKBDPAB_00536	CDS	615	mfd	3.6.4.-		Transcription-repair-coupling factor
+JNKBDPAB_00537	gene	726	gamA			
+JNKBDPAB_00537	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+JNKBDPAB_00538	gene	282	hup			
+JNKBDPAB_00538	CDS	282	hup			DNA-binding protein HU
+JNKBDPAB_00539	gene	1014				
+JNKBDPAB_00539	CDS	1014				hypothetical protein
+JNKBDPAB_00540	gene	960	murJ			
+JNKBDPAB_00540	CDS	960	murJ			lipid II flippase MurJ
+JNKBDPAB_00541	gene	654				
+JNKBDPAB_00541	CDS	654				hypothetical protein
+JNKBDPAB_00542	gene	1668	ubiB			
+JNKBDPAB_00542	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+JNKBDPAB_00543	gene	135				
+JNKBDPAB_00543	CDS	135				hypothetical protein
+JNKBDPAB_00544	gene	675				
+JNKBDPAB_00544	CDS	675				hypothetical protein
+JNKBDPAB_00545	gene	678				
+JNKBDPAB_00545	CDS	678				hypothetical protein
+JNKBDPAB_00546	gene	267	rpoZ			
+JNKBDPAB_00546	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+JNKBDPAB_00547	gene	642	gmk			
+JNKBDPAB_00547	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+JNKBDPAB_00548	gene	771				
+JNKBDPAB_00548	CDS	771				hypothetical protein
+JNKBDPAB_00549	gene	729	lnrL_1			
+JNKBDPAB_00549	CDS	729	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+JNKBDPAB_00550	gene	858				
+JNKBDPAB_00550	CDS	858				hypothetical protein
+JNKBDPAB_00551	gene	357				
+JNKBDPAB_00551	CDS	357				hypothetical protein
+JNKBDPAB_00552	gene	993	malR			
+JNKBDPAB_00552	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+JNKBDPAB_00553	gene	1041	tagU			
+JNKBDPAB_00553	CDS	1041	tagU	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+JNKBDPAB_00554	gene	255	rpsO			
+JNKBDPAB_00554	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+JNKBDPAB_00555	gene	972	ribF			
+JNKBDPAB_00555	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+JNKBDPAB_00556	gene	915	truB			
+JNKBDPAB_00556	CDS	915	truB	5.4.99.25		tRNA pseudouridine synthase B
+JNKBDPAB_00557	gene	1119				
+JNKBDPAB_00557	CDS	1119				hypothetical protein
+JNKBDPAB_00558	gene	495	lnrL_2			
+JNKBDPAB_00558	CDS	495	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+JNKBDPAB_00559	gene	885				
+JNKBDPAB_00559	CDS	885				hypothetical protein
+JNKBDPAB_00560	gene	828	panB			
+JNKBDPAB_00560	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+JNKBDPAB_00561	gene	99				
+JNKBDPAB_00561	CDS	99				hypothetical protein
+JNKBDPAB_00562	gene	1338	dnaC_1			
+JNKBDPAB_00562	CDS	1338	dnaC_1	3.6.4.12	COG0305	Replicative DNA helicase
+JNKBDPAB_00563	gene	519	dnaC_2			
+JNKBDPAB_00563	CDS	519	dnaC_2		COG1484	DNA replication protein DnaC
+JNKBDPAB_00564	gene	900	dapA			
+JNKBDPAB_00564	CDS	900	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+JNKBDPAB_00565	gene	732	dapB			
+JNKBDPAB_00565	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+JNKBDPAB_00566	gene	426	fabZ			
+JNKBDPAB_00566	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+JNKBDPAB_00567	gene	402	fabF			
+JNKBDPAB_00567	CDS	402	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+JNKBDPAB_00568	gene	876	ecfA2			
+JNKBDPAB_00568	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+JNKBDPAB_00569	gene	837	ecfA1			
+JNKBDPAB_00569	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+JNKBDPAB_00570	gene	762	truA			
+JNKBDPAB_00570	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+JNKBDPAB_00571	gene	246				
+JNKBDPAB_00571	CDS	246				hypothetical protein
+JNKBDPAB_00572	gene	1158				
+JNKBDPAB_00572	CDS	1158				hypothetical protein
+JNKBDPAB_00573	gene	726	trmD			
+JNKBDPAB_00573	CDS	726	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+JNKBDPAB_00574	gene	861	secY			
+JNKBDPAB_00574	CDS	861	secY		COG0201	Protein translocase subunit SecY
+JNKBDPAB_00575	gene	642	adk			
+JNKBDPAB_00575	CDS	642	adk	2.7.4.3		Adenylate kinase
+JNKBDPAB_00576	gene	165				
+JNKBDPAB_00576	CDS	165				hypothetical protein
+JNKBDPAB_00577	gene	219	infA			
+JNKBDPAB_00577	CDS	219	infA		COG0361	Translation initiation factor IF-1
+JNKBDPAB_00578	gene	114	rpmJ			
+JNKBDPAB_00578	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+JNKBDPAB_00579	gene	1572				
+JNKBDPAB_00579	CDS	1572				hypothetical protein
+JNKBDPAB_00580	gene	1509				
+JNKBDPAB_00580	CDS	1509				hypothetical protein
+JNKBDPAB_00581	gene	1191	secA			
+JNKBDPAB_00581	CDS	1191	secA		COG0653	Protein translocase subunit SecA
+JNKBDPAB_00582	gene	1155				
+JNKBDPAB_00582	CDS	1155				hypothetical protein
+JNKBDPAB_00583	gene	990				
+JNKBDPAB_00583	CDS	990				hypothetical protein
+JNKBDPAB_00584	gene	849				
+JNKBDPAB_00584	CDS	849				DegV domain-containing protein
+JNKBDPAB_00585	gene	552	rpoE			
+JNKBDPAB_00585	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+JNKBDPAB_00586	gene	393	rpsI			
+JNKBDPAB_00586	CDS	393	rpsI			30S ribosomal protein S9
+JNKBDPAB_00587	gene	429	rplM			
+JNKBDPAB_00587	CDS	429	rplM		COG0102	50S ribosomal protein L13
+JNKBDPAB_00588	gene	735	rsuA			
+JNKBDPAB_00588	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+JNKBDPAB_00589	gene	387	hslO			
+JNKBDPAB_00589	CDS	387	hslO			33 kDa chaperonin
+JNKBDPAB_00590	gene	837	ugtP			
+JNKBDPAB_00590	CDS	837	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+JNKBDPAB_00591	gene	168				
+JNKBDPAB_00591	CDS	168				hypothetical protein
+JNKBDPAB_00592	gene	276				
+JNKBDPAB_00592	CDS	276				hypothetical protein
+JNKBDPAB_00593	gene	600	recR			
+JNKBDPAB_00593	CDS	600	recR		COG0353	Recombination protein RecR
+JNKBDPAB_00594	gene	345				
+JNKBDPAB_00594	CDS	345			COG0718	Nucleoid-associated protein
+JNKBDPAB_00595	gene	354				
+JNKBDPAB_00595	CDS	354				hypothetical protein
+JNKBDPAB_00596	gene	828	COQ3			
+JNKBDPAB_00596	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+JNKBDPAB_00597	gene	624				
+JNKBDPAB_00597	CDS	624		2.7.2.4	COG0527	Aspartate kinase
+JNKBDPAB_00598	gene	1374	mepA_3			
+JNKBDPAB_00598	CDS	1374	mepA_3			Multidrug export protein MepA
+JNKBDPAB_00599	gene	744	walK			
+JNKBDPAB_00599	CDS	744	walK	2.7.13.3		Sensor histidine kinase WalK
+JNKBDPAB_00600	gene	666				
+JNKBDPAB_00600	CDS	666		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+JNKBDPAB_00601	gene	564				
+JNKBDPAB_00601	CDS	564				hypothetical protein
+JNKBDPAB_00602	gene	660	sigH			
+JNKBDPAB_00602	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+JNKBDPAB_00603	gene	264				
+JNKBDPAB_00603	CDS	264				hypothetical protein
+JNKBDPAB_00604	gene	642	copA			
+JNKBDPAB_00604	CDS	642	copA	7.2.2.8		Copper-exporting P-type ATPase
+JNKBDPAB_00605	gene	297				
+JNKBDPAB_00605	CDS	297				hypothetical protein
+JNKBDPAB_00606	gene	684	czcR			
+JNKBDPAB_00606	CDS	684	czcR			Transcriptional activator protein CzcR
+JNKBDPAB_00607	gene	264	atpE			
+JNKBDPAB_00607	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+JNKBDPAB_00608	gene	507	atpF			
+JNKBDPAB_00608	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+JNKBDPAB_00609	gene	543	atpH			
+JNKBDPAB_00609	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+JNKBDPAB_00610	gene	1224	cpdA			
+JNKBDPAB_00610	CDS	1224	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JNKBDPAB_00611	gene	624	addA			
+JNKBDPAB_00611	CDS	624	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+JNKBDPAB_00612	gene	375				
+JNKBDPAB_00612	CDS	375				hypothetical protein
+JNKBDPAB_00613	gene	354				
+JNKBDPAB_00613	CDS	354				hypothetical protein
+JNKBDPAB_00614	gene	495	recG			
+JNKBDPAB_00614	CDS	495	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+JNKBDPAB_00615	gene	561	rsmD			
+JNKBDPAB_00615	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+JNKBDPAB_00616	gene	483	coaD			
+JNKBDPAB_00616	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+JNKBDPAB_00617	gene	546				
+JNKBDPAB_00617	CDS	546			COG3599	putative protein
+JNKBDPAB_00618	gene	483	rluC			
+JNKBDPAB_00618	CDS	483	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+JNKBDPAB_00619	gene	711				
+JNKBDPAB_00619	CDS	711				hypothetical protein
+JNKBDPAB_00620	gene	495				
+JNKBDPAB_00620	CDS	495				hypothetical protein
+JNKBDPAB_00621	gene	255	veg			
+JNKBDPAB_00621	CDS	255	veg		COG4466	Protein Veg
+JNKBDPAB_00622	gene	1422				
+JNKBDPAB_00622	CDS	1422				hypothetical protein
+JNKBDPAB_00623	gene	231				
+JNKBDPAB_00623	CDS	231				hypothetical protein
+JNKBDPAB_00624	gene	642	ycjU			
+JNKBDPAB_00624	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+JNKBDPAB_00625	gene	606	malL			
+JNKBDPAB_00625	CDS	606	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+JNKBDPAB_00626	gene	546				
+JNKBDPAB_00626	CDS	546				hypothetical protein
+JNKBDPAB_00627	gene	1056				
+JNKBDPAB_00627	CDS	1056				hypothetical protein
+JNKBDPAB_00628	gene	384				
+JNKBDPAB_00628	CDS	384			COG1302	Alkaline shock protein 23
+JNKBDPAB_00629	gene	495				
+JNKBDPAB_00629	CDS	495				hypothetical protein
+JNKBDPAB_00630	gene	303				
+JNKBDPAB_00630	CDS	303				hypothetical protein
+JNKBDPAB_00631	gene	831	artP			
+JNKBDPAB_00631	CDS	831	artP		COG0834	Arginine-binding extracellular protein ArtP
+JNKBDPAB_00632	gene	1275	argG			
+JNKBDPAB_00632	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+JNKBDPAB_00633	gene	801	asrB			
+JNKBDPAB_00633	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+JNKBDPAB_00634	gene	573	asrA			
+JNKBDPAB_00634	CDS	573	asrA		COG1145	Anaerobic sulfite reductase subunit A
+JNKBDPAB_00635	gene	405				
+JNKBDPAB_00635	CDS	405				hypothetical protein
+JNKBDPAB_00636	gene	1164	ftsH			
+JNKBDPAB_00636	CDS	1164	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+JNKBDPAB_00637	gene	606				
+JNKBDPAB_00637	CDS	606				hypothetical protein
+JNKBDPAB_00638	gene	861				
+JNKBDPAB_00638	CDS	861				hypothetical protein
+JNKBDPAB_00639	gene	1026				
+JNKBDPAB_00639	CDS	1026				hypothetical protein
+JNKBDPAB_00640	gene	720				
+JNKBDPAB_00640	CDS	720				hypothetical protein
+JNKBDPAB_00641	gene	786				
+JNKBDPAB_00641	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JNKBDPAB_00642	gene	768	thiG			
+JNKBDPAB_00642	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+JNKBDPAB_00643	gene	729				
+JNKBDPAB_00643	CDS	729				hypothetical protein
+JNKBDPAB_00644	gene	195				
+JNKBDPAB_00644	CDS	195				hypothetical protein
+JNKBDPAB_00645	gene	147				
+JNKBDPAB_00645	CDS	147				hypothetical protein
+JNKBDPAB_00646	gene	1023				
+JNKBDPAB_00646	CDS	1023				hypothetical protein
+JNKBDPAB_00647	gene	756	phoR			
+JNKBDPAB_00647	CDS	756	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+JNKBDPAB_00648	gene	615	topA			
+JNKBDPAB_00648	CDS	615	topA	5.6.2.1		DNA topoisomerase 1
+JNKBDPAB_00649	gene	777	codY			
+JNKBDPAB_00649	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+JNKBDPAB_00650	gene	720	tsaD			
+JNKBDPAB_00650	CDS	720	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+JNKBDPAB_00651	gene	1005				
+JNKBDPAB_00651	CDS	1005				hypothetical protein
+JNKBDPAB_00652	gene	741				
+JNKBDPAB_00652	CDS	741				hypothetical protein
+JNKBDPAB_00653	gene	1023	pgl			
+JNKBDPAB_00653	CDS	1023	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+JNKBDPAB_00654	gene	243				
+JNKBDPAB_00654	CDS	243				hypothetical protein
+JNKBDPAB_00655	gene	705	srtD			
+JNKBDPAB_00655	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+JNKBDPAB_00656	gene	366	asnA			
+JNKBDPAB_00656	CDS	366	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+JNKBDPAB_00657	gene	531	hpt_2			
+JNKBDPAB_00657	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+JNKBDPAB_00658	gene	795				
+JNKBDPAB_00658	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+JNKBDPAB_00659	gene	561	nfrA1			
+JNKBDPAB_00659	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+JNKBDPAB_00660	gene	243				
+JNKBDPAB_00660	CDS	243				hypothetical protein
+JNKBDPAB_00661	gene	327				
+JNKBDPAB_00661	CDS	327				hypothetical protein
+JNKBDPAB_00662	gene	1068				
+JNKBDPAB_00662	CDS	1068				hypothetical protein
+JNKBDPAB_00663	gene	651	tal			
+JNKBDPAB_00663	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+JNKBDPAB_00664	gene	465	ribU			
+JNKBDPAB_00664	CDS	465	ribU			Riboflavin transporter RibU
+JNKBDPAB_00665	gene	795	fldI			
+JNKBDPAB_00665	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+JNKBDPAB_00666	gene	597				
+JNKBDPAB_00666	CDS	597				hypothetical protein
+JNKBDPAB_00667	gene	984	birA			
+JNKBDPAB_00667	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+JNKBDPAB_00668	gene	723	rne			
+JNKBDPAB_00668	CDS	723	rne	3.1.26.12		Ribonuclease E
+JNKBDPAB_00669	gene	921	rbn			
+JNKBDPAB_00669	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+JNKBDPAB_00670	gene	552	hpf			
+JNKBDPAB_00670	CDS	552	hpf			Ribosome hibernation promotion factor
+JNKBDPAB_00671	gene	390				
+JNKBDPAB_00671	CDS	390				hypothetical protein
+JNKBDPAB_00672	gene	447	obg			
+JNKBDPAB_00672	CDS	447	obg	3.6.5.-	COG0536	GTPase Obg
+JNKBDPAB_00673	gene	813				
+JNKBDPAB_00673	CDS	813				hypothetical protein
+JNKBDPAB_00674	gene	1062	pycA			
+JNKBDPAB_00674	CDS	1062	pycA	6.4.1.1		Pyruvate carboxylase
+JNKBDPAB_00675	gene	183				
+JNKBDPAB_00675	CDS	183				hypothetical protein
+JNKBDPAB_00676	gene	126				
+JNKBDPAB_00676	CDS	126				hypothetical protein
+JNKBDPAB_00677	gene	192				
+JNKBDPAB_00677	CDS	192				hypothetical protein
+JNKBDPAB_00678	gene	1227	hemZ			
+JNKBDPAB_00678	CDS	1227	hemZ	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+JNKBDPAB_00679	gene	1101				
+JNKBDPAB_00679	CDS	1101				hypothetical protein
+JNKBDPAB_00680	gene	561				
+JNKBDPAB_00680	CDS	561				hypothetical protein
+JNKBDPAB_00681	gene	1050	btuD_2			
+JNKBDPAB_00681	CDS	1050	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JNKBDPAB_00682	gene	609				
+JNKBDPAB_00682	CDS	609				hypothetical protein
+JNKBDPAB_00683	gene	402				
+JNKBDPAB_00683	CDS	402				hypothetical protein
+JNKBDPAB_00684	gene	990	dnaG			
+JNKBDPAB_00684	CDS	990	dnaG	2.7.7.-		DNA primase
+JNKBDPAB_00685	gene	1002	add			
+JNKBDPAB_00685	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+JNKBDPAB_00686	gene	498				
+JNKBDPAB_00686	CDS	498				hypothetical protein
+JNKBDPAB_00687	gene	768				
+JNKBDPAB_00687	CDS	768				hypothetical protein
+JNKBDPAB_00688	gene	705				
+JNKBDPAB_00688	CDS	705				hypothetical protein
+JNKBDPAB_00689	gene	339				
+JNKBDPAB_00689	CDS	339				hypothetical protein
+JNKBDPAB_00690	gene	549				
+JNKBDPAB_00690	CDS	549				hypothetical protein
+JNKBDPAB_00691	gene	693				
+JNKBDPAB_00691	CDS	693				hypothetical protein
+JNKBDPAB_00692	gene	435				
+JNKBDPAB_00692	CDS	435				hypothetical protein
+JNKBDPAB_00693	gene	1077	lytC_3			
+JNKBDPAB_00693	CDS	1077	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+JNKBDPAB_00694	gene	1326				
+JNKBDPAB_00694	CDS	1326				hypothetical protein
+JNKBDPAB_00695	gene	456				
+JNKBDPAB_00695	CDS	456				hypothetical protein
+JNKBDPAB_00696	gene	1242				
+JNKBDPAB_00696	CDS	1242		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+JNKBDPAB_00697	gene	315	recN			
+JNKBDPAB_00697	CDS	315	recN		COG0497	DNA repair protein RecN
+JNKBDPAB_00698	gene	1122				
+JNKBDPAB_00698	CDS	1122				hypothetical protein
+JNKBDPAB_00699	gene	240				
+JNKBDPAB_00699	CDS	240				hypothetical protein
+JNKBDPAB_00700	gene	1200	ackA			
+JNKBDPAB_00700	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+JNKBDPAB_00701	gene	912				
+JNKBDPAB_00701	CDS	912				hypothetical protein
+JNKBDPAB_00702	gene	687				
+JNKBDPAB_00702	CDS	687				hypothetical protein
+JNKBDPAB_00703	gene	1653				
+JNKBDPAB_00703	CDS	1653				hypothetical protein
+JNKBDPAB_00704	gene	1182				
+JNKBDPAB_00704	CDS	1182		2.6.1.1		Aspartate aminotransferase
+JNKBDPAB_00705	gene	1491	dxs			
+JNKBDPAB_00705	CDS	1491	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+JNKBDPAB_00706	gene	552	whiA			
+JNKBDPAB_00706	CDS	552	whiA		COG1481	putative cell division protein WhiA
+JNKBDPAB_00707	gene	885	dnaE			
+JNKBDPAB_00707	CDS	885	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+JNKBDPAB_00708	gene	141				
+JNKBDPAB_00708	CDS	141				hypothetical protein
+JNKBDPAB_00709	gene	540	folT			
+JNKBDPAB_00709	CDS	540	folT			Folate transporter FolT
+JNKBDPAB_00710	gene	483				
+JNKBDPAB_00710	CDS	483				hypothetical protein
+JNKBDPAB_00711	gene	303				
+JNKBDPAB_00711	CDS	303				hypothetical protein
+JNKBDPAB_00712	gene	663				
+JNKBDPAB_00712	CDS	663				hypothetical protein
+JNKBDPAB_00713	gene	855				
+JNKBDPAB_00713	CDS	855				hypothetical protein
+JNKBDPAB_00714	gene	435				
+JNKBDPAB_00714	CDS	435				hypothetical protein
+JNKBDPAB_00715	gene	816	murG			
+JNKBDPAB_00715	CDS	816	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+JNKBDPAB_00716	gene	237				
+JNKBDPAB_00716	CDS	237				hypothetical protein
+JNKBDPAB_00717	gene	291				
+JNKBDPAB_00717	CDS	291				hypothetical protein
+JNKBDPAB_00718	gene	762	ribX			
+JNKBDPAB_00718	CDS	762	ribX			Riboflavin transport system permease protein RibX
+JNKBDPAB_00719	gene	216	fhs			
+JNKBDPAB_00719	CDS	216	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+JNKBDPAB_00720	gene	1239				
+JNKBDPAB_00720	CDS	1239				hypothetical protein
+JNKBDPAB_00721	gene	897				
+JNKBDPAB_00721	CDS	897				hypothetical protein
+JNKBDPAB_00722	gene	678				
+JNKBDPAB_00722	CDS	678				hypothetical protein
+JNKBDPAB_00723	gene	714	pta_1			
+JNKBDPAB_00723	CDS	714	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+JNKBDPAB_00724	gene	459	tsaE			
+JNKBDPAB_00724	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+JNKBDPAB_00725	gene	582				
+JNKBDPAB_00725	CDS	582				hypothetical protein
+JNKBDPAB_00726	gene	318				
+JNKBDPAB_00726	CDS	318				hypothetical protein
+JNKBDPAB_00727	gene	534				
+JNKBDPAB_00727	CDS	534				hypothetical protein
+JNKBDPAB_00728	gene	423	undec1A			
+JNKBDPAB_00728	CDS	423	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+JNKBDPAB_00729	gene	156				
+JNKBDPAB_00729	CDS	156				hypothetical protein
+JNKBDPAB_00730	gene	1614	nnr			
+JNKBDPAB_00730	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+JNKBDPAB_00731	gene	633				
+JNKBDPAB_00731	CDS	633				hypothetical protein
+JNKBDPAB_00732	gene	762	scpA			
+JNKBDPAB_00732	CDS	762	scpA		COG1354	Segregation and condensation protein A
+JNKBDPAB_00733	gene	777	pepT			
+JNKBDPAB_00733	CDS	777	pepT	3.4.11.4	COG2195	Peptidase T
+JNKBDPAB_00734	gene	567				
+JNKBDPAB_00734	CDS	567				hypothetical protein
+JNKBDPAB_00735	gene	909	ftsY			
+JNKBDPAB_00735	CDS	909	ftsY		COG0552	Signal recognition particle receptor FtsY
+JNKBDPAB_00736	gene	903	dinB			
+JNKBDPAB_00736	CDS	903	dinB	2.7.7.7		DNA polymerase IV
+JNKBDPAB_00737	gene	234				
+JNKBDPAB_00737	CDS	234				hypothetical protein
+JNKBDPAB_00738	gene	273	rpsP			
+JNKBDPAB_00738	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+JNKBDPAB_00739	gene	705	ffh			
+JNKBDPAB_00739	CDS	705	ffh		COG0541	Signal recognition particle protein
+JNKBDPAB_00740	gene	432				
+JNKBDPAB_00740	CDS	432				hypothetical protein
+JNKBDPAB_00741	gene	885				
+JNKBDPAB_00741	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+JNKBDPAB_00742	gene	255	tpiA			
+JNKBDPAB_00742	CDS	255	tpiA	5.3.1.1		Triosephosphate isomerase
+JNKBDPAB_00743	gene	1071	pgk			
+JNKBDPAB_00743	CDS	1071	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+JNKBDPAB_00744	gene	585				
+JNKBDPAB_00744	CDS	585				hypothetical protein
+JNKBDPAB_00745	gene	426				
+JNKBDPAB_00745	CDS	426			COG0716	Flavodoxin
+JNKBDPAB_00746	gene	1152	scmP			
+JNKBDPAB_00746	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+JNKBDPAB_00747	gene	981	znuA			
+JNKBDPAB_00747	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+JNKBDPAB_00748	gene	684				
+JNKBDPAB_00748	CDS	684				hypothetical protein
+JNKBDPAB_00749	gene	480	lspA			
+JNKBDPAB_00749	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+JNKBDPAB_00750	gene	285				
+JNKBDPAB_00750	CDS	285				hypothetical protein
+JNKBDPAB_00751	gene	972	pta_2			
+JNKBDPAB_00751	CDS	972	pta_2	2.3.1.8		Phosphate acetyltransferase
+JNKBDPAB_00752	gene	363				
+JNKBDPAB_00752	CDS	363				hypothetical protein
+JNKBDPAB_00753	gene	201				
+JNKBDPAB_00753	CDS	201				hypothetical protein
+JNKBDPAB_00754	gene	1404	lysN_2			
+JNKBDPAB_00754	CDS	1404	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+JNKBDPAB_00755	gene	378	clsA			
+JNKBDPAB_00755	CDS	378	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+JNKBDPAB_00756	gene	282	groS			
+JNKBDPAB_00756	CDS	282	groS		COG0234	10 kDa chaperonin
+JNKBDPAB_00757	gene	237				
+JNKBDPAB_00757	CDS	237				hypothetical protein
+JNKBDPAB_00758	gene	1206	xseA			
+JNKBDPAB_00758	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+JNKBDPAB_00759	gene	1269				
+JNKBDPAB_00759	CDS	1269				hypothetical protein
+JNKBDPAB_00760	gene	741				
+JNKBDPAB_00760	CDS	741				hypothetical protein
+JNKBDPAB_00761	gene	234				
+JNKBDPAB_00761	CDS	234				hypothetical protein
+JNKBDPAB_00762	gene	858	trmB			
+JNKBDPAB_00762	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+JNKBDPAB_00763	gene	390				
+JNKBDPAB_00763	CDS	390				hypothetical protein
+JNKBDPAB_00764	gene	474	ytrE			
+JNKBDPAB_00764	CDS	474	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+JNKBDPAB_00765	gene	1476	glgB			
+JNKBDPAB_00765	CDS	1476	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+JNKBDPAB_00766	gene	933	hemC			
+JNKBDPAB_00766	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+JNKBDPAB_00767	gene	366	bioB			
+JNKBDPAB_00767	CDS	366	bioB	2.8.1.6	COG0502	Biotin synthase
+JNKBDPAB_00768	gene	462	dut			
+JNKBDPAB_00768	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+JNKBDPAB_00769	gene	627	roo			
+JNKBDPAB_00769	CDS	627	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+JNKBDPAB_00770	gene	495	sigM			
+JNKBDPAB_00770	CDS	495	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+JNKBDPAB_00771	gene	579	rspR			
+JNKBDPAB_00771	CDS	579	rspR		COG1802	HTH-type transcriptional repressor RspR
+JNKBDPAB_00772	gene	687				
+JNKBDPAB_00772	CDS	687			COG0327	GTP cyclohydrolase 1 type 2 
+JNKBDPAB_00773	gene	213				
+JNKBDPAB_00773	CDS	213				hypothetical protein
+JNKBDPAB_00774	gene	1005	uvrB			
+JNKBDPAB_00774	CDS	1005	uvrB			UvrABC system protein B
+JNKBDPAB_00775	gene	1101	pheT			
+JNKBDPAB_00775	CDS	1101	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+JNKBDPAB_00776	gene	183				
+JNKBDPAB_00776	CDS	183				hypothetical protein
+JNKBDPAB_00777	gene	474				
+JNKBDPAB_00777	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+JNKBDPAB_00778	gene	474				
+JNKBDPAB_00778	CDS	474				hypothetical protein
+JNKBDPAB_00779	gene	504				
+JNKBDPAB_00779	CDS	504				hypothetical protein
+JNKBDPAB_00780	gene	381	lgt			
+JNKBDPAB_00780	CDS	381	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+JNKBDPAB_00781	gene	936	rsmH			
+JNKBDPAB_00781	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+JNKBDPAB_00782	gene	600				
+JNKBDPAB_00782	CDS	600				hypothetical protein
+JNKBDPAB_00783	gene	672				
+JNKBDPAB_00783	CDS	672				hypothetical protein
+JNKBDPAB_00784	gene	1173	ctpB			
+JNKBDPAB_00784	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+JNKBDPAB_00785	gene	381				
+JNKBDPAB_00785	CDS	381				hypothetical protein
+JNKBDPAB_00786	gene	492	prs			
+JNKBDPAB_00786	CDS	492	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+JNKBDPAB_00787	gene	462	artQ			
+JNKBDPAB_00787	CDS	462	artQ		COG0765	Arginine transport system permease protein ArtQ
+JNKBDPAB_00788	gene	744	artM			
+JNKBDPAB_00788	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+JNKBDPAB_00789	gene	297				
+JNKBDPAB_00789	CDS	297				hypothetical protein
+JNKBDPAB_00790	gene	648				
+JNKBDPAB_00790	CDS	648				hypothetical protein
+JNKBDPAB_00791	gene	228	acpP_2			
+JNKBDPAB_00791	CDS	228	acpP_2			Acyl carrier protein
+JNKBDPAB_00792	gene	756				
+JNKBDPAB_00792	CDS	756				hypothetical protein
+JNKBDPAB_00793	gene	810	ecsA			
+JNKBDPAB_00793	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+JNKBDPAB_00794	gene	654	argS			
+JNKBDPAB_00794	CDS	654	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+JNKBDPAB_00795	gene	1017				
+JNKBDPAB_00795	CDS	1017				hypothetical protein
+JNKBDPAB_00796	gene	342				
+JNKBDPAB_00796	CDS	342				hypothetical protein
+JNKBDPAB_00797	gene	555				
+JNKBDPAB_00797	CDS	555		3.1.3.-	COG5663	Nucleotidase
+JNKBDPAB_00798	gene	252				
+JNKBDPAB_00798	CDS	252				hypothetical protein
+JNKBDPAB_00799	gene	630				
+JNKBDPAB_00799	CDS	630				hypothetical protein
+JNKBDPAB_00800	gene	1038	murF			
+JNKBDPAB_00800	CDS	1038	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+JNKBDPAB_00801	gene	381	metN			
+JNKBDPAB_00801	CDS	381	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+JNKBDPAB_00802	gene	654	metP			
+JNKBDPAB_00802	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+JNKBDPAB_00803	gene	918				
+JNKBDPAB_00803	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+JNKBDPAB_00804	gene	261	ctpC			
+JNKBDPAB_00804	CDS	261	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+JNKBDPAB_00805	gene	855				
+JNKBDPAB_00805	CDS	855				hypothetical protein
+JNKBDPAB_00806	gene	273				
+JNKBDPAB_00806	CDS	273				hypothetical protein
+JNKBDPAB_00807	gene	1407				
+JNKBDPAB_00807	CDS	1407				hypothetical protein
+JNKBDPAB_00808	gene	777	rsmE			
+JNKBDPAB_00808	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+JNKBDPAB_00809	gene	771	nirC			
+JNKBDPAB_00809	CDS	771	nirC		COG2116	Nitrite transporter NirC
+JNKBDPAB_00810	gene	324				
+JNKBDPAB_00810	CDS	324				hypothetical protein
+JNKBDPAB_00811	gene	201				
+JNKBDPAB_00811	CDS	201				hypothetical protein
+JNKBDPAB_00812	gene	144				
+JNKBDPAB_00812	CDS	144				hypothetical protein

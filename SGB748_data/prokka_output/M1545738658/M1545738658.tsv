@@ -1,0 +1,2399 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MOJNKLJB_00001	gene	429	xkdM			
+MOJNKLJB_00001	CDS	429	xkdM			Phage-like element PBSX protein XkdM
+MOJNKLJB_00002	gene	402				
+MOJNKLJB_00002	CDS	402				hypothetical protein
+MOJNKLJB_00003	gene	150				
+MOJNKLJB_00003	CDS	150				hypothetical protein
+MOJNKLJB_00004	gene	2313				
+MOJNKLJB_00004	CDS	2313				hypothetical protein
+MOJNKLJB_00005	gene	711				
+MOJNKLJB_00005	CDS	711				hypothetical protein
+MOJNKLJB_00006	gene	1980				
+MOJNKLJB_00006	CDS	1980				hypothetical protein
+MOJNKLJB_00007	gene	327				
+MOJNKLJB_00007	CDS	327				hypothetical protein
+MOJNKLJB_00008	gene	438				
+MOJNKLJB_00008	CDS	438				hypothetical protein
+MOJNKLJB_00009	gene	1029				
+MOJNKLJB_00009	CDS	1029				hypothetical protein
+MOJNKLJB_00010	gene	555				
+MOJNKLJB_00010	CDS	555				hypothetical protein
+MOJNKLJB_00011	gene	459				
+MOJNKLJB_00011	CDS	459				hypothetical protein
+MOJNKLJB_00012	gene	540				
+MOJNKLJB_00012	CDS	540				hypothetical protein
+MOJNKLJB_00013	gene	456				
+MOJNKLJB_00013	CDS	456				hypothetical protein
+MOJNKLJB_00014	gene	114				
+MOJNKLJB_00014	CDS	114				hypothetical protein
+MOJNKLJB_00015	gene	201				
+MOJNKLJB_00015	CDS	201				hypothetical protein
+MOJNKLJB_00016	gene	291				
+MOJNKLJB_00016	CDS	291				hypothetical protein
+MOJNKLJB_00017	gene	252				
+MOJNKLJB_00017	CDS	252				hypothetical protein
+MOJNKLJB_00018	gene	1371				
+MOJNKLJB_00018	CDS	1371				hypothetical protein
+MOJNKLJB_00019	gene	225				
+MOJNKLJB_00019	CDS	225				hypothetical protein
+MOJNKLJB_00020	gene	183				
+MOJNKLJB_00020	CDS	183				hypothetical protein
+MOJNKLJB_00021	gene	156				
+MOJNKLJB_00021	CDS	156				hypothetical protein
+MOJNKLJB_00022	gene	324				
+MOJNKLJB_00022	CDS	324				hypothetical protein
+MOJNKLJB_00023	gene	1401				
+MOJNKLJB_00023	CDS	1401				hypothetical protein
+MOJNKLJB_00024	gene	435				
+MOJNKLJB_00024	CDS	435				hypothetical protein
+MOJNKLJB_00025	gene	1068				
+MOJNKLJB_00025	CDS	1068				hypothetical protein
+MOJNKLJB_00026	gene	375				
+MOJNKLJB_00026	CDS	375				hypothetical protein
+MOJNKLJB_00027	gene	1614				
+MOJNKLJB_00027	CDS	1614				hypothetical protein
+MOJNKLJB_00028	gene	1347	pgi			
+MOJNKLJB_00028	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MOJNKLJB_00029	gene	438				
+MOJNKLJB_00029	CDS	438				hypothetical protein
+MOJNKLJB_00030	gene	1542				
+MOJNKLJB_00030	CDS	1542				hypothetical protein
+MOJNKLJB_00031	gene	729	yehX			
+MOJNKLJB_00031	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+MOJNKLJB_00032	gene	249				
+MOJNKLJB_00032	CDS	249				hypothetical protein
+MOJNKLJB_00033	gene	882				
+MOJNKLJB_00033	CDS	882				hypothetical protein
+MOJNKLJB_00034	gene	525				
+MOJNKLJB_00034	CDS	525				hypothetical protein
+MOJNKLJB_00035	gene	723				
+MOJNKLJB_00035	CDS	723				hypothetical protein
+MOJNKLJB_00036	gene	4026				
+MOJNKLJB_00036	CDS	4026				hypothetical protein
+MOJNKLJB_00037	gene	996				
+MOJNKLJB_00037	CDS	996				hypothetical protein
+MOJNKLJB_00038	gene	1365	rclA			
+MOJNKLJB_00038	CDS	1365	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+MOJNKLJB_00039	gene	573				
+MOJNKLJB_00039	CDS	573				hypothetical protein
+MOJNKLJB_00040	gene	1500				
+MOJNKLJB_00040	CDS	1500				hypothetical protein
+MOJNKLJB_00041	gene	498				
+MOJNKLJB_00041	CDS	498				hypothetical protein
+MOJNKLJB_00042	gene	936				
+MOJNKLJB_00042	CDS	936				hypothetical protein
+MOJNKLJB_00043	gene	1188				
+MOJNKLJB_00043	CDS	1188				hypothetical protein
+MOJNKLJB_00044	gene	852				
+MOJNKLJB_00044	CDS	852				hypothetical protein
+MOJNKLJB_00045	gene	1071				
+MOJNKLJB_00045	CDS	1071				hypothetical protein
+MOJNKLJB_00046	gene	759				
+MOJNKLJB_00046	CDS	759				hypothetical protein
+MOJNKLJB_00047	gene	600				
+MOJNKLJB_00047	CDS	600				hypothetical protein
+MOJNKLJB_00048	gene	672				
+MOJNKLJB_00048	CDS	672				hypothetical protein
+MOJNKLJB_00049	gene	354				
+MOJNKLJB_00049	CDS	354				hypothetical protein
+MOJNKLJB_00050	gene	450				
+MOJNKLJB_00050	CDS	450				hypothetical protein
+MOJNKLJB_00051	gene	1083				
+MOJNKLJB_00051	CDS	1083				hypothetical protein
+MOJNKLJB_00052	gene	495	sigM_1			
+MOJNKLJB_00052	CDS	495	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+MOJNKLJB_00053	gene	1269				
+MOJNKLJB_00053	CDS	1269				hypothetical protein
+MOJNKLJB_00054	gene	549				
+MOJNKLJB_00054	CDS	549				hypothetical protein
+MOJNKLJB_00055	gene	102				
+MOJNKLJB_00055	CDS	102				hypothetical protein
+MOJNKLJB_00056	gene	2190				
+MOJNKLJB_00056	CDS	2190				hypothetical protein
+MOJNKLJB_00057	gene	282				
+MOJNKLJB_00057	CDS	282				hypothetical protein
+MOJNKLJB_00058	gene	846	artP_1			
+MOJNKLJB_00058	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+MOJNKLJB_00059	gene	675	artQ_1			
+MOJNKLJB_00059	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+MOJNKLJB_00060	gene	744	artM			
+MOJNKLJB_00060	CDS	744	artM		COG1126	Arginine transport ATP-binding protein ArtM
+MOJNKLJB_00061	gene	606	rpsD			
+MOJNKLJB_00061	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+MOJNKLJB_00062	gene	885	dapA_1			
+MOJNKLJB_00062	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MOJNKLJB_00063	gene	921				
+MOJNKLJB_00063	CDS	921				hypothetical protein
+MOJNKLJB_00064	gene	600	COQ5			
+MOJNKLJB_00064	CDS	600	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MOJNKLJB_00065	gene	1278				
+MOJNKLJB_00065	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+MOJNKLJB_00066	gene	1287	brnQ_1			
+MOJNKLJB_00066	CDS	1287	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MOJNKLJB_00067	gene	849	panC			
+MOJNKLJB_00067	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+MOJNKLJB_00068	gene	828	panB			
+MOJNKLJB_00068	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+MOJNKLJB_00069	gene	885				
+MOJNKLJB_00069	CDS	885				hypothetical protein
+MOJNKLJB_00070	gene	240				
+MOJNKLJB_00070	CDS	240				hypothetical protein
+MOJNKLJB_00071	gene	201				
+MOJNKLJB_00071	CDS	201				hypothetical protein
+MOJNKLJB_00072	gene	615	sodA1			
+MOJNKLJB_00072	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+MOJNKLJB_00073	gene	771				
+MOJNKLJB_00073	CDS	771				hypothetical protein
+MOJNKLJB_00074	gene	702	yidC2			
+MOJNKLJB_00074	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+MOJNKLJB_00075	gene	378	rnpA			
+MOJNKLJB_00075	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+MOJNKLJB_00076	gene	135	rpmH			
+MOJNKLJB_00076	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+MOJNKLJB_00077	gene	1365	dnaA_1			
+MOJNKLJB_00077	CDS	1365	dnaA_1		COG0593	Chromosomal replication initiator protein DnaA
+MOJNKLJB_00078	gene	1104	dnaN			
+MOJNKLJB_00078	CDS	1104	dnaN		COG0592	Beta sliding clamp
+MOJNKLJB_00079	gene	831	artP_2			
+MOJNKLJB_00079	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+MOJNKLJB_00080	gene	456	smpB			
+MOJNKLJB_00080	CDS	456	smpB		COG0691	SsrA-binding protein
+MOJNKLJB_00081	gene	2244	rnr			
+MOJNKLJB_00081	CDS	2244	rnr	3.1.13.1	COG0557	Ribonuclease R
+MOJNKLJB_00082	gene	231				
+MOJNKLJB_00082	CDS	231				hypothetical protein
+MOJNKLJB_00083	gene	1293	eno			
+MOJNKLJB_00083	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+MOJNKLJB_00084	gene	1527	gpmI			
+MOJNKLJB_00084	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MOJNKLJB_00085	gene	741	tpiA			
+MOJNKLJB_00085	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+MOJNKLJB_00086	gene	1200	pgk			
+MOJNKLJB_00086	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+MOJNKLJB_00087	gene	1008	gap			
+MOJNKLJB_00087	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+MOJNKLJB_00088	gene	1026	cggR			
+MOJNKLJB_00088	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+MOJNKLJB_00089	gene	786				
+MOJNKLJB_00089	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MOJNKLJB_00090	gene	1536	guaA			
+MOJNKLJB_00090	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+MOJNKLJB_00091	gene	1623	groL			
+MOJNKLJB_00091	CDS	1623	groL		COG0459	60 kDa chaperonin
+MOJNKLJB_00092	gene	282	groS			
+MOJNKLJB_00092	CDS	282	groS		COG0234	10 kDa chaperonin
+MOJNKLJB_00093	gene	1482	clsA_1			
+MOJNKLJB_00093	CDS	1482	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+MOJNKLJB_00094	gene	876				
+MOJNKLJB_00094	CDS	876				hypothetical protein
+MOJNKLJB_00095	gene	384				
+MOJNKLJB_00095	CDS	384			COG1302	Alkaline shock protein 23
+MOJNKLJB_00096	gene	495				
+MOJNKLJB_00096	CDS	495				hypothetical protein
+MOJNKLJB_00097	gene	846				
+MOJNKLJB_00097	CDS	846				hypothetical protein
+MOJNKLJB_00098	gene	1161				
+MOJNKLJB_00098	CDS	1161				hypothetical protein
+MOJNKLJB_00099	gene	240				
+MOJNKLJB_00099	CDS	240				hypothetical protein
+MOJNKLJB_00100	gene	387				
+MOJNKLJB_00100	CDS	387				hypothetical protein
+MOJNKLJB_00101	gene	882				
+MOJNKLJB_00101	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+MOJNKLJB_00102	gene	570	xpt			
+MOJNKLJB_00102	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+MOJNKLJB_00103	gene	1371				
+MOJNKLJB_00103	CDS	1371				Nucleobase transporter PlUacP
+MOJNKLJB_00104	gene	936	aptB			
+MOJNKLJB_00104	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+MOJNKLJB_00105	gene	813	aptA			
+MOJNKLJB_00105	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+MOJNKLJB_00106	gene	372	acpS			
+MOJNKLJB_00106	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+MOJNKLJB_00107	gene	1320	sasA_1			
+MOJNKLJB_00107	CDS	1320	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+MOJNKLJB_00108	gene	654	regX3_1			
+MOJNKLJB_00108	CDS	654	regX3_1		COG0745	Sensory transduction protein regX3
+MOJNKLJB_00109	gene	1377				
+MOJNKLJB_00109	CDS	1377				hypothetical protein
+MOJNKLJB_00110	gene	645				
+MOJNKLJB_00110	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+MOJNKLJB_00111	gene	1278				
+MOJNKLJB_00111	CDS	1278				hypothetical protein
+MOJNKLJB_00112	gene	891				
+MOJNKLJB_00112	CDS	891				hypothetical protein
+MOJNKLJB_00113	gene	153				
+MOJNKLJB_00113	CDS	153				hypothetical protein
+MOJNKLJB_00114	gene	1161	resA			
+MOJNKLJB_00114	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+MOJNKLJB_00115	gene	2241				
+MOJNKLJB_00115	CDS	2241				hypothetical protein
+MOJNKLJB_00116	gene	696	rspR_1			
+MOJNKLJB_00116	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+MOJNKLJB_00117	gene	1245	fldA			
+MOJNKLJB_00117	CDS	1245	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+MOJNKLJB_00118	gene	1236	fldB			
+MOJNKLJB_00118	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+MOJNKLJB_00119	gene	924	hadC			
+MOJNKLJB_00119	CDS	924	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+MOJNKLJB_00120	gene	159	fldC			
+MOJNKLJB_00120	CDS	159	fldC	4.2.1.-		(R)-phenyllactyl-CoA dehydratase beta subunit
+MOJNKLJB_00121	gene	1134	carC			
+MOJNKLJB_00121	CDS	1134	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+MOJNKLJB_00122	gene	792	carD			
+MOJNKLJB_00122	CDS	792	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+MOJNKLJB_00123	gene	1008	carE_1			
+MOJNKLJB_00123	CDS	1008	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+MOJNKLJB_00124	gene	993	hpr			
+MOJNKLJB_00124	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+MOJNKLJB_00125	gene	1326	brnQ_2			
+MOJNKLJB_00125	CDS	1326	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MOJNKLJB_00126	gene	1185	aspC			
+MOJNKLJB_00126	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+MOJNKLJB_00127	gene	474				
+MOJNKLJB_00127	CDS	474				hypothetical protein
+MOJNKLJB_00128	gene	1233				
+MOJNKLJB_00128	CDS	1233				IS256 family transposase ISCth4
+MOJNKLJB_00129	gene	714				
+MOJNKLJB_00129	CDS	714				hypothetical protein
+MOJNKLJB_00130	gene	864				
+MOJNKLJB_00130	CDS	864				hypothetical protein
+MOJNKLJB_00131	gene	618				
+MOJNKLJB_00131	CDS	618				hypothetical protein
+MOJNKLJB_00132	gene	165				
+MOJNKLJB_00132	CDS	165				hypothetical protein
+MOJNKLJB_00133	gene	1050				
+MOJNKLJB_00133	CDS	1050			COG2826	IS30 family transposase ISHahy9
+MOJNKLJB_00134	gene	642				
+MOJNKLJB_00134	CDS	642				hypothetical protein
+MOJNKLJB_00135	gene	1158	iscS			
+MOJNKLJB_00135	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+MOJNKLJB_00136	gene	1188	thiI			
+MOJNKLJB_00136	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+MOJNKLJB_00137	gene	966				
+MOJNKLJB_00137	CDS	966				hypothetical protein
+MOJNKLJB_00138	gene	1665				
+MOJNKLJB_00138	CDS	1665				hypothetical protein
+MOJNKLJB_00139	gene	1221	ask			
+MOJNKLJB_00139	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+MOJNKLJB_00140	gene	909	thrB			
+MOJNKLJB_00140	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+MOJNKLJB_00141	gene	1050	thrC			
+MOJNKLJB_00141	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+MOJNKLJB_00142	gene	1338	hom			
+MOJNKLJB_00142	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+MOJNKLJB_00143	gene	990	asd_1			
+MOJNKLJB_00143	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+MOJNKLJB_00144	gene	591	ogt			
+MOJNKLJB_00144	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+MOJNKLJB_00145	gene	405				
+MOJNKLJB_00145	CDS	405				hypothetical protein
+MOJNKLJB_00146	gene	465				
+MOJNKLJB_00146	CDS	465				hypothetical protein
+MOJNKLJB_00147	gene	579				
+MOJNKLJB_00147	CDS	579				hypothetical protein
+MOJNKLJB_00148	gene	960				
+MOJNKLJB_00148	CDS	960				hypothetical protein
+MOJNKLJB_00149	gene	1989	tkt			
+MOJNKLJB_00149	CDS	1989	tkt	2.2.1.1		Transketolase
+MOJNKLJB_00150	gene	105				
+MOJNKLJB_00150	rRNA	105				5S ribosomal RNA
+MOJNKLJB_00151	gene	73				
+MOJNKLJB_00151	tRNA	73				tRNA-Asn(gtt)
+MOJNKLJB_00152	gene	74				
+MOJNKLJB_00152	tRNA	74				tRNA-Glu(ttc)
+MOJNKLJB_00153	gene	76				
+MOJNKLJB_00153	tRNA	76				tRNA-Val(tac)
+MOJNKLJB_00154	gene	693	bcrA			
+MOJNKLJB_00154	CDS	693	bcrA			Bacitracin transport ATP-binding protein BcrA
+MOJNKLJB_00155	gene	735				
+MOJNKLJB_00155	CDS	735				hypothetical protein
+MOJNKLJB_00156	gene	723				
+MOJNKLJB_00156	CDS	723				hypothetical protein
+MOJNKLJB_00157	gene	738				
+MOJNKLJB_00157	CDS	738				hypothetical protein
+MOJNKLJB_00158	gene	1767				
+MOJNKLJB_00158	CDS	1767				hypothetical protein
+MOJNKLJB_00159	gene	285				
+MOJNKLJB_00159	CDS	285				hypothetical protein
+MOJNKLJB_00160	gene	2637	alaS_1			
+MOJNKLJB_00160	CDS	2637	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+MOJNKLJB_00161	gene	261				
+MOJNKLJB_00161	CDS	261				hypothetical protein
+MOJNKLJB_00162	gene	2280				
+MOJNKLJB_00162	CDS	2280				hypothetical protein
+MOJNKLJB_00163	gene	417	yrrK			
+MOJNKLJB_00163	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+MOJNKLJB_00164	gene	450	fur			
+MOJNKLJB_00164	CDS	450	fur		COG0735	Ferric uptake regulation protein
+MOJNKLJB_00165	gene	756	yxdL			
+MOJNKLJB_00165	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+MOJNKLJB_00166	gene	990	graS			
+MOJNKLJB_00166	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+MOJNKLJB_00167	gene	687	graR			
+MOJNKLJB_00167	CDS	687	graR		COG0745	Response regulator protein GraR
+MOJNKLJB_00168	gene	1038	yqeN			
+MOJNKLJB_00168	CDS	1038	yqeN		COG1466	putative protein YqeN
+MOJNKLJB_00169	gene	1236	comEC_1			
+MOJNKLJB_00169	CDS	1236	comEC_1		COG0658	ComE operon protein 3
+MOJNKLJB_00170	gene	1287	eis			
+MOJNKLJB_00170	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+MOJNKLJB_00171	gene	906				
+MOJNKLJB_00171	CDS	906				hypothetical protein
+MOJNKLJB_00172	gene	867	comEC_2			
+MOJNKLJB_00172	CDS	867	comEC_2		COG0658	ComE operon protein 3
+MOJNKLJB_00173	gene	717				
+MOJNKLJB_00173	CDS	717				hypothetical protein
+MOJNKLJB_00174	gene	1155	dnaJ			
+MOJNKLJB_00174	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+MOJNKLJB_00175	gene	756				
+MOJNKLJB_00175	CDS	756				hypothetical protein
+MOJNKLJB_00176	gene	1584				
+MOJNKLJB_00176	CDS	1584				hypothetical protein
+MOJNKLJB_00177	gene	1188				
+MOJNKLJB_00177	CDS	1188				hypothetical protein
+MOJNKLJB_00178	gene	822	mscS			
+MOJNKLJB_00178	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+MOJNKLJB_00179	gene	771	bphF			
+MOJNKLJB_00179	CDS	771	bphF	4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+MOJNKLJB_00180	gene	183				
+MOJNKLJB_00180	CDS	183				hypothetical protein
+MOJNKLJB_00181	gene	774	sigB			
+MOJNKLJB_00181	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+MOJNKLJB_00182	gene	408	rsbW			
+MOJNKLJB_00182	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+MOJNKLJB_00183	gene	318	rsbV			
+MOJNKLJB_00183	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+MOJNKLJB_00184	gene	2439	gyrA			
+MOJNKLJB_00184	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+MOJNKLJB_00185	gene	420	gyrB			
+MOJNKLJB_00185	CDS	420	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+MOJNKLJB_00186	gene	750				
+MOJNKLJB_00186	CDS	750				hypothetical protein
+MOJNKLJB_00187	gene	417	proS_1			
+MOJNKLJB_00187	CDS	417	proS_1	6.1.1.15	COG0442	Proline--tRNA ligase
+MOJNKLJB_00188	gene	1029	proS_2			
+MOJNKLJB_00188	CDS	1029	proS_2	6.1.1.15	COG0442	Proline--tRNA ligase
+MOJNKLJB_00189	gene	1092	yacL			
+MOJNKLJB_00189	CDS	1092	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+MOJNKLJB_00190	gene	1077	disA			
+MOJNKLJB_00190	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+MOJNKLJB_00191	gene	1380	radA			
+MOJNKLJB_00191	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+MOJNKLJB_00192	gene	219				
+MOJNKLJB_00192	CDS	219				hypothetical protein
+MOJNKLJB_00193	gene	1245				
+MOJNKLJB_00193	CDS	1245				hypothetical protein
+MOJNKLJB_00194	gene	999				
+MOJNKLJB_00194	CDS	999				hypothetical protein
+MOJNKLJB_00195	gene	96				
+MOJNKLJB_00195	CDS	96				hypothetical protein
+MOJNKLJB_00196	gene	3747	rpoB			
+MOJNKLJB_00196	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+MOJNKLJB_00197	gene	1056				
+MOJNKLJB_00197	CDS	1056				hypothetical protein
+MOJNKLJB_00198	gene	927				
+MOJNKLJB_00198	CDS	927				hypothetical protein
+MOJNKLJB_00199	gene	1698				
+MOJNKLJB_00199	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+MOJNKLJB_00200	gene	408	apxIB			
+MOJNKLJB_00200	CDS	408	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+MOJNKLJB_00201	gene	1737	htpG			
+MOJNKLJB_00201	CDS	1737	htpG		COG0326	Chaperone protein HtpG
+MOJNKLJB_00202	gene	1461				
+MOJNKLJB_00202	CDS	1461				hypothetical protein
+MOJNKLJB_00203	gene	765	fpuC			
+MOJNKLJB_00203	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+MOJNKLJB_00204	gene	1065	isdF			
+MOJNKLJB_00204	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+MOJNKLJB_00205	gene	918	isdE			
+MOJNKLJB_00205	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+MOJNKLJB_00206	gene	1125				
+MOJNKLJB_00206	CDS	1125				hypothetical protein
+MOJNKLJB_00207	gene	1929				
+MOJNKLJB_00207	CDS	1929				hypothetical protein
+MOJNKLJB_00208	gene	375	ybaN			
+MOJNKLJB_00208	CDS	375	ybaN		COG2832	Inner membrane protein YbaN
+MOJNKLJB_00209	gene	357				
+MOJNKLJB_00209	CDS	357				hypothetical protein
+MOJNKLJB_00210	gene	525	pyrR			
+MOJNKLJB_00210	CDS	525	pyrR			Bifunctional protein PyrR
+MOJNKLJB_00211	gene	933	rluD_1			
+MOJNKLJB_00211	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MOJNKLJB_00212	gene	480	lspA			
+MOJNKLJB_00212	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+MOJNKLJB_00213	gene	768				
+MOJNKLJB_00213	CDS	768				hypothetical protein
+MOJNKLJB_00214	gene	1008	trpS			
+MOJNKLJB_00214	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+MOJNKLJB_00215	gene	708	mtnN			
+MOJNKLJB_00215	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MOJNKLJB_00216	gene	1053				
+MOJNKLJB_00216	CDS	1053				hypothetical protein
+MOJNKLJB_00217	gene	786				
+MOJNKLJB_00217	CDS	786				hypothetical protein
+MOJNKLJB_00218	gene	1995				
+MOJNKLJB_00218	CDS	1995				hypothetical protein
+MOJNKLJB_00219	gene	912	cshE			
+MOJNKLJB_00219	CDS	912	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+MOJNKLJB_00220	gene	330				
+MOJNKLJB_00220	CDS	330				hypothetical protein
+MOJNKLJB_00221	gene	2688				
+MOJNKLJB_00221	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+MOJNKLJB_00222	gene	1065				
+MOJNKLJB_00222	CDS	1065				hypothetical protein
+MOJNKLJB_00223	gene	597				
+MOJNKLJB_00223	CDS	597				hypothetical protein
+MOJNKLJB_00224	gene	603				
+MOJNKLJB_00224	CDS	603				hypothetical protein
+MOJNKLJB_00225	gene	1077	lytC_1			
+MOJNKLJB_00225	CDS	1077	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MOJNKLJB_00226	gene	405				
+MOJNKLJB_00226	CDS	405				hypothetical protein
+MOJNKLJB_00227	gene	243				
+MOJNKLJB_00227	CDS	243				hypothetical protein
+MOJNKLJB_00228	gene	954	rpoN			
+MOJNKLJB_00228	CDS	954	rpoN		COG1508	RNA polymerase sigma-54 factor
+MOJNKLJB_00229	gene	1293				
+MOJNKLJB_00229	CDS	1293				hypothetical protein
+MOJNKLJB_00230	gene	1233				
+MOJNKLJB_00230	CDS	1233				hypothetical protein
+MOJNKLJB_00231	gene	1728	ade			
+MOJNKLJB_00231	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+MOJNKLJB_00232	gene	189	rpmB			
+MOJNKLJB_00232	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+MOJNKLJB_00233	gene	351				
+MOJNKLJB_00233	CDS	351				putative protein
+MOJNKLJB_00234	gene	1665				
+MOJNKLJB_00234	CDS	1665				putative protein
+MOJNKLJB_00235	gene	2058	recG			
+MOJNKLJB_00235	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+MOJNKLJB_00236	gene	597				
+MOJNKLJB_00236	CDS	597				hypothetical protein
+MOJNKLJB_00237	gene	1113				
+MOJNKLJB_00237	CDS	1113				hypothetical protein
+MOJNKLJB_00238	gene	1119				
+MOJNKLJB_00238	CDS	1119				hypothetical protein
+MOJNKLJB_00239	gene	933	lnrL_1			
+MOJNKLJB_00239	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MOJNKLJB_00240	gene	1146				
+MOJNKLJB_00240	CDS	1146				hypothetical protein
+MOJNKLJB_00241	gene	648	lnrK			
+MOJNKLJB_00241	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+MOJNKLJB_00242	gene	651				
+MOJNKLJB_00242	CDS	651				hypothetical protein
+MOJNKLJB_00243	gene	507	tpx			
+MOJNKLJB_00243	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+MOJNKLJB_00244	gene	462	mutX			
+MOJNKLJB_00244	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+MOJNKLJB_00245	gene	279	yjdJ			
+MOJNKLJB_00245	CDS	279	yjdJ		COG2388	putative protein YjdJ
+MOJNKLJB_00246	gene	825	ydjP			
+MOJNKLJB_00246	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+MOJNKLJB_00247	gene	537				
+MOJNKLJB_00247	CDS	537				hypothetical protein
+MOJNKLJB_00248	gene	624	grpE			
+MOJNKLJB_00248	CDS	624	grpE			Protein GrpE
+MOJNKLJB_00249	gene	1038	hrcA			
+MOJNKLJB_00249	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+MOJNKLJB_00250	gene	1926	thrZ			
+MOJNKLJB_00250	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+MOJNKLJB_00251	gene	501				
+MOJNKLJB_00251	CDS	501			COG2826	IS30 family transposase ISSlu1
+MOJNKLJB_00252	gene	1824	dap			
+MOJNKLJB_00252	CDS	1824	dap	3.4.11.19		D-aminopeptidase
+MOJNKLJB_00253	gene	435				
+MOJNKLJB_00253	CDS	435				hypothetical protein
+MOJNKLJB_00254	gene	855				
+MOJNKLJB_00254	CDS	855				hypothetical protein
+MOJNKLJB_00255	gene	1011	lytC_2			
+MOJNKLJB_00255	CDS	1011	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MOJNKLJB_00256	gene	516				
+MOJNKLJB_00256	CDS	516				hypothetical protein
+MOJNKLJB_00257	gene	1023				
+MOJNKLJB_00257	CDS	1023				hypothetical protein
+MOJNKLJB_00258	gene	1050				
+MOJNKLJB_00258	CDS	1050				hypothetical protein
+MOJNKLJB_00259	gene	780				
+MOJNKLJB_00259	CDS	780				hypothetical protein
+MOJNKLJB_00260	gene	549				
+MOJNKLJB_00260	CDS	549				hypothetical protein
+MOJNKLJB_00261	gene	546				
+MOJNKLJB_00261	CDS	546				hypothetical protein
+MOJNKLJB_00262	gene	633				
+MOJNKLJB_00262	CDS	633				hypothetical protein
+MOJNKLJB_00263	gene	1167	cbiD			
+MOJNKLJB_00263	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+MOJNKLJB_00264	gene	639	cbiC			
+MOJNKLJB_00264	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+MOJNKLJB_00265	gene	885	pduX			
+MOJNKLJB_00265	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+MOJNKLJB_00266	gene	1092	cobD			
+MOJNKLJB_00266	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+MOJNKLJB_00267	gene	1041	cbiB			
+MOJNKLJB_00267	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+MOJNKLJB_00268	gene	1395	cbiA			
+MOJNKLJB_00268	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+MOJNKLJB_00269	gene	1524	cobQ			
+MOJNKLJB_00269	CDS	1524	cobQ			Cobyric acid synthase
+MOJNKLJB_00270	gene	639	pspA			
+MOJNKLJB_00270	CDS	639	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+MOJNKLJB_00271	gene	1005				
+MOJNKLJB_00271	CDS	1005			COG0330	putative protein
+MOJNKLJB_00272	gene	453				
+MOJNKLJB_00272	CDS	453				hypothetical protein
+MOJNKLJB_00273	gene	1614	nnr			
+MOJNKLJB_00273	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+MOJNKLJB_00274	gene	2439				
+MOJNKLJB_00274	CDS	2439				hypothetical protein
+MOJNKLJB_00275	gene	576	zapA			
+MOJNKLJB_00275	CDS	576	zapA			Cell division protein ZapA
+MOJNKLJB_00276	gene	1149	hemW			
+MOJNKLJB_00276	CDS	1149	hemW		COG0635	Heme chaperone HemW
+MOJNKLJB_00277	gene	861				
+MOJNKLJB_00277	CDS	861				hypothetical protein
+MOJNKLJB_00278	gene	435				
+MOJNKLJB_00278	CDS	435				hypothetical protein
+MOJNKLJB_00279	gene	2283	topB			
+MOJNKLJB_00279	CDS	2283	topB	5.6.2.1		DNA topoisomerase 3
+MOJNKLJB_00280	gene	1422	purF			
+MOJNKLJB_00280	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+MOJNKLJB_00281	gene	1647	gltX			
+MOJNKLJB_00281	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+MOJNKLJB_00282	gene	1452				
+MOJNKLJB_00282	CDS	1452				hypothetical protein
+MOJNKLJB_00283	gene	684				
+MOJNKLJB_00283	CDS	684				hypothetical protein
+MOJNKLJB_00284	gene	432				
+MOJNKLJB_00284	CDS	432				hypothetical protein
+MOJNKLJB_00285	gene	447				
+MOJNKLJB_00285	CDS	447				hypothetical protein
+MOJNKLJB_00286	gene	369				
+MOJNKLJB_00286	CDS	369				hypothetical protein
+MOJNKLJB_00287	gene	282				
+MOJNKLJB_00287	CDS	282				hypothetical protein
+MOJNKLJB_00288	gene	1149				
+MOJNKLJB_00288	CDS	1149				hypothetical protein
+MOJNKLJB_00289	gene	774	clpP			
+MOJNKLJB_00289	CDS	774	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+MOJNKLJB_00290	gene	1218				
+MOJNKLJB_00290	CDS	1218				hypothetical protein
+MOJNKLJB_00291	gene	207				
+MOJNKLJB_00291	CDS	207				hypothetical protein
+MOJNKLJB_00292	gene	1755				
+MOJNKLJB_00292	CDS	1755				hypothetical protein
+MOJNKLJB_00293	gene	480				
+MOJNKLJB_00293	CDS	480				hypothetical protein
+MOJNKLJB_00294	gene	426				
+MOJNKLJB_00294	CDS	426				hypothetical protein
+MOJNKLJB_00295	gene	549	xerC_1			
+MOJNKLJB_00295	CDS	549	xerC_1			Tyrosine recombinase XerC
+MOJNKLJB_00296	gene	1212	undec1A			
+MOJNKLJB_00296	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+MOJNKLJB_00297	gene	2313	priA			
+MOJNKLJB_00297	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+MOJNKLJB_00298	gene	456	def1			
+MOJNKLJB_00298	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+MOJNKLJB_00299	gene	930	fmt			
+MOJNKLJB_00299	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+MOJNKLJB_00300	gene	690				
+MOJNKLJB_00300	CDS	690				hypothetical protein
+MOJNKLJB_00301	gene	1344	rsmB			
+MOJNKLJB_00301	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+MOJNKLJB_00302	gene	1038	rlmN			
+MOJNKLJB_00302	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+MOJNKLJB_00303	gene	750	stp			
+MOJNKLJB_00303	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+MOJNKLJB_00304	gene	1392	pknD			
+MOJNKLJB_00304	CDS	1392	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+MOJNKLJB_00305	gene	735	fabG_1			
+MOJNKLJB_00305	CDS	735	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MOJNKLJB_00306	gene	900	rsgA			
+MOJNKLJB_00306	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+MOJNKLJB_00307	gene	657	rpe			
+MOJNKLJB_00307	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+MOJNKLJB_00308	gene	684	thiN			
+MOJNKLJB_00308	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+MOJNKLJB_00309	gene	714	phoP_1			
+MOJNKLJB_00309	CDS	714	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+MOJNKLJB_00310	gene	2358	sasA_2			
+MOJNKLJB_00310	CDS	2358	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+MOJNKLJB_00311	gene	1374	mepA_1			
+MOJNKLJB_00311	CDS	1374	mepA_1			Multidrug export protein MepA
+MOJNKLJB_00312	gene	204				
+MOJNKLJB_00312	CDS	204				hypothetical protein
+MOJNKLJB_00313	gene	2211	kdpB			
+MOJNKLJB_00313	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+MOJNKLJB_00314	gene	855				
+MOJNKLJB_00314	CDS	855				hypothetical protein
+MOJNKLJB_00315	gene	273				
+MOJNKLJB_00315	CDS	273				hypothetical protein
+MOJNKLJB_00316	gene	1119	ribD			
+MOJNKLJB_00316	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+MOJNKLJB_00317	gene	657	ribE			
+MOJNKLJB_00317	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+MOJNKLJB_00318	gene	1206	ribBA			
+MOJNKLJB_00318	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+MOJNKLJB_00319	gene	462	ribH			
+MOJNKLJB_00319	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+MOJNKLJB_00320	gene	687	glxR			
+MOJNKLJB_00320	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+MOJNKLJB_00321	gene	171	pgcA			
+MOJNKLJB_00321	CDS	171	pgcA	5.4.2.2		Phosphoglucomutase
+MOJNKLJB_00322	gene	561	efp			
+MOJNKLJB_00322	CDS	561	efp		COG0231	Elongation factor P
+MOJNKLJB_00323	gene	708	rnc			
+MOJNKLJB_00323	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+MOJNKLJB_00324	gene	1071				
+MOJNKLJB_00324	CDS	1071				hypothetical protein
+MOJNKLJB_00325	gene	3552	smc			
+MOJNKLJB_00325	CDS	3552	smc		COG1196	Chromosome partition protein Smc
+MOJNKLJB_00326	gene	1296	ftsY			
+MOJNKLJB_00326	CDS	1296	ftsY			Signal recognition particle receptor FtsY
+MOJNKLJB_00327	gene	768	thiG			
+MOJNKLJB_00327	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+MOJNKLJB_00328	gene	1176	thiH			
+MOJNKLJB_00328	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+MOJNKLJB_00329	gene	1176	tadA			
+MOJNKLJB_00329	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+MOJNKLJB_00330	gene	1635				
+MOJNKLJB_00330	CDS	1635				hypothetical protein
+MOJNKLJB_00331	gene	90				
+MOJNKLJB_00331	tRNA	90				tRNA-Ser(gga)
+MOJNKLJB_00332	gene	2460				
+MOJNKLJB_00332	CDS	2460				hypothetical protein
+MOJNKLJB_00333	gene	1095	metK			
+MOJNKLJB_00333	CDS	1095	metK	2.5.1.6		S-adenosylmethionine synthase
+MOJNKLJB_00334	gene	2220	recD2			
+MOJNKLJB_00334	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+MOJNKLJB_00335	gene	771				
+MOJNKLJB_00335	CDS	771				hypothetical protein
+MOJNKLJB_00336	gene	540	folT			
+MOJNKLJB_00336	CDS	540	folT			Folate transporter FolT
+MOJNKLJB_00337	gene	141				
+MOJNKLJB_00337	CDS	141				hypothetical protein
+MOJNKLJB_00338	gene	2691	secA_1			
+MOJNKLJB_00338	CDS	2691	secA_1			Protein translocase subunit SecA
+MOJNKLJB_00339	gene	357	gapA			
+MOJNKLJB_00339	CDS	357	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+MOJNKLJB_00340	gene	4305				
+MOJNKLJB_00340	CDS	4305				hypothetical protein
+MOJNKLJB_00341	gene	1326				
+MOJNKLJB_00341	CDS	1326				hypothetical protein
+MOJNKLJB_00342	gene	801	artJ			
+MOJNKLJB_00342	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+MOJNKLJB_00343	gene	618	artQ_2			
+MOJNKLJB_00343	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+MOJNKLJB_00344	gene	765	ybiV			
+MOJNKLJB_00344	CDS	765	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+MOJNKLJB_00345	gene	1110				
+MOJNKLJB_00345	CDS	1110				hypothetical protein
+MOJNKLJB_00346	gene	264	ptsH			
+MOJNKLJB_00346	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+MOJNKLJB_00347	gene	1719	ptsI			
+MOJNKLJB_00347	CDS	1719	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+MOJNKLJB_00348	gene	654				
+MOJNKLJB_00348	CDS	654				hypothetical protein
+MOJNKLJB_00349	gene	900				
+MOJNKLJB_00349	CDS	900				hypothetical protein
+MOJNKLJB_00350	gene	546				
+MOJNKLJB_00350	CDS	546				hypothetical protein
+MOJNKLJB_00351	gene	888				
+MOJNKLJB_00351	CDS	888				hypothetical protein
+MOJNKLJB_00352	gene	222				
+MOJNKLJB_00352	CDS	222				hypothetical protein
+MOJNKLJB_00353	gene	1311	addA			
+MOJNKLJB_00353	CDS	1311	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+MOJNKLJB_00354	gene	684				
+MOJNKLJB_00354	CDS	684				hypothetical protein
+MOJNKLJB_00355	gene	3417	addB			
+MOJNKLJB_00355	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+MOJNKLJB_00356	gene	567	yqgN			
+MOJNKLJB_00356	CDS	567	yqgN		COG0212	putative protein YqgN
+MOJNKLJB_00357	gene	810	ecsA			
+MOJNKLJB_00357	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+MOJNKLJB_00358	gene	1746				
+MOJNKLJB_00358	CDS	1746				hypothetical protein
+MOJNKLJB_00359	gene	1227				
+MOJNKLJB_00359	CDS	1227				hypothetical protein
+MOJNKLJB_00360	gene	696	ureG			
+MOJNKLJB_00360	CDS	696	ureG			Urease accessory protein UreG
+MOJNKLJB_00361	gene	996	btuD_1			
+MOJNKLJB_00361	CDS	996	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MOJNKLJB_00362	gene	681	tgnD			
+MOJNKLJB_00362	CDS	681	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+MOJNKLJB_00363	gene	498				
+MOJNKLJB_00363	CDS	498				hypothetical protein
+MOJNKLJB_00364	gene	345				
+MOJNKLJB_00364	CDS	345				hypothetical protein
+MOJNKLJB_00365	gene	636	rex1			
+MOJNKLJB_00365	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+MOJNKLJB_00366	gene	168				
+MOJNKLJB_00366	CDS	168			COG1145	Ferredoxin
+MOJNKLJB_00367	gene	1254				
+MOJNKLJB_00367	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+MOJNKLJB_00368	gene	657				
+MOJNKLJB_00368	CDS	657				hypothetical protein
+MOJNKLJB_00369	gene	219				
+MOJNKLJB_00369	CDS	219				hypothetical protein
+MOJNKLJB_00370	gene	234				
+MOJNKLJB_00370	CDS	234				hypothetical protein
+MOJNKLJB_00371	gene	2151	feoB			
+MOJNKLJB_00371	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+MOJNKLJB_00372	gene	168				
+MOJNKLJB_00372	CDS	168				hypothetical protein
+MOJNKLJB_00373	gene	447	ywlF			
+MOJNKLJB_00373	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+MOJNKLJB_00374	gene	630	upp			
+MOJNKLJB_00374	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+MOJNKLJB_00375	gene	240				
+MOJNKLJB_00375	CDS	240				hypothetical protein
+MOJNKLJB_00376	gene	402				
+MOJNKLJB_00376	CDS	402				hypothetical protein
+MOJNKLJB_00377	gene	705	atpB			
+MOJNKLJB_00377	CDS	705	atpB		COG0356	ATP synthase subunit a
+MOJNKLJB_00378	gene	264	atpE			
+MOJNKLJB_00378	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+MOJNKLJB_00379	gene	507	atpF			
+MOJNKLJB_00379	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+MOJNKLJB_00380	gene	543	atpH			
+MOJNKLJB_00380	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+MOJNKLJB_00381	gene	1503	atpA			
+MOJNKLJB_00381	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+MOJNKLJB_00382	gene	999	atpG			
+MOJNKLJB_00382	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+MOJNKLJB_00383	gene	600	ispG			
+MOJNKLJB_00383	CDS	600	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+MOJNKLJB_00384	gene	528				
+MOJNKLJB_00384	CDS	528				hypothetical protein
+MOJNKLJB_00385	gene	477				
+MOJNKLJB_00385	CDS	477				hypothetical protein
+MOJNKLJB_00386	gene	489				
+MOJNKLJB_00386	CDS	489				hypothetical protein
+MOJNKLJB_00387	gene	471				
+MOJNKLJB_00387	CDS	471				hypothetical protein
+MOJNKLJB_00388	gene	1233				
+MOJNKLJB_00388	CDS	1233				hypothetical protein
+MOJNKLJB_00389	gene	645	trmR			
+MOJNKLJB_00389	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+MOJNKLJB_00390	gene	1203	mltG			
+MOJNKLJB_00390	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+MOJNKLJB_00391	gene	813	punA			
+MOJNKLJB_00391	CDS	813	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+MOJNKLJB_00392	gene	936	secA_2			
+MOJNKLJB_00392	CDS	936	secA_2		COG0653	Protein translocase subunit SecA
+MOJNKLJB_00393	gene	1365				
+MOJNKLJB_00393	CDS	1365				hypothetical protein
+MOJNKLJB_00394	gene	1305				
+MOJNKLJB_00394	CDS	1305				hypothetical protein
+MOJNKLJB_00395	gene	1893	lytC_3			
+MOJNKLJB_00395	CDS	1893	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MOJNKLJB_00396	gene	1107				
+MOJNKLJB_00396	CDS	1107				hypothetical protein
+MOJNKLJB_00397	gene	1452	trkG			
+MOJNKLJB_00397	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+MOJNKLJB_00398	gene	1365	trkA			
+MOJNKLJB_00398	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+MOJNKLJB_00399	gene	762				
+MOJNKLJB_00399	CDS	762				hypothetical protein
+MOJNKLJB_00400	gene	927	trxB			
+MOJNKLJB_00400	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+MOJNKLJB_00401	gene	1374	zwf			
+MOJNKLJB_00401	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+MOJNKLJB_00402	gene	1203	gnd			
+MOJNKLJB_00402	CDS	1203	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+MOJNKLJB_00403	gene	1065	prfA			
+MOJNKLJB_00403	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+MOJNKLJB_00404	gene	915	prmC			
+MOJNKLJB_00404	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+MOJNKLJB_00405	gene	720				
+MOJNKLJB_00405	CDS	720				hypothetical protein
+MOJNKLJB_00406	gene	327				
+MOJNKLJB_00406	CDS	327				hypothetical protein
+MOJNKLJB_00407	gene	201	rpmE			
+MOJNKLJB_00407	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+MOJNKLJB_00408	gene	1443	rho			
+MOJNKLJB_00408	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+MOJNKLJB_00409	gene	894	gtaB			
+MOJNKLJB_00409	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+MOJNKLJB_00410	gene	240				
+MOJNKLJB_00410	CDS	240			COG1188	putative protein
+MOJNKLJB_00411	gene	255				
+MOJNKLJB_00411	CDS	255				hypothetical protein
+MOJNKLJB_00412	gene	699				
+MOJNKLJB_00412	CDS	699				hypothetical protein
+MOJNKLJB_00413	gene	357				
+MOJNKLJB_00413	CDS	357				hypothetical protein
+MOJNKLJB_00414	gene	3936	polC_1			
+MOJNKLJB_00414	CDS	3936	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+MOJNKLJB_00415	gene	885				
+MOJNKLJB_00415	CDS	885				hypothetical protein
+MOJNKLJB_00416	gene	456	lrpC			
+MOJNKLJB_00416	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+MOJNKLJB_00417	gene	1437	pncB2			
+MOJNKLJB_00417	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+MOJNKLJB_00418	gene	837	rsmI			
+MOJNKLJB_00418	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+MOJNKLJB_00419	gene	750	yfiC			
+MOJNKLJB_00419	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+MOJNKLJB_00420	gene	897				
+MOJNKLJB_00420	CDS	897				hypothetical protein
+MOJNKLJB_00421	gene	939				
+MOJNKLJB_00421	CDS	939				hypothetical protein
+MOJNKLJB_00422	gene	702	tmk			
+MOJNKLJB_00422	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+MOJNKLJB_00423	gene	234	speA_1			
+MOJNKLJB_00423	CDS	234	speA_1	4.1.1.19	COG1982	Arginine decarboxylase
+MOJNKLJB_00424	gene	465	pepF1			
+MOJNKLJB_00424	CDS	465	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+MOJNKLJB_00425	gene	147				
+MOJNKLJB_00425	CDS	147				hypothetical protein
+MOJNKLJB_00426	gene	1506	glpK			
+MOJNKLJB_00426	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+MOJNKLJB_00427	gene	291				
+MOJNKLJB_00427	CDS	291				hypothetical protein
+MOJNKLJB_00428	gene	708	ytrE_1			
+MOJNKLJB_00428	CDS	708	ytrE_1		COG1136	ABC transporter ATP-binding protein YtrE
+MOJNKLJB_00429	gene	2481				
+MOJNKLJB_00429	CDS	2481				hypothetical protein
+MOJNKLJB_00430	gene	477	purE			
+MOJNKLJB_00430	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MOJNKLJB_00431	gene	357	cbiL			
+MOJNKLJB_00431	CDS	357	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+MOJNKLJB_00432	gene	1104				
+MOJNKLJB_00432	CDS	1104				hypothetical protein
+MOJNKLJB_00433	gene	906				
+MOJNKLJB_00433	CDS	906				hypothetical protein
+MOJNKLJB_00434	gene	924	fba			
+MOJNKLJB_00434	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+MOJNKLJB_00435	gene	552	hpf			
+MOJNKLJB_00435	CDS	552	hpf			Ribosome hibernation promotion factor
+MOJNKLJB_00436	gene	1059				
+MOJNKLJB_00436	CDS	1059			COG1702	PhoH-like protein
+MOJNKLJB_00437	gene	462	ybeY			
+MOJNKLJB_00437	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+MOJNKLJB_00438	gene	627				
+MOJNKLJB_00438	CDS	627				hypothetical protein
+MOJNKLJB_00439	gene	1260	dacF			
+MOJNKLJB_00439	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+MOJNKLJB_00440	gene	531				
+MOJNKLJB_00440	CDS	531				hypothetical protein
+MOJNKLJB_00441	gene	1314	hflX			
+MOJNKLJB_00441	CDS	1314	hflX		COG2262	GTPase HflX
+MOJNKLJB_00442	gene	1413	alsT_1			
+MOJNKLJB_00442	CDS	1413	alsT_1		COG1115	Amino-acid carrier protein AlsT
+MOJNKLJB_00443	gene	1101	chuR			
+MOJNKLJB_00443	CDS	1101	chuR	1.1.99.-	COG0641	Anaerobic sulfatase-maturating enzyme
+MOJNKLJB_00444	gene	1668	ubiB			
+MOJNKLJB_00444	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+MOJNKLJB_00445	gene	2484				
+MOJNKLJB_00445	CDS	2484				hypothetical protein
+MOJNKLJB_00446	gene	522	apt			
+MOJNKLJB_00446	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+MOJNKLJB_00447	gene	870	rlmL_1			
+MOJNKLJB_00447	CDS	870	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+MOJNKLJB_00448	gene	1422	pqqE			
+MOJNKLJB_00448	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+MOJNKLJB_00449	gene	510	ftnA			
+MOJNKLJB_00449	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+MOJNKLJB_00450	gene	471				
+MOJNKLJB_00450	CDS	471				hypothetical protein
+MOJNKLJB_00451	gene	564				
+MOJNKLJB_00451	CDS	564				hypothetical protein
+MOJNKLJB_00452	gene	888	cysK			
+MOJNKLJB_00452	CDS	888	cysK	2.5.1.47		Cysteine synthase
+MOJNKLJB_00453	gene	597	cysE			
+MOJNKLJB_00453	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+MOJNKLJB_00454	gene	903				
+MOJNKLJB_00454	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+MOJNKLJB_00455	gene	1005				
+MOJNKLJB_00455	CDS	1005				hypothetical protein
+MOJNKLJB_00456	gene	861				
+MOJNKLJB_00456	CDS	861				hypothetical protein
+MOJNKLJB_00457	gene	846				
+MOJNKLJB_00457	CDS	846				hypothetical protein
+MOJNKLJB_00458	gene	753	lacR			
+MOJNKLJB_00458	CDS	753	lacR			Lactose phosphotransferase system repressor
+MOJNKLJB_00459	gene	915	lacC			
+MOJNKLJB_00459	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+MOJNKLJB_00460	gene	609	dnaA_2			
+MOJNKLJB_00460	CDS	609	dnaA_2			Chromosomal replication initiator protein DnaA
+MOJNKLJB_00461	gene	1338	dnaC			
+MOJNKLJB_00461	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+MOJNKLJB_00462	gene	447	rplI			
+MOJNKLJB_00462	CDS	447	rplI			50S ribosomal protein L9
+MOJNKLJB_00463	gene	2016	gdpP			
+MOJNKLJB_00463	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+MOJNKLJB_00464	gene	1041				
+MOJNKLJB_00464	CDS	1041				hypothetical protein
+MOJNKLJB_00465	gene	366				
+MOJNKLJB_00465	CDS	366				hypothetical protein
+MOJNKLJB_00466	gene	915	yijE			
+MOJNKLJB_00466	CDS	915	yijE			putative cystine transporter YijE
+MOJNKLJB_00467	gene	2421	leuS			
+MOJNKLJB_00467	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+MOJNKLJB_00468	gene	351	rsfS			
+MOJNKLJB_00468	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+MOJNKLJB_00469	gene	576				
+MOJNKLJB_00469	CDS	576				hypothetical protein
+MOJNKLJB_00470	gene	696	nadD			
+MOJNKLJB_00470	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+MOJNKLJB_00471	gene	687	recX			
+MOJNKLJB_00471	CDS	687	recX			Regulatory protein RecX
+MOJNKLJB_00472	gene	1050				
+MOJNKLJB_00472	CDS	1050				hypothetical protein
+MOJNKLJB_00473	gene	723	pyrF			
+MOJNKLJB_00473	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+MOJNKLJB_00474	gene	1050	carA_1			
+MOJNKLJB_00474	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+MOJNKLJB_00475	gene	3216	carB			
+MOJNKLJB_00475	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+MOJNKLJB_00476	gene	774	csd			
+MOJNKLJB_00476	CDS	774	csd	2.8.1.7		putative cysteine desulfurase
+MOJNKLJB_00477	gene	438	sufU			
+MOJNKLJB_00477	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+MOJNKLJB_00478	gene	408				
+MOJNKLJB_00478	CDS	408				hypothetical protein
+MOJNKLJB_00479	gene	627				
+MOJNKLJB_00479	CDS	627				hypothetical protein
+MOJNKLJB_00480	gene	291				
+MOJNKLJB_00480	CDS	291				hypothetical protein
+MOJNKLJB_00481	gene	735				
+MOJNKLJB_00481	CDS	735		3.1.3.-	COG0560	putative phosphatase
+MOJNKLJB_00482	gene	1221				
+MOJNKLJB_00482	CDS	1221				hypothetical protein
+MOJNKLJB_00483	gene	660				
+MOJNKLJB_00483	CDS	660				hypothetical protein
+MOJNKLJB_00484	gene	246				
+MOJNKLJB_00484	CDS	246				hypothetical protein
+MOJNKLJB_00485	gene	1839	lon1			
+MOJNKLJB_00485	CDS	1839	lon1	3.4.21.53	COG0466	Lon protease 1
+MOJNKLJB_00486	gene	723	engB			
+MOJNKLJB_00486	CDS	723	engB			GTP-binding protein EngB
+MOJNKLJB_00487	gene	546	hpt_1			
+MOJNKLJB_00487	CDS	546	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+MOJNKLJB_00488	gene	288	pagR			
+MOJNKLJB_00488	CDS	288	pagR			Transcriptional repressor PagR
+MOJNKLJB_00489	gene	1731	cdr			
+MOJNKLJB_00489	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+MOJNKLJB_00490	gene	675				
+MOJNKLJB_00490	CDS	675				hypothetical protein
+MOJNKLJB_00491	gene	243				
+MOJNKLJB_00491	CDS	243				hypothetical protein
+MOJNKLJB_00492	gene	297				
+MOJNKLJB_00492	CDS	297				hypothetical protein
+MOJNKLJB_00493	gene	636				
+MOJNKLJB_00493	CDS	636				hypothetical protein
+MOJNKLJB_00494	gene	675				
+MOJNKLJB_00494	CDS	675				hypothetical protein
+MOJNKLJB_00495	gene	678				
+MOJNKLJB_00495	CDS	678				hypothetical protein
+MOJNKLJB_00496	gene	654				
+MOJNKLJB_00496	CDS	654				hypothetical protein
+MOJNKLJB_00497	gene	1188	norV			
+MOJNKLJB_00497	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+MOJNKLJB_00498	gene	552	bioY			
+MOJNKLJB_00498	CDS	552	bioY		COG1268	Biotin transporter BioY
+MOJNKLJB_00499	gene	810	ecfT_1			
+MOJNKLJB_00499	CDS	810	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+MOJNKLJB_00500	gene	876	ecfA2			
+MOJNKLJB_00500	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+MOJNKLJB_00501	gene	837	ecfA1			
+MOJNKLJB_00501	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+MOJNKLJB_00502	gene	672				
+MOJNKLJB_00502	CDS	672				hypothetical protein
+MOJNKLJB_00503	gene	933				
+MOJNKLJB_00503	CDS	933				hypothetical protein
+MOJNKLJB_00504	gene	342				
+MOJNKLJB_00504	CDS	342				hypothetical protein
+MOJNKLJB_00505	gene	441				
+MOJNKLJB_00505	CDS	441				hypothetical protein
+MOJNKLJB_00506	gene	435				
+MOJNKLJB_00506	CDS	435				hypothetical protein
+MOJNKLJB_00507	gene	672	regX3_2			
+MOJNKLJB_00507	CDS	672	regX3_2		COG0745	Sensory transduction protein regX3
+MOJNKLJB_00508	gene	495	nusB			
+MOJNKLJB_00508	CDS	495	nusB			Transcription antitermination protein NusB
+MOJNKLJB_00509	gene	342				
+MOJNKLJB_00509	CDS	342				putative protein
+MOJNKLJB_00510	gene	1977	fbp			
+MOJNKLJB_00510	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+MOJNKLJB_00511	gene	1017	plsX			
+MOJNKLJB_00511	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+MOJNKLJB_00512	gene	180	rpmF			
+MOJNKLJB_00512	CDS	180	rpmF			50S ribosomal protein L32
+MOJNKLJB_00513	gene	519				
+MOJNKLJB_00513	CDS	519				hypothetical protein
+MOJNKLJB_00514	gene	618	ackA			
+MOJNKLJB_00514	CDS	618	ackA	2.7.2.1	COG0282	Acetate kinase
+MOJNKLJB_00515	gene	957				
+MOJNKLJB_00515	CDS	957				hypothetical protein
+MOJNKLJB_00516	gene	1824	dnaG			
+MOJNKLJB_00516	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+MOJNKLJB_00517	gene	1155	sigA			
+MOJNKLJB_00517	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+MOJNKLJB_00518	gene	777	trmK			
+MOJNKLJB_00518	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+MOJNKLJB_00519	gene	804				
+MOJNKLJB_00519	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+MOJNKLJB_00520	gene	213				
+MOJNKLJB_00520	CDS	213				hypothetical protein
+MOJNKLJB_00521	gene	1197	baiN_1			
+MOJNKLJB_00521	CDS	1197	baiN_1	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+MOJNKLJB_00522	gene	465				
+MOJNKLJB_00522	CDS	465				hypothetical protein
+MOJNKLJB_00523	gene	1764				
+MOJNKLJB_00523	CDS	1764				hypothetical protein
+MOJNKLJB_00524	gene	702				
+MOJNKLJB_00524	CDS	702				hypothetical protein
+MOJNKLJB_00525	gene	1980				
+MOJNKLJB_00525	CDS	1980				hypothetical protein
+MOJNKLJB_00526	gene	177				
+MOJNKLJB_00526	CDS	177				hypothetical protein
+MOJNKLJB_00527	gene	1023	lnpD			
+MOJNKLJB_00527	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+MOJNKLJB_00528	gene	1104				
+MOJNKLJB_00528	CDS	1104				hypothetical protein
+MOJNKLJB_00529	gene	1230				
+MOJNKLJB_00529	CDS	1230				hypothetical protein
+MOJNKLJB_00530	gene	240				
+MOJNKLJB_00530	CDS	240				hypothetical protein
+MOJNKLJB_00531	gene	1455				
+MOJNKLJB_00531	CDS	1455				hypothetical protein
+MOJNKLJB_00532	gene	1701	argS			
+MOJNKLJB_00532	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+MOJNKLJB_00533	gene	468				
+MOJNKLJB_00533	CDS	468				hypothetical protein
+MOJNKLJB_00534	gene	1950	mutS2			
+MOJNKLJB_00534	CDS	1950	mutS2	3.1.-.-		Endonuclease MutS2
+MOJNKLJB_00535	gene	1266				
+MOJNKLJB_00535	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+MOJNKLJB_00536	gene	2073				
+MOJNKLJB_00536	CDS	2073				hypothetical protein
+MOJNKLJB_00537	gene	2091	pnp			
+MOJNKLJB_00537	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+MOJNKLJB_00538	gene	228				
+MOJNKLJB_00538	CDS	228				hypothetical protein
+MOJNKLJB_00539	gene	231				
+MOJNKLJB_00539	CDS	231				hypothetical protein
+MOJNKLJB_00540	gene	1902				
+MOJNKLJB_00540	CDS	1902				hypothetical protein
+MOJNKLJB_00541	gene	957	galT			
+MOJNKLJB_00541	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+MOJNKLJB_00542	gene	1200				
+MOJNKLJB_00542	CDS	1200		2.6.1.1		Aspartate aminotransferase
+MOJNKLJB_00543	gene	813	uppP			
+MOJNKLJB_00543	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+MOJNKLJB_00544	gene	171				
+MOJNKLJB_00544	CDS	171				hypothetical protein
+MOJNKLJB_00545	gene	996	icd			
+MOJNKLJB_00545	CDS	996	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+MOJNKLJB_00546	gene	888	nadK			
+MOJNKLJB_00546	CDS	888	nadK	2.7.1.23		NAD kinase
+MOJNKLJB_00547	gene	933	rluD_2			
+MOJNKLJB_00547	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MOJNKLJB_00548	gene	1011				
+MOJNKLJB_00548	CDS	1011				hypothetical protein
+MOJNKLJB_00549	gene	228	acpP_1			
+MOJNKLJB_00549	CDS	228	acpP_1			Acyl carrier protein
+MOJNKLJB_00550	gene	1014	ccpA			
+MOJNKLJB_00550	CDS	1014	ccpA		COG1609	Catabolite control protein A
+MOJNKLJB_00551	gene	234				
+MOJNKLJB_00551	CDS	234				hypothetical protein
+MOJNKLJB_00552	gene	72				
+MOJNKLJB_00552	tRNA	72				tRNA-Glu(ctc)
+MOJNKLJB_00553	gene	1314	ugtP_1			
+MOJNKLJB_00553	CDS	1314	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+MOJNKLJB_00554	gene	168				
+MOJNKLJB_00554	CDS	168				hypothetical protein
+MOJNKLJB_00555	gene	276				
+MOJNKLJB_00555	CDS	276				hypothetical protein
+MOJNKLJB_00556	gene	600	recR			
+MOJNKLJB_00556	CDS	600	recR		COG0353	Recombination protein RecR
+MOJNKLJB_00557	gene	345				
+MOJNKLJB_00557	CDS	345			COG0718	Nucleoid-associated protein
+MOJNKLJB_00558	gene	1683	ruvB_1			
+MOJNKLJB_00558	CDS	1683	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+MOJNKLJB_00559	gene	492				
+MOJNKLJB_00559	CDS	492				hypothetical protein
+MOJNKLJB_00560	gene	129	dcd_1			
+MOJNKLJB_00560	CDS	129	dcd_1	3.5.4.13		dCTP deaminase, dUMP-forming
+MOJNKLJB_00561	gene	375	dcd_2			
+MOJNKLJB_00561	CDS	375	dcd_2	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+MOJNKLJB_00562	gene	402				
+MOJNKLJB_00562	CDS	402				hypothetical protein
+MOJNKLJB_00563	gene	546				
+MOJNKLJB_00563	CDS	546				hypothetical protein
+MOJNKLJB_00564	gene	324				
+MOJNKLJB_00564	CDS	324				hypothetical protein
+MOJNKLJB_00565	gene	771	nirC			
+MOJNKLJB_00565	CDS	771	nirC		COG2116	Nitrite transporter NirC
+MOJNKLJB_00566	gene	972	asrC			
+MOJNKLJB_00566	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+MOJNKLJB_00567	gene	801	asrB			
+MOJNKLJB_00567	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+MOJNKLJB_00568	gene	297	asrA			
+MOJNKLJB_00568	CDS	297	asrA		COG1145	Anaerobic sulfite reductase subunit A
+MOJNKLJB_00569	gene	522	yajL			
+MOJNKLJB_00569	CDS	522	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+MOJNKLJB_00570	gene	522	bcrC			
+MOJNKLJB_00570	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+MOJNKLJB_00571	gene	1077				
+MOJNKLJB_00571	CDS	1077				hypothetical protein
+MOJNKLJB_00572	gene	900				
+MOJNKLJB_00572	CDS	900				hypothetical protein
+MOJNKLJB_00573	gene	618				
+MOJNKLJB_00573	CDS	618				hypothetical protein
+MOJNKLJB_00574	gene	180				
+MOJNKLJB_00574	CDS	180				hypothetical protein
+MOJNKLJB_00575	gene	1197	lysN_1			
+MOJNKLJB_00575	CDS	1197	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+MOJNKLJB_00576	gene	483	rlmH			
+MOJNKLJB_00576	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+MOJNKLJB_00577	gene	801	yycJ			
+MOJNKLJB_00577	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+MOJNKLJB_00578	gene	162				
+MOJNKLJB_00578	CDS	162				Rubredoxin
+MOJNKLJB_00579	gene	462	zur			
+MOJNKLJB_00579	CDS	462	zur		COG0735	Zinc uptake regulation protein
+MOJNKLJB_00580	gene	981	znuA			
+MOJNKLJB_00580	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+MOJNKLJB_00581	gene	669	mntB			
+MOJNKLJB_00581	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+MOJNKLJB_00582	gene	786	znuB			
+MOJNKLJB_00582	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+MOJNKLJB_00583	gene	243				
+MOJNKLJB_00583	CDS	243				hypothetical protein
+MOJNKLJB_00584	gene	1449	pepD_1			
+MOJNKLJB_00584	CDS	1449	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+MOJNKLJB_00585	gene	876				
+MOJNKLJB_00585	CDS	876			COG1307	Fatty acid-binding protein
+MOJNKLJB_00586	gene	471	trmL			
+MOJNKLJB_00586	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+MOJNKLJB_00587	gene	639	pdg			
+MOJNKLJB_00587	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+MOJNKLJB_00588	gene	1656	udk			
+MOJNKLJB_00588	CDS	1656	udk	2.7.1.48		Uridine kinase
+MOJNKLJB_00589	gene	1431	pepD_2			
+MOJNKLJB_00589	CDS	1431	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+MOJNKLJB_00590	gene	678	purC			
+MOJNKLJB_00590	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MOJNKLJB_00591	gene	264				
+MOJNKLJB_00591	CDS	264				hypothetical protein
+MOJNKLJB_00592	gene	873				
+MOJNKLJB_00592	CDS	873				hypothetical protein
+MOJNKLJB_00593	gene	690				
+MOJNKLJB_00593	CDS	690				hypothetical protein
+MOJNKLJB_00594	gene	507				
+MOJNKLJB_00594	CDS	507				hypothetical protein
+MOJNKLJB_00595	gene	819	purM			
+MOJNKLJB_00595	CDS	819	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+MOJNKLJB_00596	gene	594	purN			
+MOJNKLJB_00596	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+MOJNKLJB_00597	gene	1533	purH			
+MOJNKLJB_00597	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+MOJNKLJB_00598	gene	1269	purD			
+MOJNKLJB_00598	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MOJNKLJB_00599	gene	1782				
+MOJNKLJB_00599	CDS	1782				hypothetical protein
+MOJNKLJB_00600	gene	1404	cysS			
+MOJNKLJB_00600	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+MOJNKLJB_00601	gene	447	mrnC			
+MOJNKLJB_00601	CDS	447	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+MOJNKLJB_00602	gene	735				
+MOJNKLJB_00602	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+MOJNKLJB_00603	gene	564				
+MOJNKLJB_00603	CDS	564				hypothetical protein
+MOJNKLJB_00604	gene	660	sigH			
+MOJNKLJB_00604	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+MOJNKLJB_00605	gene	1557	ykoD			
+MOJNKLJB_00605	CDS	1557	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+MOJNKLJB_00606	gene	705				
+MOJNKLJB_00606	CDS	705				hypothetical protein
+MOJNKLJB_00607	gene	609				
+MOJNKLJB_00607	CDS	609				hypothetical protein
+MOJNKLJB_00608	gene	1719				
+MOJNKLJB_00608	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+MOJNKLJB_00609	gene	945	msbA_1			
+MOJNKLJB_00609	CDS	945	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+MOJNKLJB_00610	gene	390				
+MOJNKLJB_00610	CDS	390				hypothetical protein
+MOJNKLJB_00611	gene	1218	tdcB			
+MOJNKLJB_00611	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+MOJNKLJB_00612	gene	378	yabJ			
+MOJNKLJB_00612	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+MOJNKLJB_00613	gene	2961				
+MOJNKLJB_00613	CDS	2961				hypothetical protein
+MOJNKLJB_00614	gene	2175	btuD_2			
+MOJNKLJB_00614	CDS	2175	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MOJNKLJB_00615	gene	768	prsA_1			
+MOJNKLJB_00615	CDS	768	prsA_1	5.2.1.8		Foldase protein PrsA
+MOJNKLJB_00616	gene	444				
+MOJNKLJB_00616	CDS	444				hypothetical protein
+MOJNKLJB_00617	gene	1662				
+MOJNKLJB_00617	CDS	1662				hypothetical protein
+MOJNKLJB_00618	gene	636	opuCD			
+MOJNKLJB_00618	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+MOJNKLJB_00619	gene	465	bcp			
+MOJNKLJB_00619	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+MOJNKLJB_00620	gene	2109	ligA			
+MOJNKLJB_00620	CDS	2109	ligA	6.5.1.2		DNA ligase
+MOJNKLJB_00621	gene	2472				
+MOJNKLJB_00621	CDS	2472				hypothetical protein
+MOJNKLJB_00622	gene	432				
+MOJNKLJB_00622	CDS	432				hypothetical protein
+MOJNKLJB_00623	gene	639				
+MOJNKLJB_00623	CDS	639				hypothetical protein
+MOJNKLJB_00624	gene	2241				
+MOJNKLJB_00624	CDS	2241				hypothetical protein
+MOJNKLJB_00625	gene	678	srtA			
+MOJNKLJB_00625	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+MOJNKLJB_00626	gene	1038	mepA_2			
+MOJNKLJB_00626	CDS	1038	mepA_2			Multidrug export protein MepA
+MOJNKLJB_00627	gene	396				
+MOJNKLJB_00627	CDS	396				hypothetical protein
+MOJNKLJB_00628	gene	1206	xseA			
+MOJNKLJB_00628	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+MOJNKLJB_00629	gene	246	xseB			
+MOJNKLJB_00629	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+MOJNKLJB_00630	gene	885				
+MOJNKLJB_00630	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+MOJNKLJB_00631	gene	432				
+MOJNKLJB_00631	CDS	432				hypothetical protein
+MOJNKLJB_00632	gene	1851	dxs			
+MOJNKLJB_00632	CDS	1851	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+MOJNKLJB_00633	gene	1227				
+MOJNKLJB_00633	CDS	1227		3.4.11.-		Aminopeptidase 2
+MOJNKLJB_00634	gene	582				
+MOJNKLJB_00634	CDS	582				hypothetical protein
+MOJNKLJB_00635	gene	552				
+MOJNKLJB_00635	CDS	552				hypothetical protein
+MOJNKLJB_00636	gene	765	rhaR_1			
+MOJNKLJB_00636	CDS	765	rhaR_1			HTH-type transcriptional activator RhaR
+MOJNKLJB_00637	gene	696	ispD			
+MOJNKLJB_00637	CDS	696	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+MOJNKLJB_00638	gene	474	ispF			
+MOJNKLJB_00638	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+MOJNKLJB_00639	gene	1416	glgA			
+MOJNKLJB_00639	CDS	1416	glgA	2.4.1.21	COG0297	Glycogen synthase
+MOJNKLJB_00640	gene	1107	glgD			
+MOJNKLJB_00640	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+MOJNKLJB_00641	gene	1173	glgC			
+MOJNKLJB_00641	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+MOJNKLJB_00642	gene	1080	glgB			
+MOJNKLJB_00642	CDS	1080	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+MOJNKLJB_00643	gene	609	plsY			
+MOJNKLJB_00643	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+MOJNKLJB_00644	gene	1329	der			
+MOJNKLJB_00644	CDS	1329	der		COG1160	GTPase Der
+MOJNKLJB_00645	gene	1281	walK			
+MOJNKLJB_00645	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+MOJNKLJB_00646	gene	681	phoP_2			
+MOJNKLJB_00646	CDS	681	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+MOJNKLJB_00647	gene	468	nrdR			
+MOJNKLJB_00647	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+MOJNKLJB_00648	gene	426	fabZ			
+MOJNKLJB_00648	CDS	426	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+MOJNKLJB_00649	gene	1236	fabF			
+MOJNKLJB_00649	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+MOJNKLJB_00650	gene	747	fabG_2			
+MOJNKLJB_00650	CDS	747	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MOJNKLJB_00651	gene	939	fabD			
+MOJNKLJB_00651	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+MOJNKLJB_00652	gene	939				
+MOJNKLJB_00652	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+MOJNKLJB_00653	gene	225	acpP_2			
+MOJNKLJB_00653	CDS	225	acpP_2		COG0236	Acyl carrier protein
+MOJNKLJB_00654	gene	858	pdxS			
+MOJNKLJB_00654	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+MOJNKLJB_00655	gene	885				
+MOJNKLJB_00655	CDS	885				hypothetical protein
+MOJNKLJB_00656	gene	1872	yjcD			
+MOJNKLJB_00656	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+MOJNKLJB_00657	gene	300				
+MOJNKLJB_00657	CDS	300				hypothetical protein
+MOJNKLJB_00658	gene	606	coaE			
+MOJNKLJB_00658	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+MOJNKLJB_00659	gene	561	mltC			
+MOJNKLJB_00659	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+MOJNKLJB_00660	gene	213				
+MOJNKLJB_00660	CDS	213				hypothetical protein
+MOJNKLJB_00661	gene	1431				
+MOJNKLJB_00661	CDS	1431				hypothetical protein
+MOJNKLJB_00662	gene	1344	rnfC			
+MOJNKLJB_00662	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+MOJNKLJB_00663	gene	969	malR			
+MOJNKLJB_00663	CDS	969	malR		COG1609	HTH-type transcriptional regulator MalR
+MOJNKLJB_00664	gene	1287				
+MOJNKLJB_00664	CDS	1287				hypothetical protein
+MOJNKLJB_00665	gene	873	melD			
+MOJNKLJB_00665	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+MOJNKLJB_00666	gene	822	melC			
+MOJNKLJB_00666	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+MOJNKLJB_00667	gene	1725				
+MOJNKLJB_00667	CDS	1725				hypothetical protein
+MOJNKLJB_00668	gene	549				
+MOJNKLJB_00668	CDS	549				hypothetical protein
+MOJNKLJB_00669	gene	339				
+MOJNKLJB_00669	CDS	339				hypothetical protein
+MOJNKLJB_00670	gene	297				
+MOJNKLJB_00670	CDS	297				hypothetical protein
+MOJNKLJB_00671	gene	1128				
+MOJNKLJB_00671	CDS	1128				hypothetical protein
+MOJNKLJB_00672	gene	1326	uvrC			
+MOJNKLJB_00672	CDS	1326	uvrC		COG0322	UvrABC system protein C
+MOJNKLJB_00673	gene	933	hprK			
+MOJNKLJB_00673	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+MOJNKLJB_00674	gene	921	murB			
+MOJNKLJB_00674	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+MOJNKLJB_00675	gene	738	ycdX			
+MOJNKLJB_00675	CDS	738	ycdX	3.1.3.-	COG1387	putative phosphatase YcdX
+MOJNKLJB_00676	gene	864	yvcJ			
+MOJNKLJB_00676	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+MOJNKLJB_00677	gene	399				
+MOJNKLJB_00677	CDS	399				hypothetical protein
+MOJNKLJB_00678	gene	1719				
+MOJNKLJB_00678	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MOJNKLJB_00679	gene	1743	msbA_2			
+MOJNKLJB_00679	CDS	1743	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+MOJNKLJB_00680	gene	588				
+MOJNKLJB_00680	CDS	588				hypothetical protein
+MOJNKLJB_00681	gene	450	metN_1			
+MOJNKLJB_00681	CDS	450	metN_1	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+MOJNKLJB_00682	gene	1209	nrdD			
+MOJNKLJB_00682	CDS	1209	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+MOJNKLJB_00683	gene	504	nrdG			
+MOJNKLJB_00683	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+MOJNKLJB_00684	gene	318	erpA			
+MOJNKLJB_00684	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+MOJNKLJB_00685	gene	858	trmB			
+MOJNKLJB_00685	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+MOJNKLJB_00686	gene	819				
+MOJNKLJB_00686	CDS	819				hypothetical protein
+MOJNKLJB_00687	gene	1608				
+MOJNKLJB_00687	CDS	1608				hypothetical protein
+MOJNKLJB_00688	gene	852				
+MOJNKLJB_00688	CDS	852				hypothetical protein
+MOJNKLJB_00689	gene	408				
+MOJNKLJB_00689	CDS	408				hypothetical protein
+MOJNKLJB_00690	gene	777				
+MOJNKLJB_00690	CDS	777				hypothetical protein
+MOJNKLJB_00691	gene	396				
+MOJNKLJB_00691	CDS	396				hypothetical protein
+MOJNKLJB_00692	gene	1521	metG			
+MOJNKLJB_00692	CDS	1521	metG	6.1.1.10		Methionine--tRNA ligase
+MOJNKLJB_00693	gene	771	ycfH			
+MOJNKLJB_00693	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+MOJNKLJB_00694	gene	1479				
+MOJNKLJB_00694	CDS	1479				hypothetical protein
+MOJNKLJB_00695	gene	804	proC			
+MOJNKLJB_00695	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+MOJNKLJB_00696	gene	1047	prfB			
+MOJNKLJB_00696	CDS	1047	prfB			Peptide chain release factor 2
+MOJNKLJB_00697	gene	999				
+MOJNKLJB_00697	CDS	999		1.1.1.28		D-lactate dehydrogenase
+MOJNKLJB_00698	gene	852	carE_2			
+MOJNKLJB_00698	CDS	852	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+MOJNKLJB_00699	gene	705				
+MOJNKLJB_00699	CDS	705				hypothetical protein
+MOJNKLJB_00700	gene	1389	gltD			
+MOJNKLJB_00700	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+MOJNKLJB_00701	gene	894				
+MOJNKLJB_00701	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+MOJNKLJB_00702	gene	321				
+MOJNKLJB_00702	CDS	321				hypothetical protein
+MOJNKLJB_00703	gene	462	cdd			
+MOJNKLJB_00703	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+MOJNKLJB_00704	gene	738				
+MOJNKLJB_00704	CDS	738				hypothetical protein
+MOJNKLJB_00705	gene	1320				
+MOJNKLJB_00705	CDS	1320				hypothetical protein
+MOJNKLJB_00706	gene	1188	smtB			
+MOJNKLJB_00706	CDS	1188	smtB	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase beta subunit
+MOJNKLJB_00707	gene	285				
+MOJNKLJB_00707	CDS	285				hypothetical protein
+MOJNKLJB_00708	gene	723				
+MOJNKLJB_00708	CDS	723			COG0217	putative transcriptional regulatory protein
+MOJNKLJB_00709	gene	759	nadE			
+MOJNKLJB_00709	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+MOJNKLJB_00710	gene	249				
+MOJNKLJB_00710	CDS	249				hypothetical protein
+MOJNKLJB_00711	gene	951				
+MOJNKLJB_00711	CDS	951				hypothetical protein
+MOJNKLJB_00712	gene	693	cugP			
+MOJNKLJB_00712	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+MOJNKLJB_00713	gene	1176	bdhA			
+MOJNKLJB_00713	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+MOJNKLJB_00714	gene	762	rpsB			
+MOJNKLJB_00714	CDS	762	rpsB			30S ribosomal protein S2
+MOJNKLJB_00715	gene	633				
+MOJNKLJB_00715	CDS	633				hypothetical protein
+MOJNKLJB_00716	gene	2514	mutS			
+MOJNKLJB_00716	CDS	2514	mutS			DNA mismatch repair protein MutS
+MOJNKLJB_00717	gene	2061	mutL			
+MOJNKLJB_00717	CDS	2061	mutL			DNA mismatch repair protein MutL
+MOJNKLJB_00718	gene	903	era			
+MOJNKLJB_00718	CDS	903	era			GTPase Era
+MOJNKLJB_00719	gene	1377				
+MOJNKLJB_00719	CDS	1377			COG2239	Magnesium transporter MgtE
+MOJNKLJB_00720	gene	747	recO			
+MOJNKLJB_00720	CDS	747	recO		COG1381	DNA repair protein RecO
+MOJNKLJB_00721	gene	609				
+MOJNKLJB_00721	CDS	609				hypothetical protein
+MOJNKLJB_00722	gene	885	glyQ			
+MOJNKLJB_00722	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+MOJNKLJB_00723	gene	552	trpP			
+MOJNKLJB_00723	CDS	552	trpP			putative tryptophan transport protein
+MOJNKLJB_00724	gene	2415				
+MOJNKLJB_00724	CDS	2415				hypothetical protein
+MOJNKLJB_00725	gene	651				
+MOJNKLJB_00725	CDS	651				hypothetical protein
+MOJNKLJB_00726	gene	447	btuD_3			
+MOJNKLJB_00726	CDS	447	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MOJNKLJB_00727	gene	1062	prsA_2			
+MOJNKLJB_00727	CDS	1062	prsA_2	5.2.1.8		Foldase protein PrsA
+MOJNKLJB_00728	gene	3405	mfd			
+MOJNKLJB_00728	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+MOJNKLJB_00729	gene	222	pth			
+MOJNKLJB_00729	CDS	222	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+MOJNKLJB_00730	gene	984	asd_2			
+MOJNKLJB_00730	CDS	984	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+MOJNKLJB_00731	gene	1206	lysC			
+MOJNKLJB_00731	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+MOJNKLJB_00732	gene	654				
+MOJNKLJB_00732	CDS	654				hypothetical protein
+MOJNKLJB_00733	gene	828	exoA			
+MOJNKLJB_00733	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+MOJNKLJB_00734	gene	1404	bioB			
+MOJNKLJB_00734	CDS	1404	bioB	2.8.1.6		Biotin synthase
+MOJNKLJB_00735	gene	135				
+MOJNKLJB_00735	CDS	135				hypothetical protein
+MOJNKLJB_00736	gene	1053				
+MOJNKLJB_00736	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+MOJNKLJB_00737	gene	246				
+MOJNKLJB_00737	CDS	246				hypothetical protein
+MOJNKLJB_00738	gene	978	fruA			
+MOJNKLJB_00738	CDS	978	fruA		COG1299	PTS system fructose-specific EIIABC component
+MOJNKLJB_00739	gene	777	codY			
+MOJNKLJB_00739	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+MOJNKLJB_00740	gene	1272	rarA			
+MOJNKLJB_00740	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+MOJNKLJB_00741	gene	465	cymR			
+MOJNKLJB_00741	CDS	465	cymR			HTH-type transcriptional regulator CymR
+MOJNKLJB_00742	gene	1053	mnmA			
+MOJNKLJB_00742	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+MOJNKLJB_00743	gene	750	cobB			
+MOJNKLJB_00743	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+MOJNKLJB_00744	gene	519	scpB			
+MOJNKLJB_00744	CDS	519	scpB		COG1386	Segregation and condensation protein B
+MOJNKLJB_00745	gene	762	scpA			
+MOJNKLJB_00745	CDS	762	scpA		COG1354	Segregation and condensation protein A
+MOJNKLJB_00746	gene	633				
+MOJNKLJB_00746	CDS	633				hypothetical protein
+MOJNKLJB_00747	gene	1671	rnjA			
+MOJNKLJB_00747	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+MOJNKLJB_00748	gene	882				
+MOJNKLJB_00748	CDS	882				hypothetical protein
+MOJNKLJB_00749	gene	1050	mreB_1			
+MOJNKLJB_00749	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+MOJNKLJB_00750	gene	687				
+MOJNKLJB_00750	CDS	687				hypothetical protein
+MOJNKLJB_00751	gene	864	rnfB			
+MOJNKLJB_00751	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+MOJNKLJB_00752	gene	399	rnfA			
+MOJNKLJB_00752	CDS	399	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+MOJNKLJB_00753	gene	348				
+MOJNKLJB_00753	CDS	348				hypothetical protein
+MOJNKLJB_00754	gene	1551	ybiT			
+MOJNKLJB_00754	CDS	1551	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+MOJNKLJB_00755	gene	1551	rsxB			
+MOJNKLJB_00755	CDS	1551	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+MOJNKLJB_00756	gene	1224	tyrS			
+MOJNKLJB_00756	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+MOJNKLJB_00757	gene	1158				
+MOJNKLJB_00757	CDS	1158				hypothetical protein
+MOJNKLJB_00758	gene	741	trmD			
+MOJNKLJB_00758	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+MOJNKLJB_00759	gene	519	rimM			
+MOJNKLJB_00759	CDS	519	rimM			Ribosome maturation factor RimM
+MOJNKLJB_00760	gene	1293				
+MOJNKLJB_00760	CDS	1293				hypothetical protein
+MOJNKLJB_00761	gene	1617	deaD			
+MOJNKLJB_00761	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+MOJNKLJB_00762	gene	942	ftsI			
+MOJNKLJB_00762	CDS	942	ftsI	3.4.16.4		Peptidoglycan D,D-transpeptidase FtsI
+MOJNKLJB_00763	gene	903	truB			
+MOJNKLJB_00763	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+MOJNKLJB_00764	gene	1038	nrnA			
+MOJNKLJB_00764	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+MOJNKLJB_00765	gene	705	srtD			
+MOJNKLJB_00765	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+MOJNKLJB_00766	gene	1056	cna			
+MOJNKLJB_00766	CDS	1056	cna			Collagen adhesin
+MOJNKLJB_00767	gene	885	rbgA			
+MOJNKLJB_00767	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+MOJNKLJB_00768	gene	1164	alr1			
+MOJNKLJB_00768	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+MOJNKLJB_00769	gene	792	rnhB			
+MOJNKLJB_00769	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MOJNKLJB_00770	gene	1017	hmo_1			
+MOJNKLJB_00770	CDS	1017	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+MOJNKLJB_00771	gene	1761				
+MOJNKLJB_00771	CDS	1761				hypothetical protein
+MOJNKLJB_00772	gene	1515				
+MOJNKLJB_00772	CDS	1515				hypothetical protein
+MOJNKLJB_00773	gene	546	dapA_2			
+MOJNKLJB_00773	CDS	546	dapA_2	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+MOJNKLJB_00774	gene	732	dapB			
+MOJNKLJB_00774	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+MOJNKLJB_00775	gene	720	dapH			
+MOJNKLJB_00775	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+MOJNKLJB_00776	gene	1152	scmP			
+MOJNKLJB_00776	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+MOJNKLJB_00777	gene	1896	ftsH4			
+MOJNKLJB_00777	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+MOJNKLJB_00778	gene	489				
+MOJNKLJB_00778	CDS	489				hypothetical protein
+MOJNKLJB_00779	gene	636	lexA			
+MOJNKLJB_00779	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+MOJNKLJB_00780	gene	615	xerC_2			
+MOJNKLJB_00780	CDS	615	xerC_2			Tyrosine recombinase XerC
+MOJNKLJB_00781	gene	246				
+MOJNKLJB_00781	CDS	246				hypothetical protein
+MOJNKLJB_00782	gene	1956				
+MOJNKLJB_00782	CDS	1956				hypothetical protein
+MOJNKLJB_00783	gene	1284	brnQ_3			
+MOJNKLJB_00783	CDS	1284	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MOJNKLJB_00784	gene	963	srfAB			
+MOJNKLJB_00784	CDS	963	srfAB			Surfactin synthase subunit 2
+MOJNKLJB_00785	gene	735				
+MOJNKLJB_00785	CDS	735				hypothetical protein
+MOJNKLJB_00786	gene	834	dpnM			
+MOJNKLJB_00786	CDS	834	dpnM	2.1.1.72		Modification methylase DpnIIA
+MOJNKLJB_00787	gene	813	dpnA			
+MOJNKLJB_00787	CDS	813	dpnA	2.1.1.72		Modification methylase DpnIIB
+MOJNKLJB_00788	gene	843	hemC			
+MOJNKLJB_00788	CDS	843	hemC	2.5.1.61		Porphobilinogen deaminase
+MOJNKLJB_00789	gene	1524	cysG_1			
+MOJNKLJB_00789	CDS	1524	cysG_1	4.99.1.4		Siroheme synthase
+MOJNKLJB_00790	gene	969	hemB			
+MOJNKLJB_00790	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+MOJNKLJB_00791	gene	477	cysG_2			
+MOJNKLJB_00791	CDS	477	cysG_2		COG0007	Siroheme synthase
+MOJNKLJB_00792	gene	702				
+MOJNKLJB_00792	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+MOJNKLJB_00793	gene	495	sepF			
+MOJNKLJB_00793	CDS	495	sepF			Cell division protein SepF
+MOJNKLJB_00794	gene	258				
+MOJNKLJB_00794	CDS	258				hypothetical protein
+MOJNKLJB_00795	gene	786				
+MOJNKLJB_00795	CDS	786				hypothetical protein
+MOJNKLJB_00796	gene	654	gpsB			
+MOJNKLJB_00796	CDS	654	gpsB			Cell cycle protein GpsB
+MOJNKLJB_00797	gene	144				
+MOJNKLJB_00797	CDS	144				hypothetical protein
+MOJNKLJB_00798	gene	414				
+MOJNKLJB_00798	CDS	414				hypothetical protein
+MOJNKLJB_00799	gene	1380	tilS			
+MOJNKLJB_00799	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+MOJNKLJB_00800	gene	2043	ftsH			
+MOJNKLJB_00800	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+MOJNKLJB_00801	gene	492	ycdZ			
+MOJNKLJB_00801	CDS	492	ycdZ			Inner membrane protein YcdZ
+MOJNKLJB_00802	gene	870	sigF			
+MOJNKLJB_00802	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+MOJNKLJB_00803	gene	531				
+MOJNKLJB_00803	CDS	531				hypothetical protein
+MOJNKLJB_00804	gene	1827	glmS			
+MOJNKLJB_00804	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+MOJNKLJB_00805	gene	1401				
+MOJNKLJB_00805	CDS	1401				hypothetical protein
+MOJNKLJB_00806	gene	1008				
+MOJNKLJB_00806	CDS	1008				hypothetical protein
+MOJNKLJB_00807	gene	1326	pepC			
+MOJNKLJB_00807	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+MOJNKLJB_00808	gene	1083	hhoB			
+MOJNKLJB_00808	CDS	1083	hhoB			Putative serine protease HhoB
+MOJNKLJB_00809	gene	192				
+MOJNKLJB_00809	CDS	192				hypothetical protein
+MOJNKLJB_00810	gene	183				
+MOJNKLJB_00810	CDS	183				hypothetical protein
+MOJNKLJB_00811	gene	2928	pycA			
+MOJNKLJB_00811	CDS	2928	pycA	6.4.1.1		Pyruvate carboxylase
+MOJNKLJB_00812	gene	702				
+MOJNKLJB_00812	CDS	702				hypothetical protein
+MOJNKLJB_00813	gene	120				
+MOJNKLJB_00813	CDS	120				hypothetical protein
+MOJNKLJB_00814	gene	267	rpsT			
+MOJNKLJB_00814	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+MOJNKLJB_00815	gene	1806	lepA			
+MOJNKLJB_00815	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+MOJNKLJB_00816	gene	525				
+MOJNKLJB_00816	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+MOJNKLJB_00817	gene	1428	apeB			
+MOJNKLJB_00817	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+MOJNKLJB_00818	gene	1782	rep			
+MOJNKLJB_00818	CDS	1782	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+MOJNKLJB_00819	gene	726	tauB			
+MOJNKLJB_00819	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+MOJNKLJB_00820	gene	1023	thiY			
+MOJNKLJB_00820	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+MOJNKLJB_00821	gene	762	ribX			
+MOJNKLJB_00821	CDS	762	ribX			Riboflavin transport system permease protein RibX
+MOJNKLJB_00822	gene	291				
+MOJNKLJB_00822	CDS	291				hypothetical protein
+MOJNKLJB_00823	gene	603	nudL			
+MOJNKLJB_00823	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+MOJNKLJB_00824	gene	1377	alsT_2			
+MOJNKLJB_00824	CDS	1377	alsT_2		COG1115	Amino-acid carrier protein AlsT
+MOJNKLJB_00825	gene	195				
+MOJNKLJB_00825	CDS	195				hypothetical protein
+MOJNKLJB_00826	gene	2154	ptsG			
+MOJNKLJB_00826	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+MOJNKLJB_00827	gene	681				
+MOJNKLJB_00827	CDS	681				hypothetical protein
+MOJNKLJB_00828	gene	219				
+MOJNKLJB_00828	CDS	219				hypothetical protein
+MOJNKLJB_00829	gene	207	typA			
+MOJNKLJB_00829	CDS	207	typA		COG1217	GTP-binding protein TypA/BipA 
+MOJNKLJB_00830	gene	705				
+MOJNKLJB_00830	CDS	705				hypothetical protein
+MOJNKLJB_00831	gene	936	corA			
+MOJNKLJB_00831	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+MOJNKLJB_00832	gene	1620				
+MOJNKLJB_00832	CDS	1620				hypothetical protein
+MOJNKLJB_00833	gene	1818				
+MOJNKLJB_00833	CDS	1818				hypothetical protein
+MOJNKLJB_00834	gene	1371	ntpJ			
+MOJNKLJB_00834	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+MOJNKLJB_00835	gene	795	fldI			
+MOJNKLJB_00835	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+MOJNKLJB_00836	gene	621	ribU			
+MOJNKLJB_00836	CDS	621	ribU			Riboflavin transporter RibU
+MOJNKLJB_00837	gene	519	yhgF			
+MOJNKLJB_00837	CDS	519	yhgF		COG2183	Protein YhgF
+MOJNKLJB_00838	gene	1425	purB			
+MOJNKLJB_00838	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+MOJNKLJB_00839	gene	1278	purA			
+MOJNKLJB_00839	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+MOJNKLJB_00840	gene	1392	nhaC			
+MOJNKLJB_00840	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+MOJNKLJB_00841	gene	942				
+MOJNKLJB_00841	CDS	942				IS481 family transposase ISSsu8
+MOJNKLJB_00842	gene	1254				
+MOJNKLJB_00842	CDS	1254				hypothetical protein
+MOJNKLJB_00843	gene	918				
+MOJNKLJB_00843	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+MOJNKLJB_00844	gene	1071				
+MOJNKLJB_00844	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+MOJNKLJB_00845	gene	966	whiA			
+MOJNKLJB_00845	CDS	966	whiA		COG1481	putative cell division protein WhiA
+MOJNKLJB_00846	gene	417	ndx1			
+MOJNKLJB_00846	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+MOJNKLJB_00847	gene	1020				
+MOJNKLJB_00847	CDS	1020			COG0391	Gluconeogenesis factor
+MOJNKLJB_00848	gene	837	ypfD			
+MOJNKLJB_00848	CDS	837	ypfD		COG0539	30S ribosomal protein S1 
+MOJNKLJB_00849	gene	1422				
+MOJNKLJB_00849	CDS	1422				hypothetical protein
+MOJNKLJB_00850	gene	486				
+MOJNKLJB_00850	CDS	486				hypothetical protein
+MOJNKLJB_00851	gene	720				
+MOJNKLJB_00851	CDS	720				hypothetical protein
+MOJNKLJB_00852	gene	1095				
+MOJNKLJB_00852	CDS	1095				hypothetical protein
+MOJNKLJB_00853	gene	1182				
+MOJNKLJB_00853	CDS	1182		2.6.1.1		Aspartate aminotransferase
+MOJNKLJB_00854	gene	579	rne			
+MOJNKLJB_00854	CDS	579	rne	3.1.26.12		Ribonuclease E
+MOJNKLJB_00855	gene	921	rbn			
+MOJNKLJB_00855	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+MOJNKLJB_00856	gene	462	crcB_1			
+MOJNKLJB_00856	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+MOJNKLJB_00857	gene	348	crcB_2			
+MOJNKLJB_00857	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+MOJNKLJB_00858	gene	333				
+MOJNKLJB_00858	CDS	333				hypothetical protein
+MOJNKLJB_00859	gene	3390				
+MOJNKLJB_00859	CDS	3390				hypothetical protein
+MOJNKLJB_00860	gene	768	coaX			
+MOJNKLJB_00860	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+MOJNKLJB_00861	gene	573	dusB_1			
+MOJNKLJB_00861	CDS	573	dusB_1	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+MOJNKLJB_00862	gene	297	dusB_2			
+MOJNKLJB_00862	CDS	297	dusB_2	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+MOJNKLJB_00863	gene	1548	carA_2			
+MOJNKLJB_00863	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+MOJNKLJB_00864	gene	1053	ltaE			
+MOJNKLJB_00864	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+MOJNKLJB_00865	gene	1356	prpC			
+MOJNKLJB_00865	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+MOJNKLJB_00866	gene	177				
+MOJNKLJB_00866	CDS	177				hypothetical protein
+MOJNKLJB_00867	gene	411				
+MOJNKLJB_00867	CDS	411				hypothetical protein
+MOJNKLJB_00868	gene	642				
+MOJNKLJB_00868	CDS	642				hypothetical protein
+MOJNKLJB_00869	gene	813				
+MOJNKLJB_00869	CDS	813				hypothetical protein
+MOJNKLJB_00870	gene	1311	tmcAL			
+MOJNKLJB_00870	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+MOJNKLJB_00871	gene	546				
+MOJNKLJB_00871	CDS	546			COG3599	putative protein
+MOJNKLJB_00872	gene	483	coaD			
+MOJNKLJB_00872	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+MOJNKLJB_00873	gene	561	rsmD			
+MOJNKLJB_00873	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+MOJNKLJB_00874	gene	825				
+MOJNKLJB_00874	CDS	825				hypothetical protein
+MOJNKLJB_00875	gene	693				
+MOJNKLJB_00875	CDS	693				hypothetical protein
+MOJNKLJB_00876	gene	1056	epsF			
+MOJNKLJB_00876	CDS	1056	epsF		COG1459	Type II secretion system protein F
+MOJNKLJB_00877	gene	153				
+MOJNKLJB_00877	CDS	153				hypothetical protein
+MOJNKLJB_00878	gene	1047	xerC_3			
+MOJNKLJB_00878	CDS	1047	xerC_3			Tyrosine recombinase XerC
+MOJNKLJB_00879	gene	1164	ugtP_2			
+MOJNKLJB_00879	CDS	1164	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+MOJNKLJB_00880	gene	465				
+MOJNKLJB_00880	CDS	465				hypothetical protein
+MOJNKLJB_00881	gene	651				
+MOJNKLJB_00881	CDS	651				hypothetical protein
+MOJNKLJB_00882	gene	525				
+MOJNKLJB_00882	CDS	525				hypothetical protein
+MOJNKLJB_00883	gene	1332	relA			
+MOJNKLJB_00883	CDS	1332	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+MOJNKLJB_00884	gene	450	dtd			
+MOJNKLJB_00884	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+MOJNKLJB_00885	gene	627	gloC			
+MOJNKLJB_00885	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+MOJNKLJB_00886	gene	363				
+MOJNKLJB_00886	CDS	363				hypothetical protein
+MOJNKLJB_00887	gene	1617	comM			
+MOJNKLJB_00887	CDS	1617	comM		COG0606	Competence protein ComM
+MOJNKLJB_00888	gene	1257				
+MOJNKLJB_00888	CDS	1257				hypothetical protein
+MOJNKLJB_00889	gene	471				
+MOJNKLJB_00889	CDS	471				hypothetical protein
+MOJNKLJB_00890	gene	825	metQ			
+MOJNKLJB_00890	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+MOJNKLJB_00891	gene	654	metP			
+MOJNKLJB_00891	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+MOJNKLJB_00892	gene	969	metN_2			
+MOJNKLJB_00892	CDS	969	metN_2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+MOJNKLJB_00893	gene	252				
+MOJNKLJB_00893	CDS	252				hypothetical protein
+MOJNKLJB_00894	gene	555				
+MOJNKLJB_00894	CDS	555		3.1.3.-	COG5663	Nucleotidase
+MOJNKLJB_00895	gene	708				
+MOJNKLJB_00895	CDS	708				hypothetical protein
+MOJNKLJB_00896	gene	786				
+MOJNKLJB_00896	CDS	786				hypothetical protein
+MOJNKLJB_00897	gene	339				
+MOJNKLJB_00897	CDS	339				hypothetical protein
+MOJNKLJB_00898	gene	696				
+MOJNKLJB_00898	CDS	696				hypothetical protein
+MOJNKLJB_00899	gene	579	pepT_1			
+MOJNKLJB_00899	CDS	579	pepT_1	3.4.11.4	COG2195	Peptidase T
+MOJNKLJB_00900	gene	603	pepT_2			
+MOJNKLJB_00900	CDS	603	pepT_2	3.4.11.4	COG2195	Peptidase T
+MOJNKLJB_00901	gene	75				
+MOJNKLJB_00901	tRNA	75				tRNA-Arg(tcg)
+MOJNKLJB_00902	gene	402				
+MOJNKLJB_00902	CDS	402				hypothetical protein
+MOJNKLJB_00903	gene	783				
+MOJNKLJB_00903	CDS	783				hypothetical protein
+MOJNKLJB_00904	gene	897	ispE			
+MOJNKLJB_00904	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MOJNKLJB_00905	gene	678	rspR_2			
+MOJNKLJB_00905	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+MOJNKLJB_00906	gene	1530				
+MOJNKLJB_00906	CDS	1530				hypothetical protein
+MOJNKLJB_00907	gene	834				
+MOJNKLJB_00907	CDS	834		1.-.-.-		putative oxidoreductase
+MOJNKLJB_00908	gene	312	rpsJ			
+MOJNKLJB_00908	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+MOJNKLJB_00909	gene	954				
+MOJNKLJB_00909	CDS	954				hypothetical protein
+MOJNKLJB_00910	gene	651				
+MOJNKLJB_00910	CDS	651				hypothetical protein
+MOJNKLJB_00911	gene	486				
+MOJNKLJB_00911	CDS	486				hypothetical protein
+MOJNKLJB_00912	gene	345				
+MOJNKLJB_00912	CDS	345				hypothetical protein
+MOJNKLJB_00913	gene	1218				
+MOJNKLJB_00913	CDS	1218		6.3.1.12		D-aspartate ligase
+MOJNKLJB_00914	gene	720				
+MOJNKLJB_00914	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+MOJNKLJB_00915	gene	354				
+MOJNKLJB_00915	CDS	354				hypothetical protein
+MOJNKLJB_00916	gene	357				
+MOJNKLJB_00916	CDS	357				hypothetical protein
+MOJNKLJB_00917	gene	384	ziaR			
+MOJNKLJB_00917	CDS	384	ziaR			Transcriptional repressor SmtB 
+MOJNKLJB_00918	gene	1137				
+MOJNKLJB_00918	CDS	1137				TelA-like protein
+MOJNKLJB_00919	gene	1155				
+MOJNKLJB_00919	CDS	1155				hypothetical protein
+MOJNKLJB_00920	gene	516	glnQ			
+MOJNKLJB_00920	CDS	516	glnQ			Glutamine transport ATP-binding protein GlnQ
+MOJNKLJB_00921	gene	1365	murD			
+MOJNKLJB_00921	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MOJNKLJB_00922	gene	1098	murG			
+MOJNKLJB_00922	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MOJNKLJB_00923	gene	141				
+MOJNKLJB_00923	CDS	141				hypothetical protein
+MOJNKLJB_00924	gene	636	fchA			
+MOJNKLJB_00924	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+MOJNKLJB_00925	gene	858	folD			
+MOJNKLJB_00925	CDS	858	folD			Bifunctional protein FolD protein
+MOJNKLJB_00926	gene	582				
+MOJNKLJB_00926	CDS	582				hypothetical protein
+MOJNKLJB_00927	gene	711				
+MOJNKLJB_00927	CDS	711				hypothetical protein
+MOJNKLJB_00928	gene	648	corC			
+MOJNKLJB_00928	CDS	648	corC		COG4535	Magnesium and cobalt efflux protein CorC
+MOJNKLJB_00929	gene	738				
+MOJNKLJB_00929	CDS	738				hypothetical protein
+MOJNKLJB_00930	gene	192				
+MOJNKLJB_00930	CDS	192				hypothetical protein
+MOJNKLJB_00931	gene	85				
+MOJNKLJB_00931	tRNA	85				tRNA-Leu(caa)
+MOJNKLJB_00932	gene	945	hmo_2			
+MOJNKLJB_00932	CDS	945	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+MOJNKLJB_00933	gene	939				
+MOJNKLJB_00933	CDS	939				hypothetical protein
+MOJNKLJB_00934	gene	576				
+MOJNKLJB_00934	CDS	576				hypothetical protein
+MOJNKLJB_00935	gene	582	pyrE			
+MOJNKLJB_00935	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+MOJNKLJB_00936	gene	774				
+MOJNKLJB_00936	CDS	774				hypothetical protein
+MOJNKLJB_00937	gene	675	ecfT_2			
+MOJNKLJB_00937	CDS	675	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+MOJNKLJB_00938	gene	399	mshA			
+MOJNKLJB_00938	CDS	399	mshA	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+MOJNKLJB_00939	gene	1446	fcl			
+MOJNKLJB_00939	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+MOJNKLJB_00940	gene	513	sigM_2			
+MOJNKLJB_00940	CDS	513	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+MOJNKLJB_00941	gene	1098	ychF			
+MOJNKLJB_00941	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+MOJNKLJB_00942	gene	1317	cpdA_1			
+MOJNKLJB_00942	CDS	1317	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MOJNKLJB_00943	gene	75				
+MOJNKLJB_00943	tRNA	75				tRNA-Arg(acg)
+MOJNKLJB_00944	gene	1380	mnmE			
+MOJNKLJB_00944	CDS	1380	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+MOJNKLJB_00945	gene	834	purR			
+MOJNKLJB_00945	CDS	834	purR		COG0503	Pur operon repressor
+MOJNKLJB_00946	gene	651				
+MOJNKLJB_00946	CDS	651				hypothetical protein
+MOJNKLJB_00947	gene	2274				
+MOJNKLJB_00947	CDS	2274				hypothetical protein
+MOJNKLJB_00948	gene	135				
+MOJNKLJB_00948	CDS	135				hypothetical protein
+MOJNKLJB_00949	gene	537	regX3_3			
+MOJNKLJB_00949	CDS	537	regX3_3		COG0745	Sensory transduction protein regX3
+MOJNKLJB_00950	gene	1374	adeP			
+MOJNKLJB_00950	CDS	1374	adeP		COG2252	Adenine permease AdeP
+MOJNKLJB_00951	gene	606				
+MOJNKLJB_00951	CDS	606				hypothetical protein
+MOJNKLJB_00952	gene	675	ung			
+MOJNKLJB_00952	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MOJNKLJB_00953	gene	375				
+MOJNKLJB_00953	CDS	375				hypothetical protein
+MOJNKLJB_00954	gene	1050	apbE			
+MOJNKLJB_00954	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+MOJNKLJB_00955	gene	636	tuaG_1			
+MOJNKLJB_00955	CDS	636	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+MOJNKLJB_00956	gene	813				
+MOJNKLJB_00956	CDS	813				hypothetical protein
+MOJNKLJB_00957	gene	1188	tagF			
+MOJNKLJB_00957	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+MOJNKLJB_00958	gene	1251	dinB			
+MOJNKLJB_00958	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+MOJNKLJB_00959	gene	849	nadC			
+MOJNKLJB_00959	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MOJNKLJB_00960	gene	522				
+MOJNKLJB_00960	CDS	522				hypothetical protein
+MOJNKLJB_00961	gene	558				
+MOJNKLJB_00961	CDS	558				hypothetical protein
+MOJNKLJB_00962	gene	1440	miaB			
+MOJNKLJB_00962	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MOJNKLJB_00963	gene	1032				
+MOJNKLJB_00963	CDS	1032				hypothetical protein
+MOJNKLJB_00964	gene	108				
+MOJNKLJB_00964	CDS	108				hypothetical protein
+MOJNKLJB_00965	gene	1551				
+MOJNKLJB_00965	CDS	1551				hypothetical protein
+MOJNKLJB_00966	gene	1281	serS			
+MOJNKLJB_00966	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+MOJNKLJB_00967	gene	399				
+MOJNKLJB_00967	CDS	399				hypothetical protein
+MOJNKLJB_00968	gene	777	rsmE			
+MOJNKLJB_00968	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+MOJNKLJB_00969	gene	951	prmA			
+MOJNKLJB_00969	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+MOJNKLJB_00970	gene	567	cbiT			
+MOJNKLJB_00970	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+MOJNKLJB_00971	gene	759	cbiF			
+MOJNKLJB_00971	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+MOJNKLJB_00972	gene	1200	cbiG			
+MOJNKLJB_00972	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+MOJNKLJB_00973	gene	1293	dltA			
+MOJNKLJB_00973	CDS	1293	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+MOJNKLJB_00974	gene	1161				
+MOJNKLJB_00974	CDS	1161				hypothetical protein
+MOJNKLJB_00975	gene	237	dltC			
+MOJNKLJB_00975	CDS	237	dltC		COG0236	D-alanyl carrier protein
+MOJNKLJB_00976	gene	1491	murJ			
+MOJNKLJB_00976	CDS	1491	murJ		COG2244	Lipid II flippase MurJ
+MOJNKLJB_00977	gene	1014				
+MOJNKLJB_00977	CDS	1014				hypothetical protein
+MOJNKLJB_00978	gene	282	hup			
+MOJNKLJB_00978	CDS	282	hup			DNA-binding protein HU
+MOJNKLJB_00979	gene	1749				
+MOJNKLJB_00979	CDS	1749				hypothetical protein
+MOJNKLJB_00980	gene	819				
+MOJNKLJB_00980	CDS	819				hypothetical protein
+MOJNKLJB_00981	gene	1266	cinA			
+MOJNKLJB_00981	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+MOJNKLJB_00982	gene	804	ywpJ			
+MOJNKLJB_00982	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+MOJNKLJB_00983	gene	744				
+MOJNKLJB_00983	CDS	744				hypothetical protein
+MOJNKLJB_00984	gene	2109	nrdE			
+MOJNKLJB_00984	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+MOJNKLJB_00985	gene	201				
+MOJNKLJB_00985	CDS	201				hypothetical protein
+MOJNKLJB_00986	gene	2268	copA			
+MOJNKLJB_00986	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+MOJNKLJB_00987	gene	246				
+MOJNKLJB_00987	CDS	246				hypothetical protein
+MOJNKLJB_00988	gene	444				
+MOJNKLJB_00988	CDS	444				hypothetical protein
+MOJNKLJB_00989	gene	2337				
+MOJNKLJB_00989	CDS	2337				hypothetical protein
+MOJNKLJB_00990	gene	1365				
+MOJNKLJB_00990	CDS	1365				hypothetical protein
+MOJNKLJB_00991	gene	864	rlmL_2			
+MOJNKLJB_00991	CDS	864	rlmL_2		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+MOJNKLJB_00992	gene	1443	glgP			
+MOJNKLJB_00992	CDS	1443	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+MOJNKLJB_00993	gene	2652	valS			
+MOJNKLJB_00993	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+MOJNKLJB_00994	gene	873	moaA			
+MOJNKLJB_00994	CDS	873	moaA	4.1.99.22		GTP 3',8-cyclase
+MOJNKLJB_00995	gene	1365				
+MOJNKLJB_00995	CDS	1365				hypothetical protein
+MOJNKLJB_00996	gene	510				
+MOJNKLJB_00996	CDS	510				hypothetical protein
+MOJNKLJB_00997	gene	1821				
+MOJNKLJB_00997	CDS	1821				hypothetical protein
+MOJNKLJB_00998	gene	879	rsmA			
+MOJNKLJB_00998	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+MOJNKLJB_00999	gene	555	rnmV			
+MOJNKLJB_00999	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+MOJNKLJB_01000	gene	516				
+MOJNKLJB_01000	CDS	516				hypothetical protein
+MOJNKLJB_01001	gene	1668	mnmG			
+MOJNKLJB_01001	CDS	1668	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MOJNKLJB_01002	gene	729	rsmG			
+MOJNKLJB_01002	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+MOJNKLJB_01003	gene	279				
+MOJNKLJB_01003	CDS	279				hypothetical protein
+MOJNKLJB_01004	gene	672	lolD			
+MOJNKLJB_01004	CDS	672	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MOJNKLJB_01005	gene	1401	asnS			
+MOJNKLJB_01005	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+MOJNKLJB_01006	gene	894				
+MOJNKLJB_01006	CDS	894				hypothetical protein
+MOJNKLJB_01007	gene	1317	aroA			
+MOJNKLJB_01007	CDS	1317	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+MOJNKLJB_01008	gene	1077	aroC			
+MOJNKLJB_01008	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+MOJNKLJB_01009	gene	429	rplM			
+MOJNKLJB_01009	CDS	429	rplM		COG0102	50S ribosomal protein L13
+MOJNKLJB_01010	gene	393	rpsI			
+MOJNKLJB_01010	CDS	393	rpsI			30S ribosomal protein S9
+MOJNKLJB_01011	gene	411				
+MOJNKLJB_01011	CDS	411				hypothetical protein
+MOJNKLJB_01012	gene	1053	xerC_4			
+MOJNKLJB_01012	CDS	1053	xerC_4			Tyrosine recombinase XerC
+MOJNKLJB_01013	gene	1575	lysS			
+MOJNKLJB_01013	CDS	1575	lysS	6.1.1.6		Lysine--tRNA ligase
+MOJNKLJB_01014	gene	486	greA			
+MOJNKLJB_01014	CDS	486	greA		COG0782	Transcription elongation factor GreA
+MOJNKLJB_01015	gene	90				
+MOJNKLJB_01015	CDS	90				hypothetical protein
+MOJNKLJB_01016	gene	1254	murAA			
+MOJNKLJB_01016	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+MOJNKLJB_01017	gene	1011	mreB_2			
+MOJNKLJB_01017	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+MOJNKLJB_01018	gene	195				
+MOJNKLJB_01018	CDS	195				hypothetical protein
+MOJNKLJB_01019	gene	1230				
+MOJNKLJB_01019	CDS	1230				hypothetical protein
+MOJNKLJB_01020	gene	651	tal			
+MOJNKLJB_01020	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+MOJNKLJB_01021	gene	591				
+MOJNKLJB_01021	CDS	591				hypothetical protein
+MOJNKLJB_01022	gene	1305	pdp			
+MOJNKLJB_01022	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+MOJNKLJB_01023	gene	786	cmpR			
+MOJNKLJB_01023	CDS	786	cmpR			HTH-type transcriptional activator CmpR
+MOJNKLJB_01024	gene	201				
+MOJNKLJB_01024	CDS	201				hypothetical protein
+MOJNKLJB_01025	gene	1404	lysN_2			
+MOJNKLJB_01025	CDS	1404	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+MOJNKLJB_01026	gene	228				
+MOJNKLJB_01026	CDS	228				hypothetical protein
+MOJNKLJB_01027	gene	147				
+MOJNKLJB_01027	CDS	147				hypothetical protein
+MOJNKLJB_01028	gene	1473				
+MOJNKLJB_01028	CDS	1473				hypothetical protein
+MOJNKLJB_01029	gene	447				
+MOJNKLJB_01029	CDS	447				hypothetical protein
+MOJNKLJB_01030	gene	702				
+MOJNKLJB_01030	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+MOJNKLJB_01031	gene	1548	pyk			
+MOJNKLJB_01031	CDS	1548	pyk	2.7.1.40		Pyruvate kinase
+MOJNKLJB_01032	gene	249	rcsC			
+MOJNKLJB_01032	CDS	249	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+MOJNKLJB_01033	gene	1353	mepA_3			
+MOJNKLJB_01033	CDS	1353	mepA_3		COG0534	Multidrug export protein MepA
+MOJNKLJB_01034	gene	843				
+MOJNKLJB_01034	CDS	843				hypothetical protein
+MOJNKLJB_01035	gene	276	cadA			
+MOJNKLJB_01035	CDS	276	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+MOJNKLJB_01036	gene	927				
+MOJNKLJB_01036	CDS	927				hypothetical protein
+MOJNKLJB_01037	gene	822	thiD			
+MOJNKLJB_01037	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+MOJNKLJB_01038	gene	549				
+MOJNKLJB_01038	CDS	549				hypothetical protein
+MOJNKLJB_01039	gene	831				
+MOJNKLJB_01039	CDS	831				hypothetical protein
+MOJNKLJB_01040	gene	1074				
+MOJNKLJB_01040	CDS	1074				hypothetical protein
+MOJNKLJB_01041	gene	318				
+MOJNKLJB_01041	CDS	318				hypothetical protein
+MOJNKLJB_01042	gene	1395	alaS_2			
+MOJNKLJB_01042	CDS	1395	alaS_2	6.1.1.7		Alanine--tRNA ligase
+MOJNKLJB_01043	gene	624	msrB			
+MOJNKLJB_01043	CDS	624	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+MOJNKLJB_01044	gene	1866	nhaP2			
+MOJNKLJB_01044	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+MOJNKLJB_01045	gene	201				
+MOJNKLJB_01045	CDS	201				hypothetical protein
+MOJNKLJB_01046	gene	1116	recF			
+MOJNKLJB_01046	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+MOJNKLJB_01047	gene	594				
+MOJNKLJB_01047	CDS	594				hypothetical protein
+MOJNKLJB_01048	gene	576				
+MOJNKLJB_01048	CDS	576				hypothetical protein
+MOJNKLJB_01049	gene	954				
+MOJNKLJB_01049	CDS	954				hypothetical protein
+MOJNKLJB_01050	gene	1341	malQ			
+MOJNKLJB_01050	CDS	1341	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+MOJNKLJB_01051	gene	1086	potD			
+MOJNKLJB_01051	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+MOJNKLJB_01052	gene	441	baiN_2			
+MOJNKLJB_01052	CDS	441	baiN_2	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+MOJNKLJB_01053	gene	660	cmk			
+MOJNKLJB_01053	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+MOJNKLJB_01054	gene	615	plsC			
+MOJNKLJB_01054	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+MOJNKLJB_01055	gene	339				
+MOJNKLJB_01055	CDS	339				hypothetical protein
+MOJNKLJB_01056	gene	741				
+MOJNKLJB_01056	CDS	741				hypothetical protein
+MOJNKLJB_01057	gene	723				
+MOJNKLJB_01057	CDS	723				hypothetical protein
+MOJNKLJB_01058	gene	1410	murF			
+MOJNKLJB_01058	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+MOJNKLJB_01059	gene	246	rsmH			
+MOJNKLJB_01059	CDS	246	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+MOJNKLJB_01060	gene	1182	fieF			
+MOJNKLJB_01060	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+MOJNKLJB_01061	gene	792				
+MOJNKLJB_01061	CDS	792				hypothetical protein
+MOJNKLJB_01062	gene	222	ytrE_2			
+MOJNKLJB_01062	CDS	222	ytrE_2		COG1136	ABC transporter ATP-binding protein YtrE
+MOJNKLJB_01063	gene	1203				
+MOJNKLJB_01063	CDS	1203				hypothetical protein
+MOJNKLJB_01064	gene	498				
+MOJNKLJB_01064	CDS	498				hypothetical protein
+MOJNKLJB_01065	gene	1341	thiE			
+MOJNKLJB_01065	CDS	1341	thiE	2.5.1.3		Thiamine-phosphate synthase
+MOJNKLJB_01066	gene	2280	purL			
+MOJNKLJB_01066	CDS	2280	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+MOJNKLJB_01067	gene	1065				
+MOJNKLJB_01067	CDS	1065				hypothetical protein
+MOJNKLJB_01068	gene	651				
+MOJNKLJB_01068	CDS	651				hypothetical protein
+MOJNKLJB_01069	gene	540	puuR			
+MOJNKLJB_01069	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+MOJNKLJB_01070	gene	1467				
+MOJNKLJB_01070	CDS	1467				hypothetical protein
+MOJNKLJB_01071	gene	609				
+MOJNKLJB_01071	CDS	609				hypothetical protein
+MOJNKLJB_01072	gene	540				
+MOJNKLJB_01072	CDS	540				hypothetical protein
+MOJNKLJB_01073	gene	966	spoIIIE			
+MOJNKLJB_01073	CDS	966	spoIIIE		COG1674	DNA translocase SpoIIIE
+MOJNKLJB_01074	gene	1323	rimO			
+MOJNKLJB_01074	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+MOJNKLJB_01075	gene	309	rplU			
+MOJNKLJB_01075	CDS	309	rplU		COG0261	50S ribosomal protein L21
+MOJNKLJB_01076	gene	318				
+MOJNKLJB_01076	CDS	318				hypothetical protein
+MOJNKLJB_01077	gene	291	rpmA			
+MOJNKLJB_01077	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+MOJNKLJB_01078	gene	354				
+MOJNKLJB_01078	CDS	354				hypothetical protein
+MOJNKLJB_01079	gene	1359	ffh			
+MOJNKLJB_01079	CDS	1359	ffh		COG0541	Signal recognition particle protein
+MOJNKLJB_01080	gene	273	rpsP			
+MOJNKLJB_01080	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+MOJNKLJB_01081	gene	633	tlyA			
+MOJNKLJB_01081	CDS	633	tlyA		COG1189	Hemolysin A
+MOJNKLJB_01082	gene	1683	recN			
+MOJNKLJB_01082	CDS	1683	recN		COG0497	DNA repair protein RecN
+MOJNKLJB_01083	gene	1113	mrdB			
+MOJNKLJB_01083	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+MOJNKLJB_01084	gene	1038	mrdA			
+MOJNKLJB_01084	CDS	1038	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+MOJNKLJB_01085	gene	1305				
+MOJNKLJB_01085	CDS	1305		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+MOJNKLJB_01086	gene	1101				
+MOJNKLJB_01086	CDS	1101				hypothetical protein
+MOJNKLJB_01087	gene	1026				
+MOJNKLJB_01087	CDS	1026				hypothetical protein
+MOJNKLJB_01088	gene	2001	leuC			
+MOJNKLJB_01088	CDS	2001	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+MOJNKLJB_01089	gene	288	aroK			
+MOJNKLJB_01089	CDS	288	aroK	2.7.1.71		Shikimate kinase
+MOJNKLJB_01090	gene	1296	brnQ_4			
+MOJNKLJB_01090	CDS	1296	brnQ_4		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MOJNKLJB_01091	gene	423	clpB			
+MOJNKLJB_01091	CDS	423	clpB		COG0542	Chaperone protein ClpB
+MOJNKLJB_01092	gene	342	ytrE_3			
+MOJNKLJB_01092	CDS	342	ytrE_3		COG1136	ABC transporter ATP-binding protein YtrE
+MOJNKLJB_01093	gene	387	hlyB			
+MOJNKLJB_01093	CDS	387	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+MOJNKLJB_01094	gene	885	mleN			
+MOJNKLJB_01094	CDS	885	mleN		COG1757	Malate-2H(+)/Na(+)-lactate antiporter
+MOJNKLJB_01095	gene	471				
+MOJNKLJB_01095	CDS	471				hypothetical protein
+MOJNKLJB_01096	gene	1218	dctA			
+MOJNKLJB_01096	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+MOJNKLJB_01097	gene	957	rhaR_2			
+MOJNKLJB_01097	CDS	957	rhaR_2			HTH-type transcriptional activator RhaR
+MOJNKLJB_01098	gene	612	ruvA			
+MOJNKLJB_01098	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+MOJNKLJB_01099	gene	1014	ruvB_2			
+MOJNKLJB_01099	CDS	1014	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MOJNKLJB_01100	gene	312	hemZ			
+MOJNKLJB_01100	CDS	312	hemZ	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+MOJNKLJB_01101	gene	1263	hisS			
+MOJNKLJB_01101	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+MOJNKLJB_01102	gene	450	rimI			
+MOJNKLJB_01102	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+MOJNKLJB_01103	gene	720	tsaB			
+MOJNKLJB_01103	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+MOJNKLJB_01104	gene	459	tsaE			
+MOJNKLJB_01104	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MOJNKLJB_01105	gene	1224	cpdA_2			
+MOJNKLJB_01105	CDS	1224	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MOJNKLJB_01106	gene	1062	lytC_4			
+MOJNKLJB_01106	CDS	1062	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MOJNKLJB_01107	gene	600	fbpC			
+MOJNKLJB_01107	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+MOJNKLJB_01108	gene	309				
+MOJNKLJB_01108	CDS	309				hypothetical protein
+MOJNKLJB_01109	gene	219	cbiH			
+MOJNKLJB_01109	CDS	219	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+MOJNKLJB_01110	gene	765	cbiJ			
+MOJNKLJB_01110	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+MOJNKLJB_01111	gene	774	dtd3			
+MOJNKLJB_01111	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+MOJNKLJB_01112	gene	522	niaR			
+MOJNKLJB_01112	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+MOJNKLJB_01113	gene	1011	mmpA			
+MOJNKLJB_01113	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+MOJNKLJB_01114	gene	759	dxr			
+MOJNKLJB_01114	CDS	759	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+MOJNKLJB_01115	gene	462	dut			
+MOJNKLJB_01115	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MOJNKLJB_01116	gene	402	roo			
+MOJNKLJB_01116	CDS	402	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+MOJNKLJB_01117	gene	408	mta			
+MOJNKLJB_01117	CDS	408	mta		COG0789	HTH-type transcriptional activator mta
+MOJNKLJB_01118	gene	795				
+MOJNKLJB_01118	CDS	795				hypothetical protein
+MOJNKLJB_01119	gene	720	ytrB			
+MOJNKLJB_01119	CDS	720	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+MOJNKLJB_01120	gene	417				
+MOJNKLJB_01120	CDS	417				hypothetical protein
+MOJNKLJB_01121	gene	321	yajC			
+MOJNKLJB_01121	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+MOJNKLJB_01122	gene	1119	tgt			
+MOJNKLJB_01122	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+MOJNKLJB_01123	gene	339	queA			
+MOJNKLJB_01123	CDS	339	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MOJNKLJB_01124	gene	804	tsaD			
+MOJNKLJB_01124	CDS	804	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+MOJNKLJB_01125	gene	1590	clsA_2			
+MOJNKLJB_01125	CDS	1590	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+MOJNKLJB_01126	gene	423				
+MOJNKLJB_01126	CDS	423				hypothetical protein
+MOJNKLJB_01127	gene	678				
+MOJNKLJB_01127	CDS	678				hypothetical protein
+MOJNKLJB_01128	gene	1338				
+MOJNKLJB_01128	CDS	1338		1.6.99.3		putative NADH oxidase
+MOJNKLJB_01129	gene	768	mepA_4			
+MOJNKLJB_01129	CDS	768	mepA_4			Multidrug export protein MepA
+MOJNKLJB_01130	gene	705				
+MOJNKLJB_01130	CDS	705				hypothetical protein
+MOJNKLJB_01131	gene	243				
+MOJNKLJB_01131	CDS	243				hypothetical protein
+MOJNKLJB_01132	gene	1542	dnaE2			
+MOJNKLJB_01132	CDS	1542	dnaE2	2.7.7.7		Error-prone DNA polymerase
+MOJNKLJB_01133	gene	1242				
+MOJNKLJB_01133	CDS	1242				hypothetical protein
+MOJNKLJB_01134	gene	1239	uvrA			
+MOJNKLJB_01134	CDS	1239	uvrA			UvrABC system protein A
+MOJNKLJB_01135	gene	1026				
+MOJNKLJB_01135	CDS	1026				hypothetical protein
+MOJNKLJB_01136	gene	780	lytC_5			
+MOJNKLJB_01136	CDS	780	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+MOJNKLJB_01137	gene	396				
+MOJNKLJB_01137	CDS	396				hypothetical protein
+MOJNKLJB_01138	gene	1083	cobT			
+MOJNKLJB_01138	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MOJNKLJB_01139	gene	249				
+MOJNKLJB_01139	CDS	249				hypothetical protein
+MOJNKLJB_01140	gene	474				
+MOJNKLJB_01140	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+MOJNKLJB_01141	gene	1206	rph			
+MOJNKLJB_01141	CDS	1206	rph	2.7.7.56		Ribonuclease PH
+MOJNKLJB_01142	gene	387	dfx			
+MOJNKLJB_01142	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+MOJNKLJB_01143	gene	372	perR			
+MOJNKLJB_01143	CDS	372	perR		COG0735	Peroxide operon regulator
+MOJNKLJB_01144	gene	705				
+MOJNKLJB_01144	CDS	705				hypothetical protein
+MOJNKLJB_01145	gene	339				
+MOJNKLJB_01145	CDS	339				hypothetical protein
+MOJNKLJB_01146	gene	699				
+MOJNKLJB_01146	CDS	699				hypothetical protein
+MOJNKLJB_01147	gene	750				
+MOJNKLJB_01147	CDS	750				hypothetical protein
+MOJNKLJB_01148	gene	411				
+MOJNKLJB_01148	CDS	411				hypothetical protein
+MOJNKLJB_01149	gene	618	miaA			
+MOJNKLJB_01149	CDS	618	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+MOJNKLJB_01150	gene	90				
+MOJNKLJB_01150	rRNA	90				5S ribosomal RNA (partial)
+MOJNKLJB_01151	gene	780	uvrB			
+MOJNKLJB_01151	CDS	780	uvrB			UvrABC system protein B
+MOJNKLJB_01152	gene	576				
+MOJNKLJB_01152	CDS	576				hypothetical protein
+MOJNKLJB_01153	gene	741	birA			
+MOJNKLJB_01153	CDS	741	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+MOJNKLJB_01154	gene	756				
+MOJNKLJB_01154	CDS	756				hypothetical protein
+MOJNKLJB_01155	gene	1392	guaB			
+MOJNKLJB_01155	CDS	1392	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+MOJNKLJB_01156	gene	156				
+MOJNKLJB_01156	CDS	156				hypothetical protein
+MOJNKLJB_01157	gene	1578	pheT			
+MOJNKLJB_01157	CDS	1578	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+MOJNKLJB_01158	gene	972	pfkA			
+MOJNKLJB_01158	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+MOJNKLJB_01159	gene	180	rpsU			
+MOJNKLJB_01159	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+MOJNKLJB_01160	gene	711				
+MOJNKLJB_01160	CDS	711				hypothetical protein
+MOJNKLJB_01161	gene	483	rluC			
+MOJNKLJB_01161	CDS	483	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+MOJNKLJB_01162	gene	1140	pgl			
+MOJNKLJB_01162	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+MOJNKLJB_01163	gene	71				
+MOJNKLJB_01163	tRNA	71				tRNA-Cys(gca)
+MOJNKLJB_01164	gene	369	ytrA			
+MOJNKLJB_01164	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+MOJNKLJB_01165	gene	729	lnrL_2			
+MOJNKLJB_01165	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MOJNKLJB_01166	gene	867	potB			
+MOJNKLJB_01166	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+MOJNKLJB_01167	gene	198	potA			
+MOJNKLJB_01167	CDS	198	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+MOJNKLJB_01168	gene	1296	lysA			
+MOJNKLJB_01168	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+MOJNKLJB_01169	gene	186				
+MOJNKLJB_01169	CDS	186				hypothetical protein
+MOJNKLJB_01170	gene	1044	mtgA			
+MOJNKLJB_01170	CDS	1044	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+MOJNKLJB_01171	gene	321	polC_2			
+MOJNKLJB_01171	CDS	321	polC_2	2.7.7.7		DNA polymerase III PolC-type
+MOJNKLJB_01172	gene	426	rplK			
+MOJNKLJB_01172	CDS	426	rplK		COG0080	50S ribosomal protein L11
+MOJNKLJB_01173	gene	543	nusG			
+MOJNKLJB_01173	CDS	543	nusG			Transcription termination/antitermination protein NusG
+MOJNKLJB_01174	gene	207	secE			
+MOJNKLJB_01174	CDS	207	secE			Protein translocase subunit SecE
+MOJNKLJB_01175	gene	150	rpmG2			
+MOJNKLJB_01175	CDS	150	rpmG2			50S ribosomal protein L33 2
+MOJNKLJB_01176	gene	780				
+MOJNKLJB_01176	CDS	780				hypothetical protein
+MOJNKLJB_01177	gene	330	uppS			
+MOJNKLJB_01177	CDS	330	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+MOJNKLJB_01178	gene	1527	fusA			
+MOJNKLJB_01178	CDS	1527	fusA		COG0480	Elongation factor G
+MOJNKLJB_01179	gene	543				
+MOJNKLJB_01179	CDS	543				hypothetical protein
+MOJNKLJB_01180	gene	765	tuaG_2			
+MOJNKLJB_01180	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+MOJNKLJB_01181	gene	312				
+MOJNKLJB_01181	CDS	312				hypothetical protein
+MOJNKLJB_01182	gene	468	rimP			
+MOJNKLJB_01182	CDS	468	rimP			Ribosome maturation factor RimP
+MOJNKLJB_01183	gene	1101	malP			
+MOJNKLJB_01183	CDS	1101	malP	2.4.1.8		Maltose phosphorylase
+MOJNKLJB_01184	gene	1494				
+MOJNKLJB_01184	CDS	1494				hypothetical protein
+MOJNKLJB_01185	gene	1188	murE			
+MOJNKLJB_01185	CDS	1188	murE	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MOJNKLJB_01186	gene	396				
+MOJNKLJB_01186	CDS	396				hypothetical protein
+MOJNKLJB_01187	gene	909				
+MOJNKLJB_01187	CDS	909				hypothetical protein
+MOJNKLJB_01188	gene	474				
+MOJNKLJB_01188	CDS	474				Iron-sulfur cluster carrier protein
+MOJNKLJB_01189	gene	258				
+MOJNKLJB_01189	CDS	258				hypothetical protein
+MOJNKLJB_01190	gene	654				
+MOJNKLJB_01190	CDS	654				hypothetical protein
+MOJNKLJB_01191	gene	750	lgt			
+MOJNKLJB_01191	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+MOJNKLJB_01192	gene	282				
+MOJNKLJB_01192	CDS	282				hypothetical protein
+MOJNKLJB_01193	gene	95				
+MOJNKLJB_01193	rRNA	95				5S ribosomal RNA
+MOJNKLJB_01194	gene	807	speA_2			
+MOJNKLJB_01194	CDS	807	speA_2	4.1.1.19	COG1982	Arginine decarboxylase
+MOJNKLJB_01195	gene	360	pyrK			
+MOJNKLJB_01195	CDS	360	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+MOJNKLJB_01196	gene	903	pyrD			
+MOJNKLJB_01196	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+MOJNKLJB_01197	gene	423				
+MOJNKLJB_01197	CDS	423				hypothetical protein
+MOJNKLJB_01198	gene	252	asnA			
+MOJNKLJB_01198	CDS	252	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+MOJNKLJB_01199	gene	531	hpt_2			
+MOJNKLJB_01199	CDS	531	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase

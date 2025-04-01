@@ -1,0 +1,3040 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PHAIDCFJ_00001	gene	570				
+PHAIDCFJ_00001	CDS	570				hypothetical protein
+PHAIDCFJ_00002	gene	378	yabJ			
+PHAIDCFJ_00002	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+PHAIDCFJ_00003	gene	1218	tdcB			
+PHAIDCFJ_00003	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+PHAIDCFJ_00004	gene	390				
+PHAIDCFJ_00004	CDS	390				hypothetical protein
+PHAIDCFJ_00005	gene	1281	obg			
+PHAIDCFJ_00005	CDS	1281	obg	3.6.5.-	COG0536	GTPase Obg
+PHAIDCFJ_00006	gene	291	rpmA			
+PHAIDCFJ_00006	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+PHAIDCFJ_00007	gene	318				
+PHAIDCFJ_00007	CDS	318				hypothetical protein
+PHAIDCFJ_00008	gene	309	rplU			
+PHAIDCFJ_00008	CDS	309	rplU		COG0261	50S ribosomal protein L21
+PHAIDCFJ_00009	gene	936	yijE			
+PHAIDCFJ_00009	CDS	936	yijE			putative cystine transporter YijE
+PHAIDCFJ_00010	gene	2421	leuS			
+PHAIDCFJ_00010	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+PHAIDCFJ_00011	gene	351	rsfS			
+PHAIDCFJ_00011	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+PHAIDCFJ_00012	gene	576				
+PHAIDCFJ_00012	CDS	576				hypothetical protein
+PHAIDCFJ_00013	gene	696	nadD			
+PHAIDCFJ_00013	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+PHAIDCFJ_00014	gene	624	recX			
+PHAIDCFJ_00014	CDS	624	recX			Regulatory protein RecX
+PHAIDCFJ_00015	gene	348	crcB_1			
+PHAIDCFJ_00015	CDS	348	crcB_1			Putative fluoride ion transporter CrcB
+PHAIDCFJ_00016	gene	462	crcB_2			
+PHAIDCFJ_00016	CDS	462	crcB_2			Putative fluoride ion transporter CrcB
+PHAIDCFJ_00017	gene	921	rbn			
+PHAIDCFJ_00017	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+PHAIDCFJ_00018	gene	1401	rne			
+PHAIDCFJ_00018	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+PHAIDCFJ_00019	gene	699				
+PHAIDCFJ_00019	CDS	699				hypothetical protein
+PHAIDCFJ_00020	gene	1860				
+PHAIDCFJ_00020	CDS	1860				hypothetical protein
+PHAIDCFJ_00021	gene	1113	mrdB			
+PHAIDCFJ_00021	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+PHAIDCFJ_00022	gene	2898	mrdA			
+PHAIDCFJ_00022	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+PHAIDCFJ_00023	gene	486				
+PHAIDCFJ_00023	CDS	486				hypothetical protein
+PHAIDCFJ_00024	gene	882				
+PHAIDCFJ_00024	CDS	882				hypothetical protein
+PHAIDCFJ_00025	gene	1050	mreB_1			
+PHAIDCFJ_00025	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+PHAIDCFJ_00026	gene	687				
+PHAIDCFJ_00026	CDS	687				hypothetical protein
+PHAIDCFJ_00027	gene	864	rnfB			
+PHAIDCFJ_00027	CDS	864	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+PHAIDCFJ_00028	gene	576	rnfA			
+PHAIDCFJ_00028	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+PHAIDCFJ_00029	gene	594	rnfE			
+PHAIDCFJ_00029	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+PHAIDCFJ_00030	gene	567	rnfG			
+PHAIDCFJ_00030	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+PHAIDCFJ_00031	gene	987	rnfD			
+PHAIDCFJ_00031	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+PHAIDCFJ_00032	gene	1344	rnfC			
+PHAIDCFJ_00032	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+PHAIDCFJ_00033	gene	1431				
+PHAIDCFJ_00033	CDS	1431				hypothetical protein
+PHAIDCFJ_00034	gene	213				
+PHAIDCFJ_00034	CDS	213				hypothetical protein
+PHAIDCFJ_00035	gene	561	mltC			
+PHAIDCFJ_00035	CDS	561	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+PHAIDCFJ_00036	gene	606	coaE			
+PHAIDCFJ_00036	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+PHAIDCFJ_00037	gene	2643	polA			
+PHAIDCFJ_00037	CDS	2643	polA	2.7.7.7		DNA polymerase I
+PHAIDCFJ_00038	gene	85				
+PHAIDCFJ_00038	tRNA	85				tRNA-Leu(caa)
+PHAIDCFJ_00039	gene	912	cmpR			
+PHAIDCFJ_00039	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+PHAIDCFJ_00040	gene	201				
+PHAIDCFJ_00040	CDS	201				hypothetical protein
+PHAIDCFJ_00041	gene	1404	lysN_1			
+PHAIDCFJ_00041	CDS	1404	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+PHAIDCFJ_00042	gene	234				
+PHAIDCFJ_00042	CDS	234				hypothetical protein
+PHAIDCFJ_00043	gene	1014	ccpA			
+PHAIDCFJ_00043	CDS	1014	ccpA		COG1609	Catabolite control protein A
+PHAIDCFJ_00044	gene	228	acpP_1			
+PHAIDCFJ_00044	CDS	228	acpP_1			Acyl carrier protein
+PHAIDCFJ_00045	gene	1011				
+PHAIDCFJ_00045	CDS	1011				hypothetical protein
+PHAIDCFJ_00046	gene	933	rluD_1			
+PHAIDCFJ_00046	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PHAIDCFJ_00047	gene	888	nadK			
+PHAIDCFJ_00047	CDS	888	nadK	2.7.1.23		NAD kinase
+PHAIDCFJ_00048	gene	1035	icd			
+PHAIDCFJ_00048	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+PHAIDCFJ_00049	gene	1974	leuC			
+PHAIDCFJ_00049	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+PHAIDCFJ_00050	gene	1077	cshE			
+PHAIDCFJ_00050	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+PHAIDCFJ_00051	gene	330				
+PHAIDCFJ_00051	CDS	330				hypothetical protein
+PHAIDCFJ_00052	gene	2688				
+PHAIDCFJ_00052	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+PHAIDCFJ_00053	gene	1062				
+PHAIDCFJ_00053	CDS	1062				hypothetical protein
+PHAIDCFJ_00054	gene	597				
+PHAIDCFJ_00054	CDS	597				hypothetical protein
+PHAIDCFJ_00055	gene	603				
+PHAIDCFJ_00055	CDS	603				hypothetical protein
+PHAIDCFJ_00056	gene	1077	lytC_1			
+PHAIDCFJ_00056	CDS	1077	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_00057	gene	243				
+PHAIDCFJ_00057	CDS	243				hypothetical protein
+PHAIDCFJ_00058	gene	1338				
+PHAIDCFJ_00058	CDS	1338		1.6.99.3		putative NADH oxidase
+PHAIDCFJ_00059	gene	411				
+PHAIDCFJ_00059	CDS	411				hypothetical protein
+PHAIDCFJ_00060	gene	1284	brnQ_1			
+PHAIDCFJ_00060	CDS	1284	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+PHAIDCFJ_00061	gene	1968				
+PHAIDCFJ_00061	CDS	1968				hypothetical protein
+PHAIDCFJ_00062	gene	426				
+PHAIDCFJ_00062	CDS	426				hypothetical protein
+PHAIDCFJ_00063	gene	1740				
+PHAIDCFJ_00063	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+PHAIDCFJ_00064	gene	774	dtd3			
+PHAIDCFJ_00064	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+PHAIDCFJ_00065	gene	522	niaR			
+PHAIDCFJ_00065	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+PHAIDCFJ_00066	gene	1821				
+PHAIDCFJ_00066	CDS	1821				hypothetical protein
+PHAIDCFJ_00067	gene	912				
+PHAIDCFJ_00067	CDS	912				hypothetical protein
+PHAIDCFJ_00068	gene	1473				
+PHAIDCFJ_00068	CDS	1473				hypothetical protein
+PHAIDCFJ_00069	gene	147				
+PHAIDCFJ_00069	CDS	147				hypothetical protein
+PHAIDCFJ_00070	gene	228				
+PHAIDCFJ_00070	CDS	228				hypothetical protein
+PHAIDCFJ_00071	gene	225				
+PHAIDCFJ_00071	CDS	225				hypothetical protein
+PHAIDCFJ_00072	gene	1239				
+PHAIDCFJ_00072	CDS	1239				hypothetical protein
+PHAIDCFJ_00073	gene	1734	fhs			
+PHAIDCFJ_00073	CDS	1734	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+PHAIDCFJ_00074	gene	1143				
+PHAIDCFJ_00074	CDS	1143				hypothetical protein
+PHAIDCFJ_00075	gene	1170				
+PHAIDCFJ_00075	CDS	1170				hypothetical protein
+PHAIDCFJ_00076	gene	2241				
+PHAIDCFJ_00076	CDS	2241				hypothetical protein
+PHAIDCFJ_00077	gene	921				
+PHAIDCFJ_00077	CDS	921				hypothetical protein
+PHAIDCFJ_00078	gene	678	srtA			
+PHAIDCFJ_00078	CDS	678	srtA	3.4.22.-	COG3764	Sortase A
+PHAIDCFJ_00079	gene	1353	mepA_1			
+PHAIDCFJ_00079	CDS	1353	mepA_1		COG0534	Multidrug export protein MepA
+PHAIDCFJ_00080	gene	852				
+PHAIDCFJ_00080	CDS	852				hypothetical protein
+PHAIDCFJ_00081	gene	1824	aroB			
+PHAIDCFJ_00081	CDS	1824	aroB	4.2.3.4		3-dehydroquinate synthase
+PHAIDCFJ_00082	gene	825	aroF			
+PHAIDCFJ_00082	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+PHAIDCFJ_00083	gene	552	bioY			
+PHAIDCFJ_00083	CDS	552	bioY		COG1268	Biotin transporter BioY
+PHAIDCFJ_00084	gene	1188	norV			
+PHAIDCFJ_00084	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+PHAIDCFJ_00085	gene	654				
+PHAIDCFJ_00085	CDS	654				hypothetical protein
+PHAIDCFJ_00086	gene	678				
+PHAIDCFJ_00086	CDS	678				hypothetical protein
+PHAIDCFJ_00087	gene	675				
+PHAIDCFJ_00087	CDS	675				hypothetical protein
+PHAIDCFJ_00088	gene	837				
+PHAIDCFJ_00088	CDS	837				hypothetical protein
+PHAIDCFJ_00089	gene	435				
+PHAIDCFJ_00089	CDS	435				hypothetical protein
+PHAIDCFJ_00090	gene	855				
+PHAIDCFJ_00090	CDS	855				hypothetical protein
+PHAIDCFJ_00091	gene	1011	lytC_2			
+PHAIDCFJ_00091	CDS	1011	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_00092	gene	516				
+PHAIDCFJ_00092	CDS	516				hypothetical protein
+PHAIDCFJ_00093	gene	1023				
+PHAIDCFJ_00093	CDS	1023				hypothetical protein
+PHAIDCFJ_00094	gene	894				
+PHAIDCFJ_00094	CDS	894				hypothetical protein
+PHAIDCFJ_00095	gene	453				
+PHAIDCFJ_00095	CDS	453				hypothetical protein
+PHAIDCFJ_00096	gene	1371	rlmCD_1			
+PHAIDCFJ_00096	CDS	1371	rlmCD_1	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PHAIDCFJ_00097	gene	735	rsuA			
+PHAIDCFJ_00097	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+PHAIDCFJ_00098	gene	876	hslO			
+PHAIDCFJ_00098	CDS	876	hslO		COG1281	33 kDa chaperonin
+PHAIDCFJ_00099	gene	795	COQ5_1			
+PHAIDCFJ_00099	CDS	795	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+PHAIDCFJ_00100	gene	1371	ykoD_1			
+PHAIDCFJ_00100	CDS	1371	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+PHAIDCFJ_00101	gene	690	ecfT_1			
+PHAIDCFJ_00101	CDS	690	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+PHAIDCFJ_00102	gene	582				
+PHAIDCFJ_00102	CDS	582				hypothetical protein
+PHAIDCFJ_00103	gene	1725				
+PHAIDCFJ_00103	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+PHAIDCFJ_00104	gene	1758	hepA			
+PHAIDCFJ_00104	CDS	1758	hepA		COG1132	Heterocyst differentiation ATP-binding protein HepA
+PHAIDCFJ_00105	gene	996	rhaR_1			
+PHAIDCFJ_00105	CDS	996	rhaR_1			HTH-type transcriptional activator RhaR
+PHAIDCFJ_00106	gene	849				
+PHAIDCFJ_00106	CDS	849				hypothetical protein
+PHAIDCFJ_00107	gene	438				
+PHAIDCFJ_00107	CDS	438				hypothetical protein
+PHAIDCFJ_00108	gene	657				
+PHAIDCFJ_00108	CDS	657				hypothetical protein
+PHAIDCFJ_00109	gene	477				
+PHAIDCFJ_00109	CDS	477				hypothetical protein
+PHAIDCFJ_00110	gene	1194	sdaB			
+PHAIDCFJ_00110	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+PHAIDCFJ_00111	gene	885	dapA_1			
+PHAIDCFJ_00111	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+PHAIDCFJ_00112	gene	606	rpsD			
+PHAIDCFJ_00112	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+PHAIDCFJ_00113	gene	744	artM_1			
+PHAIDCFJ_00113	CDS	744	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+PHAIDCFJ_00114	gene	675	artQ_1			
+PHAIDCFJ_00114	CDS	675	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+PHAIDCFJ_00115	gene	846	artP_1			
+PHAIDCFJ_00115	CDS	846	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+PHAIDCFJ_00116	gene	282				
+PHAIDCFJ_00116	CDS	282				hypothetical protein
+PHAIDCFJ_00117	gene	2190				
+PHAIDCFJ_00117	CDS	2190				hypothetical protein
+PHAIDCFJ_00118	gene	549				
+PHAIDCFJ_00118	CDS	549				hypothetical protein
+PHAIDCFJ_00119	gene	1269				
+PHAIDCFJ_00119	CDS	1269				hypothetical protein
+PHAIDCFJ_00120	gene	495	sigW			
+PHAIDCFJ_00120	CDS	495	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+PHAIDCFJ_00121	gene	1083				
+PHAIDCFJ_00121	CDS	1083				hypothetical protein
+PHAIDCFJ_00122	gene	450				
+PHAIDCFJ_00122	CDS	450				hypothetical protein
+PHAIDCFJ_00123	gene	354				
+PHAIDCFJ_00123	CDS	354				hypothetical protein
+PHAIDCFJ_00124	gene	672				
+PHAIDCFJ_00124	CDS	672				hypothetical protein
+PHAIDCFJ_00125	gene	600				
+PHAIDCFJ_00125	CDS	600				hypothetical protein
+PHAIDCFJ_00126	gene	1740				
+PHAIDCFJ_00126	CDS	1740				hypothetical protein
+PHAIDCFJ_00127	gene	678	lolD			
+PHAIDCFJ_00127	CDS	678	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+PHAIDCFJ_00128	gene	2520				
+PHAIDCFJ_00128	CDS	2520				hypothetical protein
+PHAIDCFJ_00129	gene	1719				
+PHAIDCFJ_00129	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+PHAIDCFJ_00130	gene	1743	msbA_1			
+PHAIDCFJ_00130	CDS	1743	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+PHAIDCFJ_00131	gene	588				
+PHAIDCFJ_00131	CDS	588				hypothetical protein
+PHAIDCFJ_00132	gene	1413	ykoD_2			
+PHAIDCFJ_00132	CDS	1413	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+PHAIDCFJ_00133	gene	675	ecfT_2			
+PHAIDCFJ_00133	CDS	675	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+PHAIDCFJ_00134	gene	774				
+PHAIDCFJ_00134	CDS	774				hypothetical protein
+PHAIDCFJ_00135	gene	582	pyrE			
+PHAIDCFJ_00135	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+PHAIDCFJ_00136	gene	903	pyrD			
+PHAIDCFJ_00136	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+PHAIDCFJ_00137	gene	690	pyrK			
+PHAIDCFJ_00137	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PHAIDCFJ_00138	gene	912	pyrB			
+PHAIDCFJ_00138	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+PHAIDCFJ_00139	gene	1218	dctA			
+PHAIDCFJ_00139	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+PHAIDCFJ_00140	gene	732				
+PHAIDCFJ_00140	CDS	732				hypothetical protein
+PHAIDCFJ_00141	gene	834				
+PHAIDCFJ_00141	CDS	834				hypothetical protein
+PHAIDCFJ_00142	gene	1032				
+PHAIDCFJ_00142	CDS	1032				hypothetical protein
+PHAIDCFJ_00143	gene	3741				
+PHAIDCFJ_00143	CDS	3741				hypothetical protein
+PHAIDCFJ_00144	gene	1308				
+PHAIDCFJ_00144	CDS	1308				hypothetical protein
+PHAIDCFJ_00145	gene	618				
+PHAIDCFJ_00145	CDS	618				hypothetical protein
+PHAIDCFJ_00146	gene	723				
+PHAIDCFJ_00146	CDS	723				hypothetical protein
+PHAIDCFJ_00147	gene	192				
+PHAIDCFJ_00147	CDS	192				hypothetical protein
+PHAIDCFJ_00148	gene	1134				
+PHAIDCFJ_00148	CDS	1134				hypothetical protein
+PHAIDCFJ_00149	gene	330				
+PHAIDCFJ_00149	CDS	330				hypothetical protein
+PHAIDCFJ_00150	gene	357				
+PHAIDCFJ_00150	CDS	357				hypothetical protein
+PHAIDCFJ_00151	gene	363				
+PHAIDCFJ_00151	CDS	363				hypothetical protein
+PHAIDCFJ_00152	gene	405				
+PHAIDCFJ_00152	CDS	405				hypothetical protein
+PHAIDCFJ_00153	gene	507	yfbM			
+PHAIDCFJ_00153	CDS	507	yfbM			Protein YfbM
+PHAIDCFJ_00154	gene	318				
+PHAIDCFJ_00154	CDS	318				hypothetical protein
+PHAIDCFJ_00155	gene	1842				
+PHAIDCFJ_00155	CDS	1842				hypothetical protein
+PHAIDCFJ_00156	gene	765				
+PHAIDCFJ_00156	CDS	765				IS21 family transposase ISCbe3
+PHAIDCFJ_00157	gene	1203				
+PHAIDCFJ_00157	CDS	1203				hypothetical protein
+PHAIDCFJ_00158	gene	861				
+PHAIDCFJ_00158	CDS	861				hypothetical protein
+PHAIDCFJ_00159	gene	678				
+PHAIDCFJ_00159	CDS	678				hypothetical protein
+PHAIDCFJ_00160	gene	3147				
+PHAIDCFJ_00160	CDS	3147				hypothetical protein
+PHAIDCFJ_00161	gene	744				
+PHAIDCFJ_00161	CDS	744				hypothetical protein
+PHAIDCFJ_00162	gene	477				
+PHAIDCFJ_00162	CDS	477				hypothetical protein
+PHAIDCFJ_00163	gene	399				
+PHAIDCFJ_00163	CDS	399				hypothetical protein
+PHAIDCFJ_00164	gene	213				
+PHAIDCFJ_00164	CDS	213				hypothetical protein
+PHAIDCFJ_00165	gene	1239	rps1			
+PHAIDCFJ_00165	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+PHAIDCFJ_00166	gene	1422				
+PHAIDCFJ_00166	CDS	1422				hypothetical protein
+PHAIDCFJ_00167	gene	486				
+PHAIDCFJ_00167	CDS	486				hypothetical protein
+PHAIDCFJ_00168	gene	846	cvfB			
+PHAIDCFJ_00168	CDS	846	cvfB		COG2996	Conserved virulence factor B
+PHAIDCFJ_00169	gene	462	cdd			
+PHAIDCFJ_00169	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+PHAIDCFJ_00170	gene	738				
+PHAIDCFJ_00170	CDS	738				hypothetical protein
+PHAIDCFJ_00171	gene	1320				
+PHAIDCFJ_00171	CDS	1320				hypothetical protein
+PHAIDCFJ_00172	gene	2358	secA_1			
+PHAIDCFJ_00172	CDS	2358	secA_1		COG0653	Protein translocase subunit SecA
+PHAIDCFJ_00173	gene	1365				
+PHAIDCFJ_00173	CDS	1365				hypothetical protein
+PHAIDCFJ_00174	gene	1305				
+PHAIDCFJ_00174	CDS	1305				hypothetical protein
+PHAIDCFJ_00175	gene	1893	lytC_3			
+PHAIDCFJ_00175	CDS	1893	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_00176	gene	1107				
+PHAIDCFJ_00176	CDS	1107				hypothetical protein
+PHAIDCFJ_00177	gene	663	wecA			
+PHAIDCFJ_00177	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+PHAIDCFJ_00178	gene	780	tuaG_1			
+PHAIDCFJ_00178	CDS	780	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+PHAIDCFJ_00179	gene	813				
+PHAIDCFJ_00179	CDS	813				hypothetical protein
+PHAIDCFJ_00180	gene	1188	tagF			
+PHAIDCFJ_00180	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+PHAIDCFJ_00181	gene	1122				
+PHAIDCFJ_00181	CDS	1122				hypothetical protein
+PHAIDCFJ_00182	gene	765	tuaG_2			
+PHAIDCFJ_00182	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+PHAIDCFJ_00183	gene	1101	mshA			
+PHAIDCFJ_00183	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PHAIDCFJ_00184	gene	1446	fcl			
+PHAIDCFJ_00184	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+PHAIDCFJ_00185	gene	1560	murJ_1			
+PHAIDCFJ_00185	CDS	1560	murJ_1		COG0728	putative lipid II flippase MurJ
+PHAIDCFJ_00186	gene	1230				
+PHAIDCFJ_00186	CDS	1230				hypothetical protein
+PHAIDCFJ_00187	gene	2145				
+PHAIDCFJ_00187	CDS	2145				hypothetical protein
+PHAIDCFJ_00188	gene	1350	alsT_1			
+PHAIDCFJ_00188	CDS	1350	alsT_1		COG1115	Amino-acid carrier protein AlsT
+PHAIDCFJ_00189	gene	963	tagU_1			
+PHAIDCFJ_00189	CDS	963	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+PHAIDCFJ_00190	gene	1041	tagU_2			
+PHAIDCFJ_00190	CDS	1041	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+PHAIDCFJ_00191	gene	789	ybiV			
+PHAIDCFJ_00191	CDS	789	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+PHAIDCFJ_00192	gene	1128				
+PHAIDCFJ_00192	CDS	1128				hypothetical protein
+PHAIDCFJ_00193	gene	264	ptsH			
+PHAIDCFJ_00193	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+PHAIDCFJ_00194	gene	1716	ptsI			
+PHAIDCFJ_00194	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+PHAIDCFJ_00195	gene	654				
+PHAIDCFJ_00195	CDS	654				hypothetical protein
+PHAIDCFJ_00196	gene	900				
+PHAIDCFJ_00196	CDS	900				hypothetical protein
+PHAIDCFJ_00197	gene	546				
+PHAIDCFJ_00197	CDS	546				hypothetical protein
+PHAIDCFJ_00198	gene	888				
+PHAIDCFJ_00198	CDS	888				hypothetical protein
+PHAIDCFJ_00199	gene	975				
+PHAIDCFJ_00199	CDS	975				hypothetical protein
+PHAIDCFJ_00200	gene	1374	moaA_1			
+PHAIDCFJ_00200	CDS	1374	moaA_1			GTP 3',8-cyclase
+PHAIDCFJ_00201	gene	1668	ubiB			
+PHAIDCFJ_00201	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+PHAIDCFJ_00202	gene	2484				
+PHAIDCFJ_00202	CDS	2484				hypothetical protein
+PHAIDCFJ_00203	gene	522	apt			
+PHAIDCFJ_00203	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+PHAIDCFJ_00204	gene	2226	relA			
+PHAIDCFJ_00204	CDS	2226	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+PHAIDCFJ_00205	gene	450	dtd			
+PHAIDCFJ_00205	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+PHAIDCFJ_00206	gene	627	gloC			
+PHAIDCFJ_00206	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+PHAIDCFJ_00207	gene	1560				
+PHAIDCFJ_00207	CDS	1560				hypothetical protein
+PHAIDCFJ_00208	gene	1263	hisS			
+PHAIDCFJ_00208	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+PHAIDCFJ_00209	gene	1791	aspS			
+PHAIDCFJ_00209	CDS	1791	aspS	6.1.1.12		Aspartate--tRNA ligase
+PHAIDCFJ_00210	gene	315	csoR			
+PHAIDCFJ_00210	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+PHAIDCFJ_00211	gene	477				
+PHAIDCFJ_00211	CDS	477				hypothetical protein
+PHAIDCFJ_00212	gene	972	pta			
+PHAIDCFJ_00212	CDS	972	pta	2.3.1.8		Phosphate acetyltransferase
+PHAIDCFJ_00213	gene	1200	sstT_1			
+PHAIDCFJ_00213	CDS	1200	sstT_1			Serine/threonine transporter SstT
+PHAIDCFJ_00214	gene	678				
+PHAIDCFJ_00214	CDS	678				hypothetical protein
+PHAIDCFJ_00215	gene	777				
+PHAIDCFJ_00215	CDS	777				hypothetical protein
+PHAIDCFJ_00216	gene	1467				
+PHAIDCFJ_00216	CDS	1467				hypothetical protein
+PHAIDCFJ_00217	gene	540	puuR			
+PHAIDCFJ_00217	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+PHAIDCFJ_00218	gene	1044	potA			
+PHAIDCFJ_00218	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+PHAIDCFJ_00219	gene	867	potB			
+PHAIDCFJ_00219	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+PHAIDCFJ_00220	gene	807				
+PHAIDCFJ_00220	CDS	807				hypothetical protein
+PHAIDCFJ_00221	gene	1086	potD			
+PHAIDCFJ_00221	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+PHAIDCFJ_00222	gene	1479	malQ			
+PHAIDCFJ_00222	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+PHAIDCFJ_00223	gene	1944				
+PHAIDCFJ_00223	CDS	1944				hypothetical protein
+PHAIDCFJ_00224	gene	1866	glgB			
+PHAIDCFJ_00224	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+PHAIDCFJ_00225	gene	1173	glgC			
+PHAIDCFJ_00225	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+PHAIDCFJ_00226	gene	1107	glgD			
+PHAIDCFJ_00226	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+PHAIDCFJ_00227	gene	1425	glgA			
+PHAIDCFJ_00227	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+PHAIDCFJ_00228	gene	2391	glgP			
+PHAIDCFJ_00228	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+PHAIDCFJ_00229	gene	2433				
+PHAIDCFJ_00229	CDS	2433				hypothetical protein
+PHAIDCFJ_00230	gene	1365				
+PHAIDCFJ_00230	CDS	1365				hypothetical protein
+PHAIDCFJ_00231	gene	873	moaA_2			
+PHAIDCFJ_00231	CDS	873	moaA_2	4.1.99.22		GTP 3',8-cyclase
+PHAIDCFJ_00232	gene	1629				
+PHAIDCFJ_00232	CDS	1629				hypothetical protein
+PHAIDCFJ_00233	gene	1002	add			
+PHAIDCFJ_00233	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+PHAIDCFJ_00234	gene	810	apbC			
+PHAIDCFJ_00234	CDS	810	apbC		COG0489	Iron-sulfur cluster carrier protein
+PHAIDCFJ_00235	gene	258				
+PHAIDCFJ_00235	CDS	258				hypothetical protein
+PHAIDCFJ_00236	gene	645				
+PHAIDCFJ_00236	CDS	645				hypothetical protein
+PHAIDCFJ_00237	gene	297				
+PHAIDCFJ_00237	CDS	297				hypothetical protein
+PHAIDCFJ_00238	gene	1275	pyrC			
+PHAIDCFJ_00238	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+PHAIDCFJ_00239	gene	1245	macB_1			
+PHAIDCFJ_00239	CDS	1245	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+PHAIDCFJ_00240	gene	675	yknY			
+PHAIDCFJ_00240	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PHAIDCFJ_00241	gene	1083	yknX			
+PHAIDCFJ_00241	CDS	1083	yknX		COG0845	Putative efflux system component YknX
+PHAIDCFJ_00242	gene	651	tal			
+PHAIDCFJ_00242	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+PHAIDCFJ_00243	gene	1473	algC			
+PHAIDCFJ_00243	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+PHAIDCFJ_00244	gene	603	maf			
+PHAIDCFJ_00244	CDS	603	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+PHAIDCFJ_00245	gene	1182	fieF			
+PHAIDCFJ_00245	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+PHAIDCFJ_00246	gene	786				
+PHAIDCFJ_00246	CDS	786				hypothetical protein
+PHAIDCFJ_00247	gene	1218				
+PHAIDCFJ_00247	CDS	1218		6.3.1.12		D-aspartate ligase
+PHAIDCFJ_00248	gene	720				
+PHAIDCFJ_00248	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+PHAIDCFJ_00249	gene	1488	murE_1			
+PHAIDCFJ_00249	CDS	1488	murE_1	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+PHAIDCFJ_00250	gene	1482				
+PHAIDCFJ_00250	CDS	1482				hypothetical protein
+PHAIDCFJ_00251	gene	513	sigM			
+PHAIDCFJ_00251	CDS	513	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+PHAIDCFJ_00252	gene	1098	ychF			
+PHAIDCFJ_00252	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+PHAIDCFJ_00253	gene	456				
+PHAIDCFJ_00253	CDS	456				hypothetical protein
+PHAIDCFJ_00254	gene	1260				
+PHAIDCFJ_00254	CDS	1260				hypothetical protein
+PHAIDCFJ_00255	gene	1293				
+PHAIDCFJ_00255	CDS	1293				hypothetical protein
+PHAIDCFJ_00256	gene	750	lgt			
+PHAIDCFJ_00256	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+PHAIDCFJ_00257	gene	936	rsmH			
+PHAIDCFJ_00257	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+PHAIDCFJ_00258	gene	1410	murF			
+PHAIDCFJ_00258	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PHAIDCFJ_00259	gene	966	mraY			
+PHAIDCFJ_00259	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PHAIDCFJ_00260	gene	1365	murD			
+PHAIDCFJ_00260	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PHAIDCFJ_00261	gene	1098	murG			
+PHAIDCFJ_00261	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PHAIDCFJ_00262	gene	1161	ftsZ			
+PHAIDCFJ_00262	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+PHAIDCFJ_00263	gene	468	nrdR			
+PHAIDCFJ_00263	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+PHAIDCFJ_00264	gene	681	phoP_1			
+PHAIDCFJ_00264	CDS	681	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PHAIDCFJ_00265	gene	1281	walK			
+PHAIDCFJ_00265	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+PHAIDCFJ_00266	gene	1329	der			
+PHAIDCFJ_00266	CDS	1329	der		COG1160	GTPase Der
+PHAIDCFJ_00267	gene	609	plsY			
+PHAIDCFJ_00267	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+PHAIDCFJ_00268	gene	1011	gpsA			
+PHAIDCFJ_00268	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PHAIDCFJ_00269	gene	702				
+PHAIDCFJ_00269	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+PHAIDCFJ_00270	gene	495	sepF			
+PHAIDCFJ_00270	CDS	495	sepF			Cell division protein SepF
+PHAIDCFJ_00271	gene	258				
+PHAIDCFJ_00271	CDS	258				hypothetical protein
+PHAIDCFJ_00272	gene	786				
+PHAIDCFJ_00272	CDS	786				hypothetical protein
+PHAIDCFJ_00273	gene	654	gpsB			
+PHAIDCFJ_00273	CDS	654	gpsB			Cell cycle protein GpsB
+PHAIDCFJ_00274	gene	3123	mupA			
+PHAIDCFJ_00274	CDS	3123	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+PHAIDCFJ_00275	gene	816				
+PHAIDCFJ_00275	CDS	816				hypothetical protein
+PHAIDCFJ_00276	gene	825				
+PHAIDCFJ_00276	CDS	825				hypothetical protein
+PHAIDCFJ_00277	gene	1884				
+PHAIDCFJ_00277	CDS	1884				hypothetical protein
+PHAIDCFJ_00278	gene	951				
+PHAIDCFJ_00278	CDS	951				hypothetical protein
+PHAIDCFJ_00279	gene	693	glmU_1			
+PHAIDCFJ_00279	CDS	693	glmU_1	2.7.7.23		Bifunctional protein GlmU
+PHAIDCFJ_00280	gene	1176	bdhA			
+PHAIDCFJ_00280	CDS	1176	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+PHAIDCFJ_00281	gene	762	rpsB			
+PHAIDCFJ_00281	CDS	762	rpsB			30S ribosomal protein S2
+PHAIDCFJ_00282	gene	909	tsf			
+PHAIDCFJ_00282	CDS	909	tsf		COG0264	Elongation factor Ts
+PHAIDCFJ_00283	gene	708	pyrH			
+PHAIDCFJ_00283	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+PHAIDCFJ_00284	gene	558	frr			
+PHAIDCFJ_00284	CDS	558	frr		COG0233	Ribosome-recycling factor
+PHAIDCFJ_00285	gene	732	uppS			
+PHAIDCFJ_00285	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+PHAIDCFJ_00286	gene	780				
+PHAIDCFJ_00286	CDS	780				hypothetical protein
+PHAIDCFJ_00287	gene	909				
+PHAIDCFJ_00287	CDS	909				hypothetical protein
+PHAIDCFJ_00288	gene	468	rimP			
+PHAIDCFJ_00288	CDS	468	rimP			Ribosome maturation factor RimP
+PHAIDCFJ_00289	gene	1272	nusA			
+PHAIDCFJ_00289	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+PHAIDCFJ_00290	gene	276				
+PHAIDCFJ_00290	CDS	276				hypothetical protein
+PHAIDCFJ_00291	gene	315	rplGA			
+PHAIDCFJ_00291	CDS	315	rplGA		COG1358	putative ribosomal protein YlxQ
+PHAIDCFJ_00292	gene	1944	infB			
+PHAIDCFJ_00292	CDS	1944	infB			Translation initiation factor IF-2
+PHAIDCFJ_00293	gene	348	rbfA			
+PHAIDCFJ_00293	CDS	348	rbfA			Ribosome-binding factor A
+PHAIDCFJ_00294	gene	804				
+PHAIDCFJ_00294	CDS	804				hypothetical protein
+PHAIDCFJ_00295	gene	162				
+PHAIDCFJ_00295	CDS	162				hypothetical protein
+PHAIDCFJ_00296	gene	1284				
+PHAIDCFJ_00296	CDS	1284				hypothetical protein
+PHAIDCFJ_00297	gene	714	natR			
+PHAIDCFJ_00297	CDS	714	natR		COG3279	Transcriptional regulatory protein NatR
+PHAIDCFJ_00298	gene	231				
+PHAIDCFJ_00298	CDS	231				hypothetical protein
+PHAIDCFJ_00299	gene	882				
+PHAIDCFJ_00299	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+PHAIDCFJ_00300	gene	570	xpt			
+PHAIDCFJ_00300	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+PHAIDCFJ_00301	gene	1338				
+PHAIDCFJ_00301	CDS	1338				Nucleobase transporter PlUacP
+PHAIDCFJ_00302	gene	423	fabZ			
+PHAIDCFJ_00302	CDS	423	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PHAIDCFJ_00303	gene	1236	fabF			
+PHAIDCFJ_00303	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PHAIDCFJ_00304	gene	747	fabG_1			
+PHAIDCFJ_00304	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PHAIDCFJ_00305	gene	939	fabD			
+PHAIDCFJ_00305	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+PHAIDCFJ_00306	gene	939				
+PHAIDCFJ_00306	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+PHAIDCFJ_00307	gene	225	acpP_2			
+PHAIDCFJ_00307	CDS	225	acpP_2		COG0236	Acyl carrier protein
+PHAIDCFJ_00308	gene	1017	fabH			
+PHAIDCFJ_00308	CDS	1017	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+PHAIDCFJ_00309	gene	480				
+PHAIDCFJ_00309	CDS	480				hypothetical protein
+PHAIDCFJ_00310	gene	744	accA			
+PHAIDCFJ_00310	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+PHAIDCFJ_00311	gene	858	accD			
+PHAIDCFJ_00311	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+PHAIDCFJ_00312	gene	1425	accC			
+PHAIDCFJ_00312	CDS	1425	accC	6.3.4.14	COG0439	Biotin carboxylase
+PHAIDCFJ_00313	gene	531				
+PHAIDCFJ_00313	CDS	531				hypothetical protein
+PHAIDCFJ_00314	gene	738	sigF			
+PHAIDCFJ_00314	CDS	738	sigF		COG1191	RNA polymerase sigma-F factor
+PHAIDCFJ_00315	gene	492	ycdZ			
+PHAIDCFJ_00315	CDS	492	ycdZ			Inner membrane protein YcdZ
+PHAIDCFJ_00316	gene	1200	mnmE_1			
+PHAIDCFJ_00316	CDS	1200	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+PHAIDCFJ_00317	gene	1404	bioB_1			
+PHAIDCFJ_00317	CDS	1404	bioB_1	2.8.1.6		Biotin synthase
+PHAIDCFJ_00318	gene	135				
+PHAIDCFJ_00318	CDS	135				hypothetical protein
+PHAIDCFJ_00319	gene	1053				
+PHAIDCFJ_00319	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+PHAIDCFJ_00320	gene	246				
+PHAIDCFJ_00320	CDS	246				hypothetical protein
+PHAIDCFJ_00321	gene	1878	fruA			
+PHAIDCFJ_00321	CDS	1878	fruA		COG1299	PTS system fructose-specific EIIABC component
+PHAIDCFJ_00322	gene	915	lacC			
+PHAIDCFJ_00322	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+PHAIDCFJ_00323	gene	753	lacR			
+PHAIDCFJ_00323	CDS	753	lacR			Lactose phosphotransferase system repressor
+PHAIDCFJ_00324	gene	846				
+PHAIDCFJ_00324	CDS	846				hypothetical protein
+PHAIDCFJ_00325	gene	1929				
+PHAIDCFJ_00325	CDS	1929				hypothetical protein
+PHAIDCFJ_00326	gene	903				
+PHAIDCFJ_00326	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+PHAIDCFJ_00327	gene	426				
+PHAIDCFJ_00327	CDS	426			COG0716	Flavodoxin
+PHAIDCFJ_00328	gene	585				
+PHAIDCFJ_00328	CDS	585				hypothetical protein
+PHAIDCFJ_00329	gene	2070	glyS			
+PHAIDCFJ_00329	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+PHAIDCFJ_00330	gene	885	glyQ			
+PHAIDCFJ_00330	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+PHAIDCFJ_00331	gene	609				
+PHAIDCFJ_00331	CDS	609				hypothetical protein
+PHAIDCFJ_00332	gene	747	recO			
+PHAIDCFJ_00332	CDS	747	recO		COG1381	DNA repair protein RecO
+PHAIDCFJ_00333	gene	1377				
+PHAIDCFJ_00333	CDS	1377			COG2239	Magnesium transporter MgtE
+PHAIDCFJ_00334	gene	903	era			
+PHAIDCFJ_00334	CDS	903	era			GTPase Era
+PHAIDCFJ_00335	gene	897				
+PHAIDCFJ_00335	CDS	897				hypothetical protein
+PHAIDCFJ_00336	gene	462	ybeY			
+PHAIDCFJ_00336	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+PHAIDCFJ_00337	gene	1059				
+PHAIDCFJ_00337	CDS	1059			COG1702	PhoH-like protein
+PHAIDCFJ_00338	gene	552	hpf			
+PHAIDCFJ_00338	CDS	552	hpf			Ribosome hibernation promotion factor
+PHAIDCFJ_00339	gene	924	fba			
+PHAIDCFJ_00339	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+PHAIDCFJ_00340	gene	906				
+PHAIDCFJ_00340	CDS	906				hypothetical protein
+PHAIDCFJ_00341	gene	1104				
+PHAIDCFJ_00341	CDS	1104				hypothetical protein
+PHAIDCFJ_00342	gene	1545				
+PHAIDCFJ_00342	CDS	1545				hypothetical protein
+PHAIDCFJ_00343	gene	765	cbiJ			
+PHAIDCFJ_00343	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+PHAIDCFJ_00344	gene	726	cbiH			
+PHAIDCFJ_00344	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+PHAIDCFJ_00345	gene	1200	cbiG			
+PHAIDCFJ_00345	CDS	1200	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+PHAIDCFJ_00346	gene	759	cbiF			
+PHAIDCFJ_00346	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+PHAIDCFJ_00347	gene	567	cbiT			
+PHAIDCFJ_00347	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+PHAIDCFJ_00348	gene	720	cbiE			
+PHAIDCFJ_00348	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+PHAIDCFJ_00349	gene	1167	cbiD			
+PHAIDCFJ_00349	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+PHAIDCFJ_00350	gene	639	cbiC			
+PHAIDCFJ_00350	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+PHAIDCFJ_00351	gene	885	pduX			
+PHAIDCFJ_00351	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+PHAIDCFJ_00352	gene	1092	cobD			
+PHAIDCFJ_00352	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+PHAIDCFJ_00353	gene	1041	cbiB			
+PHAIDCFJ_00353	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+PHAIDCFJ_00354	gene	1395	cbiA			
+PHAIDCFJ_00354	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+PHAIDCFJ_00355	gene	1503	cobQ			
+PHAIDCFJ_00355	CDS	1503	cobQ			Cobyric acid synthase
+PHAIDCFJ_00356	gene	639	pspA_1			
+PHAIDCFJ_00356	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PHAIDCFJ_00357	gene	771	cobS			
+PHAIDCFJ_00357	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+PHAIDCFJ_00358	gene	588	cobU			
+PHAIDCFJ_00358	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+PHAIDCFJ_00359	gene	1083	cobT			
+PHAIDCFJ_00359	CDS	1083	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+PHAIDCFJ_00360	gene	1173	ctpB			
+PHAIDCFJ_00360	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+PHAIDCFJ_00361	gene	936	aptB			
+PHAIDCFJ_00361	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+PHAIDCFJ_00362	gene	813	aptA			
+PHAIDCFJ_00362	CDS	813	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+PHAIDCFJ_00363	gene	372	acpS			
+PHAIDCFJ_00363	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+PHAIDCFJ_00364	gene	1320	sasA_1			
+PHAIDCFJ_00364	CDS	1320	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+PHAIDCFJ_00365	gene	654	qseB			
+PHAIDCFJ_00365	CDS	654	qseB			Transcriptional regulatory protein QseB
+PHAIDCFJ_00366	gene	1377				
+PHAIDCFJ_00366	CDS	1377				hypothetical protein
+PHAIDCFJ_00367	gene	645				
+PHAIDCFJ_00367	CDS	645			COG1136	putative ABC transporter ATP-binding protein
+PHAIDCFJ_00368	gene	1278				
+PHAIDCFJ_00368	CDS	1278				hypothetical protein
+PHAIDCFJ_00369	gene	891				
+PHAIDCFJ_00369	CDS	891				hypothetical protein
+PHAIDCFJ_00370	gene	1161	resA			
+PHAIDCFJ_00370	CDS	1161	resA			Thiol-disulfide oxidoreductase ResA
+PHAIDCFJ_00371	gene	2367				
+PHAIDCFJ_00371	CDS	2367				hypothetical protein
+PHAIDCFJ_00372	gene	882				
+PHAIDCFJ_00372	CDS	882		3.2.1.-		Protein-ADP-ribose hydrolase
+PHAIDCFJ_00373	gene	390				
+PHAIDCFJ_00373	CDS	390				hypothetical protein
+PHAIDCFJ_00374	gene	864	gloB_1			
+PHAIDCFJ_00374	CDS	864	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+	repeat_region	431				
+PHAIDCFJ_00375	gene	672				
+PHAIDCFJ_00375	CDS	672				hypothetical protein
+PHAIDCFJ_00376	gene	306	cas2			
+PHAIDCFJ_00376	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+PHAIDCFJ_00377	gene	876	cas1			
+PHAIDCFJ_00377	CDS	876	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+PHAIDCFJ_00378	gene	4128	cas9			
+PHAIDCFJ_00378	CDS	4128	cas9	3.1.-.-	COG3513	CRISPR-associated endonuclease Cas9/Csn1
+PHAIDCFJ_00379	gene	1590	clsA_1			
+PHAIDCFJ_00379	CDS	1590	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+PHAIDCFJ_00380	gene	267				
+PHAIDCFJ_00380	CDS	267				hypothetical protein
+PHAIDCFJ_00381	gene	1413	alsT_2			
+PHAIDCFJ_00381	CDS	1413	alsT_2		COG1115	Amino-acid carrier protein AlsT
+PHAIDCFJ_00382	gene	1314	hflX			
+PHAIDCFJ_00382	CDS	1314	hflX		COG2262	GTPase HflX
+PHAIDCFJ_00383	gene	531				
+PHAIDCFJ_00383	CDS	531				hypothetical protein
+PHAIDCFJ_00384	gene	1260	dacF			
+PHAIDCFJ_00384	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+PHAIDCFJ_00385	gene	627				
+PHAIDCFJ_00385	CDS	627				hypothetical protein
+PHAIDCFJ_00386	gene	1638	hcp			
+PHAIDCFJ_00386	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+PHAIDCFJ_00387	gene	741	mta			
+PHAIDCFJ_00387	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+PHAIDCFJ_00388	gene	1362	murE_2			
+PHAIDCFJ_00388	CDS	1362	murE_2	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+PHAIDCFJ_00389	gene	1431	pepD_1			
+PHAIDCFJ_00389	CDS	1431	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+PHAIDCFJ_00390	gene	678	purC			
+PHAIDCFJ_00390	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PHAIDCFJ_00391	gene	1059				
+PHAIDCFJ_00391	CDS	1059				hypothetical protein
+PHAIDCFJ_00392	gene	873				
+PHAIDCFJ_00392	CDS	873				hypothetical protein
+PHAIDCFJ_00393	gene	1401				
+PHAIDCFJ_00393	CDS	1401				hypothetical protein
+PHAIDCFJ_00394	gene	702				
+PHAIDCFJ_00394	CDS	702				hypothetical protein
+PHAIDCFJ_00395	gene	510				
+PHAIDCFJ_00395	CDS	510				hypothetical protein
+PHAIDCFJ_00396	gene	2652	valS			
+PHAIDCFJ_00396	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+PHAIDCFJ_00397	gene	1551	rsxB_1			
+PHAIDCFJ_00397	CDS	1551	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+PHAIDCFJ_00398	gene	1551	ybiT_1			
+PHAIDCFJ_00398	CDS	1551	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+PHAIDCFJ_00399	gene	2766	mtgA_1			
+PHAIDCFJ_00399	CDS	2766	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+PHAIDCFJ_00400	gene	1617	deaD			
+PHAIDCFJ_00400	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+PHAIDCFJ_00401	gene	2376				
+PHAIDCFJ_00401	CDS	2376				hypothetical protein
+PHAIDCFJ_00402	gene	1650				
+PHAIDCFJ_00402	CDS	1650				hypothetical protein
+PHAIDCFJ_00403	gene	963				
+PHAIDCFJ_00403	CDS	963				hypothetical protein
+PHAIDCFJ_00404	gene	1188	thiI			
+PHAIDCFJ_00404	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+PHAIDCFJ_00405	gene	1158	iscS			
+PHAIDCFJ_00405	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+PHAIDCFJ_00406	gene	642				
+PHAIDCFJ_00406	CDS	642				hypothetical protein
+PHAIDCFJ_00407	gene	1050				
+PHAIDCFJ_00407	CDS	1050			COG2826	IS30 family transposase ISHahy9
+PHAIDCFJ_00408	gene	114				
+PHAIDCFJ_00408	CDS	114				hypothetical protein
+PHAIDCFJ_00409	gene	618				
+PHAIDCFJ_00409	CDS	618				hypothetical protein
+PHAIDCFJ_00410	gene	864				
+PHAIDCFJ_00410	CDS	864				hypothetical protein
+PHAIDCFJ_00411	gene	714				
+PHAIDCFJ_00411	CDS	714				hypothetical protein
+PHAIDCFJ_00412	gene	1233				
+PHAIDCFJ_00412	CDS	1233				IS256 family transposase ISCth4
+PHAIDCFJ_00413	gene	1287	cna			
+PHAIDCFJ_00413	CDS	1287	cna			Collagen adhesin
+PHAIDCFJ_00414	gene	705	srtD			
+PHAIDCFJ_00414	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+PHAIDCFJ_00415	gene	1017	nrnA			
+PHAIDCFJ_00415	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+PHAIDCFJ_00416	gene	903	truB			
+PHAIDCFJ_00416	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+PHAIDCFJ_00417	gene	972	ribF			
+PHAIDCFJ_00417	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+PHAIDCFJ_00418	gene	255	rpsO			
+PHAIDCFJ_00418	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+PHAIDCFJ_00419	gene	846				
+PHAIDCFJ_00419	CDS	846			COG1307	Fatty acid-binding protein
+PHAIDCFJ_00420	gene	2091	pnp			
+PHAIDCFJ_00420	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+PHAIDCFJ_00421	gene	2073				
+PHAIDCFJ_00421	CDS	2073				hypothetical protein
+PHAIDCFJ_00422	gene	1266				
+PHAIDCFJ_00422	CDS	1266		3.4.24.-	COG0612	putative zinc protease
+PHAIDCFJ_00423	gene	2574				
+PHAIDCFJ_00423	CDS	2574				hypothetical protein
+PHAIDCFJ_00424	gene	1323	rimO			
+PHAIDCFJ_00424	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+PHAIDCFJ_00425	gene	540	pgsA			
+PHAIDCFJ_00425	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PHAIDCFJ_00426	gene	1050	recA			
+PHAIDCFJ_00426	CDS	1050	recA		COG0468	Protein RecA
+PHAIDCFJ_00427	gene	1500	guaB			
+PHAIDCFJ_00427	CDS	1500	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+PHAIDCFJ_00428	gene	750				
+PHAIDCFJ_00428	CDS	750				hypothetical protein
+PHAIDCFJ_00429	gene	1671	rnjA			
+PHAIDCFJ_00429	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+PHAIDCFJ_00430	gene	633				
+PHAIDCFJ_00430	CDS	633				hypothetical protein
+PHAIDCFJ_00431	gene	762	scpA			
+PHAIDCFJ_00431	CDS	762	scpA		COG1354	Segregation and condensation protein A
+PHAIDCFJ_00432	gene	519	scpB			
+PHAIDCFJ_00432	CDS	519	scpB		COG1386	Segregation and condensation protein B
+PHAIDCFJ_00433	gene	750	cobB			
+PHAIDCFJ_00433	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+PHAIDCFJ_00434	gene	441				
+PHAIDCFJ_00434	CDS	441				hypothetical protein
+PHAIDCFJ_00435	gene	1515				
+PHAIDCFJ_00435	CDS	1515				hypothetical protein
+PHAIDCFJ_00436	gene	1761				
+PHAIDCFJ_00436	CDS	1761				hypothetical protein
+PHAIDCFJ_00437	gene	555				
+PHAIDCFJ_00437	CDS	555				hypothetical protein
+PHAIDCFJ_00438	gene	675	arlR			
+PHAIDCFJ_00438	CDS	675	arlR		COG0745	Response regulator ArlR
+PHAIDCFJ_00439	gene	1278	sasA_2			
+PHAIDCFJ_00439	CDS	1278	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+PHAIDCFJ_00440	gene	318				
+PHAIDCFJ_00440	CDS	318				hypothetical protein
+PHAIDCFJ_00441	gene	4719				
+PHAIDCFJ_00441	CDS	4719				hypothetical protein
+PHAIDCFJ_00442	gene	3819				
+PHAIDCFJ_00442	CDS	3819				hypothetical protein
+PHAIDCFJ_00443	gene	510	folA			
+PHAIDCFJ_00443	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+PHAIDCFJ_00444	gene	834	thyA			
+PHAIDCFJ_00444	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+PHAIDCFJ_00445	gene	1860				
+PHAIDCFJ_00445	CDS	1860				hypothetical protein
+PHAIDCFJ_00446	gene	786				
+PHAIDCFJ_00446	CDS	786				hypothetical protein
+PHAIDCFJ_00447	gene	699				
+PHAIDCFJ_00447	CDS	699				hypothetical protein
+PHAIDCFJ_00448	gene	4311	polC_1			
+PHAIDCFJ_00448	CDS	4311	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+PHAIDCFJ_00449	gene	885				
+PHAIDCFJ_00449	CDS	885				hypothetical protein
+PHAIDCFJ_00450	gene	852				
+PHAIDCFJ_00450	CDS	852				hypothetical protein
+PHAIDCFJ_00451	gene	1383	dinG			
+PHAIDCFJ_00451	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+PHAIDCFJ_00452	gene	1158				
+PHAIDCFJ_00452	CDS	1158				hypothetical protein
+PHAIDCFJ_00453	gene	741				
+PHAIDCFJ_00453	CDS	741				hypothetical protein
+PHAIDCFJ_00454	gene	339				
+PHAIDCFJ_00454	CDS	339				hypothetical protein
+PHAIDCFJ_00455	gene	1020	gap_1			
+PHAIDCFJ_00455	CDS	1020	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+PHAIDCFJ_00456	gene	4305				
+PHAIDCFJ_00456	CDS	4305				hypothetical protein
+PHAIDCFJ_00457	gene	1326				
+PHAIDCFJ_00457	CDS	1326				hypothetical protein
+PHAIDCFJ_00458	gene	801	artJ			
+PHAIDCFJ_00458	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+PHAIDCFJ_00459	gene	618	artQ_2			
+PHAIDCFJ_00459	CDS	618	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+PHAIDCFJ_00460	gene	645	artM_2			
+PHAIDCFJ_00460	CDS	645	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+PHAIDCFJ_00461	gene	1155				
+PHAIDCFJ_00461	CDS	1155				hypothetical protein
+PHAIDCFJ_00462	gene	1137				
+PHAIDCFJ_00462	CDS	1137				TelA-like protein
+PHAIDCFJ_00463	gene	1149	rlmL_1			
+PHAIDCFJ_00463	CDS	1149	rlmL_1		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+PHAIDCFJ_00464	gene	1365				
+PHAIDCFJ_00464	CDS	1365				hypothetical protein
+PHAIDCFJ_00465	gene	696	walR			
+PHAIDCFJ_00465	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+PHAIDCFJ_00466	gene	1437	rcsC			
+PHAIDCFJ_00466	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+PHAIDCFJ_00467	gene	1353	mepA_2			
+PHAIDCFJ_00467	CDS	1353	mepA_2		COG0534	Multidrug export protein MepA
+PHAIDCFJ_00468	gene	843				
+PHAIDCFJ_00468	CDS	843				hypothetical protein
+PHAIDCFJ_00469	gene	417				
+PHAIDCFJ_00469	CDS	417				hypothetical protein
+PHAIDCFJ_00470	gene	720	ytrB			
+PHAIDCFJ_00470	CDS	720	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+PHAIDCFJ_00471	gene	795				
+PHAIDCFJ_00471	CDS	795				hypothetical protein
+PHAIDCFJ_00472	gene	906				
+PHAIDCFJ_00472	CDS	906				hypothetical protein
+PHAIDCFJ_00473	gene	1260				
+PHAIDCFJ_00473	CDS	1260				hypothetical protein
+PHAIDCFJ_00474	gene	1101				
+PHAIDCFJ_00474	CDS	1101				hypothetical protein
+PHAIDCFJ_00475	gene	1851				
+PHAIDCFJ_00475	CDS	1851				hypothetical protein
+PHAIDCFJ_00476	gene	936	corA			
+PHAIDCFJ_00476	CDS	936	corA		COG0598	Cobalt/magnesium transport protein CorA
+PHAIDCFJ_00477	gene	705				
+PHAIDCFJ_00477	CDS	705				hypothetical protein
+PHAIDCFJ_00478	gene	1839	typA			
+PHAIDCFJ_00478	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+PHAIDCFJ_00479	gene	201				
+PHAIDCFJ_00479	CDS	201				hypothetical protein
+PHAIDCFJ_00480	gene	2268	copA			
+PHAIDCFJ_00480	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+PHAIDCFJ_00481	gene	297				
+PHAIDCFJ_00481	CDS	297				hypothetical protein
+PHAIDCFJ_00482	gene	684	czcR			
+PHAIDCFJ_00482	CDS	684	czcR			Transcriptional activator protein CzcR
+PHAIDCFJ_00483	gene	1374	adeP			
+PHAIDCFJ_00483	CDS	1374	adeP		COG2252	Adenine permease AdeP
+PHAIDCFJ_00484	gene	1620	ybiT_2			
+PHAIDCFJ_00484	CDS	1620	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+PHAIDCFJ_00485	gene	567	pinR			
+PHAIDCFJ_00485	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+PHAIDCFJ_00486	gene	603	nudL			
+PHAIDCFJ_00486	CDS	603	nudL	3.6.1.-		putative Nudix hydrolase NudL
+PHAIDCFJ_00487	gene	291				
+PHAIDCFJ_00487	CDS	291				hypothetical protein
+PHAIDCFJ_00488	gene	762	ribX			
+PHAIDCFJ_00488	CDS	762	ribX			Riboflavin transport system permease protein RibX
+PHAIDCFJ_00489	gene	1023	thiY			
+PHAIDCFJ_00489	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+PHAIDCFJ_00490	gene	726	tauB			
+PHAIDCFJ_00490	CDS	726	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+PHAIDCFJ_00491	gene	2643	mutS			
+PHAIDCFJ_00491	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+PHAIDCFJ_00492	gene	2061	mutL			
+PHAIDCFJ_00492	CDS	2061	mutL			DNA mismatch repair protein MutL
+PHAIDCFJ_00493	gene	954	miaA			
+PHAIDCFJ_00493	CDS	954	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+PHAIDCFJ_00494	gene	1275				
+PHAIDCFJ_00494	CDS	1275				hypothetical protein
+PHAIDCFJ_00495	gene	498	proX			
+PHAIDCFJ_00495	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+PHAIDCFJ_00496	gene	2121	nrdD			
+PHAIDCFJ_00496	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+PHAIDCFJ_00497	gene	504	nrdG			
+PHAIDCFJ_00497	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+PHAIDCFJ_00498	gene	318	erpA			
+PHAIDCFJ_00498	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+PHAIDCFJ_00499	gene	858	trmB			
+PHAIDCFJ_00499	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+PHAIDCFJ_00500	gene	819				
+PHAIDCFJ_00500	CDS	819				hypothetical protein
+PHAIDCFJ_00501	gene	849				
+PHAIDCFJ_00501	CDS	849				DegV domain-containing protein
+PHAIDCFJ_00502	gene	1356	prpC			
+PHAIDCFJ_00502	CDS	1356	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+PHAIDCFJ_00503	gene	1053	ltaE			
+PHAIDCFJ_00503	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+PHAIDCFJ_00504	gene	1140	xerD			
+PHAIDCFJ_00504	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+PHAIDCFJ_00505	gene	636	lexA			
+PHAIDCFJ_00505	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+PHAIDCFJ_00506	gene	489				
+PHAIDCFJ_00506	CDS	489				hypothetical protein
+PHAIDCFJ_00507	gene	1896	ftsH4			
+PHAIDCFJ_00507	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+PHAIDCFJ_00508	gene	831	ispH			
+PHAIDCFJ_00508	CDS	831	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+PHAIDCFJ_00509	gene	615	plsC			
+PHAIDCFJ_00509	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PHAIDCFJ_00510	gene	660	cmk			
+PHAIDCFJ_00510	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+PHAIDCFJ_00511	gene	1257				
+PHAIDCFJ_00511	CDS	1257			COG2081	putative protein
+PHAIDCFJ_00512	gene	651	pspA_2			
+PHAIDCFJ_00512	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PHAIDCFJ_00513	gene	942	hexR			
+PHAIDCFJ_00513	CDS	942	hexR		COG1737	HTH-type transcriptional regulator HexR
+PHAIDCFJ_00514	gene	732	rluB			
+PHAIDCFJ_00514	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+PHAIDCFJ_00515	gene	705				
+PHAIDCFJ_00515	CDS	705				hypothetical protein
+PHAIDCFJ_00516	gene	1389	gltD			
+PHAIDCFJ_00516	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+PHAIDCFJ_00517	gene	894				
+PHAIDCFJ_00517	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+PHAIDCFJ_00518	gene	855	sseB			
+PHAIDCFJ_00518	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+PHAIDCFJ_00519	gene	1053	mtgA_2			
+PHAIDCFJ_00519	CDS	1053	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+PHAIDCFJ_00520	gene	519	polC_2			
+PHAIDCFJ_00520	CDS	519	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+PHAIDCFJ_00521	gene	891	ttcA			
+PHAIDCFJ_00521	CDS	891	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+PHAIDCFJ_00522	gene	2277	topB			
+PHAIDCFJ_00522	CDS	2277	topB	5.6.2.1		DNA topoisomerase 3
+PHAIDCFJ_00523	gene	1422	purF			
+PHAIDCFJ_00523	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+PHAIDCFJ_00524	gene	1647	gltX			
+PHAIDCFJ_00524	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+PHAIDCFJ_00525	gene	1452				
+PHAIDCFJ_00525	CDS	1452				hypothetical protein
+PHAIDCFJ_00526	gene	684				
+PHAIDCFJ_00526	CDS	684				hypothetical protein
+PHAIDCFJ_00527	gene	336				
+PHAIDCFJ_00527	CDS	336				hypothetical protein
+PHAIDCFJ_00528	gene	771				
+PHAIDCFJ_00528	CDS	771				hypothetical protein
+PHAIDCFJ_00529	gene	594				
+PHAIDCFJ_00529	CDS	594				hypothetical protein
+PHAIDCFJ_00530	gene	576				
+PHAIDCFJ_00530	CDS	576				hypothetical protein
+PHAIDCFJ_00531	gene	954				
+PHAIDCFJ_00531	CDS	954				hypothetical protein
+PHAIDCFJ_00532	gene	567				
+PHAIDCFJ_00532	CDS	567				hypothetical protein
+PHAIDCFJ_00533	gene	804	ywpJ			
+PHAIDCFJ_00533	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+PHAIDCFJ_00534	gene	1266	cinA			
+PHAIDCFJ_00534	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+PHAIDCFJ_00535	gene	897	ddl			
+PHAIDCFJ_00535	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+PHAIDCFJ_00536	gene	2205	srfAB			
+PHAIDCFJ_00536	CDS	2205	srfAB			Surfactin synthase subunit 2
+PHAIDCFJ_00537	gene	894				
+PHAIDCFJ_00537	CDS	894				hypothetical protein
+PHAIDCFJ_00538	gene	1401	asnS			
+PHAIDCFJ_00538	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+PHAIDCFJ_00539	gene	1572				
+PHAIDCFJ_00539	CDS	1572				hypothetical protein
+PHAIDCFJ_00540	gene	1860	asnB			
+PHAIDCFJ_00540	CDS	1860	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+PHAIDCFJ_00541	gene	780	aroK			
+PHAIDCFJ_00541	CDS	780	aroK	2.7.1.71		Shikimate kinase
+PHAIDCFJ_00542	gene	1077	aroC			
+PHAIDCFJ_00542	CDS	1077	aroC	4.2.3.5	COG0082	Chorismate synthase
+PHAIDCFJ_00543	gene	1416	aroA			
+PHAIDCFJ_00543	CDS	1416	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+PHAIDCFJ_00544	gene	219				
+PHAIDCFJ_00544	CDS	219				hypothetical protein
+PHAIDCFJ_00545	gene	681				
+PHAIDCFJ_00545	CDS	681				hypothetical protein
+PHAIDCFJ_00546	gene	2154	ptsG			
+PHAIDCFJ_00546	CDS	2154	ptsG	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+PHAIDCFJ_00547	gene	882	licT			
+PHAIDCFJ_00547	CDS	882	licT		COG3711	Transcription antiterminator LicT
+PHAIDCFJ_00548	gene	3534				
+PHAIDCFJ_00548	CDS	3534		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+PHAIDCFJ_00549	gene	1764				
+PHAIDCFJ_00549	CDS	1764				hypothetical protein
+PHAIDCFJ_00550	gene	477				
+PHAIDCFJ_00550	CDS	477				hypothetical protein
+PHAIDCFJ_00551	gene	1236	baiN			
+PHAIDCFJ_00551	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+PHAIDCFJ_00552	gene	795				
+PHAIDCFJ_00552	CDS	795				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+PHAIDCFJ_00553	gene	531	hpt_1			
+PHAIDCFJ_00553	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+PHAIDCFJ_00554	gene	1005	asnA			
+PHAIDCFJ_00554	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+PHAIDCFJ_00555	gene	1230				
+PHAIDCFJ_00555	CDS	1230				hypothetical protein
+PHAIDCFJ_00556	gene	1104				
+PHAIDCFJ_00556	CDS	1104				hypothetical protein
+PHAIDCFJ_00557	gene	1023	lnpD			
+PHAIDCFJ_00557	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+PHAIDCFJ_00558	gene	177				
+PHAIDCFJ_00558	CDS	177				hypothetical protein
+PHAIDCFJ_00559	gene	1980				
+PHAIDCFJ_00559	CDS	1980				hypothetical protein
+PHAIDCFJ_00560	gene	2835				
+PHAIDCFJ_00560	CDS	2835				hypothetical protein
+PHAIDCFJ_00561	gene	738				
+PHAIDCFJ_00561	CDS	738				hypothetical protein
+PHAIDCFJ_00562	gene	1659	glnS			
+PHAIDCFJ_00562	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+PHAIDCFJ_00563	gene	558				
+PHAIDCFJ_00563	CDS	558				hypothetical protein
+PHAIDCFJ_00564	gene	1440	miaB			
+PHAIDCFJ_00564	CDS	1440	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PHAIDCFJ_00565	gene	666				
+PHAIDCFJ_00565	CDS	666				hypothetical protein
+PHAIDCFJ_00566	gene	552	trpP			
+PHAIDCFJ_00566	CDS	552	trpP			putative tryptophan transport protein
+PHAIDCFJ_00567	gene	2415				
+PHAIDCFJ_00567	CDS	2415				hypothetical protein
+PHAIDCFJ_00568	gene	651				
+PHAIDCFJ_00568	CDS	651				hypothetical protein
+PHAIDCFJ_00569	gene	735				
+PHAIDCFJ_00569	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+PHAIDCFJ_00570	gene	213				
+PHAIDCFJ_00570	CDS	213				hypothetical protein
+PHAIDCFJ_00571	gene	804				
+PHAIDCFJ_00571	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+PHAIDCFJ_00572	gene	777	trmK			
+PHAIDCFJ_00572	CDS	777	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+PHAIDCFJ_00573	gene	1155	sigA			
+PHAIDCFJ_00573	CDS	1155	sigA		COG0568	RNA polymerase sigma factor SigA
+PHAIDCFJ_00574	gene	1824	dnaG			
+PHAIDCFJ_00574	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+PHAIDCFJ_00575	gene	957				
+PHAIDCFJ_00575	CDS	957				hypothetical protein
+PHAIDCFJ_00576	gene	867				
+PHAIDCFJ_00576	CDS	867				hypothetical protein
+PHAIDCFJ_00577	gene	507				
+PHAIDCFJ_00577	CDS	507				hypothetical protein
+PHAIDCFJ_00578	gene	951				
+PHAIDCFJ_00578	CDS	951				hypothetical protein
+PHAIDCFJ_00579	gene	1059				
+PHAIDCFJ_00579	CDS	1059				hypothetical protein
+PHAIDCFJ_00580	gene	471				
+PHAIDCFJ_00580	CDS	471				hypothetical protein
+PHAIDCFJ_00581	gene	825	metQ			
+PHAIDCFJ_00581	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+PHAIDCFJ_00582	gene	654	metP			
+PHAIDCFJ_00582	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+PHAIDCFJ_00583	gene	969	metN			
+PHAIDCFJ_00583	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+PHAIDCFJ_00584	gene	354				
+PHAIDCFJ_00584	CDS	354				hypothetical protein
+PHAIDCFJ_00585	gene	1296	brnQ_2			
+PHAIDCFJ_00585	CDS	1296	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+PHAIDCFJ_00586	gene	2589	clpB			
+PHAIDCFJ_00586	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+PHAIDCFJ_00587	gene	642				
+PHAIDCFJ_00587	CDS	642				hypothetical protein
+PHAIDCFJ_00588	gene	411				
+PHAIDCFJ_00588	CDS	411				hypothetical protein
+PHAIDCFJ_00589	gene	1188	dxr			
+PHAIDCFJ_00589	CDS	1188	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+PHAIDCFJ_00590	gene	1011	mmpA			
+PHAIDCFJ_00590	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+PHAIDCFJ_00591	gene	1056	ispG			
+PHAIDCFJ_00591	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+PHAIDCFJ_00592	gene	528				
+PHAIDCFJ_00592	CDS	528				hypothetical protein
+PHAIDCFJ_00593	gene	477				
+PHAIDCFJ_00593	CDS	477				hypothetical protein
+PHAIDCFJ_00594	gene	708				
+PHAIDCFJ_00594	CDS	708				hypothetical protein
+PHAIDCFJ_00595	gene	471				
+PHAIDCFJ_00595	CDS	471				hypothetical protein
+PHAIDCFJ_00596	gene	1233				
+PHAIDCFJ_00596	CDS	1233				hypothetical protein
+PHAIDCFJ_00597	gene	645	trmR			
+PHAIDCFJ_00597	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+PHAIDCFJ_00598	gene	1203	mltG			
+PHAIDCFJ_00598	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+PHAIDCFJ_00599	gene	822	punA			
+PHAIDCFJ_00599	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+PHAIDCFJ_00600	gene	1074				
+PHAIDCFJ_00600	CDS	1074				hypothetical protein
+PHAIDCFJ_00601	gene	831				
+PHAIDCFJ_00601	CDS	831				hypothetical protein
+PHAIDCFJ_00602	gene	687	arnC			
+PHAIDCFJ_00602	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+PHAIDCFJ_00603	gene	864				
+PHAIDCFJ_00603	CDS	864				hypothetical protein
+PHAIDCFJ_00604	gene	1122				
+PHAIDCFJ_00604	CDS	1122				hypothetical protein
+PHAIDCFJ_00605	gene	1683	recN			
+PHAIDCFJ_00605	CDS	1683	recN		COG0497	DNA repair protein RecN
+PHAIDCFJ_00606	gene	843	tlyA			
+PHAIDCFJ_00606	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+PHAIDCFJ_00607	gene	1947	dxs			
+PHAIDCFJ_00607	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+PHAIDCFJ_00608	gene	432				
+PHAIDCFJ_00608	CDS	432				hypothetical protein
+PHAIDCFJ_00609	gene	885				
+PHAIDCFJ_00609	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+PHAIDCFJ_00610	gene	246	xseB			
+PHAIDCFJ_00610	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+PHAIDCFJ_00611	gene	1206	xseA			
+PHAIDCFJ_00611	CDS	1206	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+PHAIDCFJ_00612	gene	1107				
+PHAIDCFJ_00612	CDS	1107				hypothetical protein
+PHAIDCFJ_00613	gene	582				
+PHAIDCFJ_00613	CDS	582				hypothetical protein
+PHAIDCFJ_00614	gene	318				
+PHAIDCFJ_00614	CDS	318				hypothetical protein
+PHAIDCFJ_00615	gene	1395	alaS_1			
+PHAIDCFJ_00615	CDS	1395	alaS_1	6.1.1.7		Alanine--tRNA ligase
+PHAIDCFJ_00616	gene	954	msrAB			
+PHAIDCFJ_00616	CDS	954	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+PHAIDCFJ_00617	gene	678				
+PHAIDCFJ_00617	CDS	678				hypothetical protein
+PHAIDCFJ_00618	gene	1161				
+PHAIDCFJ_00618	CDS	1161				hypothetical protein
+PHAIDCFJ_00619	gene	1878				
+PHAIDCFJ_00619	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+PHAIDCFJ_00620	gene	2175	btuD_1			
+PHAIDCFJ_00620	CDS	2175	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PHAIDCFJ_00621	gene	768	prsA_1			
+PHAIDCFJ_00621	CDS	768	prsA_1	5.2.1.8		Foldase protein PrsA
+PHAIDCFJ_00622	gene	444				
+PHAIDCFJ_00622	CDS	444				hypothetical protein
+PHAIDCFJ_00623	gene	465				
+PHAIDCFJ_00623	CDS	465				hypothetical protein
+PHAIDCFJ_00624	gene	453				
+PHAIDCFJ_00624	CDS	453				hypothetical protein
+PHAIDCFJ_00625	gene	201	cspA			
+PHAIDCFJ_00625	CDS	201	cspA		COG1278	Cold shock protein CspA
+PHAIDCFJ_00626	gene	825	pdxY			
+PHAIDCFJ_00626	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+PHAIDCFJ_00627	gene	1902				
+PHAIDCFJ_00627	CDS	1902				hypothetical protein
+PHAIDCFJ_00628	gene	957	galT			
+PHAIDCFJ_00628	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+PHAIDCFJ_00629	gene	1200				
+PHAIDCFJ_00629	CDS	1200		2.6.1.1		Aspartate aminotransferase
+PHAIDCFJ_00630	gene	813	uppP			
+PHAIDCFJ_00630	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+PHAIDCFJ_00631	gene	1782				
+PHAIDCFJ_00631	CDS	1782				hypothetical protein
+PHAIDCFJ_00632	gene	1548	rny			
+PHAIDCFJ_00632	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+PHAIDCFJ_00633	gene	1626				
+PHAIDCFJ_00633	CDS	1626				hypothetical protein
+PHAIDCFJ_00634	gene	1083				
+PHAIDCFJ_00634	CDS	1083				hypothetical protein
+PHAIDCFJ_00635	gene	450	fur			
+PHAIDCFJ_00635	CDS	450	fur		COG0735	Ferric uptake regulation protein
+PHAIDCFJ_00636	gene	417	yrrK			
+PHAIDCFJ_00636	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+PHAIDCFJ_00637	gene	2280				
+PHAIDCFJ_00637	CDS	2280				hypothetical protein
+PHAIDCFJ_00638	gene	261				
+PHAIDCFJ_00638	CDS	261				hypothetical protein
+PHAIDCFJ_00639	gene	2637	alaS_2			
+PHAIDCFJ_00639	CDS	2637	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+PHAIDCFJ_00640	gene	780	lytB			
+PHAIDCFJ_00640	CDS	780	lytB		COG2247	Amidase enhancer
+PHAIDCFJ_00641	gene	750				
+PHAIDCFJ_00641	CDS	750				hypothetical protein
+PHAIDCFJ_00642	gene	1446	proS			
+PHAIDCFJ_00642	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+PHAIDCFJ_00643	gene	1092	yacL			
+PHAIDCFJ_00643	CDS	1092	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+PHAIDCFJ_00644	gene	1077	disA			
+PHAIDCFJ_00644	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+PHAIDCFJ_00645	gene	1380	radA			
+PHAIDCFJ_00645	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+PHAIDCFJ_00646	gene	219				
+PHAIDCFJ_00646	CDS	219				hypothetical protein
+PHAIDCFJ_00647	gene	1245				
+PHAIDCFJ_00647	CDS	1245				hypothetical protein
+PHAIDCFJ_00648	gene	999				
+PHAIDCFJ_00648	CDS	999				hypothetical protein
+PHAIDCFJ_00649	gene	1959	fusA_1			
+PHAIDCFJ_00649	CDS	1959	fusA_1		COG0480	Elongation factor G
+PHAIDCFJ_00650	gene	366				
+PHAIDCFJ_00650	CDS	366				hypothetical protein
+PHAIDCFJ_00651	gene	1041				
+PHAIDCFJ_00651	CDS	1041				hypothetical protein
+PHAIDCFJ_00652	gene	2016	gdpP			
+PHAIDCFJ_00652	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+PHAIDCFJ_00653	gene	447	rplI			
+PHAIDCFJ_00653	CDS	447	rplI			50S ribosomal protein L9
+PHAIDCFJ_00654	gene	1338	dnaC			
+PHAIDCFJ_00654	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+PHAIDCFJ_00655	gene	990	dnaA_1			
+PHAIDCFJ_00655	CDS	990	dnaA_1			Chromosomal replication initiator protein DnaA
+PHAIDCFJ_00656	gene	1050				
+PHAIDCFJ_00656	CDS	1050				hypothetical protein
+PHAIDCFJ_00657	gene	483	rlmH			
+PHAIDCFJ_00657	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+PHAIDCFJ_00658	gene	801	yycJ			
+PHAIDCFJ_00658	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+PHAIDCFJ_00659	gene	162				
+PHAIDCFJ_00659	CDS	162				Rubredoxin
+PHAIDCFJ_00660	gene	462	zur			
+PHAIDCFJ_00660	CDS	462	zur		COG0735	Zinc uptake regulation protein
+PHAIDCFJ_00661	gene	981	znuA			
+PHAIDCFJ_00661	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+PHAIDCFJ_00662	gene	669	mntB			
+PHAIDCFJ_00662	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+PHAIDCFJ_00663	gene	786	znuB			
+PHAIDCFJ_00663	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+PHAIDCFJ_00664	gene	753				
+PHAIDCFJ_00664	CDS	753				hypothetical protein
+PHAIDCFJ_00665	gene	216				
+PHAIDCFJ_00665	CDS	216				hypothetical protein
+PHAIDCFJ_00666	gene	228	rpsR			
+PHAIDCFJ_00666	CDS	228	rpsR			30S ribosomal protein S18
+PHAIDCFJ_00667	gene	444	ssb			
+PHAIDCFJ_00667	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+PHAIDCFJ_00668	gene	291	rpsF			
+PHAIDCFJ_00668	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+PHAIDCFJ_00669	gene	1197	lysN_2			
+PHAIDCFJ_00669	CDS	1197	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+PHAIDCFJ_00670	gene	180				
+PHAIDCFJ_00670	CDS	180				hypothetical protein
+PHAIDCFJ_00671	gene	618				
+PHAIDCFJ_00671	CDS	618				hypothetical protein
+PHAIDCFJ_00672	gene	900				
+PHAIDCFJ_00672	CDS	900				hypothetical protein
+PHAIDCFJ_00673	gene	1077	lytC_4			
+PHAIDCFJ_00673	CDS	1077	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_00674	gene	522	bcrC			
+PHAIDCFJ_00674	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+PHAIDCFJ_00675	gene	543	yajL			
+PHAIDCFJ_00675	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+PHAIDCFJ_00676	gene	921				
+PHAIDCFJ_00676	CDS	921				hypothetical protein
+PHAIDCFJ_00677	gene	600	COQ5_2			
+PHAIDCFJ_00677	CDS	600	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+PHAIDCFJ_00678	gene	1278				
+PHAIDCFJ_00678	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+PHAIDCFJ_00679	gene	1287	brnQ_3			
+PHAIDCFJ_00679	CDS	1287	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+PHAIDCFJ_00680	gene	849	panC			
+PHAIDCFJ_00680	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+PHAIDCFJ_00681	gene	828	panB			
+PHAIDCFJ_00681	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+PHAIDCFJ_00682	gene	885				
+PHAIDCFJ_00682	CDS	885				hypothetical protein
+PHAIDCFJ_00683	gene	201				
+PHAIDCFJ_00683	CDS	201				hypothetical protein
+PHAIDCFJ_00684	gene	615	sodA1			
+PHAIDCFJ_00684	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+PHAIDCFJ_00685	gene	771				
+PHAIDCFJ_00685	CDS	771				hypothetical protein
+PHAIDCFJ_00686	gene	702	yidC2			
+PHAIDCFJ_00686	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+PHAIDCFJ_00687	gene	264	yidD			
+PHAIDCFJ_00687	CDS	264	yidD			Putative membrane protein insertion efficiency factor
+PHAIDCFJ_00688	gene	378	rnpA			
+PHAIDCFJ_00688	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+PHAIDCFJ_00689	gene	135	rpmH			
+PHAIDCFJ_00689	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+PHAIDCFJ_00690	gene	1365	dnaA_2			
+PHAIDCFJ_00690	CDS	1365	dnaA_2			Chromosomal replication initiator protein DnaA
+PHAIDCFJ_00691	gene	1104	dnaN			
+PHAIDCFJ_00691	CDS	1104	dnaN		COG0592	Beta sliding clamp
+PHAIDCFJ_00692	gene	210				
+PHAIDCFJ_00692	CDS	210				hypothetical protein
+PHAIDCFJ_00693	gene	1116	recF			
+PHAIDCFJ_00693	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+PHAIDCFJ_00694	gene	1908	gyrB			
+PHAIDCFJ_00694	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+PHAIDCFJ_00695	gene	2439	gyrA			
+PHAIDCFJ_00695	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+PHAIDCFJ_00696	gene	318	rsbV			
+PHAIDCFJ_00696	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+PHAIDCFJ_00697	gene	408	rsbW			
+PHAIDCFJ_00697	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+PHAIDCFJ_00698	gene	774	sigB			
+PHAIDCFJ_00698	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+PHAIDCFJ_00699	gene	183				
+PHAIDCFJ_00699	CDS	183				hypothetical protein
+PHAIDCFJ_00700	gene	771	bphF			
+PHAIDCFJ_00700	CDS	771	bphF	4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+PHAIDCFJ_00701	gene	822	mscS			
+PHAIDCFJ_00701	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+PHAIDCFJ_00702	gene	1188				
+PHAIDCFJ_00702	CDS	1188				hypothetical protein
+PHAIDCFJ_00703	gene	1584				
+PHAIDCFJ_00703	CDS	1584				hypothetical protein
+PHAIDCFJ_00704	gene	756				
+PHAIDCFJ_00704	CDS	756				hypothetical protein
+PHAIDCFJ_00705	gene	2514				
+PHAIDCFJ_00705	CDS	2514				hypothetical protein
+PHAIDCFJ_00706	gene	1404	cysS			
+PHAIDCFJ_00706	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+PHAIDCFJ_00707	gene	453	mrnC			
+PHAIDCFJ_00707	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+PHAIDCFJ_00708	gene	735				
+PHAIDCFJ_00708	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+PHAIDCFJ_00709	gene	564				
+PHAIDCFJ_00709	CDS	564				hypothetical protein
+PHAIDCFJ_00710	gene	660	sigH			
+PHAIDCFJ_00710	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+PHAIDCFJ_00711	gene	264				
+PHAIDCFJ_00711	CDS	264				hypothetical protein
+PHAIDCFJ_00712	gene	1341				
+PHAIDCFJ_00712	CDS	1341				hypothetical protein
+PHAIDCFJ_00713	gene	750	srrA			
+PHAIDCFJ_00713	CDS	750	srrA		COG0745	Transcriptional regulatory protein SrrA
+PHAIDCFJ_00714	gene	1074	lytC_5			
+PHAIDCFJ_00714	CDS	1074	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_00715	gene	210				
+PHAIDCFJ_00715	CDS	210				hypothetical protein
+PHAIDCFJ_00716	gene	1086	lytC_6			
+PHAIDCFJ_00716	CDS	1086	lytC_6	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_00717	gene	765	sufC			
+PHAIDCFJ_00717	CDS	765	sufC		COG0396	Vegetative protein 296
+PHAIDCFJ_00718	gene	1425				
+PHAIDCFJ_00718	CDS	1425				hypothetical protein
+PHAIDCFJ_00719	gene	831				
+PHAIDCFJ_00719	CDS	831				hypothetical protein
+PHAIDCFJ_00720	gene	1236	csd			
+PHAIDCFJ_00720	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+PHAIDCFJ_00721	gene	438	sufU			
+PHAIDCFJ_00721	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+PHAIDCFJ_00722	gene	408				
+PHAIDCFJ_00722	CDS	408				hypothetical protein
+PHAIDCFJ_00723	gene	627				
+PHAIDCFJ_00723	CDS	627				hypothetical protein
+PHAIDCFJ_00724	gene	291				
+PHAIDCFJ_00724	CDS	291				hypothetical protein
+PHAIDCFJ_00725	gene	735				
+PHAIDCFJ_00725	CDS	735		3.1.3.-	COG0560	putative phosphatase
+PHAIDCFJ_00726	gene	1221				
+PHAIDCFJ_00726	CDS	1221				hypothetical protein
+PHAIDCFJ_00727	gene	660				
+PHAIDCFJ_00727	CDS	660				hypothetical protein
+PHAIDCFJ_00728	gene	246				
+PHAIDCFJ_00728	CDS	246				hypothetical protein
+PHAIDCFJ_00729	gene	930	gloB_2			
+PHAIDCFJ_00729	CDS	930	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+PHAIDCFJ_00730	gene	786				
+PHAIDCFJ_00730	CDS	786				hypothetical protein
+PHAIDCFJ_00731	gene	708				
+PHAIDCFJ_00731	CDS	708				hypothetical protein
+PHAIDCFJ_00732	gene	555				
+PHAIDCFJ_00732	CDS	555		3.1.3.-	COG5663	Nucleotidase
+PHAIDCFJ_00733	gene	252				
+PHAIDCFJ_00733	CDS	252				hypothetical protein
+PHAIDCFJ_00734	gene	561	nfrA1			
+PHAIDCFJ_00734	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+PHAIDCFJ_00735	gene	1866	nhaP2			
+PHAIDCFJ_00735	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+PHAIDCFJ_00736	gene	1236				
+PHAIDCFJ_00736	CDS	1236				hypothetical protein
+PHAIDCFJ_00737	gene	1056	epsF			
+PHAIDCFJ_00737	CDS	1056	epsF		COG1459	Type II secretion system protein F
+PHAIDCFJ_00738	gene	390				
+PHAIDCFJ_00738	CDS	390				hypothetical protein
+PHAIDCFJ_00739	gene	1401				
+PHAIDCFJ_00739	CDS	1401				hypothetical protein
+PHAIDCFJ_00740	gene	435				
+PHAIDCFJ_00740	CDS	435				hypothetical protein
+PHAIDCFJ_00741	gene	1068				
+PHAIDCFJ_00741	CDS	1068				hypothetical protein
+PHAIDCFJ_00742	gene	375				
+PHAIDCFJ_00742	CDS	375				hypothetical protein
+PHAIDCFJ_00743	gene	1614				
+PHAIDCFJ_00743	CDS	1614				hypothetical protein
+PHAIDCFJ_00744	gene	1347	pgi			
+PHAIDCFJ_00744	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+PHAIDCFJ_00745	gene	438				
+PHAIDCFJ_00745	CDS	438				hypothetical protein
+PHAIDCFJ_00746	gene	1542				
+PHAIDCFJ_00746	CDS	1542				hypothetical protein
+PHAIDCFJ_00747	gene	729	yehX			
+PHAIDCFJ_00747	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+PHAIDCFJ_00748	gene	249				
+PHAIDCFJ_00748	CDS	249				hypothetical protein
+PHAIDCFJ_00749	gene	882				
+PHAIDCFJ_00749	CDS	882				hypothetical protein
+PHAIDCFJ_00750	gene	642	gmk			
+PHAIDCFJ_00750	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+PHAIDCFJ_00751	gene	267	rpoZ			
+PHAIDCFJ_00751	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+PHAIDCFJ_00752	gene	1212	undec1A			
+PHAIDCFJ_00752	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+PHAIDCFJ_00753	gene	2268	priA			
+PHAIDCFJ_00753	CDS	2268	priA	3.6.4.-	COG1198	Primosomal protein N'
+PHAIDCFJ_00754	gene	456	def1			
+PHAIDCFJ_00754	CDS	456	def1	3.5.1.88	COG0242	Peptide deformylase 1
+PHAIDCFJ_00755	gene	930	fmt			
+PHAIDCFJ_00755	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+PHAIDCFJ_00756	gene	690				
+PHAIDCFJ_00756	CDS	690				hypothetical protein
+PHAIDCFJ_00757	gene	1344	rsmB			
+PHAIDCFJ_00757	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+PHAIDCFJ_00758	gene	1038	rlmN			
+PHAIDCFJ_00758	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+PHAIDCFJ_00759	gene	750	stp			
+PHAIDCFJ_00759	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+PHAIDCFJ_00760	gene	1881	prkC			
+PHAIDCFJ_00760	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+PHAIDCFJ_00761	gene	735	fabG_2			
+PHAIDCFJ_00761	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PHAIDCFJ_00762	gene	900	rsgA			
+PHAIDCFJ_00762	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+PHAIDCFJ_00763	gene	657	rpe			
+PHAIDCFJ_00763	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+PHAIDCFJ_00764	gene	684	thiN			
+PHAIDCFJ_00764	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+PHAIDCFJ_00765	gene	714	phoP_2			
+PHAIDCFJ_00765	CDS	714	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PHAIDCFJ_00766	gene	2358	sasA_3			
+PHAIDCFJ_00766	CDS	2358	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+PHAIDCFJ_00767	gene	1374	mepA_3			
+PHAIDCFJ_00767	CDS	1374	mepA_3			Multidrug export protein MepA
+PHAIDCFJ_00768	gene	474	slyA			
+PHAIDCFJ_00768	CDS	474	slyA			Transcriptional regulator SlyA
+PHAIDCFJ_00769	gene	786				
+PHAIDCFJ_00769	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+PHAIDCFJ_00770	gene	1026	cggR			
+PHAIDCFJ_00770	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+PHAIDCFJ_00771	gene	1008	gap_2			
+PHAIDCFJ_00771	CDS	1008	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+PHAIDCFJ_00772	gene	1200	pgk			
+PHAIDCFJ_00772	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+PHAIDCFJ_00773	gene	741	tpiA			
+PHAIDCFJ_00773	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+PHAIDCFJ_00774	gene	1527	gpmI			
+PHAIDCFJ_00774	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+PHAIDCFJ_00775	gene	1293	eno			
+PHAIDCFJ_00775	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+PHAIDCFJ_00776	gene	231				
+PHAIDCFJ_00776	CDS	231				hypothetical protein
+PHAIDCFJ_00777	gene	2220	rnr			
+PHAIDCFJ_00777	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+PHAIDCFJ_00778	gene	456	smpB			
+PHAIDCFJ_00778	CDS	456	smpB		COG0691	SsrA-binding protein
+PHAIDCFJ_00779	gene	831	artP_2			
+PHAIDCFJ_00779	CDS	831	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+PHAIDCFJ_00780	gene	1275	argG			
+PHAIDCFJ_00780	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+PHAIDCFJ_00781	gene	1374	argH			
+PHAIDCFJ_00781	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+PHAIDCFJ_00782	gene	453				
+PHAIDCFJ_00782	CDS	453				hypothetical protein
+PHAIDCFJ_00783	gene	1083	phnW			
+PHAIDCFJ_00783	CDS	1083	phnW	2.6.1.37	COG0075	2-aminoethylphosphonate--pyruvate transaminase
+PHAIDCFJ_00784	gene	1242				
+PHAIDCFJ_00784	CDS	1242				IS256 family transposase ISCth4
+PHAIDCFJ_00785	gene	126				
+PHAIDCFJ_00785	CDS	126				hypothetical protein
+PHAIDCFJ_00786	gene	288				
+PHAIDCFJ_00786	CDS	288				IS200/IS605 family transposase ISStin10
+PHAIDCFJ_00787	gene	1590	asD			
+PHAIDCFJ_00787	CDS	1590	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+PHAIDCFJ_00788	gene	1734	aspT			
+PHAIDCFJ_00788	CDS	1734	aspT			Aspartate/alanine antiporter
+PHAIDCFJ_00789	gene	354				
+PHAIDCFJ_00789	CDS	354				hypothetical protein
+PHAIDCFJ_00790	gene	1359	ffh			
+PHAIDCFJ_00790	CDS	1359	ffh		COG0541	Signal recognition particle protein
+PHAIDCFJ_00791	gene	273	rpsP			
+PHAIDCFJ_00791	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+PHAIDCFJ_00792	gene	234				
+PHAIDCFJ_00792	CDS	234				hypothetical protein
+PHAIDCFJ_00793	gene	519	rimM			
+PHAIDCFJ_00793	CDS	519	rimM			Ribosome maturation factor RimM
+PHAIDCFJ_00794	gene	741	trmD			
+PHAIDCFJ_00794	CDS	741	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+PHAIDCFJ_00795	gene	1158				
+PHAIDCFJ_00795	CDS	1158				hypothetical protein
+PHAIDCFJ_00796	gene	1224	tyrS			
+PHAIDCFJ_00796	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+PHAIDCFJ_00797	gene	357	rplS			
+PHAIDCFJ_00797	CDS	357	rplS		COG0335	50S ribosomal protein L19
+PHAIDCFJ_00798	gene	885	rbgA			
+PHAIDCFJ_00798	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+PHAIDCFJ_00799	gene	1164	alr1			
+PHAIDCFJ_00799	CDS	1164	alr1	5.1.1.1	COG0787	Alanine racemase 1
+PHAIDCFJ_00800	gene	792	rnhB			
+PHAIDCFJ_00800	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+PHAIDCFJ_00801	gene	1017	hmo_1			
+PHAIDCFJ_00801	CDS	1017	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+PHAIDCFJ_00802	gene	363				
+PHAIDCFJ_00802	CDS	363				hypothetical protein
+PHAIDCFJ_00803	gene	1617	comM			
+PHAIDCFJ_00803	CDS	1617	comM		COG0606	Competence protein ComM
+PHAIDCFJ_00804	gene	1257				
+PHAIDCFJ_00804	CDS	1257				hypothetical protein
+PHAIDCFJ_00805	gene	2082	topA			
+PHAIDCFJ_00805	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+PHAIDCFJ_00806	gene	777	codY			
+PHAIDCFJ_00806	CDS	777	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+PHAIDCFJ_00807	gene	1272	rarA			
+PHAIDCFJ_00807	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+PHAIDCFJ_00808	gene	465	cymR			
+PHAIDCFJ_00808	CDS	465	cymR			HTH-type transcriptional regulator CymR
+PHAIDCFJ_00809	gene	1053	mnmA			
+PHAIDCFJ_00809	CDS	1053	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+PHAIDCFJ_00810	gene	168				
+PHAIDCFJ_00810	CDS	168				hypothetical protein
+PHAIDCFJ_00811	gene	1626	mleA			
+PHAIDCFJ_00811	CDS	1626	mleA	4.1.1.101	COG0281	Malolactic enzyme
+PHAIDCFJ_00812	gene	615				
+PHAIDCFJ_00812	CDS	615				hypothetical protein
+PHAIDCFJ_00813	gene	432				
+PHAIDCFJ_00813	CDS	432				hypothetical protein
+PHAIDCFJ_00814	gene	2472				
+PHAIDCFJ_00814	CDS	2472				hypothetical protein
+PHAIDCFJ_00815	gene	1368	mepA_4			
+PHAIDCFJ_00815	CDS	1368	mepA_4			Multidrug export protein MepA
+PHAIDCFJ_00816	gene	711				
+PHAIDCFJ_00816	CDS	711				hypothetical protein
+PHAIDCFJ_00817	gene	243				
+PHAIDCFJ_00817	CDS	243				hypothetical protein
+PHAIDCFJ_00818	gene	411				
+PHAIDCFJ_00818	CDS	411				hypothetical protein
+PHAIDCFJ_00819	gene	750				
+PHAIDCFJ_00819	CDS	750				hypothetical protein
+PHAIDCFJ_00820	gene	1191				
+PHAIDCFJ_00820	CDS	1191				hypothetical protein
+PHAIDCFJ_00821	gene	1101	dhaD			
+PHAIDCFJ_00821	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+PHAIDCFJ_00822	gene	189				
+PHAIDCFJ_00822	CDS	189				Rubredoxin
+PHAIDCFJ_00823	gene	549	chrA1			
+PHAIDCFJ_00823	CDS	549	chrA1			Chromate transport protein
+PHAIDCFJ_00824	gene	561				
+PHAIDCFJ_00824	CDS	561				hypothetical protein
+PHAIDCFJ_00825	gene	603				
+PHAIDCFJ_00825	CDS	603				hypothetical protein
+PHAIDCFJ_00826	gene	864	map			
+PHAIDCFJ_00826	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+PHAIDCFJ_00827	gene	459	infC			
+PHAIDCFJ_00827	CDS	459	infC			Translation initiation factor IF-3
+PHAIDCFJ_00828	gene	198	rpmI			
+PHAIDCFJ_00828	CDS	198	rpmI			50S ribosomal protein L35
+PHAIDCFJ_00829	gene	357	rplT			
+PHAIDCFJ_00829	CDS	357	rplT			50S ribosomal protein L20
+PHAIDCFJ_00830	gene	342				
+PHAIDCFJ_00830	CDS	342				hypothetical protein
+PHAIDCFJ_00831	gene	642				
+PHAIDCFJ_00831	CDS	642				hypothetical protein
+PHAIDCFJ_00832	gene	567				
+PHAIDCFJ_00832	CDS	567				hypothetical protein
+PHAIDCFJ_00833	gene	498	ruvC			
+PHAIDCFJ_00833	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+PHAIDCFJ_00834	gene	612	ruvA			
+PHAIDCFJ_00834	CDS	612	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+PHAIDCFJ_00835	gene	1014	ruvB			
+PHAIDCFJ_00835	CDS	1014	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+PHAIDCFJ_00836	gene	1026	queA			
+PHAIDCFJ_00836	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PHAIDCFJ_00837	gene	1119	tgt			
+PHAIDCFJ_00837	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+PHAIDCFJ_00838	gene	321	yajC			
+PHAIDCFJ_00838	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+PHAIDCFJ_00839	gene	144				
+PHAIDCFJ_00839	CDS	144				hypothetical protein
+PHAIDCFJ_00840	gene	954	lytC_7			
+PHAIDCFJ_00840	CDS	954	lytC_7	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_00841	gene	1992				
+PHAIDCFJ_00841	CDS	1992				hypothetical protein
+PHAIDCFJ_00842	gene	1371	ntpJ			
+PHAIDCFJ_00842	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+PHAIDCFJ_00843	gene	675	ktrA			
+PHAIDCFJ_00843	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+PHAIDCFJ_00844	gene	771	aviRb			
+PHAIDCFJ_00844	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+PHAIDCFJ_00845	gene	606	ccpN			
+PHAIDCFJ_00845	CDS	606	ccpN		COG0517	Transcriptional repressor CcpN
+PHAIDCFJ_00846	gene	840	yqfL			
+PHAIDCFJ_00846	CDS	840	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+PHAIDCFJ_00847	gene	2646	ppdK			
+PHAIDCFJ_00847	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+PHAIDCFJ_00848	gene	285				
+PHAIDCFJ_00848	CDS	285				hypothetical protein
+PHAIDCFJ_00849	gene	765				
+PHAIDCFJ_00849	CDS	765				hypothetical protein
+PHAIDCFJ_00850	gene	852	dnaA_3			
+PHAIDCFJ_00850	CDS	852	dnaA_3			Chromosomal replication initiator protein DnaA
+PHAIDCFJ_00851	gene	1437	pncB2			
+PHAIDCFJ_00851	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+PHAIDCFJ_00852	gene	456	lrpC			
+PHAIDCFJ_00852	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+PHAIDCFJ_00853	gene	1941	metG			
+PHAIDCFJ_00853	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+PHAIDCFJ_00854	gene	771	ycfH			
+PHAIDCFJ_00854	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+PHAIDCFJ_00855	gene	2490				
+PHAIDCFJ_00855	CDS	2490				hypothetical protein
+PHAIDCFJ_00856	gene	1479				
+PHAIDCFJ_00856	CDS	1479				hypothetical protein
+PHAIDCFJ_00857	gene	804	proC			
+PHAIDCFJ_00857	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+PHAIDCFJ_00858	gene	651				
+PHAIDCFJ_00858	CDS	651				hypothetical protein
+PHAIDCFJ_00859	gene	549				
+PHAIDCFJ_00859	CDS	549				hypothetical protein
+PHAIDCFJ_00860	gene	555	rnmV			
+PHAIDCFJ_00860	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+PHAIDCFJ_00861	gene	879	rsmA			
+PHAIDCFJ_00861	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+PHAIDCFJ_00862	gene	870				
+PHAIDCFJ_00862	CDS	870				hypothetical protein
+PHAIDCFJ_00863	gene	1362	murC			
+PHAIDCFJ_00863	CDS	1362	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+PHAIDCFJ_00864	gene	834	purR			
+PHAIDCFJ_00864	CDS	834	purR		COG0503	Pur operon repressor
+PHAIDCFJ_00865	gene	651				
+PHAIDCFJ_00865	CDS	651				hypothetical protein
+PHAIDCFJ_00866	gene	1392	glmU_2			
+PHAIDCFJ_00866	CDS	1392	glmU_2			Bifunctional protein GlmU
+PHAIDCFJ_00867	gene	957	prs			
+PHAIDCFJ_00867	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+PHAIDCFJ_00868	gene	1065				
+PHAIDCFJ_00868	CDS	1065				hypothetical protein
+PHAIDCFJ_00869	gene	651				
+PHAIDCFJ_00869	CDS	651				hypothetical protein
+PHAIDCFJ_00870	gene	561	pth			
+PHAIDCFJ_00870	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+PHAIDCFJ_00871	gene	3405	mfd			
+PHAIDCFJ_00871	CDS	3405	mfd	3.6.4.-		Transcription-repair-coupling factor
+PHAIDCFJ_00872	gene	1062	prsA_2			
+PHAIDCFJ_00872	CDS	1062	prsA_2	5.2.1.8		Foldase protein PrsA
+PHAIDCFJ_00873	gene	1623	murJ_2			
+PHAIDCFJ_00873	CDS	1623	murJ_2		COG2244	Lipid II flippase MurJ
+PHAIDCFJ_00874	gene	1014				
+PHAIDCFJ_00874	CDS	1014				hypothetical protein
+PHAIDCFJ_00875	gene	282	hup			
+PHAIDCFJ_00875	CDS	282	hup			DNA-binding protein HU
+PHAIDCFJ_00876	gene	240				
+PHAIDCFJ_00876	CDS	240			COG1188	putative protein
+PHAIDCFJ_00877	gene	894	gtaB			
+PHAIDCFJ_00877	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+PHAIDCFJ_00878	gene	1443	rho			
+PHAIDCFJ_00878	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+PHAIDCFJ_00879	gene	201	rpmE			
+PHAIDCFJ_00879	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+PHAIDCFJ_00880	gene	327				
+PHAIDCFJ_00880	CDS	327				hypothetical protein
+PHAIDCFJ_00881	gene	720				
+PHAIDCFJ_00881	CDS	720				hypothetical protein
+PHAIDCFJ_00882	gene	915	prmC			
+PHAIDCFJ_00882	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+PHAIDCFJ_00883	gene	1065	prfA			
+PHAIDCFJ_00883	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+PHAIDCFJ_00884	gene	1038	ywlC			
+PHAIDCFJ_00884	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+PHAIDCFJ_00885	gene	447	ywlF			
+PHAIDCFJ_00885	CDS	447	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+PHAIDCFJ_00886	gene	630	upp			
+PHAIDCFJ_00886	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+PHAIDCFJ_00887	gene	240				
+PHAIDCFJ_00887	CDS	240				hypothetical protein
+PHAIDCFJ_00888	gene	402				
+PHAIDCFJ_00888	CDS	402				hypothetical protein
+PHAIDCFJ_00889	gene	705	atpB			
+PHAIDCFJ_00889	CDS	705	atpB		COG0356	ATP synthase subunit a
+PHAIDCFJ_00890	gene	264	atpE			
+PHAIDCFJ_00890	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+PHAIDCFJ_00891	gene	507	atpF			
+PHAIDCFJ_00891	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+PHAIDCFJ_00892	gene	543	atpH			
+PHAIDCFJ_00892	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+PHAIDCFJ_00893	gene	1503	atpA			
+PHAIDCFJ_00893	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+PHAIDCFJ_00894	gene	999	atpG			
+PHAIDCFJ_00894	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+PHAIDCFJ_00895	gene	1401	atpD			
+PHAIDCFJ_00895	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+PHAIDCFJ_00896	gene	270	atpC			
+PHAIDCFJ_00896	CDS	270	atpC			ATP synthase epsilon chain
+PHAIDCFJ_00897	gene	576				
+PHAIDCFJ_00897	CDS	576				hypothetical protein
+PHAIDCFJ_00898	gene	939				
+PHAIDCFJ_00898	CDS	939				hypothetical protein
+PHAIDCFJ_00899	gene	945	hmo_2			
+PHAIDCFJ_00899	CDS	945	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+PHAIDCFJ_00900	gene	1311				
+PHAIDCFJ_00900	CDS	1311				hypothetical protein
+PHAIDCFJ_00901	gene	1326	pepC			
+PHAIDCFJ_00901	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+PHAIDCFJ_00902	gene	1083	hhoB			
+PHAIDCFJ_00902	CDS	1083	hhoB			Putative serine protease HhoB
+PHAIDCFJ_00903	gene	528				
+PHAIDCFJ_00903	CDS	528				hypothetical protein
+PHAIDCFJ_00904	gene	1788	pepF1			
+PHAIDCFJ_00904	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+PHAIDCFJ_00905	gene	147				
+PHAIDCFJ_00905	CDS	147				hypothetical protein
+PHAIDCFJ_00906	gene	1506	glpK			
+PHAIDCFJ_00906	CDS	1506	glpK	2.7.1.30	COG0554	Glycerol kinase
+PHAIDCFJ_00907	gene	291				
+PHAIDCFJ_00907	CDS	291				hypothetical protein
+PHAIDCFJ_00908	gene	708	ytrE			
+PHAIDCFJ_00908	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+PHAIDCFJ_00909	gene	2481				
+PHAIDCFJ_00909	CDS	2481				hypothetical protein
+PHAIDCFJ_00910	gene	1980	htpG			
+PHAIDCFJ_00910	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+PHAIDCFJ_00911	gene	141				
+PHAIDCFJ_00911	CDS	141				hypothetical protein
+PHAIDCFJ_00912	gene	636	fchA			
+PHAIDCFJ_00912	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+PHAIDCFJ_00913	gene	858	folD			
+PHAIDCFJ_00913	CDS	858	folD			Bifunctional protein FolD protein
+PHAIDCFJ_00914	gene	1587	clcA			
+PHAIDCFJ_00914	CDS	1587	clcA			H(+)/Cl(-) exchange transporter ClcA
+PHAIDCFJ_00915	gene	1872	yjcD			
+PHAIDCFJ_00915	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+PHAIDCFJ_00916	gene	885				
+PHAIDCFJ_00916	CDS	885				hypothetical protein
+PHAIDCFJ_00917	gene	858	pdxS			
+PHAIDCFJ_00917	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+PHAIDCFJ_00918	gene	1362	gabR			
+PHAIDCFJ_00918	CDS	1362	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+PHAIDCFJ_00919	gene	300				
+PHAIDCFJ_00919	CDS	300				hypothetical protein
+PHAIDCFJ_00920	gene	1173				
+PHAIDCFJ_00920	CDS	1173				hypothetical protein
+PHAIDCFJ_00921	gene	1227	dltD			
+PHAIDCFJ_00921	CDS	1227	dltD		COG3966	Protein DltD
+PHAIDCFJ_00922	gene	126				
+PHAIDCFJ_00922	CDS	126				hypothetical protein
+PHAIDCFJ_00923	gene	1599	dltA			
+PHAIDCFJ_00923	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+PHAIDCFJ_00924	gene	1161				
+PHAIDCFJ_00924	CDS	1161				hypothetical protein
+PHAIDCFJ_00925	gene	237	dltC			
+PHAIDCFJ_00925	CDS	237	dltC		COG0236	D-alanyl carrier protein
+PHAIDCFJ_00926	gene	2403				
+PHAIDCFJ_00926	CDS	2403				hypothetical protein
+PHAIDCFJ_00927	gene	2109	nrdE			
+PHAIDCFJ_00927	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+PHAIDCFJ_00928	gene	987	nrdF			
+PHAIDCFJ_00928	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+PHAIDCFJ_00929	gene	525				
+PHAIDCFJ_00929	CDS	525				hypothetical protein
+PHAIDCFJ_00930	gene	651				
+PHAIDCFJ_00930	CDS	651				hypothetical protein
+PHAIDCFJ_00931	gene	465				
+PHAIDCFJ_00931	CDS	465				hypothetical protein
+PHAIDCFJ_00932	gene	1164	ugtP_1			
+PHAIDCFJ_00932	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+PHAIDCFJ_00933	gene	690				
+PHAIDCFJ_00933	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+PHAIDCFJ_00934	gene	1044				
+PHAIDCFJ_00934	CDS	1044				hypothetical protein
+PHAIDCFJ_00935	gene	1347	rpoN			
+PHAIDCFJ_00935	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+PHAIDCFJ_00936	gene	1293				
+PHAIDCFJ_00936	CDS	1293				hypothetical protein
+PHAIDCFJ_00937	gene	1233				
+PHAIDCFJ_00937	CDS	1233				hypothetical protein
+PHAIDCFJ_00938	gene	1728	ade			
+PHAIDCFJ_00938	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+PHAIDCFJ_00939	gene	189	rpmB			
+PHAIDCFJ_00939	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+PHAIDCFJ_00940	gene	351				
+PHAIDCFJ_00940	CDS	351				putative protein
+PHAIDCFJ_00941	gene	1665				
+PHAIDCFJ_00941	CDS	1665				putative protein
+PHAIDCFJ_00942	gene	2058	recG			
+PHAIDCFJ_00942	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+PHAIDCFJ_00943	gene	561	rsmD			
+PHAIDCFJ_00943	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+PHAIDCFJ_00944	gene	483	coaD			
+PHAIDCFJ_00944	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+PHAIDCFJ_00945	gene	546				
+PHAIDCFJ_00945	CDS	546			COG3599	putative protein
+PHAIDCFJ_00946	gene	1311	tmcAL			
+PHAIDCFJ_00946	CDS	1311	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+PHAIDCFJ_00947	gene	1200	ackA			
+PHAIDCFJ_00947	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+PHAIDCFJ_00948	gene	519				
+PHAIDCFJ_00948	CDS	519				hypothetical protein
+PHAIDCFJ_00949	gene	180	rpmF			
+PHAIDCFJ_00949	CDS	180	rpmF			50S ribosomal protein L32
+PHAIDCFJ_00950	gene	1017	plsX			
+PHAIDCFJ_00950	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+PHAIDCFJ_00951	gene	1977	fbp			
+PHAIDCFJ_00951	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+PHAIDCFJ_00952	gene	342				
+PHAIDCFJ_00952	CDS	342				putative protein
+PHAIDCFJ_00953	gene	495	nusB			
+PHAIDCFJ_00953	CDS	495	nusB			Transcription antitermination protein NusB
+PHAIDCFJ_00954	gene	1050	apbE			
+PHAIDCFJ_00954	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+PHAIDCFJ_00955	gene	375				
+PHAIDCFJ_00955	CDS	375				hypothetical protein
+PHAIDCFJ_00956	gene	675	ung			
+PHAIDCFJ_00956	CDS	675	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+PHAIDCFJ_00957	gene	606				
+PHAIDCFJ_00957	CDS	606				hypothetical protein
+PHAIDCFJ_00958	gene	861				
+PHAIDCFJ_00958	CDS	861				hypothetical protein
+PHAIDCFJ_00959	gene	441	yqeY			
+PHAIDCFJ_00959	CDS	441	yqeY		COG1610	putative protein YqeY
+PHAIDCFJ_00960	gene	180	rpsU			
+PHAIDCFJ_00960	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+PHAIDCFJ_00961	gene	972	pfkA			
+PHAIDCFJ_00961	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+PHAIDCFJ_00962	gene	1737	pyk			
+PHAIDCFJ_00962	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+PHAIDCFJ_00963	gene	1365	rlmCD_2			
+PHAIDCFJ_00963	CDS	1365	rlmCD_2	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PHAIDCFJ_00964	gene	1350				
+PHAIDCFJ_00964	CDS	1350				hypothetical protein
+PHAIDCFJ_00965	gene	1266	clpX			
+PHAIDCFJ_00965	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+PHAIDCFJ_00966	gene	585	clpP			
+PHAIDCFJ_00966	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+PHAIDCFJ_00967	gene	1284	tig			
+PHAIDCFJ_00967	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+PHAIDCFJ_00968	gene	474				
+PHAIDCFJ_00968	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+PHAIDCFJ_00969	gene	1461	rph			
+PHAIDCFJ_00969	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+PHAIDCFJ_00970	gene	2109	ligA			
+PHAIDCFJ_00970	CDS	2109	ligA	6.5.1.2		DNA ligase
+PHAIDCFJ_00971	gene	465	bcp			
+PHAIDCFJ_00971	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+PHAIDCFJ_00972	gene	636	opuCD			
+PHAIDCFJ_00972	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+PHAIDCFJ_00973	gene	1662				
+PHAIDCFJ_00973	CDS	1662				hypothetical protein
+PHAIDCFJ_00974	gene	1170	opuCA			
+PHAIDCFJ_00974	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+PHAIDCFJ_00975	gene	1188	uctC			
+PHAIDCFJ_00975	CDS	1188	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+PHAIDCFJ_00976	gene	285				
+PHAIDCFJ_00976	CDS	285				hypothetical protein
+PHAIDCFJ_00977	gene	723				
+PHAIDCFJ_00977	CDS	723			COG0217	putative transcriptional regulatory protein
+PHAIDCFJ_00978	gene	759	nadE			
+PHAIDCFJ_00978	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+PHAIDCFJ_00979	gene	642				
+PHAIDCFJ_00979	CDS	642				hypothetical protein
+PHAIDCFJ_00980	gene	678				
+PHAIDCFJ_00980	CDS	678				hypothetical protein
+PHAIDCFJ_00981	gene	423				
+PHAIDCFJ_00981	CDS	423				hypothetical protein
+PHAIDCFJ_00982	gene	219				
+PHAIDCFJ_00982	CDS	219				hypothetical protein
+PHAIDCFJ_00983	gene	675				
+PHAIDCFJ_00983	CDS	675				hypothetical protein
+PHAIDCFJ_00984	gene	1731	cdr			
+PHAIDCFJ_00984	CDS	1731	cdr	1.8.1.14		Coenzyme A disulfide reductase
+PHAIDCFJ_00985	gene	288	pagR			
+PHAIDCFJ_00985	CDS	288	pagR			Transcriptional repressor PagR
+PHAIDCFJ_00986	gene	546	hpt_2			
+PHAIDCFJ_00986	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+PHAIDCFJ_00987	gene	723	engB			
+PHAIDCFJ_00987	CDS	723	engB			GTP-binding protein EngB
+PHAIDCFJ_00988	gene	2424	lon1			
+PHAIDCFJ_00988	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+PHAIDCFJ_00989	gene	468				
+PHAIDCFJ_00989	CDS	468				hypothetical protein
+PHAIDCFJ_00990	gene	522				
+PHAIDCFJ_00990	CDS	522				hypothetical protein
+PHAIDCFJ_00991	gene	240				
+PHAIDCFJ_00991	CDS	240				hypothetical protein
+PHAIDCFJ_00992	gene	1455				
+PHAIDCFJ_00992	CDS	1455				hypothetical protein
+PHAIDCFJ_00993	gene	1701	argS			
+PHAIDCFJ_00993	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+PHAIDCFJ_00994	gene	468				
+PHAIDCFJ_00994	CDS	468				hypothetical protein
+PHAIDCFJ_00995	gene	2424	mutS2			
+PHAIDCFJ_00995	CDS	2424	mutS2	3.1.-.-		Endonuclease MutS2
+PHAIDCFJ_00996	gene	1449	pepD_2			
+PHAIDCFJ_00996	CDS	1449	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+PHAIDCFJ_00997	gene	876				
+PHAIDCFJ_00997	CDS	876				DegV domain-containing protein
+PHAIDCFJ_00998	gene	471	trmL			
+PHAIDCFJ_00998	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+PHAIDCFJ_00999	gene	639	pdg			
+PHAIDCFJ_00999	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+PHAIDCFJ_01000	gene	1656	udk			
+PHAIDCFJ_01000	CDS	1656	udk	2.7.1.48		Uridine kinase
+PHAIDCFJ_01001	gene	606	sipT			
+PHAIDCFJ_01001	CDS	606	sipT	3.4.21.89	COG0681	Signal peptidase I T
+PHAIDCFJ_01002	gene	1494	rsmF			
+PHAIDCFJ_01002	CDS	1494	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+PHAIDCFJ_01003	gene	591				
+PHAIDCFJ_01003	CDS	591				hypothetical protein
+PHAIDCFJ_01004	gene	1305	pdp			
+PHAIDCFJ_01004	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+PHAIDCFJ_01005	gene	3783	purL			
+PHAIDCFJ_01005	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+PHAIDCFJ_01006	gene	1269	purD			
+PHAIDCFJ_01006	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+PHAIDCFJ_01007	gene	1533	purH			
+PHAIDCFJ_01007	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+PHAIDCFJ_01008	gene	594	purN			
+PHAIDCFJ_01008	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+PHAIDCFJ_01009	gene	1077	purM			
+PHAIDCFJ_01009	CDS	1077	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+PHAIDCFJ_01010	gene	477	purE			
+PHAIDCFJ_01010	CDS	477	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+PHAIDCFJ_01011	gene	76				
+PHAIDCFJ_01011	tRNA	76				tRNA-Val(tac)
+PHAIDCFJ_01012	gene	77				
+PHAIDCFJ_01012	tRNA	77				tRNA-Asp(gtc)
+PHAIDCFJ_01013	gene	75				
+PHAIDCFJ_01013	tRNA	75				tRNA-Gly(gcc)
+PHAIDCFJ_01014	gene	76				
+PHAIDCFJ_01014	tRNA	76				tRNA-Pyl(cta)
+PHAIDCFJ_01015	gene	852	cdaA			
+PHAIDCFJ_01015	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+PHAIDCFJ_01016	gene	915	cdaR			
+PHAIDCFJ_01016	CDS	915	cdaR		COG4856	CdaA regulatory protein CdaR
+PHAIDCFJ_01017	gene	1083	buk2			
+PHAIDCFJ_01017	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+PHAIDCFJ_01018	gene	678				
+PHAIDCFJ_01018	CDS	678				hypothetical protein
+PHAIDCFJ_01019	gene	216	rsxB_2			
+PHAIDCFJ_01019	CDS	216	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+PHAIDCFJ_01020	gene	1065	padG			
+PHAIDCFJ_01020	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+PHAIDCFJ_01021	gene	780	korB			
+PHAIDCFJ_01021	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+PHAIDCFJ_01022	gene	555				
+PHAIDCFJ_01022	CDS	555				hypothetical protein
+PHAIDCFJ_01023	gene	1368	glmM			
+PHAIDCFJ_01023	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+PHAIDCFJ_01024	gene	177				
+PHAIDCFJ_01024	CDS	177				hypothetical protein
+PHAIDCFJ_01025	gene	1254	murAA			
+PHAIDCFJ_01025	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+PHAIDCFJ_01026	gene	1011	mreB_2			
+PHAIDCFJ_01026	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+PHAIDCFJ_01027	gene	1185	metK			
+PHAIDCFJ_01027	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+PHAIDCFJ_01028	gene	2220	recD2			
+PHAIDCFJ_01028	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+PHAIDCFJ_01029	gene	771				
+PHAIDCFJ_01029	CDS	771				hypothetical protein
+PHAIDCFJ_01030	gene	540	folT			
+PHAIDCFJ_01030	CDS	540	folT			Folate transporter FolT
+PHAIDCFJ_01031	gene	2691	secA_2			
+PHAIDCFJ_01031	CDS	2691	secA_2			Protein translocase subunit SecA
+PHAIDCFJ_01032	gene	1671	norR			
+PHAIDCFJ_01032	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+PHAIDCFJ_01033	gene	1182				
+PHAIDCFJ_01033	CDS	1182				hypothetical protein
+PHAIDCFJ_01034	gene	1212	fldA_1			
+PHAIDCFJ_01034	CDS	1212	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+PHAIDCFJ_01035	gene	1233	hadB			
+PHAIDCFJ_01035	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+PHAIDCFJ_01036	gene	1125	hadC_1			
+PHAIDCFJ_01036	CDS	1125	hadC_1	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+PHAIDCFJ_01037	gene	1143	carC_1			
+PHAIDCFJ_01037	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+PHAIDCFJ_01038	gene	786	carD_1			
+PHAIDCFJ_01038	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+PHAIDCFJ_01039	gene	1011	carE_1			
+PHAIDCFJ_01039	CDS	1011	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+PHAIDCFJ_01040	gene	999				
+PHAIDCFJ_01040	CDS	999		1.1.1.28		D-lactate dehydrogenase
+PHAIDCFJ_01041	gene	1047	prfB			
+PHAIDCFJ_01041	CDS	1047	prfB			Peptide chain release factor 2
+PHAIDCFJ_01042	gene	2163	yhgF			
+PHAIDCFJ_01042	CDS	2163	yhgF		COG2183	Protein YhgF
+PHAIDCFJ_01043	gene	621	ribU			
+PHAIDCFJ_01043	CDS	621	ribU			Riboflavin transporter RibU
+PHAIDCFJ_01044	gene	795	fldI			
+PHAIDCFJ_01044	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+PHAIDCFJ_01045	gene	921				
+PHAIDCFJ_01045	CDS	921				hypothetical protein
+PHAIDCFJ_01046	gene	459	tsaE			
+PHAIDCFJ_01046	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PHAIDCFJ_01047	gene	720	tsaB			
+PHAIDCFJ_01047	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PHAIDCFJ_01048	gene	450	rimI			
+PHAIDCFJ_01048	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+PHAIDCFJ_01049	gene	1020	tsaD			
+PHAIDCFJ_01049	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+PHAIDCFJ_01050	gene	1932	yheS			
+PHAIDCFJ_01050	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+PHAIDCFJ_01051	gene	636	rex1			
+PHAIDCFJ_01051	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+PHAIDCFJ_01052	gene	168				
+PHAIDCFJ_01052	CDS	168			COG1145	Ferredoxin
+PHAIDCFJ_01053	gene	1254				
+PHAIDCFJ_01053	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+PHAIDCFJ_01054	gene	657				
+PHAIDCFJ_01054	CDS	657				hypothetical protein
+PHAIDCFJ_01055	gene	219				
+PHAIDCFJ_01055	CDS	219				hypothetical protein
+PHAIDCFJ_01056	gene	234				
+PHAIDCFJ_01056	CDS	234				hypothetical protein
+PHAIDCFJ_01057	gene	2151	feoB			
+PHAIDCFJ_01057	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+PHAIDCFJ_01058	gene	168				
+PHAIDCFJ_01058	CDS	168				hypothetical protein
+PHAIDCFJ_01059	gene	1557				
+PHAIDCFJ_01059	CDS	1557				hypothetical protein
+PHAIDCFJ_01060	gene	486				
+PHAIDCFJ_01060	CDS	486				hypothetical protein
+PHAIDCFJ_01061	gene	651				
+PHAIDCFJ_01061	CDS	651				hypothetical protein
+PHAIDCFJ_01062	gene	954				
+PHAIDCFJ_01062	CDS	954				hypothetical protein
+PHAIDCFJ_01063	gene	1380	mepA_5			
+PHAIDCFJ_01063	CDS	1380	mepA_5			Multidrug export protein MepA
+PHAIDCFJ_01064	gene	585				
+PHAIDCFJ_01064	CDS	585				hypothetical protein
+PHAIDCFJ_01065	gene	1755	msbA_2			
+PHAIDCFJ_01065	CDS	1755	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+PHAIDCFJ_01066	gene	1755				
+PHAIDCFJ_01066	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+PHAIDCFJ_01067	gene	1458	ykoD_3			
+PHAIDCFJ_01067	CDS	1458	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+PHAIDCFJ_01068	gene	705	ecfT_3			
+PHAIDCFJ_01068	CDS	705	ecfT_3			Energy-coupling factor transporter transmembrane protein EcfT
+PHAIDCFJ_01069	gene	597				
+PHAIDCFJ_01069	CDS	597				hypothetical protein
+PHAIDCFJ_01070	gene	615				
+PHAIDCFJ_01070	CDS	615				hypothetical protein
+PHAIDCFJ_01071	gene	555				
+PHAIDCFJ_01071	CDS	555				hypothetical protein
+PHAIDCFJ_01072	gene	678	macB_2			
+PHAIDCFJ_01072	CDS	678	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+PHAIDCFJ_01073	gene	2505				
+PHAIDCFJ_01073	CDS	2505				hypothetical protein
+PHAIDCFJ_01074	gene	126				
+PHAIDCFJ_01074	CDS	126				hypothetical protein
+PHAIDCFJ_01075	gene	414				
+PHAIDCFJ_01075	CDS	414				hypothetical protein
+PHAIDCFJ_01076	gene	516				
+PHAIDCFJ_01076	CDS	516				hypothetical protein
+PHAIDCFJ_01077	gene	495				
+PHAIDCFJ_01077	CDS	495				hypothetical protein
+PHAIDCFJ_01078	gene	663	bcrA_1			
+PHAIDCFJ_01078	CDS	663	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+PHAIDCFJ_01079	gene	702				
+PHAIDCFJ_01079	CDS	702				hypothetical protein
+PHAIDCFJ_01080	gene	789				
+PHAIDCFJ_01080	CDS	789				hypothetical protein
+PHAIDCFJ_01081	gene	789				
+PHAIDCFJ_01081	CDS	789				hypothetical protein
+PHAIDCFJ_01082	gene	1383				
+PHAIDCFJ_01082	CDS	1383				hypothetical protein
+PHAIDCFJ_01083	gene	390				
+PHAIDCFJ_01083	CDS	390				hypothetical protein
+PHAIDCFJ_01084	gene	1128	msmX			
+PHAIDCFJ_01084	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+PHAIDCFJ_01085	gene	642	ycjU			
+PHAIDCFJ_01085	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+PHAIDCFJ_01086	gene	1662	malL			
+PHAIDCFJ_01086	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+PHAIDCFJ_01087	gene	2289	malP			
+PHAIDCFJ_01087	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+PHAIDCFJ_01088	gene	822	melC			
+PHAIDCFJ_01088	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+PHAIDCFJ_01089	gene	873	melD			
+PHAIDCFJ_01089	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+PHAIDCFJ_01090	gene	1287				
+PHAIDCFJ_01090	CDS	1287				hypothetical protein
+PHAIDCFJ_01091	gene	993	malR			
+PHAIDCFJ_01091	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+PHAIDCFJ_01092	gene	894	bglK			
+PHAIDCFJ_01092	CDS	894	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+PHAIDCFJ_01093	gene	465	yfkJ			
+PHAIDCFJ_01093	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+PHAIDCFJ_01094	gene	1332	mepA_6			
+PHAIDCFJ_01094	CDS	1332	mepA_6			Multidrug export protein MepA
+PHAIDCFJ_01095	gene	582				
+PHAIDCFJ_01095	CDS	582				hypothetical protein
+PHAIDCFJ_01096	gene	711				
+PHAIDCFJ_01096	CDS	711				hypothetical protein
+PHAIDCFJ_01097	gene	1329				
+PHAIDCFJ_01097	CDS	1329				hypothetical protein
+PHAIDCFJ_01098	gene	3081	smc			
+PHAIDCFJ_01098	CDS	3081	smc			Chromosome partition protein Smc
+PHAIDCFJ_01099	gene	1224	cpdA_1			
+PHAIDCFJ_01099	CDS	1224	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PHAIDCFJ_01100	gene	3933	addA			
+PHAIDCFJ_01100	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+PHAIDCFJ_01101	gene	3417	addB			
+PHAIDCFJ_01101	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+PHAIDCFJ_01102	gene	684				
+PHAIDCFJ_01102	CDS	684				hypothetical protein
+PHAIDCFJ_01103	gene	2253	rep			
+PHAIDCFJ_01103	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+PHAIDCFJ_01104	gene	1683				
+PHAIDCFJ_01104	CDS	1683				hypothetical protein
+PHAIDCFJ_01105	gene	156				
+PHAIDCFJ_01105	CDS	156				hypothetical protein
+PHAIDCFJ_01106	gene	483				
+PHAIDCFJ_01106	CDS	483				hypothetical protein
+PHAIDCFJ_01107	gene	3489				
+PHAIDCFJ_01107	CDS	3489				hypothetical protein
+PHAIDCFJ_01108	gene	2181				
+PHAIDCFJ_01108	CDS	2181				hypothetical protein
+PHAIDCFJ_01109	gene	978	surA			
+PHAIDCFJ_01109	CDS	978	surA	5.2.1.8		Chaperone SurA
+PHAIDCFJ_01110	gene	351	ssrA			
+PHAIDCFJ_01110	tmRNA	351	ssrA			transfer-messenger RNA, SsrA
+PHAIDCFJ_01111	gene	696	rspR_1			
+PHAIDCFJ_01111	CDS	696	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+PHAIDCFJ_01112	gene	1245	fldA_2			
+PHAIDCFJ_01112	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+PHAIDCFJ_01113	gene	1236	fldB			
+PHAIDCFJ_01113	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+PHAIDCFJ_01114	gene	1119	hadC_2			
+PHAIDCFJ_01114	CDS	1119	hadC_2	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+PHAIDCFJ_01115	gene	1134	carC_2			
+PHAIDCFJ_01115	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+PHAIDCFJ_01116	gene	792	carD_2			
+PHAIDCFJ_01116	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+PHAIDCFJ_01117	gene	1008	carE_2			
+PHAIDCFJ_01117	CDS	1008	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+PHAIDCFJ_01118	gene	993	hpr			
+PHAIDCFJ_01118	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+PHAIDCFJ_01119	gene	1326	brnQ_4			
+PHAIDCFJ_01119	CDS	1326	brnQ_4		COG1114	Branched-chain amino acid transport system 2 carrier protein
+PHAIDCFJ_01120	gene	1185	aspC			
+PHAIDCFJ_01120	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+PHAIDCFJ_01121	gene	879				
+PHAIDCFJ_01121	CDS	879				hypothetical protein
+PHAIDCFJ_01122	gene	396	panD			
+PHAIDCFJ_01122	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+PHAIDCFJ_01123	gene	1116				
+PHAIDCFJ_01123	CDS	1116				hypothetical protein
+PHAIDCFJ_01124	gene	396				
+PHAIDCFJ_01124	CDS	396				hypothetical protein
+PHAIDCFJ_01125	gene	1974	uvrB			
+PHAIDCFJ_01125	CDS	1974	uvrB			UvrABC system protein B
+PHAIDCFJ_01126	gene	576				
+PHAIDCFJ_01126	CDS	576				hypothetical protein
+PHAIDCFJ_01127	gene	2826	uvrA			
+PHAIDCFJ_01127	CDS	2826	uvrA			UvrABC system protein A
+PHAIDCFJ_01128	gene	1263	sstT_2			
+PHAIDCFJ_01128	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+PHAIDCFJ_01129	gene	519	hmpT			
+PHAIDCFJ_01129	CDS	519	hmpT		COG4720	Thiamine precursor transporter HmpT
+PHAIDCFJ_01130	gene	549	rbr			
+PHAIDCFJ_01130	CDS	549	rbr		COG1592	Rubrerythrin
+PHAIDCFJ_01131	gene	372	perR			
+PHAIDCFJ_01131	CDS	372	perR		COG0735	Peroxide operon regulator
+PHAIDCFJ_01132	gene	387	dfx			
+PHAIDCFJ_01132	CDS	387	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+PHAIDCFJ_01133	gene	2412				
+PHAIDCFJ_01133	CDS	2412				hypothetical protein
+PHAIDCFJ_01134	gene	345				
+PHAIDCFJ_01134	CDS	345				hypothetical protein
+PHAIDCFJ_01135	gene	1599				
+PHAIDCFJ_01135	CDS	1599				hypothetical protein
+PHAIDCFJ_01136	gene	786				
+PHAIDCFJ_01136	CDS	786				hypothetical protein
+PHAIDCFJ_01137	gene	1053				
+PHAIDCFJ_01137	CDS	1053				hypothetical protein
+PHAIDCFJ_01138	gene	708	mtnN			
+PHAIDCFJ_01138	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+PHAIDCFJ_01139	gene	1008	trpS			
+PHAIDCFJ_01139	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+PHAIDCFJ_01140	gene	768				
+PHAIDCFJ_01140	CDS	768				hypothetical protein
+PHAIDCFJ_01141	gene	480	lspA			
+PHAIDCFJ_01141	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+PHAIDCFJ_01142	gene	933	rluD_2			
+PHAIDCFJ_01142	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PHAIDCFJ_01143	gene	525	pyrR			
+PHAIDCFJ_01143	CDS	525	pyrR			Bifunctional protein PyrR
+PHAIDCFJ_01144	gene	1764	rqcH			
+PHAIDCFJ_01144	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+PHAIDCFJ_01145	gene	825	ydjP			
+PHAIDCFJ_01145	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+PHAIDCFJ_01146	gene	279	yjdJ			
+PHAIDCFJ_01146	CDS	279	yjdJ		COG2388	putative protein YjdJ
+PHAIDCFJ_01147	gene	462	mutX			
+PHAIDCFJ_01147	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+PHAIDCFJ_01148	gene	507	tpx			
+PHAIDCFJ_01148	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+PHAIDCFJ_01149	gene	651				
+PHAIDCFJ_01149	CDS	651				hypothetical protein
+PHAIDCFJ_01150	gene	768				
+PHAIDCFJ_01150	CDS	768				hypothetical protein
+PHAIDCFJ_01151	gene	549				
+PHAIDCFJ_01151	CDS	549				hypothetical protein
+PHAIDCFJ_01152	gene	339				
+PHAIDCFJ_01152	CDS	339				hypothetical protein
+PHAIDCFJ_01153	gene	297				
+PHAIDCFJ_01153	CDS	297				hypothetical protein
+PHAIDCFJ_01154	gene	1128				
+PHAIDCFJ_01154	CDS	1128				hypothetical protein
+PHAIDCFJ_01155	gene	1140				
+PHAIDCFJ_01155	CDS	1140				hypothetical protein
+PHAIDCFJ_01156	gene	723	pyrF			
+PHAIDCFJ_01156	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+PHAIDCFJ_01157	gene	1050	carA_1			
+PHAIDCFJ_01157	CDS	1050	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+PHAIDCFJ_01158	gene	3216	carB			
+PHAIDCFJ_01158	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+PHAIDCFJ_01159	gene	657				
+PHAIDCFJ_01159	CDS	657				hypothetical protein
+PHAIDCFJ_01160	gene	1035				
+PHAIDCFJ_01160	CDS	1035				hypothetical protein
+PHAIDCFJ_01161	gene	621				
+PHAIDCFJ_01161	CDS	621				hypothetical protein
+PHAIDCFJ_01162	gene	234				
+PHAIDCFJ_01162	CDS	234				hypothetical protein
+PHAIDCFJ_01163	gene	597	cysE			
+PHAIDCFJ_01163	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+PHAIDCFJ_01164	gene	888	cysK			
+PHAIDCFJ_01164	CDS	888	cysK	2.5.1.47		Cysteine synthase
+PHAIDCFJ_01165	gene	564				
+PHAIDCFJ_01165	CDS	564				hypothetical protein
+PHAIDCFJ_01166	gene	471				
+PHAIDCFJ_01166	CDS	471				hypothetical protein
+PHAIDCFJ_01167	gene	510	ftnA			
+PHAIDCFJ_01167	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+PHAIDCFJ_01168	gene	1422	pqqE			
+PHAIDCFJ_01168	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+PHAIDCFJ_01169	gene	870	rlmL_2			
+PHAIDCFJ_01169	CDS	870	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+PHAIDCFJ_01170	gene	681	rluC			
+PHAIDCFJ_01170	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+PHAIDCFJ_01171	gene	711				
+PHAIDCFJ_01171	CDS	711				hypothetical protein
+PHAIDCFJ_01172	gene	495				
+PHAIDCFJ_01172	CDS	495				hypothetical protein
+PHAIDCFJ_01173	gene	255	veg			
+PHAIDCFJ_01173	CDS	255	veg		COG4466	Protein Veg
+PHAIDCFJ_01174	gene	783				
+PHAIDCFJ_01174	CDS	783				hypothetical protein
+PHAIDCFJ_01175	gene	897	ispE			
+PHAIDCFJ_01175	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+PHAIDCFJ_01176	gene	678	rspR_2			
+PHAIDCFJ_01176	CDS	678	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+PHAIDCFJ_01177	gene	813	murI			
+PHAIDCFJ_01177	CDS	813	murI	5.1.1.3	COG0796	Glutamate racemase
+PHAIDCFJ_01178	gene	414				
+PHAIDCFJ_01178	CDS	414				hypothetical protein
+PHAIDCFJ_01179	gene	1380	tilS			
+PHAIDCFJ_01179	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+PHAIDCFJ_01180	gene	2043	ftsH			
+PHAIDCFJ_01180	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+PHAIDCFJ_01181	gene	405				
+PHAIDCFJ_01181	CDS	405				hypothetical protein
+PHAIDCFJ_01182	gene	756				
+PHAIDCFJ_01182	CDS	756				hypothetical protein
+PHAIDCFJ_01183	gene	984	birA			
+PHAIDCFJ_01183	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+PHAIDCFJ_01184	gene	768	coaX			
+PHAIDCFJ_01184	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+PHAIDCFJ_01185	gene	960	dusB			
+PHAIDCFJ_01185	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+PHAIDCFJ_01186	gene	1548	carA_2			
+PHAIDCFJ_01186	CDS	1548	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+PHAIDCFJ_01187	gene	1014	gloB_3			
+PHAIDCFJ_01187	CDS	1014	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+PHAIDCFJ_01188	gene	828	COQ3			
+PHAIDCFJ_01188	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+PHAIDCFJ_01189	gene	1221	ask			
+PHAIDCFJ_01189	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+PHAIDCFJ_01190	gene	909	thrB			
+PHAIDCFJ_01190	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+PHAIDCFJ_01191	gene	1050	thrC			
+PHAIDCFJ_01191	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+PHAIDCFJ_01192	gene	1338	hom			
+PHAIDCFJ_01192	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+PHAIDCFJ_01193	gene	990	asd_1			
+PHAIDCFJ_01193	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+PHAIDCFJ_01194	gene	591	ogt			
+PHAIDCFJ_01194	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+PHAIDCFJ_01195	gene	405				
+PHAIDCFJ_01195	CDS	405				hypothetical protein
+PHAIDCFJ_01196	gene	465				
+PHAIDCFJ_01196	CDS	465				hypothetical protein
+PHAIDCFJ_01197	gene	579				
+PHAIDCFJ_01197	CDS	579				hypothetical protein
+PHAIDCFJ_01198	gene	960				
+PHAIDCFJ_01198	CDS	960				hypothetical protein
+PHAIDCFJ_01199	gene	1989	tkt			
+PHAIDCFJ_01199	CDS	1989	tkt	2.2.1.1		Transketolase
+PHAIDCFJ_01200	gene	105				
+PHAIDCFJ_01200	rRNA	105				5S ribosomal RNA
+PHAIDCFJ_01201	gene	73				
+PHAIDCFJ_01201	tRNA	73				tRNA-Asn(gtt)
+PHAIDCFJ_01202	gene	75				
+PHAIDCFJ_01202	tRNA	75				tRNA-Glu(ttc)
+PHAIDCFJ_01203	gene	76				
+PHAIDCFJ_01203	tRNA	76				tRNA-Val(tac)
+PHAIDCFJ_01204	gene	1461				
+PHAIDCFJ_01204	CDS	1461				hypothetical protein
+PHAIDCFJ_01205	gene	765	fpuC			
+PHAIDCFJ_01205	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+PHAIDCFJ_01206	gene	1065	isdF			
+PHAIDCFJ_01206	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+PHAIDCFJ_01207	gene	918	isdE			
+PHAIDCFJ_01207	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+PHAIDCFJ_01208	gene	1125				
+PHAIDCFJ_01208	CDS	1125				hypothetical protein
+PHAIDCFJ_01209	gene	2019				
+PHAIDCFJ_01209	CDS	2019				hypothetical protein
+PHAIDCFJ_01210	gene	375				
+PHAIDCFJ_01210	CDS	375				hypothetical protein
+PHAIDCFJ_01211	gene	930				
+PHAIDCFJ_01211	CDS	930				hypothetical protein
+PHAIDCFJ_01212	gene	1425	purB			
+PHAIDCFJ_01212	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+PHAIDCFJ_01213	gene	1278	purA			
+PHAIDCFJ_01213	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+PHAIDCFJ_01214	gene	1452	trkG			
+PHAIDCFJ_01214	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+PHAIDCFJ_01215	gene	1365	trkA			
+PHAIDCFJ_01215	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+PHAIDCFJ_01216	gene	765				
+PHAIDCFJ_01216	CDS	765				hypothetical protein
+PHAIDCFJ_01217	gene	969	trxB			
+PHAIDCFJ_01217	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+PHAIDCFJ_01218	gene	1374	zwf			
+PHAIDCFJ_01218	CDS	1374	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+PHAIDCFJ_01219	gene	1440	gnd			
+PHAIDCFJ_01219	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+PHAIDCFJ_01220	gene	1251	dinB			
+PHAIDCFJ_01220	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+PHAIDCFJ_01221	gene	849	nadC			
+PHAIDCFJ_01221	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+PHAIDCFJ_01222	gene	1311	nadB			
+PHAIDCFJ_01222	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+PHAIDCFJ_01223	gene	909	nadA			
+PHAIDCFJ_01223	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+PHAIDCFJ_01224	gene	462	dut			
+PHAIDCFJ_01224	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PHAIDCFJ_01225	gene	1203	roo			
+PHAIDCFJ_01225	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+PHAIDCFJ_01226	gene	1062	lytC_8			
+PHAIDCFJ_01226	CDS	1062	lytC_8	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+PHAIDCFJ_01227	gene	600	fbpC			
+PHAIDCFJ_01227	CDS	600	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+PHAIDCFJ_01228	gene	522				
+PHAIDCFJ_01228	CDS	522				hypothetical protein
+PHAIDCFJ_01229	gene	993				
+PHAIDCFJ_01229	CDS	993				hypothetical protein
+PHAIDCFJ_01230	gene	498				
+PHAIDCFJ_01230	CDS	498				hypothetical protein
+PHAIDCFJ_01231	gene	693	tgnD			
+PHAIDCFJ_01231	CDS	693	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+PHAIDCFJ_01232	gene	996	btuD_2			
+PHAIDCFJ_01232	CDS	996	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PHAIDCFJ_01233	gene	696	ureG			
+PHAIDCFJ_01233	CDS	696	ureG			Urease accessory protein UreG
+PHAIDCFJ_01234	gene	1227				
+PHAIDCFJ_01234	CDS	1227				hypothetical protein
+PHAIDCFJ_01235	gene	1746				
+PHAIDCFJ_01235	CDS	1746				hypothetical protein
+PHAIDCFJ_01236	gene	810	ecsA			
+PHAIDCFJ_01236	CDS	810	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+PHAIDCFJ_01237	gene	1239	queH			
+PHAIDCFJ_01237	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+PHAIDCFJ_01238	gene	909	ppaC			
+PHAIDCFJ_01238	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+PHAIDCFJ_01239	gene	525				
+PHAIDCFJ_01239	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+PHAIDCFJ_01240	gene	1281	serS			
+PHAIDCFJ_01240	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+PHAIDCFJ_01241	gene	1296	lysA			
+PHAIDCFJ_01241	CDS	1296	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+PHAIDCFJ_01242	gene	1089	alr			
+PHAIDCFJ_01242	CDS	1089	alr	5.1.1.1		Alanine racemase
+PHAIDCFJ_01243	gene	1152	scmP			
+PHAIDCFJ_01243	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+PHAIDCFJ_01244	gene	720	dapH			
+PHAIDCFJ_01244	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PHAIDCFJ_01245	gene	732	dapB			
+PHAIDCFJ_01245	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+PHAIDCFJ_01246	gene	900	dapA_2			
+PHAIDCFJ_01246	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+PHAIDCFJ_01247	gene	378	asd_2			
+PHAIDCFJ_01247	CDS	378	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+PHAIDCFJ_01248	gene	573	asd2			
+PHAIDCFJ_01248	CDS	573	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+PHAIDCFJ_01249	gene	1206	lysC			
+PHAIDCFJ_01249	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+PHAIDCFJ_01250	gene	654				
+PHAIDCFJ_01250	CDS	654				hypothetical protein
+PHAIDCFJ_01251	gene	828	exoA			
+PHAIDCFJ_01251	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+PHAIDCFJ_01252	gene	1194	tuf			
+PHAIDCFJ_01252	CDS	1194	tuf		COG0050	Elongation factor Tu
+PHAIDCFJ_01253	gene	2067	fusA_2			
+PHAIDCFJ_01253	CDS	2067	fusA_2		COG0480	Elongation factor G
+PHAIDCFJ_01254	gene	471	rpsG			
+PHAIDCFJ_01254	CDS	471	rpsG			30S ribosomal protein S7
+PHAIDCFJ_01255	gene	423	rpsL			
+PHAIDCFJ_01255	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+PHAIDCFJ_01256	gene	1281	ugd			
+PHAIDCFJ_01256	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+PHAIDCFJ_01257	gene	489	ispF			
+PHAIDCFJ_01257	CDS	489	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+PHAIDCFJ_01258	gene	693	ispD			
+PHAIDCFJ_01258	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+PHAIDCFJ_01259	gene	765	rhaR_2			
+PHAIDCFJ_01259	CDS	765	rhaR_2			HTH-type transcriptional activator RhaR
+PHAIDCFJ_01260	gene	552				
+PHAIDCFJ_01260	CDS	552				hypothetical protein
+PHAIDCFJ_01261	gene	582				
+PHAIDCFJ_01261	CDS	582				hypothetical protein
+PHAIDCFJ_01262	gene	1227				
+PHAIDCFJ_01262	CDS	1227		3.4.11.-		Aminopeptidase 2
+PHAIDCFJ_01263	gene	1170				
+PHAIDCFJ_01263	CDS	1170				hypothetical protein
+PHAIDCFJ_01264	gene	540				
+PHAIDCFJ_01264	CDS	540				hypothetical protein
+PHAIDCFJ_01265	gene	609				
+PHAIDCFJ_01265	CDS	609				hypothetical protein
+PHAIDCFJ_01266	gene	186				
+PHAIDCFJ_01266	CDS	186				hypothetical protein
+PHAIDCFJ_01267	gene	1317	cpdA_2			
+PHAIDCFJ_01267	CDS	1317	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PHAIDCFJ_01268	gene	75				
+PHAIDCFJ_01268	tRNA	75				tRNA-Arg(acg)
+PHAIDCFJ_01269	gene	1380	mnmE_2			
+PHAIDCFJ_01269	CDS	1380	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+PHAIDCFJ_01270	gene	1881	mnmG			
+PHAIDCFJ_01270	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PHAIDCFJ_01271	gene	729	rsmG			
+PHAIDCFJ_01271	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+PHAIDCFJ_01272	gene	1326				
+PHAIDCFJ_01272	CDS	1326				hypothetical protein
+PHAIDCFJ_01273	gene	222				
+PHAIDCFJ_01273	CDS	222				hypothetical protein
+PHAIDCFJ_01274	gene	987				
+PHAIDCFJ_01274	CDS	987			COG2826	IS30 family transposase ISSlu1
+PHAIDCFJ_01275	gene	1926	thrZ			
+PHAIDCFJ_01275	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+PHAIDCFJ_01276	gene	1005	hrcA			
+PHAIDCFJ_01276	CDS	1005	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+PHAIDCFJ_01277	gene	624	grpE			
+PHAIDCFJ_01277	CDS	624	grpE			Protein GrpE
+PHAIDCFJ_01278	gene	1845	dnaK			
+PHAIDCFJ_01278	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+PHAIDCFJ_01279	gene	1155	dnaJ			
+PHAIDCFJ_01279	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+PHAIDCFJ_01280	gene	717	tcdA			
+PHAIDCFJ_01280	CDS	717	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+PHAIDCFJ_01281	gene	867	comEC			
+PHAIDCFJ_01281	CDS	867	comEC		COG0658	ComE operon protein 3
+PHAIDCFJ_01282	gene	906				
+PHAIDCFJ_01282	CDS	906				hypothetical protein
+PHAIDCFJ_01283	gene	1290	eis			
+PHAIDCFJ_01283	CDS	1290	eis	2.3.1.-		N-acetyltransferase Eis
+PHAIDCFJ_01284	gene	1245				
+PHAIDCFJ_01284	CDS	1245				hypothetical protein
+PHAIDCFJ_01285	gene	1038	yqeN			
+PHAIDCFJ_01285	CDS	1038	yqeN		COG1466	putative protein YqeN
+PHAIDCFJ_01286	gene	687	graR			
+PHAIDCFJ_01286	CDS	687	graR		COG0745	Response regulator protein GraR
+PHAIDCFJ_01287	gene	990	graS			
+PHAIDCFJ_01287	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+PHAIDCFJ_01288	gene	756	yxdL_1			
+PHAIDCFJ_01288	CDS	756	yxdL_1		COG1136	ABC transporter ATP-binding protein YxdL
+PHAIDCFJ_01289	gene	1875	yxdM			
+PHAIDCFJ_01289	CDS	1875	yxdM			ABC transporter permease protein YxdM
+PHAIDCFJ_01290	gene	120				
+PHAIDCFJ_01290	CDS	120				hypothetical protein
+PHAIDCFJ_01291	gene	267	rpsT			
+PHAIDCFJ_01291	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+PHAIDCFJ_01292	gene	1806	lepA			
+PHAIDCFJ_01292	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+PHAIDCFJ_01293	gene	1317	cca			
+PHAIDCFJ_01293	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+PHAIDCFJ_01294	gene	861				
+PHAIDCFJ_01294	CDS	861				hypothetical protein
+PHAIDCFJ_01295	gene	1149	hemW			
+PHAIDCFJ_01295	CDS	1149	hemW		COG0635	Heme chaperone HemW
+PHAIDCFJ_01296	gene	576	zapA			
+PHAIDCFJ_01296	CDS	576	zapA			Cell division protein ZapA
+PHAIDCFJ_01297	gene	2439				
+PHAIDCFJ_01297	CDS	2439				hypothetical protein
+PHAIDCFJ_01298	gene	1614	nnr			
+PHAIDCFJ_01298	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+PHAIDCFJ_01299	gene	453				
+PHAIDCFJ_01299	CDS	453				hypothetical protein
+PHAIDCFJ_01300	gene	1005				
+PHAIDCFJ_01300	CDS	1005			COG0330	putative protein
+PHAIDCFJ_01301	gene	369				
+PHAIDCFJ_01301	CDS	369				hypothetical protein
+PHAIDCFJ_01302	gene	1494				
+PHAIDCFJ_01302	CDS	1494				hypothetical protein
+PHAIDCFJ_01303	gene	378				
+PHAIDCFJ_01303	CDS	378				hypothetical protein
+PHAIDCFJ_01304	gene	744	aroD			
+PHAIDCFJ_01304	CDS	744	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+PHAIDCFJ_01305	gene	1167	patB			
+PHAIDCFJ_01305	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+PHAIDCFJ_01306	gene	810	ecfT_4			
+PHAIDCFJ_01306	CDS	810	ecfT_4		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+PHAIDCFJ_01307	gene	876	ecfA2			
+PHAIDCFJ_01307	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+PHAIDCFJ_01308	gene	837	ecfA1			
+PHAIDCFJ_01308	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+PHAIDCFJ_01309	gene	672				
+PHAIDCFJ_01309	CDS	672				hypothetical protein
+PHAIDCFJ_01310	gene	933				
+PHAIDCFJ_01310	CDS	933				hypothetical protein
+PHAIDCFJ_01311	gene	342				
+PHAIDCFJ_01311	CDS	342				hypothetical protein
+PHAIDCFJ_01312	gene	441				
+PHAIDCFJ_01312	CDS	441				hypothetical protein
+PHAIDCFJ_01313	gene	1422				
+PHAIDCFJ_01313	CDS	1422				hypothetical protein
+PHAIDCFJ_01314	gene	1242				
+PHAIDCFJ_01314	CDS	1242				hypothetical protein
+PHAIDCFJ_01315	gene	342	rplQ			
+PHAIDCFJ_01315	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+PHAIDCFJ_01316	gene	948	rpoA			
+PHAIDCFJ_01316	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+PHAIDCFJ_01317	gene	402	rpsK			
+PHAIDCFJ_01317	CDS	402	rpsK			30S ribosomal protein S11
+PHAIDCFJ_01318	gene	369	rpsM			
+PHAIDCFJ_01318	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+PHAIDCFJ_01319	gene	114	rpmJ			
+PHAIDCFJ_01319	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+PHAIDCFJ_01320	gene	219	infA			
+PHAIDCFJ_01320	CDS	219	infA		COG0361	Translation initiation factor IF-1
+PHAIDCFJ_01321	gene	270				
+PHAIDCFJ_01321	CDS	270				hypothetical protein
+PHAIDCFJ_01322	gene	642	adk			
+PHAIDCFJ_01322	CDS	642	adk	2.7.4.3		Adenylate kinase
+PHAIDCFJ_01323	gene	1269	secY			
+PHAIDCFJ_01323	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+PHAIDCFJ_01324	gene	444	rplO			
+PHAIDCFJ_01324	CDS	444	rplO			50S ribosomal protein L15
+PHAIDCFJ_01325	gene	186	rpmD			
+PHAIDCFJ_01325	CDS	186	rpmD			50S ribosomal protein L30
+PHAIDCFJ_01326	gene	510	rpsE			
+PHAIDCFJ_01326	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+PHAIDCFJ_01327	gene	369	rplR			
+PHAIDCFJ_01327	CDS	369	rplR		COG0256	50S ribosomal protein L18
+PHAIDCFJ_01328	gene	543	rplF			
+PHAIDCFJ_01328	CDS	543	rplF			50S ribosomal protein L6
+PHAIDCFJ_01329	gene	399	rpsH			
+PHAIDCFJ_01329	CDS	399	rpsH			30S ribosomal protein S8
+PHAIDCFJ_01330	gene	186	rpsZ			
+PHAIDCFJ_01330	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+PHAIDCFJ_01331	gene	543	rplE			
+PHAIDCFJ_01331	CDS	543	rplE			50S ribosomal protein L5
+PHAIDCFJ_01332	gene	309	rplX			
+PHAIDCFJ_01332	CDS	309	rplX		COG0198	50S ribosomal protein L24
+PHAIDCFJ_01333	gene	369	rplN			
+PHAIDCFJ_01333	CDS	369	rplN		COG0093	50S ribosomal protein L14
+PHAIDCFJ_01334	gene	255	rpsQ			
+PHAIDCFJ_01334	CDS	255	rpsQ			30S ribosomal protein S17
+PHAIDCFJ_01335	gene	204	rpmC			
+PHAIDCFJ_01335	CDS	204	rpmC			50S ribosomal protein L29
+PHAIDCFJ_01336	gene	429	rplP			
+PHAIDCFJ_01336	CDS	429	rplP		COG0197	50S ribosomal protein L16
+PHAIDCFJ_01337	gene	795	rpsC			
+PHAIDCFJ_01337	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+PHAIDCFJ_01338	gene	339	rplV			
+PHAIDCFJ_01338	CDS	339	rplV		COG0091	50S ribosomal protein L22
+PHAIDCFJ_01339	gene	282	rpsS			
+PHAIDCFJ_01339	CDS	282	rpsS			30S ribosomal protein S19
+PHAIDCFJ_01340	gene	831	rplB			
+PHAIDCFJ_01340	CDS	831	rplB			50S ribosomal protein L2
+PHAIDCFJ_01341	gene	291	rplW			
+PHAIDCFJ_01341	CDS	291	rplW			50S ribosomal protein L23
+PHAIDCFJ_01342	gene	624	rplD			
+PHAIDCFJ_01342	CDS	624	rplD			50S ribosomal protein L4
+PHAIDCFJ_01343	gene	630	rplC			
+PHAIDCFJ_01343	CDS	630	rplC		COG0087	50S ribosomal protein L3
+PHAIDCFJ_01344	gene	312	rpsJ			
+PHAIDCFJ_01344	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+PHAIDCFJ_01345	gene	795				
+PHAIDCFJ_01345	CDS	795		1.-.-.-		putative oxidoreductase
+PHAIDCFJ_01346	gene	1752				
+PHAIDCFJ_01346	CDS	1752				hypothetical protein
+PHAIDCFJ_01347	gene	339				
+PHAIDCFJ_01347	CDS	339				hypothetical protein
+PHAIDCFJ_01348	gene	486				
+PHAIDCFJ_01348	CDS	486				hypothetical protein
+PHAIDCFJ_01349	gene	3441	pycA			
+PHAIDCFJ_01349	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+PHAIDCFJ_01350	gene	90				
+PHAIDCFJ_01350	rRNA	90				5S ribosomal RNA (partial)
+PHAIDCFJ_01351	gene	648	lnrK			
+PHAIDCFJ_01351	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+PHAIDCFJ_01352	gene	1146				
+PHAIDCFJ_01352	CDS	1146				hypothetical protein
+PHAIDCFJ_01353	gene	933	lnrL_1			
+PHAIDCFJ_01353	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+PHAIDCFJ_01354	gene	1119				
+PHAIDCFJ_01354	CDS	1119				hypothetical protein
+PHAIDCFJ_01355	gene	1113				
+PHAIDCFJ_01355	CDS	1113				hypothetical protein
+PHAIDCFJ_01356	gene	597				
+PHAIDCFJ_01356	CDS	597				hypothetical protein
+PHAIDCFJ_01357	gene	378				
+PHAIDCFJ_01357	CDS	378				hypothetical protein
+PHAIDCFJ_01358	gene	2211	kdpB			
+PHAIDCFJ_01358	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+PHAIDCFJ_01359	gene	855				
+PHAIDCFJ_01359	CDS	855				hypothetical protein
+PHAIDCFJ_01360	gene	273				
+PHAIDCFJ_01360	CDS	273				hypothetical protein
+PHAIDCFJ_01361	gene	1119	ribD			
+PHAIDCFJ_01361	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+PHAIDCFJ_01362	gene	657	ribE			
+PHAIDCFJ_01362	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+PHAIDCFJ_01363	gene	1206	ribBA			
+PHAIDCFJ_01363	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+PHAIDCFJ_01364	gene	462	ribH			
+PHAIDCFJ_01364	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+PHAIDCFJ_01365	gene	687	glxR			
+PHAIDCFJ_01365	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+PHAIDCFJ_01366	gene	1011	asrA			
+PHAIDCFJ_01366	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+PHAIDCFJ_01367	gene	801	asrB			
+PHAIDCFJ_01367	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+PHAIDCFJ_01368	gene	972	asrC			
+PHAIDCFJ_01368	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+PHAIDCFJ_01369	gene	771	nirC			
+PHAIDCFJ_01369	CDS	771	nirC		COG2116	Nitrite transporter NirC
+PHAIDCFJ_01370	gene	198				
+PHAIDCFJ_01370	CDS	198				hypothetical protein
+PHAIDCFJ_01371	gene	324				
+PHAIDCFJ_01371	CDS	324				hypothetical protein
+PHAIDCFJ_01372	gene	546				
+PHAIDCFJ_01372	CDS	546				hypothetical protein
+PHAIDCFJ_01373	gene	402				
+PHAIDCFJ_01373	CDS	402				hypothetical protein
+PHAIDCFJ_01374	gene	522	dcd			
+PHAIDCFJ_01374	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+PHAIDCFJ_01375	gene	969	bioB_2			
+PHAIDCFJ_01375	CDS	969	bioB_2	2.8.1.6		Biotin synthase
+PHAIDCFJ_01376	gene	933	hemC			
+PHAIDCFJ_01376	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+PHAIDCFJ_01377	gene	1524	cysG_1			
+PHAIDCFJ_01377	CDS	1524	cysG_1	4.99.1.4		Siroheme synthase
+PHAIDCFJ_01378	gene	969	hemB			
+PHAIDCFJ_01378	CDS	969	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+PHAIDCFJ_01379	gene	477	cysG_2			
+PHAIDCFJ_01379	CDS	477	cysG_2		COG0007	Siroheme synthase
+PHAIDCFJ_01380	gene	2361	pcrA			
+PHAIDCFJ_01380	CDS	2361	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+PHAIDCFJ_01381	gene	1428	apeB			
+PHAIDCFJ_01381	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+PHAIDCFJ_01382	gene	951	prmA			
+PHAIDCFJ_01382	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+PHAIDCFJ_01383	gene	777	rsmE			
+PHAIDCFJ_01383	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+PHAIDCFJ_01384	gene	1296	mtaB			
+PHAIDCFJ_01384	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+PHAIDCFJ_01385	gene	324				
+PHAIDCFJ_01385	CDS	324				hypothetical protein
+PHAIDCFJ_01386	gene	345				
+PHAIDCFJ_01386	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+PHAIDCFJ_01387	gene	822				
+PHAIDCFJ_01387	CDS	822				hypothetical protein
+PHAIDCFJ_01388	gene	1032	pheS			
+PHAIDCFJ_01388	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+PHAIDCFJ_01389	gene	2391	pheT			
+PHAIDCFJ_01389	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+PHAIDCFJ_01390	gene	1557	ykoD_4			
+PHAIDCFJ_01390	CDS	1557	ykoD_4	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+PHAIDCFJ_01391	gene	705				
+PHAIDCFJ_01391	CDS	705				hypothetical protein
+PHAIDCFJ_01392	gene	609				
+PHAIDCFJ_01392	CDS	609				hypothetical protein
+PHAIDCFJ_01393	gene	1719				
+PHAIDCFJ_01393	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+PHAIDCFJ_01394	gene	1770	msbA_3			
+PHAIDCFJ_01394	CDS	1770	msbA_3	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+PHAIDCFJ_01395	gene	957	rhaR_3			
+PHAIDCFJ_01395	CDS	957	rhaR_3			HTH-type transcriptional activator RhaR
+PHAIDCFJ_01396	gene	1818	uvrC			
+PHAIDCFJ_01396	CDS	1818	uvrC		COG0322	UvrABC system protein C
+PHAIDCFJ_01397	gene	933	hprK			
+PHAIDCFJ_01397	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+PHAIDCFJ_01398	gene	921	murB			
+PHAIDCFJ_01398	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+PHAIDCFJ_01399	gene	738	polX			
+PHAIDCFJ_01399	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+PHAIDCFJ_01400	gene	864	yvcJ			
+PHAIDCFJ_01400	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+PHAIDCFJ_01401	gene	1140				
+PHAIDCFJ_01401	CDS	1140			COG0391	Gluconeogenesis factor
+PHAIDCFJ_01402	gene	417	ndx1			
+PHAIDCFJ_01402	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+PHAIDCFJ_01403	gene	966	whiA			
+PHAIDCFJ_01403	CDS	966	whiA		COG1481	putative cell division protein WhiA
+PHAIDCFJ_01404	gene	3603	dnaE			
+PHAIDCFJ_01404	CDS	3603	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+PHAIDCFJ_01405	gene	2463				
+PHAIDCFJ_01405	CDS	2463				hypothetical protein
+PHAIDCFJ_01406	gene	372	yxdL_2			
+PHAIDCFJ_01406	CDS	372	yxdL_2		COG1136	ABC transporter ATP-binding protein YxdL
+PHAIDCFJ_01407	gene	825				
+PHAIDCFJ_01407	CDS	825				hypothetical protein
+PHAIDCFJ_01408	gene	819				
+PHAIDCFJ_01408	CDS	819				hypothetical protein
+PHAIDCFJ_01409	gene	1782				
+PHAIDCFJ_01409	CDS	1782				hypothetical protein
+PHAIDCFJ_01410	gene	1764				
+PHAIDCFJ_01410	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+PHAIDCFJ_01411	gene	1698				
+PHAIDCFJ_01411	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+PHAIDCFJ_01412	gene	927				
+PHAIDCFJ_01412	CDS	927				hypothetical protein
+PHAIDCFJ_01413	gene	1056				
+PHAIDCFJ_01413	CDS	1056				hypothetical protein
+PHAIDCFJ_01414	gene	3747	rpoB			
+PHAIDCFJ_01414	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+PHAIDCFJ_01415	gene	96				
+PHAIDCFJ_01415	CDS	96				hypothetical protein
+PHAIDCFJ_01416	gene	3555	rpoC			
+PHAIDCFJ_01416	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+PHAIDCFJ_01417	gene	702				
+PHAIDCFJ_01417	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+PHAIDCFJ_01418	gene	1725				
+PHAIDCFJ_01418	CDS	1725				hypothetical protein
+PHAIDCFJ_01419	gene	1407				
+PHAIDCFJ_01419	CDS	1407				hypothetical protein
+PHAIDCFJ_01420	gene	645				
+PHAIDCFJ_01420	CDS	645				hypothetical protein
+PHAIDCFJ_01421	gene	741				
+PHAIDCFJ_01421	CDS	741				hypothetical protein
+PHAIDCFJ_01422	gene	1140	pgl			
+PHAIDCFJ_01422	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+PHAIDCFJ_01423	gene	369	rplL			
+PHAIDCFJ_01423	CDS	369	rplL			50S ribosomal protein L7/L12
+PHAIDCFJ_01424	gene	522	rplJ			
+PHAIDCFJ_01424	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+PHAIDCFJ_01425	gene	699	rplA			
+PHAIDCFJ_01425	CDS	699	rplA			50S ribosomal protein L1
+PHAIDCFJ_01426	gene	426	rplK			
+PHAIDCFJ_01426	CDS	426	rplK		COG0080	50S ribosomal protein L11
+PHAIDCFJ_01427	gene	543	nusG			
+PHAIDCFJ_01427	CDS	543	nusG			Transcription termination/antitermination protein NusG
+PHAIDCFJ_01428	gene	207	secE			
+PHAIDCFJ_01428	CDS	207	secE			Protein translocase subunit SecE
+PHAIDCFJ_01429	gene	150	rpmG2			
+PHAIDCFJ_01429	CDS	150	rpmG2			50S ribosomal protein L33 2
+PHAIDCFJ_01430	gene	489	queT			
+PHAIDCFJ_01430	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+PHAIDCFJ_01431	gene	696				
+PHAIDCFJ_01431	CDS	696				hypothetical protein
+PHAIDCFJ_01432	gene	1224	pepT			
+PHAIDCFJ_01432	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+PHAIDCFJ_01433	gene	75				
+PHAIDCFJ_01433	tRNA	75				tRNA-Arg(tcg)
+PHAIDCFJ_01434	gene	402				
+PHAIDCFJ_01434	CDS	402				hypothetical protein
+PHAIDCFJ_01435	gene	75				
+PHAIDCFJ_01435	tRNA	75				tRNA-Arg(cct)
+PHAIDCFJ_01436	gene	1200	gerN			
+PHAIDCFJ_01436	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+PHAIDCFJ_01437	gene	447				
+PHAIDCFJ_01437	CDS	447				hypothetical protein
+PHAIDCFJ_01438	gene	201				
+PHAIDCFJ_01438	CDS	201				hypothetical protein
+PHAIDCFJ_01439	gene	2487				
+PHAIDCFJ_01439	CDS	2487				hypothetical protein
+PHAIDCFJ_01440	gene	351				
+PHAIDCFJ_01440	CDS	351				hypothetical protein
+PHAIDCFJ_01441	gene	258				
+PHAIDCFJ_01441	CDS	258				hypothetical protein
+PHAIDCFJ_01442	gene	1299				
+PHAIDCFJ_01442	CDS	1299				hypothetical protein
+PHAIDCFJ_01443	gene	552	rpoE			
+PHAIDCFJ_01443	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+PHAIDCFJ_01444	gene	393	rpsI			
+PHAIDCFJ_01444	CDS	393	rpsI			30S ribosomal protein S9
+PHAIDCFJ_01445	gene	429	rplM			
+PHAIDCFJ_01445	CDS	429	rplM		COG0102	50S ribosomal protein L13
+PHAIDCFJ_01446	gene	1254				
+PHAIDCFJ_01446	CDS	1254				hypothetical protein
+PHAIDCFJ_01447	gene	918				
+PHAIDCFJ_01447	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+PHAIDCFJ_01448	gene	1071				
+PHAIDCFJ_01448	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+PHAIDCFJ_01449	gene	762	truA			
+PHAIDCFJ_01449	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+PHAIDCFJ_01450	gene	1827	glmS			
+PHAIDCFJ_01450	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PHAIDCFJ_01451	gene	1401				
+PHAIDCFJ_01451	CDS	1401				hypothetical protein
+PHAIDCFJ_01452	gene	573				
+PHAIDCFJ_01452	CDS	573				hypothetical protein
+PHAIDCFJ_01453	gene	378				
+PHAIDCFJ_01453	CDS	378				hypothetical protein
+PHAIDCFJ_01454	gene	648				
+PHAIDCFJ_01454	CDS	648				hypothetical protein
+PHAIDCFJ_01455	gene	531				
+PHAIDCFJ_01455	CDS	531				hypothetical protein
+PHAIDCFJ_01456	gene	567				
+PHAIDCFJ_01456	CDS	567				hypothetical protein
+PHAIDCFJ_01457	gene	1536	guaA			
+PHAIDCFJ_01457	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+PHAIDCFJ_01458	gene	1623	groL			
+PHAIDCFJ_01458	CDS	1623	groL		COG0459	60 kDa chaperonin
+PHAIDCFJ_01459	gene	282	groS			
+PHAIDCFJ_01459	CDS	282	groS		COG0234	10 kDa chaperonin
+PHAIDCFJ_01460	gene	1482	clsA_2			
+PHAIDCFJ_01460	CDS	1482	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+PHAIDCFJ_01461	gene	876				
+PHAIDCFJ_01461	CDS	876				hypothetical protein
+PHAIDCFJ_01462	gene	384				
+PHAIDCFJ_01462	CDS	384			COG1302	Alkaline shock protein 23
+PHAIDCFJ_01463	gene	495				
+PHAIDCFJ_01463	CDS	495				hypothetical protein
+PHAIDCFJ_01464	gene	846				
+PHAIDCFJ_01464	CDS	846				hypothetical protein
+PHAIDCFJ_01465	gene	1431				
+PHAIDCFJ_01465	CDS	1431				hypothetical protein
+PHAIDCFJ_01466	gene	387				
+PHAIDCFJ_01466	CDS	387				hypothetical protein
+PHAIDCFJ_01467	gene	5607				
+PHAIDCFJ_01467	CDS	5607				hypothetical protein
+PHAIDCFJ_01468	gene	459				
+PHAIDCFJ_01468	CDS	459				hypothetical protein
+PHAIDCFJ_01469	gene	837	rsmI			
+PHAIDCFJ_01469	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+PHAIDCFJ_01470	gene	750	yfiC			
+PHAIDCFJ_01470	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PHAIDCFJ_01471	gene	897				
+PHAIDCFJ_01471	CDS	897				hypothetical protein
+PHAIDCFJ_01472	gene	939				
+PHAIDCFJ_01472	CDS	939				hypothetical protein
+PHAIDCFJ_01473	gene	702	tmk			
+PHAIDCFJ_01473	CDS	702	tmk	2.7.4.9		Thymidylate kinase
+PHAIDCFJ_01474	gene	1506	speA			
+PHAIDCFJ_01474	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+PHAIDCFJ_01475	gene	90				
+PHAIDCFJ_01475	rRNA	90				5S ribosomal RNA (partial)
+PHAIDCFJ_01476	gene	74				
+PHAIDCFJ_01476	tRNA	74				tRNA-Gly(tcc)
+PHAIDCFJ_01477	gene	72				
+PHAIDCFJ_01477	tRNA	72				tRNA-Glu(ctc)
+PHAIDCFJ_01478	gene	1314	ugtP_2			
+PHAIDCFJ_01478	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+PHAIDCFJ_01479	gene	168				
+PHAIDCFJ_01479	CDS	168				hypothetical protein
+PHAIDCFJ_01480	gene	276				
+PHAIDCFJ_01480	CDS	276				hypothetical protein
+PHAIDCFJ_01481	gene	600	recR			
+PHAIDCFJ_01481	CDS	600	recR		COG0353	Recombination protein RecR
+PHAIDCFJ_01482	gene	345				
+PHAIDCFJ_01482	CDS	345			COG0718	Nucleoid-associated protein
+PHAIDCFJ_01483	gene	1683				
+PHAIDCFJ_01483	CDS	1683				hypothetical protein
+PHAIDCFJ_01484	gene	576				
+PHAIDCFJ_01484	CDS	576				hypothetical protein
+PHAIDCFJ_01485	gene	642	bcrA_2			
+PHAIDCFJ_01485	CDS	642	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+PHAIDCFJ_01486	gene	657				
+PHAIDCFJ_01486	CDS	657				hypothetical protein
+PHAIDCFJ_01487	gene	681				
+PHAIDCFJ_01487	CDS	681				hypothetical protein
+PHAIDCFJ_01488	gene	768				
+PHAIDCFJ_01488	CDS	768				hypothetical protein
+PHAIDCFJ_01489	gene	1701				
+PHAIDCFJ_01489	CDS	1701				hypothetical protein
+PHAIDCFJ_01490	gene	762				
+PHAIDCFJ_01490	CDS	762				hypothetical protein
+PHAIDCFJ_01491	gene	1305	thiC			
+PHAIDCFJ_01491	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+PHAIDCFJ_01492	gene	1455	thiM			
+PHAIDCFJ_01492	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+PHAIDCFJ_01493	gene	822	thiD			
+PHAIDCFJ_01493	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+PHAIDCFJ_01494	gene	927				
+PHAIDCFJ_01494	CDS	927				hypothetical protein
+PHAIDCFJ_01495	gene	2199	ziaA			
+PHAIDCFJ_01495	CDS	2199	ziaA	7.2.2.12		Zinc-transporting ATPase
+PHAIDCFJ_01496	gene	384	ziaR			
+PHAIDCFJ_01496	CDS	384	ziaR			Transcriptional repressor SmtB 
+PHAIDCFJ_01497	gene	357				
+PHAIDCFJ_01497	CDS	357				hypothetical protein
+PHAIDCFJ_01498	gene	858				
+PHAIDCFJ_01498	CDS	858				hypothetical protein
+PHAIDCFJ_01499	gene	729	lnrL_2			
+PHAIDCFJ_01499	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+PHAIDCFJ_01500	gene	369	ytrA			
+PHAIDCFJ_01500	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+PHAIDCFJ_01501	gene	72				
+PHAIDCFJ_01501	tRNA	72				tRNA-Cys(gca)
+PHAIDCFJ_01502	gene	75				
+PHAIDCFJ_01502	tRNA	75				tRNA-Lys(ctt)
+PHAIDCFJ_01503	gene	77				
+PHAIDCFJ_01503	tRNA	77				tRNA-Met(cat)
+PHAIDCFJ_01504	gene	76				
+PHAIDCFJ_01504	tRNA	76				tRNA-Phe(gaa)
+PHAIDCFJ_01505	gene	89				
+PHAIDCFJ_01505	tRNA	89				tRNA-Ser(tga)
+PHAIDCFJ_01506	gene	76				
+PHAIDCFJ_01506	tRNA	76				tRNA-Gln(ttg)
+PHAIDCFJ_01507	gene	84				
+PHAIDCFJ_01507	tRNA	84				tRNA-Leu(tag)
+PHAIDCFJ_01508	gene	90				
+PHAIDCFJ_01508	tRNA	90				tRNA-Ser(gga)
+PHAIDCFJ_01509	gene	1299				
+PHAIDCFJ_01509	CDS	1299				hypothetical protein
+PHAIDCFJ_01510	gene	264				
+PHAIDCFJ_01510	CDS	264				hypothetical protein
+PHAIDCFJ_01511	gene	1176	tadA			
+PHAIDCFJ_01511	CDS	1176	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+PHAIDCFJ_01512	gene	1176	thiH			
+PHAIDCFJ_01512	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+PHAIDCFJ_01513	gene	768	thiG			
+PHAIDCFJ_01513	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+PHAIDCFJ_01514	gene	729				
+PHAIDCFJ_01514	CDS	729				hypothetical protein
+PHAIDCFJ_01515	gene	195				
+PHAIDCFJ_01515	CDS	195				hypothetical protein
+PHAIDCFJ_01516	gene	1377	alsT_3			
+PHAIDCFJ_01516	CDS	1377	alsT_3		COG1115	Amino-acid carrier protein AlsT
+PHAIDCFJ_01517	gene	510				
+PHAIDCFJ_01517	CDS	510				hypothetical protein
+PHAIDCFJ_01518	gene	633				
+PHAIDCFJ_01518	CDS	633				hypothetical protein
+PHAIDCFJ_01519	gene	1392	nhaC			
+PHAIDCFJ_01519	CDS	1392	nhaC		COG1757	Na(+)/H(+) antiporter NhaC

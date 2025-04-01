@@ -1,0 +1,2627 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FAMGLANL_00001	gene	2694	mfd			
+FAMGLANL_00001	CDS	2694	mfd	3.6.4.-		Transcription-repair-coupling factor
+FAMGLANL_00002	gene	1062	prsA_1			
+FAMGLANL_00002	CDS	1062	prsA_1	5.2.1.8		Foldase protein PrsA
+FAMGLANL_00003	gene	1623	murJ_1			
+FAMGLANL_00003	CDS	1623	murJ_1		COG2244	Lipid II flippase MurJ
+FAMGLANL_00004	gene	1011				
+FAMGLANL_00004	CDS	1011				hypothetical protein
+FAMGLANL_00005	gene	282	hup			
+FAMGLANL_00005	CDS	282	hup			DNA-binding protein HU
+FAMGLANL_00006	gene	240				
+FAMGLANL_00006	CDS	240			COG1188	putative protein
+FAMGLANL_00007	gene	894	gtaB			
+FAMGLANL_00007	CDS	894	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+FAMGLANL_00008	gene	1443	rho			
+FAMGLANL_00008	CDS	1443	rho	3.6.4.-		Transcription termination factor Rho
+FAMGLANL_00009	gene	201	rpmE			
+FAMGLANL_00009	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+FAMGLANL_00010	gene	327				
+FAMGLANL_00010	CDS	327				hypothetical protein
+FAMGLANL_00011	gene	720				
+FAMGLANL_00011	CDS	720				hypothetical protein
+FAMGLANL_00012	gene	915	prmC			
+FAMGLANL_00012	CDS	915	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+FAMGLANL_00013	gene	1065	prfA			
+FAMGLANL_00013	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+FAMGLANL_00014	gene	1038	ywlC			
+FAMGLANL_00014	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+FAMGLANL_00015	gene	447	rpiB			
+FAMGLANL_00015	CDS	447	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+FAMGLANL_00016	gene	630	upp			
+FAMGLANL_00016	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+FAMGLANL_00017	gene	240				
+FAMGLANL_00017	CDS	240				hypothetical protein
+FAMGLANL_00018	gene	402				
+FAMGLANL_00018	CDS	402				hypothetical protein
+FAMGLANL_00019	gene	705	atpB			
+FAMGLANL_00019	CDS	705	atpB		COG0356	ATP synthase subunit a
+FAMGLANL_00020	gene	264	atpE			
+FAMGLANL_00020	CDS	264	atpE			ATP synthase subunit c, sodium ion specific
+FAMGLANL_00021	gene	507	atpF			
+FAMGLANL_00021	CDS	507	atpF			ATP synthase subunit b, sodium ion specific
+FAMGLANL_00022	gene	543	atpH			
+FAMGLANL_00022	CDS	543	atpH			ATP synthase subunit delta, sodium ion specific
+FAMGLANL_00023	gene	1503	atpA			
+FAMGLANL_00023	CDS	1503	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+FAMGLANL_00024	gene	999	atpG			
+FAMGLANL_00024	CDS	999	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+FAMGLANL_00025	gene	1401	atpD			
+FAMGLANL_00025	CDS	1401	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+FAMGLANL_00026	gene	270	atpC			
+FAMGLANL_00026	CDS	270	atpC			ATP synthase epsilon chain
+FAMGLANL_00027	gene	576				
+FAMGLANL_00027	CDS	576				hypothetical protein
+FAMGLANL_00028	gene	939				
+FAMGLANL_00028	CDS	939				hypothetical protein
+FAMGLANL_00029	gene	945	hmo_1			
+FAMGLANL_00029	CDS	945	hmo_1	1.1.3.46		4-hydroxymandelate oxidase
+FAMGLANL_00030	gene	108				
+FAMGLANL_00030	CDS	108				hypothetical protein
+FAMGLANL_00031	gene	345	cobT			
+FAMGLANL_00031	CDS	345	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+FAMGLANL_00032	gene	588	cobU			
+FAMGLANL_00032	CDS	588	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+FAMGLANL_00033	gene	771	cobS			
+FAMGLANL_00033	CDS	771	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+FAMGLANL_00034	gene	639	pspA_1			
+FAMGLANL_00034	CDS	639	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+FAMGLANL_00035	gene	1503	cobQ			
+FAMGLANL_00035	CDS	1503	cobQ			Cobyric acid synthase
+FAMGLANL_00036	gene	1395	cbiA			
+FAMGLANL_00036	CDS	1395	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+FAMGLANL_00037	gene	1041	cbiB			
+FAMGLANL_00037	CDS	1041	cbiB			Cobalamin biosynthesis protein CbiB
+FAMGLANL_00038	gene	1092	cobD			
+FAMGLANL_00038	CDS	1092	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+FAMGLANL_00039	gene	885	pduX			
+FAMGLANL_00039	CDS	885	pduX	2.7.1.177	COG4542	L-threonine kinase
+FAMGLANL_00040	gene	639	cbiC			
+FAMGLANL_00040	CDS	639	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+FAMGLANL_00041	gene	1167	cbiD			
+FAMGLANL_00041	CDS	1167	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+FAMGLANL_00042	gene	720	cbiE			
+FAMGLANL_00042	CDS	720	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+FAMGLANL_00043	gene	567	cbiT			
+FAMGLANL_00043	CDS	567	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+FAMGLANL_00044	gene	759	cbiF			
+FAMGLANL_00044	CDS	759	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+FAMGLANL_00045	gene	1188	cbiG			
+FAMGLANL_00045	CDS	1188	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+FAMGLANL_00046	gene	726	cbiH			
+FAMGLANL_00046	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+FAMGLANL_00047	gene	765	cbiJ			
+FAMGLANL_00047	CDS	765	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+FAMGLANL_00048	gene	1545				
+FAMGLANL_00048	CDS	1545				hypothetical protein
+FAMGLANL_00049	gene	1104				
+FAMGLANL_00049	CDS	1104				hypothetical protein
+FAMGLANL_00050	gene	906				
+FAMGLANL_00050	CDS	906				hypothetical protein
+FAMGLANL_00051	gene	924	fba			
+FAMGLANL_00051	CDS	924	fba	4.1.2.13		Fructose-bisphosphate aldolase
+FAMGLANL_00052	gene	552	hpf			
+FAMGLANL_00052	CDS	552	hpf			Ribosome hibernation promotion factor
+FAMGLANL_00053	gene	1059				
+FAMGLANL_00053	CDS	1059			COG1702	PhoH-like protein
+FAMGLANL_00054	gene	462	ybeY			
+FAMGLANL_00054	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+FAMGLANL_00055	gene	897				
+FAMGLANL_00055	CDS	897				hypothetical protein
+FAMGLANL_00056	gene	903	era			
+FAMGLANL_00056	CDS	903	era			GTPase Era
+FAMGLANL_00057	gene	1377				
+FAMGLANL_00057	CDS	1377			COG2239	Magnesium transporter MgtE
+FAMGLANL_00058	gene	747	recO			
+FAMGLANL_00058	CDS	747	recO		COG1381	DNA repair protein RecO
+FAMGLANL_00059	gene	609				
+FAMGLANL_00059	CDS	609				hypothetical protein
+FAMGLANL_00060	gene	885	glyQ			
+FAMGLANL_00060	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+FAMGLANL_00061	gene	74				
+FAMGLANL_00061	tRNA	74				tRNA-Glu(ttc)
+FAMGLANL_00062	gene	73				
+FAMGLANL_00062	tRNA	73				tRNA-Asn(gtt)
+FAMGLANL_00063	gene	105				
+FAMGLANL_00063	rRNA	105				5S ribosomal RNA
+FAMGLANL_00064	gene	1989	tkt			
+FAMGLANL_00064	CDS	1989	tkt	2.2.1.1		Transketolase
+FAMGLANL_00065	gene	960				
+FAMGLANL_00065	CDS	960				hypothetical protein
+FAMGLANL_00066	gene	579				
+FAMGLANL_00066	CDS	579				hypothetical protein
+FAMGLANL_00067	gene	465				
+FAMGLANL_00067	CDS	465				hypothetical protein
+FAMGLANL_00068	gene	405				
+FAMGLANL_00068	CDS	405				hypothetical protein
+FAMGLANL_00069	gene	591	ogt			
+FAMGLANL_00069	CDS	591	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+FAMGLANL_00070	gene	990	asd_1			
+FAMGLANL_00070	CDS	990	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+FAMGLANL_00071	gene	1338	hom			
+FAMGLANL_00071	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+FAMGLANL_00072	gene	1050	thrC			
+FAMGLANL_00072	CDS	1050	thrC	4.2.3.1	COG0498	Threonine synthase
+FAMGLANL_00073	gene	909	thrB			
+FAMGLANL_00073	CDS	909	thrB	2.7.1.39	COG0083	Homoserine kinase
+FAMGLANL_00074	gene	1221	ask			
+FAMGLANL_00074	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+FAMGLANL_00075	gene	828	COQ3			
+FAMGLANL_00075	CDS	828	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+FAMGLANL_00076	gene	1014	gloB_1			
+FAMGLANL_00076	CDS	1014	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+FAMGLANL_00077	gene	1548	carA_1			
+FAMGLANL_00077	CDS	1548	carA_1	2.8.3.23	COG4670	Caffeate CoA-transferase
+FAMGLANL_00078	gene	960	dusB			
+FAMGLANL_00078	CDS	960	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+FAMGLANL_00079	gene	768	coaX			
+FAMGLANL_00079	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+FAMGLANL_00080	gene	984	birA			
+FAMGLANL_00080	CDS	984	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+FAMGLANL_00081	gene	756				
+FAMGLANL_00081	CDS	756				hypothetical protein
+FAMGLANL_00082	gene	405				
+FAMGLANL_00082	CDS	405				hypothetical protein
+FAMGLANL_00083	gene	2043	ftsH			
+FAMGLANL_00083	CDS	2043	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+FAMGLANL_00084	gene	1380	tilS			
+FAMGLANL_00084	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+FAMGLANL_00085	gene	414				
+FAMGLANL_00085	CDS	414				hypothetical protein
+FAMGLANL_00086	gene	1380				
+FAMGLANL_00086	CDS	1380				hypothetical protein
+FAMGLANL_00087	gene	1773				
+FAMGLANL_00087	CDS	1773				hypothetical protein
+FAMGLANL_00088	gene	1929	epmA			
+FAMGLANL_00088	CDS	1929	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+FAMGLANL_00089	gene	486	greA			
+FAMGLANL_00089	CDS	486	greA		COG0782	Transcription elongation factor GreA
+FAMGLANL_00090	gene	342				
+FAMGLANL_00090	CDS	342				hypothetical protein
+FAMGLANL_00091	gene	258				
+FAMGLANL_00091	CDS	258				hypothetical protein
+FAMGLANL_00092	gene	1299				
+FAMGLANL_00092	CDS	1299				hypothetical protein
+FAMGLANL_00093	gene	552	rpoE			
+FAMGLANL_00093	CDS	552	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+FAMGLANL_00094	gene	393	rpsI			
+FAMGLANL_00094	CDS	393	rpsI			30S ribosomal protein S9
+FAMGLANL_00095	gene	429	rplM			
+FAMGLANL_00095	CDS	429	rplM		COG0102	50S ribosomal protein L13
+FAMGLANL_00096	gene	1254				
+FAMGLANL_00096	CDS	1254				hypothetical protein
+FAMGLANL_00097	gene	918				
+FAMGLANL_00097	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+FAMGLANL_00098	gene	1071				
+FAMGLANL_00098	CDS	1071		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FAMGLANL_00099	gene	762	truA			
+FAMGLANL_00099	CDS	762	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+FAMGLANL_00100	gene	1827	glmS			
+FAMGLANL_00100	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FAMGLANL_00101	gene	1401				
+FAMGLANL_00101	CDS	1401				hypothetical protein
+FAMGLANL_00102	gene	747	aroD			
+FAMGLANL_00102	CDS	747	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+FAMGLANL_00103	gene	1167	patB			
+FAMGLANL_00103	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+FAMGLANL_00104	gene	810	ecfT_1			
+FAMGLANL_00104	CDS	810	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+FAMGLANL_00105	gene	876	ecfA2			
+FAMGLANL_00105	CDS	876	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+FAMGLANL_00106	gene	837	ecfA1			
+FAMGLANL_00106	CDS	837	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+FAMGLANL_00107	gene	4635				
+FAMGLANL_00107	CDS	4635				hypothetical protein
+FAMGLANL_00108	gene	1437	pncB2			
+FAMGLANL_00108	CDS	1437	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+FAMGLANL_00109	gene	456	lrpC			
+FAMGLANL_00109	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+FAMGLANL_00110	gene	1941	metG			
+FAMGLANL_00110	CDS	1941	metG	6.1.1.10		Methionine--tRNA ligase
+FAMGLANL_00111	gene	771	ycfH			
+FAMGLANL_00111	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+FAMGLANL_00112	gene	678	macB_1			
+FAMGLANL_00112	CDS	678	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+FAMGLANL_00113	gene	2490				
+FAMGLANL_00113	CDS	2490				hypothetical protein
+FAMGLANL_00114	gene	198	hlyB			
+FAMGLANL_00114	CDS	198	hlyB		COG2274	Alpha-hemolysin translocation ATP-binding protein HlyB
+FAMGLANL_00115	gene	1476				
+FAMGLANL_00115	CDS	1476				hypothetical protein
+FAMGLANL_00116	gene	804	proC			
+FAMGLANL_00116	CDS	804	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+FAMGLANL_00117	gene	651				
+FAMGLANL_00117	CDS	651				hypothetical protein
+FAMGLANL_00118	gene	549				
+FAMGLANL_00118	CDS	549				hypothetical protein
+FAMGLANL_00119	gene	555	rnmV			
+FAMGLANL_00119	CDS	555	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+FAMGLANL_00120	gene	879	rsmA			
+FAMGLANL_00120	CDS	879	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+FAMGLANL_00121	gene	870				
+FAMGLANL_00121	CDS	870				hypothetical protein
+FAMGLANL_00122	gene	756				
+FAMGLANL_00122	CDS	756				hypothetical protein
+FAMGLANL_00123	gene	654	gpsB			
+FAMGLANL_00123	CDS	654	gpsB			Cell cycle protein GpsB
+FAMGLANL_00124	gene	786				
+FAMGLANL_00124	CDS	786				hypothetical protein
+FAMGLANL_00125	gene	258				
+FAMGLANL_00125	CDS	258				hypothetical protein
+FAMGLANL_00126	gene	495	sepF			
+FAMGLANL_00126	CDS	495	sepF			Cell division protein SepF
+FAMGLANL_00127	gene	702				
+FAMGLANL_00127	CDS	702			COG0325	Pyridoxal phosphate homeostasis protein
+FAMGLANL_00128	gene	1011	gpsA			
+FAMGLANL_00128	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+FAMGLANL_00129	gene	609	plsY			
+FAMGLANL_00129	CDS	609	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+FAMGLANL_00130	gene	1329	der			
+FAMGLANL_00130	CDS	1329	der		COG1160	GTPase Der
+FAMGLANL_00131	gene	1281	walK			
+FAMGLANL_00131	CDS	1281	walK	2.7.13.3		Sensor histidine kinase WalK
+FAMGLANL_00132	gene	681	phoP_1			
+FAMGLANL_00132	CDS	681	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FAMGLANL_00133	gene	516	nrdR			
+FAMGLANL_00133	CDS	516	nrdR		COG1327	Transcriptional repressor NrdR
+FAMGLANL_00134	gene	1161	ftsZ			
+FAMGLANL_00134	CDS	1161	ftsZ		COG0206	Cell division protein FtsZ
+FAMGLANL_00135	gene	1098	murG			
+FAMGLANL_00135	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FAMGLANL_00136	gene	1365	murD			
+FAMGLANL_00136	CDS	1365	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+FAMGLANL_00137	gene	966	mraY			
+FAMGLANL_00137	CDS	966	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FAMGLANL_00138	gene	1410	murF			
+FAMGLANL_00138	CDS	1410	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+FAMGLANL_00139	gene	936	rsmH			
+FAMGLANL_00139	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+FAMGLANL_00140	gene	750	lgt			
+FAMGLANL_00140	CDS	750	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+FAMGLANL_00141	gene	1293				
+FAMGLANL_00141	CDS	1293				hypothetical protein
+FAMGLANL_00142	gene	1260				
+FAMGLANL_00142	CDS	1260				hypothetical protein
+FAMGLANL_00143	gene	456				
+FAMGLANL_00143	CDS	456				hypothetical protein
+FAMGLANL_00144	gene	1098	ychF			
+FAMGLANL_00144	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+FAMGLANL_00145	gene	513	sigM_1			
+FAMGLANL_00145	CDS	513	sigM_1		COG1595	ECF RNA polymerase sigma factor SigM
+FAMGLANL_00146	gene	129				
+FAMGLANL_00146	CDS	129				hypothetical protein
+FAMGLANL_00147	gene	492				
+FAMGLANL_00147	CDS	492				hypothetical protein
+FAMGLANL_00148	gene	1050	mreB_1			
+FAMGLANL_00148	CDS	1050	mreB_1		COG1077	Cell shape-determining protein MreB
+FAMGLANL_00149	gene	882				
+FAMGLANL_00149	CDS	882				hypothetical protein
+FAMGLANL_00150	gene	486				
+FAMGLANL_00150	CDS	486				hypothetical protein
+FAMGLANL_00151	gene	2898	mrdA			
+FAMGLANL_00151	CDS	2898	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+FAMGLANL_00152	gene	1113	mrdB			
+FAMGLANL_00152	CDS	1113	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+FAMGLANL_00153	gene	1860				
+FAMGLANL_00153	CDS	1860				hypothetical protein
+FAMGLANL_00154	gene	699				
+FAMGLANL_00154	CDS	699				hypothetical protein
+FAMGLANL_00155	gene	1401	rne			
+FAMGLANL_00155	CDS	1401	rne	3.1.26.12	COG1530	Ribonuclease E
+FAMGLANL_00156	gene	921	rbn			
+FAMGLANL_00156	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+FAMGLANL_00157	gene	462	crcB_1			
+FAMGLANL_00157	CDS	462	crcB_1			Putative fluoride ion transporter CrcB
+FAMGLANL_00158	gene	348	crcB_2			
+FAMGLANL_00158	CDS	348	crcB_2			Putative fluoride ion transporter CrcB
+FAMGLANL_00159	gene	624	recX			
+FAMGLANL_00159	CDS	624	recX			Regulatory protein RecX
+FAMGLANL_00160	gene	696	nadD			
+FAMGLANL_00160	CDS	696	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+FAMGLANL_00161	gene	576				
+FAMGLANL_00161	CDS	576				hypothetical protein
+FAMGLANL_00162	gene	351	rsfS			
+FAMGLANL_00162	CDS	351	rsfS		COG0799	Ribosomal silencing factor RsfS
+FAMGLANL_00163	gene	2421	leuS			
+FAMGLANL_00163	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+FAMGLANL_00164	gene	936	yijE			
+FAMGLANL_00164	CDS	936	yijE			putative cystine transporter YijE
+FAMGLANL_00165	gene	309	rplU			
+FAMGLANL_00165	CDS	309	rplU		COG0261	50S ribosomal protein L21
+FAMGLANL_00166	gene	318				
+FAMGLANL_00166	CDS	318				hypothetical protein
+FAMGLANL_00167	gene	291	rpmA			
+FAMGLANL_00167	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+FAMGLANL_00168	gene	255	veg			
+FAMGLANL_00168	CDS	255	veg		COG4466	Protein Veg
+FAMGLANL_00169	gene	495				
+FAMGLANL_00169	CDS	495				hypothetical protein
+FAMGLANL_00170	gene	711				
+FAMGLANL_00170	CDS	711				hypothetical protein
+FAMGLANL_00171	gene	681	rluC			
+FAMGLANL_00171	CDS	681	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+FAMGLANL_00172	gene	870	rlmL_1			
+FAMGLANL_00172	CDS	870	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+FAMGLANL_00173	gene	1422	pqqE			
+FAMGLANL_00173	CDS	1422	pqqE	1.21.98.4		PqqA peptide cyclase
+FAMGLANL_00174	gene	510	ftnA			
+FAMGLANL_00174	CDS	510	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+FAMGLANL_00175	gene	471				
+FAMGLANL_00175	CDS	471				hypothetical protein
+FAMGLANL_00176	gene	564				
+FAMGLANL_00176	CDS	564				hypothetical protein
+FAMGLANL_00177	gene	888	cysK			
+FAMGLANL_00177	CDS	888	cysK	2.5.1.47		Cysteine synthase
+FAMGLANL_00178	gene	597	cysE			
+FAMGLANL_00178	CDS	597	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+FAMGLANL_00179	gene	657				
+FAMGLANL_00179	CDS	657				hypothetical protein
+FAMGLANL_00180	gene	3216	carB			
+FAMGLANL_00180	CDS	3216	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+FAMGLANL_00181	gene	1050	carA_2			
+FAMGLANL_00181	CDS	1050	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+FAMGLANL_00182	gene	723	pyrF			
+FAMGLANL_00182	CDS	723	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+FAMGLANL_00183	gene	1140				
+FAMGLANL_00183	CDS	1140				hypothetical protein
+FAMGLANL_00184	gene	1128				
+FAMGLANL_00184	CDS	1128				hypothetical protein
+FAMGLANL_00185	gene	297				
+FAMGLANL_00185	CDS	297				hypothetical protein
+FAMGLANL_00186	gene	339				
+FAMGLANL_00186	CDS	339				hypothetical protein
+FAMGLANL_00187	gene	549				
+FAMGLANL_00187	CDS	549				hypothetical protein
+FAMGLANL_00188	gene	1188				
+FAMGLANL_00188	CDS	1188				hypothetical protein
+FAMGLANL_00189	gene	447	fldA_1			
+FAMGLANL_00189	CDS	447	fldA_1	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+FAMGLANL_00190	gene	1233	hadB			
+FAMGLANL_00190	CDS	1233	hadB	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase alpha subunit
+FAMGLANL_00191	gene	1125	hadC			
+FAMGLANL_00191	CDS	1125	hadC	4.2.1.157	COG1775	(R)-2-hydroxyisocaproyl-CoA dehydratase beta subunit
+FAMGLANL_00192	gene	1143	carC_1			
+FAMGLANL_00192	CDS	1143	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FAMGLANL_00193	gene	786	carD_1			
+FAMGLANL_00193	CDS	786	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+FAMGLANL_00194	gene	1011	carE_1			
+FAMGLANL_00194	CDS	1011	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+FAMGLANL_00195	gene	999				
+FAMGLANL_00195	CDS	999		1.1.1.28		D-lactate dehydrogenase
+FAMGLANL_00196	gene	1047	prfB			
+FAMGLANL_00196	CDS	1047	prfB			Peptide chain release factor 2
+FAMGLANL_00197	gene	2163	yhgF			
+FAMGLANL_00197	CDS	2163	yhgF		COG2183	Protein YhgF
+FAMGLANL_00198	gene	621	ribU			
+FAMGLANL_00198	CDS	621	ribU			Riboflavin transporter RibU
+FAMGLANL_00199	gene	795	fldI			
+FAMGLANL_00199	CDS	795	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+FAMGLANL_00200	gene	399				
+FAMGLANL_00200	CDS	399				hypothetical protein
+FAMGLANL_00201	gene	381				
+FAMGLANL_00201	CDS	381				hypothetical protein
+FAMGLANL_00202	gene	921				
+FAMGLANL_00202	CDS	921				hypothetical protein
+FAMGLANL_00203	gene	459	tsaE			
+FAMGLANL_00203	CDS	459	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+FAMGLANL_00204	gene	720	tsaB			
+FAMGLANL_00204	CDS	720	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+FAMGLANL_00205	gene	450	rimI			
+FAMGLANL_00205	CDS	450	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+FAMGLANL_00206	gene	1020	tsaD			
+FAMGLANL_00206	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+FAMGLANL_00207	gene	1932	yheS			
+FAMGLANL_00207	CDS	1932	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+FAMGLANL_00208	gene	636	rex1			
+FAMGLANL_00208	CDS	636	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+FAMGLANL_00209	gene	168				
+FAMGLANL_00209	CDS	168			COG1145	Ferredoxin
+FAMGLANL_00210	gene	1926	thrZ			
+FAMGLANL_00210	CDS	1926	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+FAMGLANL_00211	gene	1038	hrcA			
+FAMGLANL_00211	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+FAMGLANL_00212	gene	624	grpE			
+FAMGLANL_00212	CDS	624	grpE			Protein GrpE
+FAMGLANL_00213	gene	1845	dnaK			
+FAMGLANL_00213	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+FAMGLANL_00214	gene	1155	dnaJ			
+FAMGLANL_00214	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+FAMGLANL_00215	gene	378	tcdA			
+FAMGLANL_00215	CDS	378	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+FAMGLANL_00216	gene	285				
+FAMGLANL_00216	CDS	285				hypothetical protein
+FAMGLANL_00217	gene	867	comEC_1			
+FAMGLANL_00217	CDS	867	comEC_1		COG0658	ComE operon protein 3
+FAMGLANL_00218	gene	906				
+FAMGLANL_00218	CDS	906				hypothetical protein
+FAMGLANL_00219	gene	1287	eis			
+FAMGLANL_00219	CDS	1287	eis	2.3.1.-		N-acetyltransferase Eis
+FAMGLANL_00220	gene	1236	comEC_2			
+FAMGLANL_00220	CDS	1236	comEC_2		COG0658	ComE operon protein 3
+FAMGLANL_00221	gene	1038	yqeN			
+FAMGLANL_00221	CDS	1038	yqeN		COG1466	putative protein YqeN
+FAMGLANL_00222	gene	687	graR			
+FAMGLANL_00222	CDS	687	graR		COG0745	Response regulator protein GraR
+FAMGLANL_00223	gene	990	graS			
+FAMGLANL_00223	CDS	990	graS	2.7.13.3		Sensor histidine kinase GraS
+FAMGLANL_00224	gene	756	yxdL			
+FAMGLANL_00224	CDS	756	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+FAMGLANL_00225	gene	1875	yxdM			
+FAMGLANL_00225	CDS	1875	yxdM			ABC transporter permease protein YxdM
+FAMGLANL_00226	gene	267	rpsT			
+FAMGLANL_00226	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+FAMGLANL_00227	gene	1200	sstT_1			
+FAMGLANL_00227	CDS	1200	sstT_1			Serine/threonine transporter SstT
+FAMGLANL_00228	gene	678				
+FAMGLANL_00228	CDS	678				hypothetical protein
+FAMGLANL_00229	gene	777				
+FAMGLANL_00229	CDS	777				hypothetical protein
+FAMGLANL_00230	gene	1467				
+FAMGLANL_00230	CDS	1467				hypothetical protein
+FAMGLANL_00231	gene	540	puuR			
+FAMGLANL_00231	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+FAMGLANL_00232	gene	1044	potA			
+FAMGLANL_00232	CDS	1044	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+FAMGLANL_00233	gene	867	potB			
+FAMGLANL_00233	CDS	867	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+FAMGLANL_00234	gene	807				
+FAMGLANL_00234	CDS	807				hypothetical protein
+FAMGLANL_00235	gene	1086	potD			
+FAMGLANL_00235	CDS	1086	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+FAMGLANL_00236	gene	1479	malQ			
+FAMGLANL_00236	CDS	1479	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+FAMGLANL_00237	gene	1944				
+FAMGLANL_00237	CDS	1944				hypothetical protein
+FAMGLANL_00238	gene	1866	glgB			
+FAMGLANL_00238	CDS	1866	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+FAMGLANL_00239	gene	1173	glgC			
+FAMGLANL_00239	CDS	1173	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+FAMGLANL_00240	gene	1107	glgD			
+FAMGLANL_00240	CDS	1107	glgD		COG0448	Glycogen biosynthesis protein GlgD
+FAMGLANL_00241	gene	1536	guaA			
+FAMGLANL_00241	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+FAMGLANL_00242	gene	1623	groL			
+FAMGLANL_00242	CDS	1623	groL		COG0459	60 kDa chaperonin
+FAMGLANL_00243	gene	282	groS			
+FAMGLANL_00243	CDS	282	groS		COG0234	10 kDa chaperonin
+FAMGLANL_00244	gene	1482	clsA			
+FAMGLANL_00244	CDS	1482	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+FAMGLANL_00245	gene	876				
+FAMGLANL_00245	CDS	876				hypothetical protein
+FAMGLANL_00246	gene	384				
+FAMGLANL_00246	CDS	384			COG1302	Alkaline shock protein 23
+FAMGLANL_00247	gene	495				
+FAMGLANL_00247	CDS	495				hypothetical protein
+FAMGLANL_00248	gene	846				
+FAMGLANL_00248	CDS	846				hypothetical protein
+FAMGLANL_00249	gene	1431				
+FAMGLANL_00249	CDS	1431				hypothetical protein
+FAMGLANL_00250	gene	387				
+FAMGLANL_00250	CDS	387				hypothetical protein
+FAMGLANL_00251	gene	882				
+FAMGLANL_00251	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+FAMGLANL_00252	gene	570	xpt			
+FAMGLANL_00252	CDS	570	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+FAMGLANL_00253	gene	294				
+FAMGLANL_00253	CDS	294				Nucleobase transporter PlUacP
+FAMGLANL_00254	gene	1020	uacT			
+FAMGLANL_00254	CDS	1020	uacT		COG2233	Uric acid transporter UacT
+FAMGLANL_00255	gene	426	fabZ			
+FAMGLANL_00255	CDS	426	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+FAMGLANL_00256	gene	1236	fabF			
+FAMGLANL_00256	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+FAMGLANL_00257	gene	747	fabG_1			
+FAMGLANL_00257	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FAMGLANL_00258	gene	939	fabD			
+FAMGLANL_00258	CDS	939	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+FAMGLANL_00259	gene	939				
+FAMGLANL_00259	CDS	939		1.6.5.11	COG2070	NADH:quinone reductase
+FAMGLANL_00260	gene	138	acpP_1			
+FAMGLANL_00260	CDS	138	acpP_1			Acyl carrier protein
+FAMGLANL_00261	gene	1308	secA1			
+FAMGLANL_00261	CDS	1308	secA1			Protein translocase subunit SecA 1
+FAMGLANL_00262	gene	1365				
+FAMGLANL_00262	CDS	1365				hypothetical protein
+FAMGLANL_00263	gene	1305				
+FAMGLANL_00263	CDS	1305				hypothetical protein
+FAMGLANL_00264	gene	1893	lytC_1			
+FAMGLANL_00264	CDS	1893	lytC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_00265	gene	1107				
+FAMGLANL_00265	CDS	1107				hypothetical protein
+FAMGLANL_00266	gene	663	wecA			
+FAMGLANL_00266	CDS	663	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+FAMGLANL_00267	gene	780	tuaG_1			
+FAMGLANL_00267	CDS	780	tuaG_1	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+FAMGLANL_00268	gene	813				
+FAMGLANL_00268	CDS	813				hypothetical protein
+FAMGLANL_00269	gene	1188	tagF			
+FAMGLANL_00269	CDS	1188	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+FAMGLANL_00270	gene	1122				
+FAMGLANL_00270	CDS	1122				hypothetical protein
+FAMGLANL_00271	gene	765	tuaG_2			
+FAMGLANL_00271	CDS	765	tuaG_2	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+FAMGLANL_00272	gene	1101	mshA			
+FAMGLANL_00272	CDS	1101	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FAMGLANL_00273	gene	1446	fcl			
+FAMGLANL_00273	CDS	1446	fcl	1.1.1.271		GDP-L-fucose synthase
+FAMGLANL_00274	gene	1560	murJ_2			
+FAMGLANL_00274	CDS	1560	murJ_2		COG0728	putative lipid II flippase MurJ
+FAMGLANL_00275	gene	1230				
+FAMGLANL_00275	CDS	1230				hypothetical protein
+FAMGLANL_00276	gene	528				
+FAMGLANL_00276	CDS	528				hypothetical protein
+FAMGLANL_00277	gene	477				
+FAMGLANL_00277	CDS	477				hypothetical protein
+FAMGLANL_00278	gene	708				
+FAMGLANL_00278	CDS	708				hypothetical protein
+FAMGLANL_00279	gene	471				
+FAMGLANL_00279	CDS	471				hypothetical protein
+FAMGLANL_00280	gene	1233				
+FAMGLANL_00280	CDS	1233				hypothetical protein
+FAMGLANL_00281	gene	645	trmR			
+FAMGLANL_00281	CDS	645	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+FAMGLANL_00282	gene	1203	mltG			
+FAMGLANL_00282	CDS	1203	mltG	4.2.2.-		Endolytic murein transglycosylase
+FAMGLANL_00283	gene	822	punA			
+FAMGLANL_00283	CDS	822	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+FAMGLANL_00284	gene	1074				
+FAMGLANL_00284	CDS	1074				hypothetical protein
+FAMGLANL_00285	gene	831				
+FAMGLANL_00285	CDS	831				hypothetical protein
+FAMGLANL_00286	gene	687	arnC			
+FAMGLANL_00286	CDS	687	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FAMGLANL_00287	gene	864				
+FAMGLANL_00287	CDS	864				hypothetical protein
+FAMGLANL_00288	gene	1122				
+FAMGLANL_00288	CDS	1122				hypothetical protein
+FAMGLANL_00289	gene	1683	recN			
+FAMGLANL_00289	CDS	1683	recN		COG0497	DNA repair protein RecN
+FAMGLANL_00290	gene	843	tlyA			
+FAMGLANL_00290	CDS	843	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+FAMGLANL_00291	gene	1947	dxs			
+FAMGLANL_00291	CDS	1947	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+FAMGLANL_00292	gene	432				
+FAMGLANL_00292	CDS	432				hypothetical protein
+FAMGLANL_00293	gene	885				
+FAMGLANL_00293	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+FAMGLANL_00294	gene	246	xseB			
+FAMGLANL_00294	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+FAMGLANL_00295	gene	579	xseA			
+FAMGLANL_00295	CDS	579	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+FAMGLANL_00296	gene	411				
+FAMGLANL_00296	CDS	411				hypothetical protein
+FAMGLANL_00297	gene	642				
+FAMGLANL_00297	CDS	642				hypothetical protein
+FAMGLANL_00298	gene	2589	clpB			
+FAMGLANL_00298	CDS	2589	clpB		COG0542	Chaperone protein ClpB
+FAMGLANL_00299	gene	1296	brnQ_1			
+FAMGLANL_00299	CDS	1296	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FAMGLANL_00300	gene	354				
+FAMGLANL_00300	CDS	354				hypothetical protein
+FAMGLANL_00301	gene	969	metN			
+FAMGLANL_00301	CDS	969	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+FAMGLANL_00302	gene	654	metP			
+FAMGLANL_00302	CDS	654	metP		COG2011	Methionine import system permease protein MetP
+FAMGLANL_00303	gene	825	metQ			
+FAMGLANL_00303	CDS	825	metQ		COG1464	Methionine-binding lipoprotein MetQ
+FAMGLANL_00304	gene	471				
+FAMGLANL_00304	CDS	471				hypothetical protein
+FAMGLANL_00305	gene	1059				
+FAMGLANL_00305	CDS	1059				hypothetical protein
+FAMGLANL_00306	gene	951				
+FAMGLANL_00306	CDS	951				hypothetical protein
+FAMGLANL_00307	gene	507				
+FAMGLANL_00307	CDS	507				hypothetical protein
+FAMGLANL_00308	gene	867				
+FAMGLANL_00308	CDS	867				hypothetical protein
+FAMGLANL_00309	gene	957				
+FAMGLANL_00309	CDS	957				hypothetical protein
+FAMGLANL_00310	gene	1824	dnaG			
+FAMGLANL_00310	CDS	1824	dnaG	2.7.7.-	COG0358	DNA primase
+FAMGLANL_00311	gene	402				
+FAMGLANL_00311	CDS	402				hypothetical protein
+FAMGLANL_00312	gene	1461				
+FAMGLANL_00312	CDS	1461				hypothetical protein
+FAMGLANL_00313	gene	765	fpuC			
+FAMGLANL_00313	CDS	765	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+FAMGLANL_00314	gene	1065	isdF			
+FAMGLANL_00314	CDS	1065	isdF			putative heme-iron transport system permease protein IsdF
+FAMGLANL_00315	gene	918	isdE			
+FAMGLANL_00315	CDS	918	isdE			High-affinity heme uptake system protein IsdE
+FAMGLANL_00316	gene	1125				
+FAMGLANL_00316	CDS	1125				hypothetical protein
+FAMGLANL_00317	gene	2019				
+FAMGLANL_00317	CDS	2019				hypothetical protein
+FAMGLANL_00318	gene	375				
+FAMGLANL_00318	CDS	375				hypothetical protein
+FAMGLANL_00319	gene	930				
+FAMGLANL_00319	CDS	930				hypothetical protein
+FAMGLANL_00320	gene	1425	purB			
+FAMGLANL_00320	CDS	1425	purB	4.3.2.2		Adenylosuccinate lyase
+FAMGLANL_00321	gene	1278	purA			
+FAMGLANL_00321	CDS	1278	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FAMGLANL_00322	gene	1452	trkG			
+FAMGLANL_00322	CDS	1452	trkG		COG0168	Trk system potassium uptake protein TrkG
+FAMGLANL_00323	gene	1365	trkA			
+FAMGLANL_00323	CDS	1365	trkA		COG0569	Trk system potassium uptake protein TrkA
+FAMGLANL_00324	gene	765				
+FAMGLANL_00324	CDS	765				hypothetical protein
+FAMGLANL_00325	gene	969	trxB			
+FAMGLANL_00325	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FAMGLANL_00326	gene	228	zwf			
+FAMGLANL_00326	CDS	228	zwf	1.1.1.363		Glucose-6-phosphate 1-dehydrogenase
+FAMGLANL_00327	gene	771				
+FAMGLANL_00327	CDS	771				hypothetical protein
+FAMGLANL_00328	gene	702	yidC2			
+FAMGLANL_00328	CDS	702	yidC2		COG0706	Membrane protein insertase YidC 2
+FAMGLANL_00329	gene	378	rnpA			
+FAMGLANL_00329	CDS	378	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+FAMGLANL_00330	gene	135	rpmH			
+FAMGLANL_00330	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+FAMGLANL_00331	gene	1365	dnaA_1			
+FAMGLANL_00331	CDS	1365	dnaA_1		COG0593	Chromosomal replication initiator protein DnaA
+FAMGLANL_00332	gene	1104	dnaN			
+FAMGLANL_00332	CDS	1104	dnaN		COG0592	Beta sliding clamp
+FAMGLANL_00333	gene	210				
+FAMGLANL_00333	CDS	210				hypothetical protein
+FAMGLANL_00334	gene	1116	recF			
+FAMGLANL_00334	CDS	1116	recF		COG1195	DNA replication and repair protein RecF
+FAMGLANL_00335	gene	1908	gyrB			
+FAMGLANL_00335	CDS	1908	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+FAMGLANL_00336	gene	2439	gyrA			
+FAMGLANL_00336	CDS	2439	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+FAMGLANL_00337	gene	318	rsbV			
+FAMGLANL_00337	CDS	318	rsbV		COG1366	Anti-sigma-B factor antagonist
+FAMGLANL_00338	gene	408	rsbW			
+FAMGLANL_00338	CDS	408	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+FAMGLANL_00339	gene	774	sigB			
+FAMGLANL_00339	CDS	774	sigB		COG1191	RNA polymerase sigma-B factor
+FAMGLANL_00340	gene	183				
+FAMGLANL_00340	CDS	183				hypothetical protein
+FAMGLANL_00341	gene	771	rhmA			
+FAMGLANL_00341	CDS	771	rhmA	4.1.2.53	COG3836	2-keto-3-deoxy-L-rhamnonate aldolase
+FAMGLANL_00342	gene	822	mscS			
+FAMGLANL_00342	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+FAMGLANL_00343	gene	1188				
+FAMGLANL_00343	CDS	1188				hypothetical protein
+FAMGLANL_00344	gene	819				
+FAMGLANL_00344	CDS	819				hypothetical protein
+FAMGLANL_00345	gene	1794				
+FAMGLANL_00345	CDS	1794				hypothetical protein
+FAMGLANL_00346	gene	1764				
+FAMGLANL_00346	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FAMGLANL_00347	gene	1698				
+FAMGLANL_00347	CDS	1698			COG1132	putative ABC transporter ATP-binding/permease protein
+FAMGLANL_00348	gene	927				
+FAMGLANL_00348	CDS	927				hypothetical protein
+FAMGLANL_00349	gene	1056				
+FAMGLANL_00349	CDS	1056				hypothetical protein
+FAMGLANL_00350	gene	3747	rpoB			
+FAMGLANL_00350	CDS	3747	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+FAMGLANL_00351	gene	96				
+FAMGLANL_00351	CDS	96				hypothetical protein
+FAMGLANL_00352	gene	3555	rpoC			
+FAMGLANL_00352	CDS	3555	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+FAMGLANL_00353	gene	1437	rcsC			
+FAMGLANL_00353	CDS	1437	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+FAMGLANL_00354	gene	696	walR			
+FAMGLANL_00354	CDS	696	walR		COG0745	Transcriptional regulatory protein WalR
+FAMGLANL_00355	gene	1365				
+FAMGLANL_00355	CDS	1365				hypothetical protein
+FAMGLANL_00356	gene	1149	rlmL_2			
+FAMGLANL_00356	CDS	1149	rlmL_2		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+FAMGLANL_00357	gene	1137				
+FAMGLANL_00357	CDS	1137				TelA-like protein
+FAMGLANL_00358	gene	1155				
+FAMGLANL_00358	CDS	1155				hypothetical protein
+FAMGLANL_00359	gene	645	artM_1			
+FAMGLANL_00359	CDS	645	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+FAMGLANL_00360	gene	618	artQ_1			
+FAMGLANL_00360	CDS	618	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+FAMGLANL_00361	gene	801	artJ			
+FAMGLANL_00361	CDS	801	artJ		COG0834	ABC transporter arginine-binding protein 1
+FAMGLANL_00362	gene	1308				
+FAMGLANL_00362	CDS	1308				hypothetical protein
+FAMGLANL_00363	gene	4305				
+FAMGLANL_00363	CDS	4305				hypothetical protein
+FAMGLANL_00364	gene	618	gapA			
+FAMGLANL_00364	CDS	618	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+FAMGLANL_00365	gene	369				
+FAMGLANL_00365	CDS	369				hypothetical protein
+FAMGLANL_00366	gene	1683				
+FAMGLANL_00366	CDS	1683				hypothetical protein
+FAMGLANL_00367	gene	2253	rep			
+FAMGLANL_00367	CDS	2253	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+FAMGLANL_00368	gene	684				
+FAMGLANL_00368	CDS	684				hypothetical protein
+FAMGLANL_00369	gene	3417	addB			
+FAMGLANL_00369	CDS	3417	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+FAMGLANL_00370	gene	3933	addA			
+FAMGLANL_00370	CDS	3933	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+FAMGLANL_00371	gene	1224	cpdA_1			
+FAMGLANL_00371	CDS	1224	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FAMGLANL_00372	gene	444	rluD_1			
+FAMGLANL_00372	CDS	444	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FAMGLANL_00373	gene	444				
+FAMGLANL_00373	CDS	444				hypothetical protein
+FAMGLANL_00374	gene	888	nadK			
+FAMGLANL_00374	CDS	888	nadK	2.7.1.23		NAD kinase
+FAMGLANL_00375	gene	1035	icd			
+FAMGLANL_00375	CDS	1035	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+FAMGLANL_00376	gene	1974	leuC			
+FAMGLANL_00376	CDS	1974	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+FAMGLANL_00377	gene	1077	cshE			
+FAMGLANL_00377	CDS	1077	cshE	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshE
+FAMGLANL_00378	gene	330				
+FAMGLANL_00378	CDS	330				hypothetical protein
+FAMGLANL_00379	gene	2688				
+FAMGLANL_00379	CDS	2688		7.2.2.10	COG0474	Calcium-transporting ATPase
+FAMGLANL_00380	gene	1065				
+FAMGLANL_00380	CDS	1065				hypothetical protein
+FAMGLANL_00381	gene	597				
+FAMGLANL_00381	CDS	597				hypothetical protein
+FAMGLANL_00382	gene	603				
+FAMGLANL_00382	CDS	603				hypothetical protein
+FAMGLANL_00383	gene	1077	lytC_2			
+FAMGLANL_00383	CDS	1077	lytC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_00384	gene	243				
+FAMGLANL_00384	CDS	243				hypothetical protein
+FAMGLANL_00385	gene	162				
+FAMGLANL_00385	CDS	162		1.6.99.3		putative NADH oxidase
+FAMGLANL_00386	gene	522	niaR			
+FAMGLANL_00386	CDS	522	niaR		COG1827	putative transcription repressor NiaR
+FAMGLANL_00387	gene	1821				
+FAMGLANL_00387	CDS	1821				hypothetical protein
+FAMGLANL_00388	gene	912				
+FAMGLANL_00388	CDS	912				hypothetical protein
+FAMGLANL_00389	gene	1473				
+FAMGLANL_00389	CDS	1473				hypothetical protein
+FAMGLANL_00390	gene	228				
+FAMGLANL_00390	CDS	228				hypothetical protein
+FAMGLANL_00391	gene	225				
+FAMGLANL_00391	CDS	225				hypothetical protein
+FAMGLANL_00392	gene	1239				
+FAMGLANL_00392	CDS	1239				hypothetical protein
+FAMGLANL_00393	gene	1677	fhs			
+FAMGLANL_00393	CDS	1677	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+FAMGLANL_00394	gene	1143				
+FAMGLANL_00394	CDS	1143				hypothetical protein
+FAMGLANL_00395	gene	762				
+FAMGLANL_00395	CDS	762				hypothetical protein
+FAMGLANL_00396	gene	369				
+FAMGLANL_00396	CDS	369				hypothetical protein
+FAMGLANL_00397	gene	2241				
+FAMGLANL_00397	CDS	2241				hypothetical protein
+FAMGLANL_00398	gene	657	rpe			
+FAMGLANL_00398	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+FAMGLANL_00399	gene	684	thiN			
+FAMGLANL_00399	CDS	684	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+FAMGLANL_00400	gene	714	phoP_2			
+FAMGLANL_00400	CDS	714	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FAMGLANL_00401	gene	2358	sasA_1			
+FAMGLANL_00401	CDS	2358	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+FAMGLANL_00402	gene	1374	mepA_1			
+FAMGLANL_00402	CDS	1374	mepA_1			Multidrug export protein MepA
+FAMGLANL_00403	gene	474	slyA			
+FAMGLANL_00403	CDS	474	slyA			Transcriptional regulator SlyA
+FAMGLANL_00404	gene	786				
+FAMGLANL_00404	CDS	786				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FAMGLANL_00405	gene	1026	cggR			
+FAMGLANL_00405	CDS	1026	cggR		COG2390	Central glycolytic genes regulator
+FAMGLANL_00406	gene	1008	gap			
+FAMGLANL_00406	CDS	1008	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+FAMGLANL_00407	gene	1200	pgk			
+FAMGLANL_00407	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+FAMGLANL_00408	gene	741	tpiA			
+FAMGLANL_00408	CDS	741	tpiA	5.3.1.1		Triosephosphate isomerase
+FAMGLANL_00409	gene	1527	gpmI			
+FAMGLANL_00409	CDS	1527	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FAMGLANL_00410	gene	1293	eno			
+FAMGLANL_00410	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+FAMGLANL_00411	gene	219	infA			
+FAMGLANL_00411	CDS	219	infA		COG0361	Translation initiation factor IF-1
+FAMGLANL_00412	gene	270				
+FAMGLANL_00412	CDS	270				hypothetical protein
+FAMGLANL_00413	gene	642	adk			
+FAMGLANL_00413	CDS	642	adk	2.7.4.3		Adenylate kinase
+FAMGLANL_00414	gene	1269	secY			
+FAMGLANL_00414	CDS	1269	secY		COG0201	Protein translocase subunit SecY
+FAMGLANL_00415	gene	444	rplO			
+FAMGLANL_00415	CDS	444	rplO			50S ribosomal protein L15
+FAMGLANL_00416	gene	186	rpmD			
+FAMGLANL_00416	CDS	186	rpmD			50S ribosomal protein L30
+FAMGLANL_00417	gene	510	rpsE			
+FAMGLANL_00417	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+FAMGLANL_00418	gene	369	rplR			
+FAMGLANL_00418	CDS	369	rplR		COG0256	50S ribosomal protein L18
+FAMGLANL_00419	gene	543	rplF			
+FAMGLANL_00419	CDS	543	rplF			50S ribosomal protein L6
+FAMGLANL_00420	gene	399	rpsH			
+FAMGLANL_00420	CDS	399	rpsH			30S ribosomal protein S8
+FAMGLANL_00421	gene	186	rpsZ			
+FAMGLANL_00421	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+FAMGLANL_00422	gene	543	rplE			
+FAMGLANL_00422	CDS	543	rplE			50S ribosomal protein L5
+FAMGLANL_00423	gene	309	rplX			
+FAMGLANL_00423	CDS	309	rplX		COG0198	50S ribosomal protein L24
+FAMGLANL_00424	gene	369	rplN			
+FAMGLANL_00424	CDS	369	rplN		COG0093	50S ribosomal protein L14
+FAMGLANL_00425	gene	255	rpsQ			
+FAMGLANL_00425	CDS	255	rpsQ			30S ribosomal protein S17
+FAMGLANL_00426	gene	204	rpmC			
+FAMGLANL_00426	CDS	204	rpmC			50S ribosomal protein L29
+FAMGLANL_00427	gene	429	rplP			
+FAMGLANL_00427	CDS	429	rplP		COG0197	50S ribosomal protein L16
+FAMGLANL_00428	gene	795	rpsC			
+FAMGLANL_00428	CDS	795	rpsC		COG0092	30S ribosomal protein S3
+FAMGLANL_00429	gene	339	rplV			
+FAMGLANL_00429	CDS	339	rplV		COG0091	50S ribosomal protein L22
+FAMGLANL_00430	gene	282	rpsS			
+FAMGLANL_00430	CDS	282	rpsS			30S ribosomal protein S19
+FAMGLANL_00431	gene	831	rplB			
+FAMGLANL_00431	CDS	831	rplB			50S ribosomal protein L2
+FAMGLANL_00432	gene	291	rplW			
+FAMGLANL_00432	CDS	291	rplW			50S ribosomal protein L23
+FAMGLANL_00433	gene	624	rplD			
+FAMGLANL_00433	CDS	624	rplD			50S ribosomal protein L4
+FAMGLANL_00434	gene	630	rplC			
+FAMGLANL_00434	CDS	630	rplC		COG0087	50S ribosomal protein L3
+FAMGLANL_00435	gene	312	rpsJ			
+FAMGLANL_00435	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+FAMGLANL_00436	gene	795				
+FAMGLANL_00436	CDS	795		1.-.-.-		putative oxidoreductase
+FAMGLANL_00437	gene	1752				
+FAMGLANL_00437	CDS	1752				hypothetical protein
+FAMGLANL_00438	gene	1158				
+FAMGLANL_00438	CDS	1158				hypothetical protein
+FAMGLANL_00439	gene	1224	tyrS			
+FAMGLANL_00439	CDS	1224	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+FAMGLANL_00440	gene	357	rplS			
+FAMGLANL_00440	CDS	357	rplS		COG0335	50S ribosomal protein L19
+FAMGLANL_00441	gene	885	rbgA			
+FAMGLANL_00441	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+FAMGLANL_00442	gene	1164	alr1_1			
+FAMGLANL_00442	CDS	1164	alr1_1	5.1.1.1	COG0787	Alanine racemase 1
+FAMGLANL_00443	gene	792	rnhB			
+FAMGLANL_00443	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+FAMGLANL_00444	gene	1017	hmo_2			
+FAMGLANL_00444	CDS	1017	hmo_2	1.1.3.46		4-hydroxymandelate oxidase
+FAMGLANL_00445	gene	843				
+FAMGLANL_00445	CDS	843			COG2826	IS30 family transposase ISSlu1
+FAMGLANL_00446	gene	363				
+FAMGLANL_00446	CDS	363				hypothetical protein
+FAMGLANL_00447	gene	1632	comM			
+FAMGLANL_00447	CDS	1632	comM		COG0606	Competence protein ComM
+FAMGLANL_00448	gene	1257				
+FAMGLANL_00448	CDS	1257				hypothetical protein
+FAMGLANL_00449	gene	2082	topA			
+FAMGLANL_00449	CDS	2082	topA	5.6.2.1		DNA topoisomerase 1
+FAMGLANL_00450	gene	1374	valS			
+FAMGLANL_00450	CDS	1374	valS	6.1.1.9		Valine--tRNA ligase
+FAMGLANL_00451	gene	507				
+FAMGLANL_00451	CDS	507				hypothetical protein
+FAMGLANL_00452	gene	690				
+FAMGLANL_00452	CDS	690				hypothetical protein
+FAMGLANL_00453	gene	873				
+FAMGLANL_00453	CDS	873				hypothetical protein
+FAMGLANL_00454	gene	264				
+FAMGLANL_00454	CDS	264				hypothetical protein
+FAMGLANL_00455	gene	678	purC			
+FAMGLANL_00455	CDS	678	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+FAMGLANL_00456	gene	1431	pepD_1			
+FAMGLANL_00456	CDS	1431	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+FAMGLANL_00457	gene	1362	murE_1			
+FAMGLANL_00457	CDS	1362	murE_1	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+FAMGLANL_00458	gene	741	mta			
+FAMGLANL_00458	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+FAMGLANL_00459	gene	1638	hcp			
+FAMGLANL_00459	CDS	1638	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+FAMGLANL_00460	gene	627				
+FAMGLANL_00460	CDS	627				hypothetical protein
+FAMGLANL_00461	gene	1260	dacF			
+FAMGLANL_00461	CDS	1260	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+FAMGLANL_00462	gene	507	tpx			
+FAMGLANL_00462	CDS	507	tpx	1.11.1.15	COG2077	Thiol peroxidase
+FAMGLANL_00463	gene	462	mutX			
+FAMGLANL_00463	CDS	462	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+FAMGLANL_00464	gene	279	yjdJ			
+FAMGLANL_00464	CDS	279	yjdJ		COG2388	putative protein YjdJ
+FAMGLANL_00465	gene	825	ydjP			
+FAMGLANL_00465	CDS	825	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+FAMGLANL_00466	gene	1764	rqcH			
+FAMGLANL_00466	CDS	1764	rqcH		COG1293	Rqc2 RqcH
+FAMGLANL_00467	gene	525	pyrR			
+FAMGLANL_00467	CDS	525	pyrR			Bifunctional protein PyrR
+FAMGLANL_00468	gene	933	rluD_2			
+FAMGLANL_00468	CDS	933	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+FAMGLANL_00469	gene	480	lspA			
+FAMGLANL_00469	CDS	480	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+FAMGLANL_00470	gene	768				
+FAMGLANL_00470	CDS	768				hypothetical protein
+FAMGLANL_00471	gene	1008	trpS			
+FAMGLANL_00471	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+FAMGLANL_00472	gene	708	mtnN			
+FAMGLANL_00472	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+FAMGLANL_00473	gene	1053				
+FAMGLANL_00473	CDS	1053				hypothetical protein
+FAMGLANL_00474	gene	786				
+FAMGLANL_00474	CDS	786				hypothetical protein
+FAMGLANL_00475	gene	1968				
+FAMGLANL_00475	CDS	1968				hypothetical protein
+FAMGLANL_00476	gene	951				
+FAMGLANL_00476	CDS	951				hypothetical protein
+FAMGLANL_00477	gene	345				
+FAMGLANL_00477	CDS	345			COG0718	Nucleoid-associated protein
+FAMGLANL_00478	gene	1683	ruvB			
+FAMGLANL_00478	CDS	1683	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+FAMGLANL_00479	gene	576				
+FAMGLANL_00479	CDS	576				hypothetical protein
+FAMGLANL_00480	gene	642	bcrA			
+FAMGLANL_00480	CDS	642	bcrA			Bacitracin transport ATP-binding protein BcrA
+FAMGLANL_00481	gene	657				
+FAMGLANL_00481	CDS	657				hypothetical protein
+FAMGLANL_00482	gene	681				
+FAMGLANL_00482	CDS	681				hypothetical protein
+FAMGLANL_00483	gene	768				
+FAMGLANL_00483	CDS	768				hypothetical protein
+FAMGLANL_00484	gene	1701				
+FAMGLANL_00484	CDS	1701				hypothetical protein
+FAMGLANL_00485	gene	762				
+FAMGLANL_00485	CDS	762				hypothetical protein
+FAMGLANL_00486	gene	1395				
+FAMGLANL_00486	CDS	1395				hypothetical protein
+FAMGLANL_00487	gene	1740				
+FAMGLANL_00487	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FAMGLANL_00488	gene	675	yknY_1			
+FAMGLANL_00488	CDS	675	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FAMGLANL_00489	gene	1134	carC_2			
+FAMGLANL_00489	CDS	1134	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FAMGLANL_00490	gene	792	carD_2			
+FAMGLANL_00490	CDS	792	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+FAMGLANL_00491	gene	1008	carE_2			
+FAMGLANL_00491	CDS	1008	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+FAMGLANL_00492	gene	993	hpr			
+FAMGLANL_00492	CDS	993	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+FAMGLANL_00493	gene	1326	brnQ_2			
+FAMGLANL_00493	CDS	1326	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FAMGLANL_00494	gene	1185	aspC			
+FAMGLANL_00494	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+FAMGLANL_00495	gene	879				
+FAMGLANL_00495	CDS	879				hypothetical protein
+FAMGLANL_00496	gene	396	panD			
+FAMGLANL_00496	CDS	396	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+FAMGLANL_00497	gene	1116				
+FAMGLANL_00497	CDS	1116				hypothetical protein
+FAMGLANL_00498	gene	396				
+FAMGLANL_00498	CDS	396				hypothetical protein
+FAMGLANL_00499	gene	1974	uvrB			
+FAMGLANL_00499	CDS	1974	uvrB			UvrABC system protein B
+FAMGLANL_00500	gene	576				
+FAMGLANL_00500	CDS	576				hypothetical protein
+FAMGLANL_00501	gene	162	uvrA_1			
+FAMGLANL_00501	CDS	162	uvrA_1		COG0178	UvrABC system protein A
+FAMGLANL_00502	gene	1083	buk2			
+FAMGLANL_00502	CDS	1083	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+FAMGLANL_00503	gene	678				
+FAMGLANL_00503	CDS	678				hypothetical protein
+FAMGLANL_00504	gene	216	rsxB_1			
+FAMGLANL_00504	CDS	216	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+FAMGLANL_00505	gene	1065	padG			
+FAMGLANL_00505	CDS	1065	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+FAMGLANL_00506	gene	780	korB			
+FAMGLANL_00506	CDS	780	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+FAMGLANL_00507	gene	555				
+FAMGLANL_00507	CDS	555				hypothetical protein
+FAMGLANL_00508	gene	1368	glmM			
+FAMGLANL_00508	CDS	1368	glmM	5.4.2.10		Phosphoglucosamine mutase
+FAMGLANL_00509	gene	177				
+FAMGLANL_00509	CDS	177				hypothetical protein
+FAMGLANL_00510	gene	1254	murAA			
+FAMGLANL_00510	CDS	1254	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+FAMGLANL_00511	gene	1011	mreB_2			
+FAMGLANL_00511	CDS	1011	mreB_2		COG1077	Cell shape-determining protein MreB
+FAMGLANL_00512	gene	1185	metK			
+FAMGLANL_00512	CDS	1185	metK	2.5.1.6		S-adenosylmethionine synthase
+FAMGLANL_00513	gene	2220	recD2			
+FAMGLANL_00513	CDS	2220	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+FAMGLANL_00514	gene	771				
+FAMGLANL_00514	CDS	771				hypothetical protein
+FAMGLANL_00515	gene	1170				
+FAMGLANL_00515	CDS	1170				hypothetical protein
+FAMGLANL_00516	gene	540				
+FAMGLANL_00516	CDS	540				hypothetical protein
+FAMGLANL_00517	gene	609				
+FAMGLANL_00517	CDS	609				hypothetical protein
+FAMGLANL_00518	gene	186				
+FAMGLANL_00518	CDS	186				hypothetical protein
+FAMGLANL_00519	gene	1317	cpdA_2			
+FAMGLANL_00519	CDS	1317	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FAMGLANL_00520	gene	75				
+FAMGLANL_00520	tRNA	75				tRNA-Arg(acg)
+FAMGLANL_00521	gene	1380	mnmE_1			
+FAMGLANL_00521	CDS	1380	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+FAMGLANL_00522	gene	765	mnmG_1			
+FAMGLANL_00522	CDS	765	mnmG_1			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+FAMGLANL_00523	gene	1089	mnmG_2			
+FAMGLANL_00523	CDS	1089	mnmG_2			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+FAMGLANL_00524	gene	729	rsmG			
+FAMGLANL_00524	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+FAMGLANL_00525	gene	1326				
+FAMGLANL_00525	CDS	1326				hypothetical protein
+FAMGLANL_00526	gene	1944	yjcS			
+FAMGLANL_00526	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+FAMGLANL_00527	gene	1440	gnd			
+FAMGLANL_00527	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+FAMGLANL_00528	gene	1251	dinB			
+FAMGLANL_00528	CDS	1251	dinB	2.7.7.7	COG0389	DNA polymerase IV
+FAMGLANL_00529	gene	849	nadC			
+FAMGLANL_00529	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FAMGLANL_00530	gene	1311	nadB			
+FAMGLANL_00530	CDS	1311	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+FAMGLANL_00531	gene	909	nadA			
+FAMGLANL_00531	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+FAMGLANL_00532	gene	462	dut			
+FAMGLANL_00532	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+FAMGLANL_00533	gene	1203	roo			
+FAMGLANL_00533	CDS	1203	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+FAMGLANL_00534	gene	1062	lytC_3			
+FAMGLANL_00534	CDS	1062	lytC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_00535	gene	567	cmpC			
+FAMGLANL_00535	CDS	567	cmpC	3.6.3.-	COG0715	Bicarbonate transport ATP-binding protein CmpC
+FAMGLANL_00536	gene	672	cmpB			
+FAMGLANL_00536	CDS	672	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+FAMGLANL_00537	gene	993				
+FAMGLANL_00537	CDS	993				hypothetical protein
+FAMGLANL_00538	gene	240				
+FAMGLANL_00538	CDS	240				hypothetical protein
+FAMGLANL_00539	gene	705				
+FAMGLANL_00539	CDS	705				hypothetical protein
+FAMGLANL_00540	gene	609				
+FAMGLANL_00540	CDS	609				hypothetical protein
+FAMGLANL_00541	gene	1719				
+FAMGLANL_00541	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+FAMGLANL_00542	gene	1770	msbA_1			
+FAMGLANL_00542	CDS	1770	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FAMGLANL_00543	gene	957	rhaR_1			
+FAMGLANL_00543	CDS	957	rhaR_1			HTH-type transcriptional activator RhaR
+FAMGLANL_00544	gene	1818	uvrC			
+FAMGLANL_00544	CDS	1818	uvrC		COG0322	UvrABC system protein C
+FAMGLANL_00545	gene	933	hprK			
+FAMGLANL_00545	CDS	933	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+FAMGLANL_00546	gene	921	murB			
+FAMGLANL_00546	CDS	921	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+FAMGLANL_00547	gene	738	polX			
+FAMGLANL_00547	CDS	738	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+FAMGLANL_00548	gene	864	yvcJ			
+FAMGLANL_00548	CDS	864	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+FAMGLANL_00549	gene	1152				
+FAMGLANL_00549	CDS	1152			COG0391	Gluconeogenesis factor
+FAMGLANL_00550	gene	603				
+FAMGLANL_00550	CDS	603				hypothetical protein
+FAMGLANL_00551	gene	1086	lytC_4			
+FAMGLANL_00551	CDS	1086	lytC_4	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_00552	gene	750	cseB			
+FAMGLANL_00552	CDS	750	cseB		COG0745	Transcriptional regulatory protein CseB
+FAMGLANL_00553	gene	1341				
+FAMGLANL_00553	CDS	1341				hypothetical protein
+FAMGLANL_00554	gene	264				
+FAMGLANL_00554	CDS	264				hypothetical protein
+FAMGLANL_00555	gene	660	sigH			
+FAMGLANL_00555	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+FAMGLANL_00556	gene	564				
+FAMGLANL_00556	CDS	564				hypothetical protein
+FAMGLANL_00557	gene	735				
+FAMGLANL_00557	CDS	735		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+FAMGLANL_00558	gene	453	mrnC			
+FAMGLANL_00558	CDS	453	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+FAMGLANL_00559	gene	1404	cysS			
+FAMGLANL_00559	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+FAMGLANL_00560	gene	2511				
+FAMGLANL_00560	CDS	2511				hypothetical protein
+FAMGLANL_00561	gene	756				
+FAMGLANL_00561	CDS	756				hypothetical protein
+FAMGLANL_00562	gene	1311				
+FAMGLANL_00562	CDS	1311				hypothetical protein
+FAMGLANL_00563	gene	1266	clpX			
+FAMGLANL_00563	CDS	1266	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+FAMGLANL_00564	gene	585	clpP			
+FAMGLANL_00564	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+FAMGLANL_00565	gene	1284	tig			
+FAMGLANL_00565	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+FAMGLANL_00566	gene	474				
+FAMGLANL_00566	CDS	474		3.1.4.-		Putative metallophosphoesterase MG207 
+FAMGLANL_00567	gene	1461	rph			
+FAMGLANL_00567	CDS	1461	rph	2.7.7.56		Ribonuclease PH
+FAMGLANL_00568	gene	2109	ligA			
+FAMGLANL_00568	CDS	2109	ligA	6.5.1.2		DNA ligase
+FAMGLANL_00569	gene	465	bcp			
+FAMGLANL_00569	CDS	465	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FAMGLANL_00570	gene	636	opuCD			
+FAMGLANL_00570	CDS	636	opuCD		COG1174	Carnitine transport permease protein OpuCD
+FAMGLANL_00571	gene	1662				
+FAMGLANL_00571	CDS	1662				hypothetical protein
+FAMGLANL_00572	gene	1170	opuCA			
+FAMGLANL_00572	CDS	1170	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+FAMGLANL_00573	gene	375	frc			
+FAMGLANL_00573	CDS	375	frc	2.8.3.16		Formyl-CoA:oxalate CoA-transferase
+FAMGLANL_00574	gene	390				
+FAMGLANL_00574	CDS	390				hypothetical protein
+FAMGLANL_00575	gene	1056	epsF			
+FAMGLANL_00575	CDS	1056	epsF		COG1459	Type II secretion system protein F
+FAMGLANL_00576	gene	1236				
+FAMGLANL_00576	CDS	1236				hypothetical protein
+FAMGLANL_00577	gene	1866	nhaP2			
+FAMGLANL_00577	CDS	1866	nhaP2			K(+)/H(+) antiporter NhaP2
+FAMGLANL_00578	gene	561	nfrA1			
+FAMGLANL_00578	CDS	561	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+FAMGLANL_00579	gene	252				
+FAMGLANL_00579	CDS	252				hypothetical protein
+FAMGLANL_00580	gene	555				
+FAMGLANL_00580	CDS	555		3.1.3.-	COG5663	Nucleotidase
+FAMGLANL_00581	gene	708				
+FAMGLANL_00581	CDS	708				hypothetical protein
+FAMGLANL_00582	gene	786				
+FAMGLANL_00582	CDS	786				hypothetical protein
+FAMGLANL_00583	gene	930	gloB_2			
+FAMGLANL_00583	CDS	930	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+FAMGLANL_00584	gene	246				
+FAMGLANL_00584	CDS	246				hypothetical protein
+FAMGLANL_00585	gene	660				
+FAMGLANL_00585	CDS	660				hypothetical protein
+FAMGLANL_00586	gene	1221				
+FAMGLANL_00586	CDS	1221				hypothetical protein
+FAMGLANL_00587	gene	2109	nrdE			
+FAMGLANL_00587	CDS	2109	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+FAMGLANL_00588	gene	987	nrdF			
+FAMGLANL_00588	CDS	987	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+FAMGLANL_00589	gene	1164	ugtP_1			
+FAMGLANL_00589	CDS	1164	ugtP_1	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+FAMGLANL_00590	gene	690				
+FAMGLANL_00590	CDS	690		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+FAMGLANL_00591	gene	1044				
+FAMGLANL_00591	CDS	1044				hypothetical protein
+FAMGLANL_00592	gene	1347	rpoN			
+FAMGLANL_00592	CDS	1347	rpoN		COG1508	RNA polymerase sigma-54 factor
+FAMGLANL_00593	gene	1293				
+FAMGLANL_00593	CDS	1293				hypothetical protein
+FAMGLANL_00594	gene	1233				
+FAMGLANL_00594	CDS	1233				hypothetical protein
+FAMGLANL_00595	gene	1728	ade			
+FAMGLANL_00595	CDS	1728	ade	3.5.4.2	COG1001	Adenine deaminase
+FAMGLANL_00596	gene	2313	priA			
+FAMGLANL_00596	CDS	2313	priA	3.6.4.-	COG1198	Primosomal protein N'
+FAMGLANL_00597	gene	1212	undec1A			
+FAMGLANL_00597	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+FAMGLANL_00598	gene	267	rpoZ			
+FAMGLANL_00598	CDS	267	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+FAMGLANL_00599	gene	642	gmk			
+FAMGLANL_00599	CDS	642	gmk	2.7.4.8	COG0194	Guanylate kinase
+FAMGLANL_00600	gene	882				
+FAMGLANL_00600	CDS	882				hypothetical protein
+FAMGLANL_00601	gene	249				
+FAMGLANL_00601	CDS	249				hypothetical protein
+FAMGLANL_00602	gene	729	yehX			
+FAMGLANL_00602	CDS	729	yehX	3.6.3.-	COG1125	Glycine betaine uptake system ATP-binding protein YehX
+FAMGLANL_00603	gene	1542				
+FAMGLANL_00603	CDS	1542				hypothetical protein
+FAMGLANL_00604	gene	438				
+FAMGLANL_00604	CDS	438				hypothetical protein
+FAMGLANL_00605	gene	1347	pgi			
+FAMGLANL_00605	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+FAMGLANL_00606	gene	1614				
+FAMGLANL_00606	CDS	1614				hypothetical protein
+FAMGLANL_00607	gene	207				
+FAMGLANL_00607	CDS	207				hypothetical protein
+FAMGLANL_00608	gene	1053	ltaE			
+FAMGLANL_00608	CDS	1053	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+FAMGLANL_00609	gene	1140	xerD			
+FAMGLANL_00609	CDS	1140	xerD		COG4974	Tyrosine recombinase XerD
+FAMGLANL_00610	gene	636	lexA			
+FAMGLANL_00610	CDS	636	lexA	3.4.21.88	COG1974	LexA repressor
+FAMGLANL_00611	gene	489				
+FAMGLANL_00611	CDS	489				hypothetical protein
+FAMGLANL_00612	gene	1896	ftsH4			
+FAMGLANL_00612	CDS	1896	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+FAMGLANL_00613	gene	888	ispH			
+FAMGLANL_00613	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+FAMGLANL_00614	gene	615	plsC			
+FAMGLANL_00614	CDS	615	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+FAMGLANL_00615	gene	660	cmk			
+FAMGLANL_00615	CDS	660	cmk	2.7.4.25	COG0283	Cytidylate kinase
+FAMGLANL_00616	gene	1257				
+FAMGLANL_00616	CDS	1257			COG2081	putative protein
+FAMGLANL_00617	gene	651	pspA_2			
+FAMGLANL_00617	CDS	651	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+FAMGLANL_00618	gene	222				
+FAMGLANL_00618	CDS	222				hypothetical protein
+FAMGLANL_00619	gene	135				
+FAMGLANL_00619	CDS	135				hypothetical protein
+FAMGLANL_00620	gene	1053				
+FAMGLANL_00620	CDS	1053		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+FAMGLANL_00621	gene	246				
+FAMGLANL_00621	CDS	246				hypothetical protein
+FAMGLANL_00622	gene	1875	fruA			
+FAMGLANL_00622	CDS	1875	fruA		COG1299	PTS system fructose-specific EIIABC component
+FAMGLANL_00623	gene	915	lacC			
+FAMGLANL_00623	CDS	915	lacC	2.7.1.144		Tagatose-6-phosphate kinase
+FAMGLANL_00624	gene	753	lacR			
+FAMGLANL_00624	CDS	753	lacR			Lactose phosphotransferase system repressor
+FAMGLANL_00625	gene	846				
+FAMGLANL_00625	CDS	846				hypothetical protein
+FAMGLANL_00626	gene	1929				
+FAMGLANL_00626	CDS	1929				hypothetical protein
+FAMGLANL_00627	gene	903				
+FAMGLANL_00627	CDS	903		3.1.1.23	COG2267	Monoacylglycerol lipase
+FAMGLANL_00628	gene	426				
+FAMGLANL_00628	CDS	426			COG0716	Flavodoxin
+FAMGLANL_00629	gene	585				
+FAMGLANL_00629	CDS	585				hypothetical protein
+FAMGLANL_00630	gene	246				
+FAMGLANL_00630	CDS	246				hypothetical protein
+FAMGLANL_00631	gene	228	rpsR			
+FAMGLANL_00631	CDS	228	rpsR			30S ribosomal protein S18
+FAMGLANL_00632	gene	444	ssb			
+FAMGLANL_00632	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+FAMGLANL_00633	gene	291	rpsF			
+FAMGLANL_00633	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+FAMGLANL_00634	gene	375	lysN_1			
+FAMGLANL_00634	CDS	375	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+FAMGLANL_00635	gene	681	lysN_2			
+FAMGLANL_00635	CDS	681	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+FAMGLANL_00636	gene	180				
+FAMGLANL_00636	CDS	180				hypothetical protein
+FAMGLANL_00637	gene	600				
+FAMGLANL_00637	CDS	600				hypothetical protein
+FAMGLANL_00638	gene	900				
+FAMGLANL_00638	CDS	900				hypothetical protein
+FAMGLANL_00639	gene	1077	lytC_5			
+FAMGLANL_00639	CDS	1077	lytC_5	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_00640	gene	522	bcrC			
+FAMGLANL_00640	CDS	522	bcrC	3.6.1.27	COG0671	Undecaprenyl-diphosphatase BcrC
+FAMGLANL_00641	gene	543	yajL			
+FAMGLANL_00641	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+FAMGLANL_00642	gene	921				
+FAMGLANL_00642	CDS	921				hypothetical protein
+FAMGLANL_00643	gene	600	COQ5_1			
+FAMGLANL_00643	CDS	600	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FAMGLANL_00644	gene	1278				
+FAMGLANL_00644	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+FAMGLANL_00645	gene	615	brnQ_3			
+FAMGLANL_00645	CDS	615	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FAMGLANL_00646	gene	1494	rsmF			
+FAMGLANL_00646	CDS	1494	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+FAMGLANL_00647	gene	591				
+FAMGLANL_00647	CDS	591				hypothetical protein
+FAMGLANL_00648	gene	1314	pdp			
+FAMGLANL_00648	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+FAMGLANL_00649	gene	3783	purL			
+FAMGLANL_00649	CDS	3783	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+FAMGLANL_00650	gene	1269	purD			
+FAMGLANL_00650	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FAMGLANL_00651	gene	1533	purH			
+FAMGLANL_00651	CDS	1533	purH			Bifunctional purine biosynthesis protein PurH
+FAMGLANL_00652	gene	594	purN			
+FAMGLANL_00652	CDS	594	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+FAMGLANL_00653	gene	1839	typA			
+FAMGLANL_00653	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+FAMGLANL_00654	gene	201				
+FAMGLANL_00654	CDS	201				hypothetical protein
+FAMGLANL_00655	gene	2268	copA			
+FAMGLANL_00655	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+FAMGLANL_00656	gene	297				
+FAMGLANL_00656	CDS	297				hypothetical protein
+FAMGLANL_00657	gene	684	czcR			
+FAMGLANL_00657	CDS	684	czcR			Transcriptional activator protein CzcR
+FAMGLANL_00658	gene	1374	adeP			
+FAMGLANL_00658	CDS	1374	adeP		COG2252	Adenine permease AdeP
+FAMGLANL_00659	gene	1620	ybiT_1			
+FAMGLANL_00659	CDS	1620	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+FAMGLANL_00660	gene	567	pinR			
+FAMGLANL_00660	CDS	567	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+FAMGLANL_00661	gene	993	malR			
+FAMGLANL_00661	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+FAMGLANL_00662	gene	1287				
+FAMGLANL_00662	CDS	1287				hypothetical protein
+FAMGLANL_00663	gene	873	melD			
+FAMGLANL_00663	CDS	873	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+FAMGLANL_00664	gene	822	melC			
+FAMGLANL_00664	CDS	822	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+FAMGLANL_00665	gene	2289	malP			
+FAMGLANL_00665	CDS	2289	malP	2.4.1.8		Maltose phosphorylase
+FAMGLANL_00666	gene	1662	malL			
+FAMGLANL_00666	CDS	1662	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase 1
+FAMGLANL_00667	gene	642	ycjU			
+FAMGLANL_00667	CDS	642	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+FAMGLANL_00668	gene	1128	msmX			
+FAMGLANL_00668	CDS	1128	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+FAMGLANL_00669	gene	1194	tuf			
+FAMGLANL_00669	CDS	1194	tuf		COG0050	Elongation factor Tu
+FAMGLANL_00670	gene	2067	fusA_1			
+FAMGLANL_00670	CDS	2067	fusA_1		COG0480	Elongation factor G
+FAMGLANL_00671	gene	471	rpsG			
+FAMGLANL_00671	CDS	471	rpsG			30S ribosomal protein S7
+FAMGLANL_00672	gene	423	rpsL			
+FAMGLANL_00672	CDS	423	rpsL		COG0048	30S ribosomal protein S12
+FAMGLANL_00673	gene	1281	ugd			
+FAMGLANL_00673	CDS	1281	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+FAMGLANL_00674	gene	474	ispF			
+FAMGLANL_00674	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+FAMGLANL_00675	gene	693	ispD			
+FAMGLANL_00675	CDS	693	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+FAMGLANL_00676	gene	765	rhaR_2			
+FAMGLANL_00676	CDS	765	rhaR_2			HTH-type transcriptional activator RhaR
+FAMGLANL_00677	gene	552				
+FAMGLANL_00677	CDS	552				hypothetical protein
+FAMGLANL_00678	gene	582				
+FAMGLANL_00678	CDS	582				hypothetical protein
+FAMGLANL_00679	gene	294				
+FAMGLANL_00679	CDS	294		3.4.11.-		Aminopeptidase 2
+FAMGLANL_00680	gene	750				
+FAMGLANL_00680	CDS	750				hypothetical protein
+FAMGLANL_00681	gene	1446	proS			
+FAMGLANL_00681	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FAMGLANL_00682	gene	1092				
+FAMGLANL_00682	CDS	1092				hypothetical protein
+FAMGLANL_00683	gene	1077	disA			
+FAMGLANL_00683	CDS	1077	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+FAMGLANL_00684	gene	1380	radA			
+FAMGLANL_00684	CDS	1380	radA	3.6.4.-	COG1066	DNA repair protein RadA
+FAMGLANL_00685	gene	219				
+FAMGLANL_00685	CDS	219				hypothetical protein
+FAMGLANL_00686	gene	1245				
+FAMGLANL_00686	CDS	1245				hypothetical protein
+FAMGLANL_00687	gene	675	ecfT_2			
+FAMGLANL_00687	CDS	675	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+FAMGLANL_00688	gene	774				
+FAMGLANL_00688	CDS	774				hypothetical protein
+FAMGLANL_00689	gene	582	pyrE			
+FAMGLANL_00689	CDS	582	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+FAMGLANL_00690	gene	903	pyrD			
+FAMGLANL_00690	CDS	903	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+FAMGLANL_00691	gene	690	pyrK			
+FAMGLANL_00691	CDS	690	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+FAMGLANL_00692	gene	912	pyrB			
+FAMGLANL_00692	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+FAMGLANL_00693	gene	1218	dctA			
+FAMGLANL_00693	CDS	1218	dctA		COG1301	C4-dicarboxylate transport protein
+FAMGLANL_00694	gene	732				
+FAMGLANL_00694	CDS	732				hypothetical protein
+FAMGLANL_00695	gene	834				
+FAMGLANL_00695	CDS	834				hypothetical protein
+FAMGLANL_00696	gene	897				
+FAMGLANL_00696	CDS	897				hypothetical protein
+FAMGLANL_00697	gene	2073				
+FAMGLANL_00697	CDS	2073				hypothetical protein
+FAMGLANL_00698	gene	2091	pnp			
+FAMGLANL_00698	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+FAMGLANL_00699	gene	846				
+FAMGLANL_00699	CDS	846			COG1307	Fatty acid-binding protein
+FAMGLANL_00700	gene	255	rpsO			
+FAMGLANL_00700	CDS	255	rpsO		COG0184	30S ribosomal protein S15
+FAMGLANL_00701	gene	972	ribF			
+FAMGLANL_00701	CDS	972	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+FAMGLANL_00702	gene	903	truB			
+FAMGLANL_00702	CDS	903	truB	5.4.99.25		tRNA pseudouridine synthase B
+FAMGLANL_00703	gene	1017	nrnA			
+FAMGLANL_00703	CDS	1017	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+FAMGLANL_00704	gene	705	srtD			
+FAMGLANL_00704	CDS	705	srtD	3.4.22.-	COG3764	Sortase D
+FAMGLANL_00705	gene	933	cna			
+FAMGLANL_00705	CDS	933	cna			Collagen adhesin
+FAMGLANL_00706	gene	107				
+FAMGLANL_00706	rRNA	107				5S ribosomal RNA
+FAMGLANL_00707	gene	5994				
+FAMGLANL_00707	CDS	5994				hypothetical protein
+FAMGLANL_00708	gene	852				
+FAMGLANL_00708	CDS	852				hypothetical protein
+FAMGLANL_00709	gene	408				
+FAMGLANL_00709	CDS	408				hypothetical protein
+FAMGLANL_00710	gene	231				
+FAMGLANL_00710	CDS	231				hypothetical protein
+FAMGLANL_00711	gene	396				
+FAMGLANL_00711	CDS	396				hypothetical protein
+FAMGLANL_00712	gene	453				
+FAMGLANL_00712	CDS	453				hypothetical protein
+FAMGLANL_00713	gene	510				
+FAMGLANL_00713	CDS	510				hypothetical protein
+FAMGLANL_00714	gene	768	prsA_2			
+FAMGLANL_00714	CDS	768	prsA_2	5.2.1.8		Foldase protein PrsA
+FAMGLANL_00715	gene	444				
+FAMGLANL_00715	CDS	444				hypothetical protein
+FAMGLANL_00716	gene	465				
+FAMGLANL_00716	CDS	465				hypothetical protein
+FAMGLANL_00717	gene	453				
+FAMGLANL_00717	CDS	453				hypothetical protein
+FAMGLANL_00718	gene	201	cspA			
+FAMGLANL_00718	CDS	201	cspA		COG1278	Cold shock protein CspA
+FAMGLANL_00719	gene	825	pdxY			
+FAMGLANL_00719	CDS	825	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+FAMGLANL_00720	gene	1902				
+FAMGLANL_00720	CDS	1902				hypothetical protein
+FAMGLANL_00721	gene	957	galT			
+FAMGLANL_00721	CDS	957	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+FAMGLANL_00722	gene	1200				
+FAMGLANL_00722	CDS	1200		2.6.1.1		Aspartate aminotransferase
+FAMGLANL_00723	gene	813	uppP			
+FAMGLANL_00723	CDS	813	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+FAMGLANL_00724	gene	1254				
+FAMGLANL_00724	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+FAMGLANL_00725	gene	657				
+FAMGLANL_00725	CDS	657				hypothetical protein
+FAMGLANL_00726	gene	219				
+FAMGLANL_00726	CDS	219				hypothetical protein
+FAMGLANL_00727	gene	234				
+FAMGLANL_00727	CDS	234				hypothetical protein
+FAMGLANL_00728	gene	2151	feoB			
+FAMGLANL_00728	CDS	2151	feoB		COG0370	Fe(2+) transporter FeoB
+FAMGLANL_00729	gene	168				
+FAMGLANL_00729	CDS	168				hypothetical protein
+FAMGLANL_00730	gene	1557				
+FAMGLANL_00730	CDS	1557				hypothetical protein
+FAMGLANL_00731	gene	486				
+FAMGLANL_00731	CDS	486				hypothetical protein
+FAMGLANL_00732	gene	651				
+FAMGLANL_00732	CDS	651				hypothetical protein
+FAMGLANL_00733	gene	954				
+FAMGLANL_00733	CDS	954				hypothetical protein
+FAMGLANL_00734	gene	2211	kdpB			
+FAMGLANL_00734	CDS	2211	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+FAMGLANL_00735	gene	378				
+FAMGLANL_00735	CDS	378				hypothetical protein
+FAMGLANL_00736	gene	597				
+FAMGLANL_00736	CDS	597				hypothetical protein
+FAMGLANL_00737	gene	1113				
+FAMGLANL_00737	CDS	1113				hypothetical protein
+FAMGLANL_00738	gene	1119				
+FAMGLANL_00738	CDS	1119				hypothetical protein
+FAMGLANL_00739	gene	933	lnrL_1			
+FAMGLANL_00739	CDS	933	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+FAMGLANL_00740	gene	1146				
+FAMGLANL_00740	CDS	1146				hypothetical protein
+FAMGLANL_00741	gene	648	lnrK			
+FAMGLANL_00741	CDS	648	lnrK		COG2197	Transcriptional regulatory protein LnrK
+FAMGLANL_00742	gene	651				
+FAMGLANL_00742	CDS	651				hypothetical protein
+FAMGLANL_00743	gene	1980	htpG			
+FAMGLANL_00743	CDS	1980	htpG		COG0326	Chaperone protein HtpG
+FAMGLANL_00744	gene	141				
+FAMGLANL_00744	CDS	141				hypothetical protein
+FAMGLANL_00745	gene	636	fchA			
+FAMGLANL_00745	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+FAMGLANL_00746	gene	858	folD			
+FAMGLANL_00746	CDS	858	folD			Bifunctional protein FolD protein
+FAMGLANL_00747	gene	1587	clcA			
+FAMGLANL_00747	CDS	1587	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+FAMGLANL_00748	gene	1872	yjcD			
+FAMGLANL_00748	CDS	1872	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+FAMGLANL_00749	gene	885				
+FAMGLANL_00749	CDS	885				hypothetical protein
+FAMGLANL_00750	gene	858	pdxS			
+FAMGLANL_00750	CDS	858	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+FAMGLANL_00751	gene	216	glgA			
+FAMGLANL_00751	CDS	216	glgA	2.4.1.21	COG0297	Glycogen synthase
+FAMGLANL_00752	gene	2391	glgP			
+FAMGLANL_00752	CDS	2391	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+FAMGLANL_00753	gene	2415				
+FAMGLANL_00753	CDS	2415				hypothetical protein
+FAMGLANL_00754	gene	1365				
+FAMGLANL_00754	CDS	1365				hypothetical protein
+FAMGLANL_00755	gene	873	moaA_1			
+FAMGLANL_00755	CDS	873	moaA_1	4.1.99.22		GTP 3',8-cyclase
+FAMGLANL_00756	gene	1344				
+FAMGLANL_00756	CDS	1344				hypothetical protein
+FAMGLANL_00757	gene	1119	ribD			
+FAMGLANL_00757	CDS	1119	ribD		COG0117	Riboflavin biosynthesis protein RibD
+FAMGLANL_00758	gene	657	ribE			
+FAMGLANL_00758	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+FAMGLANL_00759	gene	1206	ribBA			
+FAMGLANL_00759	CDS	1206	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+FAMGLANL_00760	gene	462	ribH			
+FAMGLANL_00760	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+FAMGLANL_00761	gene	687	glxR			
+FAMGLANL_00761	CDS	687	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+FAMGLANL_00762	gene	1011	asrA			
+FAMGLANL_00762	CDS	1011	asrA		COG1145	Anaerobic sulfite reductase subunit A
+FAMGLANL_00763	gene	801	asrB			
+FAMGLANL_00763	CDS	801	asrB		COG0543	Anaerobic sulfite reductase subunit B
+FAMGLANL_00764	gene	972	asrC			
+FAMGLANL_00764	CDS	972	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+FAMGLANL_00765	gene	771	nirC			
+FAMGLANL_00765	CDS	771	nirC		COG2116	Nitrite transporter NirC
+FAMGLANL_00766	gene	85				
+FAMGLANL_00766	tRNA	85				tRNA-Leu(caa)
+FAMGLANL_00767	gene	912	cmpR			
+FAMGLANL_00767	CDS	912	cmpR		COG0583	HTH-type transcriptional activator CmpR
+FAMGLANL_00768	gene	201				
+FAMGLANL_00768	CDS	201				hypothetical protein
+FAMGLANL_00769	gene	1404	lysN_3			
+FAMGLANL_00769	CDS	1404	lysN_3	2.6.1.39	COG1167	2-aminoadipate transaminase
+FAMGLANL_00770	gene	234				
+FAMGLANL_00770	CDS	234				hypothetical protein
+FAMGLANL_00771	gene	1014	ccpA			
+FAMGLANL_00771	CDS	1014	ccpA		COG1609	Catabolite control protein A
+FAMGLANL_00772	gene	228	acpP_2			
+FAMGLANL_00772	CDS	228	acpP_2			Acyl carrier protein
+FAMGLANL_00773	gene	642				
+FAMGLANL_00773	CDS	642				hypothetical protein
+FAMGLANL_00774	gene	2268	polC			
+FAMGLANL_00774	CDS	2268	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FAMGLANL_00775	gene	885				
+FAMGLANL_00775	CDS	885				hypothetical protein
+FAMGLANL_00776	gene	852				
+FAMGLANL_00776	CDS	852				hypothetical protein
+FAMGLANL_00777	gene	1383	dinG			
+FAMGLANL_00777	CDS	1383	dinG	3.1.-.-		3'-5' exonuclease DinG
+FAMGLANL_00778	gene	1158				
+FAMGLANL_00778	CDS	1158				hypothetical protein
+FAMGLANL_00779	gene	741				
+FAMGLANL_00779	CDS	741				hypothetical protein
+FAMGLANL_00780	gene	336				
+FAMGLANL_00780	CDS	336				hypothetical protein
+FAMGLANL_00781	gene	696				
+FAMGLANL_00781	CDS	696				hypothetical protein
+FAMGLANL_00782	gene	489				
+FAMGLANL_00782	CDS	489				hypothetical protein
+FAMGLANL_00783	gene	150	rpmG2			
+FAMGLANL_00783	CDS	150	rpmG2			50S ribosomal protein L33 2
+FAMGLANL_00784	gene	207	secE			
+FAMGLANL_00784	CDS	207	secE			Protein translocase subunit SecE
+FAMGLANL_00785	gene	543	nusG			
+FAMGLANL_00785	CDS	543	nusG			Transcription termination/antitermination protein NusG
+FAMGLANL_00786	gene	426	rplK			
+FAMGLANL_00786	CDS	426	rplK		COG0080	50S ribosomal protein L11
+FAMGLANL_00787	gene	699	rplA			
+FAMGLANL_00787	CDS	699	rplA			50S ribosomal protein L1
+FAMGLANL_00788	gene	522	rplJ			
+FAMGLANL_00788	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+FAMGLANL_00789	gene	369	rplL			
+FAMGLANL_00789	CDS	369	rplL			50S ribosomal protein L7/L12
+FAMGLANL_00790	gene	1140	pgl			
+FAMGLANL_00790	CDS	1140	pgl	3.1.1.31		6-phosphogluconolactonase
+FAMGLANL_00791	gene	741				
+FAMGLANL_00791	CDS	741				hypothetical protein
+FAMGLANL_00792	gene	645				
+FAMGLANL_00792	CDS	645				hypothetical protein
+FAMGLANL_00793	gene	1551	rsxB_2			
+FAMGLANL_00793	CDS	1551	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+FAMGLANL_00794	gene	1551	ybiT_2			
+FAMGLANL_00794	CDS	1551	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+FAMGLANL_00795	gene	2766	mtgA			
+FAMGLANL_00795	CDS	2766	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+FAMGLANL_00796	gene	735	fabG_2			
+FAMGLANL_00796	CDS	735	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FAMGLANL_00797	gene	1881	prkC			
+FAMGLANL_00797	CDS	1881	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+FAMGLANL_00798	gene	750	stp			
+FAMGLANL_00798	CDS	750	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+FAMGLANL_00799	gene	1038	rlmN			
+FAMGLANL_00799	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+FAMGLANL_00800	gene	1344	rsmB			
+FAMGLANL_00800	CDS	1344	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+FAMGLANL_00801	gene	690				
+FAMGLANL_00801	CDS	690				hypothetical protein
+FAMGLANL_00802	gene	930	fmt			
+FAMGLANL_00802	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+FAMGLANL_00803	gene	417	def1			
+FAMGLANL_00803	CDS	417	def1	3.5.1.88	COG0242	Peptide deformylase 1
+FAMGLANL_00804	gene	1305	thiC			
+FAMGLANL_00804	CDS	1305	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+FAMGLANL_00805	gene	1455	thiM			
+FAMGLANL_00805	CDS	1455	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+FAMGLANL_00806	gene	822	thiD			
+FAMGLANL_00806	CDS	822	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+FAMGLANL_00807	gene	927				
+FAMGLANL_00807	CDS	927				hypothetical protein
+FAMGLANL_00808	gene	2199	ziaA			
+FAMGLANL_00808	CDS	2199	ziaA	7.2.2.12		Zinc-transporting ATPase
+FAMGLANL_00809	gene	384	ziaR			
+FAMGLANL_00809	CDS	384	ziaR			Transcriptional repressor SmtB 
+FAMGLANL_00810	gene	1365	rlmCD			
+FAMGLANL_00810	CDS	1365	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+FAMGLANL_00811	gene	1737	pyk			
+FAMGLANL_00811	CDS	1737	pyk	2.7.1.40		Pyruvate kinase
+FAMGLANL_00812	gene	972	pfkA			
+FAMGLANL_00812	CDS	972	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+FAMGLANL_00813	gene	180	rpsU			
+FAMGLANL_00813	CDS	180	rpsU		COG0828	30S ribosomal protein S21
+FAMGLANL_00814	gene	441	yqeY			
+FAMGLANL_00814	CDS	441	yqeY		COG1610	putative protein YqeY
+FAMGLANL_00815	gene	861				
+FAMGLANL_00815	CDS	861				hypothetical protein
+FAMGLANL_00816	gene	606				
+FAMGLANL_00816	CDS	606				hypothetical protein
+FAMGLANL_00817	gene	264	ung			
+FAMGLANL_00817	CDS	264	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+FAMGLANL_00818	gene	909	gabR			
+FAMGLANL_00818	CDS	909	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+FAMGLANL_00819	gene	300				
+FAMGLANL_00819	CDS	300				hypothetical protein
+FAMGLANL_00820	gene	1173				
+FAMGLANL_00820	CDS	1173				hypothetical protein
+FAMGLANL_00821	gene	1227	dltD			
+FAMGLANL_00821	CDS	1227	dltD		COG3966	Protein DltD
+FAMGLANL_00822	gene	126				
+FAMGLANL_00822	CDS	126				hypothetical protein
+FAMGLANL_00823	gene	1599	dltA			
+FAMGLANL_00823	CDS	1599	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+FAMGLANL_00824	gene	1161				
+FAMGLANL_00824	CDS	1161				hypothetical protein
+FAMGLANL_00825	gene	237	dltC			
+FAMGLANL_00825	CDS	237	dltC		COG0236	D-alanyl carrier protein
+FAMGLANL_00826	gene	549	lytC_6			
+FAMGLANL_00826	CDS	549	lytC_6	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_00827	gene	765	sufC			
+FAMGLANL_00827	CDS	765	sufC		COG0396	Vegetative protein 296
+FAMGLANL_00828	gene	1425				
+FAMGLANL_00828	CDS	1425				hypothetical protein
+FAMGLANL_00829	gene	831				
+FAMGLANL_00829	CDS	831				hypothetical protein
+FAMGLANL_00830	gene	1236	csd			
+FAMGLANL_00830	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+FAMGLANL_00831	gene	438	sufU			
+FAMGLANL_00831	CDS	438	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+FAMGLANL_00832	gene	408				
+FAMGLANL_00832	CDS	408				hypothetical protein
+FAMGLANL_00833	gene	627				
+FAMGLANL_00833	CDS	627				hypothetical protein
+FAMGLANL_00834	gene	291				
+FAMGLANL_00834	CDS	291				hypothetical protein
+FAMGLANL_00835	gene	360				
+FAMGLANL_00835	CDS	360				hypothetical protein
+FAMGLANL_00836	gene	699				
+FAMGLANL_00836	CDS	699				hypothetical protein
+FAMGLANL_00837	gene	786				
+FAMGLANL_00837	CDS	786				hypothetical protein
+FAMGLANL_00838	gene	1860				
+FAMGLANL_00838	CDS	1860				hypothetical protein
+FAMGLANL_00839	gene	834	thyA			
+FAMGLANL_00839	CDS	834	thyA	2.1.1.45	COG0207	Thymidylate synthase
+FAMGLANL_00840	gene	525	folA			
+FAMGLANL_00840	CDS	525	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+FAMGLANL_00841	gene	1374	argH			
+FAMGLANL_00841	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FAMGLANL_00842	gene	1275	argG			
+FAMGLANL_00842	CDS	1275	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+FAMGLANL_00843	gene	831	artP_1			
+FAMGLANL_00843	CDS	831	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+FAMGLANL_00844	gene	456	smpB			
+FAMGLANL_00844	CDS	456	smpB		COG0691	SsrA-binding protein
+FAMGLANL_00845	gene	2220	rnr			
+FAMGLANL_00845	CDS	2220	rnr	3.1.13.1	COG0557	Ribonuclease R
+FAMGLANL_00846	gene	231				
+FAMGLANL_00846	CDS	231				hypothetical protein
+FAMGLANL_00847	gene	957	miaA			
+FAMGLANL_00847	CDS	957	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+FAMGLANL_00848	gene	2061	mutL			
+FAMGLANL_00848	CDS	2061	mutL			DNA mismatch repair protein MutL
+FAMGLANL_00849	gene	2643	mutS			
+FAMGLANL_00849	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+FAMGLANL_00850	gene	564	opuAA			
+FAMGLANL_00850	CDS	564	opuAA	7.6.2.9	COG4175	Glycine betaine transport ATP-binding protein OpuAA
+FAMGLANL_00851	gene	1788	pepF1			
+FAMGLANL_00851	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+FAMGLANL_00852	gene	528				
+FAMGLANL_00852	CDS	528				hypothetical protein
+FAMGLANL_00853	gene	1083	hhoB			
+FAMGLANL_00853	CDS	1083	hhoB			Putative serine protease HhoB
+FAMGLANL_00854	gene	1326	pepC			
+FAMGLANL_00854	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+FAMGLANL_00855	gene	1311				
+FAMGLANL_00855	CDS	1311				hypothetical protein
+FAMGLANL_00856	gene	282				
+FAMGLANL_00856	CDS	282				hypothetical protein
+FAMGLANL_00857	gene	2277	topB			
+FAMGLANL_00857	CDS	2277	topB	5.6.2.1		DNA topoisomerase 3
+FAMGLANL_00858	gene	1422	purF			
+FAMGLANL_00858	CDS	1422	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+FAMGLANL_00859	gene	1647	gltX			
+FAMGLANL_00859	CDS	1647	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+FAMGLANL_00860	gene	369				
+FAMGLANL_00860	CDS	369				hypothetical protein
+FAMGLANL_00861	gene	996	rhaR_3			
+FAMGLANL_00861	CDS	996	rhaR_3			HTH-type transcriptional activator RhaR
+FAMGLANL_00862	gene	849				
+FAMGLANL_00862	CDS	849				hypothetical protein
+FAMGLANL_00863	gene	438				
+FAMGLANL_00863	CDS	438				hypothetical protein
+FAMGLANL_00864	gene	654				
+FAMGLANL_00864	CDS	654				hypothetical protein
+FAMGLANL_00865	gene	477				
+FAMGLANL_00865	CDS	477				hypothetical protein
+FAMGLANL_00866	gene	1194	sdaB			
+FAMGLANL_00866	CDS	1194	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2
+FAMGLANL_00867	gene	885	dapA_1			
+FAMGLANL_00867	CDS	885	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+FAMGLANL_00868	gene	606	rpsD			
+FAMGLANL_00868	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+FAMGLANL_00869	gene	468				
+FAMGLANL_00869	CDS	468				hypothetical protein
+FAMGLANL_00870	gene	540				
+FAMGLANL_00870	CDS	540				hypothetical protein
+FAMGLANL_00871	gene	240				
+FAMGLANL_00871	CDS	240				hypothetical protein
+FAMGLANL_00872	gene	1455				
+FAMGLANL_00872	CDS	1455				hypothetical protein
+FAMGLANL_00873	gene	1701	argS			
+FAMGLANL_00873	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+FAMGLANL_00874	gene	468				
+FAMGLANL_00874	CDS	468				hypothetical protein
+FAMGLANL_00875	gene	1446	mutS2			
+FAMGLANL_00875	CDS	1446	mutS2	3.1.-.-		Endonuclease MutS2
+FAMGLANL_00876	gene	315				
+FAMGLANL_00876	CDS	315				hypothetical protein
+FAMGLANL_00877	gene	213				
+FAMGLANL_00877	CDS	213				hypothetical protein
+FAMGLANL_00878	gene	1431				
+FAMGLANL_00878	CDS	1431				hypothetical protein
+FAMGLANL_00879	gene	1344	rnfC			
+FAMGLANL_00879	CDS	1344	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+FAMGLANL_00880	gene	987	rnfD			
+FAMGLANL_00880	CDS	987	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+FAMGLANL_00881	gene	567	rnfG			
+FAMGLANL_00881	CDS	567	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+FAMGLANL_00882	gene	594	rnfE			
+FAMGLANL_00882	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+FAMGLANL_00883	gene	576	rnfA			
+FAMGLANL_00883	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+FAMGLANL_00884	gene	654				
+FAMGLANL_00884	CDS	654				hypothetical protein
+FAMGLANL_00885	gene	1206	lysC			
+FAMGLANL_00885	CDS	1206	lysC	2.7.2.4	COG0527	Aspartokinase 2
+FAMGLANL_00886	gene	984	asd_2			
+FAMGLANL_00886	CDS	984	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+FAMGLANL_00887	gene	900	dapA_2			
+FAMGLANL_00887	CDS	900	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+FAMGLANL_00888	gene	732	dapB			
+FAMGLANL_00888	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+FAMGLANL_00889	gene	720	dapH			
+FAMGLANL_00889	CDS	720	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FAMGLANL_00890	gene	429	bglK			
+FAMGLANL_00890	CDS	429	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+FAMGLANL_00891	gene	465	yfkJ			
+FAMGLANL_00891	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+FAMGLANL_00892	gene	1332	mepA_2			
+FAMGLANL_00892	CDS	1332	mepA_2			Multidrug export protein MepA
+FAMGLANL_00893	gene	582				
+FAMGLANL_00893	CDS	582				hypothetical protein
+FAMGLANL_00894	gene	711				
+FAMGLANL_00894	CDS	711				hypothetical protein
+FAMGLANL_00895	gene	1329				
+FAMGLANL_00895	CDS	1329				hypothetical protein
+FAMGLANL_00896	gene	1800	sbcC			
+FAMGLANL_00896	CDS	1800	sbcC			Nuclease SbcCD subunit C
+FAMGLANL_00897	gene	531	hpt_1			
+FAMGLANL_00897	CDS	531	hpt_1	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+FAMGLANL_00898	gene	1005	asnA			
+FAMGLANL_00898	CDS	1005	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+FAMGLANL_00899	gene	1230				
+FAMGLANL_00899	CDS	1230				hypothetical protein
+FAMGLANL_00900	gene	1104				
+FAMGLANL_00900	CDS	1104				hypothetical protein
+FAMGLANL_00901	gene	1023	lnpD			
+FAMGLANL_00901	CDS	1023	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+FAMGLANL_00902	gene	177				
+FAMGLANL_00902	CDS	177				hypothetical protein
+FAMGLANL_00903	gene	1401				
+FAMGLANL_00903	CDS	1401				hypothetical protein
+FAMGLANL_00904	gene	351				
+FAMGLANL_00904	CDS	351				putative protein
+FAMGLANL_00905	gene	1665				
+FAMGLANL_00905	CDS	1665				putative protein
+FAMGLANL_00906	gene	2058	recG			
+FAMGLANL_00906	CDS	2058	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+FAMGLANL_00907	gene	561	rsmD			
+FAMGLANL_00907	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+FAMGLANL_00908	gene	483	coaD			
+FAMGLANL_00908	CDS	483	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+FAMGLANL_00909	gene	546				
+FAMGLANL_00909	CDS	546			COG3599	putative protein
+FAMGLANL_00910	gene	447	rplI			
+FAMGLANL_00910	CDS	447	rplI			50S ribosomal protein L9
+FAMGLANL_00911	gene	2016	gdpP			
+FAMGLANL_00911	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+FAMGLANL_00912	gene	1041				
+FAMGLANL_00912	CDS	1041				hypothetical protein
+FAMGLANL_00913	gene	366				
+FAMGLANL_00913	CDS	366				hypothetical protein
+FAMGLANL_00914	gene	1959	fusA_2			
+FAMGLANL_00914	CDS	1959	fusA_2		COG0480	Elongation factor G
+FAMGLANL_00915	gene	612				
+FAMGLANL_00915	CDS	612				hypothetical protein
+FAMGLANL_00916	gene	318				
+FAMGLANL_00916	CDS	318				hypothetical protein
+FAMGLANL_00917	gene	933				
+FAMGLANL_00917	CDS	933				hypothetical protein
+FAMGLANL_00918	gene	342				
+FAMGLANL_00918	CDS	342				hypothetical protein
+FAMGLANL_00919	gene	441				
+FAMGLANL_00919	CDS	441				hypothetical protein
+FAMGLANL_00920	gene	1443				
+FAMGLANL_00920	CDS	1443				IS1182 family transposase ISClsp3
+FAMGLANL_00921	gene	1422				
+FAMGLANL_00921	CDS	1422				hypothetical protein
+FAMGLANL_00922	gene	1242				
+FAMGLANL_00922	CDS	1242				hypothetical protein
+FAMGLANL_00923	gene	282				
+FAMGLANL_00923	CDS	282				hypothetical protein
+FAMGLANL_00924	gene	723				
+FAMGLANL_00924	CDS	723			COG0217	putative transcriptional regulatory protein
+FAMGLANL_00925	gene	759	nadE			
+FAMGLANL_00925	CDS	759	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FAMGLANL_00926	gene	642				
+FAMGLANL_00926	CDS	642				hypothetical protein
+FAMGLANL_00927	gene	678				
+FAMGLANL_00927	CDS	678				hypothetical protein
+FAMGLANL_00928	gene	423				
+FAMGLANL_00928	CDS	423				hypothetical protein
+FAMGLANL_00929	gene	219				
+FAMGLANL_00929	CDS	219				hypothetical protein
+FAMGLANL_00930	gene	675				
+FAMGLANL_00930	CDS	675				hypothetical protein
+FAMGLANL_00931	gene	414	glpE			
+FAMGLANL_00931	CDS	414	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+FAMGLANL_00932	gene	735	miaB			
+FAMGLANL_00932	CDS	735	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FAMGLANL_00933	gene	558				
+FAMGLANL_00933	CDS	558				hypothetical protein
+FAMGLANL_00934	gene	1659	glnS			
+FAMGLANL_00934	CDS	1659	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+FAMGLANL_00935	gene	738				
+FAMGLANL_00935	CDS	738				hypothetical protein
+FAMGLANL_00936	gene	585	tmcAL			
+FAMGLANL_00936	CDS	585	tmcAL	6.3.4.-		tRNA(Met) cytidine acetate ligase
+FAMGLANL_00937	gene	1200	ackA			
+FAMGLANL_00937	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+FAMGLANL_00938	gene	519				
+FAMGLANL_00938	CDS	519				hypothetical protein
+FAMGLANL_00939	gene	180	rpmF			
+FAMGLANL_00939	CDS	180	rpmF			50S ribosomal protein L32
+FAMGLANL_00940	gene	1017	plsX			
+FAMGLANL_00940	CDS	1017	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+FAMGLANL_00941	gene	1977	fbp			
+FAMGLANL_00941	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+FAMGLANL_00942	gene	342				
+FAMGLANL_00942	CDS	342				putative protein
+FAMGLANL_00943	gene	495	nusB			
+FAMGLANL_00943	CDS	495	nusB			Transcription antitermination protein NusB
+FAMGLANL_00944	gene	2145				
+FAMGLANL_00944	CDS	2145				hypothetical protein
+FAMGLANL_00945	gene	1350	alsT_1			
+FAMGLANL_00945	CDS	1350	alsT_1		COG1115	Amino-acid carrier protein AlsT
+FAMGLANL_00946	gene	963	tagU_1			
+FAMGLANL_00946	CDS	963	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FAMGLANL_00947	gene	1041	tagU_2			
+FAMGLANL_00947	CDS	1041	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+FAMGLANL_00948	gene	378	sipT			
+FAMGLANL_00948	CDS	378	sipT	3.4.21.89	COG0681	Signal peptidase I T
+FAMGLANL_00949	gene	1656	udk			
+FAMGLANL_00949	CDS	1656	udk	2.7.1.48		Uridine kinase
+FAMGLANL_00950	gene	639	pdg			
+FAMGLANL_00950	CDS	639	pdg			Ultraviolet N-glycosylase/AP lyase
+FAMGLANL_00951	gene	471	trmL			
+FAMGLANL_00951	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+FAMGLANL_00952	gene	876				
+FAMGLANL_00952	CDS	876			COG1307	Fatty acid-binding protein
+FAMGLANL_00953	gene	1449	pepD_2			
+FAMGLANL_00953	CDS	1449	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+FAMGLANL_00954	gene	1182				
+FAMGLANL_00954	CDS	1182				hypothetical protein
+FAMGLANL_00955	gene	1671	norR			
+FAMGLANL_00955	CDS	1671	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+FAMGLANL_00956	gene	1962	secA			
+FAMGLANL_00956	CDS	1962	secA		COG0653	Protein translocase subunit SecA
+FAMGLANL_00957	gene	780				
+FAMGLANL_00957	CDS	780				hypothetical protein
+FAMGLANL_00958	gene	732	uppS			
+FAMGLANL_00958	CDS	732	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+FAMGLANL_00959	gene	558	frr			
+FAMGLANL_00959	CDS	558	frr		COG0233	Ribosome-recycling factor
+FAMGLANL_00960	gene	708	pyrH			
+FAMGLANL_00960	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+FAMGLANL_00961	gene	909	tsf			
+FAMGLANL_00961	CDS	909	tsf		COG0264	Elongation factor Ts
+FAMGLANL_00962	gene	762	rpsB			
+FAMGLANL_00962	CDS	762	rpsB			30S ribosomal protein S2
+FAMGLANL_00963	gene	1023	bdhA			
+FAMGLANL_00963	CDS	1023	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+FAMGLANL_00964	gene	561	pth			
+FAMGLANL_00964	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+FAMGLANL_00965	gene	651				
+FAMGLANL_00965	CDS	651				hypothetical protein
+FAMGLANL_00966	gene	1065				
+FAMGLANL_00966	CDS	1065				hypothetical protein
+FAMGLANL_00967	gene	957	prs			
+FAMGLANL_00967	CDS	957	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FAMGLANL_00968	gene	1392	glmU_1			
+FAMGLANL_00968	CDS	1392	glmU_1			Bifunctional protein GlmU
+FAMGLANL_00969	gene	495				
+FAMGLANL_00969	CDS	495				hypothetical protein
+FAMGLANL_00970	gene	411				
+FAMGLANL_00970	CDS	411				hypothetical protein
+FAMGLANL_00971	gene	750				
+FAMGLANL_00971	CDS	750				hypothetical protein
+FAMGLANL_00972	gene	1191				
+FAMGLANL_00972	CDS	1191				hypothetical protein
+FAMGLANL_00973	gene	1101	dhaD			
+FAMGLANL_00973	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+FAMGLANL_00974	gene	189				
+FAMGLANL_00974	CDS	189				Rubredoxin
+FAMGLANL_00975	gene	549	chrA1			
+FAMGLANL_00975	CDS	549	chrA1			Chromate transport protein
+FAMGLANL_00976	gene	561				
+FAMGLANL_00976	CDS	561				hypothetical protein
+FAMGLANL_00977	gene	603				
+FAMGLANL_00977	CDS	603				hypothetical protein
+FAMGLANL_00978	gene	858	trmB			
+FAMGLANL_00978	CDS	858	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+FAMGLANL_00979	gene	318	erpA			
+FAMGLANL_00979	CDS	318	erpA			Iron-sulfur cluster insertion protein ErpA
+FAMGLANL_00980	gene	504	nrdG			
+FAMGLANL_00980	CDS	504	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+FAMGLANL_00981	gene	2121	nrdD			
+FAMGLANL_00981	CDS	2121	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+FAMGLANL_00982	gene	498	proX			
+FAMGLANL_00982	CDS	498	proX		COG3760	Prolyl-tRNA editing protein ProX
+FAMGLANL_00983	gene	1992				
+FAMGLANL_00983	CDS	1992				hypothetical protein
+FAMGLANL_00984	gene	954	lytC_7			
+FAMGLANL_00984	CDS	954	lytC_7	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_00985	gene	144				
+FAMGLANL_00985	CDS	144				hypothetical protein
+FAMGLANL_00986	gene	321	yajC			
+FAMGLANL_00986	CDS	321	yajC		COG1862	Sec translocon accessory complex subunit YajC
+FAMGLANL_00987	gene	1119	tgt			
+FAMGLANL_00987	CDS	1119	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+FAMGLANL_00988	gene	987	queA			
+FAMGLANL_00988	CDS	987	queA	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+FAMGLANL_00989	gene	498	ruvC			
+FAMGLANL_00989	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+FAMGLANL_00990	gene	567				
+FAMGLANL_00990	CDS	567				hypothetical protein
+FAMGLANL_00991	gene	642				
+FAMGLANL_00991	CDS	642				hypothetical protein
+FAMGLANL_00992	gene	342				
+FAMGLANL_00992	CDS	342				hypothetical protein
+FAMGLANL_00993	gene	357	rplT			
+FAMGLANL_00993	CDS	357	rplT			50S ribosomal protein L20
+FAMGLANL_00994	gene	198	rpmI			
+FAMGLANL_00994	CDS	198	rpmI			50S ribosomal protein L35
+FAMGLANL_00995	gene	459	infC			
+FAMGLANL_00995	CDS	459	infC			Translation initiation factor IF-3
+FAMGLANL_00996	gene	864	map			
+FAMGLANL_00996	CDS	864	map	3.4.11.18	COG0024	Methionine aminopeptidase
+FAMGLANL_00997	gene	678				
+FAMGLANL_00997	CDS	678				hypothetical protein
+FAMGLANL_00998	gene	1161				
+FAMGLANL_00998	CDS	1161				hypothetical protein
+FAMGLANL_00999	gene	1878				
+FAMGLANL_00999	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+FAMGLANL_01000	gene	1596				
+FAMGLANL_01000	CDS	1596			COG1132	putative ABC transporter ATP-binding protein
+FAMGLANL_01001	gene	1338	dnaC			
+FAMGLANL_01001	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+FAMGLANL_01002	gene	990	dnaA_2			
+FAMGLANL_01002	CDS	990	dnaA_2			Chromosomal replication initiator protein DnaA
+FAMGLANL_01003	gene	1050				
+FAMGLANL_01003	CDS	1050				hypothetical protein
+FAMGLANL_01004	gene	483	rlmH			
+FAMGLANL_01004	CDS	483	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+FAMGLANL_01005	gene	801	yycJ			
+FAMGLANL_01005	CDS	801	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+FAMGLANL_01006	gene	162				
+FAMGLANL_01006	CDS	162				Rubredoxin
+FAMGLANL_01007	gene	330	zur			
+FAMGLANL_01007	CDS	330	zur		COG0735	Zinc uptake regulation protein
+FAMGLANL_01008	gene	549				
+FAMGLANL_01008	CDS	549				hypothetical protein
+FAMGLANL_01009	gene	1269				
+FAMGLANL_01009	CDS	1269				hypothetical protein
+FAMGLANL_01010	gene	495	sigM_2			
+FAMGLANL_01010	CDS	495	sigM_2		COG1595	ECF RNA polymerase sigma factor SigM
+FAMGLANL_01011	gene	900				
+FAMGLANL_01011	CDS	900				hypothetical protein
+FAMGLANL_01012	gene	654				
+FAMGLANL_01012	CDS	654				hypothetical protein
+FAMGLANL_01013	gene	1716	ptsI			
+FAMGLANL_01013	CDS	1716	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+FAMGLANL_01014	gene	264	ptsH			
+FAMGLANL_01014	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+FAMGLANL_01015	gene	1128				
+FAMGLANL_01015	CDS	1128				hypothetical protein
+FAMGLANL_01016	gene	255	yidA			
+FAMGLANL_01016	CDS	255	yidA	3.1.3.23	COG0561	Sugar phosphatase YidA
+FAMGLANL_01017	gene	2424	lon1			
+FAMGLANL_01017	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+FAMGLANL_01018	gene	723	engB			
+FAMGLANL_01018	CDS	723	engB			GTP-binding protein EngB
+FAMGLANL_01019	gene	546	hpt_2			
+FAMGLANL_01019	CDS	546	hpt_2	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+FAMGLANL_01020	gene	288	pagR			
+FAMGLANL_01020	CDS	288	pagR			Transcriptional repressor PagR
+FAMGLANL_01021	gene	474				
+FAMGLANL_01021	CDS	474				hypothetical protein
+FAMGLANL_01022	gene	1968				
+FAMGLANL_01022	CDS	1968				hypothetical protein
+FAMGLANL_01023	gene	426				
+FAMGLANL_01023	CDS	426				hypothetical protein
+FAMGLANL_01024	gene	1740				
+FAMGLANL_01024	CDS	1740		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FAMGLANL_01025	gene	330				
+FAMGLANL_01025	CDS	330				hypothetical protein
+FAMGLANL_01026	gene	966				
+FAMGLANL_01026	CDS	966				hypothetical protein
+FAMGLANL_01027	gene	1188	thiI			
+FAMGLANL_01027	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+FAMGLANL_01028	gene	1158	iscS			
+FAMGLANL_01028	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FAMGLANL_01029	gene	1377	alsT_2			
+FAMGLANL_01029	CDS	1377	alsT_2		COG1115	Amino-acid carrier protein AlsT
+FAMGLANL_01030	gene	195				
+FAMGLANL_01030	CDS	195				hypothetical protein
+FAMGLANL_01031	gene	729				
+FAMGLANL_01031	CDS	729				hypothetical protein
+FAMGLANL_01032	gene	768	thiG			
+FAMGLANL_01032	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+FAMGLANL_01033	gene	1176	thiH			
+FAMGLANL_01033	CDS	1176	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+FAMGLANL_01034	gene	939				
+FAMGLANL_01034	CDS	939				hypothetical protein
+FAMGLANL_01035	gene	897				
+FAMGLANL_01035	CDS	897				hypothetical protein
+FAMGLANL_01036	gene	750	yfiC			
+FAMGLANL_01036	CDS	750	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+FAMGLANL_01037	gene	837	rsmI			
+FAMGLANL_01037	CDS	837	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+FAMGLANL_01038	gene	459				
+FAMGLANL_01038	CDS	459				hypothetical protein
+FAMGLANL_01039	gene	375				
+FAMGLANL_01039	CDS	375				hypothetical protein
+FAMGLANL_01040	gene	2574				
+FAMGLANL_01040	CDS	2574				hypothetical protein
+FAMGLANL_01041	gene	1323	rimO			
+FAMGLANL_01041	CDS	1323	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+FAMGLANL_01042	gene	540	pgsA			
+FAMGLANL_01042	CDS	540	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+FAMGLANL_01043	gene	1764				
+FAMGLANL_01043	CDS	1764				hypothetical protein
+FAMGLANL_01044	gene	603	maf			
+FAMGLANL_01044	CDS	603	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+FAMGLANL_01045	gene	1473	algC			
+FAMGLANL_01045	CDS	1473	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+FAMGLANL_01046	gene	651	tal			
+FAMGLANL_01046	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+FAMGLANL_01047	gene	1080	yknX			
+FAMGLANL_01047	CDS	1080	yknX		COG0845	Putative efflux system component YknX
+FAMGLANL_01048	gene	675	yknY_2			
+FAMGLANL_01048	CDS	675	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FAMGLANL_01049	gene	633				
+FAMGLANL_01049	CDS	633				hypothetical protein
+FAMGLANL_01050	gene	762	scpA			
+FAMGLANL_01050	CDS	762	scpA		COG1354	Segregation and condensation protein A
+FAMGLANL_01051	gene	519	scpB			
+FAMGLANL_01051	CDS	519	scpB		COG1386	Segregation and condensation protein B
+FAMGLANL_01052	gene	750	cobB			
+FAMGLANL_01052	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+FAMGLANL_01053	gene	441				
+FAMGLANL_01053	CDS	441				hypothetical protein
+FAMGLANL_01054	gene	996	btuD			
+FAMGLANL_01054	CDS	996	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FAMGLANL_01055	gene	696	ureG			
+FAMGLANL_01055	CDS	696	ureG			Urease accessory protein UreG
+FAMGLANL_01056	gene	1227				
+FAMGLANL_01056	CDS	1227				hypothetical protein
+FAMGLANL_01057	gene	1605				
+FAMGLANL_01057	CDS	1605				hypothetical protein
+FAMGLANL_01058	gene	855	sseB			
+FAMGLANL_01058	CDS	855	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+FAMGLANL_01059	gene	894				
+FAMGLANL_01059	CDS	894			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+FAMGLANL_01060	gene	1389	gltD			
+FAMGLANL_01060	CDS	1389	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+FAMGLANL_01061	gene	705				
+FAMGLANL_01061	CDS	705				hypothetical protein
+FAMGLANL_01062	gene	825	ykoD			
+FAMGLANL_01062	CDS	825	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FAMGLANL_01063	gene	2391	pheT			
+FAMGLANL_01063	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+FAMGLANL_01064	gene	1032	pheS			
+FAMGLANL_01064	CDS	1032	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+FAMGLANL_01065	gene	270				
+FAMGLANL_01065	CDS	270				hypothetical protein
+FAMGLANL_01066	gene	345				
+FAMGLANL_01066	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+FAMGLANL_01067	gene	324				
+FAMGLANL_01067	CDS	324				hypothetical protein
+FAMGLANL_01068	gene	1296	mtaB			
+FAMGLANL_01068	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+FAMGLANL_01069	gene	777	rsmE			
+FAMGLANL_01069	CDS	777	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+FAMGLANL_01070	gene	951	prmA			
+FAMGLANL_01070	CDS	951	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+FAMGLANL_01071	gene	549	lytC_8			
+FAMGLANL_01071	CDS	549	lytC_8	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_01072	gene	1260				
+FAMGLANL_01072	CDS	1260				hypothetical protein
+FAMGLANL_01073	gene	906				
+FAMGLANL_01073	CDS	906				hypothetical protein
+FAMGLANL_01074	gene	792				
+FAMGLANL_01074	CDS	792				hypothetical protein
+FAMGLANL_01075	gene	720				
+FAMGLANL_01075	CDS	720		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+FAMGLANL_01076	gene	417				
+FAMGLANL_01076	CDS	417				hypothetical protein
+FAMGLANL_01077	gene	1374	moaA_2			
+FAMGLANL_01077	CDS	1374	moaA_2			GTP 3',8-cyclase
+FAMGLANL_01078	gene	975				
+FAMGLANL_01078	CDS	975				hypothetical protein
+FAMGLANL_01079	gene	222				
+FAMGLANL_01079	CDS	222				hypothetical protein
+FAMGLANL_01080	gene	888				
+FAMGLANL_01080	CDS	888				hypothetical protein
+FAMGLANL_01081	gene	546				
+FAMGLANL_01081	CDS	546				hypothetical protein
+FAMGLANL_01082	gene	495	hemB			
+FAMGLANL_01082	CDS	495	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+FAMGLANL_01083	gene	477	cysG_1			
+FAMGLANL_01083	CDS	477	cysG_1		COG0007	Siroheme synthase
+FAMGLANL_01084	gene	2364	pcrA			
+FAMGLANL_01084	CDS	2364	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+FAMGLANL_01085	gene	1428	apeB			
+FAMGLANL_01085	CDS	1428	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+FAMGLANL_01086	gene	1548	rny			
+FAMGLANL_01086	CDS	1548	rny	3.1.-.-	COG1418	Ribonuclease Y
+FAMGLANL_01087	gene	1626				
+FAMGLANL_01087	CDS	1626				hypothetical protein
+FAMGLANL_01088	gene	1083				
+FAMGLANL_01088	CDS	1083				hypothetical protein
+FAMGLANL_01089	gene	213				
+FAMGLANL_01089	CDS	213				hypothetical protein
+FAMGLANL_01090	gene	273				
+FAMGLANL_01090	CDS	273				hypothetical protein
+FAMGLANL_01091	gene	1239	rps1			
+FAMGLANL_01091	CDS	1239	rps1		COG0539	30S ribosomal protein S1
+FAMGLANL_01092	gene	1422				
+FAMGLANL_01092	CDS	1422				hypothetical protein
+FAMGLANL_01093	gene	486				
+FAMGLANL_01093	CDS	486				hypothetical protein
+FAMGLANL_01094	gene	1200	mnmE_2			
+FAMGLANL_01094	CDS	1200	mnmE_2	3.6.-.-		tRNA modification GTPase MnmE
+FAMGLANL_01095	gene	492	ycdZ			
+FAMGLANL_01095	CDS	492	ycdZ			Inner membrane protein YcdZ
+FAMGLANL_01096	gene	870	sigF			
+FAMGLANL_01096	CDS	870	sigF		COG1191	RNA polymerase sigma-F factor
+FAMGLANL_01097	gene	531				
+FAMGLANL_01097	CDS	531				hypothetical protein
+FAMGLANL_01098	gene	1236	fldB			
+FAMGLANL_01098	CDS	1236	fldB	4.2.1.-		(R)-phenyllactyl-CoA dehydratase alpha subunit
+FAMGLANL_01099	gene	1245	fldA_2			
+FAMGLANL_01099	CDS	1245	fldA_2	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+FAMGLANL_01100	gene	696	rspR			
+FAMGLANL_01100	CDS	696	rspR		COG1802	HTH-type transcriptional repressor RspR
+FAMGLANL_01101	gene	894	asnB			
+FAMGLANL_01101	CDS	894	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+FAMGLANL_01102	gene	1572				
+FAMGLANL_01102	CDS	1572				hypothetical protein
+FAMGLANL_01103	gene	1401	asnS			
+FAMGLANL_01103	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+FAMGLANL_01104	gene	669	ppsC			
+FAMGLANL_01104	CDS	669	ppsC	2.3.1.41		Phthiocerol synthesis polyketide synthase type I PpsC
+FAMGLANL_01105	gene	855				
+FAMGLANL_01105	CDS	855				hypothetical protein
+FAMGLANL_01106	gene	435				
+FAMGLANL_01106	CDS	435				hypothetical protein
+FAMGLANL_01107	gene	837				
+FAMGLANL_01107	CDS	837				hypothetical protein
+FAMGLANL_01108	gene	297				
+FAMGLANL_01108	CDS	297				hypothetical protein
+FAMGLANL_01109	gene	636				
+FAMGLANL_01109	CDS	636				hypothetical protein
+FAMGLANL_01110	gene	567				
+FAMGLANL_01110	CDS	567				hypothetical protein
+FAMGLANL_01111	gene	804	ywpJ			
+FAMGLANL_01111	CDS	804	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+FAMGLANL_01112	gene	1266	cinA			
+FAMGLANL_01112	CDS	1266	cinA		COG1058	Putative competence-damage inducible protein
+FAMGLANL_01113	gene	897	ddl			
+FAMGLANL_01113	CDS	897	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+FAMGLANL_01114	gene	2472				
+FAMGLANL_01114	CDS	2472				hypothetical protein
+FAMGLANL_01115	gene	432				
+FAMGLANL_01115	CDS	432				hypothetical protein
+FAMGLANL_01116	gene	981	znuA			
+FAMGLANL_01116	CDS	981	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+FAMGLANL_01117	gene	669	mntB			
+FAMGLANL_01117	CDS	669	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+FAMGLANL_01118	gene	786	znuB			
+FAMGLANL_01118	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+FAMGLANL_01119	gene	753				
+FAMGLANL_01119	CDS	753				hypothetical protein
+FAMGLANL_01120	gene	216				
+FAMGLANL_01120	CDS	216				hypothetical protein
+FAMGLANL_01121	gene	1086				
+FAMGLANL_01121	CDS	1086				hypothetical protein
+FAMGLANL_01122	gene	1491	murE_2			
+FAMGLANL_01122	CDS	1491	murE_2	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+FAMGLANL_01123	gene	720				
+FAMGLANL_01123	CDS	720		5.1.1.13	COG1794	Aspartate racemase
+FAMGLANL_01124	gene	870				
+FAMGLANL_01124	CDS	870		6.3.1.12		D-aspartate ligase
+FAMGLANL_01125	gene	267				
+FAMGLANL_01125	CDS	267				hypothetical protein
+FAMGLANL_01126	gene	1413	alsT_3			
+FAMGLANL_01126	CDS	1413	alsT_3		COG1115	Amino-acid carrier protein AlsT
+FAMGLANL_01127	gene	1314	hflX			
+FAMGLANL_01127	CDS	1314	hflX		COG2262	GTPase HflX
+FAMGLANL_01128	gene	1719				
+FAMGLANL_01128	CDS	1719		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+FAMGLANL_01129	gene	1473	msbA_2			
+FAMGLANL_01129	CDS	1473	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FAMGLANL_01130	gene	318				
+FAMGLANL_01130	CDS	318				hypothetical protein
+FAMGLANL_01131	gene	1278	sasA_2			
+FAMGLANL_01131	CDS	1278	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+FAMGLANL_01132	gene	675	arlR			
+FAMGLANL_01132	CDS	675	arlR		COG0745	Response regulator ArlR
+FAMGLANL_01133	gene	555				
+FAMGLANL_01133	CDS	555				hypothetical protein
+FAMGLANL_01134	gene	390				
+FAMGLANL_01134	CDS	390				hypothetical protein
+FAMGLANL_01135	gene	828	panB			
+FAMGLANL_01135	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+FAMGLANL_01136	gene	885				
+FAMGLANL_01136	CDS	885				hypothetical protein
+FAMGLANL_01137	gene	240				
+FAMGLANL_01137	CDS	240				hypothetical protein
+FAMGLANL_01138	gene	201				
+FAMGLANL_01138	CDS	201				hypothetical protein
+FAMGLANL_01139	gene	615	sodA1			
+FAMGLANL_01139	CDS	615	sodA1	1.15.1.1		Superoxide dismutase [Mn] 1
+FAMGLANL_01140	gene	261				
+FAMGLANL_01140	CDS	261				hypothetical protein
+FAMGLANL_01141	gene	2637	alaS			
+FAMGLANL_01141	CDS	2637	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+FAMGLANL_01142	gene	549	lytC_9			
+FAMGLANL_01142	CDS	549	lytC_9	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+FAMGLANL_01143	gene	1149	hemW			
+FAMGLANL_01143	CDS	1149	hemW		COG0635	Heme chaperone HemW
+FAMGLANL_01144	gene	861				
+FAMGLANL_01144	CDS	861				hypothetical protein
+FAMGLANL_01145	gene	1317	cca			
+FAMGLANL_01145	CDS	1317	cca	2.7.7.72		CCA-adding enzyme
+FAMGLANL_01146	gene	444	lepA			
+FAMGLANL_01146	CDS	444	lepA	3.6.5.-	COG0481	Elongation factor 4
+FAMGLANL_01147	gene	1779	uvrA_2			
+FAMGLANL_01147	CDS	1779	uvrA_2			UvrABC system protein A
+FAMGLANL_01148	gene	1263	sstT_2			
+FAMGLANL_01148	CDS	1263	sstT_2		COG3633	Serine/threonine transporter SstT
+FAMGLANL_01149	gene	2244	ileS			
+FAMGLANL_01149	CDS	2244	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FAMGLANL_01150	gene	816				
+FAMGLANL_01150	CDS	816				hypothetical protein
+FAMGLANL_01151	gene	678				
+FAMGLANL_01151	CDS	678				hypothetical protein
+FAMGLANL_01152	gene	654				
+FAMGLANL_01152	CDS	654				hypothetical protein
+FAMGLANL_01153	gene	1188	norV			
+FAMGLANL_01153	CDS	1188	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+FAMGLANL_01154	gene	222				
+FAMGLANL_01154	CDS	222				hypothetical protein
+FAMGLANL_01155	gene	2154	glcB			
+FAMGLANL_01155	CDS	2154	glcB		COG2190	PTS system glucoside-specific EIICBA component
+FAMGLANL_01156	gene	681				
+FAMGLANL_01156	CDS	681				hypothetical protein
+FAMGLANL_01157	gene	459				
+FAMGLANL_01157	CDS	459				hypothetical protein
+FAMGLANL_01158	gene	1095				
+FAMGLANL_01158	CDS	1095				hypothetical protein
+FAMGLANL_01159	gene	1182				
+FAMGLANL_01159	CDS	1182		2.6.1.1		Aspartate aminotransferase
+FAMGLANL_01160	gene	693	glmU_2			
+FAMGLANL_01160	CDS	693	glmU_2	2.7.7.23		Bifunctional protein GlmU
+FAMGLANL_01161	gene	951				
+FAMGLANL_01161	CDS	951				hypothetical protein
+FAMGLANL_01162	gene	1698				
+FAMGLANL_01162	CDS	1698				hypothetical protein
+FAMGLANL_01163	gene	708	ytrE			
+FAMGLANL_01163	CDS	708	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+FAMGLANL_01164	gene	279				
+FAMGLANL_01164	CDS	279				hypothetical protein
+FAMGLANL_01165	gene	525				
+FAMGLANL_01165	CDS	525				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FAMGLANL_01166	gene	909	ppaC			
+FAMGLANL_01166	CDS	909	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+FAMGLANL_01167	gene	1239	queH			
+FAMGLANL_01167	CDS	1239	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+FAMGLANL_01168	gene	1173	ctpB			
+FAMGLANL_01168	CDS	1173	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+FAMGLANL_01169	gene	936	aptB			
+FAMGLANL_01169	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+FAMGLANL_01170	gene	501	aptA			
+FAMGLANL_01170	CDS	501	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+FAMGLANL_01171	gene	813	obg			
+FAMGLANL_01171	CDS	813	obg	3.6.5.-	COG0536	GTPase Obg
+FAMGLANL_01172	gene	390				
+FAMGLANL_01172	CDS	390				hypothetical protein
+FAMGLANL_01173	gene	1218	tdcB			
+FAMGLANL_01173	CDS	1218	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+FAMGLANL_01174	gene	378	yabJ			
+FAMGLANL_01174	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+FAMGLANL_01175	gene	426				
+FAMGLANL_01175	CDS	426				hypothetical protein
+FAMGLANL_01176	gene	318				
+FAMGLANL_01176	CDS	318				hypothetical protein
+FAMGLANL_01177	gene	582				
+FAMGLANL_01177	CDS	582				hypothetical protein
+FAMGLANL_01178	gene	1107				
+FAMGLANL_01178	CDS	1107				hypothetical protein
+FAMGLANL_01179	gene	144				
+FAMGLANL_01179	CDS	144				hypothetical protein
+FAMGLANL_01180	gene	282				
+FAMGLANL_01180	CDS	282				hypothetical protein
+FAMGLANL_01181	gene	846	artP_2			
+FAMGLANL_01181	CDS	846	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+FAMGLANL_01182	gene	675	artQ_2			
+FAMGLANL_01182	CDS	675	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+FAMGLANL_01183	gene	744	artM_2			
+FAMGLANL_01183	CDS	744	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+FAMGLANL_01184	gene	969	bioB			
+FAMGLANL_01184	CDS	969	bioB	2.8.1.6		Biotin synthase
+FAMGLANL_01185	gene	522	dcd			
+FAMGLANL_01185	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+FAMGLANL_01186	gene	402				
+FAMGLANL_01186	CDS	402				hypothetical protein
+FAMGLANL_01187	gene	546				
+FAMGLANL_01187	CDS	546				hypothetical protein
+FAMGLANL_01188	gene	324				
+FAMGLANL_01188	CDS	324				hypothetical protein
+FAMGLANL_01189	gene	933	hemC			
+FAMGLANL_01189	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+FAMGLANL_01190	gene	1524	cysG_2			
+FAMGLANL_01190	CDS	1524	cysG_2	4.99.1.4		Siroheme synthase
+FAMGLANL_01191	gene	2838	dnaE			
+FAMGLANL_01191	CDS	2838	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+FAMGLANL_01192	gene	1125				
+FAMGLANL_01192	CDS	1125				hypothetical protein
+FAMGLANL_01193	gene	738				
+FAMGLANL_01193	CDS	738				hypothetical protein
+FAMGLANL_01194	gene	462	cdd			
+FAMGLANL_01194	CDS	462	cdd	3.5.4.5	COG0295	Cytidine deaminase
+FAMGLANL_01195	gene	273				
+FAMGLANL_01195	CDS	273				hypothetical protein
+FAMGLANL_01196	gene	1050	apbE			
+FAMGLANL_01196	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+FAMGLANL_01197	gene	1809				
+FAMGLANL_01197	CDS	1809				hypothetical protein
+FAMGLANL_01198	gene	1200	gerN			
+FAMGLANL_01198	CDS	1200	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+FAMGLANL_01199	gene	447				
+FAMGLANL_01199	CDS	447				hypothetical protein
+FAMGLANL_01200	gene	702				
+FAMGLANL_01200	CDS	702		1.11.1.15	COG0450	Peroxiredoxin
+FAMGLANL_01201	gene	1851				
+FAMGLANL_01201	CDS	1851				hypothetical protein
+FAMGLANL_01202	gene	381				
+FAMGLANL_01202	CDS	381				hypothetical protein
+FAMGLANL_01203	gene	615				
+FAMGLANL_01203	CDS	615				hypothetical protein
+FAMGLANL_01204	gene	468	rimP			
+FAMGLANL_01204	CDS	468	rimP			Ribosome maturation factor RimP
+FAMGLANL_01205	gene	1272	nusA			
+FAMGLANL_01205	CDS	1272	nusA		COG0195	Transcription termination/antitermination protein NusA
+FAMGLANL_01206	gene	417	yrrK			
+FAMGLANL_01206	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+FAMGLANL_01207	gene	2238				
+FAMGLANL_01207	CDS	2238				hypothetical protein
+FAMGLANL_01208	gene	480				
+FAMGLANL_01208	CDS	480				hypothetical protein
+FAMGLANL_01209	gene	744	accA			
+FAMGLANL_01209	CDS	744	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+FAMGLANL_01210	gene	858	accD			
+FAMGLANL_01210	CDS	858	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+FAMGLANL_01211	gene	396	accC			
+FAMGLANL_01211	CDS	396	accC	6.3.4.14	COG0439	Biotin carboxylase
+FAMGLANL_01212	gene	651	yqfL			
+FAMGLANL_01212	CDS	651	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+FAMGLANL_01213	gene	690	trmK			
+FAMGLANL_01213	CDS	690	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+FAMGLANL_01214	gene	804				
+FAMGLANL_01214	CDS	804			COG0327	GTP cyclohydrolase 1 type 2 
+FAMGLANL_01215	gene	213				
+FAMGLANL_01215	CDS	213				hypothetical protein
+FAMGLANL_01216	gene	735				
+FAMGLANL_01216	CDS	735		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+FAMGLANL_01217	gene	852				
+FAMGLANL_01217	CDS	852				hypothetical protein
+FAMGLANL_01218	gene	1020	aroE			
+FAMGLANL_01218	CDS	1020	aroE	1.1.1.25		Shikimate dehydrogenase (NADP(+))
+FAMGLANL_01219	gene	2355				
+FAMGLANL_01219	CDS	2355				hypothetical protein
+FAMGLANL_01220	gene	993				
+FAMGLANL_01220	CDS	993				hypothetical protein
+FAMGLANL_01221	gene	600				
+FAMGLANL_01221	CDS	600				hypothetical protein
+FAMGLANL_01222	gene	672				
+FAMGLANL_01222	CDS	672				hypothetical protein
+FAMGLANL_01223	gene	762	pgcA			
+FAMGLANL_01223	CDS	762	pgcA	5.4.2.2		Phosphoglucomutase
+FAMGLANL_01224	gene	561	efp			
+FAMGLANL_01224	CDS	561	efp		COG0231	Elongation factor P
+FAMGLANL_01225	gene	708	rnc			
+FAMGLANL_01225	CDS	708	rnc	3.1.26.3	COG0571	Ribonuclease 3
+FAMGLANL_01226	gene	552	bioY			
+FAMGLANL_01226	CDS	552	bioY		COG1268	Biotin transporter BioY
+FAMGLANL_01227	gene	825	aroF			
+FAMGLANL_01227	CDS	825	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+FAMGLANL_01228	gene	879	alr1_2			
+FAMGLANL_01228	CDS	879	alr1_2	5.1.1.1	COG0787	Alanine racemase 1
+FAMGLANL_01229	gene	1053	lysA			
+FAMGLANL_01229	CDS	1053	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+FAMGLANL_01230	gene	513	ftsY			
+FAMGLANL_01230	CDS	513	ftsY		COG0552	Signal recognition particle receptor FtsY
+FAMGLANL_01231	gene	705				
+FAMGLANL_01231	CDS	705				hypothetical protein
+FAMGLANL_01232	gene	777	yddE			
+FAMGLANL_01232	CDS	777	yddE	5.1.-.-	COG0384	putative isomerase YddE
+FAMGLANL_01233	gene	513				
+FAMGLANL_01233	CDS	513				hypothetical protein
+FAMGLANL_01234	gene	1164	aspS			
+FAMGLANL_01234	CDS	1164	aspS	6.1.1.12		Aspartate--tRNA ligase
+FAMGLANL_01235	gene	315	csoR			
+FAMGLANL_01235	CDS	315	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+FAMGLANL_01236	gene	477				
+FAMGLANL_01236	CDS	477				hypothetical protein
+FAMGLANL_01237	gene	2103	smc			
+FAMGLANL_01237	CDS	2103	smc		COG1196	Chromosome partition protein Smc
+FAMGLANL_01238	gene	1011	mmpA			
+FAMGLANL_01238	CDS	1011	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+FAMGLANL_01239	gene	1056	ispG			
+FAMGLANL_01239	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+FAMGLANL_01240	gene	921	ntpJ			
+FAMGLANL_01240	CDS	921	ntpJ			Potassium/sodium uptake protein NtpJ
+FAMGLANL_01241	gene	675	ktrA			
+FAMGLANL_01241	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+FAMGLANL_01242	gene	771	aviRb			
+FAMGLANL_01242	CDS	771	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+FAMGLANL_01243	gene	273				
+FAMGLANL_01243	CDS	273				hypothetical protein
+FAMGLANL_01244	gene	168				
+FAMGLANL_01244	CDS	168				hypothetical protein
+FAMGLANL_01245	gene	1314	ugtP_2			
+FAMGLANL_01245	CDS	1314	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+FAMGLANL_01246	gene	72				
+FAMGLANL_01246	tRNA	72				tRNA-Glu(ctc)
+FAMGLANL_01247	gene	74				
+FAMGLANL_01247	tRNA	74				tRNA-Gly(tcc)
+FAMGLANL_01248	gene	726				
+FAMGLANL_01248	CDS	726				hypothetical protein
+FAMGLANL_01249	gene	522	apt			
+FAMGLANL_01249	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+FAMGLANL_01250	gene	1716				
+FAMGLANL_01250	CDS	1716				hypothetical protein
+FAMGLANL_01251	gene	75				
+FAMGLANL_01251	tRNA	75				tRNA-Arg(cct)
+FAMGLANL_01252	gene	402				
+FAMGLANL_01252	CDS	402				hypothetical protein
+FAMGLANL_01253	gene	75				
+FAMGLANL_01253	tRNA	75				tRNA-Arg(tcg)
+FAMGLANL_01254	gene	165				
+FAMGLANL_01254	CDS	165				hypothetical protein
+FAMGLANL_01255	gene	858				
+FAMGLANL_01255	CDS	858				hypothetical protein
+FAMGLANL_01256	gene	729	lnrL_2			
+FAMGLANL_01256	CDS	729	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+FAMGLANL_01257	gene	369	ytrA			
+FAMGLANL_01257	CDS	369	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+FAMGLANL_01258	gene	876	hslO			
+FAMGLANL_01258	CDS	876	hslO		COG1281	33 kDa chaperonin
+FAMGLANL_01259	gene	786	COQ5_2			
+FAMGLANL_01259	CDS	786	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FAMGLANL_01260	gene	342	rplQ			
+FAMGLANL_01260	CDS	342	rplQ		COG0203	50S ribosomal protein L17
+FAMGLANL_01261	gene	948	rpoA			
+FAMGLANL_01261	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+FAMGLANL_01262	gene	402	rpsK			
+FAMGLANL_01262	CDS	402	rpsK			30S ribosomal protein S11
+FAMGLANL_01263	gene	369	rpsM			
+FAMGLANL_01263	CDS	369	rpsM			30S ribosomal protein S13
+FAMGLANL_01264	gene	1494				
+FAMGLANL_01264	CDS	1494				hypothetical protein
+FAMGLANL_01265	gene	369				
+FAMGLANL_01265	CDS	369				hypothetical protein
+FAMGLANL_01266	gene	234				
+FAMGLANL_01266	CDS	234				hypothetical protein
+FAMGLANL_01267	gene	273	rpsP			
+FAMGLANL_01267	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+FAMGLANL_01268	gene	1359	ffh			
+FAMGLANL_01268	CDS	1359	ffh		COG0541	Signal recognition particle protein
+FAMGLANL_01269	gene	354				
+FAMGLANL_01269	CDS	354				hypothetical protein
+FAMGLANL_01270	gene	750				
+FAMGLANL_01270	CDS	750				hypothetical protein
+FAMGLANL_01271	gene	1275	pyrC			
+FAMGLANL_01271	CDS	1275	pyrC	3.5.2.3	COG0044	Dihydroorotase
+FAMGLANL_01272	gene	654	macB_2			
+FAMGLANL_01272	CDS	654	macB_2	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+FAMGLANL_01273	gene	107				
+FAMGLANL_01273	rRNA	107				5S ribosomal RNA
+FAMGLANL_01274	gene	1506	speA			
+FAMGLANL_01274	CDS	1506	speA	4.1.1.19	COG1982	Arginine decarboxylase
+FAMGLANL_01275	gene	411				
+FAMGLANL_01275	CDS	411				hypothetical protein
+FAMGLANL_01276	gene	1236	baiN			
+FAMGLANL_01276	CDS	1236	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+FAMGLANL_01277	gene	399				
+FAMGLANL_01277	CDS	399				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+FAMGLANL_01278	gene	573	recA			
+FAMGLANL_01278	CDS	573	recA		COG0468	Protein RecA
+FAMGLANL_01279	gene	1326	guaB			
+FAMGLANL_01279	CDS	1326	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+FAMGLANL_01280	gene	492	aroC			
+FAMGLANL_01280	CDS	492	aroC	4.2.3.5	COG0082	Chorismate synthase
+FAMGLANL_01281	gene	780	aroK			
+FAMGLANL_01281	CDS	780	aroK	2.7.1.71		Shikimate kinase
+FAMGLANL_01282	gene	792				
+FAMGLANL_01282	CDS	792				hypothetical protein
+FAMGLANL_01283	gene	1182	fieF			
+FAMGLANL_01283	CDS	1182	fieF			Ferrous-iron efflux pump FieF
+FAMGLANL_01284	gene	348	rbfA			
+FAMGLANL_01284	CDS	348	rbfA			Ribosome-binding factor A
+FAMGLANL_01285	gene	1593	infB			
+FAMGLANL_01285	CDS	1593	infB			Translation initiation factor IF-2
+FAMGLANL_01286	gene	1893	glyS			
+FAMGLANL_01286	CDS	1893	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+FAMGLANL_01287	gene	591				
+FAMGLANL_01287	CDS	591				hypothetical protein
+FAMGLANL_01288	gene	456				
+FAMGLANL_01288	CDS	456				hypothetical protein
+FAMGLANL_01289	gene	843				
+FAMGLANL_01289	CDS	843				hypothetical protein
+FAMGLANL_01290	gene	921	mepA_3			
+FAMGLANL_01290	CDS	921	mepA_3		COG0534	Multidrug export protein MepA
+FAMGLANL_01291	gene	1623	deaD			
+FAMGLANL_01291	CDS	1623	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+FAMGLANL_01292	gene	762	ribX			
+FAMGLANL_01292	CDS	762	ribX			Riboflavin transport system permease protein RibX
+FAMGLANL_01293	gene	1023	thiY			
+FAMGLANL_01293	CDS	1023	thiY		COG0715	Formylaminopyrimidine-binding protein
+FAMGLANL_01294	gene	435	rlhA			
+FAMGLANL_01294	CDS	435	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+FAMGLANL_01295	gene	549	rbr			
+FAMGLANL_01295	CDS	549	rbr		COG1592	Rubrerythrin
+FAMGLANL_01296	gene	372	perR			
+FAMGLANL_01296	CDS	372	perR		COG0735	Peroxide operon regulator
+FAMGLANL_01297	gene	966	whiA			
+FAMGLANL_01297	CDS	966	whiA		COG1481	putative cell division protein WhiA
+FAMGLANL_01298	gene	726	gamA			
+FAMGLANL_01298	CDS	726	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+FAMGLANL_01299	gene	783				
+FAMGLANL_01299	CDS	783				hypothetical protein
+FAMGLANL_01300	gene	1464				
+FAMGLANL_01300	CDS	1464				hypothetical protein
+FAMGLANL_01301	gene	1263	hisS			
+FAMGLANL_01301	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+FAMGLANL_01302	gene	1002	add			
+FAMGLANL_01302	CDS	1002	add	3.5.4.4	COG1816	Adenosine deaminase
+FAMGLANL_01303	gene	1239	aroA			
+FAMGLANL_01303	CDS	1239	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+FAMGLANL_01304	gene	627	gloC			
+FAMGLANL_01304	CDS	627	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+FAMGLANL_01305	gene	450	dtd			
+FAMGLANL_01305	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+FAMGLANL_01306	gene	279	relA			
+FAMGLANL_01306	CDS	279	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+FAMGLANL_01307	gene	285				
+FAMGLANL_01307	CDS	285				hypothetical protein
+FAMGLANL_01308	gene	825				
+FAMGLANL_01308	CDS	825				hypothetical protein
+FAMGLANL_01309	gene	453	panC			
+FAMGLANL_01309	CDS	453	panC	6.3.2.1	COG0414	Pantothenate synthetase
+FAMGLANL_01310	gene	453				
+FAMGLANL_01310	CDS	453				hypothetical protein
+FAMGLANL_01311	gene	1176	murC			
+FAMGLANL_01311	CDS	1176	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+FAMGLANL_01312	gene	624	msrB			
+FAMGLANL_01312	CDS	624	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+FAMGLANL_01313	gene	798	ubiB			
+FAMGLANL_01313	CDS	798	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
