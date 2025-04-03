@@ -32,16 +32,19 @@ Quality control was performed using CheckM (version 1.2.3), a tool that estimate
 Since the taxonomic placement of the MAGs was initially unknown, the Lineage Workflow, which builds a phylogenetic tree to determine the appropriate marker set, would have been the ideal approach. However, due to its high computational cost, the taxonomy workflow was used instead, with the analysis first conducted at the Domain level using bacterial marker genes.
 
 Based on completeness and contamination scores, the MAGs were categorized into three quality groups:  
-•	Low-quality: Completeness < 50% or Contamination > 5%
-•	Medium-quality: Completeness ≥ 50% and Contamination ≤ 5%
-•	High-quality: Completeness ≥ 90% and Contamination ≤ 5%
+>	Low-quality: Completeness < 50% or Contamination > 5%
+
+>	Medium-quality: Completeness ≥ 50% and Contamination ≤ 5%
+
+>	High-quality: Completeness ≥ 90% and Contamination ≤ 5%
 
 Following the initial assessment, PhyloPhlAn was used to further evaluate the quality of the MAGs. Given their high quality, CheckM was re-run at the Genus level to refine the quality control and validate the results. This approach aimed to improve the accuracy of completeness and contamination estimates by considering a more specific taxonomic reference.
 
 ```
 ## command for domain level
 $ checkm taxonomy_wf domain Bacteria mags/ checkm_output_domain_level/ -t 8  
-
+```
+```
 ## command for genus level
 $ checkm taxonomy_wf genus Peptostreptococcus mags/ checkm_output_genus_level/ -t 8
 ```
