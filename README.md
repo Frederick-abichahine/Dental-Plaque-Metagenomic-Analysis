@@ -4,7 +4,7 @@
 ---
 ## Frederick , FAC, Abi Chahine
 M.Sc. in Quantitative & Computational Biology, University of Trento, Italy
-## Pietro, PE, Emidi
+## Pietro Maria, PME, Emidi
 M.Sc. in Quantitative & Computational Biology, University of Trento, Italy 
 ## Andrea, AN, Naclerio
 M.Sc. in Quantitative & Computational Biology, University of Trento, Italy
