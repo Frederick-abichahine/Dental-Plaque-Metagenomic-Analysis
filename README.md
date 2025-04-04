@@ -50,9 +50,7 @@ $ checkm taxonomy_wf genus Peptostreptococcus mags/ checkm_output_genus_level/ -
 ```
 
 ### Taxonomic Analysis
-Taxonomic analysis was performed using PhyloPhlAn (version 3.0.3) with the metagenomic workflow to reconstruct the phylogenetic profiles of the MAGs. To optimize computational efficiency, each MAG was mapped to the single closest SGB available in the CMG2425 database, a tailored dataset designed to enhance computational speed and accuracy. This approach enabled a more precise taxonomic assignment while reducing processing time.
-
-By leveraging the PhyloPhlAn metagenomic workflow, a targeted classification strategy was employed, ensuring that each MAG was assigned to the most relevant taxonomic group. This method facilitated an efficient and computationally optimized taxonomic classification of the MAGs while ensuring accurate phylogenetic profiling.
+Taxonomic analysis was performed using PhyloPhlAn (version 3.0.3) by leveraging the metagenomic workflow to reconstruct the phylogenetic profiles of the MAGs. To optimize computational efficiency, each MAG was mapped to the single closest SGB available in the CMG2425 database, a tailored dataset designed to enhance computational speed and accuracy. This approach enabled a more precise taxonomic assignment while reducing processing time.
 
 ```
 ## Command for the metagenomic workflow of PhyloPhlAn
