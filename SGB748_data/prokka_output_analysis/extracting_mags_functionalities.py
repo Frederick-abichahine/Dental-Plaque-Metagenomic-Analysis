@@ -8,6 +8,9 @@ In this script we exclude hypothetical proteins from the analysis.
 import os
 import math
 from collections import defaultdict
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
 
 # Function to parse the product column from Prokka .tsv files
 def parse_product_column(filepath):
@@ -65,7 +68,7 @@ def find_common_products(element_to_mags, total_mags, percent):
     }
 
 if __name__ == "__main__":
-    prokka_output_path = "./prokka_output/"
+    prokka_output_path = "./SGB748_data/prokka_output/"
     mag_products = get_all_mag_products(prokka_output_path)
     total_mags = len(mag_products)
     
@@ -94,7 +97,55 @@ if __name__ == "__main__":
     print(f"\n>> Products in ≥0% of MAGs ({len(common_0)})")
     # print(sorted(common_0))
     
+
+    # Plotting the number of products shared across MAGs
+    thresholds = ['≥0%', '≥70%', '≥80%', '≥90%', '100%']
+    counts = [len(common_0), len(common_70), len(common_80), len(common_90), len(common_100)]
+    colors = sns.color_palette("Set2", len(thresholds))  # You can use "pastel", "husl", etc.
+
+    plt.figure(figsize=(8, 5))
+    bars = plt.bar(thresholds, counts, color=colors, edgecolor='black', linewidth=1.2)
+    plt.title("Number of Non-Hypothetical Gene Products Shared Across MAGs", fontsize=14, weight='bold')
+    plt.xlabel("Presence Threshold", fontsize=12)
+    plt.ylabel("Number of Products", fontsize=12)
     
-    
-    
-    
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(bar.get_x() + bar.get_width()/2, height + 5, str(height), ha='center', va='bottom', fontsize=10)
+        
+    plt.grid(axis='y', linestyle='--', alpha=0.6)
+    plt.tight_layout()
+    plt.savefig("./SGB748_data/prokka_output_analysis/products_shared_across_mags.png", dpi=300)
+    plt.show()
+
+    # Table for products found in 100% of MAGs
+    df_common_100 = pd.DataFrame(sorted(common_100), columns=["Product"])
+    fig, ax = plt.subplots(figsize=(10, 0.5 * len(df_common_100) + 1))
+    ax.axis('off')
+    table = ax.table(
+        cellText=df_common_100.values,
+        colLabels=["Non-Hypothetical Products Found in 100% of MAGs"],
+        cellLoc='left',
+        colLoc='left',
+        loc='center'
+    )
+    table.auto_set_font_size(False)
+    table.set_fontsize(11)
+    table.auto_set_column_width([0])
+    table.scale(1.5, 1.5)
+
+    for key, cell in table.get_celld().items():
+        row, col = key
+        if row == 0:
+            cell.set_text_props(weight='bold', color='white')
+            cell.set_facecolor('#4C72B0')
+        elif row % 2 == 0:
+            cell.set_facecolor('#f2f2f2')
+        else:
+            cell.set_facecolor('white')
+        cell.set_edgecolor('grey')
+        cell.set_linewidth(0.5)
+
+    plt.tight_layout()
+    plt.savefig("./SGB748_data/prokka_output_analysis/products_in_100_percent_MAGs.png", dpi=300)
+    plt.show()
