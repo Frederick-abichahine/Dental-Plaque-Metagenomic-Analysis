@@ -104,21 +104,21 @@ Genome size, defined as the total nucleotide length of the genome, was observed 
 
 The GC content of the MAGs showed minimal variation across the dataset, with values consistently close to the average. This uniformity suggests that the genomes likely originate from a single strain or closely related bacterial populations (Figure 1.C).
 
-<img width="100%" height="300" alt="Coding" src="README_figues/figure_1.png">
+<img width="100%" height="300" alt="Coding" src="README_figures/figure_1.png">
 
 Following the taxonomic assignment using PhyloPhlAn, the species was identified as Peptostreptococcus stomatis, an obligate anaerobe commonly found in the human oral cavity and associated with colorectal cancer, periodontal disease and other anaerobic infections [1][10]. Given this species identification, it would have been ideal to rerun CheckM at the species-level, however, the species was not found within the CheckM reference database. Instead, it was rerun using the genus-level classification (Peptostreptococcus) to compare the quality control metrics with the initial domain-level analysis (Figure 2) [7].
 
 Notably, genome completeness exhibited variability, with an overall increase, but contamination levels also rose (Figures 2.A and 2.B). Despite these fluctuations, the overall quality classification of the samples remained consistent. Interestingly, the strain heterogeneity for some genomes increased, while the two genomes that initially had 100% strain heterogeneity showed a reduction to 30%. This suggests that these genomes likely originate from related Peptostreptococcus strains rather than from multiple distinct strains.
 
-<img width="100%" height="300" alt="Coding" src="README_figues/figure_2.png">
+<img width="100%" height="300" alt="Coding" src="README_figures/figure_2.png">
 
 Additionally, comparing the presence and absence of marker genes between the domain-level and genus-level analyses confirmed that all genomes belong to the Peptostreptococcus genus. Moreover, the relatively lower completeness observed in medium-quality samples appears to be primarily due to missing genetic information rather than contamination or misclassification.
 
 Following quality assessment, genome annotation was performed using Prokka, which identified an average of 1,295 coding sequences (CDSs) across all MAGs [9]. These CDSs include both known proteins, with characterized functions, and hypothetical proteins, for which no functional annotation could be assigned (Figure 3).
 
-<img width="100%" height="300" alt="Coding" src="README_figues/figure_3.png">
+<img width="100%" height="300" alt="Coding" src="README_figures/figure_3.png">
 
-<img width="100%" height="300" alt="Coding" src="README_figues/figure_4.png">
+<img width="100%" height="300" alt="Coding" src="README_figures/figure_4.png">
 
 To investigate functional similarity across the dataset, all non-hypothetical CDS products were extracted and compared between the MAGs. A total of 1,140 distinct products were identified. Of these, 23 products were shared across 100% of the genomes, 227 were present in ≥90%, 576 in ≥80%, and 745 in ≥70% of the MAGs (Figure 4).
 
@@ -128,13 +128,13 @@ Utilizing Roary, the pangenome, representing the complete set of genes present a
 
 Notably, when comparing this result to the earlier analysis of the genome annotation with Prokka, it becomes apparent that approximately 66% of the identified genes encode hypothetical proteins. This indicates that only around 34% of the genome has been functionally annotated, highlighting a significant gap in current knowledge regarding the biology of this species.
 
-<img width="100%" height="300" alt="Coding" src="README_figues/figure_5.png">
+<img width="100%" height="300" alt="Coding" src="README_figures/figure_5.png">
 
 As illustrated in Figure 5, the pangenome accumulation curve does not reach a plateau, indicating that the pangenome is open. An open pangenome reflects a high degree of genomic plasticity, suggesting that these strains frequently acquire new genes through horizontal gene transfer or mutation events [5]. This adaptability may reflect the ecological flexibility of the species and its ability to thrive in diverse or dynamic environments.
 
 To further explore the phylogenetic relationships among the MAGs, the FastTreeMP function from Roary was used to generate two phylogenetic trees in Newick format: one including all MAGs in the SGB748 (Figure 6.A), and another considering only the high-quality MAGs (Figure 6.B) [6]. These trees presented notable differences compared to the initial tree produced by Roary’s Python visualization script (supplementary material). To enhance interpretability, the ETE3 Python module was employed to associate each genome with host metadata, particularly the health condition categories: healthy, mucositis, and peri-implantitis [2].
 
-<img width="100%" height="300" alt="Coding" src="README_figues/figure_6.png">
+<img width="100%" height="300" alt="Coding" src="README_figures/figure_6.png">
 
 In the full dataset (Figure 6.A), the tree reveals two primary regions. The upper region displays a relatively even distribution of MAGs across all host conditions, suggesting the presence of a commensal strain of Peptostreptococcus stomatis that may be broadly distributed and not directly associated with disease. In contrast, the lower region contains two unrelated monophyletic clusters, one predominantly composed of mucositis-associated MAGs and the other of peri-implantitis-associated MAGs. This phylogenetic separation points to the potential existence of two disease-associated strains, each possibly linked to a distinct pathological progression.
 
